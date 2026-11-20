@@ -1,0 +1,12 @@
+.git
+.venv
+.tools
+__pycache__
+**/__pycache__
+*.py[cod]
+.pytest_cache
+.ruff_cache
+.env
+runs
+ui/jobs
+ui/uploads

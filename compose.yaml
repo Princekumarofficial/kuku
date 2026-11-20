@@ -1,0 +1,17 @@
+services:
+  app:
+    build: .
+    restart: unless-stopped
+    init: true
+    ports:
+      - "${KUKU_PORT:-8502}:8501"
+    volumes:
+      - ./data:/app/data:ro
+      - kuku_jobs:/app/ui/jobs
+      - kuku_uploads:/app/ui/uploads
+      - kuku_runs:/app/runs
+
+volumes:
+  kuku_jobs:
+  kuku_uploads:
+  kuku_runs:
