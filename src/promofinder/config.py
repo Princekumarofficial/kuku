@@ -36,6 +36,7 @@ class PipelineConfig(SettingsModel):
     max_candidates_per_episode: int = Field(default=12, ge=1)
     top_k_episode: int = Field(default=5, ge=1)
     top_k_series: int = Field(default=10, ge=1)
+    check_spoilers: bool = True
     cross_episode: bool = False
     max_cross_candidates: int = Field(default=8, ge=1)
 
