@@ -223,6 +223,28 @@ class PromoPipeline:
         )
         write_json(self.run_dir / "evaluation_failures.json", failures)
 
+        return self.finish(
+            episodes,
+            candidates,
+            builder,
+            evaluations,
+            failures,
+            series,
+            construction_diagnostics,
+            len(episodes) < len(files),
+        )
+
+    def finish(
+        self,
+        episodes,
+        candidates,
+        builder,
+        evaluations,
+        failures,
+        series,
+        construction_diagnostics,
+        partial_series,
+    ):
         self._stage("rank_and_export")
         ranker = PromoRanker(builder)
         accepted, rejected = [], list(failures)
@@ -260,7 +282,7 @@ class PromoPipeline:
             "schema_version": "1.0",
             "series_id": series.series_id,
             "scope": {"type": "series"},
-            "partial_series": len(episodes) < len(files),
+            "partial_series": partial_series,
             "promos": selected,
             "rejected_candidates": rejected + excluded,
         }

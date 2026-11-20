@@ -1,6 +1,7 @@
 """Narrative stages. Evidence checks run inside the router's repair/fallback loop."""
 
 import json
+import re
 
 from .compact import alias, blind_clip, timeline
 from .llm import LLMRouter
@@ -17,6 +18,12 @@ from .schemas import (
 
 
 def check_refs(refs, allowed: set[str]) -> None:
+    # Accept an existing evidence ID followed by whitespace-delimited annotations.
+    # Never guess an ID or accept references belonging to another candidate.
+    for index, ref in enumerate(refs):
+        match = re.fullmatch(r"(EP\d+:E\d+)\s+.+", ref, flags=re.DOTALL)
+        if ref not in allowed and match and match.group(1) in allowed:
+            refs[index] = match.group(1)
     unknown = set(refs) - allowed
     if unknown:
         raise ValueError(f"Unknown evidence references: {sorted(unknown)}")
@@ -179,7 +186,8 @@ class PromoEvaluator:
         def validate(result):
             if result.candidate_id != candidate.candidate_id:
                 raise ValueError("Wrong candidate ID")
-            check_refs(result.hook.evidence_refs + result.cliffhanger.evidence_refs, allowed)
+            check_refs(result.hook.evidence_refs, allowed)
+            check_refs(result.cliffhanger.evidence_refs, allowed)
 
         return self.llm.call(
             "blind_evaluation",
