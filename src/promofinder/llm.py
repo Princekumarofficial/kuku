@@ -126,6 +126,9 @@ class OpenAICompatibleProvider:
 
 
 class LLMRouter:
+    def prepare(self, stage, tasks):
+        """Optional bulk prefetch hook; standard providers execute on demand."""
+
     def __init__(
         self, config: Config, cache_dir: Path, providers: dict[str, LLMProvider] | None = None
     ):

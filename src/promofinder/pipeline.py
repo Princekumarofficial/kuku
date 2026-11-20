@@ -93,6 +93,13 @@ class PromoPipeline:
             return self.run_dir
 
         self._stage("episode_analysis")
+        self.llm.prepare(
+            "episode_analysis",
+            [
+                lambda episode=episode: self.episode_analyzer.analyze(episode)
+                for episode in episodes
+            ],
+        )
         analyses = []
         for episode in episodes:
             analysis = self.episode_analyzer.analyze(episode)
@@ -107,6 +114,15 @@ class PromoPipeline:
         builder = CandidateBuilder(episodes)
         candidates = {}
         construction_diagnostics = {}
+        self.llm.prepare(
+            "candidate_discovery",
+            [
+                lambda episode=episode, analysis=analysis: self.discoverer.episode(
+                    episode, analysis, series
+                )
+                for episode, analysis in zip(episodes, analyses)
+            ],
+        )
         for episode, analysis in zip(episodes, analyses):
             discovery = self.discoverer.episode(episode, analysis, series)
             write_json(self.run_dir / "discovery" / f"{episode.episode_id}.json", discovery)
@@ -151,6 +167,21 @@ class PromoPipeline:
         write_json(self.run_dir / "construction_diagnostics.json", construction_diagnostics)
 
         self._stage("blind_evaluation_and_spoiler_analysis")
+        self.llm.prepare(
+            "blind_evaluation",
+            [
+                lambda candidate=candidate: self.evaluator.blind(candidate)
+                for candidate in candidates.values()
+            ],
+        )
+        if self.config.pipeline.check_spoilers:
+            self.llm.prepare(
+                "spoiler_analysis",
+                [
+                    lambda candidate=candidate: self.evaluator.spoiler(candidate, series, analyses)
+                    for candidate in candidates.values()
+                ],
+            )
         evaluations, failures = [], []
         for index, candidate in enumerate(candidates.values(), start=1):
             progress = f"Candidate {index}/{len(candidates)} {candidate.candidate_id}"
@@ -161,11 +192,14 @@ class PromoPipeline:
                 write_json(
                     self.run_dir / "evaluations" / f"{candidate.candidate_id}_blind.json", blind
                 )
-                log.info("%s: spoiler analysis", progress)
-                spoiler = self.evaluator.spoiler(candidate, series, analyses)
-                write_json(
-                    self.run_dir / "evaluations" / f"{candidate.candidate_id}_spoiler.json", spoiler
-                )
+                spoiler = None
+                if self.config.pipeline.check_spoilers:
+                    log.info("%s: spoiler analysis", progress)
+                    spoiler = self.evaluator.spoiler(candidate, series, analyses)
+                    write_json(
+                        self.run_dir / "evaluations" / f"{candidate.candidate_id}_spoiler.json",
+                        spoiler,
+                    )
                 evaluations.append((candidate, blind, spoiler))
                 log.info("%s: evaluated in %.1fs", progress, time.monotonic() - started)
             except LLMError as error:

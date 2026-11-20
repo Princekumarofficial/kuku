@@ -1,0 +1,4 @@
+jobs/
+uploads/
+__pycache__/
+test-temp*/

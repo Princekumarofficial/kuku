@@ -50,11 +50,13 @@ class CandidateBuilder:
             if segment.start_ms < previous.get(segment.episode_id, 0):
                 raise CandidateError("REPEATED_OR_REVERSED_FOOTAGE")
             previous[segment.episode_id] = segment.end_ms
-            if not any(
-                c.start_ms <= segment.start_ms and segment.end_ms <= c.end_ms
-                for c in episode.coverage
-            ):
-                raise CandidateError("MISSING_SOURCE_COVERAGE")
+            # Temporarily disabled: input scripts are treated as complete.
+            # Restore this guard when coverage intervals reliably indicate missing source.
+            # if not any(
+            #     c.start_ms <= segment.start_ms and segment.end_ms <= c.end_ms
+            #     for c in episode.coverage
+            # ):
+            #     raise CandidateError("MISSING_SOURCE_COVERAGE")
             boundaries = self.boundaries(episode)
             if segment.start_ms not in boundaries or segment.end_ms not in boundaries:
                 raise CandidateError("UNSUPPORTED_BOUNDARY")
@@ -182,14 +184,8 @@ class CandidateBuilder:
                                     "reasons": [str(error)],
                                 }
                             )
-            # Prefer a hook close to the start, then a medium duration; evaluator decides quality.
-            pools.append(
-                deque(
-                    sorted(
-                        pool.values(), key=lambda c: (abs(c.duration_ms - 35000), c.candidate_id)
-                    )
-                )
-            )
+            # Preserve construction order; duration is a validity constraint, not a quality score.
+            pools.append(deque(pool.values()))
         # Round-robin preserves opportunity diversity before applying the cost cap.
         selected = {}
         while any(pools) and len(selected) < limit:

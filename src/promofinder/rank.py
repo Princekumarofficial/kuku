@@ -9,7 +9,7 @@ class PromoRanker:
         self.builder = builder
 
     def assess(
-        self, candidate: PromoCandidate, blind: BlindEvaluation, spoiler: SpoilerEvaluation
+        self, candidate: PromoCandidate, blind: BlindEvaluation, spoiler: SpoilerEvaluation | None
     ) -> tuple[dict | None, list[str]]:
         reasons = []
         try:
@@ -18,15 +18,16 @@ class PromoRanker:
                 reasons.append("CANDIDATE_SOURCE_MISMATCH")
         except CandidateError as error:
             reasons.append(str(error))
-        if (
-            blind.candidate_id != candidate.candidate_id
-            or spoiler.candidate_id != candidate.candidate_id
+        if blind.candidate_id != candidate.candidate_id or (
+            spoiler is not None and spoiler.candidate_id != candidate.candidate_id
         ):
             reasons.append("EVALUATION_ID_MISMATCH")
         evidence = {e.ref for e in candidate.clip_events}
         if not set(blind.hook.evidence_refs + blind.cliffhanger.evidence_refs) <= evidence:
             reasons.append("UNKNOWN_EVIDENCE")
-        if any(not set(r.event_refs) <= evidence for r in spoiler.revealed_information):
+        if spoiler is not None and any(
+            not set(r.event_refs) <= evidence for r in spoiler.revealed_information
+        ):
             reasons.append("UNKNOWN_SPOILER_EVIDENCE")
         hook_events = [e for e in candidate.clip_events if e.ref in blind.hook.evidence_refs]
         if not any(e.relative_start_ms <= 3000 for e in hook_events):
@@ -44,7 +45,7 @@ class PromoRanker:
             reasons.append("WEAK_CLIFFHANGER")
         if blind.standalone.score_0_10 < 5:
             reasons.append("LOW_STANDALONE_CLARITY")
-        if spoiler.resolves_central_mystery:
+        if spoiler is not None and spoiler.resolves_central_mystery:
             reasons.append("CENTRAL_MYSTERY_RESOLVED")
         if reasons:
             return None, reasons
@@ -54,9 +55,17 @@ class PromoRanker:
             + 0.25 * blind.standalone.score_0_10
             + 0.15 * blind.emotion.score_0_10
         )
-        score = round(max(0, min(10, base - 0.15 * spoiler.spoiler_damage_0_10)), 4)
+        score = round(
+            max(
+                0,
+                min(10, base - (0.15 * spoiler.spoiler_damage_0_10 if spoiler is not None else 0)),
+            ),
+            4,
+        )
         return {
             "candidate_id": candidate.candidate_id,
+            "spoiler_check": "checked" if spoiler is not None else "not_checked",
+            "scoring_mode": "spoiler_adjusted" if spoiler is not None else "blind_only",
             "segments": [s.model_dump() for s in candidate.segments],
             "duration_ms": candidate.duration_ms,
             "hook": {"description": blind.hook.reason, "evidence_refs": blind.hook.evidence_refs},
@@ -70,12 +79,15 @@ class PromoRanker:
                 "cliffhanger": blind.cliffhanger.score_0_10,
                 "standalone": blind.standalone.score_0_10,
                 "emotion": blind.emotion.score_0_10,
-                "spoiler_significance": spoiler.spoiler_significance_0_10,
-                "spoiler_damage": spoiler.spoiler_damage_0_10,
+                "spoiler_significance": spoiler.spoiler_significance_0_10
+                if spoiler is not None
+                else None,
+                "spoiler_damage": spoiler.spoiler_damage_0_10 if spoiler is not None else None,
                 "final": score,
             },
             "warnings": [
                 *blind.weaknesses,
+                *(["Spoilers not checked"] if spoiler is None else []),
                 *blind.standalone.missing_context,
                 "Script timestamps; verify against video before editing.",
             ],
