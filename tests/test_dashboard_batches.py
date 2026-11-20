@@ -233,3 +233,13 @@ def test_pipeline_batches_independent_episodes_before_dependent_stages(config, t
         )
         PromoPipeline(config, tmp_path / "runs", router).run(data)
         assert len(submissions) == 4
+
+
+def test_reference_normalization_only_accepts_candidate_evidence():
+    from promofinder.stages import check_refs
+
+    refs = ["EP02:E54 0-2300", "EP02:E55 200-2200 CAMERA: reaction"]
+    check_refs(refs, {"EP02:E54", "EP02:E55"})
+    assert refs == ["EP02:E54", "EP02:E55"]
+    with pytest.raises(ValueError, match="Unknown evidence"):
+        check_refs(["EP99:E54 0-2300"], {"EP02:E54"})
