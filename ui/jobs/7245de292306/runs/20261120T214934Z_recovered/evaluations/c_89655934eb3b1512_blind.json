@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c_89655934eb3b1512",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP35:E58",
+      "EP35:E59"
+    ],
+    "reason": "The clip opens on a tight close-up of an intense, piercing gaze, and within the first 500ms the line 'Because someone wanted you to believe I was dead' raises an immediate question about a faked death."
+  },
+  "cliffhanger": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP35:E69",
+      "EP35:E70"
+    ],
+    "reason": "The final seconds reveal that 'the men behind it are the same men ruling Ashwood now' while the mother's earlier 'Who?' goes unanswered, so the identity of the conspirators is left open at the cut.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Alexander is and why he was presumed dead",
+      "Who the mother is and why she asks 'Who?'",
+      "What the ambush was and who his men were",
+      "What Ashwood is and who rules it",
+      "What the three years of searching produced"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Rage builds from a quiet window moment to him leaning over the table, then drops into a deadly chill in the final line, with close-ups and a raging blizzard reinforcing the tension."
+  },
+  "weaknesses": [
+    "Key names and places such as Ashwood are unexplained for a first-time viewer",
+    "The mother's 'Who?' is repeated without any answer, which may feel like a gap rather than tension",
+    "Much of the dialogue is expository and relies on implied backstory",
+    "The blizzard and window setting are described but offer little plot information"
+  ],
+  "one_line_why_it_works": "A stark close-up and a fast escalation from grief to rage end on a chilling reveal that the conspirators are currently ruling Ashwood, leaving the question of who they are open."
+}

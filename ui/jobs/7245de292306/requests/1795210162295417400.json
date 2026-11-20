@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_e9fea6995b28d116 DURATION_MS=48000\nSEGMENT 1 (playback order)\nEP23:E38 0-2500 CAMERA: Close-up of Juliana's hands snapping the leather journal shut on the bedside table beside an oil lamp.\nEP23:E39 2500-5500 CAMERA: Medium close-up of Juliana resting her hands on the closed journal, looking squarely at Prudence.\nEP23:E40 3000-5500 LADY JULIANA: \"Someone is poisoning her.\"\nEP23:E42 5500-6500 SOUND: Sharp intake of breath from Prudence.\nEP23:E41 5500-8500 CAMERA: Medium shot of Prudence gasping sharply and clamping both hands over her mouth in sheer horror.\nEP23:E43 6000-8000 PRUDENCE: \"Poison?\"\nEP23:E44 8500-12000 CAMERA: Extreme close-up pushing in tight on Lady Juliana's eyes as her expression hardens into fury and righteous disgust.\nEP23:E45 10000-12000 LADY JULIANA: \"Arsenic.\"\nEP23:E46 12000-14500 SOUND: Sudden violent coughing and sputtering from the Duchess.\nEP23:E47 12000-15000 CAMERA: Medium shot as the Duchess chokes and spasms on the bed; Juliana whips around immediately.\nEP23:E48 15000-18500 CAMERA: Medium tracking shot of Juliana rushing to the side table by the window, opening her satchel and setting out glass vials, a bowl, and dried herbal bundles.\nEP23:E50 18500-21000 PRUDENCE: \"Can you save her?\"\nEP23:E49 18500-21500 CAMERA: Close-up of Prudence pleading desperately, tears flowing down her cheeks.\nEP23:E52 21500-24000 LADY JULIANA: \"I can try.\"\nEP23:E51 21500-24500 CAMERA: Medium shot of Juliana uncorking a glass apothecary bottle as the Duchess rests behind her.\nEP23:E53 24500-28500 CAMERA: Top-down close-up of Juliana's soot-smudged hands pouring powdered activated charcoal from a vial into a stone mortar, then tossing in a pinch of crushed dried leaves.\nEP23:E54 28500-31000 CAMERA: Close-up of Juliana's hands vigorously grinding the pestle inside the stone mortar.\nEP23:E55 28500-36000 SOUND: Heavy, rhythmic scraping of stone pestle grinding charcoal and dried herbs.\nEP23:E56 31000-36500 CAMERA: Medium close-up of Juliana grinding intensely, her brow furrowed as she speaks with urgent authority.\nEP23:E57 31500-36000 LADY JULIANA: \"The charcoal may help remove what is still inside her. We must act quickly.\"\nEP23:E58 36200-38000 SOUND: Sudden muffled thump and heavy footsteps echoing from the hallway outside the door!\nEP23:E59 36500-39000 CAMERA: Wide shot of the bedroom door framed through the bed curtains as the Duchess gasps in the bed.\nEP23:E60 39000-40500 CAMERA: Medium shot of Juliana freezing mid-motion, turning her head sharply toward the chamber door.\nEP23:E61 40500-42500 CAMERA: Close-up of the ornate brass door handle on the dark carved wooden door.\nEP23:E62 42500-48000 CAMERA: Close-up of Prudence staring at the door in utter terror, her face drained of all color.\nEP23:E63 42800-48000 PRUDENCE: \"Juliana... someone is coming.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

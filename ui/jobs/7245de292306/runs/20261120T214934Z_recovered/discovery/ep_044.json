@@ -1,0 +1,94 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "opp_01",
+      "episode_id": "ep_044",
+      "concept": "Police Constable arrests Lord Sterling; Catherine's plea to Alexander is rejected",
+      "hook_refs": [
+        "EP44:E4"
+      ],
+      "ending_refs": [
+        "EP44:E37"
+      ],
+      "context_refs": [
+        "EP44:E5",
+        "EP44:E6",
+        "EP44:E7",
+        "EP44:E8"
+      ],
+      "why_promising": "Opens directly on the Crown's arrest order and builds through Sterling's defiance to Alexander's cold rejection of Catherine, ending on the unresolved line 'You were never my Duchess.'"
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_02",
+      "episode_id": "ep_044",
+      "concept": "Catherine's emotional plea to Alexander, who pulls away from her touch",
+      "hook_refs": [
+        "EP44:E18"
+      ],
+      "ending_refs": [
+        "EP44:E41"
+      ],
+      "context_refs": [
+        "EP44:E19",
+        "EP44:E20",
+        "EP44:E29",
+        "EP44:E30"
+      ],
+      "why_promising": "Opens on Catherine's shaken line 'I thought you had died' and escalates through her tearful claims to Alexander's cutting reply that she loved the Duke she thought she would marry."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_03",
+      "episode_id": "ep_044",
+      "concept": "Catherine confronts Alexander over being his Duchess, ending on the reveal of Juliana",
+      "hook_refs": [
+        "EP44:E35"
+      ],
+      "ending_refs": [
+        "EP44:E54"
+      ],
+      "context_refs": [
+        "EP44:E49",
+        "EP44:E50",
+        "EP44:E51"
+      ],
+      "why_promising": "Opens on the direct claim 'I was supposed to be your Duchess!' and runs through Alexander's rebuke to Catherine's gasp at the chained Juliana, leaving the choice unresolved."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_04",
+      "episode_id": "ep_044",
+      "concept": "Rupert forced to his knees by guards while Catherine stays silent",
+      "hook_refs": [
+        "EP44:E11"
+      ],
+      "ending_refs": [
+        "EP44:E37"
+      ],
+      "context_refs": [
+        "EP44:E10",
+        "EP44:E13"
+      ],
+      "why_promising": "Opens on Rupert's frantic shout to Catherine while being pinned, building through Catherine's silent conflict to Alexander's cold rejection."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_05",
+      "episode_id": "ep_044",
+      "concept": "Catherine declares she never stopped loving Alexander, then is rejected and shocked by Juliana's reveal",
+      "hook_refs": [
+        "EP44:E29"
+      ],
+      "ending_refs": [
+        "EP44:E54"
+      ],
+      "context_refs": [
+        "EP44:E30",
+        "EP44:E33"
+      ],
+      "why_promising": "Opens on Catherine's whispered confession and moves through Alexander's rejection to the shock of seeing whom he walks toward, a strong emotional arc with an open ending."
+    }
+  ]
+}

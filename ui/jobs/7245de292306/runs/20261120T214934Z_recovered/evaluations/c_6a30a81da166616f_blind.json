@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_6a30a81da166616f",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP34:E65",
+      "EP34:E66"
+    ],
+    "reason": "The opening line from the Lord, 'She calls it healing.', starts within 0-3000ms and sets up an accusation about an unseen 'she'. The rising confrontation in the courtroom makes a first-time viewer want to know what happens next."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP34:E82",
+      "EP34:E83"
+    ],
+    "reason": "The clip ends on the Judge's unanswered question, 'Without the approval of a licensed physician?', with Lady Juliana's response not shown. The question is still open at the final 3000ms, so this is an unresolved hook rather than a resolved intense ending.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Who Lady Juliana is and what she is accused of",
+      "Who the Lord is and his relationship to Lady Juliana",
+      "What the herbs were and who received them",
+      "The illnesses or deaths the trial concerns",
+      "Why a licensed physician's approval is required",
+      "What 'she' refers to in the opening line"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The clip builds a tense courtroom confrontation through the Lord's dismissiveness and Lady Juliana's defiant replies, such as 'It is not irrelevant!' and 'Herbs are not magic! They are medicine!', which create clear stakes and emotional charge."
+  },
+  "weaknesses": [
+    "The clip relies on unstated background about the accusation, so a first-time viewer cannot tell what the charge is",
+    "Lady Juliana's answer to the Judge's final question is not shown, leaving the scene unfinished",
+    "The Lord's opening line refers to 'She' with no introduction",
+    "Some camera direction is repetitive, and the dialogue carries most of the emotional weight"
+  ],
+  "one_line_why_it_works": "A bold opening accusation is followed by a sharp courtroom exchange that ends on the Judge's unanswered question about the lack of a licensed physician, which leaves the viewer wanting the next line."
+}

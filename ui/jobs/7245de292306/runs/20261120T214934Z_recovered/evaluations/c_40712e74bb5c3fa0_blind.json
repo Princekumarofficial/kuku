@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_40712e74bb5c3fa0",
+  "hook": {
+    "score_0_10": 5.0,
+    "evidence_refs": [
+      "EP26:E11",
+      "EP26:E15"
+    ],
+    "reason": "The clip opens on a close-up of the Duchess taking drops from a bottle, which signals danger. The Dowager's line at 2400ms about Juliana taking Catherine's whip hints at a mystery, but the opening relies on unexplained names and events."
+  },
+  "cliffhanger": {
+    "score_0_10": 3.0,
+    "evidence_refs": [
+      "EP26:E32",
+      "EP26:E33"
+    ],
+    "reason": "The ending answers Juliana's status with her backstory of being cast out and keeping her honor. It is an emotional resolution rather than an open question, and the poisoning thread is explained by the charcoal line, so nothing urgent is left hanging.",
+    "unresolved_at_end": false
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Identity and relationship of Rupert and Catherine",
+      "Why the Duchess is being poisoned and by whom beyond the viewer's inference",
+      "Meaning of the whip incident Juliana is said to have taken for the Duchess",
+      "Juliana's family and why she was cast out",
+      "Role of the guards and the household situation",
+      "Whether the dropper bottle contains the poison"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 6.0,
+    "reason": "The clip builds fear, dread, and tenderness between Juliana and the Duchess, and ends on dignified sorrow. The emotional payoff is clear, though the viewer does not know the stakes of the characters."
+  },
+  "weaknesses": [
+    "Many named characters and past events are referenced without explanation, reducing standalone clarity",
+    "Extended dialogue-driven exposition in the middle slows momentum",
+    "The ending delivers backstory rather than a forward-moving hook",
+    "Poisoning threat is stated and then reassured, lowering suspense"
+  ],
+  "one_line_why_it_works": "The clip pairs a poisoning scare with a tender bond and ends on Juliana's dignified sorrow, which gives emotional weight even without the wider plot."
+}

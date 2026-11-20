@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_5df7ee69d82569c8",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP45:E3",
+      "EP45:E7"
+    ],
+    "reason": "The clip opens on a tearful, chained woman and a man kneeling before her, which creates immediate tension. The hook weakens because the chains and kneeling have no stated cause, and the opening action is slow before the spoken line at 2600ms."
+  },
+  "cliffhanger": {
+    "score_0_10": 2.0,
+    "evidence_refs": [
+      "EP45:E30",
+      "EP45:E31"
+    ],
+    "reason": "The ending resolves the central tension: the chains are removed, the man reveals his title, and he declares his feelings. Nothing critical is left open, so this is an intense but resolved ending rather than a cliffhanger.",
+    "unresolved_at_end": false
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Why Juliana is chained and who holds her captive",
+      "Who Alexander is and what his relationship to Juliana was before the clip",
+      "What the 'rightful Duke of Ashburton' title means and what it changes",
+      "Who the crowd is and why they are watching in silence",
+      "What 'chose me' refers to and what choice Juliana made earlier",
+      "What 'EP45' refers to and whether earlier episodes are needed"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Tears, a kneeling gesture, the removal of shackles, and repeated lines about being seen and chosen produce strong romantic and emotional release, even for a viewer without context."
+  },
+  "weaknesses": [
+    "Heavy reliance on unexplained backstory, such as the chains, the crowd, and the title reveal",
+    "Dialogue such as 'You chose me when you believed I was nobody' assumes prior events the clip does not show",
+    "The reveal of 'It's you' and 'It was always me' is hard to interpret without knowing what happened before",
+    "The ending is resolved rather than suspenseful, so it gives no forward pull"
+  ],
+  "one_line_why_it_works": "The emotional beats of a tearful reunion, unlocked chains, and a revealed title build a strong romantic payoff even though the clip lacks the context that would make it fully clear."
+}

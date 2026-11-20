@@ -1,0 +1,114 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "ep28_opp1",
+      "episode_id": "ep_028",
+      "concept": "Catherine brands Juliana a poisoner, then the Duchess wakes and claims she was poisoned and that Catherine and Rupert knew.",
+      "hook_refs": [
+        "EP28:E13"
+      ],
+      "ending_refs": [
+        "EP28:E35"
+      ],
+      "context_refs": [
+        "EP28:E15",
+        "EP28:E18",
+        "EP28:E31",
+        "EP28:E34"
+      ],
+      "why_promising": "Clip runs about 34 seconds from a sharp accusation to the Duchess's unfinished 'They have been—', an open cliffhanger with a clear poisoning mystery."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep28_opp2",
+      "episode_id": "ep_028",
+      "concept": "Catherine reads 'Juliana Ashcroft' in the herbarium and exposes Juliana's disgraced noble past.",
+      "hook_refs": [
+        "EP28:E73"
+      ],
+      "ending_refs": [
+        "EP28:E95"
+      ],
+      "context_refs": [
+        "EP28:E75",
+        "EP28:E76",
+        "EP28:E79",
+        "EP28:E84",
+        "EP28:E89"
+      ],
+      "why_promising": "Clip runs about 38 seconds from the identity reveal to the gallows threat over the herbarium, a strong self-contained exposure arc."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep28_opp3",
+      "episode_id": "ep_028",
+      "concept": "Rupert's men stage a frame-up as the Blond Nobleman mocks Juliana and orders her taken away.",
+      "hook_refs": [
+        "EP28:E17"
+      ],
+      "ending_refs": [
+        "EP28:E51"
+      ],
+      "context_refs": [
+        "EP28:E18",
+        "EP28:E42",
+        "EP28:E44"
+      ],
+      "why_promising": "Clip runs about 51 seconds from a menacing line through the Duchess's protest to the command to take Juliana away, showing the conspirators' power."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep28_opp4",
+      "episode_id": "ep_028",
+      "concept": "Catherine rips Juliana's silver locket from her neck and mocks her as a gutter rat.",
+      "hook_refs": [
+        "EP28:E56"
+      ],
+      "ending_refs": [
+        "EP28:E82"
+      ],
+      "context_refs": [
+        "EP28:E59",
+        "EP28:E61",
+        "EP28:E64"
+      ],
+      "why_promising": "Clip runs about 44 seconds from the locket humiliation to Juliana's defiant 'Do not speak about my husband!', a strong emotional beat."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep28_opp5",
+      "episode_id": "ep_028",
+      "concept": "Catherine mocks Juliana's fall from grace while holding the herbarium as evidence of witchcraft.",
+      "hook_refs": [
+        "EP28:E84"
+      ],
+      "ending_refs": [
+        "EP28:E95"
+      ],
+      "context_refs": [
+        "EP28:E85",
+        "EP28:E90"
+      ],
+      "why_promising": "Clip runs about 20 seconds from the taunt about scrubbing fireplaces to the threat of the gallows, a compact villain-driven moment."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep28_opp6",
+      "episode_id": "ep_028",
+      "concept": "The Dowager Duchess rises and declares she was poisoned, accusing Rupert of knowing.",
+      "hook_refs": [
+        "EP28:E31"
+      ],
+      "ending_refs": [
+        "EP28:E51"
+      ],
+      "context_refs": [
+        "EP28:E32",
+        "EP28:E34",
+        "EP28:E36"
+      ],
+      "why_promising": "Clip runs about 32 seconds from the Duchess's poisoning accusation to the order to take Juliana away, with the Duchess's collapse as a high-stakes turn."
+    }
+  ]
+}

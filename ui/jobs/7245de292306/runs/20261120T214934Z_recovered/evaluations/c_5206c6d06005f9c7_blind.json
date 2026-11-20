@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_5206c6d06005f9c7",
+  "hook": {
+    "score_0_10": 7.5,
+    "evidence_refs": [
+      "EP43:E24",
+      "EP43:E25"
+    ],
+    "reason": "The clip opens within the first 3000ms with a tense confrontation: Rupert is spinning toward a gathered congregation, and Alexander answers with a cold, commanding line that signals a power move. The viewer is pulled in immediately, though the cause of the conflict is not shown."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP43:E42",
+      "EP43:E43",
+      "EP43:E44"
+    ],
+    "reason": "The clip ends with an accusation that the leak was deliberate and that information passed through British channels, with Rupert visibly collapsing. Who leaked it and what follows are not resolved within the clip, so the ending is open.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Identity and relationship of Rupert, Alexander, and Lord Sterling are not established.",
+      "The cathedral gathering's purpose and the conflict that prompted Rupert's spinning are not shown.",
+      "What the Crown, the War Office dossier, and the Crown Military Magistrate role mean in this situation is not explained.",
+      "The ambush of Duke Alexander Ashburn's unit is referenced without explaining who the Duke is to the viewer or why it matters now.",
+      "The implication of the 'British channels' accusation and who is being blamed is unclear."
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Visible dread and fear are conveyed through Lord Sterling's pale face, Rupert's wide-eyed petrification, and his collapse against the railing. The tension of the public reading in silence builds effectively, though the viewer lacks personal investment in the characters."
+  },
+  "weaknesses": [
+    "Characters and stakes are introduced without context, so a first-time viewer cannot tell who is betraying whom.",
+    "The Ashburn ambush and the deliberate leak are asserted by the reading, but their meaning for the present conflict is unclear.",
+    "Rupert's fear is shown strongly, but his role or guilt is never established, which weakens the emotional payoff.",
+    "The shift from Alexander's challenge to the document reading takes a long stretch of exposition before the accusation lands."
+  ],
+  "one_line_why_it_works": "A cold public challenge, a sealed dossier, and a damning official reading that ends on a frightened man collapsing create strong suspense even without knowing the backstory."
+}

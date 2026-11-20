@@ -1,0 +1,71 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "ep40_opp_01",
+      "episode_id": "ep_040",
+      "concept": "Lord and Lady Harrington's ominous prophecy that the elder nobleman's plan will leave Ashburgh with a new Duke and Duchess, with its witch dead by sunset, set against the wedding guests and the sealed cathedral exits.",
+      "hook_refs": [
+        "EP40:E38"
+      ],
+      "ending_refs": [
+        "EP40:E51"
+      ],
+      "context_refs": [
+        "EP40:E37"
+      ],
+      "why_promising": "The hook is a direct threat delivered in the first moments of the clip, and the clip runs about 35 seconds to an unresolved ceremony cut to black with conspiratorial smiles, leaving the witch's identity and the outcome open."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep40_opp_02",
+      "episode_id": "ep_040",
+      "concept": "Lady Harrington's vindictive remark that the woman under God's watch still gets exactly what she deserves, leading into the couple's anticipation of the wedding and the elder nobleman's scheming on the balcony.",
+      "hook_refs": [
+        "EP40:E19"
+      ],
+      "ending_refs": [
+        "EP40:E36"
+      ],
+      "context_refs": [
+        "EP40:E25",
+        "EP40:E32"
+      ],
+      "why_promising": "The hook opens with a cruel line about an unnamed victim that creates immediate tension, and the clip spans about 40 seconds through the Harringtons' pew scene to the elder nobleman's sunset threat, ending before the plot is resolved."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep40_opp_03",
+      "episode_id": "ep_040",
+      "concept": "Lord Harrington's chilling remark that the cathedral has always been unlucky for Juliana, followed by the Harringtons' pew scene and Lady Harrington's hint at a sinister outcome after the wedding.",
+      "hook_refs": [
+        "EP40:E16"
+      ],
+      "ending_refs": [
+        "EP40:E27"
+      ],
+      "context_refs": [
+        "EP40:E19",
+        "EP40:E25"
+      ],
+      "why_promising": "The hook targets Juliana's fate with a mocking line that raises an open question, and the roughly 23-second clip ends on Rupert's anxious demand that everything must go perfectly, leaving the wedding's purpose unresolved."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep40_opp_04",
+      "episode_id": "ep_040",
+      "concept": "The elder nobleman's question to the royal guard about whether all entrances are covered, which leads to the guard's confirmation and the wedding's ceremonial entrance and smug altar exchange.",
+      "hook_refs": [
+        "EP40:E32"
+      ],
+      "ending_refs": [
+        "EP40:E50"
+      ],
+      "context_refs": [
+        "EP40:E29",
+        "EP40:E31"
+      ],
+      "why_promising": "The hook is a tense question that establishes a containment plot in its first seconds, and the roughly 45-second clip ends on Catherine's pointed remark about Rupert being an ignored cousin, which hints at a hidden alliance without resolving it."
+    }
+  ]
+}

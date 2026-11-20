@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_26918d00e903ac92",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP16:E39",
+      "EP16:E41",
+      "EP16:E42"
+    ],
+    "reason": "Opens within 0-3000ms on a lethal close-up and a choking grip, then a sharp demand 'Who?!' that raises an immediate question about the attacker."
+  },
+  "cliffhanger": {
+    "score_0_10": 5.0,
+    "evidence_refs": [
+      "EP16:E63",
+      "EP16:E64"
+    ],
+    "reason": "The thug's revelation that Gerald Harrington paid them leaves an open thread, but the scene closes on a romantic gaze and cello swell rather than a plot threat, and the attack itself is resolved.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Identity and role of Juliana",
+      "Who Gerald Harrington is and why his betrayal matters",
+      "Why the thugs were attacking the garden",
+      "Alexander's background and the source of his scarred face and past",
+      "Relationship between Alexander and Juliana before this scene"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Juliana's devastated disbelief at 'Gerald...' and the tense choking confrontation carry strong emotion, and the cello swell adds weight to the closing tenderness."
+  },
+  "weaknesses": [
+    "Gerald Harrington is named without any prior setup, so the betrayal lands without emotional grounding for a first-time viewer",
+    "The attack is resolved within the clip, so the ending depends more on a musical swell than on a true unresolved threat",
+    "The closing romantic gaze is vague and the cello 'cliffhanger hold' is not backed by a concrete unanswered event",
+    "Motivations for the thugs and the garden destruction are never explained",
+    "Alexander's line 'A soldier learns things he wishes he could forget' hints at backstory without giving any usable context"
+  ],
+  "one_line_why_it_works": "A tense, fast opening reveal of a betrayer's name hits hard, and the quiet closing gaze under cello music sets up an emotional bond."
+}

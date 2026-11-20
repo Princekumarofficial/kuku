@@ -1,0 +1,203 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_18223d12776e0588 DURATION_MS=55400\nSEGMENT 1 (playback order)\nEP13:E40 0-200 CAMERA: Medium shot on the balcony as Clarissa gleefully points down at Juliana, Gerald chuckling beside her.\nEP13:E42 200-2200 ACTION: Gerald leans his hands on the terrace railing, sneering callously.\nEP13:E43 200-5700 CAMERA: Low-angle medium close-up of Gerald shouting down into the garden.\nEP13:E44 400-5200 GERALD: \"Keep searching, Juliana. Your husband's freedom is somewhere in that garden.\"\nEP13:E45 5700-9400 CAMERA: Macro close-up of a massive blackthorn needle stabbing deep into the back of Juliana's bleeding hand.\nEP13:E46 6700-8400 SOUND: Sickening crunch and scrape of thorns slicing through flesh.\nEP13:E47 9400-12200 CAMERA: Close-up of Alexander struggling in agony, tears forming in his eyes.\nEP13:E48 9600-12000 ALEXANDER: \"Please... enough!\"\nEP13:E49 12200-16200 CAMERA: Wide tunnel shot through the briars as Juliana crawls deeper into the dark, frozen tangle.\nEP13:E50 12700-16200 ACTION: Juliana drags her body across the frozen, cracked soil beneath the dense roof of briars.\nEP13:E51 16200-18700 CAMERA: Close-up of Juliana's hand getting snagged between two vicious thorns, tearing her sleeve and flesh.\nEP13:E52 16700-18700 JULIANA: \"Ah!\"\nEP13:E53 18700-21200 ACTION: Alexander loses control, violently lunging past the Constable toward the briars.\nEP13:E54 18700-21200 CAMERA: Medium tracking shot of Alexander breaking into a desperate charge.\nEP13:E55 19000-20400 ALEXANDER: \"Stop!\"\nEP13:E56 21200-24200 ACTION: Juliana continues clawing forward, branches lacerating her arm and cheek.\nEP13:E57 21200-24200 CAMERA: Close-up of Juliana wincing in agony and screaming through clenched teeth.\nEP13:E58 22000-24000 JULIANA: \"Ahhh!\"\nEP13:E59 24200-27200 CAMERA: Medium shot of the Constable forcefully grappling Alexander by his coat collar, slamming him back against the gate.\nEP13:E60 24700-27000 ALEXANDER: \"Juliana!\"\nEP13:E61 27200-32200 CAMERA: Ground-level shot of Juliana frantically digging and scraping at the frozen dirt and dried bramble pods with both bloody hands.\nEP13:E62 27400-32200 ACTION: Juliana digs her torn fingers into the frost-hardened earth, turning over rocks and dead vegetation.\nEP13:E63 32200-35200 CAMERA: Medium close-up of Alexander struggling against the Constable, his face twisted in grief and rage.\nEP13:E64 33000-34600 ALEXANDER: \"Juliana!\"\nEP13:E65 35200-41200 CAMERA: Close-up of Juliana lying on her stomach among the thorns, bleeding cuts running down her forehead, cheeks, and bare arms.\nEP13:E66 36400-40700 JULIANA: \"Please, ring... you have to be here.\"\nEP13:E67 41200-44700 ACTION: Her blood-smeared index finger brushes against a solid metallic object half-buried in the frozen dirt beneath a thorny branch.\nEP13:E68 41200-45200 CAMERA: Extreme close-up macro shot of an ornate antique gold ring set with a massive, radiant emerald resting in the frosted soil.\nEP13:E69 45200-47200 CAMERA: Close-up of Juliana's wide, disbelieving blue eyes as breath catches in her throat.\nEP13:E70 47200-50200 ACTION: Juliana reaches out her torn, bloodied hand and wraps her fingers tightly around the emerald ring.\nEP13:E71 47200-50200 CAMERA: Extreme close-up of her bloody hand closing around the emerald signet ring.\nEP13:E72 50200-51200 CAMERA: Close-up of Juliana grimacing in fierce triumph and intense pain as thorns catch her knuckles.\nEP13:E73 51200-52200 CAMERA: Brief cut to Alexander staring into the briar patch in suspended terror.\nEP13:E74 52200-55400 CAMERA: Close-up on Juliana's sweat- and frost-streaked face as she grinds her teeth, tears pooling in her eyes, fighting through the blinding pain.",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "complete",
+  "output": {
+    "candidate_id": "c_18223d12776e0588",
+    "hook": {
+      "score_0_10": 7.0,
+      "evidence_refs": [
+        "EP13:E40",
+        "EP13:E43",
+        "EP13:E74"
+      ],
+      "reason": "Opens within 0-3000ms with Gerald's callous sneer and a shouted taunt, then escalates quickly to graphic thorn violence on Juliana's hand; the closing evidence lands in the final 3000ms with her pain and tears, though it is a mid-action frame rather than a hook."
+    },
+    "cliffhanger": {
+      "score_0_10": 5.0,
+      "evidence_refs": [
+        "EP13:E73",
+        "EP13:E74"
+      ],
+      "reason": "The clip ends with Juliana holding the ring while still in pain and Alexander staring in suspended terror, which leaves her next move and the reaction unresolved; however, the search itself reaches a concrete result, so the ending is less a true cliffhanger than an intense pause.",
+      "unresolved_at_end": true
+    },
+    "standalone": {
+      "score_0_10": 3.0,
+      "missing_context": [
+        "Who Juliana, Alexander, Clarissa, Gerald and the Constable are and how they relate",
+        "Why Juliana is searching the briars and what the ring means",
+        "What 'Your husband's freedom' refers to and what stakes hang on the search",
+        "Why the Constable is restraining Alexander",
+        "What the ring signifies once found"
+      ]
+    },
+    "emotion": {
+      "score_0_10": 8.0,
+      "reason": "Sustained visceral pain, Alexander's grief and rage, and Juliana's blend of triumph and agony create strong emotional intensity throughout the clip."
+    },
+    "weaknesses": [
+      "Stakes and motivation are never explained within the clip, so the search reads as arbitrary to a first-time viewer",
+      "The ring's importance is not established, which weakens the payoff of the discovery",
+      "Dialogue is sparse and mostly exclamatory, leaving characters' relationships unclear",
+      "Repeated graphic thorn and pain shots may feel repetitive without new information"
+    ],
+    "one_line_why_it_works": "Brutal physical peril and raw emotion from Juliana and Alexander create immediate tension, even though the story context is missing."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_303520ec62e3b718",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP31:E5",
+      "EP31:E6"
+    ],
+    "reason": "The opening frame shows a commanding figure with a smoldering poker and a charred book, and the first line 'Look at you.' lands within the first 2 seconds, creating immediate menace and tension."
+  },
+  "cliffhanger": {
+    "score_0_10": 2.0,
+    "evidence_refs": [
+      "EP31:E35",
+      "EP31:E36"
+    ],
+    "reason": "The clip closes on Juliana's defiant line 'I chose myself.' after a strong verbal reversal, which reads as an emotionally resolved beat rather than an open question. Her dungeon situation remains tense, but no new threat or unanswered event is set up at the end.",
+    "unresolved_at_end": false
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Gerald and Clarisse are and what the altar wedding humiliation involved",
+      "Why Juliana is chained and what she is accused of",
+      "Why Catherine holds the branding iron and the charred botanical book, and what their significance is",
+      "The relationship between Catherine and Juliana and their history",
+      "What 'the disgrace' refers to beyond the spoken remarks",
+      "Who the guards are and what role they play in the situation"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "The scene builds intense humiliation, cruelty, and tearful defiance, then turns to a fierce, cathartic reclamation of dignity in Juliana's closing lines. The emotional arc is strong and clearly felt even without backstory."
+  },
+  "weaknesses": [
+    "Heavy reliance on unexplained backstory (Gerald, the altar, the book) limits a first-time viewer's understanding",
+    "Name inconsistency between 'Clarisse' (E29) and 'Clarissa' (E35) may confuse viewers",
+    "The closing line resolves the confrontation emotionally, so the clip offers little forward pull",
+    "Stage-direction-like tag '[chuckles]' in dialogue (E21) reads as an artifact rather than spoken content"
+  ],
+  "one_line_why_it_works": "A tense dungeon confrontation opens on a menacing threat and escalates through cruel taunts to a defiant, cathartic reversal in which Juliana reclaims her dignity."
+}

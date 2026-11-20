@@ -1,0 +1,44 @@
+{
+  "candidate_id": "c_79d97ae21e6f3f51",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP03:E69",
+      "EP03:E71",
+      "EP03:E72"
+    ],
+    "reason": "Within 0-3000ms the stranger's menacing close-up and his line \"...let her go.\" land at 800-2900ms, and by 3000-4500ms he drops an armed guard with one blow, a sharp, immediate opening."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP03:E105",
+      "EP03:E106"
+    ],
+    "reason": "The clip ends with him offering the ring to Juliana at 44300-46300ms, and her response is not shown, so the choice stays open. The guests and family are also still present and unresolved, but the clip does not show a threat to the outcome, so this is a moderate open question rather than a strong cliffhanger.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Lady Juliana is and what the wedding or family arrangement is",
+      "Who Gerald and the former groom are in relation to Juliana",
+      "Why the guards are dragging or restraining Juliana",
+      "What \"They took that from you\" refers to",
+      "Who The Bearded Stranger is and why he intervenes",
+      "What the silver band means and why Juliana is being asked to become a wife"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "The clip builds from a violent confrontation into tender exchanges and a rescue-like gesture, with Juliana's tears and wonder, the father's guilt and the stranger's tender reverence all clearly shown."
+  },
+  "weaknesses": [
+    "The clip relies on unexplained stakes: the viewer does not learn why Juliana is being forced to marry.",
+    "The meaning of the silver ring and the phrase \"They took that from you\" is unclear without prior context.",
+    "The stranger's identity and authority to intervene are never established.",
+    "The ending offers a ring without showing Juliana's response, which may leave viewers unsure whether the clip is complete.",
+    "Some dialogue, such as \"I can...\", is cut off and ambiguous without the prior scene."
+  ],
+  "one_line_why_it_works": "A sudden, decisive rescue and a tender, unexpected offer of a ring deliver strong emotional stakes within a short clip, even though the backstory is missing."
+}

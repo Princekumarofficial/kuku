@@ -1,0 +1,184 @@
+{
+  "stage": "episode_analysis",
+  "system": "Analyze narrative beats, characters, revelations and unresolved questions. Only event text is on-screen evidence; metadata may describe unseen events. Use supplied EPxx:Ex aliases. Report uncertainty in the summary. A revelation's significance is not its spoiler damage.",
+  "user": "EP=ep_045; timestamps are integer milliseconds\nSOURCE_SHA256=3424e374024cd00f62363ff74cc760257a974bf2c966796922d6ee99beade3db\nMETADATA ONLY (not on-screen evidence): {'logline': 'Alexander frees Juliana from her chains and proclaims her the Duchess of Ashburton before the stunned congregation, only for an ecclesiastical authority to burst in and declare their marriage legally invalid.', 'continuity_notes': \"Picks up directly from Episode 44's climax where Alexander walked away from Catherine towards Juliana standing in chains at the church doorway.\"}\nSOURCE WARNINGS=[]\nSCENE sc_001 0-48900 INT. CATHEDRAL NAVE – CONTINUOUS\nEP45:E1 0-3000 CAMERA: Full tracking shot following behind Alexander as he walks down the rubble-covered stone aisle toward Juliana.\nEP45:E2 0-2800 ACTION: Alexander strides purposefully down the cathedral aisle, ignoring the watching nobles as Juliana stands shackled in her rustic grey dress near the entrance.\nEP45:E3 2800-5000 CAMERA: Medium close-up on Juliana looking down at her chained hands, tears welling in her eyes.\nEP45:E4 3200-4800 JULIANA [Whispering, Tearful]: \"Alexander...\"\nEP45:E5 5000-8500 CAMERA: Medium shot as Alexander stops in front of Juliana and sinks onto one knee before her.\nEP45:E6 5200-7800 ACTION: Alexander drops to one knee before Juliana, looking up at her with profound devotion.\nEP45:E7 7400-8900 ALEXANDER [Gentle, Reassuring]: \"Look at me.\"\nEP45:E8 8800-9900 CAMERA: Low angle close-up of Juliana looking down into Alexander's eyes with rising disbelief.\nEP45:E9 9900-12200 CAMERA: Close-up on Alexander's hands as he unfastens the heavy iron lock and releases the chains from Juliana's bruised wrists.\nEP45:E10 10200-11800 SOUND: Heavy iron clanking as the shackles fall away.\nEP45:E11 12200-15000 CAMERA: Close-up on Juliana's tear-streaked face as she stares intently into his eyes.\nEP45:E12 12500-14300 JULIANA [Breathless, Overcome]: \"Your eyes...\"\nEP45:E13 15000-21800 CAMERA: Close-up profile of Alexander as Juliana reaches out her trembling hand to touch his bearded cheek and jawline.\nEP45:E14 15200-18500 ACTION: Juliana places her palm against Alexander's beard, feeling his scarred face as recognition dawns.\nEP45:E15 17100-18700 JULIANA [Emotional, Realizing]: \"It's you.\"\nEP45:E16 19400-21500 ALEXANDER [Solemn, Loving]: \"It was always me.\"\nEP45:E17 21800-24500 CAMERA: Medium shot as Alexander stands up and drapes a heavy crimson ducal mantle lined with ermine over Juliana's shoulders.\nEP45:E18 21900-24200 ACTION: Alexander places the ducal cloak over Juliana's rustic gown, adjusting it gently over her shoulders.\nEP45:E19 22900-24400 JULIANA [Shocked, Wondering]: \"You're the Duke?\"\nEP45:E20 24500-27200 CAMERA: Close-up on Alexander looking intensely into her eyes.\nEP45:E21 24600-27400 ALEXANDER [Firm, Resonant]: \"Alexander Ashburton. The rightful Duke of Ashburton.\"\nEP45:E22 27200-29800 CAMERA: Close-up on Juliana, tears of awe spilling over her cheeks.\nEP45:E23 27600-29600 JULIANA [Incredulous, Moved]: \"All this time?\"\nEP45:E24 29800-35800 CAMERA: Close-up two-shot as Alexander tenderly cradles Juliana's cheek in his gloved hand.\nEP45:E25 30200-33000 ALEXANDER [Tender, Deep]: \"You chose me when you believed I was nobody.\"\nEP45:E26 33200-34900 JULIANA [Sincere, Loving]: \"I chose you because you were kind.\"\nEP45:E27 35100-36800 ALEXANDER [Low, Passionate]: \"You chose me when I had nothing.\"\nEP45:E28 35800-38500 CAMERA: Medium shot framed between them as Alexander holds her face with both hands, the crowd watching in stunned silence.\nEP45:E29 37000-38700 JULIANA [Resolute, Warm]: \"I chose you because you had honor.\"\nEP45:E30 38500-42000 CAMERA: Tight close-up on Alexander looking deep into Juliana's blue eyes.\nEP45:E31 38800-41800 ALEXANDER [Earnest, Devoted]: \"And I chose you because you saw the man before the title.\"\nEP45:E32 42000-48900 CAMERA: Extreme close-up as Alexander and Juliana rest their foreheads and noses together in an intimate embrace.\nEP45:E33 42200-48500 ACTION: Alexander and Juliana close their eyes, breathing together with their foreheads pressed gently against one another.\nEP45:E34 43800-46000 JULIANA [Soft, Heartfelt]: \"I loved you before I ever knew who you were.\"\nEP45:E35 46100-48800 ALEXANDER [Soft, Vowing]: \"And I loved you before I ever dared to tell you.\"\nSCENE sc_002 48900-86500 INT. CATHEDRAL – CONTINUOUS\nEP45:E36 48900-51800 CAMERA: Medium shot as Alexander turns back toward the altar, where Catherine stands in her disheveled wedding gown.\nEP45:E37 49000-51500 ACTION: Catherine takes a desperate step forward, clutching her skirts and weeping.\nEP45:E38 49800-51500 CATHERINE [Pleading, Desperate]: \"Alexander...\"\nEP45:E39 51800-58200 CAMERA: Medium shot as Alexander steps right up to Catherine, towering over her with righteous fury.\nEP45:E40 54000-58000 ALEXANDER [Furious, Cold]: \"You poisoned my mother. You tortured my wife.\"\nEP45:E41 58200-62500 CAMERA: Extreme close-up split profile between Alexander's angry face and Catherine's gasping, terrified expression.\nEP45:E42 58200-59800 CATHERINE [Gasping, Lying]: \"I didn't know!\"\nEP45:E43 60000-62400 ALEXANDER [Thunderous, Biting]: \"You knew exactly what you were doing!\"\nEP45:E44 62500-67000 CAMERA: Medium close-up of Alexander turning slightly toward the gathered congregation as his voice rings across the cathedral.\nEP45:E45 62600-66800 ALEXANDER [Booming, Condemning]: \"You hurt the two women who mattered most to me: my mother, and my wife.\"\nEP45:E46 67000-71200 CAMERA: Close-up on Catherine's devastated, terrified face as the word shatters her entire worldview.\nEP45:E47 68800-70500 CATHERINE [Trembling, Stunned]: \"Wife?!\"\nEP45:E48 71200-74500 CAMERA: Grand wide shot of the ruined cathedral nave as Alexander takes Juliana's hand and walks her proudly down the center aisle.\nEP45:E49 71200-74500 ACTION: Alexander and Juliana advance side-by-side between the rows of shocked aristocratic guests.\nEP45:E50 71500-74000 ALEXANDER [Authoritative, Resounding]: \"Before the Crown and before God...\"\nEP45:E51 74500-80500 CAMERA: Medium shot as Alexander stops in the center of the nave and raises Juliana's hand high above their heads.\nEP45:E52 74600-80000 ACTION: Alexander hoists Juliana's hand triumphantly into the air, presenting her to the nobility.\nEP45:E53 74800-80400 ALEXANDER [Proclaiming, Powerful]: \"Lady Juliana Ashcroft is my lawful wife... and the Duchess of Ashburton!\"\nEP45:E54 80500-83500 CAMERA: Close-up on Rupert and Mary standing in the pews, their eyes wide with horrified disbelief.\nEP45:E55 81500-83000 RUPERT [Gasping, Shellshocked]: \"Juliana?!\"\nEP45:E56 83500-86500 CAMERA: Wide shot of Alexander and Juliana standing proudly together, exchanging a loving gaze amid the awestruck crowd.\nSCENE sc_003 86500-121750 INT. CATHEDRAL ENTRANCE – CONTINUOUS\nEP45:E57 86500-90500 CAMERA: Wide tracking shot down the cathedral aisle as the massive wooden entrance doors slam open, framed by blinding daylight and mist.\nEP45:E58 86500-88200 SOUND: Loud, echoing thud of cathedral doors swinging open violently.\nEP45:E59 87500-91000 ACTION: A Catholic Bishop in dark vestments steps through the cathedral doors accompanied by an armed Crown officer.\nEP45:E60 88400-90800 HIGH PRIEST [Booming, Stern]: \"No one will bow yet!\"\nEP45:E61 90800-93000 CAMERA: Low-angle shot on Alexander and Juliana turning in alarm toward the rear of the cathedral.\nEP45:E62 93000-101200 CAMERA: Medium shot of the High Priest striding down the aisle, holding up an official royal parchment bearing red wax seals.\nEP45:E63 93200-101000 ACTION: The Priest holds up the sealed royal proclamation, holding his rosary beads as he marches forward.\nEP45:E64 93200-101100 HIGH PRIEST [Commanding, Severe]: \"This ceremony was performed without a Crown marriage license, by a priest without authority to sanctify a ducal union.\"\nEP45:E65 101200-105800 CAMERA: Close-up on the High Priest unfolding the document, reading aloud to the congregation.\nEP45:E66 101500-105500 HIGH PRIEST [Stern, Official]: \"These vows were never entered into the Royal Matrimonial Register.\"\nEP45:E67 105800-108800 CAMERA: Medium shot of Alexander shielding Juliana behind him as the Crown officer approaches with drawn sword.\nEP45:E68 106200-108800 HIGH PRIEST [O.S.) (Harsh, Resolute]: \"Before the Crown, you are not Duchess of Ashburton.\"\nEP45:E69 108800-113200 CAMERA: Close-up of the High Priest scowling directly at Juliana with unyielding authority.\nEP45:E70 109000-113000 HIGH PRIEST [Unyielding, Condemning]: \"You are not Alexander Ashburton's lawful wife.\"\nEP45:E71 113200-117500 CAMERA: Close-up two-shot of Juliana gasping in terror, clutching Alexander's hand tightly as Alexander glares at the Priest.\nEP45:E72 113500-117200 ACTION: Juliana looks up at Alexander in sudden panic, her fingers gripping his leather-gloved hand.\nEP45:E73 117500-121750 CAMERA: Slow push-in close-up on Catherine beneath her veil, her initial despair morphing into a cold, venomous, triumphant smile as the episode cuts.\nEP45:E74 118000-121750 ACTION: Catherine raises her chin, a vindictive smirk spreading across her lips as she realizes her rival's claim has just been torn to pieces.",
+  "schema": {
+    "$defs": {
+      "Beat": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "kind": {
+            "title": "Kind",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "description": {
+            "title": "Description",
+            "type": "string"
+          },
+          "intensity_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Intensity 0 10",
+            "type": "number"
+          }
+        },
+        "required": [
+          "id",
+          "kind",
+          "event_refs",
+          "description",
+          "intensity_0_10"
+        ],
+        "title": "Beat",
+        "type": "object"
+      },
+      "Character": {
+        "additionalProperties": false,
+        "properties": {
+          "name": {
+            "title": "Name",
+            "type": "string"
+          },
+          "role": {
+            "title": "Role",
+            "type": "string"
+          }
+        },
+        "required": [
+          "name",
+          "role"
+        ],
+        "title": "Character",
+        "type": "object"
+      },
+      "Question": {
+        "additionalProperties": false,
+        "properties": {
+          "question": {
+            "title": "Question",
+            "type": "string"
+          },
+          "introduced_by": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Introduced By",
+            "type": "array"
+          }
+        },
+        "required": [
+          "question",
+          "introduced_by"
+        ],
+        "title": "Question",
+        "type": "object"
+      },
+      "Revelation": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "claim": {
+            "title": "Claim",
+            "type": "string"
+          },
+          "spoiler_significance_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Spoiler Significance 0 10",
+            "type": "number"
+          },
+          "creates_questions": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Creates Questions",
+            "type": "array"
+          }
+        },
+        "required": [
+          "id",
+          "event_refs",
+          "claim",
+          "spoiler_significance_0_10",
+          "creates_questions"
+        ],
+        "title": "Revelation",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "episode_id": {
+        "title": "Episode Id",
+        "type": "string"
+      },
+      "summary": {
+        "title": "Summary",
+        "type": "string"
+      },
+      "characters": {
+        "items": {
+          "$ref": "#/$defs/Character"
+        },
+        "title": "Characters",
+        "type": "array"
+      },
+      "beats": {
+        "items": {
+          "$ref": "#/$defs/Beat"
+        },
+        "title": "Beats",
+        "type": "array"
+      },
+      "revelations": {
+        "items": {
+          "$ref": "#/$defs/Revelation"
+        },
+        "title": "Revelations",
+        "type": "array"
+      },
+      "unresolved_questions": {
+        "items": {
+          "$ref": "#/$defs/Question"
+        },
+        "title": "Unresolved Questions",
+        "type": "array"
+      }
+    },
+    "required": [
+      "episode_id",
+      "summary",
+      "characters",
+      "beats",
+      "revelations",
+      "unresolved_questions"
+    ],
+    "title": "EpisodeAnalysis",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

@@ -1,0 +1,917 @@
+[
+  {
+    "candidate_id": "c_5264fad1d7633819",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 12000,
+        "end_ms": 36800,
+        "episode_id": "ep_024"
+      }
+    ],
+    "duration_ms": 24800,
+    "origin": "ep24_opp1",
+    "clip_events": [
+      {
+        "ref": "EP24:E7",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana, her gaze lowered deferentially beside the carved wooden bedpost."
+      },
+      {
+        "ref": "EP24:E9",
+        "segment_index": 0,
+        "relative_start_ms": 200,
+        "relative_end_ms": 4800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the noblewoman, her chin tilted up in icy condescension."
+      },
+      {
+        "ref": "EP24:E10",
+        "segment_index": 0,
+        "relative_start_ms": 1000,
+        "relative_end_ms": 4400,
+        "type": "dialogue",
+        "speaker": "NOBLEWOMAN",
+        "text": "\"And who gave you permission to enter this chamber?\""
+      },
+      {
+        "ref": "EP24:E11",
+        "segment_index": 0,
+        "relative_start_ms": 4800,
+        "relative_end_ms": 6800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the frail Dowager Duchess lying pale and unconscious against the white pillows, gasping weakly for air."
+      },
+      {
+        "ref": "EP24:E12",
+        "segment_index": 0,
+        "relative_start_ms": 6800,
+        "relative_end_ms": 8500,
+        "type": "action",
+        "speaker": null,
+        "text": "Behind her grey skirt, Juliana quickly slips the small glass remedy vial into her apron pocket with her charcoal-dusted fingers."
+      },
+      {
+        "ref": "EP24:E13",
+        "segment_index": 0,
+        "relative_start_ms": 6800,
+        "relative_end_ms": 8800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana's hand swiftly concealing the medicine bottle."
+      },
+      {
+        "ref": "EP24:E15",
+        "segment_index": 0,
+        "relative_start_ms": 8800,
+        "relative_end_ms": 10200,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"I heard her. I thought Her Grace needed help.\""
+      },
+      {
+        "ref": "EP24:E14",
+        "segment_index": 0,
+        "relative_start_ms": 8800,
+        "relative_end_ms": 10500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana facing the noblewoman, maintaining a calm, protective facade."
+      },
+      {
+        "ref": "EP24:E17",
+        "segment_index": 0,
+        "relative_start_ms": 10500,
+        "relative_end_ms": 14500,
+        "type": "dialogue",
+        "speaker": "NOBLEWOMAN",
+        "text": "\"You thought? A new maid thinks she knows better than the physicians?\""
+      },
+      {
+        "ref": "EP24:E16",
+        "segment_index": 0,
+        "relative_start_ms": 10500,
+        "relative_end_ms": 14800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Two-shot framing the noblewoman looking down at Juliana, bursting into mocking laughter."
+      },
+      {
+        "ref": "EP24:E18",
+        "segment_index": 0,
+        "relative_start_ms": 14800,
+        "relative_end_ms": 16800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana's resolute expression, her eyes flashing with righteous urgency."
+      },
+      {
+        "ref": "EP24:E19",
+        "segment_index": 0,
+        "relative_start_ms": 15000,
+        "relative_end_ms": 16600,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"She is suffering.\""
+      },
+      {
+        "ref": "EP24:E20",
+        "segment_index": 0,
+        "relative_start_ms": 16800,
+        "relative_end_ms": 18800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of the noblewoman's face twisting into a malicious sneer."
+      },
+      {
+        "ref": "EP24:E21",
+        "segment_index": 0,
+        "relative_start_ms": 17000,
+        "relative_end_ms": 18800,
+        "type": "dialogue",
+        "speaker": "NOBLEWOMAN",
+        "text": "\"Then let her suffer.\""
+      },
+      {
+        "ref": "EP24:E22",
+        "segment_index": 0,
+        "relative_start_ms": 18800,
+        "relative_end_ms": 20800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana recoiling slightly in shock at the blatant cruelty."
+      },
+      {
+        "ref": "EP24:E23",
+        "segment_index": 0,
+        "relative_start_ms": 19000,
+        "relative_end_ms": 20500,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"I cannot do that.\""
+      },
+      {
+        "ref": "EP24:E24",
+        "segment_index": 0,
+        "relative_start_ms": 20500,
+        "relative_end_ms": 22500,
+        "type": "action",
+        "speaker": null,
+        "text": "The noblewoman suddenly rears back her riding crop and strikes Juliana violently across the torso."
+      },
+      {
+        "ref": "EP24:E25",
+        "segment_index": 0,
+        "relative_start_ms": 20800,
+        "relative_end_ms": 21800,
+        "type": "sound",
+        "speaker": null,
+        "text": "A sharp, stinging whip crack as the riding crop makes harsh contact."
+      },
+      {
+        "ref": "EP24:E26",
+        "segment_index": 0,
+        "relative_start_ms": 21800,
+        "relative_end_ms": 24500,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana gasps in pain, clutching her stomach and bending over as she absorbs the brutal strike."
+      },
+      {
+        "ref": "EP24:E27",
+        "segment_index": 0,
+        "relative_start_ms": 21800,
+        "relative_end_ms": 24800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana hunched over in pain, clutching her abdomen."
+      },
+      {
+        "ref": "EP24:E28",
+        "segment_index": 0,
+        "relative_start_ms": 23000,
+        "relative_end_ms": 24800,
+        "type": "dialogue",
+        "speaker": "NOBLEWOMAN",
+        "text": "\"You are a maid.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_fd28d4156f907332",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 16400,
+        "end_ms": 48000,
+        "episode_id": "ep_024"
+      }
+    ],
+    "duration_ms": 31600,
+    "origin": "ep24_opp2",
+    "clip_events": [
+      {
+        "ref": "EP24:E9",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the noblewoman, her chin tilted up in icy condescension."
+      },
+      {
+        "ref": "EP24:E11",
+        "segment_index": 0,
+        "relative_start_ms": 400,
+        "relative_end_ms": 2400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the frail Dowager Duchess lying pale and unconscious against the white pillows, gasping weakly for air."
+      },
+      {
+        "ref": "EP24:E12",
+        "segment_index": 0,
+        "relative_start_ms": 2400,
+        "relative_end_ms": 4100,
+        "type": "action",
+        "speaker": null,
+        "text": "Behind her grey skirt, Juliana quickly slips the small glass remedy vial into her apron pocket with her charcoal-dusted fingers."
+      },
+      {
+        "ref": "EP24:E13",
+        "segment_index": 0,
+        "relative_start_ms": 2400,
+        "relative_end_ms": 4400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana's hand swiftly concealing the medicine bottle."
+      },
+      {
+        "ref": "EP24:E15",
+        "segment_index": 0,
+        "relative_start_ms": 4400,
+        "relative_end_ms": 5800,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"I heard her. I thought Her Grace needed help.\""
+      },
+      {
+        "ref": "EP24:E14",
+        "segment_index": 0,
+        "relative_start_ms": 4400,
+        "relative_end_ms": 6100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana facing the noblewoman, maintaining a calm, protective facade."
+      },
+      {
+        "ref": "EP24:E17",
+        "segment_index": 0,
+        "relative_start_ms": 6100,
+        "relative_end_ms": 10100,
+        "type": "dialogue",
+        "speaker": "NOBLEWOMAN",
+        "text": "\"You thought? A new maid thinks she knows better than the physicians?\""
+      },
+      {
+        "ref": "EP24:E16",
+        "segment_index": 0,
+        "relative_start_ms": 6100,
+        "relative_end_ms": 10400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Two-shot framing the noblewoman looking down at Juliana, bursting into mocking laughter."
+      },
+      {
+        "ref": "EP24:E18",
+        "segment_index": 0,
+        "relative_start_ms": 10400,
+        "relative_end_ms": 12400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana's resolute expression, her eyes flashing with righteous urgency."
+      },
+      {
+        "ref": "EP24:E19",
+        "segment_index": 0,
+        "relative_start_ms": 10600,
+        "relative_end_ms": 12200,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"She is suffering.\""
+      },
+      {
+        "ref": "EP24:E20",
+        "segment_index": 0,
+        "relative_start_ms": 12400,
+        "relative_end_ms": 14400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of the noblewoman's face twisting into a malicious sneer."
+      },
+      {
+        "ref": "EP24:E21",
+        "segment_index": 0,
+        "relative_start_ms": 12600,
+        "relative_end_ms": 14400,
+        "type": "dialogue",
+        "speaker": "NOBLEWOMAN",
+        "text": "\"Then let her suffer.\""
+      },
+      {
+        "ref": "EP24:E22",
+        "segment_index": 0,
+        "relative_start_ms": 14400,
+        "relative_end_ms": 16400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana recoiling slightly in shock at the blatant cruelty."
+      },
+      {
+        "ref": "EP24:E23",
+        "segment_index": 0,
+        "relative_start_ms": 14600,
+        "relative_end_ms": 16100,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"I cannot do that.\""
+      },
+      {
+        "ref": "EP24:E24",
+        "segment_index": 0,
+        "relative_start_ms": 16100,
+        "relative_end_ms": 18100,
+        "type": "action",
+        "speaker": null,
+        "text": "The noblewoman suddenly rears back her riding crop and strikes Juliana violently across the torso."
+      },
+      {
+        "ref": "EP24:E25",
+        "segment_index": 0,
+        "relative_start_ms": 16400,
+        "relative_end_ms": 17400,
+        "type": "sound",
+        "speaker": null,
+        "text": "A sharp, stinging whip crack as the riding crop makes harsh contact."
+      },
+      {
+        "ref": "EP24:E26",
+        "segment_index": 0,
+        "relative_start_ms": 17400,
+        "relative_end_ms": 20100,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana gasps in pain, clutching her stomach and bending over as she absorbs the brutal strike."
+      },
+      {
+        "ref": "EP24:E27",
+        "segment_index": 0,
+        "relative_start_ms": 17400,
+        "relative_end_ms": 20400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana hunched over in pain, clutching her abdomen."
+      },
+      {
+        "ref": "EP24:E28",
+        "segment_index": 0,
+        "relative_start_ms": 18600,
+        "relative_end_ms": 20400,
+        "type": "dialogue",
+        "speaker": "NOBLEWOMAN",
+        "text": "\"You are a maid.\""
+      },
+      {
+        "ref": "EP24:E29",
+        "segment_index": 0,
+        "relative_start_ms": 20400,
+        "relative_end_ms": 22400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle shot looking past the bedpost toward the Duchess, whose trembling hand reaches out limply."
+      },
+      {
+        "ref": "EP24:E30",
+        "segment_index": 0,
+        "relative_start_ms": 20600,
+        "relative_end_ms": 22400,
+        "type": "dialogue",
+        "speaker": "NOBLEWOMAN",
+        "text": "\"Not a physician. Not a lady.\""
+      },
+      {
+        "ref": "EP24:E31",
+        "segment_index": 0,
+        "relative_start_ms": 22400,
+        "relative_end_ms": 26600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Dramatic low-angle wide shot of the noblewoman standing imperiously over the doubled-over Juliana."
+      },
+      {
+        "ref": "EP24:E32",
+        "segment_index": 0,
+        "relative_start_ms": 22600,
+        "relative_end_ms": 26400,
+        "type": "dialogue",
+        "speaker": "NOBLEWOMAN",
+        "text": "\"And certainly not a woman whose opinion matters.\""
+      },
+      {
+        "ref": "EP24:E33",
+        "segment_index": 0,
+        "relative_start_ms": 26600,
+        "relative_end_ms": 29100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana looking down, enduring the humiliation while stifling her breath."
+      },
+      {
+        "ref": "EP24:E34",
+        "segment_index": 0,
+        "relative_start_ms": 26800,
+        "relative_end_ms": 28400,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Yes, my lady.\""
+      },
+      {
+        "ref": "EP24:E36",
+        "segment_index": 0,
+        "relative_start_ms": 29100,
+        "relative_end_ms": 31600,
+        "type": "dialogue",
+        "speaker": "NOBLEWOMAN",
+        "text": "\"Good. Perhaps we can teach you your place.\""
+      },
+      {
+        "ref": "EP24:E35",
+        "segment_index": 0,
+        "relative_start_ms": 29100,
+        "relative_end_ms": 31600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the noblewoman turning the crop in her white-gloved hands with smug satisfaction."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_f08dbd928e265d55",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 51500,
+        "end_ms": 78000,
+        "episode_id": "ep_024"
+      }
+    ],
+    "duration_ms": 26500,
+    "origin": "ep24_opp3",
+    "clip_events": [
+      {
+        "ref": "EP24:E39",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2000,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana's boots step down into a dark, rustic chamber dominated by an enormous, blackened stone hearth."
+      },
+      {
+        "ref": "EP24:E40",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot of the vast soot-stained stone fireplace. The noblewoman turns back toward Juliana, crop held at her side."
+      },
+      {
+        "ref": "EP24:E41",
+        "segment_index": 0,
+        "relative_start_ms": 2100,
+        "relative_end_ms": 3700,
+        "type": "dialogue",
+        "speaker": "NOBLEWOMAN",
+        "text": "\"Clean it.\""
+      },
+      {
+        "ref": "EP24:E42",
+        "segment_index": 0,
+        "relative_start_ms": 2500,
+        "relative_end_ms": 4700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the noblewoman extending her gloved hand toward the cavernous, filth-laden hearth."
+      },
+      {
+        "ref": "EP24:E44",
+        "segment_index": 0,
+        "relative_start_ms": 4700,
+        "relative_end_ms": 6100,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"All of it, my lady?\""
+      },
+      {
+        "ref": "EP24:E43",
+        "segment_index": 0,
+        "relative_start_ms": 4700,
+        "relative_end_ms": 6300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana looking up at the towering, soot-blackened chimney."
+      },
+      {
+        "ref": "EP24:E46",
+        "segment_index": 0,
+        "relative_start_ms": 6300,
+        "relative_end_ms": 12000,
+        "type": "dialogue",
+        "speaker": "NOBLEWOMAN",
+        "text": "\"Every stone. Perhaps when your hands are black enough, you will finally remember what you are.\""
+      },
+      {
+        "ref": "EP24:E45",
+        "segment_index": 0,
+        "relative_start_ms": 6300,
+        "relative_end_ms": 12300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up two-shot as the noblewoman steps unnervingly close to Juliana's face, whispering with sadistic relish."
+      },
+      {
+        "ref": "EP24:E47",
+        "segment_index": 0,
+        "relative_start_ms": 12300,
+        "relative_end_ms": 14500,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana slowly drops to her knees on the cold flagstones before the soot-filled fireplace."
+      },
+      {
+        "ref": "EP24:E48",
+        "segment_index": 0,
+        "relative_start_ms": 12300,
+        "relative_end_ms": 14700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana sinking to her knees, her face grim and composed."
+      },
+      {
+        "ref": "EP24:E49",
+        "segment_index": 0,
+        "relative_start_ms": 14500,
+        "relative_end_ms": 16000,
+        "type": "action",
+        "speaker": null,
+        "text": "Prudence steps toward the noblewoman in distress, her hands clasped tightly."
+      },
+      {
+        "ref": "EP24:E51",
+        "segment_index": 0,
+        "relative_start_ms": 14700,
+        "relative_end_ms": 16000,
+        "type": "dialogue",
+        "speaker": "PRUDENCE",
+        "text": "\"My lady—\""
+      },
+      {
+        "ref": "EP24:E50",
+        "segment_index": 0,
+        "relative_start_ms": 14700,
+        "relative_end_ms": 16300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Prudence's anxious, trembling face."
+      },
+      {
+        "ref": "EP24:E52",
+        "segment_index": 0,
+        "relative_start_ms": 16000,
+        "relative_end_ms": 18000,
+        "type": "action",
+        "speaker": null,
+        "text": "The noblewoman whips around sharply, thrusting the tip of her riding crop directly into Prudence's face."
+      },
+      {
+        "ref": "EP24:E53",
+        "segment_index": 0,
+        "relative_start_ms": 16300,
+        "relative_end_ms": 19000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the noblewoman baring her teeth in rage, aiming the crop threateningly."
+      },
+      {
+        "ref": "EP24:E54",
+        "segment_index": 0,
+        "relative_start_ms": 16500,
+        "relative_end_ms": 19000,
+        "type": "dialogue",
+        "speaker": "NOBLEWOMAN",
+        "text": "\"Do you want the same punishment?\""
+      },
+      {
+        "ref": "EP24:E55",
+        "segment_index": 0,
+        "relative_start_ms": 19000,
+        "relative_end_ms": 21300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Prudence flinching in terror, lowering her eyes immediately."
+      },
+      {
+        "ref": "EP24:E56",
+        "segment_index": 0,
+        "relative_start_ms": 19100,
+        "relative_end_ms": 20900,
+        "type": "dialogue",
+        "speaker": "PRUDENCE",
+        "text": "\"No, my lady.\""
+      },
+      {
+        "ref": "EP24:E57",
+        "segment_index": 0,
+        "relative_start_ms": 21000,
+        "relative_end_ms": 23000,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana grips a coarse scrubbing brush with both hands and begins vigorously scraping the thick black ash across the hearthstones."
+      },
+      {
+        "ref": "EP24:E58",
+        "segment_index": 0,
+        "relative_start_ms": 21300,
+        "relative_end_ms": 23300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up shot of Juliana's soot-covered hands fiercely scrubbing the black ash along the stone floor."
+      },
+      {
+        "ref": "EP24:E59",
+        "segment_index": 0,
+        "relative_start_ms": 21500,
+        "relative_end_ms": 26500,
+        "type": "sound",
+        "speaker": null,
+        "text": "Rhythmic, harsh rasping sound of bristles scraping against stone."
+      },
+      {
+        "ref": "EP24:E60",
+        "segment_index": 0,
+        "relative_start_ms": 23300,
+        "relative_end_ms": 26500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the noblewoman leaning casually against the wooden doorframe, watching Juliana toil with smug condescension."
+      },
+      {
+        "ref": "EP24:E61",
+        "segment_index": 0,
+        "relative_start_ms": 23500,
+        "relative_end_ms": 26500,
+        "type": "dialogue",
+        "speaker": "NOBLEWOMAN",
+        "text": "\"That is where clever little servants belong.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_ab1bfa5f9ce0e227",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 63500,
+        "end_ms": 89800,
+        "episode_id": "ep_024"
+      }
+    ],
+    "duration_ms": 26300,
+    "origin": "ep24_opp4",
+    "clip_events": [
+      {
+        "ref": "EP24:E45",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up two-shot as the noblewoman steps unnervingly close to Juliana's face, whispering with sadistic relish."
+      },
+      {
+        "ref": "EP24:E47",
+        "segment_index": 0,
+        "relative_start_ms": 300,
+        "relative_end_ms": 2500,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana slowly drops to her knees on the cold flagstones before the soot-filled fireplace."
+      },
+      {
+        "ref": "EP24:E48",
+        "segment_index": 0,
+        "relative_start_ms": 300,
+        "relative_end_ms": 2700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana sinking to her knees, her face grim and composed."
+      },
+      {
+        "ref": "EP24:E49",
+        "segment_index": 0,
+        "relative_start_ms": 2500,
+        "relative_end_ms": 4000,
+        "type": "action",
+        "speaker": null,
+        "text": "Prudence steps toward the noblewoman in distress, her hands clasped tightly."
+      },
+      {
+        "ref": "EP24:E51",
+        "segment_index": 0,
+        "relative_start_ms": 2700,
+        "relative_end_ms": 4000,
+        "type": "dialogue",
+        "speaker": "PRUDENCE",
+        "text": "\"My lady—\""
+      },
+      {
+        "ref": "EP24:E50",
+        "segment_index": 0,
+        "relative_start_ms": 2700,
+        "relative_end_ms": 4300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Prudence's anxious, trembling face."
+      },
+      {
+        "ref": "EP24:E52",
+        "segment_index": 0,
+        "relative_start_ms": 4000,
+        "relative_end_ms": 6000,
+        "type": "action",
+        "speaker": null,
+        "text": "The noblewoman whips around sharply, thrusting the tip of her riding crop directly into Prudence's face."
+      },
+      {
+        "ref": "EP24:E53",
+        "segment_index": 0,
+        "relative_start_ms": 4300,
+        "relative_end_ms": 7000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the noblewoman baring her teeth in rage, aiming the crop threateningly."
+      },
+      {
+        "ref": "EP24:E54",
+        "segment_index": 0,
+        "relative_start_ms": 4500,
+        "relative_end_ms": 7000,
+        "type": "dialogue",
+        "speaker": "NOBLEWOMAN",
+        "text": "\"Do you want the same punishment?\""
+      },
+      {
+        "ref": "EP24:E55",
+        "segment_index": 0,
+        "relative_start_ms": 7000,
+        "relative_end_ms": 9300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Prudence flinching in terror, lowering her eyes immediately."
+      },
+      {
+        "ref": "EP24:E56",
+        "segment_index": 0,
+        "relative_start_ms": 7100,
+        "relative_end_ms": 8900,
+        "type": "dialogue",
+        "speaker": "PRUDENCE",
+        "text": "\"No, my lady.\""
+      },
+      {
+        "ref": "EP24:E57",
+        "segment_index": 0,
+        "relative_start_ms": 9000,
+        "relative_end_ms": 11000,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana grips a coarse scrubbing brush with both hands and begins vigorously scraping the thick black ash across the hearthstones."
+      },
+      {
+        "ref": "EP24:E58",
+        "segment_index": 0,
+        "relative_start_ms": 9300,
+        "relative_end_ms": 11300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up shot of Juliana's soot-covered hands fiercely scrubbing the black ash along the stone floor."
+      },
+      {
+        "ref": "EP24:E59",
+        "segment_index": 0,
+        "relative_start_ms": 9500,
+        "relative_end_ms": 17500,
+        "type": "sound",
+        "speaker": null,
+        "text": "Rhythmic, harsh rasping sound of bristles scraping against stone."
+      },
+      {
+        "ref": "EP24:E60",
+        "segment_index": 0,
+        "relative_start_ms": 11300,
+        "relative_end_ms": 15000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the noblewoman leaning casually against the wooden doorframe, watching Juliana toil with smug condescension."
+      },
+      {
+        "ref": "EP24:E61",
+        "segment_index": 0,
+        "relative_start_ms": 11500,
+        "relative_end_ms": 14500,
+        "type": "dialogue",
+        "speaker": "NOBLEWOMAN",
+        "text": "\"That is where clever little servants belong.\""
+      },
+      {
+        "ref": "EP24:E62",
+        "segment_index": 0,
+        "relative_start_ms": 15000,
+        "relative_end_ms": 17700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium profile shot of Juliana kneeling by the hearth in the dim window light, scrubbing steadily."
+      },
+      {
+        "ref": "EP24:E63",
+        "segment_index": 0,
+        "relative_start_ms": 15100,
+        "relative_end_ms": 17500,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Let her think I am only a maid.\""
+      },
+      {
+        "ref": "EP24:E64",
+        "segment_index": 0,
+        "relative_start_ms": 17700,
+        "relative_end_ms": 21500,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana pauses scrubbing. Her soot-caked fingers reach into the deep pocket of her apron, carefully feeling the worn leather cover of her mother's remedy journal and the glass dropper bottle securely concealed within."
+      },
+      {
+        "ref": "EP24:E65",
+        "segment_index": 0,
+        "relative_start_ms": 17700,
+        "relative_end_ms": 21700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana's soot-stained hand touching the hidden remedy book and the antidote vial inside her apron pocket."
+      },
+      {
+        "ref": "EP24:E66",
+        "segment_index": 0,
+        "relative_start_ms": 18000,
+        "relative_end_ms": 21300,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Let her believe I am ignorant.\""
+      },
+      {
+        "ref": "EP24:E67",
+        "segment_index": 0,
+        "relative_start_ms": 21700,
+        "relative_end_ms": 26300,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana raises her head. Smudges of dark soot stain her fair cheek, but her piercing blue eyes burn with unwavering defiance and unyielding resolve as she stares toward the hallway."
+      },
+      {
+        "ref": "EP24:E68",
+        "segment_index": 0,
+        "relative_start_ms": 21700,
+        "relative_end_ms": 26300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of Juliana's soot-streaked face turning slowly toward the chamber exit, her jaw set firm as dramatic music builds to a powerful crescendo."
+      },
+      {
+        "ref": "EP24:E69",
+        "segment_index": 0,
+        "relative_start_ms": 22100,
+        "relative_end_ms": 26300,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"I will return. You cannot stop the healer.\""
+      }
+    ]
+  }
+]

@@ -1,0 +1,1044 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "ep_047",
+  "episode_number": 47,
+  "metadata": {
+    "logline": "While Alexander reassures Juliana of their unbreakable bond amid the council's opposition, a destitute Catherine begs for sanctuary at Ashbourne—only for Juliana to offer her survival under the strict humiliation of a scullery maid.",
+    "continuity_notes": "Follows Episode 46's ecclesiastical challenge by the High Priest. While Catherine plots in secret to remain on the estate, the morning brings her disgrace to light as Juliana decides her fate."
+  },
+  "source": {
+    "file": "046_episode-047-Episode 1688396.txt",
+    "sha256": "fff9175ab2120638b955660a5b8cdf11c5f6cdfaf8e0d40d313c7f1a8a54b63a",
+    "complete": false
+  },
+  "scenes": [
+    {
+      "start_ms": 0,
+      "end_ms": 21500,
+      "id": "sc_001",
+      "heading": "INT. ESTATE CHAMBERS – NIGHT"
+    },
+    {
+      "start_ms": 21500,
+      "end_ms": 55500,
+      "id": "sc_002",
+      "heading": "INT. DUKE'S BEDCHAMBER – MORNING"
+    },
+    {
+      "start_ms": 55500,
+      "end_ms": 83500,
+      "id": "sc_003",
+      "heading": "EXT. ASHBOURNE COURTYARD – DAY"
+    },
+    {
+      "start_ms": 83500,
+      "end_ms": 134000,
+      "id": "sc_004",
+      "heading": "INT. ASHBOURNE GREAT HALL / VESTIBULE – CONTINUOUS"
+    }
+  ],
+  "events": [
+    {
+      "start_ms": 0,
+      "end_ms": 1800,
+      "id": "e_001",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle focus on a dripping candle burning on a wooden table beside a dark window looking out into the misty night.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        14,
+        16
+      ]
+    },
+    {
+      "start_ms": 1800,
+      "end_ms": 8500,
+      "id": "e_002",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Catherine in a lace nightgown and lilac robe, holding a goblet of red wine with cold determination.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        18,
+        20
+      ]
+    },
+    {
+      "start_ms": 1800,
+      "end_ms": 8200,
+      "id": "e_003",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Rupert is rotting in the undercroft cells. Not me. I intend to stay on this estate.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Calculated, Defiant",
+      "source_lines": [
+        22,
+        24
+      ]
+    },
+    {
+      "start_ms": 8500,
+      "end_ms": 14800,
+      "id": "e_004",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Two-shot framing Catherine in the background with a muscular, bare-chested conspirator standing in shadow beside her.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        26,
+        28
+      ]
+    },
+    {
+      "start_ms": 8800,
+      "end_ms": 14500,
+      "id": "e_005",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Alexander will scour the grounds at first light. The High Council has already blocked the marriage registry.\"",
+      "speaker": "CONSPIRATOR",
+      "delivery": "Low, Warning",
+      "source_lines": [
+        30,
+        32
+      ]
+    },
+    {
+      "start_ms": 14800,
+      "end_ms": 18300,
+      "id": "e_006",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up profile of Catherine leaning close to the man's shoulder, her eyes burning with ambition.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        34,
+        36
+      ]
+    },
+    {
+      "start_ms": 15000,
+      "end_ms": 18200,
+      "id": "e_007",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Then you will make sure I remain inside these walls.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Commanding, Scheming",
+      "source_lines": [
+        38,
+        40
+      ]
+    },
+    {
+      "start_ms": 18300,
+      "end_ms": 21500,
+      "id": "e_008",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Silhouette shot against the tall arched window as Catherine turns her back to him.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        42,
+        44
+      ]
+    },
+    {
+      "start_ms": 18500,
+      "end_ms": 21200,
+      "id": "e_009",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Keep the council paralyzed. I will do the rest.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Ruthless, Focused",
+      "source_lines": [
+        46,
+        48
+      ]
+    },
+    {
+      "start_ms": 21500,
+      "end_ms": 23200,
+      "id": "e_010",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Atmospheric wide pan across the spacious master bedroom, daylight spilling softly through tall Gothic windows onto the hearth fire.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        57,
+        59
+      ]
+    },
+    {
+      "start_ms": 23200,
+      "end_ms": 26500,
+      "id": "e_011",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium shot of Alexander and Juliana sitting together on the edge of the velvet bed, dressed in morning robes.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        61,
+        63
+      ]
+    },
+    {
+      "start_ms": 23400,
+      "end_ms": 26800,
+      "id": "e_012",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"What if Father Thomas sways the High Council?\"",
+      "speaker": "JULIANA",
+      "delivery": "Anxious, Trembling",
+      "source_lines": [
+        65,
+        67
+      ]
+    },
+    {
+      "start_ms": 26500,
+      "end_ms": 30500,
+      "id": "e_013",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up of Juliana's distressed face, tears shimmering in her eyes as she looks up at Alexander.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        69,
+        71
+      ]
+    },
+    {
+      "start_ms": 27000,
+      "end_ms": 30300,
+      "id": "e_014",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"What if they strip your title? Because of me?\"",
+      "speaker": "JULIANA",
+      "delivery": "Vulnerable, Fearful",
+      "source_lines": [
+        73,
+        75
+      ]
+    },
+    {
+      "start_ms": 30500,
+      "end_ms": 35000,
+      "id": "e_015",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "Juliana looks down at her hands, turning over her scarred palms shaped by years of herbal work.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        77,
+        79
+      ]
+    },
+    {
+      "start_ms": 31000,
+      "end_ms": 35200,
+      "id": "e_016",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"I am only a healer. The lords will never accept me.\"",
+      "speaker": "JULIANA",
+      "delivery": "Despairing",
+      "source_lines": [
+        81,
+        83
+      ]
+    },
+    {
+      "start_ms": 35500,
+      "end_ms": 37500,
+      "id": "e_017",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Profile shot as Alexander reaches out and firmly clasps Juliana's trembling hands in his own.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        85,
+        87
+      ]
+    },
+    {
+      "start_ms": 35800,
+      "end_ms": 37800,
+      "id": "e_018",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Look at me, Juliana.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Gentle, Resolute",
+      "source_lines": [
+        89,
+        91
+      ]
+    },
+    {
+      "start_ms": 37500,
+      "end_ms": 42500,
+      "id": "e_019",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up of Alexander raising his scarred hand to tenderly cradle Juliana's cheek.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        93,
+        95
+      ]
+    },
+    {
+      "start_ms": 38200,
+      "end_ms": 42500,
+      "id": "e_020",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"You saved my mother's life. You stood by me when I had nothing.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Fierce, Loving",
+      "source_lines": [
+        97,
+        99
+      ]
+    },
+    {
+      "start_ms": 42500,
+      "end_ms": 45800,
+      "id": "e_021",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Tight close-up on Alexander's gaze locking onto Juliana's tearful eyes.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        101,
+        103
+      ]
+    },
+    {
+      "start_ms": 43000,
+      "end_ms": 45500,
+      "id": "e_022",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"You are my wife.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Deep, Unwavering",
+      "source_lines": [
+        105,
+        107
+      ]
+    },
+    {
+      "start_ms": 45500,
+      "end_ms": 48000,
+      "id": "e_023",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "Alexander gently pulls Juliana closer, his hands resting securely on her shoulders.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        109,
+        111
+      ]
+    },
+    {
+      "start_ms": 45800,
+      "end_ms": 54800,
+      "id": "e_024",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"You were my wife before that priest ever opened his mouth. And we will stand before the King and God again within ten days. Nothing breaks that.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Authoritative, Steadfast",
+      "source_lines": [
+        113,
+        115
+      ]
+    },
+    {
+      "start_ms": 55500,
+      "end_ms": 56800,
+      "id": "e_025",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Wide establishing shot of the rain-drenched cobblestone courtyard surrounded by imposing Gothic arches.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        124,
+        126
+      ]
+    },
+    {
+      "start_ms": 56800,
+      "end_ms": 60000,
+      "id": "e_026",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Medium shot of Lady Ashbourne leaning heavily on her walking cane, glaring down at Catherine who kneels in the mud.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        128,
+        130
+      ]
+    },
+    {
+      "start_ms": 56800,
+      "end_ms": 59800,
+      "id": "e_027",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"You dare show your face in Ashbourne courtyard?\"",
+      "speaker": "LADY ASHBOURNE",
+      "delivery": "Sharp, Contemptuous",
+      "source_lines": [
+        132,
+        134
+      ]
+    },
+    {
+      "start_ms": 60000,
+      "end_ms": 63500,
+      "id": "e_028",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "High-angle shot looking down at Catherine in her disheveled burgundy gown, clutching her skirts and weeping profusely.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        136,
+        138
+      ]
+    },
+    {
+      "start_ms": 60500,
+      "end_ms": 63400,
+      "id": "e_029",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"I have nowhere to go, Your Grace.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Desperate, Weeping",
+      "source_lines": [
+        140,
+        142
+      ]
+    },
+    {
+      "start_ms": 63500,
+      "end_ms": 67000,
+      "id": "e_030",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Low-angle shot tracking Catherine clutching her chest in agony.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        144,
+        146
+      ]
+    },
+    {
+      "start_ms": 63500,
+      "end_ms": 66800,
+      "id": "e_031",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"London closed its doors! My family disowned me!\"",
+      "speaker": "CATHERINE",
+      "delivery": "Sobbing, Pleading",
+      "source_lines": [
+        148,
+        150
+      ]
+    },
+    {
+      "start_ms": 67000,
+      "end_ms": 71500,
+      "id": "e_032",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Medium close-up of Lady Ashbourne, her gloved hand resting on her cane as she delivers her cold judgment.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        152,
+        154
+      ]
+    },
+    {
+      "start_ms": 67200,
+      "end_ms": 71200,
+      "id": "e_033",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"She aided the poison in my veins. Cast her into the road.\"",
+      "speaker": "LADY ASHBOURNE",
+      "delivery": "Cold, Unforgiving",
+      "source_lines": [
+        156,
+        158
+      ]
+    },
+    {
+      "start_ms": 71500,
+      "end_ms": 74800,
+      "id": "e_034",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Medium shot of Vaughn drawing his baton, ready to seize Catherine from behind.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        160,
+        162
+      ]
+    },
+    {
+      "start_ms": 71800,
+      "end_ms": 74800,
+      "id": "e_035",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"One command, Your Grace, and I drag her past the gates.\"",
+      "speaker": "VAUGHN",
+      "delivery": "Gruff, Ready",
+      "source_lines": [
+        164,
+        166
+      ]
+    },
+    {
+      "start_ms": 74800,
+      "end_ms": 78800,
+      "id": "e_036",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Wide shot as Alexander strides purposefully into the courtyard alongside Juliana, his coat billowing behind him.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        168,
+        170
+      ]
+    },
+    {
+      "start_ms": 75200,
+      "end_ms": 78500,
+      "id": "e_037",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"Do it, Vaughn! Throw her past the estate perimeter!\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Furious, Decisive",
+      "source_lines": [
+        172,
+        174
+      ]
+    },
+    {
+      "start_ms": 78800,
+      "end_ms": 81800,
+      "id": "e_038",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Close-up of Catherine collapsed on the wet stones, looking up with tear-streaked panic.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        176,
+        178
+      ]
+    },
+    {
+      "start_ms": 78800,
+      "end_ms": 81800,
+      "id": "e_039",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"Please, Alexander! Have mercy!\"",
+      "speaker": "CATHERINE",
+      "delivery": "Hysterical, Screaming",
+      "source_lines": [
+        180,
+        182
+      ]
+    },
+    {
+      "start_ms": 81800,
+      "end_ms": 83500,
+      "id": "e_040",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Medium shot of Juliana raising her right hand firmly to halt the guard.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        184,
+        186
+      ]
+    },
+    {
+      "start_ms": 82200,
+      "end_ms": 83400,
+      "id": "e_041",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"Stop.\"",
+      "speaker": "JULIANA",
+      "delivery": "Clear, Authoritative",
+      "source_lines": [
+        188,
+        190
+      ]
+    },
+    {
+      "start_ms": 83500,
+      "end_ms": 86500,
+      "id": "e_042",
+      "scene_id": "sc_004",
+      "type": "camera",
+      "text": "Medium shot of Alexander turning toward Juliana in sheer disbelief.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        199,
+        201
+      ]
+    },
+    {
+      "start_ms": 84000,
+      "end_ms": 86500,
+      "id": "e_043",
+      "scene_id": "sc_004",
+      "type": "dialogue",
+      "text": "\"Juliana, she tried to destroy you!\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Indignant, Protective",
+      "source_lines": [
+        203,
+        205
+      ]
+    },
+    {
+      "start_ms": 86500,
+      "end_ms": 88000,
+      "id": "e_044",
+      "scene_id": "sc_004",
+      "type": "camera",
+      "text": "Close-up of Juliana maintaining serene poise.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        207,
+        209
+      ]
+    },
+    {
+      "start_ms": 86700,
+      "end_ms": 87800,
+      "id": "e_045",
+      "scene_id": "sc_004",
+      "type": "dialogue",
+      "text": "\"She did.\"",
+      "speaker": "JULIANA",
+      "delivery": "Calm, Composed",
+      "source_lines": [
+        211,
+        213
+      ]
+    },
+    {
+      "start_ms": 88000,
+      "end_ms": 91000,
+      "id": "e_046",
+      "scene_id": "sc_004",
+      "type": "camera",
+      "text": "Medium tracking shot as Juliana steps gracefully past Alexander toward Catherine.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        215,
+        217
+      ]
+    },
+    {
+      "start_ms": 88200,
+      "end_ms": 91000,
+      "id": "e_047",
+      "scene_id": "sc_004",
+      "type": "dialogue",
+      "text": "\"But Ashbourne does not throw beggars into the mud.\"",
+      "speaker": "JULIANA",
+      "delivery": "Dignified, Principled",
+      "source_lines": [
+        219,
+        221
+      ]
+    },
+    {
+      "start_ms": 91000,
+      "end_ms": 95000,
+      "id": "e_048",
+      "scene_id": "sc_004",
+      "type": "action",
+      "text": "Juliana walks to a side bench, picks up a rough servant's apron and a heavy iron ring of keys, and turns back to face Catherine.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        223,
+        225
+      ]
+    },
+    {
+      "start_ms": 91500,
+      "end_ms": 95000,
+      "id": "e_049",
+      "scene_id": "sc_004",
+      "type": "dialogue",
+      "text": "\"If you seek shelter in this house, Catherine, you earn it.\"",
+      "speaker": "JULIANA",
+      "delivery": "Steely, Direct",
+      "source_lines": [
+        227,
+        229
+      ]
+    },
+    {
+      "start_ms": 95500,
+      "end_ms": 98800,
+      "id": "e_050",
+      "scene_id": "sc_004",
+      "type": "camera",
+      "text": "Close-up of Catherine's face turning from despair to offended shock.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        231,
+        233
+      ]
+    },
+    {
+      "start_ms": 96000,
+      "end_ms": 98800,
+      "id": "e_051",
+      "scene_id": "sc_004",
+      "type": "dialogue",
+      "text": "\"You want me? As a guest?\"",
+      "speaker": "CATHERINE",
+      "delivery": "Incredulous, Stunned",
+      "source_lines": [
+        235,
+        237
+      ]
+    },
+    {
+      "start_ms": 98800,
+      "end_ms": 101200,
+      "id": "e_052",
+      "scene_id": "sc_004",
+      "type": "camera",
+      "text": "Close-up of Juliana staring straight into Catherine's eyes without blinking.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        239,
+        241
+      ]
+    },
+    {
+      "start_ms": 99200,
+      "end_ms": 101000,
+      "id": "e_053",
+      "scene_id": "sc_004",
+      "type": "dialogue",
+      "text": "\"As a scullery maid.\"",
+      "speaker": "JULIANA",
+      "delivery": "Unflinching, Firm",
+      "source_lines": [
+        243,
+        245
+      ]
+    },
+    {
+      "start_ms": 101200,
+      "end_ms": 104800,
+      "id": "e_054",
+      "scene_id": "sc_004",
+      "type": "camera",
+      "text": "Medium shot of Catherine recoiling in disgust, looking around at the gathered estate retainers.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        247,
+        249
+      ]
+    },
+    {
+      "start_ms": 101500,
+      "end_ms": 104500,
+      "id": "e_055",
+      "scene_id": "sc_004",
+      "type": "dialogue",
+      "text": "\"You expect me to scrub floors before these commoners?\"",
+      "speaker": "CATHERINE",
+      "delivery": "Outraged, Venomous",
+      "source_lines": [
+        251,
+        253
+      ]
+    },
+    {
+      "start_ms": 104800,
+      "end_ms": 108500,
+      "id": "e_056",
+      "scene_id": "sc_004",
+      "type": "camera",
+      "text": "Dramatic profile two-shot of Juliana standing inches away from Catherine, dominating the confrontation.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        255,
+        257
+      ]
+    },
+    {
+      "start_ms": 105200,
+      "end_ms": 108500,
+      "id": "e_057",
+      "scene_id": "sc_004",
+      "type": "dialogue",
+      "text": "\"You will scrub the floors you walked on as an impostor.\"",
+      "speaker": "JULIANA",
+      "delivery": "Measured, Commanding",
+      "source_lines": [
+        259,
+        261
+      ]
+    },
+    {
+      "start_ms": 108500,
+      "end_ms": 111500,
+      "id": "e_058",
+      "scene_id": "sc_004",
+      "type": "camera",
+      "text": "Juliana extends the ring of iron keys outward in her fist.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        263,
+        265
+      ]
+    },
+    {
+      "start_ms": 108800,
+      "end_ms": 111500,
+      "id": "e_059",
+      "scene_id": "sc_004",
+      "type": "dialogue",
+      "text": "\"You will scrub the manor hearths at dawn.\"",
+      "speaker": "JULIANA",
+      "delivery": "Stern, Demanding",
+      "source_lines": [
+        267,
+        269
+      ]
+    },
+    {
+      "start_ms": 111500,
+      "end_ms": 114500,
+      "id": "e_060",
+      "scene_id": "sc_004",
+      "type": "camera",
+      "text": "Close profile two-shot of the two women locked in an intense psychological battle.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        271,
+        273
+      ]
+    },
+    {
+      "start_ms": 111800,
+      "end_ms": 114500,
+      "id": "e_061",
+      "scene_id": "sc_004",
+      "type": "dialogue",
+      "text": "\"You will scour the kitchen grease until midnight.\"",
+      "speaker": "JULIANA",
+      "delivery": "Unforgiving",
+      "source_lines": [
+        275,
+        277
+      ]
+    },
+    {
+      "start_ms": 114500,
+      "end_ms": 118500,
+      "id": "e_062",
+      "scene_id": "sc_004",
+      "type": "camera",
+      "text": "Juliana presents the rough hemp apron and heavy keys right to Catherine's face.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        279,
+        281
+      ]
+    },
+    {
+      "start_ms": 114800,
+      "end_ms": 118500,
+      "id": "e_063",
+      "scene_id": "sc_004",
+      "type": "dialogue",
+      "text": "\"One complaint from the housekeeper, and you are cast out with nothing.\"",
+      "speaker": "JULIANA",
+      "delivery": "Stern, Final",
+      "source_lines": [
+        283,
+        285
+      ]
+    },
+    {
+      "start_ms": 118500,
+      "end_ms": 121800,
+      "id": "e_064",
+      "scene_id": "sc_004",
+      "type": "camera",
+      "text": "Close-up of Catherine's trembling lips, humiliated tears spilling down her heavily made-up cheeks.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        287,
+        289
+      ]
+    },
+    {
+      "start_ms": 119200,
+      "end_ms": 121600,
+      "id": "e_065",
+      "scene_id": "sc_004",
+      "type": "dialogue",
+      "text": "\"You humiliate me.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Choked, Humiliated",
+      "source_lines": [
+        291,
+        293
+      ]
+    },
+    {
+      "start_ms": 121800,
+      "end_ms": 127500,
+      "id": "e_066",
+      "scene_id": "sc_004",
+      "type": "camera",
+      "text": "Medium shot of both women standing beneath the cathedral vaulting of the hall.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        295,
+        297
+      ]
+    },
+    {
+      "start_ms": 122200,
+      "end_ms": 127200,
+      "id": "e_067",
+      "scene_id": "sc_004",
+      "type": "dialogue",
+      "text": "\"I offer you bread and honest labor. Take the apron, or leave the county.\"",
+      "speaker": "JULIANA",
+      "delivery": "Calm, Sovereign",
+      "source_lines": [
+        299,
+        301
+      ]
+    },
+    {
+      "start_ms": 127500,
+      "end_ms": 131500,
+      "id": "e_068",
+      "scene_id": "sc_004",
+      "type": "camera",
+      "text": "Extreme close-up on Catherine's trembling hands as she reaches out, taking the coarse apron and clattering iron keys, pressing them desperately against her chest.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        303,
+        305
+      ]
+    },
+    {
+      "start_ms": 128500,
+      "end_ms": 131200,
+      "id": "e_069",
+      "scene_id": "sc_004",
+      "type": "dialogue",
+      "text": "\"I accept, Your Grace.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Broken, Defeated",
+      "source_lines": [
+        307,
+        309
+      ]
+    },
+    {
+      "start_ms": 131500,
+      "end_ms": 134000,
+      "id": "e_070",
+      "scene_id": "sc_004",
+      "type": "camera",
+      "text": "Wide shot down the vaulted stone hall as Catherine prostrates herself entirely upon the floor before Alexander, Juliana, and Lady Ashbourne, humbled to the stone as the scene cuts to black.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        311,
+        313
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "start_ms": 0,
+      "end_ms": 35200
+    },
+    {
+      "start_ms": 35500,
+      "end_ms": 54800
+    },
+    {
+      "start_ms": 55500,
+      "end_ms": 95000
+    },
+    {
+      "start_ms": 95500,
+      "end_ms": 134000
+    }
+  ],
+  "warnings": [
+    "sc_002: incomplete source coverage; gaps are unavailable",
+    "sc_004: incomplete source coverage; gaps are unavailable"
+  ]
+}

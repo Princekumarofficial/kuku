@@ -1,0 +1,44 @@
+{
+  "candidate_id": "c_fe848e62a5960eef",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP09:E6",
+      "EP09:E7",
+      "EP09:E8"
+    ],
+    "reason": "Opens within 0-3000ms with a tense alarm and Alexander's warning 'Stay back. I'll open it.' followed by the door opening onto pouring rain and a distraught mother entering. The stakes are clear, though the opening rests on unexplained tension."
+  },
+  "cliffhanger": {
+    "score_0_10": 4.0,
+    "evidence_refs": [
+      "EP09:E27",
+      "EP09:E28"
+    ],
+    "reason": "The final 3000ms show Juliana's resolute 'I have to be.' after Alexander asks 'You're certain?'. The boy's fever and the remedy choice remain unresolved at the cut, but the ending reads as a mid-scene beat rather than a suspenseful hook.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Juliana and Alexander are and their relationship",
+      "Why the mother believes Juliana knows herbs",
+      "Where the cottage is and why it is raining",
+      "The significance of the weathered herbal book or grimoire",
+      "Whether Juliana's remedy is correct and what happens to the boy",
+      "What happened before the clip started"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The distraught mother's tears, the feverish child, and Juliana's urgent focus create strong sympathy. The emotional pull is undercut by the lack of context for the characters."
+  },
+  "weaknesses": [
+    "Characters and setting are not introduced, so a first-time viewer lacks grounding",
+    "Stakes of the grimoire and Juliana's expertise are not explained",
+    "The ending lacks a decisive hook and the boy's outcome is not shown",
+    "Dialogue is sparse relative to the long shots of examination",
+    "Alexander's role and motivation are unclear"
+  ],
+  "one_line_why_it_works": "A sudden door-opening and a desperate mother with a burning child create immediate urgency, and Juliana's focused response to the stakes builds sympathy."
+}

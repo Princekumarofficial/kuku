@@ -1,0 +1,38 @@
+{
+  "candidate_id": "c_7f9ceb1d70f1ca0b",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP46:E31",
+      "EP46:E34"
+    ],
+    "reason": "Opens within 0-3000ms with a proclamation thrust at camera and a tearful, furious close-up; Juliana's defiant line lands early. Stakes are felt but the specific conflict is only partly clear to a first-time viewer."
+  },
+  "cliffhanger": {
+    "score_0_10": 1.0,
+    "evidence_refs": [
+      "EP46:E46"
+    ],
+    "reason": "The clip ends on Juliana's rebuttal 'God married us, Father!' which is a resolved exchange of argument rather than an unresolved hook; no new threat or reveal is set up in the final 3000ms.",
+    "unresolved_at_end": false
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Meaning of the royal War Office proclamation is not explained",
+      "Relationship between Juliana, Alexander, and the High Priest is not established",
+      "Why a marriage is considered a lie or what 'paper' refers to is unclear",
+      "Who the Duchess title concerns and why it matters is not stated"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Juliana's tearful fury, trembling indignation, and shouted defiance build intense emotion across the clip, with the priest's condescending smirk adding antagonism."
+  },
+  "weaknesses": [
+    "Conflict stakes depend on unexplained context such as the proclamation and the marriage legitimacy dispute",
+    "Ending is a resolved verbal climax rather than a cliffhanger",
+    "Hook relies on emotional tone more than a clear question for the viewer"
+  ],
+  "one_line_why_it_works": "A defiant woman confronting an authority figure over her marriage delivers strong emotional stakes and a punchy verbal climax, even though the underlying situation is not fully explained."
+}

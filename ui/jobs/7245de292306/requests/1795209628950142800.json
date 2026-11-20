@@ -1,0 +1,414 @@
+{
+  "stage": "episode_analysis",
+  "system": "Analyze narrative beats, characters, revelations and unresolved questions. Only event text is on-screen evidence; metadata may describe unseen events. Use supplied EPxx:Ex aliases. Report uncertainty in the summary. A revelation's significance is not its spoiler damage.",
+  "user": "EP=ep_026; timestamps are integer milliseconds\nSOURCE_SHA256=6ffdcf181c0b1067f4524a1696da17735a23b94498c443f342516aab7fe15966\nMETADATA ONLY (not on-screen evidence): {'logline': 'While secretly administering a charcoal antidote to the poisoned Dowager Duchess in the dead of night, Juliana is stunned when the Duchess suddenly recognizes a distinctive family ring on her hand and fiercely demands the truth about her identity.', 'continuity_notes': \"Following her encounter with Alexander in the forest where she vowed to protect the Duchess, Juliana sneaks into the bedchamber at Ashburg Manor to deliver the remaining antidote before Rupert and Catherine's poison takes full hold.\"}\nSOURCE WARNINGS=[]\nSCENE sc_001 0-120880 INT. DOWAGER DUCHESS'S BEDCHAMBER – NIGHT\nEP26:E1 0-5800 CAMERA: Wide shot framed through heavy bed curtains in a dark, candlelit bedchamber. Juliana in her maid's apron sits vigilantly beside the canopied bed where the frail Dowager Duchess lies.\nEP26:E2 0-5500 ACTION: Juliana glances nervously back toward the door, ensuring no guards are near, before turning her full attention back to the ailing Duchess.\nEP26:E3 5800-10500 CAMERA: Close-up of Juliana's hands unscrewing the glass dropper from a small amber medicine bottle filled with dark medicinal liquid.\nEP26:E4 6500-9000 SOUND: Tense, atmospheric orchestral score builds softly in the background.\nEP26:E5 10500-14200 CAMERA: Close-up of the Dowager Duchess resting against pale pillows as her heavy eyelids slowly open, her gaze weak and disoriented.\nEP26:E6 11000-14000 ACTION: The Dowager Duchess blinks against the dim lamplight, turning her head toward Juliana.\nEP26:E7 14200-20500 CAMERA: Low-angle medium two-shot looking past Juliana's silhouette down to the Duchess in bed.\nEP26:E8 14200-20200 DOWAGER DUCHESS [Weak, Raspy]: \"Who are you? Speak to me. I have not seen your face before.\"\nEP26:E9 20500-25800 CAMERA: Close-up of Juliana leaning over the bed, holding the dropper bottle carefully toward the Duchess's mouth, her expression urgent yet tender.\nEP26:E10 20600-25400 JULIANA [Urgent, Reassuring]: \"Please, Your Grace. Drink the last of this antidote. Drink it slowly.\"\nEP26:E11 25800-28500 CAMERA: Extreme close-up of the Duchess taking drops of the dark liquid from the glass bottle onto her lips.\nEP26:E12 25800-28400 ACTION: The Duchess swallows the remedy with difficulty as Juliana carefully tilts the amber bottle.\nEP26:E13 28500-30800 CAMERA: Medium two-shot as Juliana withdraws the medicine bottle, standing beside the bedside lamp.\nEP26:E14 30800-35800 CAMERA: Close-up of the Dowager Duchess observing Juliana with faint recognition through her exhaustion.\nEP26:E15 30800-35500 DOWAGER DUCHESS [Faint, Discerning]: \"You... you are no common servant. You took Catherine's whip for me the other day.\"\nEP26:E16 35800-40200 CAMERA: Close-up of Juliana, her eyes reflecting quiet resolve and pain.\nEP26:E17 36000-39800 JULIANA [Humble, Sincere]: \"I did what I had to. It does not change my duty.\"\nEP26:E18 40200-43200 CAMERA: Medium two-shot as Juliana leans closer to tuck the blankets securely over the Duchess.\nEP26:E19 40300-43000 JULIANA [Gentle, Calming]: \"Rest now, Your Grace. You are safe tonight.\"\nEP26:E20 43200-47500 CAMERA: Close-up of Juliana looking around the shadowy room, her voice dropping to a tense whisper.\nEP26:E21 43500-47000 JULIANA [Hushed, Tense Whisper]: \"If the guards hear us, we are both dead.\"\nEP26:E22 47500-50800 CAMERA: Static shot of the heavy carved double doors to the bedchamber, left slightly ajar with a sliver of hallway candlelight gleaming through the gap.\nEP26:E23 50800-55800 CAMERA: Close-up of the Dowager Duchess lying back, processing Juliana's warning as dark realization settles into her face.\nEP26:E24 52500-55500 ACTION: The Duchess clutches the blanket against her chest, her breathing quickening with dismay.\nEP26:E25 55800-62500 CAMERA: Medium close-up of the Duchess looking upward toward Juliana, her voice trembling with tragic certainty.\nEP26:E26 56000-62000 DOWAGER DUCHESS [Trembling, Heartbroken]: \"Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?\"\nEP26:E27 62500-67000 CAMERA: Medium shot of Juliana leaning over the edge of the mattress, nodding earnestly to soothe her fears.\nEP26:E28 62600-66700 JULIANA [Reassuring, Steadfast]: \"Yes. But the charcoal is fighting the poison. You are safe now.\"\nEP26:E29 67000-71800 CAMERA: Close-up of the small amber dropper bottle sitting atop the polished wooden bedside table in the dim glow of the lamp.\nEP26:E30 71800-79600 CAMERA: Medium shot of the Dowager Duchess looking intently at Juliana from her pillows, studying her bearing.\nEP26:E31 73800-79400 DOWAGER DUCHESS [Curious, Searching]: \"Then tell me... why is a girl of such noble spirit working as a common maid?\"\nEP26:E32 79600-86500 CAMERA: Close-up of Juliana, her chin lifting with dignified sorrow and quiet defiance.\nEP26:E33 80000-85800 JULIANA [Painful, Proud]: \"Because my family cast me out to rot. I have nothing left in this world but my honor.\"\nEP26:E34 86500-90800 CAMERA: Medium tracking down Juliana's apron to her hand as she rests it against the bed linens, revealing a distinctive engraved signet ring on her finger.\nEP26:E35 87000-90500 ACTION: Juliana rests her right hand against the edge of the bedcover, unwittingly placing the unique ring directly within the Duchess's line of sight.\nEP26:E36 90200-92000 SOUND: A sharp, stunned gasp.\nEP26:E37 90800-95000 CAMERA: Extreme close-up of the Dowager Duchess gasping sharply, her eyes widening in profound shock as all color drains from her face.\nEP26:E38 90800-95000 ACTION: The Duchess's mouth hangs open in pure disbelief as she stares fixedly at Juliana's hand.\nEP26:E39 95000-100000 CAMERA: Medium shot of the Duchess pushing herself up against the headboard, trembling as she stretches out her frail hand.\nEP26:E40 96000-99800 DOWAGER DUCHESS [Breathless, Shaken]: \"Your hand... Let me see your hand.\"\nEP26:E41 100000-105500 CAMERA: Close-up of Juliana reacting with confusion and growing concern at the elder woman's sudden frenzy.\nEP26:E42 100500-105000 JULIANA [Confused, Alarmed]: \"Your Grace? What is wrong? You look as though you've seen a ghost.\"\nEP26:E43 105500-109000 CAMERA: Close-up shot of the Duchess's withered, shaking hand reaching across the blanket toward Juliana's arm.\nEP26:E44 106000-109000 ACTION: The Duchess reaches outward with trembling fingers, grasping frantically for Juliana.\nEP26:E45 108800-110000 SOUND: A sudden sharp rustle of fabric as her fingers snap tight.\nEP26:E46 109000-110800 CAMERA: Tight shot of the Duchess's frail hand clamping down with fierce, unexpected strength onto Juliana's dark sleeve.\nEP26:E47 109200-110600 DOWAGER DUCHESS [Stern, Desperate]: \"Do not move!\"\nEP26:E48 110800-115800 CAMERA: Close-up of the Dowager Duchess looking up at Juliana with overwhelming urgency and tears brimming in her wide eyes.\nEP26:E49 111000-115500 DOWAGER DUCHESS [Intense, Demanding]: \"Where... where... Where did you get this ring? Speak to me!\"\nEP26:E50 115800-119500 CAMERA: Medium close-up of Juliana frozen in shock, her breath catching as the Duchess's desperate words echo in the silence of the room.\nEP26:E51 119500-120880 CAMERA: Tight close-up of the Dowager Duchess's two weathered hands tightly clasping Juliana's hand, holding the signet ring between them as a dramatic orchestral cliffhanger chord swells, cutting sharply to black.",
+  "schema": {
+    "$defs": {
+      "Beat": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "kind": {
+            "title": "Kind",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "description": {
+            "title": "Description",
+            "type": "string"
+          },
+          "intensity_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Intensity 0 10",
+            "type": "number"
+          }
+        },
+        "required": [
+          "id",
+          "kind",
+          "event_refs",
+          "description",
+          "intensity_0_10"
+        ],
+        "title": "Beat",
+        "type": "object"
+      },
+      "Character": {
+        "additionalProperties": false,
+        "properties": {
+          "name": {
+            "title": "Name",
+            "type": "string"
+          },
+          "role": {
+            "title": "Role",
+            "type": "string"
+          }
+        },
+        "required": [
+          "name",
+          "role"
+        ],
+        "title": "Character",
+        "type": "object"
+      },
+      "Question": {
+        "additionalProperties": false,
+        "properties": {
+          "question": {
+            "title": "Question",
+            "type": "string"
+          },
+          "introduced_by": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Introduced By",
+            "type": "array"
+          }
+        },
+        "required": [
+          "question",
+          "introduced_by"
+        ],
+        "title": "Question",
+        "type": "object"
+      },
+      "Revelation": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "claim": {
+            "title": "Claim",
+            "type": "string"
+          },
+          "spoiler_significance_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Spoiler Significance 0 10",
+            "type": "number"
+          },
+          "creates_questions": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Creates Questions",
+            "type": "array"
+          }
+        },
+        "required": [
+          "id",
+          "event_refs",
+          "claim",
+          "spoiler_significance_0_10",
+          "creates_questions"
+        ],
+        "title": "Revelation",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "episode_id": {
+        "title": "Episode Id",
+        "type": "string"
+      },
+      "summary": {
+        "title": "Summary",
+        "type": "string"
+      },
+      "characters": {
+        "items": {
+          "$ref": "#/$defs/Character"
+        },
+        "title": "Characters",
+        "type": "array"
+      },
+      "beats": {
+        "items": {
+          "$ref": "#/$defs/Beat"
+        },
+        "title": "Beats",
+        "type": "array"
+      },
+      "revelations": {
+        "items": {
+          "$ref": "#/$defs/Revelation"
+        },
+        "title": "Revelations",
+        "type": "array"
+      },
+      "unresolved_questions": {
+        "items": {
+          "$ref": "#/$defs/Question"
+        },
+        "title": "Unresolved Questions",
+        "type": "array"
+      }
+    },
+    "required": [
+      "episode_id",
+      "summary",
+      "characters",
+      "beats",
+      "revelations",
+      "unresolved_questions"
+    ],
+    "title": "EpisodeAnalysis",
+    "type": "object"
+  },
+  "state": "complete",
+  "output": {
+    "episode_id": "ep_026",
+    "summary": "On-screen evidence shows a night bedchamber scene in which Juliana, in a maid's apron, gives the poisoned Dowager Duchess drops from an amber bottle while guards may be near. The Duchess wakes, questions Juliana, accuses Rupert and Catherine of poisoning her (both are named but unseen on screen), and reacts with shock when she sees a distinctive signet ring on Juliana's hand. The scene ends on a grasp and a demand about the ring, cutting to black. Uncertainties: the scene ends mid-action, the origin and meaning of the ring are not shown, and the identities of Rupert and Catherine's roles are only inferred from dialogue. The supplied metadata (logline and continuity notes) describes unseen events and is not used as on-screen evidence, so details such as the forest encounter with Alexander are excluded.",
+    "characters": [
+      {
+        "name": "Juliana",
+        "role": "Disguised maid who secretly administers antidote to the Dowager Duchess and wears a distinctive signet ring"
+      },
+      {
+        "name": "Dowager Duchess",
+        "role": "Poisoned elderly noblewoman who recognizes the ring and demands the truth"
+      },
+      {
+        "name": "Rupert",
+        "role": "Named by the Duchess as a suspected poisoner; does not appear on screen"
+      },
+      {
+        "name": "Catherine",
+        "role": "Named by the Duchess as a suspected poisoner; does not appear on screen"
+      }
+    ],
+    "beats": [
+      {
+        "id": "b1",
+        "kind": "setup",
+        "event_refs": [
+          "EP26:E1",
+          "EP26:E2",
+          "EP26:E3",
+          "EP26:E4"
+        ],
+        "description": "Juliana keeps watch over the ailing Duchess in a dark bedchamber, checks the door for guards, and prepares the medicine bottle.",
+        "intensity_0_10": 3.0
+      },
+      {
+        "id": "b2",
+        "kind": "action",
+        "event_refs": [
+          "EP26:E10",
+          "EP26:E11",
+          "EP26:E12",
+          "EP26:E13"
+        ],
+        "description": "Juliana urges the Duchess to drink the last of the antidote and administers it drop by drop.",
+        "intensity_0_10": 4.0
+      },
+      {
+        "id": "b3",
+        "kind": "inciting_question",
+        "event_refs": [
+          "EP26:E5",
+          "EP26:E6",
+          "EP26:E7",
+          "EP26:E8",
+          "EP26:E9"
+        ],
+        "description": "The Duchess wakes, sees a stranger, and asks who she is.",
+        "intensity_0_10": 5.0
+      },
+      {
+        "id": "b4",
+        "kind": "recognition",
+        "event_refs": [
+          "EP26:E14",
+          "EP26:E15",
+          "EP26:E16",
+          "EP26:E17"
+        ],
+        "description": "The Duchess recognizes Juliana as the woman who took Catherine's whip for her; Juliana answers humbly that it does not change her duty.",
+        "intensity_0_10": 5.0
+      },
+      {
+        "id": "b5",
+        "kind": "tension",
+        "event_refs": [
+          "EP26:E20",
+          "EP26:E21",
+          "EP26:E22"
+        ],
+        "description": "Juliana warns in a whisper that the guards would kill them both if they heard, and the door is left ajar.",
+        "intensity_0_10": 6.0
+      },
+      {
+        "id": "b6",
+        "kind": "revelation_moment",
+        "event_refs": [
+          "EP26:E23",
+          "EP26:E24",
+          "EP26:E25",
+          "EP26:E26",
+          "EP26:E27",
+          "EP26:E28"
+        ],
+        "description": "The Duchess realizes she is being poisoned by Rupert and Catherine, and Juliana confirms the poisoning while saying the charcoal is fighting it.",
+        "intensity_0_10": 7.0
+      },
+      {
+        "id": "b7",
+        "kind": "probing",
+        "event_refs": [
+          "EP26:E30",
+          "EP26:E31",
+          "EP26:E32",
+          "EP26:E33"
+        ],
+        "description": "The Duchess asks why a noble-spirited girl works as a maid, and Juliana says her family cast her out and she has only her honor left.",
+        "intensity_0_10": 6.0
+      },
+      {
+        "id": "b8",
+        "kind": "reveal_object",
+        "event_refs": [
+          "EP26:E34",
+          "EP26:E35",
+          "EP26:E36",
+          "EP26:E37",
+          "EP26:E38"
+        ],
+        "description": "Juliana's hand rests on the bedcover, showing a distinctive engraved signet ring in the Duchess's sight; the Duchess gasps in shock.",
+        "intensity_0_10": 8.0
+      },
+      {
+        "id": "b9",
+        "kind": "escalation",
+        "event_refs": [
+          "EP26:E39",
+          "EP26:E40",
+          "EP26:E41",
+          "EP26:E42"
+        ],
+        "description": "The Duchess pushes up and demands to see Juliana's hand, while Juliana reacts with confusion and alarm.",
+        "intensity_0_10": 8.0
+      },
+      {
+        "id": "b10",
+        "kind": "confrontation",
+        "event_refs": [
+          "EP26:E43",
+          "EP26:E44",
+          "EP26:E45",
+          "EP26:E46",
+          "EP26:E47",
+          "EP26:E48",
+          "EP26:E49"
+        ],
+        "description": "The Duchess grips Juliana's sleeve and demands to know where she got the ring.",
+        "intensity_0_10": 9.0
+      },
+      {
+        "id": "b11",
+        "kind": "cliffhanger",
+        "event_refs": [
+          "EP26:E50",
+          "EP26:E51"
+        ],
+        "description": "Juliana freezes while the Duchess holds the ring between them as an orchestral chord swells and the scene cuts to black.",
+        "intensity_0_10": 9.0
+      }
+    ],
+    "revelations": [
+      {
+        "id": "r1",
+        "event_refs": [
+          "EP26:E26",
+          "EP26:E28"
+        ],
+        "claim": "The Duchess believes Rupert and Catherine are poisoning her, and Juliana confirms the poisoning while saying the charcoal is fighting it.",
+        "spoiler_significance_0_10": 7.0,
+        "creates_questions": [
+          "Are Rupert and Catherine responsible for the poisoning and how will they be exposed?",
+          "Will the antidote fully counter the poison?"
+        ]
+      },
+      {
+        "id": "r2",
+        "event_refs": [
+          "EP26:E33"
+        ],
+        "claim": "Juliana says her family cast her out, leaving her with only her honor.",
+        "spoiler_significance_0_10": 6.0,
+        "creates_questions": [
+          "Who is Juliana's family and why did they cast her out?"
+        ]
+      },
+      {
+        "id": "r3",
+        "event_refs": [
+          "EP26:E34",
+          "EP26:E37",
+          "EP26:E49"
+        ],
+        "claim": "Juliana's engraved signet ring shocks the Duchess, who demands to know where it came from.",
+        "spoiler_significance_0_10": 8.0,
+        "creates_questions": [
+          "What is the signet ring's connection to the Duchess and to Juliana's family?",
+          "Why does the ring provoke such shock in the Duchess?"
+        ]
+      }
+    ],
+    "unresolved_questions": [
+      {
+        "question": "Who is Juliana's true identity and what is her family's connection to the Duchess?",
+        "introduced_by": [
+          "EP26:E33",
+          "EP26:E49"
+        ]
+      },
+      {
+        "question": "What is the significance of the signet ring and where did Juliana get it?",
+        "introduced_by": [
+          "EP26:E34",
+          "EP26:E36",
+          "EP26:E49"
+        ]
+      },
+      {
+        "question": "Will Rupert and Catherine be exposed as the poisoners?",
+        "introduced_by": [
+          "EP26:E26"
+        ]
+      },
+      {
+        "question": "Is the remaining antidote enough to stop the poison?",
+        "introduced_by": [
+          "EP26:E10",
+          "EP26:E28"
+        ]
+      }
+    ]
+  }
+}

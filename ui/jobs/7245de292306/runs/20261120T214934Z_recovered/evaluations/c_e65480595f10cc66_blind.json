@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_e65480595f10cc66",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP39:E47",
+      "EP39:E48"
+    ],
+    "reason": "The opening shows a soldier kneeling in the snow and a formal 'Your Grace' address, which signals a power dynamic right away, but no stakes are established before the first cut.](EP39:E49)"
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP39:E58",
+      "EP39:E57",
+      "EP39:E59"
+    ],
+    "reason": "Alexander declares he is bringing his wife home and the screen cuts to black mid-determination, so the clip ends on an open goal. The clip does not show whether the chapel mission or the rescue resolves, so the ending is unresolved rather than merely intense.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Alexander is and what his title or house represents",
+      "Why he must take back his house and what has been hiding",
+      "Who the wife is and why she is held or absent",
+      "What the chapel is and why it must be secured",
+      "Who the loyalist soldier is relative to Alexander"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 6.0,
+    "reason": "Alexander's cold resolve, scarred face, and declaration of conviction convey determination, but without knowing his relationship to his wife or the stakes, the emotional pull stays at a moderate level."
+  },
+  "weaknesses": [
+    "Stakes and the wife's situation are never explained within the clip",
+    "The chapel's significance is unestablished",
+    "Relationship between Alexander and the loyalist is not clarified",
+    "Dialogue-heavy resolve with little visible event to anchor the emotion"
+  ],
+  "one_line_why_it_works": "A commanding opening order and a clear declaration of intent to rescue his wife create an open-ended pull toward the next scene."
+}

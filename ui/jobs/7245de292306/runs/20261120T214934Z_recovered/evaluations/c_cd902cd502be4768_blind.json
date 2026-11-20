@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_cd902cd502be4768",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP23:E27",
+      "EP23:E30",
+      "EP23:E32"
+    ],
+    "reason": "The opening 0-3000ms shows a stunned close-up of Juliana reacting to her mother's written words and a tense exchange with Prudence, which creates immediate unease. The first three seconds mainly set a mood, and the stronger reveals (poisoning, arsenic) arrive later, so the hook is moderate."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP23:E56",
+      "EP23:E57"
+    ],
+    "reason": "The clip ends mid-action with Juliana grinding charcoal and urgently saying 'We must act quickly.' The Duchess's condition and survival are not resolved, so the ending is unresolved and not a settled outcome.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Identity and relationship of the Duchess, Juliana, and Prudence",
+      "What the leather journal is and what the mother's written words said",
+      "Basis for the poisoning claim beyond the symptoms recited",
+      "Whether the Duchess has already been poisoned or what happened before 0ms",
+      "Why the charcoal and herbs are expected to help"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "The clip builds strong tension through Prudence's horror and tears, the Duchess's sudden choking, and Juliana's fury and urgency. The emotional stakes are clear even without full context."
+  },
+  "weaknesses": [
+    "Key characters and relationships are not introduced, so a first-time viewer cannot place the stakes",
+    "The source of the mother's written words and the journal's significance are not explained",
+    "The clip relies on dialogue for the diagnosis without showing its basis",
+    "Ending is urgent but offers no clear outcome, which may frustrate viewers who lack prior context"
+  ],
+  "one_line_why_it_works": "Escalating dread from a whispered diagnosis to a sudden poisoning reveal and a frantic treatment attempt creates tension that holds attention through the final seconds."
+}

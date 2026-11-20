@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_cdf45fecd94732df DURATION_MS=30500\nSEGMENT 1 (playback order)\nEP27:E74 0-1300 CAMERA: Close-up on the Blond Nobleman, his expression freezing into a dark scowl.\nEP27:E75 0-1100 BLOND NOBLEMAN: \"Poison.\"\nEP27:E76 1300-4100 CAMERA: Close-up of Juliana stating the grim reality.\nEP27:E77 1700-3900 JULIANA: \"Someone has been poisoning Her Grace.\"\nEP27:E78 4100-5900 CAMERA: Medium shot of Lady Catherine turning abruptly to the guard stationed by the open door, pointing with feigned outrage.\nEP27:E79 4400-5800 LADY CATHERINE: \"You hear that?!\"\nEP27:E80 5900-9800 CAMERA: Close-up of Lady Catherine twisting Juliana's words with malicious glee.\nEP27:E81 6100-9700 LADY CATHERINE: \"She admits she has been giving the Duchess poison in secret!\"\nEP27:E82 9800-12300 CAMERA: Close-up of Juliana recoiling in shock at the blatant lie.\nEP27:E83 10000-12100 JULIANA: \"That is not what I said!\"\nEP27:E84 12300-15300 CAMERA: Medium close-up of the Blond Nobleman raising his black-gloved hand, silencing the room.\nEP27:E85 12500-13900 BLOND NOBLEMAN: \"Enough.\"\nEP27:E86 15300-20700 CAMERA: Medium two-shot as the Blond Nobleman steps into Juliana's personal space and plucks the glass dropper vial from her hand.\nEP27:E87 16100-19800 ACTION: The Blond Nobleman takes the medicine vial from Juliana's grasp, inspecting it under the candlelight.\nEP27:E88 17500-20600 BLOND NOBLEMAN: \"An unknown servant enters a restricted chamber.\"\nEP27:E89 20700-25500 CAMERA: Tight close-up of the Blond Nobleman holding the vial beside his temple, his blue eyes cold and triumphant.\nEP27:E90 20900-25100 BLOND NOBLEMAN: \"She secretly administers an unidentified substance to a helpless woman.\"\nEP27:E91 25300-26200 BLOND NOBLEMAN: \"Take her.\"\nEP27:E92 25500-28800 CAMERA: Wide shot as the armed guard storms forward, seizing Juliana roughly by both arms.\nEP27:E93 26300-29300 ACTION: The guard twists Juliana around and drags her forcibly toward the doorway as she struggles against his grip.\nEP27:E94 28800-30500 CAMERA: Medium shot of Juliana being pulled backward, casting a frantic glance back toward the bedridden Duchess.",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

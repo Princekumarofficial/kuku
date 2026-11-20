@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "series_id": "series_001",
+  "scope": {
+    "type": "episode",
+    "episode_id": "ep_046"
+  },
+  "promos": [
+    {
+      "candidate_id": "c_f632d2f70718a188",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 89000,
+          "end_ms": 126500,
+          "episode_id": "ep_046"
+        }
+      ],
+      "duration_ms": 37500,
+      "hook": {
+        "description": "Opens mid-confrontation with a threatening priest line and a sharp accusation about an unlicensed marriage within the first seconds, which creates immediate tension, though the opening frame has a minor hook-level setup gap about who Catherine is to the audience.",
+        "evidence_refs": [
+          "EP46:E50",
+          "EP46:E52"
+        ]
+      },
+      "cliffhanger": {
+        "description": "The clip ends on a wager of ten days with the council ruling pending, which leaves the outcome open, but Alexander's closing line is a defiant acceptance that gives a sense of closure to this exchange rather than a sharp unresolved hook.",
+        "evidence_refs": [
+          "EP46:E64",
+          "EP46:E65"
+        ]
+      },
+      "why_it_works": "A tense, escalating confrontation between a hostile High Priest and a defiant Alexander builds clear conflict and ends on a ten-day wager that keeps the outcome open.",
+      "scores": {
+        "hook": 7.0,
+        "cliffhanger": 6.0,
+        "standalone": 5.0,
+        "emotion": 7.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 6.2
+      },
+      "warnings": [
+        "Heavy reliance on unexplained backstory makes the stakes hard to follow for a new viewer",
+        "Ending is a negotiated wager rather than a sharp cliffhanger, so it is resolved in tone",
+        "Catherine has minimal dialogue and her motives remain opaque",
+        "Multiple camera-setup descriptions dilute focus on the core conflict",
+        "Spoilers not checked",
+        "Relationship between Catherine and Alexander is not established",
+        "Nature of the document and the three-year 'steal' is unexplained",
+        "Why the marriage is considered invalid is only implied",
+        "Identity of the congregation and the Crown's peerage court stakes are not explained",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 1,
+      "promo_id": "p_001"
+    }
+  ],
+  "construction": {
+    "opportunities": 4,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "DURATION_OUT_OF_RANGE": 1140,
+      "PARTIAL_DIALOGUE": 327
+    }
+  },
+  "rejected_candidates": [
+    {
+      "candidate_id": "c_c229c54873e8c31a",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_7f9ceb1d70f1ca0b",
+      "reasons": [
+        "ENDING_RESOLVED",
+        "WEAK_CLIFFHANGER"
+      ]
+    },
+    {
+      "candidate_id": "c_6303b16c81b3d238",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    }
+  ]
+}

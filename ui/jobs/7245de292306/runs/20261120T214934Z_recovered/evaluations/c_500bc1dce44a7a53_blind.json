@@ -1,0 +1,40 @@
+{
+  "candidate_id": "c_500bc1dce44a7a53",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP37:E33",
+      "EP37:E36"
+    ],
+    "reason": "Opens mid-exchange with a short question and a letter with a bold heading, which creates some curiosity, but the stakes are not established within the opening 3000ms beyond an unnamed sentencing."
+  },
+  "cliffhanger": {
+    "score_0_10": 5.0,
+    "evidence_refs": [
+      "EP37:E44",
+      "EP37:E46"
+    ],
+    "reason": "The clip ends on a menacing line that answers the nobleman's question, so the immediate question is answered; the open thread is the broader unseen story of the condemned and the warning, which gives moderate unresolved tension without a true hanging question.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Identity of Clarissa, the nobleman, and the condemned",
+      "What the letter is and who sent it",
+      "Which wedding and what the sentencing concerns",
+      "Why the warning targets women who rise above their place"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 6.0,
+    "reason": "Dark delight, cruelty and shock are conveyed through camera and performance cues, giving a clear villainous tone, though viewers have no personal stake in the characters yet."
+  },
+  "weaknesses": [
+    "Opening lacks context so the first seconds feel abrupt",
+    "Stakes of the execution and the condemned are never explained",
+    "Several shots describe expressions rather than new information, slowing momentum",
+    "Ending reads as a thematic statement rather than a suspenseful unresolved event"
+  ],
+  "one_line_why_it_works": "A sinister reveal of a public execution framed as a warning to women builds menace and curiosity, even though the clip lacks enough context to stand alone."
+}

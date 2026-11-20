@@ -1,0 +1,665 @@
+[
+  {
+    "candidate_id": "c_749a76a17c48fb25",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 16100,
+        "end_ms": 54200,
+        "episode_id": "ep_025"
+      }
+    ],
+    "duration_ms": 38100,
+    "origin": "opp_1",
+    "clip_events": [
+      {
+        "ref": "EP25:E10",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Two-shot profile of Alexander grabbing Juliana's shoulder as she recoils."
+      },
+      {
+        "ref": "EP25:E12",
+        "segment_index": 0,
+        "relative_start_ms": 100,
+        "relative_end_ms": 2700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana gritting her teeth against the pain, shaking her head."
+      },
+      {
+        "ref": "EP25:E13",
+        "segment_index": 0,
+        "relative_start_ms": 700,
+        "relative_end_ms": 2400,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"It is nothing.\""
+      },
+      {
+        "ref": "EP25:E14",
+        "segment_index": 0,
+        "relative_start_ms": 2700,
+        "relative_end_ms": 6400,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander's gloved fingers pull back the torn fabric of her cloak and sleeve, revealing a raw, bloody welt slashing across her bare shoulder."
+      },
+      {
+        "ref": "EP25:E15",
+        "segment_index": 0,
+        "relative_start_ms": 2700,
+        "relative_end_ms": 6700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of the fresh riding-crop laceration cut across Juliana's shoulder."
+      },
+      {
+        "ref": "EP25:E16",
+        "segment_index": 0,
+        "relative_start_ms": 6700,
+        "relative_end_ms": 9700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander's scarred face darkening with volatile fury, his jaw tightening."
+      },
+      {
+        "ref": "EP25:E17",
+        "segment_index": 0,
+        "relative_start_ms": 7900,
+        "relative_end_ms": 9400,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Who did this?\""
+      },
+      {
+        "ref": "EP25:E18",
+        "segment_index": 0,
+        "relative_start_ms": 9700,
+        "relative_end_ms": 13700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana averting her eyes, her head bowed in quiet resignation."
+      },
+      {
+        "ref": "EP25:E19",
+        "segment_index": 0,
+        "relative_start_ms": 11400,
+        "relative_end_ms": 13200,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"It does not matter.\""
+      },
+      {
+        "ref": "EP25:E20",
+        "segment_index": 0,
+        "relative_start_ms": 13700,
+        "relative_end_ms": 16700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight shot of Alexander, his eyes burning with intense anger."
+      },
+      {
+        "ref": "EP25:E22",
+        "segment_index": 0,
+        "relative_start_ms": 16700,
+        "relative_end_ms": 17700,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Who?\""
+      },
+      {
+        "ref": "EP25:E21",
+        "segment_index": 0,
+        "relative_start_ms": 16700,
+        "relative_end_ms": 18400,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander steps directly into her space, firmly taking her hand in his."
+      },
+      {
+        "ref": "EP25:E23",
+        "segment_index": 0,
+        "relative_start_ms": 18400,
+        "relative_end_ms": 22400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana looking up into his eyes, whispering the truth."
+      },
+      {
+        "ref": "EP25:E24",
+        "segment_index": 0,
+        "relative_start_ms": 19900,
+        "relative_end_ms": 21700,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Lady Catherine.\""
+      },
+      {
+        "ref": "EP25:E25",
+        "segment_index": 0,
+        "relative_start_ms": 22400,
+        "relative_end_ms": 25100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander, his gaze piercing and hard."
+      },
+      {
+        "ref": "EP25:E26",
+        "segment_index": 0,
+        "relative_start_ms": 23100,
+        "relative_end_ms": 24900,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Where did you meet her?\""
+      },
+      {
+        "ref": "EP25:E28",
+        "segment_index": 0,
+        "relative_start_ms": 25100,
+        "relative_end_ms": 28100,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I was in the wrong chamber. I was punished as a maid.\""
+      },
+      {
+        "ref": "EP25:E27",
+        "segment_index": 0,
+        "relative_start_ms": 25100,
+        "relative_end_ms": 28300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana recounting the incident."
+      },
+      {
+        "ref": "EP25:E29",
+        "segment_index": 0,
+        "relative_start_ms": 28300,
+        "relative_end_ms": 30700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander, pressing her without hesitation."
+      },
+      {
+        "ref": "EP25:E30",
+        "segment_index": 0,
+        "relative_start_ms": 28500,
+        "relative_end_ms": 30300,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"What were you doing there?\""
+      },
+      {
+        "ref": "EP25:E31",
+        "segment_index": 0,
+        "relative_start_ms": 30700,
+        "relative_end_ms": 35400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot of Alexander leaning down toward her against the dim forest backdrop."
+      },
+      {
+        "ref": "EP25:E32",
+        "segment_index": 0,
+        "relative_start_ms": 30900,
+        "relative_end_ms": 35100,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Juliana... why were you inside Ashburg Manor?\""
+      },
+      {
+        "ref": "EP25:E33",
+        "segment_index": 0,
+        "relative_start_ms": 35400,
+        "relative_end_ms": 38100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana holding his gaze resolutely."
+      },
+      {
+        "ref": "EP25:E34",
+        "segment_index": 0,
+        "relative_start_ms": 36100,
+        "relative_end_ms": 38100,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I went there to help someone.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_db2ad5d21f45d61b",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 66200,
+        "end_ms": 97400,
+        "episode_id": "ep_025"
+      }
+    ],
+    "duration_ms": 31200,
+    "origin": "opp_2",
+    "clip_events": [
+      {
+        "ref": "EP25:E40",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium profile tracking shot as Juliana begins walking slowly along the trail, Alexander following closely by her side."
+      },
+      {
+        "ref": "EP25:E41",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Prudence told me she was dying.\""
+      },
+      {
+        "ref": "EP25:E42",
+        "segment_index": 0,
+        "relative_start_ms": 2300,
+        "relative_end_ms": 7600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana turning toward him, recounting the scene in the bedchamber."
+      },
+      {
+        "ref": "EP25:E43",
+        "segment_index": 0,
+        "relative_start_ms": 2600,
+        "relative_end_ms": 7600,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"She was barely breathing when I found her. The doctor said she was simply growing old.\""
+      },
+      {
+        "ref": "EP25:E44",
+        "segment_index": 0,
+        "relative_start_ms": 7600,
+        "relative_end_ms": 10600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Two-shot as Juliana stops and looks up into Alexander's grim expression."
+      },
+      {
+        "ref": "EP25:E45",
+        "segment_index": 0,
+        "relative_start_ms": 8000,
+        "relative_end_ms": 9600,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"But it wasn't age.\""
+      },
+      {
+        "ref": "EP25:E46",
+        "segment_index": 0,
+        "relative_start_ms": 10600,
+        "relative_end_ms": 13300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Alexander staring down at her, waiting for the dark truth."
+      },
+      {
+        "ref": "EP25:E47",
+        "segment_index": 0,
+        "relative_start_ms": 11200,
+        "relative_end_ms": 12700,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"What did you find?\""
+      },
+      {
+        "ref": "EP25:E48",
+        "segment_index": 0,
+        "relative_start_ms": 13300,
+        "relative_end_ms": 16300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up on Juliana's trembling lips."
+      },
+      {
+        "ref": "EP25:E49",
+        "segment_index": 0,
+        "relative_start_ms": 14000,
+        "relative_end_ms": 15600,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Poison.\""
+      },
+      {
+        "ref": "EP25:E50",
+        "segment_index": 0,
+        "relative_start_ms": 16300,
+        "relative_end_ms": 20000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Slightly wider close-up as Juliana's eyes well with distress."
+      },
+      {
+        "ref": "EP25:E51",
+        "segment_index": 0,
+        "relative_start_ms": 17300,
+        "relative_end_ms": 18800,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Arsenic.\""
+      },
+      {
+        "ref": "EP25:E52",
+        "segment_index": 0,
+        "relative_start_ms": 20000,
+        "relative_end_ms": 23800,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander's hand drops to his side and clenches into a white-knuckled fist, the thick scar across his hand tightening with intense restraint."
+      },
+      {
+        "ref": "EP25:E53",
+        "segment_index": 0,
+        "relative_start_ms": 20000,
+        "relative_end_ms": 24000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Alexander's fist clenching tightly in fury."
+      },
+      {
+        "ref": "EP25:E55",
+        "segment_index": 0,
+        "relative_start_ms": 24000,
+        "relative_end_ms": 31200,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Someone has been giving it to her again and again. Small amounts. Enough to make her weaker without killing her quickly.\""
+      },
+      {
+        "ref": "EP25:E54",
+        "segment_index": 0,
+        "relative_start_ms": 24000,
+        "relative_end_ms": 31200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana, her voice filled with mounting dread."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_bddd3eadfc41766d",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 125500,
+        "end_ms": 151200,
+        "episode_id": "ep_025"
+      }
+    ],
+    "duration_ms": 25700,
+    "origin": "opp_3",
+    "clip_events": [
+      {
+        "ref": "EP25:E74",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana looking up into his darkened face with questioning concern."
+      },
+      {
+        "ref": "EP25:E75",
+        "segment_index": 0,
+        "relative_start_ms": 300,
+        "relative_end_ms": 2000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Alexander... why are you so angry?\""
+      },
+      {
+        "ref": "EP25:E76",
+        "segment_index": 0,
+        "relative_start_ms": 2500,
+        "relative_end_ms": 9000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander speaking through clenched teeth, barely containing his protective fury."
+      },
+      {
+        "ref": "EP25:E77",
+        "segment_index": 0,
+        "relative_start_ms": 2700,
+        "relative_end_ms": 8300,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Because you were standing inside a house where someone is poisoning a woman... and you never told me.\""
+      },
+      {
+        "ref": "EP25:E78",
+        "segment_index": 0,
+        "relative_start_ms": 9000,
+        "relative_end_ms": 11700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana looking down sheepishly before raising her eyes."
+      },
+      {
+        "ref": "EP25:E79",
+        "segment_index": 0,
+        "relative_start_ms": 9500,
+        "relative_end_ms": 11500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I knew you would worry.\""
+      },
+      {
+        "ref": "EP25:E80",
+        "segment_index": 0,
+        "relative_start_ms": 11700,
+        "relative_end_ms": 16500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of Alexander, his voice trembling with terrified passion."
+      },
+      {
+        "ref": "EP25:E81",
+        "segment_index": 0,
+        "relative_start_ms": 11900,
+        "relative_end_ms": 16900,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Worry? They struck you. They could have killed you.\""
+      },
+      {
+        "ref": "EP25:E82",
+        "segment_index": 0,
+        "relative_start_ms": 16500,
+        "relative_end_ms": 19500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Two-shot as Juliana looks up into his eyes, holding firm."
+      },
+      {
+        "ref": "EP25:E83",
+        "segment_index": 0,
+        "relative_start_ms": 17700,
+        "relative_end_ms": 19100,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"But they didn't.\""
+      },
+      {
+        "ref": "EP25:E84",
+        "segment_index": 0,
+        "relative_start_ms": 19500,
+        "relative_end_ms": 23000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of their clasped hands, panning up to Alexander's tormented gaze."
+      },
+      {
+        "ref": "EP25:E85",
+        "segment_index": 0,
+        "relative_start_ms": 19700,
+        "relative_end_ms": 20900,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"This time.\""
+      },
+      {
+        "ref": "EP25:E86",
+        "segment_index": 0,
+        "relative_start_ms": 21500,
+        "relative_end_ms": 23300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I am being careful.\""
+      },
+      {
+        "ref": "EP25:E87",
+        "segment_index": 0,
+        "relative_start_ms": 23000,
+        "relative_end_ms": 25700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Two-shot as Juliana looks at him earnestly."
+      },
+      {
+        "ref": "EP25:E88",
+        "segment_index": 0,
+        "relative_start_ms": 23500,
+        "relative_end_ms": 25700,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I cannot abandon her.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_7bfd0f70bcec7457",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 60800,
+        "end_ms": 82500,
+        "episode_id": "ep_025"
+      }
+    ],
+    "duration_ms": 21700,
+    "origin": "recovery_b8",
+    "clip_events": [
+      {
+        "ref": "EP25:E38",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of Alexander's face freezing in shock, his eyes widening as the revelation hits him."
+      },
+      {
+        "ref": "EP25:E39",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1700,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"The Dowager?\""
+      },
+      {
+        "ref": "EP25:E40",
+        "segment_index": 0,
+        "relative_start_ms": 2700,
+        "relative_end_ms": 7700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium profile tracking shot as Juliana begins walking slowly along the trail, Alexander following closely by her side."
+      },
+      {
+        "ref": "EP25:E41",
+        "segment_index": 0,
+        "relative_start_ms": 5400,
+        "relative_end_ms": 7700,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Prudence told me she was dying.\""
+      },
+      {
+        "ref": "EP25:E42",
+        "segment_index": 0,
+        "relative_start_ms": 7700,
+        "relative_end_ms": 13000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana turning toward him, recounting the scene in the bedchamber."
+      },
+      {
+        "ref": "EP25:E43",
+        "segment_index": 0,
+        "relative_start_ms": 8000,
+        "relative_end_ms": 13000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"She was barely breathing when I found her. The doctor said she was simply growing old.\""
+      },
+      {
+        "ref": "EP25:E44",
+        "segment_index": 0,
+        "relative_start_ms": 13000,
+        "relative_end_ms": 16000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Two-shot as Juliana stops and looks up into Alexander's grim expression."
+      },
+      {
+        "ref": "EP25:E45",
+        "segment_index": 0,
+        "relative_start_ms": 13400,
+        "relative_end_ms": 15000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"But it wasn't age.\""
+      },
+      {
+        "ref": "EP25:E46",
+        "segment_index": 0,
+        "relative_start_ms": 16000,
+        "relative_end_ms": 18700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Alexander staring down at her, waiting for the dark truth."
+      },
+      {
+        "ref": "EP25:E47",
+        "segment_index": 0,
+        "relative_start_ms": 16600,
+        "relative_end_ms": 18100,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"What did you find?\""
+      },
+      {
+        "ref": "EP25:E48",
+        "segment_index": 0,
+        "relative_start_ms": 18700,
+        "relative_end_ms": 21700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up on Juliana's trembling lips."
+      },
+      {
+        "ref": "EP25:E49",
+        "segment_index": 0,
+        "relative_start_ms": 19400,
+        "relative_end_ms": 21000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Poison.\""
+      }
+    ]
+  }
+]

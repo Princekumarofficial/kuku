@@ -1,0 +1,135 @@
+{
+  "schema_version": "1.0",
+  "series_id": "series_001",
+  "scope": {
+    "type": "episode",
+    "episode_id": "ep_001"
+  },
+  "promos": [
+    {
+      "candidate_id": "c_2ba8faaeeb22c3b7",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 32800,
+          "end_ms": 83600,
+          "episode_id": "ep_001"
+        }
+      ],
+      "duration_ms": 50800,
+      "hook": {
+        "description": "The opening within 0-3000ms establishes a shocked bride-like figure questioning Gerald's hand-holding with another woman, creating an immediate betrayal question.",
+        "evidence_refs": [
+          "EP01:E23",
+          "EP01:E24"
+        ]
+      },
+      "cliffhanger": {
+        "description": "The clip ends with Juliana kneeling and pleading with her father to say it is a mistake, but his response is not shown, so the immediate outcome stays open. The emotional stakes are high, but the tension is partly a resolved revelation rather than a pure unresolved hook.",
+        "evidence_refs": [
+          "EP01:E55",
+          "EP01:E57",
+          "EP01:E56"
+        ]
+      },
+      "why_it_works": "A public betrayal at the altar escalates through direct confrontation and ends with the heroine begging her father for help, leaving his response unresolved.",
+      "scores": {
+        "hook": 8.0,
+        "cliffhanger": 6.0,
+        "standalone": 5.0,
+        "emotion": 8.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 6.65
+      },
+      "warnings": [
+        "Opening context about who Gerald and the Lady are is inferred rather than explicitly stated",
+        "Father's reaction is not shown, limiting closure of the final beat",
+        "Conspiracy details are vague beyond the sister's admission",
+        "Spoilers not checked",
+        "Relationship between Gerald, Juliana, and the Lady in Gold Gown is only partly stated through dialogue",
+        "Identity and role of the elderly father is not established",
+        "Why the wedding is happening and what the conspiracy involves is unclear",
+        "The former groom label is introduced without prior explanation",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 1,
+      "promo_id": "p_001"
+    },
+    {
+      "candidate_id": "c_bc6a93c98939499f",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 60000,
+          "end_ms": 90800,
+          "episode_id": "ep_001"
+        }
+      ],
+      "duration_ms": 30800,
+      "hook": {
+        "description": "The opening line 'I changed my mind.' lands within the first 1800ms and is followed by a sharp cut to Juliana's weeping face, establishing an immediate public betrayal.",
+        "evidence_refs": [
+          "EP01:E41",
+          "EP01:E40",
+          "EP01:E42"
+        ]
+      },
+      "cliffhanger": {
+        "description": "The clip ends with the father refusing to look at Juliana, leaving her plea unanswered and the emotional situation unresolved. The ending is an open beat rather than a resolved one.",
+        "evidence_refs": [
+          "EP01:E61",
+          "EP01:E62"
+        ]
+      },
+      "why_it_works": "A rapid chain of betrayal reveals, from the groom's rejection to the father's refusal, builds intense emotion and leaves Juliana's plea unanswered at the end.",
+      "scores": {
+        "hook": 8.0,
+        "cliffhanger": 6.0,
+        "standalone": 5.0,
+        "emotion": 8.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 6.65
+      },
+      "warnings": [
+        "Clip begins mid-scene with no establishing context for who the characters are",
+        "Father's motive for refusing is not shown, weakening the final beat for a first-time viewer",
+        "Several shots overlap in time, making the sequence of the betrayal harder to follow",
+        "Lady in Gold Gown is never named, so her role relies on inference",
+        "Spoilers not checked",
+        "Relationship between Gerald, Juliana, and the Lady in Gold Gown is only partly implied",
+        "Nature of the conspiracy and what 'long enough' refers to is not explained",
+        "Reason the father refuses to respond is not shown",
+        "Setting as a wedding is inferred from pews and a groom, not stated",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 2,
+      "promo_id": "p_002"
+    }
+  ],
+  "construction": {
+    "opportunities": 4,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "PARTIAL_DIALOGUE": 800,
+      "DURATION_OUT_OF_RANGE": 2551
+    }
+  },
+  "rejected_candidates": [
+    {
+      "candidate_id": "c_418018ae8a78fae5",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_0adc5a864c7df60a",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    }
+  ]
+}

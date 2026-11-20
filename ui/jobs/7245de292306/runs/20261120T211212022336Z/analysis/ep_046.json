@@ -1,0 +1,230 @@
+{
+  "episode_id": "ep_046",
+  "summary": "Episode 46 (EP46) is analysed from on-screen event text only (EP46:E1 to EP46:E75), within scene sc_001 at 0-143880 ms. The High Priest arrives with armed royal guards and reads a War Office decree placing the sanctuary under Crown seizure. He argues that the marriage of Alexander and Juliana lacks a Crown license, a licensed clergyman and a recorded entry, and that Alexander was recorded as dead. Alexander demands a ten-day ecclesiastical hearing before witnesses, and the priest accepts the wager and withdraws. Catherine's closing lines suggest a scheme, but her intent is inferred from tone and is not stated outright. Uncertainties: the decree's contents are known only from spoken dialogue, since the document text is not shown; the source contains a transcription typo ('scesion') and a malformed speaker tag (E14, E43), which were kept as given; the metadata logline and continuity notes were not used as evidence, and any unseen events they describe are excluded; the outcome of the council ruling is not shown.",
+  "characters": [
+    {
+      "name": "High Priest",
+      "role": "Antagonist; church authority who seizes the sanctuary and challenges the marriage's legality"
+    },
+    {
+      "name": "Alexander Ashburton",
+      "role": "Duke of Ashburton; protagonist defending his marriage and demanding a ten-day trial"
+    },
+    {
+      "name": "Juliana",
+      "role": "Alexander's wife; defiant protagonist who rejects the church's authority over her marriage"
+    },
+    {
+      "name": "Catherine",
+      "role": "Bride in lavish gown who watches the confrontation and issues malicious threats; apparent antagonist"
+    },
+    {
+      "name": "Elderly noblewoman",
+      "role": "Unnamed witness in the pew showing anxiety"
+    },
+    {
+      "name": "Royal guards",
+      "role": "Armed enforcers of the Crown's order who lower weapons and retreat"
+    }
+  ],
+  "beats": [
+    {
+      "id": "B1",
+      "kind": "setup",
+      "event_refs": [
+        "EP46:E1",
+        "EP46:E2",
+        "EP46:E3",
+        "EP46:E4",
+        "EP46:E5",
+        "EP46:E6",
+        "EP46:E7"
+      ],
+      "description": "The couple stands at the altar as the High Priest enters the nave with halberd-armed royal guards.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "B2",
+      "kind": "inciting_decree",
+      "event_refs": [
+        "EP46:E8",
+        "EP46:E9",
+        "EP46:E10",
+        "EP46:E11",
+        "EP46:E12"
+      ],
+      "description": "The High Priest breaks the wax seal and announces that the sanctuary is placed under Crown seizure and that no one may leave.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "B3",
+      "kind": "accusation",
+      "event_refs": [
+        "EP46:E14",
+        "EP46:E16",
+        "EP46:E18",
+        "EP46:E24",
+        "EP46:E26",
+        "EP46:E28",
+        "EP46:E30",
+        "EP46:E32"
+      ],
+      "description": "The High Priest argues the marriage is invalid: no license, no licensed clergyman, no royal register entry, and a Duke cannot marry without leave.",
+      "intensity_0_10": 9.0
+    },
+    {
+      "id": "B4",
+      "kind": "defiance",
+      "event_refs": [
+        "EP46:E19",
+        "EP46:E20",
+        "EP46:E22",
+        "EP46:E34",
+        "EP46:E36",
+        "EP46:E38",
+        "EP46:E40",
+        "EP46:E41",
+        "EP46:E43",
+        "EP46:E45",
+        "EP46:E46"
+      ],
+      "description": "Alexander and Juliana publicly refuse the church's authority; Juliana asserts that God married them.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "B5",
+      "kind": "threat_escalation",
+      "event_refs": [
+        "EP46:E48",
+        "EP46:E50",
+        "EP46:E52"
+      ],
+      "description": "Catherine taunts Juliana, and the High Priest threatens and accuses the couple of marrying without leave.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "B6",
+      "kind": "wager",
+      "event_refs": [
+        "EP46:E55",
+        "EP46:E58",
+        "EP46:E60",
+        "EP46:E62",
+        "EP46:E64",
+        "EP46:E65"
+      ],
+      "description": "The High Priest claims power to undo the marriage in one hearing; Alexander demands a ten-day trial before witnesses and accepts the wager.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "B7",
+      "kind": "standoff_resolution",
+      "event_refs": [
+        "EP46:E67",
+        "EP46:E68",
+        "EP46:E69",
+        "EP46:E70",
+        "EP46:E71",
+        "EP46:E72",
+        "EP46:E73"
+      ],
+      "description": "Guards surround the couple until Alexander challenges them; the priest orders them to stand down and departs, with the ten-day deadline set.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "B8",
+      "kind": "ominous_coda",
+      "event_refs": [
+        "EP46:E74",
+        "EP46:E75"
+      ],
+      "description": "Catherine smiles predatorily and says ten days is plenty of time, implying a scheme against the couple.",
+      "intensity_0_10": 6.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "R1",
+      "event_refs": [
+        "EP46:E8",
+        "EP46:E23",
+        "EP46:E24",
+        "EP46:E26"
+      ],
+      "claim": "The sanctuary is placed under Crown seizure and the marriage is challenged because no Crown license was sought for a Duke to marry.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "Will the Crown's seizure and the license challenge be upheld?"
+      ]
+    },
+    {
+      "id": "R2",
+      "event_refs": [
+        "EP46:E16",
+        "EP46:E28",
+        "EP46:E30",
+        "EP46:E32"
+      ],
+      "claim": "The marriage was a hedge ceremony with no licensed clergyman, and Alexander is recorded by the Crown as already dead.",
+      "spoiler_significance_0_10": 7.0,
+      "creates_questions": [
+        "How will the council treat a hedge ceremony and the record of Alexander's death?",
+        "Who recorded Alexander as dead, and why?"
+      ]
+    },
+    {
+      "id": "R3",
+      "event_refs": [
+        "EP46:E60",
+        "EP46:E62",
+        "EP46:E64"
+      ],
+      "claim": "The High Religious Council will rule on the marriage within ten days, with the priest warning that the county will see Juliana lost if it rules against them.",
+      "spoiler_significance_0_10": 5.0,
+      "creates_questions": [
+        "What will the council rule after the ten-day hearing?"
+      ]
+    },
+    {
+      "id": "R4",
+      "event_refs": [
+        "EP46:E48",
+        "EP46:E75"
+      ],
+      "claim": "Catherine appears to be plotting against the couple and treats the ten-day deadline as an opportunity.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "What is Catherine's scheme and how is she connected to the High Priest's decree?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "Will the ten-day ecclesiastical hearing uphold or annul Alexander and Juliana's marriage?",
+      "introduced_by": [
+        "EP46:E62",
+        "EP46:E64"
+      ]
+    },
+    {
+      "question": "What scheme is Catherine planning against the couple?",
+      "introduced_by": [
+        "EP46:E48",
+        "EP46:E75"
+      ]
+    },
+    {
+      "question": "Who recorded Alexander as dead in the Crown register, and why?",
+      "introduced_by": [
+        "EP46:E32"
+      ]
+    },
+    {
+      "question": "Will the Crown's seizure of the sanctuary and the license challenge be enforced?",
+      "introduced_by": [
+        "EP46:E8",
+        "EP46:E26"
+      ]
+    }
+  ]
+}

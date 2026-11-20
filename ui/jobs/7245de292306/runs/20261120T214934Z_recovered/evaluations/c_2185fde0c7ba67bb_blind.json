@@ -1,0 +1,45 @@
+{
+  "candidate_id": "c_2185fde0c7ba67bb",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP29:E27",
+      "EP29:E28"
+    ],
+    "reason": "The opening shows Juliana thrashing against two guards while shouting that the object cannot simply be destroyed, which creates immediate conflict and a question about what is at stake."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP29:E42",
+      "EP29:E43",
+      "EP29:E44"
+    ],
+    "reason": "Catherine threatens Juliana and says she should have stayed forgotten, and Juliana answers with defiance that her husband will find her. The clip ends mid-conflict with her fate and the threat unresolved, though her line is a hopeful assertion rather than a clear hook into a next event.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "What the object being destroyed is and why it matters",
+      "What was written inside it and who wrote it",
+      "Who the Duchess is and what Juliana did when she saved her",
+      "Why Juliana was cast out and what her social position is",
+      "Why Catherine holds power over Juliana and the guards",
+      "Who Juliana's husband is and whether he is a real rescuer or a bluff",
+      "Why Juliana is at risk of a rope or execution"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "The clip sustains intense hostility through rapid close-ups, cold threats, Juliana's horror and outrage, and her final tearful pride, producing strong fear and tension."
+  },
+  "weaknesses": [
+    "Key referents such as 'it', 'the Duchess', and 'what was written' are unexplained for a first-time viewer",
+    "Threats are stated but the stakes and the mechanism of the threat are not established",
+    "Juliana's closing line depends on an unseen husband with no context",
+    "Catherine's motives are asserted rather than shown, so her antagonism relies on dialogue alone",
+    "The clip is dense with monologue and may feel exposition-heavy without prior setup"
+  ],
+  "one_line_why_it_works": "Rapid escalation from defiance to cold threat ends on Juliana's proud, tearful refusal to yield, which leaves her fate open and makes the viewer want to know what happens next."
+}

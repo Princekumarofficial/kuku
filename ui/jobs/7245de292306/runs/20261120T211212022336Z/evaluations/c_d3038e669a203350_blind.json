@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_d3038e669a203350",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP12:E1",
+      "EP12:E5"
+    ],
+    "reason": "The clip opens at 0ms with the Constable raising heavy iron handcuffs, and Juliana's defiant line 'No! That watch was not in his coat!' follows by 1200ms, so the conflict is immediate. The hook is not stronger because the stakes of the watch are not yet clear to a first-time viewer."
+  },
+  "cliffhanger": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP12:E39",
+      "EP12:E38"
+    ],
+    "reason": "In the final 3000ms Clarissa sets a demand, 'You will retrieve it with your bare hands before the magistrate arrives.' Juliana's response is never shown and the ring's recovery, Alexander's arrest and the magistrate's arrival all remain unresolved, so this is an unresolved cliffhanger rather than a resolved intense ending.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "What the watch is and why its discovery in Alexander's coat matters",
+      "Who Alexander is and his relationship to Juliana, beyond the implied marriage in 'your wife'",
+      "Why the Constable is threatening handcuffs and what charge is being made",
+      "Who Gerald and Clarissa are and how they relate to Juliana",
+      "What the emerald signet ring is worth and why it is at Ashworth Manor",
+      "Why the magistrate's arrival is a threat and what Juliana is being forced to do"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The clip builds rising tension through defiance, humiliation and a cruel bargain, with Alexander's trembling fist and Clarissa's predatory smile conveying strong feeling. Viewers are likely to feel anger and dread on Juliana's behalf, though the emotional stakes depend on context the clip does not supply."
+  },
+  "weaknesses": [
+    "Heavy reliance on unexplained backstory, such as the watch, the marriage and the ring, reduces standalone clarity",
+    "Multiple speakers and rapid cuts in the middle section make the sequence of accusations hard to follow",
+    "The clip ends on Clarissa's demand without showing Juliana's reaction, which weakens the payoff",
+    "Gerald's mocking laugh and the Constable's stony reaction are brief and do little to clarify the legal stakes",
+    "The ring's location in frozen briars is described but its significance to the threat is not explained"
+  ],
+  "one_line_why_it_works": "A clear opening standoff over a watch escalates into a cruel bargain that ends on an unanswered demand, pulling a first-time viewer into the question of whether Juliana will comply."
+}

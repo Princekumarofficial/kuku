@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_22982f99753bff7a",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP12:E17",
+      "EP12:E16",
+      "EP12:E24"
+    ],
+    "reason": "The clip opens mid-confrontation with Juliana's accusation 'You planted it!' and a lunge toward Gerald, which creates immediate conflict. The strongest turn comes at 5600-8400 when Juliana says 'Name your price, Clarissa. I know you.' The opening accusation is unexplained, so the hook is strong but not self-contained."
+  },
+  "cliffhanger": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP12:E45",
+      "EP12:E44"
+    ],
+    "reason": "The clip ends on an unresolved ultimatum: Clarissa tells Juliana 'Fail, or refuse, and your husband hangs from the gallows,' and Juliana's response is never shown. The stakes and her choice remain open at the final frame, so this is an unresolved cliffhanger rather than a resolved intense ending.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Alexander is and his relationship to Juliana beyond 'your husband' is not established",
+      "Why Gerald and the Constable are present and what charges are pending",
+      "The significance of the emerald signet ring and how it was lost",
+      "Why Juliana is accused of having 'planted' something",
+      "What the 'magistrate' arrival and 'withdraw the charges' refer to",
+      "The meaning of 'broken scrap of a man' and the sibling history between Juliana and Clarissa"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "The clip builds strong tension through Clarissa's cruelty, Alexander's trembling fist and fury, Gerald's mocking laughter, and the final threat to Juliana's husband. The emotional stakes are clear even without full context."
+  },
+  "weaknesses": [
+    "The clip depends on unexplained prior events, so a first-time viewer cannot tell who is wronged or why",
+    "Juliana's response to the final ultimatum is absent, leaving the clip without a payoff beyond the threat",
+    "Dense exposition about the ring and briars is delivered quickly and may be hard to follow",
+    "Character roles such as the Constable and Gerald's motive are not clarified"
+  ],
+  "one_line_why_it_works": "It builds high-stakes sibling conflict to a final ultimatum that threatens a husband's life, leaving the outcome unresolved."
+}

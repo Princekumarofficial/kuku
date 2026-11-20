@@ -1,0 +1,205 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_133cc06b9a7d96a9 DURATION_MS=36400\nSEGMENT 1 (playback order)\nEP09:E57 0-700 ACTION: The mother exits into the rainy twilight as Alexander pushes the door shut.\nEP09:E58 0-2700 CAMERA: Close-up of Alexander turning from the door, his expression deeply troubled.\nEP09:E59 300-2700 ALEXANDER: \"You cannot let the whole village start talking about you.\"\nEP09:E60 2700-4700 CAMERA: Medium close-up of Juliana placing the mortar back onto the table, unflinching.\nEP09:E61 2800-4600 JULIANA: \"A child's life matters more than gossip.\"\nEP09:E62 4700-6900 CAMERA: Close-up of Alexander, his jaw clenched with protective anxiety.\nEP09:E63 4800-6800 ALEXANDER: \"Gossip has a way of becoming dangerous.\"\nEP09:E64 6900-9000 CAMERA: Medium two-shot profile of Juliana stepping directly in front of Alexander, looking steadfastly up into his eyes.\nEP09:E65 7200-9000 JULIANA: \"Then we will face it together.\"\nEP09:E66 9000-11700 CAMERA: Wide shot of an opulent gothic manor study. The Blond Nobleman sits in a velvet armchair beside a roaring fireplace, reading an open leather-bound book.\nEP09:E67 9200-11700 ACTION: The Former Groom, soaked from the rain and clutching his hat, walks nervously through the double doors into the study.\nEP09:E68 11700-13200 CAMERA: Medium shot framing the Blond Nobleman in the foreground as The Former Groom halts respectfully behind his chair.\nEP09:E69 11800-12600 BLOND NOBLEMAN: \"What is it?\"\nEP09:E70 13200-15400 CAMERA: Medium close-up of The Former Groom, damp dark hair plastered to his forehead.\nEP09:E71 13200-15500 THE FORMER GROOM: \"There is a rumor going around, my Lord.\"\nEP09:E72 15400-17200 CAMERA: Close-up of the Blond Nobleman lowering his book, gazing across with mild annoyance.\nEP09:E73 15800-16600 BLOND NOBLEMAN: \"What rumor?\"\nEP09:E74 17200-20200 CAMERA: Close-up of The Former Groom speaking cautiously.\nEP09:E75 17300-20300 THE FORMER GROOM: \"About a war veteran. Some say he resembles the late Duke.\"\nEP09:E76 20200-22400 CAMERA: Medium close-up of the Blond Nobleman scoffing dismissively as he closes the book.\nEP09:E77 20500-22500 BLOND NOBLEMAN: \"People see ghosts whenever they want a story.\"\nEP09:E78 22400-26200 CAMERA: Extreme close-up of The Former Groom's eyes widening with urgent dread.\nEP09:E79 22700-26400 THE FORMER GROOM: \"The man is said to have the same kind of scar the Duke carried after the war.\"\nEP09:E80 26200-27400 CAMERA: Close-up of the Blond Nobleman snapping his head around, his smug expression freezing into sudden alarm.\nEP09:E81 26600-27100 BLOND NOBLEMAN: \"Where?\"\nEP09:E82 27400-29200 CAMERA: Medium close-up of The Former Groom shifting uncomfortably.\nEP09:E83 27500-28800 THE FORMER GROOM: \"No one seems certain.\"\nEP09:E84 29200-31200 CAMERA: Close-up of the Blond Nobleman composing his features into cold disdain, though tension trembles beneath his tone.\nEP09:E85 29400-31100 BLOND NOBLEMAN: \"Then let it remain a rumor.\"\nEP09:E86 31200-33200 CAMERA: Medium shot as The Former Groom turns and retreats silently out of the study, leaving the doors closed.\nEP09:E87 33200-36400 CAMERA: Side profile shot of the Blond Nobleman seated alone before the roaring fire, staring blankly into the flames in creeping paranoia.\nEP09:E88 35000-36400 BLOND NOBLEMAN: \"Impossible.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "complete",
+  "output": {
+    "candidate_id": "c_133cc06b9a7d96a9",
+    "hook": {
+      "score_0_10": 5.0,
+      "evidence_refs": [
+        "EP09:E58",
+        "EP09:E59"
+      ],
+      "reason": "The opening starts in a tense argument with a troubled close-up, but the stakes of the 'village talking' line are not established for a first-time viewer."
+    },
+    "cliffhanger": {
+      "score_0_10": 7.0,
+      "evidence_refs": [
+        "EP09:E81",
+        "EP09:E88"
+      ],
+      "reason": "The clip ends with the Blond Nobleman alone and alarmed after the rumor of a scarred look-alike, and his 'Where?' question goes unanswered. The 'Impossible.' line leaves the matter open, so it is not a resolved intense ending.",
+      "unresolved_at_end": true
+    },
+    "standalone": {
+      "score_0_10": 3.0,
+      "missing_context": [
+        "Identity and relationship of Alexander, Juliana, and the mother",
+        "The child whose life is at stake and why the village would gossip",
+        "Who the Blond Nobleman is and his connection to the household",
+        "Who The Former Groom is and his role in the rumor",
+        "Who the late Duke is and the significance of his scar",
+        "Who the war veteran is and why his resemblance matters",
+        "What 'Impossible' refers to"
+      ]
+    },
+    "emotion": {
+      "score_0_10": 6.0,
+      "reason": "Protective anxiety, a steadfast refusal, and the Nobleman's shift from smug dismissal to creeping paranoia build a clear emotional arc even without full context."
+    },
+    "weaknesses": [
+      "Opening dialogue refers to unexplained stakes (a child, gossip, the village) with no grounding for a first-time viewer",
+      "Several characters are introduced by title only, weakening identification",
+      "The ending's link between the veteran and the late Duke is only rumor and is not clarified",
+      "'Impossible' has no clear referent within the clip, so its impact depends on inference",
+      "The shift between the two scenes is abrupt and the connection between the couple's conflict and the study scene is not shown"
+    ],
+    "one_line_why_it_works": "A rumor about a scarred look-alike turns the Nobleman's smug dismissal into visible alarm, ending on an unanswered question that holds attention."
+  }
+}

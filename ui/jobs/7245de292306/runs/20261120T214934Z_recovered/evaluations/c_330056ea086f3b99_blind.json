@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_330056ea086f3b99",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP19:E53",
+      "EP19:E54",
+      "EP19:E55"
+    ],
+    "reason": "The opening starts within 0-3000ms with a close-up of silent tears and then the barn doors opening. The spoken line 'We have lost everything.' at 600-2600ms creates immediate emotional stakes, but the cause of the loss is not shown, so the pull is moderate."
+  },
+  "cliffhanger": {
+    "score_0_10": 3.0,
+    "evidence_refs": [
+      "EP19:E63",
+      "EP19:E59"
+    ],
+    "reason": "The ending is a calm, resolved embrace. Alexander's 'Tomorrow, we begin again' and the closing image of a warm lantern glow settle the emotional beat. His resolve to reclaim what was stolen adds a light forward pull, but no question is left open within the clip.",
+    "unresolved_at_end": false
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Juliana and Alexander are and how they relate beyond the scene",
+      "What was lost and why they have lost everything",
+      "What was stolen and by whom, which the ending alludes to",
+      "Why they are in a barn and what the open book represents",
+      "What 'begin again' refers to"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 6.0,
+    "reason": "Juliana's silent tears, her breakdown over the book and Alexander's comforting blanket and embrace create clear sorrow shifting toward tenderness. The emotional arc is readable, but without knowing the stakes the feeling stays surface-level."
+  },
+  "weaknesses": [
+    "Stakes of the loss are asserted ('We have lost everything') but never shown",
+    "The theft referenced in the final shot has no setup within the clip",
+    "Dialogue is sparse, so the characters' situation depends on unexplained context",
+    "The final push-in shot is long and slow, with little new information after the embrace",
+    "Hook evidence is mostly visual sorrow rather than a question or conflict that compels continued viewing"
+  ],
+  "one_line_why_it_works": "Raw, tearful despair turns into a tender, hopeful embrace, with Alexander's steady promise giving the clip an emotionally satisfying shape even without full context."
+}

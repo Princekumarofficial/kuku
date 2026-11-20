@@ -1,0 +1,46 @@
+{
+  "candidate_id": "c_6fef83f5f89d45fe",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP04:E58",
+      "EP04:E60",
+      "EP04:E61",
+      "EP04:E82",
+      "EP04:E83"
+    ],
+    "reason": "The opening within 0-3000ms shows a hand joining and a trembling priest stammering \"My- My Lady...\", which creates a question about the situation. The final 3000ms shows the priest beginning a pronouncement and a wide cathedral shot, but the hook depends on a tension the clip never explains."
+  },
+  "cliffhanger": {
+    "score_0_10": 4.0,
+    "evidence_refs": [
+      "EP04:E82",
+      "EP04:E83"
+    ],
+    "reason": "The priest's pronouncement is cut off mid-sentence at \"I now pronounce you...\", which leaves the final words unresolved. The ceremony itself appears to be proceeding without conflict, so the open ending is mainly a cut-off line rather than a dangling plot threat.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Identity and background of Juliana and the Mysterious Bearded Man",
+      "Reason the priest is bewildered and asks \"Are you certain?\"",
+      "Why Lord Ashcroft sits in grim silence and what his silence means",
+      "Why the ceremony is unusual or who is objecting, if anyone",
+      "What \"protection\", \"respect\" and \"word\" refer to in the couple's relationship",
+      "The final pronouncement is incomplete, so the outcome of the marriage is not shown"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The clip builds tension through the trembling priest, the grim onlooker and the questioning eyes, then shifts into tender, intimate vows and a sincere exchange of promises. The emotional tone is strong even without background context."
+  },
+  "weaknesses": [
+    "Opening tension is not explained, so the first-time viewer cannot tell what the priest fears or why the wedding is irregular",
+    "Lord Ashcroft's grim silence is shown without any cue for what he represents",
+    "The clip ends mid-sentence, which reads as an abrupt cut rather than a deliberate hook",
+    "Vows are emotionally charged but their meaning depends on unseen story context",
+    "Several short shots in the middle make the scene feel rushed"
+  ],
+  "one_line_why_it_works": "A trembling priest's hesitant \"Are you certain?\" and Juliana's firm \"I am.\" create immediate tension that is then softened by tender vows and an interrupted pronouncement."
+}

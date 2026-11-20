@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_cdf45fecd94732df",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP27:E75",
+      "EP27:E77",
+      "EP27:E94"
+    ],
+    "reason": "The clip opens immediately on the word 'Poison.' at 0-1100ms, followed by the accusation 'Someone has been poisoning Her Grace' at 1700-3900ms. A first-time viewer is pulled in at once. The sequence escalates through a false accusation and a seizure of Juliana, and the final shot at 28800-30500ms keeps the stakes active."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP27:E93",
+      "EP27:E94"
+    ],
+    "reason": "Juliana is being dragged toward the doorway and looks back at the bedridden Duchess at the end. Her fate, the truth about the vial, and whether the accusation holds are all left open within the clip. It is not a resolved ending.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Identity and role of Juliana",
+      "Identity of the Blond Nobleman and his authority",
+      "Relationship of Lady Catherine to the Duchess and Juliana",
+      "Who the bedridden Duchess is and why she is ill",
+      "Contents and origin of the vial",
+      "Meaning of 'Her Grace' and the room's setting"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Juliana's shock, Lady Catherine's malicious glee, and the guard's forceful seizure create strong tension and a sense of injustice. The viewer feels Juliana's helplessness as she is dragged away."
+  },
+  "weaknesses": [
+    "Key characters and relationships are not introduced, so the stakes rely on inference",
+    "The contents of the vial and the poisoning claim are not explained",
+    "Lady Catherine's motive is not clear from the clip alone",
+    "Dialogue-heavy middle section may slow pacing for a first-time viewer"
+  ],
+  "one_line_why_it_works": "A sharp opening accusation of poisoning escalates into a false charge and Juliana's violent arrest, leaving her fate unresolved and the viewer emotionally invested despite limited context."
+}

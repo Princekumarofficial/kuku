@@ -1,0 +1,40 @@
+{
+  "candidate_id": "c_18223d12776e0588",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP13:E44",
+      "EP13:E45"
+    ],
+    "reason": "Opens with a cruel taunt from Gerald and quickly moves to a visceral close-up of thorns piercing Juliana's hand, which creates immediate tension and stakes."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP13:E70",
+      "EP13:E74"
+    ],
+    "reason": "Juliana finally grasps the ring, but the clip ends mid-struggle with her still in pain and the ring's meaning and consequences unresolved, so the stakes remain open rather than concluded.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Clarissa, Gerald, Juliana, and Alexander are and how they are related",
+      "Why Juliana is searching the garden and what the Constable's role is",
+      "What Gerald's 'husband's freedom' line refers to",
+      "Why the emerald ring matters and what it will change"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Sustained visual and audio focus on pain, bloodshed, and Alexander's anguished pleading creates strong sympathy and tension."
+  },
+  "weaknesses": [
+    "Viewer cannot tell the characters' relationships or the stakes behind the search",
+    "The ring's significance is shown but not explained, weakening the payoff",
+    "Gerald's cruelty is established but his motive is unclear",
+    "Rapid cutting between many shots makes some beats feel repetitive"
+  ],
+  "one_line_why_it_works": "Visceral physical suffering and a sudden discovery of the ring create strong emotional tension, though the missing context limits standalone clarity."
+}

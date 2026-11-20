@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_b9a9d7f4be75d3d9",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP28:E70",
+      "EP28:E71",
+      "EP28:E72"
+    ],
+    "reason": "The clip opens within the first 3000ms with Juliana freezing in the doorway as Catherine opens the book, followed by Juliana's gasp of horror. The discovery of a hidden secret creates immediate tension."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP28:E94",
+      "EP28:E95"
+    ],
+    "reason": "In the final 3000ms, Catherine holds the herbarium and threatens Juliana with a magistrate and the gallows. Juliana's fate and the book's fate are unresolved, and the clip ends before either is decided.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Juliana is and why her identity is secret",
+      "Why Catherine knows Juliana and her past, including the 'disgraced daughter' and 'penniless war veteran' references",
+      "Who the blond nobleman and Rupert are; Rupert is named only in a camera description, not in any dialogue",
+      "Why the herbarium book matters and what 'This book of weeds' implies",
+      "What the 'wet cells beneath the south tower' and the magistrate charge signify"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "The clip conveys strong emotion through Juliana's horror and fury, Catherine's cruel triumph and humiliation, and Juliana's desperate protest over her mother's work."
+  },
+  "weaknesses": [
+    "Heavy reliance on unexplained backstory makes the humiliation and stakes hard to fully grasp for a first-time viewer",
+    "The speaker of the 'Drag her to the wet cells' line is labeled only as a blond nobleman, and Rupert is named only in a camera line, which is confusing",
+    "Catherine's line 'I knew I had seen those eyes before' has no visible setup, so the recognition feels abrupt",
+    "The gallows threat is stated but its legal basis is not explained, which weakens the stakes"
+  ],
+  "one_line_why_it_works": "A sudden exposure, a cruel reversal of power, and a threat to the book and Juliana's life end the clip on an open, high-stakes question."
+}

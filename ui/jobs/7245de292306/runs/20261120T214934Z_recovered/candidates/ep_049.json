@@ -1,0 +1,692 @@
+[
+  {
+    "candidate_id": "c_d8e479da24c0779f",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 15200,
+        "end_ms": 72200,
+        "episode_id": "ep_049"
+      }
+    ],
+    "duration_ms": 57000,
+    "origin": "opp_01",
+    "clip_events": [
+      {
+        "ref": "EP49:E7",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Father Thomas under his black hood, his stern face framed by the clerical collar and silver crucifix resting on his chest."
+      },
+      {
+        "ref": "EP49:E9",
+        "segment_index": 0,
+        "relative_start_ms": 300,
+        "relative_end_ms": 4600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up profile of Catherine, turning with a slight, knowing smirk."
+      },
+      {
+        "ref": "EP49:E10",
+        "segment_index": 0,
+        "relative_start_ms": 600,
+        "relative_end_ms": 3600,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Good. That's what I pay her for.\""
+      },
+      {
+        "ref": "EP49:E11",
+        "segment_index": 0,
+        "relative_start_ms": 4600,
+        "relative_end_ms": 6800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot as Catherine steps forward and sets the heavy candleholder onto a small round table draped in grey cloth between them."
+      },
+      {
+        "ref": "EP49:E12",
+        "segment_index": 0,
+        "relative_start_ms": 4800,
+        "relative_end_ms": 6800,
+        "type": "action",
+        "speaker": null,
+        "text": "Catherine sets down the brass candleholder, the flame flickering across their faces."
+      },
+      {
+        "ref": "EP49:E13",
+        "segment_index": 0,
+        "relative_start_ms": 6800,
+        "relative_end_ms": 12300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up on Father Thomas's face, the candlelight dancing in his calculating eyes."
+      },
+      {
+        "ref": "EP49:E14",
+        "segment_index": 0,
+        "relative_start_ms": 7000,
+        "relative_end_ms": 12000,
+        "type": "dialogue",
+        "speaker": "FATHER THOMAS",
+        "text": "\"No shadows tonight, Catherine. Just us and an empty wing.\""
+      },
+      {
+        "ref": "EP49:E15",
+        "segment_index": 0,
+        "relative_start_ms": 12300,
+        "relative_end_ms": 18000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Catherine, her blonde ringlets peeking from beneath her velvet hood as she smiles faintly."
+      },
+      {
+        "ref": "EP49:E16",
+        "segment_index": 0,
+        "relative_start_ms": 12600,
+        "relative_end_ms": 17800,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"You didn't need them the first time, either. I just prefer my secrets thorough.\""
+      },
+      {
+        "ref": "EP49:E17",
+        "segment_index": 0,
+        "relative_start_ms": 18000,
+        "relative_end_ms": 26600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Father Thomas, glancing down momentarily before fixing his piercing gaze back on her."
+      },
+      {
+        "ref": "EP49:E18",
+        "segment_index": 0,
+        "relative_start_ms": 18300,
+        "relative_end_ms": 26300,
+        "type": "dialogue",
+        "speaker": "FATHER THOMAS",
+        "text": "\"A priest and a disgraced bride meeting before dawn in her bedchamber. I'd say thoroughness served us both rather well.\""
+      },
+      {
+        "ref": "EP49:E19",
+        "segment_index": 0,
+        "relative_start_ms": 26600,
+        "relative_end_ms": 31600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Catherine's face hardening into a stern, focused expression."
+      },
+      {
+        "ref": "EP49:E20",
+        "segment_index": 0,
+        "relative_start_ms": 26800,
+        "relative_end_ms": 31300,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"It will keep serving us as long as neither of us gets careless. No one in this house so much as suspects your face belongs to that morning. Let's keep it that way.\""
+      },
+      {
+        "ref": "EP49:E21",
+        "segment_index": 0,
+        "relative_start_ms": 31600,
+        "relative_end_ms": 33300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Father Thomas listening impassively."
+      },
+      {
+        "ref": "EP49:E22",
+        "segment_index": 0,
+        "relative_start_ms": 33300,
+        "relative_end_ms": 37800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium wide two-shot across the candlelit table, Catherine leaning slightly forward."
+      },
+      {
+        "ref": "EP49:E23",
+        "segment_index": 0,
+        "relative_start_ms": 33600,
+        "relative_end_ms": 37600,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Today went better than either of us planned for. The whole court watched you humiliate her.\""
+      },
+      {
+        "ref": "EP49:E24",
+        "segment_index": 0,
+        "relative_start_ms": 37800,
+        "relative_end_ms": 44600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up on Father Thomas as he turns his head slightly, scanning the dusty shadowed recesses of the abandoned room."
+      },
+      {
+        "ref": "EP49:E25",
+        "segment_index": 0,
+        "relative_start_ms": 38000,
+        "relative_end_ms": 44300,
+        "type": "dialogue",
+        "speaker": "FATHER THOMAS",
+        "text": "\"Fitting choice, this room. A place the family forgot for a conversation they mustn't remember.\""
+      },
+      {
+        "ref": "EP49:E26",
+        "segment_index": 0,
+        "relative_start_ms": 44600,
+        "relative_end_ms": 47600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Catherine, her lips curling into an amused, knowing smile."
+      },
+      {
+        "ref": "EP49:E27",
+        "segment_index": 0,
+        "relative_start_ms": 44800,
+        "relative_end_ms": 47300,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"You always did have a taste for symbolism.\""
+      },
+      {
+        "ref": "EP49:E28",
+        "segment_index": 0,
+        "relative_start_ms": 47600,
+        "relative_end_ms": 52000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Father Thomas, a subtle smirk breaking through his austere demeanor."
+      },
+      {
+        "ref": "EP49:E29",
+        "segment_index": 0,
+        "relative_start_ms": 47800,
+        "relative_end_ms": 51900,
+        "type": "dialogue",
+        "speaker": "FATHER THOMAS",
+        "text": "\"And you always did have a taste for using me. It's why we suit each other.\""
+      },
+      {
+        "ref": "EP49:E30",
+        "segment_index": 0,
+        "relative_start_ms": 52000,
+        "relative_end_ms": 57000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Catherine, her expression turning razor-sharp and commanding."
+      },
+      {
+        "ref": "EP49:E31",
+        "segment_index": 0,
+        "relative_start_ms": 52200,
+        "relative_end_ms": 57000,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Then make certain the council remembers that for the full ten days, not just the first hour.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_90b3b51146cfbaab",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 91400,
+        "end_ms": 134200,
+        "episode_id": "ep_049"
+      }
+    ],
+    "duration_ms": 42800,
+    "origin": "opp_02",
+    "clip_events": [
+      {
+        "ref": "EP49:E38",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Father Thomas absorbing the audacity of her demand."
+      },
+      {
+        "ref": "EP49:E39",
+        "segment_index": 0,
+        "relative_start_ms": 200,
+        "relative_end_ms": 2600,
+        "type": "dialogue",
+        "speaker": "FATHER THOMAS",
+        "text": "\"You want eyes inside the council chamber itself?\""
+      },
+      {
+        "ref": "EP49:E40",
+        "segment_index": 0,
+        "relative_start_ms": 2800,
+        "relative_end_ms": 6600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up low angle on Catherine, tilting her chin up in defiant pride."
+      },
+      {
+        "ref": "EP49:E41",
+        "segment_index": 0,
+        "relative_start_ms": 3000,
+        "relative_end_ms": 6400,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"I want eyes and ears everywhere that decides my future.\""
+      },
+      {
+        "ref": "EP49:E42",
+        "segment_index": 0,
+        "relative_start_ms": 6600,
+        "relative_end_ms": 12400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Full two-shot of Catherine and Father Thomas facing off across the small table in the cavernous hallway."
+      },
+      {
+        "ref": "EP49:E43",
+        "segment_index": 0,
+        "relative_start_ms": 6800,
+        "relative_end_ms": 11100,
+        "type": "action",
+        "speaker": null,
+        "text": "Father Thomas clasps his hands behind his back, turning slightly away to ponder the gravity of her words."
+      },
+      {
+        "ref": "EP49:E44",
+        "segment_index": 0,
+        "relative_start_ms": 6900,
+        "relative_end_ms": 11800,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Is that so unreasonable coming from a woman the church itself just humiliated back into relevance?\""
+      },
+      {
+        "ref": "EP49:E45",
+        "segment_index": 0,
+        "relative_start_ms": 12400,
+        "relative_end_ms": 21600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot on Father Thomas turning back around to face her, his countenance etched with genuine concern."
+      },
+      {
+        "ref": "EP49:E46",
+        "segment_index": 0,
+        "relative_start_ms": 12800,
+        "relative_end_ms": 21400,
+        "type": "dialogue",
+        "speaker": "FATHER THOMAS",
+        "text": "\"If I keep the hearing open, if I feed you every word spoken behind those doors, what happens to me when the Duke finds out a crowned priest conspired against him?\""
+      },
+      {
+        "ref": "EP49:E47",
+        "segment_index": 0,
+        "relative_start_ms": 21600,
+        "relative_end_ms": 26600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot tracking closer as Catherine steps closer toward him."
+      },
+      {
+        "ref": "EP49:E48",
+        "segment_index": 0,
+        "relative_start_ms": 21800,
+        "relative_end_ms": 26400,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Then make certain he doesn't find out. You're careful. I've seen how careful.\""
+      },
+      {
+        "ref": "EP49:E49",
+        "segment_index": 0,
+        "relative_start_ms": 26600,
+        "relative_end_ms": 33400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up on Father Thomas's intense, brooding face."
+      },
+      {
+        "ref": "EP49:E50",
+        "segment_index": 0,
+        "relative_start_ms": 26800,
+        "relative_end_ms": 33100,
+        "type": "dialogue",
+        "speaker": "FATHER THOMAS",
+        "text": "\"Careful men still hang, my lady, when the crime is treason against a Duke the King himself just restored.\""
+      },
+      {
+        "ref": "EP49:E51",
+        "segment_index": 0,
+        "relative_start_ms": 33400,
+        "relative_end_ms": 37400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Catherine, her lips parting into an alluring, promising smile."
+      },
+      {
+        "ref": "EP49:E52",
+        "segment_index": 0,
+        "relative_start_ms": 33600,
+        "relative_end_ms": 37100,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Careful men who help me also get remembered.\""
+      },
+      {
+        "ref": "EP49:E53",
+        "segment_index": 0,
+        "relative_start_ms": 37400,
+        "relative_end_ms": 42800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Split focus close-up between Father Thomas's intense gaze and Catherine leaning in close, whispering with lethal conviction."
+      },
+      {
+        "ref": "EP49:E54",
+        "segment_index": 0,
+        "relative_start_ms": 37800,
+        "relative_end_ms": 42800,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"A grateful Duchess collects debts differently than a desperate one.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_e9039e35434520f3",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 33000,
+        "end_ms": 83800,
+        "episode_id": "ep_049"
+      }
+    ],
+    "duration_ms": 50800,
+    "origin": "opp_03",
+    "clip_events": [
+      {
+        "ref": "EP49:E15",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Catherine, her blonde ringlets peeking from beneath her velvet hood as she smiles faintly."
+      },
+      {
+        "ref": "EP49:E17",
+        "segment_index": 0,
+        "relative_start_ms": 200,
+        "relative_end_ms": 8800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Father Thomas, glancing down momentarily before fixing his piercing gaze back on her."
+      },
+      {
+        "ref": "EP49:E18",
+        "segment_index": 0,
+        "relative_start_ms": 500,
+        "relative_end_ms": 8500,
+        "type": "dialogue",
+        "speaker": "FATHER THOMAS",
+        "text": "\"A priest and a disgraced bride meeting before dawn in her bedchamber. I'd say thoroughness served us both rather well.\""
+      },
+      {
+        "ref": "EP49:E19",
+        "segment_index": 0,
+        "relative_start_ms": 8800,
+        "relative_end_ms": 13800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Catherine's face hardening into a stern, focused expression."
+      },
+      {
+        "ref": "EP49:E20",
+        "segment_index": 0,
+        "relative_start_ms": 9000,
+        "relative_end_ms": 13500,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"It will keep serving us as long as neither of us gets careless. No one in this house so much as suspects your face belongs to that morning. Let's keep it that way.\""
+      },
+      {
+        "ref": "EP49:E21",
+        "segment_index": 0,
+        "relative_start_ms": 13800,
+        "relative_end_ms": 15500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Father Thomas listening impassively."
+      },
+      {
+        "ref": "EP49:E22",
+        "segment_index": 0,
+        "relative_start_ms": 15500,
+        "relative_end_ms": 20000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium wide two-shot across the candlelit table, Catherine leaning slightly forward."
+      },
+      {
+        "ref": "EP49:E23",
+        "segment_index": 0,
+        "relative_start_ms": 15800,
+        "relative_end_ms": 19800,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Today went better than either of us planned for. The whole court watched you humiliate her.\""
+      },
+      {
+        "ref": "EP49:E24",
+        "segment_index": 0,
+        "relative_start_ms": 20000,
+        "relative_end_ms": 26800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up on Father Thomas as he turns his head slightly, scanning the dusty shadowed recesses of the abandoned room."
+      },
+      {
+        "ref": "EP49:E25",
+        "segment_index": 0,
+        "relative_start_ms": 20200,
+        "relative_end_ms": 26500,
+        "type": "dialogue",
+        "speaker": "FATHER THOMAS",
+        "text": "\"Fitting choice, this room. A place the family forgot for a conversation they mustn't remember.\""
+      },
+      {
+        "ref": "EP49:E26",
+        "segment_index": 0,
+        "relative_start_ms": 26800,
+        "relative_end_ms": 29800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Catherine, her lips curling into an amused, knowing smile."
+      },
+      {
+        "ref": "EP49:E27",
+        "segment_index": 0,
+        "relative_start_ms": 27000,
+        "relative_end_ms": 29500,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"You always did have a taste for symbolism.\""
+      },
+      {
+        "ref": "EP49:E28",
+        "segment_index": 0,
+        "relative_start_ms": 29800,
+        "relative_end_ms": 34200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Father Thomas, a subtle smirk breaking through his austere demeanor."
+      },
+      {
+        "ref": "EP49:E29",
+        "segment_index": 0,
+        "relative_start_ms": 30000,
+        "relative_end_ms": 34100,
+        "type": "dialogue",
+        "speaker": "FATHER THOMAS",
+        "text": "\"And you always did have a taste for using me. It's why we suit each other.\""
+      },
+      {
+        "ref": "EP49:E30",
+        "segment_index": 0,
+        "relative_start_ms": 34200,
+        "relative_end_ms": 39400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Catherine, her expression turning razor-sharp and commanding."
+      },
+      {
+        "ref": "EP49:E31",
+        "segment_index": 0,
+        "relative_start_ms": 34400,
+        "relative_end_ms": 39200,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Then make certain the council remembers that for the full ten days, not just the first hour.\""
+      },
+      {
+        "ref": "EP49:E32",
+        "segment_index": 0,
+        "relative_start_ms": 39400,
+        "relative_end_ms": 44000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Side profile close-up on Father Thomas, his brow furrowing with impatient resolve."
+      },
+      {
+        "ref": "EP49:E33",
+        "segment_index": 0,
+        "relative_start_ms": 39600,
+        "relative_end_ms": 43800,
+        "type": "dialogue",
+        "speaker": "FATHER THOMAS",
+        "text": "\"What is it you actually need from me, Catherine? Say it plainly, for once.\""
+      },
+      {
+        "ref": "EP49:E34",
+        "segment_index": 0,
+        "relative_start_ms": 44000,
+        "relative_end_ms": 50800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Catherine raising one hand slightly, emphasizing her terms."
+      },
+      {
+        "ref": "EP49:E35",
+        "segment_index": 0,
+        "relative_start_ms": 44200,
+        "relative_end_ms": 50800,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"First, the hearing stays unresolved as long as possible. Every extension, every delay, every excuse to reconvene.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_586d5fa3582519cd",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 72200,
+        "end_ms": 94200,
+        "episode_id": "ep_049"
+      }
+    ],
+    "duration_ms": 22000,
+    "origin": "recovery_B5",
+    "clip_events": [
+      {
+        "ref": "EP49:E30",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Catherine, her expression turning razor-sharp and commanding."
+      },
+      {
+        "ref": "EP49:E32",
+        "segment_index": 0,
+        "relative_start_ms": 200,
+        "relative_end_ms": 4800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Side profile close-up on Father Thomas, his brow furrowing with impatient resolve."
+      },
+      {
+        "ref": "EP49:E33",
+        "segment_index": 0,
+        "relative_start_ms": 400,
+        "relative_end_ms": 4600,
+        "type": "dialogue",
+        "speaker": "FATHER THOMAS",
+        "text": "\"What is it you actually need from me, Catherine? Say it plainly, for once.\""
+      },
+      {
+        "ref": "EP49:E34",
+        "segment_index": 0,
+        "relative_start_ms": 4800,
+        "relative_end_ms": 11800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Catherine raising one hand slightly, emphasizing her terms."
+      },
+      {
+        "ref": "EP49:E35",
+        "segment_index": 0,
+        "relative_start_ms": 5000,
+        "relative_end_ms": 11600,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"First, the hearing stays unresolved as long as possible. Every extension, every delay, every excuse to reconvene.\""
+      },
+      {
+        "ref": "EP49:E36",
+        "segment_index": 0,
+        "relative_start_ms": 11800,
+        "relative_end_ms": 19200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Frontal close-up of Catherine raising two fingers in the candlelight, her eyes burning with ruthless intent."
+      },
+      {
+        "ref": "EP49:E37",
+        "segment_index": 0,
+        "relative_start_ms": 12000,
+        "relative_end_ms": 19000,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Second, I want to know what the council knows before it decides anything. Every argument, every witness, every whisper against her.\""
+      },
+      {
+        "ref": "EP49:E38",
+        "segment_index": 0,
+        "relative_start_ms": 19200,
+        "relative_end_ms": 22000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Father Thomas absorbing the audacity of her demand."
+      },
+      {
+        "ref": "EP49:E39",
+        "segment_index": 0,
+        "relative_start_ms": 19400,
+        "relative_end_ms": 21800,
+        "type": "dialogue",
+        "speaker": "FATHER THOMAS",
+        "text": "\"You want eyes inside the council chamber itself?\""
+      }
+    ]
+  }
+]

@@ -1,0 +1,449 @@
+{
+  "stage": "episode_analysis",
+  "system": "Analyze narrative beats, characters, revelations and unresolved questions. Only event text is on-screen evidence; metadata may describe unseen events. Use supplied EPxx:Ex aliases. Report uncertainty in the summary. A revelation's significance is not its spoiler damage.",
+  "user": "EP=ep_002; timestamps are integer milliseconds\nSOURCE_SHA256=f0bdb98b40cdd1cd1458e4dbae99ee51c55130e75cd676e06a12ce04a9cbb111\nMETADATA ONLY (not on-screen evidence): {'logline': \"Publicly cast aside at the altar by Gerald for her sister Clarissa and abandoned by her own family, Juliana stands tall and turns her public humiliation into an unyielding indictment of Gerald's honor.\", 'continuity_notes': \"Picks up directly from Episode 1's cliffhanger. Gerald has turned away from Juliana at the altar, leaving her devastated before the entire aristocratic congregation.\"}\nSOURCE WARNINGS=[]\nSCENE sc_001 0-110000 INT. CATHEDRAL – CONTINUOUS\nEP02:E1 0-2800 CAMERA: Medium low-angle shot on Gerald at the altar steps, looking down dismissively, while Clarissa in her shimmering gold gown stands behind him gloating.\nEP02:E2 0-2500 THE FORMER GROOM [Cold, Callous]: \"I cannot marry you, Juliana.\"\nEP02:E3 2800-4600 CAMERA: Medium close-up on Juliana trembling in disbelief, her hands clasped tightly to her chest.\nEP02:E4 2800-4600 ACTION: Juliana gasps softly in heartbreak, her eyes wide and brimming with tears.\nEP02:E5 4600-6600 CAMERA: Medium shot returning to Gerald, sneering down at Juliana.\nEP02:E6 4700-6500 THE FORMER GROOM [Cruel, Derisive]: \"You are far too plain...\"\nEP02:E7 6600-9500 CAMERA: Close-up on Juliana's tear-streaked face, crushed under his biting words.\nEP02:E8 6800-9500 THE FORMER GROOM [Off-screen) (Dismissive]: \"...far too silent...\"\nEP02:E9 9500-12000 CAMERA: Medium shot on Gerald turning slightly toward Clarissa as she smiles admiringly at him.\nEP02:E10 9600-12000 THE FORMER GROOM [Arrogant, Conceited]: \"...and completely beneath the future I deserve.\"\nEP02:E11 12000-15800 CAMERA: Wide shot down the aisle as Juliana takes an agonizing step forward toward the altar, extending a trembling hand.\nEP02:E12 12400-15500 LADY JULIANA [Desperate, Pleading]: \"Gerald... Look at me.\"\nEP02:E13 15800-18000 CAMERA: Close-up on Gerald's cold, merciless face staring ahead unblinkingly.\nEP02:E14 18000-20700 CAMERA: Tight insert on Juliana's hand clutching the heirloom amethyst pendant resting against her gown.\nEP02:E15 18200-20600 LADY JULIANA [Trembling, Betrayed]: \"You gave me your word before both our families.\"\nEP02:E16 20700-23800 CAMERA: Medium two-shot of Gerald and Clarissa standing side by side before the priest.\nEP02:E17 20900-23700 THE FORMER GROOM [Indifferent, Unapologetic]: \"Promises change when a better choice appears.\"\nEP02:E18 23800-27600 CAMERA: Medium close-up on Juliana clutching her chest, her voice quivering with disbelief.\nEP02:E19 24000-27400 LADY JULIANA [Shattered, Disbelieving]: \"A better choice? Is that what she is?\"\nEP02:E20 27600-30600 CAMERA: Wide shot from behind Juliana looking up the altar stairs at Gerald with Clarissa linked to his arm.\nEP02:E21 27800-30500 THE FORMER GROOM [Resolute, Harsh]: \"She is what I should have chosen from the beginning.\"\nEP02:E22 30600-32400 CAMERA: Medium shot of Juliana's father seated prominently in the family pew, clutching his gold-topped cane.\nEP02:E23 30900-32400 LADY JULIANA [Off-screen) (Vulnerable, Begging]: \"Father...\"\nEP02:E24 32400-34200 CAMERA: Close-up of the father's stern, unyielding face.\nEP02:E25 34200-37200 CAMERA: Medium shot of Juliana turning toward her father in the pews, imploring him.\nEP02:E26 34300-37100 LADY JULIANA [Choked with Tears]: \"Surely you will not let him humiliate me like this?\"\nEP02:E27 37200-42500 CAMERA: Medium shot tracking in on Juliana's father as he leans firmly upon his cane, looking down coldly.\nEP02:E28 37500-42300 BLOND NOBLEMAN [Stern, Cold]: \"Gerald has made his choice. Accept it, Juliana.\"\nEP02:E29 42500-44800 CAMERA: Close-up on the father's hardening eyes, entirely unsympathetic.\nEP02:E30 42500-44700 BLOND NOBLEMAN [Severely, Harsh]: \"Do not disgrace us further.\"\nEP02:E31 44800-47600 CAMERA: Extreme close-up on Juliana's tear-drenched eyes as the sting of her father's rejection lands.\nEP02:E32 45300-47400 LADY JULIANA [Whispering, Crushed]: \"You won't even look at me.\"\nEP02:E33 47600-51500 CAMERA: Medium shot on Clarissa, beaming smugly as she clings to Gerald's arm.\nEP02:E34 47800-51400 LADY IN GOLD GOWN [Mocking, Spiteful]: \"Why are you surprised, sister? Look at you.\"\nEP02:E35 51500-53400 CAMERA: Tight insert on Clarissa's gloved fingers contemptuously pinching the satin folds of Juliana's gown.\nEP02:E36 51600-53200 LADY IN GOLD GOWN [Off-screen) (Scornful]: \"That plain, old-fashioned gown.\"\nEP02:E37 53400-56700 CAMERA: Medium shot of Clarissa smiling radiantly, condescendingly gesturing at Juliana.\nEP02:E38 53500-56700 LADY IN GOLD GOWN [Taunting, Giggling]: \"You look like a kitchen maid who wandered into the wrong wedding.\"\nEP02:E39 56700-58200 CAMERA: Close-up on Juliana, whose tearful expression begins to tighten with quiet indignation.\nEP02:E40 56800-58200 LADY IN GOLD GOWN [Off-screen) (Snide]: \"And that quiet little face.\"\nEP02:E41 58200-58600 CAMERA: Wide over-the-shoulder shot from behind Clarissa and Gerald, framing Juliana standing solitary down the center aisle.\nEP02:E42 58600-60500 CAMERA: Medium shot returning to Clarissa laughing at Juliana's expense.\nEP02:E43 58700-60500 LADY IN GOLD GOWN [Conceited, Spiteful]: \"Gerald needs a real lady...\"\nEP02:E44 60500-63500 CAMERA: Close-up on Juliana staring straight ahead as Clarissa insults her mother's memory.\nEP02:E45 60600-63500 LADY IN GOLD GOWN [Off-screen) (Vicious]: \"...not a dull creature who hides in her mother's apothecary herbs.\"\nEP02:E46 63500-66000 CAMERA: High-angle wide shot of the grand cathedral aisle as a matriarch dressed in an ornate black velvet gown glides toward Juliana.\nEP02:E47 63500-66000 ACTION: The matriarch steps into the center aisle, glaring down at Juliana with cold superiority.\nEP02:E48 63600-65800 OFF-SCREEN VOICE [Cold, Scolding]: \"Oh, don't look so wounded, Juliana.\"\nEP02:E49 66000-69300 CAMERA: Medium profile two-shot of the matriarch confronting Juliana face-to-face.\nEP02:E50 66100-69300 OFF-SCREEN VOICE [Dismissive, Condescending]: \"You should be grateful you're at least allowed to attend the wedding.\"\nEP02:E51 69300-72800 CAMERA: Medium shot of Gerald stepping forward on the altar steps, impatiently gesturing Juliana toward the church exit.\nEP02:E52 69400-72700 THE FORMER GROOM [Impatient, Commanding]: \"Go home quietly, Juliana. At least leave this chapel with some dignity.\"\nEP02:E53 72800-74200 CAMERA: Profile close-up of Juliana turning her face back toward the altar, tears still shimmering on her cheeks.\nEP02:E54 74200-76500 CAMERA: Direct close-up on Juliana's face as a steely, defiant smile emerges through her pain.\nEP02:E55 74400-76400 LADY JULIANA [Bitter, Defiant]: \"Dignity?\"\nEP02:E56 76500-79000 CAMERA: Full shot of Juliana standing tall, her posture completely transforming into regal composure before the seated guests.\nEP02:E57 76500-79000 LADY JULIANA [Clear, Accusing]: \"You abandoned a woman who trusted you...\"\nEP02:E58 79000-81800 CAMERA: Medium profile close-up on Gerald's hardening jawline, Clarissa blurred in the background.\nEP02:E59 79200-82500 LADY JULIANA [Off-screen) (Sharp, Piercing]: \"...because another woman promised you greater beauty and wealth.\"\nEP02:E60 81800-82800 CAMERA: Closer angle on Gerald's uneasy expression as Juliana's voice commands the room.\nEP02:E61 82800-86700 CAMERA: Medium wide shot framing Juliana confronting Gerald from the foot of the altar stairs.\nEP02:E62 83000-86500 LADY JULIANA [Steely, Resolute]: \"Do not mistake my heartbreak for your victory, Gerald.\"\nEP02:E63 86700-90800 CAMERA: Medium close-up push-in on Juliana, her blue eyes shining with fierce conviction.\nEP02:E64 86800-93000 LADY JULIANA [Powerful, Unyielding]: \"You wanted this entire chapel to believe that I was not worthy of you. But you have shown them something far more valuable.\"\nEP02:E65 90800-93200 CAMERA: Medium profile on Juliana looking up at Gerald, holding the entire hall spellbound.\nEP02:E66 93200-96800 CAMERA: Close-up on Juliana's face, calm, dignified, and unwavering.\nEP02:E67 93400-96600 LADY JULIANA [Decisive, Scathing]: \"You have shown them exactly what your word is worth.\"\nEP02:E68 96800-98200 CAMERA: Medium shot on Gerald standing frozen on the altar steps, stunned and speechless under her public rebuke.\nEP02:E69 98200-102800 CAMERA: Low-angle wide shot of the grand cathedral nave, framing Juliana in pristine white at the center of the vaulted aisle.\nEP02:E70 98200-102800 ACTION: Juliana lifts her chin high, commanding the space with unassailable dignity.\nEP02:E71 98500-102400 LADY JULIANA [Resolute, Proud]: \"I may leave this chapel without a husband...\"\nEP02:E72 102800-110000 CAMERA: Dramatic medium close-up holding steadily on Juliana's radiant, proud face as she delivers her final proclamation.\nEP02:E73 103000-107400 LADY JULIANA [Defiant, Triumphant in Spirit]: \"...but I will not leave it believing I was the one who should be ashamed.\"\nEP02:E74 107400-110000 ACTION: Juliana breathes with steady resolve, holding her head high as the solemn orchestral score swells into the final beat.",
+  "schema": {
+    "$defs": {
+      "Beat": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "kind": {
+            "title": "Kind",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "description": {
+            "title": "Description",
+            "type": "string"
+          },
+          "intensity_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Intensity 0 10",
+            "type": "number"
+          }
+        },
+        "required": [
+          "id",
+          "kind",
+          "event_refs",
+          "description",
+          "intensity_0_10"
+        ],
+        "title": "Beat",
+        "type": "object"
+      },
+      "Character": {
+        "additionalProperties": false,
+        "properties": {
+          "name": {
+            "title": "Name",
+            "type": "string"
+          },
+          "role": {
+            "title": "Role",
+            "type": "string"
+          }
+        },
+        "required": [
+          "name",
+          "role"
+        ],
+        "title": "Character",
+        "type": "object"
+      },
+      "Question": {
+        "additionalProperties": false,
+        "properties": {
+          "question": {
+            "title": "Question",
+            "type": "string"
+          },
+          "introduced_by": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Introduced By",
+            "type": "array"
+          }
+        },
+        "required": [
+          "question",
+          "introduced_by"
+        ],
+        "title": "Question",
+        "type": "object"
+      },
+      "Revelation": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "claim": {
+            "title": "Claim",
+            "type": "string"
+          },
+          "spoiler_significance_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Spoiler Significance 0 10",
+            "type": "number"
+          },
+          "creates_questions": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Creates Questions",
+            "type": "array"
+          }
+        },
+        "required": [
+          "id",
+          "event_refs",
+          "claim",
+          "spoiler_significance_0_10",
+          "creates_questions"
+        ],
+        "title": "Revelation",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "episode_id": {
+        "title": "Episode Id",
+        "type": "string"
+      },
+      "summary": {
+        "title": "Summary",
+        "type": "string"
+      },
+      "characters": {
+        "items": {
+          "$ref": "#/$defs/Character"
+        },
+        "title": "Characters",
+        "type": "array"
+      },
+      "beats": {
+        "items": {
+          "$ref": "#/$defs/Beat"
+        },
+        "title": "Beats",
+        "type": "array"
+      },
+      "revelations": {
+        "items": {
+          "$ref": "#/$defs/Revelation"
+        },
+        "title": "Revelations",
+        "type": "array"
+      },
+      "unresolved_questions": {
+        "items": {
+          "$ref": "#/$defs/Question"
+        },
+        "title": "Unresolved Questions",
+        "type": "array"
+      }
+    },
+    "required": [
+      "episode_id",
+      "summary",
+      "characters",
+      "beats",
+      "revelations",
+      "unresolved_questions"
+    ],
+    "title": "EpisodeAnalysis",
+    "type": "object"
+  },
+  "state": "complete",
+  "output": {
+    "episode_id": "ep_002",
+    "summary": "Episode ep_002 (EP=ep_002, scene sc_001, 0-110000 ms, cathedral) shows Juliana publicly rejected at the altar by Gerald, who chooses Clarissa, and then rebuked by her father, Clarissa and a matriarch before she turns the humiliation into a public accusation against Gerald. Only the EP02:E1-EP02:E74 event text is treated as on-screen evidence. The metadata logline and continuity note, including the claim that this picks up from Episode 1's cliffhanger, are unverified and not used as evidence. Identities are uncertain: Gerald is inferred from camera directions naming him, Clarissa from E33 and E2, and the speaker labelled THE FORMER GROOM is taken as Gerald. The father is seen in E22-E27 but the BLOND NOBLEMAN speaker at E28 and E30 is only probably him, and the matriarch's off-screen voice at E48 and E50 is not confirmed as hers. Several speaker tags are malformed (for example '[Off-screen)'), and the tags were read as off-screen indicators without altering the dialogue. Juliana's claims about Clarissa's promises and Gerald's prior word are her own assertions and are not verified by on-screen events.",
+    "characters": [
+      {
+        "name": "Juliana",
+        "role": "Jilted bride and protagonist; speaks as LADY JULIANA; addressed as sister by Clarissa in EP02:E34"
+      },
+      {
+        "name": "Gerald",
+        "role": "Former groom who publicly rejects Juliana for Clarissa; speaks as THE FORMER GROOM"
+      },
+      {
+        "name": "Clarissa",
+        "role": "Juliana's sister who marries Gerald's place at the altar; speaks as LADY IN GOLD GOWN"
+      },
+      {
+        "name": "Father (unnamed)",
+        "role": "Juliana's father in the family pew who sides against her; identity as BLOND NOBLEMAN speaker is uncertain"
+      },
+      {
+        "name": "Matriarch (unnamed)",
+        "role": "Black-velvet-gowned older woman who scolds Juliana; off-screen voice attribution uncertain"
+      }
+    ],
+    "beats": [
+      {
+        "id": "b01",
+        "kind": "public_rejection",
+        "event_refs": [
+          "EP02:E1",
+          "EP02:E2"
+        ],
+        "description": "Gerald, at the altar steps with Clarissa behind him, tells Juliana he cannot marry her.",
+        "intensity_0_10": 7.0
+      },
+      {
+        "id": "b02",
+        "kind": "cruel_insults",
+        "event_refs": [
+          "EP02:E5",
+          "EP02:E6",
+          "EP02:E7",
+          "EP02:E8",
+          "EP02:E9",
+          "EP02:E10"
+        ],
+        "description": "Gerald insults Juliana as plain, silent and beneath him while Clarissa smiles at him.",
+        "intensity_0_10": 8.0
+      },
+      {
+        "id": "b03",
+        "kind": "plea_rejected",
+        "event_refs": [
+          "EP02:E11",
+          "EP02:E12",
+          "EP02:E13",
+          "EP02:E14",
+          "EP02:E15",
+          "EP02:E16"
+        ],
+        "description": "Juliana steps forward and pleads with Gerald, reminding him of his word before both families; he remains cold and unmoved.",
+        "intensity_0_10": 7.0
+      },
+      {
+        "id": "b04",
+        "kind": "justification_of_betrayal",
+        "event_refs": [
+          "EP02:E17",
+          "EP02:E18",
+          "EP02:E19",
+          "EP02:E20",
+          "EP02:E21"
+        ],
+        "description": "Gerald says promises change when a better choice appears and that Clarissa is what he should have chosen from the start.",
+        "intensity_0_10": 8.0
+      },
+      {
+        "id": "b05",
+        "kind": "family_rejection",
+        "event_refs": [
+          "EP02:E22",
+          "EP02:E23",
+          "EP02:E24",
+          "EP02:E25",
+          "EP02:E26",
+          "EP02:E27",
+          "EP02:E28",
+          "EP02:E29",
+          "EP02:E30",
+          "EP02:E31",
+          "EP02:E32"
+        ],
+        "description": "Juliana appeals to her father in the family pew, who refuses to intervene and tells her to accept it and not disgrace them further.",
+        "intensity_0_10": 9.0
+      },
+      {
+        "id": "b06",
+        "kind": "sister_mockery",
+        "event_refs": [
+          "EP02:E33",
+          "EP02:E34",
+          "EP02:E35",
+          "EP02:E36",
+          "EP02:E37",
+          "EP02:E38",
+          "EP02:E39",
+          "EP02:E40",
+          "EP02:E41",
+          "EP02:E42",
+          "EP02:E43",
+          "EP02:E44",
+          "EP02:E45"
+        ],
+        "description": "Clarissa mocks Juliana's gown, appearance and dead mother's apothecary, while Juliana's tearful expression hardens into indignation.",
+        "intensity_0_10": 7.0
+      },
+      {
+        "id": "b07",
+        "kind": "matriarch_scolding",
+        "event_refs": [
+          "EP02:E46",
+          "EP02:E47",
+          "EP02:E48",
+          "EP02:E49",
+          "EP02:E50"
+        ],
+        "description": "A matriarch in black velvet confronts Juliana in the aisle and tells her to be grateful she is allowed to attend.",
+        "intensity_0_10": 6.0
+      },
+      {
+        "id": "b08",
+        "kind": "dismissal_and_expulsion",
+        "event_refs": [
+          "EP02:E51",
+          "EP02:E52",
+          "EP02:E53"
+        ],
+        "description": "Gerald gestures Juliana toward the exit and tells her to go home with some dignity; she turns back toward the altar.",
+        "intensity_0_10": 6.0
+      },
+      {
+        "id": "b09",
+        "kind": "turning_point_defiance",
+        "event_refs": [
+          "EP02:E54",
+          "EP02:E55",
+          "EP02:E56",
+          "EP02:E57",
+          "EP02:E58",
+          "EP02:E59",
+          "EP02:E60",
+          "EP02:E61",
+          "EP02:E62",
+          "EP02:E63"
+        ],
+        "description": "Juliana's pain turns into a defiant smile; she stands tall, accuses Gerald of abandoning a woman who trusted him for a promise of beauty and wealth, and warns him not to mistake her heartbreak for his victory.",
+        "intensity_0_10": 8.0
+      },
+      {
+        "id": "b10",
+        "kind": "public_indictment",
+        "event_refs": [
+          "EP02:E64",
+          "EP02:E65",
+          "EP02:E66",
+          "EP02:E67",
+          "EP02:E68",
+          "EP02:E69",
+          "EP02:E70",
+          "EP02:E71",
+          "EP02:E72",
+          "EP02:E73",
+          "EP02:E74"
+        ],
+        "description": "Juliana tells the congregation that Gerald's conduct has shown them what his word is worth, leaves Gerald frozen, and closes with a proud statement that she will not leave believing she should be ashamed.",
+        "intensity_0_10": 9.0
+      }
+    ],
+    "revelations": [
+      {
+        "id": "r01",
+        "event_refs": [
+          "EP02:E17",
+          "EP02:E21"
+        ],
+        "claim": "Gerald says he has replaced Juliana with Clarissa as a better choice, implying he now prefers her.",
+        "spoiler_significance_0_10": 6.0,
+        "creates_questions": [
+          "Why did Gerald change his choice?",
+          "Was the switch to Clarissa planned before the wedding?"
+        ]
+      },
+      {
+        "id": "r02",
+        "event_refs": [
+          "EP02:E59"
+        ],
+        "claim": "Juliana asserts that Clarissa promised Gerald greater beauty and wealth; this is her accusation and is not independently shown on screen.",
+        "spoiler_significance_0_10": 5.0,
+        "creates_questions": [
+          "Is Juliana's claim about Clarissa's promises true?"
+        ]
+      },
+      {
+        "id": "r03",
+        "event_refs": [
+          "EP02:E28",
+          "EP02:E30"
+        ],
+        "claim": "Juliana's father, or the BLOND NOBLEMAN speaker, tells her to accept Gerald's choice and not disgrace the family.",
+        "spoiler_significance_0_10": 6.0,
+        "creates_questions": [
+          "Will the family reconcile with Juliana?",
+          "Is the BLOND NOBLEMAN the father?"
+        ]
+      },
+      {
+        "id": "r04",
+        "event_refs": [
+          "EP02:E15"
+        ],
+        "claim": "Juliana says Gerald gave his word before both families, establishing a prior engagement commitment.",
+        "spoiler_significance_0_10": 4.0,
+        "creates_questions": [
+          "What exactly did Gerald promise before both families?"
+        ]
+      }
+    ],
+    "unresolved_questions": [
+      {
+        "question": "Why did Gerald break his word and choose Clarissa?",
+        "introduced_by": [
+          "EP02:E17",
+          "EP02:E21"
+        ]
+      },
+      {
+        "question": "Is Juliana's accusation that Clarissa offered greater beauty and wealth true?",
+        "introduced_by": [
+          "EP02:E59"
+        ]
+      },
+      {
+        "question": "What is the significance of the heirloom amethyst pendant Juliana holds?",
+        "introduced_by": [
+          "EP02:E14"
+        ]
+      },
+      {
+        "question": "Will Juliana's father or the rest of her family reconcile with her?",
+        "introduced_by": [
+          "EP02:E26",
+          "EP02:E30"
+        ]
+      },
+      {
+        "question": "Who is the matriarch and what is her stance on the scandal?",
+        "introduced_by": [
+          "EP02:E46",
+          "EP02:E48"
+        ]
+      }
+    ]
+  }
+}

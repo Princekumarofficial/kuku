@@ -1,0 +1,45 @@
+{
+  "candidate_id": "c_bddd3eadfc41766d",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP25:E74",
+      "EP25:E75",
+      "EP25:E76",
+      "EP25:E77",
+      "EP25:E87",
+      "EP25:E88"
+    ],
+    "reason": "The opening within 0-3000ms shows a confrontation with a questioning line from Juliana and an angry, protective Alexander, which immediately raises tension. The final declaration 'I cannot abandon her' is a strong closing hook, though the stakes are only partly clear to a first-time viewer."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP25:E86",
+      "EP25:E88"
+    ],
+    "reason": "Juliana's vow to stay involved with the unnamed 'her' while Alexander fears for her safety leaves the danger and the outcome unresolved at the clip's end. No resolution of the poisoning or the threat is shown.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Identity of the woman being poisoned and who 'her' refers to",
+      "Identity of 'they' who struck Juliana",
+      "What the house is and why Juliana was inside it",
+      "Nature of the relationship between Juliana and Alexander",
+      "Why Juliana previously withheld the information"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Alexander's clenched-teeth fury, trembling terror and Juliana's steady, earnest resolve create strong emotional tension and a sense of protective fear within the short clip."
+  },
+  "weaknesses": [
+    "Key referents ('they', 'her', 'the house') are never identified, so the stakes are hard to follow without prior context.",
+    "The poisoning is asserted in dialogue only, with no visual or action evidence shown.",
+    "The ending is a statement of intent rather than a dramatic event, which may feel abrupt to a new viewer.",
+    "Characters' relationship and history are implied but not established."
+  ],
+  "one_line_why_it_works": "Alexander's fearful anger against Juliana's calm resolve builds emotional tension, and her closing vow to stay involved with someone in danger leaves the threat unresolved."
+}

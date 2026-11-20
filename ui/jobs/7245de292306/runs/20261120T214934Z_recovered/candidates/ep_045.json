@@ -1,0 +1,926 @@
+[
+  {
+    "candidate_id": "c_5df7ee69d82569c8",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 4800,
+        "end_ms": 41800,
+        "episode_id": "ep_045"
+      }
+    ],
+    "duration_ms": 37000,
+    "origin": "ep045_opp_01",
+    "clip_events": [
+      {
+        "ref": "EP45:E3",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up on Juliana looking down at her chained hands, tears welling in her eyes."
+      },
+      {
+        "ref": "EP45:E5",
+        "segment_index": 0,
+        "relative_start_ms": 200,
+        "relative_end_ms": 3700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as Alexander stops in front of Juliana and sinks onto one knee before her."
+      },
+      {
+        "ref": "EP45:E6",
+        "segment_index": 0,
+        "relative_start_ms": 400,
+        "relative_end_ms": 3000,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander drops to one knee before Juliana, looking up at her with profound devotion."
+      },
+      {
+        "ref": "EP45:E7",
+        "segment_index": 0,
+        "relative_start_ms": 2600,
+        "relative_end_ms": 4100,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Look at me.\""
+      },
+      {
+        "ref": "EP45:E8",
+        "segment_index": 0,
+        "relative_start_ms": 4000,
+        "relative_end_ms": 5100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low angle close-up of Juliana looking down into Alexander's eyes with rising disbelief."
+      },
+      {
+        "ref": "EP45:E9",
+        "segment_index": 0,
+        "relative_start_ms": 5100,
+        "relative_end_ms": 7400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Alexander's hands as he unfastens the heavy iron lock and releases the chains from Juliana's bruised wrists."
+      },
+      {
+        "ref": "EP45:E10",
+        "segment_index": 0,
+        "relative_start_ms": 5400,
+        "relative_end_ms": 7000,
+        "type": "sound",
+        "speaker": null,
+        "text": "Heavy iron clanking as the shackles fall away."
+      },
+      {
+        "ref": "EP45:E11",
+        "segment_index": 0,
+        "relative_start_ms": 7400,
+        "relative_end_ms": 10200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana's tear-streaked face as she stares intently into his eyes."
+      },
+      {
+        "ref": "EP45:E12",
+        "segment_index": 0,
+        "relative_start_ms": 7700,
+        "relative_end_ms": 9500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Your eyes...\""
+      },
+      {
+        "ref": "EP45:E13",
+        "segment_index": 0,
+        "relative_start_ms": 10200,
+        "relative_end_ms": 17000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up profile of Alexander as Juliana reaches out her trembling hand to touch his bearded cheek and jawline."
+      },
+      {
+        "ref": "EP45:E14",
+        "segment_index": 0,
+        "relative_start_ms": 10400,
+        "relative_end_ms": 13700,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana places her palm against Alexander's beard, feeling his scarred face as recognition dawns."
+      },
+      {
+        "ref": "EP45:E15",
+        "segment_index": 0,
+        "relative_start_ms": 12300,
+        "relative_end_ms": 13900,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"It's you.\""
+      },
+      {
+        "ref": "EP45:E16",
+        "segment_index": 0,
+        "relative_start_ms": 14600,
+        "relative_end_ms": 16700,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"It was always me.\""
+      },
+      {
+        "ref": "EP45:E17",
+        "segment_index": 0,
+        "relative_start_ms": 17000,
+        "relative_end_ms": 19700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as Alexander stands up and drapes a heavy crimson ducal mantle lined with ermine over Juliana's shoulders."
+      },
+      {
+        "ref": "EP45:E18",
+        "segment_index": 0,
+        "relative_start_ms": 17100,
+        "relative_end_ms": 19400,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander places the ducal cloak over Juliana's rustic gown, adjusting it gently over her shoulders."
+      },
+      {
+        "ref": "EP45:E19",
+        "segment_index": 0,
+        "relative_start_ms": 18100,
+        "relative_end_ms": 19600,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You're the Duke?\""
+      },
+      {
+        "ref": "EP45:E20",
+        "segment_index": 0,
+        "relative_start_ms": 19700,
+        "relative_end_ms": 22400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Alexander looking intensely into her eyes."
+      },
+      {
+        "ref": "EP45:E21",
+        "segment_index": 0,
+        "relative_start_ms": 19800,
+        "relative_end_ms": 22600,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Alexander Ashburton. The rightful Duke of Ashburton.\""
+      },
+      {
+        "ref": "EP45:E22",
+        "segment_index": 0,
+        "relative_start_ms": 22400,
+        "relative_end_ms": 25000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana, tears of awe spilling over her cheeks."
+      },
+      {
+        "ref": "EP45:E23",
+        "segment_index": 0,
+        "relative_start_ms": 22800,
+        "relative_end_ms": 24800,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"All this time?\""
+      },
+      {
+        "ref": "EP45:E24",
+        "segment_index": 0,
+        "relative_start_ms": 25000,
+        "relative_end_ms": 31000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up two-shot as Alexander tenderly cradles Juliana's cheek in his gloved hand."
+      },
+      {
+        "ref": "EP45:E25",
+        "segment_index": 0,
+        "relative_start_ms": 25400,
+        "relative_end_ms": 28200,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"You chose me when you believed I was nobody.\""
+      },
+      {
+        "ref": "EP45:E26",
+        "segment_index": 0,
+        "relative_start_ms": 28400,
+        "relative_end_ms": 30100,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I chose you because you were kind.\""
+      },
+      {
+        "ref": "EP45:E27",
+        "segment_index": 0,
+        "relative_start_ms": 30300,
+        "relative_end_ms": 32000,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"You chose me when I had nothing.\""
+      },
+      {
+        "ref": "EP45:E28",
+        "segment_index": 0,
+        "relative_start_ms": 31000,
+        "relative_end_ms": 33700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot framed between them as Alexander holds her face with both hands, the crowd watching in stunned silence."
+      },
+      {
+        "ref": "EP45:E29",
+        "segment_index": 0,
+        "relative_start_ms": 32200,
+        "relative_end_ms": 33900,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I chose you because you had honor.\""
+      },
+      {
+        "ref": "EP45:E30",
+        "segment_index": 0,
+        "relative_start_ms": 33700,
+        "relative_end_ms": 37000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up on Alexander looking deep into Juliana's blue eyes."
+      },
+      {
+        "ref": "EP45:E31",
+        "segment_index": 0,
+        "relative_start_ms": 34000,
+        "relative_end_ms": 37000,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"And I chose you because you saw the man before the title.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_73f3fdcbda2d91c7",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 21500,
+        "end_ms": 80400,
+        "episode_id": "ep_045"
+      }
+    ],
+    "duration_ms": 58900,
+    "origin": "ep045_opp_02",
+    "clip_events": [
+      {
+        "ref": "EP45:E13",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up profile of Alexander as Juliana reaches out her trembling hand to touch his bearded cheek and jawline."
+      },
+      {
+        "ref": "EP45:E17",
+        "segment_index": 0,
+        "relative_start_ms": 300,
+        "relative_end_ms": 3000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as Alexander stands up and drapes a heavy crimson ducal mantle lined with ermine over Juliana's shoulders."
+      },
+      {
+        "ref": "EP45:E18",
+        "segment_index": 0,
+        "relative_start_ms": 400,
+        "relative_end_ms": 2700,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander places the ducal cloak over Juliana's rustic gown, adjusting it gently over her shoulders."
+      },
+      {
+        "ref": "EP45:E19",
+        "segment_index": 0,
+        "relative_start_ms": 1400,
+        "relative_end_ms": 2900,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You're the Duke?\""
+      },
+      {
+        "ref": "EP45:E20",
+        "segment_index": 0,
+        "relative_start_ms": 3000,
+        "relative_end_ms": 5700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Alexander looking intensely into her eyes."
+      },
+      {
+        "ref": "EP45:E21",
+        "segment_index": 0,
+        "relative_start_ms": 3100,
+        "relative_end_ms": 5900,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Alexander Ashburton. The rightful Duke of Ashburton.\""
+      },
+      {
+        "ref": "EP45:E22",
+        "segment_index": 0,
+        "relative_start_ms": 5700,
+        "relative_end_ms": 8300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana, tears of awe spilling over her cheeks."
+      },
+      {
+        "ref": "EP45:E23",
+        "segment_index": 0,
+        "relative_start_ms": 6100,
+        "relative_end_ms": 8100,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"All this time?\""
+      },
+      {
+        "ref": "EP45:E24",
+        "segment_index": 0,
+        "relative_start_ms": 8300,
+        "relative_end_ms": 14300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up two-shot as Alexander tenderly cradles Juliana's cheek in his gloved hand."
+      },
+      {
+        "ref": "EP45:E25",
+        "segment_index": 0,
+        "relative_start_ms": 8700,
+        "relative_end_ms": 11500,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"You chose me when you believed I was nobody.\""
+      },
+      {
+        "ref": "EP45:E26",
+        "segment_index": 0,
+        "relative_start_ms": 11700,
+        "relative_end_ms": 13400,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I chose you because you were kind.\""
+      },
+      {
+        "ref": "EP45:E27",
+        "segment_index": 0,
+        "relative_start_ms": 13600,
+        "relative_end_ms": 15300,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"You chose me when I had nothing.\""
+      },
+      {
+        "ref": "EP45:E28",
+        "segment_index": 0,
+        "relative_start_ms": 14300,
+        "relative_end_ms": 17000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot framed between them as Alexander holds her face with both hands, the crowd watching in stunned silence."
+      },
+      {
+        "ref": "EP45:E29",
+        "segment_index": 0,
+        "relative_start_ms": 15500,
+        "relative_end_ms": 17200,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I chose you because you had honor.\""
+      },
+      {
+        "ref": "EP45:E30",
+        "segment_index": 0,
+        "relative_start_ms": 17000,
+        "relative_end_ms": 20500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up on Alexander looking deep into Juliana's blue eyes."
+      },
+      {
+        "ref": "EP45:E31",
+        "segment_index": 0,
+        "relative_start_ms": 17300,
+        "relative_end_ms": 20300,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"And I chose you because you saw the man before the title.\""
+      },
+      {
+        "ref": "EP45:E32",
+        "segment_index": 0,
+        "relative_start_ms": 20500,
+        "relative_end_ms": 27400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up as Alexander and Juliana rest their foreheads and noses together in an intimate embrace."
+      },
+      {
+        "ref": "EP45:E33",
+        "segment_index": 0,
+        "relative_start_ms": 20700,
+        "relative_end_ms": 27000,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander and Juliana close their eyes, breathing together with their foreheads pressed gently against one another."
+      },
+      {
+        "ref": "EP45:E34",
+        "segment_index": 0,
+        "relative_start_ms": 22300,
+        "relative_end_ms": 24500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I loved you before I ever knew who you were.\""
+      },
+      {
+        "ref": "EP45:E35",
+        "segment_index": 0,
+        "relative_start_ms": 24600,
+        "relative_end_ms": 27300,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"And I loved you before I ever dared to tell you.\""
+      },
+      {
+        "ref": "EP45:E36",
+        "segment_index": 0,
+        "relative_start_ms": 27400,
+        "relative_end_ms": 30300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as Alexander turns back toward the altar, where Catherine stands in her disheveled wedding gown."
+      },
+      {
+        "ref": "EP45:E37",
+        "segment_index": 0,
+        "relative_start_ms": 27500,
+        "relative_end_ms": 30000,
+        "type": "action",
+        "speaker": null,
+        "text": "Catherine takes a desperate step forward, clutching her skirts and weeping."
+      },
+      {
+        "ref": "EP45:E38",
+        "segment_index": 0,
+        "relative_start_ms": 28300,
+        "relative_end_ms": 30000,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Alexander...\""
+      },
+      {
+        "ref": "EP45:E39",
+        "segment_index": 0,
+        "relative_start_ms": 30300,
+        "relative_end_ms": 36700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as Alexander steps right up to Catherine, towering over her with righteous fury."
+      },
+      {
+        "ref": "EP45:E40",
+        "segment_index": 0,
+        "relative_start_ms": 32500,
+        "relative_end_ms": 36500,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"You poisoned my mother. You tortured my wife.\""
+      },
+      {
+        "ref": "EP45:E42",
+        "segment_index": 0,
+        "relative_start_ms": 36700,
+        "relative_end_ms": 38300,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"I didn't know!\""
+      },
+      {
+        "ref": "EP45:E41",
+        "segment_index": 0,
+        "relative_start_ms": 36700,
+        "relative_end_ms": 41000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up split profile between Alexander's angry face and Catherine's gasping, terrified expression."
+      },
+      {
+        "ref": "EP45:E43",
+        "segment_index": 0,
+        "relative_start_ms": 38500,
+        "relative_end_ms": 40900,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"You knew exactly what you were doing!\""
+      },
+      {
+        "ref": "EP45:E44",
+        "segment_index": 0,
+        "relative_start_ms": 41000,
+        "relative_end_ms": 45500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Alexander turning slightly toward the gathered congregation as his voice rings across the cathedral."
+      },
+      {
+        "ref": "EP45:E45",
+        "segment_index": 0,
+        "relative_start_ms": 41100,
+        "relative_end_ms": 45300,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"You hurt the two women who mattered most to me: my mother, and my wife.\""
+      },
+      {
+        "ref": "EP45:E46",
+        "segment_index": 0,
+        "relative_start_ms": 45500,
+        "relative_end_ms": 49700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Catherine's devastated, terrified face as the word shatters her entire worldview."
+      },
+      {
+        "ref": "EP45:E47",
+        "segment_index": 0,
+        "relative_start_ms": 47300,
+        "relative_end_ms": 49000,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Wife?!\""
+      },
+      {
+        "ref": "EP45:E48",
+        "segment_index": 0,
+        "relative_start_ms": 49700,
+        "relative_end_ms": 53000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Grand wide shot of the ruined cathedral nave as Alexander takes Juliana's hand and walks her proudly down the center aisle."
+      },
+      {
+        "ref": "EP45:E49",
+        "segment_index": 0,
+        "relative_start_ms": 49700,
+        "relative_end_ms": 53000,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander and Juliana advance side-by-side between the rows of shocked aristocratic guests."
+      },
+      {
+        "ref": "EP45:E50",
+        "segment_index": 0,
+        "relative_start_ms": 50000,
+        "relative_end_ms": 52500,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Before the Crown and before God...\""
+      },
+      {
+        "ref": "EP45:E51",
+        "segment_index": 0,
+        "relative_start_ms": 53000,
+        "relative_end_ms": 58900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as Alexander stops in the center of the nave and raises Juliana's hand high above their heads."
+      },
+      {
+        "ref": "EP45:E52",
+        "segment_index": 0,
+        "relative_start_ms": 53100,
+        "relative_end_ms": 58500,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander hoists Juliana's hand triumphantly into the air, presenting her to the nobility."
+      },
+      {
+        "ref": "EP45:E53",
+        "segment_index": 0,
+        "relative_start_ms": 53300,
+        "relative_end_ms": 58900,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Lady Juliana Ashcroft is my lawful wife... and the Duchess of Ashburton!\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_f05bb9c9fcff10a8",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 51500,
+        "end_ms": 80400,
+        "episode_id": "ep_045"
+      }
+    ],
+    "duration_ms": 28900,
+    "origin": "ep045_opp_03",
+    "clip_events": [
+      {
+        "ref": "EP45:E36",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as Alexander turns back toward the altar, where Catherine stands in her disheveled wedding gown."
+      },
+      {
+        "ref": "EP45:E39",
+        "segment_index": 0,
+        "relative_start_ms": 300,
+        "relative_end_ms": 6700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as Alexander steps right up to Catherine, towering over her with righteous fury."
+      },
+      {
+        "ref": "EP45:E40",
+        "segment_index": 0,
+        "relative_start_ms": 2500,
+        "relative_end_ms": 6500,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"You poisoned my mother. You tortured my wife.\""
+      },
+      {
+        "ref": "EP45:E42",
+        "segment_index": 0,
+        "relative_start_ms": 6700,
+        "relative_end_ms": 8300,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"I didn't know!\""
+      },
+      {
+        "ref": "EP45:E41",
+        "segment_index": 0,
+        "relative_start_ms": 6700,
+        "relative_end_ms": 11000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up split profile between Alexander's angry face and Catherine's gasping, terrified expression."
+      },
+      {
+        "ref": "EP45:E43",
+        "segment_index": 0,
+        "relative_start_ms": 8500,
+        "relative_end_ms": 10900,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"You knew exactly what you were doing!\""
+      },
+      {
+        "ref": "EP45:E44",
+        "segment_index": 0,
+        "relative_start_ms": 11000,
+        "relative_end_ms": 15500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Alexander turning slightly toward the gathered congregation as his voice rings across the cathedral."
+      },
+      {
+        "ref": "EP45:E45",
+        "segment_index": 0,
+        "relative_start_ms": 11100,
+        "relative_end_ms": 15300,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"You hurt the two women who mattered most to me: my mother, and my wife.\""
+      },
+      {
+        "ref": "EP45:E46",
+        "segment_index": 0,
+        "relative_start_ms": 15500,
+        "relative_end_ms": 19700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Catherine's devastated, terrified face as the word shatters her entire worldview."
+      },
+      {
+        "ref": "EP45:E47",
+        "segment_index": 0,
+        "relative_start_ms": 17300,
+        "relative_end_ms": 19000,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Wife?!\""
+      },
+      {
+        "ref": "EP45:E48",
+        "segment_index": 0,
+        "relative_start_ms": 19700,
+        "relative_end_ms": 23000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Grand wide shot of the ruined cathedral nave as Alexander takes Juliana's hand and walks her proudly down the center aisle."
+      },
+      {
+        "ref": "EP45:E49",
+        "segment_index": 0,
+        "relative_start_ms": 19700,
+        "relative_end_ms": 23000,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander and Juliana advance side-by-side between the rows of shocked aristocratic guests."
+      },
+      {
+        "ref": "EP45:E50",
+        "segment_index": 0,
+        "relative_start_ms": 20000,
+        "relative_end_ms": 22500,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Before the Crown and before God...\""
+      },
+      {
+        "ref": "EP45:E51",
+        "segment_index": 0,
+        "relative_start_ms": 23000,
+        "relative_end_ms": 28900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as Alexander stops in the center of the nave and raises Juliana's hand high above their heads."
+      },
+      {
+        "ref": "EP45:E52",
+        "segment_index": 0,
+        "relative_start_ms": 23100,
+        "relative_end_ms": 28500,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander hoists Juliana's hand triumphantly into the air, presenting her to the nobility."
+      },
+      {
+        "ref": "EP45:E53",
+        "segment_index": 0,
+        "relative_start_ms": 23300,
+        "relative_end_ms": 28900,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Lady Juliana Ashcroft is my lawful wife... and the Duchess of Ashburton!\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_57e44812930bf2a2",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 86500,
+        "end_ms": 113000,
+        "episode_id": "ep_045"
+      }
+    ],
+    "duration_ms": 26500,
+    "origin": "ep045_opp_04",
+    "clip_events": [
+      {
+        "ref": "EP45:E58",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1700,
+        "type": "sound",
+        "speaker": null,
+        "text": "Loud, echoing thud of cathedral doors swinging open violently."
+      },
+      {
+        "ref": "EP45:E57",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 4000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide tracking shot down the cathedral aisle as the massive wooden entrance doors slam open, framed by blinding daylight and mist."
+      },
+      {
+        "ref": "EP45:E59",
+        "segment_index": 0,
+        "relative_start_ms": 1000,
+        "relative_end_ms": 4500,
+        "type": "action",
+        "speaker": null,
+        "text": "A Catholic Bishop in dark vestments steps through the cathedral doors accompanied by an armed Crown officer."
+      },
+      {
+        "ref": "EP45:E60",
+        "segment_index": 0,
+        "relative_start_ms": 1900,
+        "relative_end_ms": 4300,
+        "type": "dialogue",
+        "speaker": "HIGH PRIEST",
+        "text": "\"No one will bow yet!\""
+      },
+      {
+        "ref": "EP45:E61",
+        "segment_index": 0,
+        "relative_start_ms": 4300,
+        "relative_end_ms": 6500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle shot on Alexander and Juliana turning in alarm toward the rear of the cathedral."
+      },
+      {
+        "ref": "EP45:E62",
+        "segment_index": 0,
+        "relative_start_ms": 6500,
+        "relative_end_ms": 14700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the High Priest striding down the aisle, holding up an official royal parchment bearing red wax seals."
+      },
+      {
+        "ref": "EP45:E63",
+        "segment_index": 0,
+        "relative_start_ms": 6700,
+        "relative_end_ms": 14500,
+        "type": "action",
+        "speaker": null,
+        "text": "The Priest holds up the sealed royal proclamation, holding his rosary beads as he marches forward."
+      },
+      {
+        "ref": "EP45:E64",
+        "segment_index": 0,
+        "relative_start_ms": 6700,
+        "relative_end_ms": 14600,
+        "type": "dialogue",
+        "speaker": "HIGH PRIEST",
+        "text": "\"This ceremony was performed without a Crown marriage license, by a priest without authority to sanctify a ducal union.\""
+      },
+      {
+        "ref": "EP45:E65",
+        "segment_index": 0,
+        "relative_start_ms": 14700,
+        "relative_end_ms": 19300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on the High Priest unfolding the document, reading aloud to the congregation."
+      },
+      {
+        "ref": "EP45:E66",
+        "segment_index": 0,
+        "relative_start_ms": 15000,
+        "relative_end_ms": 19000,
+        "type": "dialogue",
+        "speaker": "HIGH PRIEST",
+        "text": "\"These vows were never entered into the Royal Matrimonial Register.\""
+      },
+      {
+        "ref": "EP45:E67",
+        "segment_index": 0,
+        "relative_start_ms": 19300,
+        "relative_end_ms": 22300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Alexander shielding Juliana behind him as the Crown officer approaches with drawn sword."
+      },
+      {
+        "ref": "EP45:E68",
+        "segment_index": 0,
+        "relative_start_ms": 19700,
+        "relative_end_ms": 22300,
+        "type": "dialogue",
+        "speaker": "HIGH PRIEST",
+        "text": "\"Before the Crown, you are not Duchess of Ashburton.\""
+      },
+      {
+        "ref": "EP45:E69",
+        "segment_index": 0,
+        "relative_start_ms": 22300,
+        "relative_end_ms": 26500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the High Priest scowling directly at Juliana with unyielding authority."
+      },
+      {
+        "ref": "EP45:E70",
+        "segment_index": 0,
+        "relative_start_ms": 22500,
+        "relative_end_ms": 26500,
+        "type": "dialogue",
+        "speaker": "HIGH PRIEST",
+        "text": "\"You are not Alexander Ashburton's lawful wife.\""
+      }
+    ]
+  }
+]

@@ -1,0 +1,204 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_26918d00e903ac92 DURATION_MS=35790\nSEGMENT 1 (playback order)\nEP16:E39 0-1100 CAMERA: Close-up of Alexander, his eyes darkening with lethal fury.\nEP16:E41 600-2600 ACTION: Alexander tightens his grip on the thug's throat, lifting him higher against the stone wall.\nEP16:E42 1400-2200 ALEXANDER: \"Who?!\"\nEP16:E44 2400-4800 THUG WITH CAP: \"Harrington! Gerald Harrington paid us!\"\nEP16:E43 2400-5400 CAMERA: Extreme close-up of the terrified thug gasping for air, his eyes bulging.\nEP16:E45 5400-7800 CAMERA: Close-up of Juliana on the ground, reeling in devastated disbelief as the betrayal hits her.\nEP16:E46 5800-7000 JULIANA: \"Gerald...\"\nEP16:E47 7800-11600 CAMERA: Medium wide shot as Alexander releases the thug, sending him tumbling into the ruined flowerbeds.\nEP16:E48 8100-11100 ACTION: The Thug with Cap scrambles to his feet and sprints into the dark woods alongside his two limping accomplices.\nEP16:E49 8600-10800 THUG WITH CAP: \"We were only paid to destroy the garden, that's all!\"\nEP16:E50 11600-15600 CAMERA: Close-up on Alexander's hand hanging by his coat. Fresh blood trickles from his split knuckles, and he slowly curls his fingers into a tight fist.\nEP16:E51 12600-15600 ACTION: Alexander flexes his bleeding hand, showing no sign of pain.\nEP16:E52 15600-19100 CAMERA: Medium shot as Juliana gingerly rises to her feet, stepping toward Alexander with deep awe and wonder in her eyes.\nEP16:E53 16800-18800 JULIANA: \"You knew exactly what to do.\"\nEP16:E54 19100-23100 CAMERA: Close-up of Juliana looking up at him, searching his scarred face.\nEP16:E55 20400-22800 JULIANA: \"You fought like you've done this a hundred times.\"\nEP16:E56 23100-26800 CAMERA: Medium close-up of Alexander turning his profile away, shadowed by haunted memories of his past.\nEP16:E57 23600-26600 ALEXANDER: \"A soldier learns things he wishes he could forget.\"\nEP16:E58 26800-29400 CAMERA: Close-up of Juliana softening with deep empathy as her eyes drop to his bleeding knuckle.\nEP16:E59 27400-28400 JULIANA: \"Are you hurt?\"\nEP16:E60 28600-30100 ACTION: Juliana reaches out toward his injured hand with delicate concern.\nEP16:E61 29400-35790 CAMERA: Medium shot of Alexander and Juliana standing face-to-face in the moonlit garden, framed against the dark night.\nEP16:E62 30400-31400 ALEXANDER: \"No.\"\nEP16:E63 31400-35790 ACTION: Alexander and Juliana gaze deeply into each other's eyes, an unspoken bond forming between them as the ruined garden lies silent beneath the moon.\nEP16:E64 32600-35790 SOUND: Slow, resonant emotional cello melody swelling to a dramatic cliffhanger hold.",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "complete",
+  "output": {
+    "candidate_id": "c_26918d00e903ac92",
+    "hook": {
+      "score_0_10": 7.0,
+      "evidence_refs": [
+        "EP16:E39",
+        "EP16:E41",
+        "EP16:E42"
+      ],
+      "reason": "Opens within 0-3000ms on a lethal close-up and a choking grip, then a sharp demand 'Who?!' that raises an immediate question about the attacker."
+    },
+    "cliffhanger": {
+      "score_0_10": 5.0,
+      "evidence_refs": [
+        "EP16:E63",
+        "EP16:E64"
+      ],
+      "reason": "The thug's revelation that Gerald Harrington paid them leaves an open thread, but the scene closes on a romantic gaze and cello swell rather than a plot threat, and the attack itself is resolved.",
+      "unresolved_at_end": true
+    },
+    "standalone": {
+      "score_0_10": 4.0,
+      "missing_context": [
+        "Identity and role of Juliana",
+        "Who Gerald Harrington is and why his betrayal matters",
+        "Why the thugs were attacking the garden",
+        "Alexander's background and the source of his scarred face and past",
+        "Relationship between Alexander and Juliana before this scene"
+      ]
+    },
+    "emotion": {
+      "score_0_10": 7.0,
+      "reason": "Juliana's devastated disbelief at 'Gerald...' and the tense choking confrontation carry strong emotion, and the cello swell adds weight to the closing tenderness."
+    },
+    "weaknesses": [
+      "Gerald Harrington is named without any prior setup, so the betrayal lands without emotional grounding for a first-time viewer",
+      "The attack is resolved within the clip, so the ending depends more on a musical swell than on a true unresolved threat",
+      "The closing romantic gaze is vague and the cello 'cliffhanger hold' is not backed by a concrete unanswered event",
+      "Motivations for the thugs and the garden destruction are never explained",
+      "Alexander's line 'A soldier learns things he wishes he could forget' hints at backstory without giving any usable context"
+    ],
+    "one_line_why_it_works": "A tense, fast opening reveal of a betrayer's name hits hard, and the quiet closing gaze under cello music sets up an emotional bond."
+  }
+}

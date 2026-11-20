@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_2e698fc5fa9da435",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP02:E26",
+      "EP02:E52"
+    ],
+    "reason": "Opens within 0-3000ms with a stern close-up and Juliana's imploring line starting at 1900ms, which creates immediate tension. The clip ends within the final 3000ms with a public dismissal, which keeps the emotional pressure high throughout."
+  },
+  "cliffhanger": {
+    "score_0_10": 2.0,
+    "evidence_refs": [
+      "EP02:E51",
+      "EP02:E52"
+    ],
+    "reason": "The clip ends on Juliana being told to leave the chapel quietly. The immediate humiliation resolves within the scene, so the ending is closer to an intense but resolved moment than an unresolved hook, although the wider situation is left open.",
+    "unresolved_at_end": false
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Gerald is and what his choice refers to",
+      "Why Juliana is being rejected and humiliated by her father and the wedding party",
+      "Identity and role of the blond nobleman, Lady in Gold Gown, and the matriarch in black velvet",
+      "What Clarissa's relationship to Juliana is beyond being a sister",
+      "What the former groom title implies about the wedding's history",
+      "Meaning of the apothecary herbs reference and Juliana's mother's memory"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Tearful close-ups, cutting insults, and Juliana's shift toward quiet indignation build a strong sense of humiliation and sympathy for her."
+  },
+  "weaknesses": [
+    "Characters are largely unnamed or identified only by role, which weakens first-viewer orientation",
+    "Backstory is absent, so the rejection feels unexplained without prior context",
+    "Off-screen voice attributions make the matriarch's lines harder to tie to a visible speaker early on",
+    "The sequence of insults is repetitive and leans on the same humiliation beat",
+    "The ending gives a dismissal but no clear forward-looking question"
+  ],
+  "one_line_why_it_works": "A rapid escalation of public humiliation, anchored by Juliana's tears and a final dismissal, makes the emotional stakes clear even without the backstory."
+}

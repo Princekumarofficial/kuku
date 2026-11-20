@@ -1,0 +1,47 @@
+{
+  "candidate_id": "c_133cc06b9a7d96a9",
+  "hook": {
+    "score_0_10": 5.0,
+    "evidence_refs": [
+      "EP09:E58",
+      "EP09:E59",
+      "EP09:E65"
+    ],
+    "reason": "The opening starts within 0-3000ms on a troubled close-up and a sharp line about the village talking, which creates some tension. The hook is moderate because the stakes of the argument are unclear to a first-time viewer, and the clip's central rumor only appears later at around 13200ms."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP09:E79",
+      "EP09:E80",
+      "EP09:E87",
+      "EP09:E88"
+    ],
+    "reason": "The clip ends on the Blond Nobleman alone, shaken, saying 'Impossible.' The rumor about a man with the late Duke's scar is never confirmed or dismissed, so the question stays open at the final frame. The ending is not a resolved intense moment, so it counts as an unresolved cliffhanger.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Identity and relationship of Alexander, Juliana, and the mother",
+      "Why a child's life is at risk and what the gossip concerns",
+      "Who the late Duke is and why his scar matters",
+      "Who the war veteran is and why he might resemble the Duke",
+      "Why The Former Groom's report alarms the Blond Nobleman",
+      "Relationship between The Former Groom and The Blond Nobleman",
+      "What 'Impossible' refers to"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 6.0,
+    "reason": "Protective anxiety, steadfast resolve, and then creeping paranoia build tension. The Blond Nobleman's shift from smug disdain to alarm gives the scene emotional charge, though the first-time viewer lacks the context to feel the full weight."
+  },
+  "weaknesses": [
+    "Opening scene relies on unexplained characters and stakes",
+    "The rumor's significance is not established before the study scene",
+    "Juliana and Alexander's conflict is not grounded in visible events",
+    "Ending line 'Impossible' lacks context for the viewer to understand its trigger",
+    "Long dialogue exchanges slow pacing in the middle of the clip"
+  ],
+  "one_line_why_it_works": "A rumor about a veteran resembling a dead Duke escalates into a nobleman's visible alarm, ending on an unresolved note of paranoia."
+}

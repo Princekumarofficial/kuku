@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_db2ad5d21f45d61b",
+  "hook": {
+    "score_0_10": 7.5,
+    "evidence_refs": [
+      "EP25:E41",
+      "EP25:E55"
+    ],
+    "reason": "The opening line 'Prudence told me she was dying.' within 0-2300ms states a dire stake immediately. The final window also carries the strongest reveal, 'Someone has been giving it to her again and again', so the hook is established and reinforced without relying on omitted plot."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.5,
+    "evidence_refs": [
+      "EP25:E55",
+      "EP25:E54"
+    ],
+    "reason": "The clip ends on an unidentified poisoner who is still at large and a victim whose fate is unstated, with Juliana's voice showing mounting dread at 24000-31200ms. Nothing in the clip resolves who is responsible or what happens next, so the ending is open rather than an intense but resolved beat.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Prudence is and her relationship to Juliana and Alexander",
+      "Who the doctor and the 'her' being poisoned are",
+      "Why Alexander's scar and restrained fury matter",
+      "What the bedchamber scene involved",
+      "Who is suspected of giving the arsenic",
+      "Relationship between Juliana and Alexander"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Visible distress in Juliana's welling eyes and trembling lips, Alexander's white-knuckled fist and fury, and the dread in her final line create clear emotional tension even for a viewer without context."
+  },
+  "weaknesses": [
+    "Characters are introduced by name with no context on their roles or relationships",
+    "The pronoun 'her' in 'Someone has been giving it to her' is unclear without knowing the victim",
+    "The poisoner's identity is not hinted at, so the threat is abstract",
+    "Much of the impact depends on the scene's emotional tone rather than clear story information",
+    "The ending depends on the audience caring about an unexplained victim"
+  ],
+  "one_line_why_it_works": "A blunt opening line about someone dying escalates through a poisoning reveal to an ending that leaves the culprit unknown and the stakes rising, which drives tension even though the clip gives a first-time viewer little background."
+}

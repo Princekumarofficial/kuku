@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_c62897bc3307358a",
+  "hook": {
+    "score_0_10": 4.0,
+    "evidence_refs": [
+      "EP17:E33",
+      "EP17:E31"
+    ],
+    "reason": "The opening line 'You were bleeding last night' (EP17:E33, starting at 2800ms) raises a question about what happened, but the wound-tending setup is quiet and the stakes are not stated within the first 3000ms."
+  },
+  "cliffhanger": {
+    "score_0_10": 1.0,
+    "evidence_refs": [
+      "EP17:E63",
+      "EP17:E64"
+    ],
+    "reason": "The final 3000ms (EP17:E63, EP17:E64) is a playful, resolved exchange about birds nesting in his hair. No threat or question is left open, so the ending is not a cliffhanger.",
+    "unresolved_at_end": false
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Who 'them' refers to when Alexander asks 'Of them?' (EP17:E43)",
+      "What happened last night that left both characters bleeding",
+      "Why Juliana was frightened and what danger she means",
+      "Who Alexander and Juliana are and what their relationship history is",
+      "Why Alexander's scarred face and bearded appearance matter to the moment",
+      "The meaning of 'So were you' and 'Your heart is racing' as tied to a prior event"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The clip conveys warmth, vulnerability, and affection through the close framing, the shared fear of losing each other, and the light humor at the end."
+  },
+  "weaknesses": [
+    "The clip relies on an unexplained prior event (the night of bleeding and fear), so a first-time viewer cannot grasp the stakes.",
+    "The hook is a quiet domestic moment rather than a question or tension that compels continued viewing.",
+    "The ending is resolved and playful, offering no forward pull.",
+    "Repeated close-ups and dialogue exchanges about affection slow the pacing for a short clip.",
+    "'Them' in E43 has no referent within the clip."
+  ],
+  "one_line_why_it_works": "The clip builds intimacy through tender physical care, mirrored lines about fear and racing hearts, and a light closing joke that leaves a warm emotional tone."
+}

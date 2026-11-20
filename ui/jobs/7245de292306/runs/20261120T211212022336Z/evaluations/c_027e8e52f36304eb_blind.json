@@ -1,0 +1,44 @@
+{
+  "candidate_id": "c_027e8e52f36304eb",
+  "hook": {
+    "score_0_10": 5.0,
+    "evidence_refs": [
+      "EP17:E34",
+      "EP17:E35",
+      "EP17:E55",
+      "EP17:E57"
+    ],
+    "reason": "The opening (E34, E35) shows a tender gesture and a short reply, which draws attention but does not state a stakes question. The final stretch (E55, E57) ends on a playful line that gives a light pull, but the clip gives a new viewer little reason to keep watching beyond the affection on screen."
+  },
+  "cliffhanger": {
+    "score_0_10": 2.0,
+    "evidence_refs": [
+      "EP17:E57"
+    ],
+    "reason": "The ending line 'This is becoming impossible' is ambiguous but comes after an affectionate, resolved beat and does not set up a pending event or danger. The emotional exchange closes on comfort, so the ending reads as resolved rather than suspended.",
+    "unresolved_at_end": false
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Identity and relationship history of Alexander and Juliana",
+      "Referent of 'So were you' (E35) since the preceding line is absent",
+      "Referent of 'Of them?' (E43) and who 'them' are",
+      "Cause of Juliana's fear and the earlier stakes implied by losing him",
+      "Meaning of 'This is becoming impossible' (E57)",
+      "Setting and why the fireplace scene matters beyond the couple's embrace"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The exchange moves from tenderness (E36, E38) to vulnerability ('I was frightened', E41; 'Of losing you', E45) and then to a warm, shared embrace (E48, E50-E53). The emotional arc is clear and sincere for a viewer, even without context."
+  },
+  "weaknesses": [
+    "Opening lines lack prior context, so the 'So were you' reply lands without a referent",
+    "The concern about 'them' (E43) is raised and never clarified within the clip",
+    "The ending is affectionate and resolved, offering no forward pull",
+    "Several close-up and camera-description beats are repetitive, slowing pacing",
+    "No information about who the characters are or what is at stake"
+  ],
+  "one_line_why_it_works": "The clip builds a sincere emotional exchange from tender teasing to vulnerable confession and a warm physical embrace, which a viewer can feel without knowing the backstory."
+}

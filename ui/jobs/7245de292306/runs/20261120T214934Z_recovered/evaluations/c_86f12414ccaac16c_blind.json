@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c_86f12414ccaac16c",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP03:E17",
+      "EP03:E18"
+    ],
+    "reason": "Opens within 0-3000ms with a clear confrontation: a triumphant claim followed immediately by a formidable matriarch stepping in, creating immediate tension for a first-time viewer."
+  },
+  "cliffhanger": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP03:E47",
+      "EP03:E53"
+    ],
+    "reason": "The clip ends mid-action with Juliana being forcibly removed and still resisting, with no resolution of her fate or the confrontation shown, so the outcome is unresolved at the final frame.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Who the Lady in Gold Gown is and why she claims something is 'mine'",
+      "What Juliana's relationship to the Noble Matriarch and her father is",
+      "What the family's injustice or 'choice' refers to",
+      "What is being claimed or taken away at the start",
+      "Why the cathedral is significant beyond being Juliana's mother's church"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Juliana's tears, betrayal, defiance and desperate pleas, followed by being dragged away, build strong sympathetic distress within the clip."
+  },
+  "weaknesses": [
+    "Opening context about the Lady in Gold Gown and the dispute over possession is unexplained for a first-time viewer",
+    "Relationships among characters are inferred only from dialogue and not clearly established",
+    "The clip relies on the viewer caring about Juliana without knowing her history",
+    "Ending is abrupt mid-action, which may feel truncated rather than deliberately suspenseful"
+  ],
+  "one_line_why_it_works": "A rapid escalation from triumphant claim to a public, forceful expulsion of a sympathetic heroine creates immediate emotional stakes and an unresolved ending."
+}

@@ -1,0 +1,1669 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "ep_032",
+  "episode_number": 32,
+  "metadata": {
+    "logline": "Cornered and chained in the damp dungeon, Juliana shatters Catherine's cruelty with unshakeable dignity and the truth about love and worth, driving Catherine into a murderous fury.",
+    "continuity_notes": "Picks up immediately from Episode 31's cliffhanger where Catherine used a glowing branding iron to scorch Juliana's mother's herbal book."
+  },
+  "source": {
+    "file": "031_episode-032-Episode 1681365.txt",
+    "sha256": "e35aeb60acdaeebbbee43d680bf3c910d1b48a08c7c141a727cc0b8649b15b53",
+    "complete": true
+  },
+  "scenes": [
+    {
+      "start_ms": 0,
+      "end_ms": 154380,
+      "id": "sc_001",
+      "heading": "INT. DUNGEON CELLS – CONTINUOUS"
+    }
+  ],
+  "events": [
+    {
+      "start_ms": 0,
+      "end_ms": 3000,
+      "id": "e_001",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on the open botanical ledger lying on the wet stone floor as the glowing red branding tip sizzles against the delicate parchment.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        14,
+        16
+      ]
+    },
+    {
+      "start_ms": 0,
+      "end_ms": 2800,
+      "id": "e_002",
+      "scene_id": "sc_001",
+      "type": "sound",
+      "text": "Sizzling, crackling sound of scorched parchment paper.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        18,
+        20
+      ]
+    },
+    {
+      "start_ms": 3000,
+      "end_ms": 4500,
+      "id": "e_003",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana, chained against the brick wall, tears glistening on her cheeks as she trembles in grief.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        22,
+        24
+      ]
+    },
+    {
+      "start_ms": 3800,
+      "end_ms": 5200,
+      "id": "e_004",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"There it is.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Mocking, Savoring",
+      "source_lines": [
+        26,
+        28
+      ]
+    },
+    {
+      "start_ms": 4500,
+      "end_ms": 7500,
+      "id": "e_005",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle medium shot of Catherine in her opulent velvet gown, clutching the hot poker with a sadistic sneer.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        30,
+        32
+      ]
+    },
+    {
+      "start_ms": 7500,
+      "end_ms": 9200,
+      "id": "e_006",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Fear.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Whispering, Venomous",
+      "source_lines": [
+        34,
+        36
+      ]
+    },
+    {
+      "start_ms": 7500,
+      "end_ms": 10500,
+      "id": "e_007",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Catherine leaning slightly forward over the burning book, eyes glittering with malice.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        38,
+        40
+      ]
+    },
+    {
+      "start_ms": 9800,
+      "end_ms": 13200,
+      "id": "e_008",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You have been so proud of that brave little face...\"",
+      "speaker": "CATHERINE",
+      "delivery": "Taunting",
+      "source_lines": [
+        42,
+        44
+      ]
+    },
+    {
+      "start_ms": 10500,
+      "end_ms": 13500,
+      "id": "e_009",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Wide shot showing Juliana chained against the cold dungeon wall, small and restrained beneath Catherine's towering shadow.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        46,
+        48
+      ]
+    },
+    {
+      "start_ms": 13400,
+      "end_ms": 15800,
+      "id": "e_010",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"...but now you are afraid.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Smug, Dominant",
+      "source_lines": [
+        50,
+        52
+      ]
+    },
+    {
+      "start_ms": 13500,
+      "end_ms": 16000,
+      "id": "e_011",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Catherine straightening up haughtily.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        54,
+        56
+      ]
+    },
+    {
+      "start_ms": 16000,
+      "end_ms": 17000,
+      "id": "e_012",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Extreme close-up of Juliana, her lips trembling in agonizing sorrow.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        58,
+        60
+      ]
+    },
+    {
+      "start_ms": 16200,
+      "end_ms": 18800,
+      "id": "e_013",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Say goodbye to your mother.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Cruel, Final",
+      "source_lines": [
+        62,
+        64
+      ]
+    },
+    {
+      "start_ms": 17000,
+      "end_ms": 19000,
+      "id": "e_014",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle shot of Catherine swinging the flaming orange iron upward from the book.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        66,
+        68
+      ]
+    },
+    {
+      "start_ms": 18800,
+      "end_ms": 20500,
+      "id": "e_015",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana's despair suddenly solidifies. Her jaw tightens, tears stopping as resolve takes over.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        70,
+        72
+      ]
+    },
+    {
+      "start_ms": 19000,
+      "end_ms": 20500,
+      "id": "e_016",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana looking up directly at Catherine, fear replaced by cold conviction.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        74,
+        76
+      ]
+    },
+    {
+      "start_ms": 20200,
+      "end_ms": 22000,
+      "id": "e_017",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Burn it.\"",
+      "speaker": "JULIANA",
+      "delivery": "Defiant, Unbroken",
+      "source_lines": [
+        78,
+        80
+      ]
+    },
+    {
+      "start_ms": 20500,
+      "end_ms": 23000,
+      "id": "e_018",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Juliana, sitting upright despite her heavy iron shackles.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        82,
+        84
+      ]
+    },
+    {
+      "start_ms": 23000,
+      "end_ms": 25500,
+      "id": "e_019",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Catherine, her smug expression abruptly flickering with startled confusion.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        86,
+        88
+      ]
+    },
+    {
+      "start_ms": 23800,
+      "end_ms": 24800,
+      "id": "e_020",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"What?\"",
+      "speaker": "CATHERINE",
+      "delivery": "Disconcerted",
+      "source_lines": [
+        90,
+        92
+      ]
+    },
+    {
+      "start_ms": 25500,
+      "end_ms": 28500,
+      "id": "e_021",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle close-up of Juliana staring straight up into Catherine's eyes without flinching.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        94,
+        96
+      ]
+    },
+    {
+      "start_ms": 25800,
+      "end_ms": 28800,
+      "id": "e_022",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Burn the ledger. Burn every page.\"",
+      "speaker": "JULIANA",
+      "delivery": "Firm, Resolute",
+      "source_lines": [
+        98,
+        100
+      ]
+    },
+    {
+      "start_ms": 28500,
+      "end_ms": 30800,
+      "id": "e_023",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Wide shot of the wet dungeon floor, guards stationed by the heavy iron doorway in the background as Catherine holds the hot brand.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        102,
+        104
+      ]
+    },
+    {
+      "start_ms": 29800,
+      "end_ms": 32800,
+      "id": "e_024",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You may destroy the book...\"",
+      "speaker": "JULIANA",
+      "delivery": "Steely, Proud",
+      "source_lines": [
+        106,
+        108
+      ]
+    },
+    {
+      "start_ms": 30800,
+      "end_ms": 33500,
+      "id": "e_025",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Catherine's face darkening with irritation.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        110,
+        112
+      ]
+    },
+    {
+      "start_ms": 33500,
+      "end_ms": 36500,
+      "id": "e_026",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium low-angle shot of Juliana sitting amidst chains beneath the barred ceiling grate.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        114,
+        116
+      ]
+    },
+    {
+      "start_ms": 33200,
+      "end_ms": 36200,
+      "id": "e_027",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"...you cannot destroy what my mother taught me.\"",
+      "speaker": "JULIANA",
+      "delivery": "Transcendent, Defiant",
+      "source_lines": [
+        118,
+        120
+      ]
+    },
+    {
+      "start_ms": 36400,
+      "end_ms": 38800,
+      "id": "e_028",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Catherine leaning down aggressively into Juliana's space, trembling with offended rage.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        122,
+        124
+      ]
+    },
+    {
+      "start_ms": 36400,
+      "end_ms": 39100,
+      "id": "e_029",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You think a few herbs make you better than me?\"",
+      "speaker": "CATHERINE",
+      "delivery": "Spiteful, Hissing",
+      "source_lines": [
+        126,
+        128
+      ]
+    },
+    {
+      "start_ms": 38800,
+      "end_ms": 41000,
+      "id": "e_030",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana looking steadily up into Catherine's furious glare.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        130,
+        132
+      ]
+    },
+    {
+      "start_ms": 39200,
+      "end_ms": 42800,
+      "id": "e_031",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"No. Your cruelty does that for me.\"",
+      "speaker": "JULIANA",
+      "delivery": "Calm, Cutting",
+      "source_lines": [
+        134,
+        136
+      ]
+    },
+    {
+      "start_ms": 41000,
+      "end_ms": 43500,
+      "id": "e_032",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "High-angle over-the-shoulder shot looking down at Juliana bound in heavy chains on the damp floor.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        138,
+        140
+      ]
+    },
+    {
+      "start_ms": 43500,
+      "end_ms": 45500,
+      "id": "e_033",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Extreme close-up of Catherine, baring her teeth in outrage.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        142,
+        144
+      ]
+    },
+    {
+      "start_ms": 43400,
+      "end_ms": 45400,
+      "id": "e_034",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You still think you are better?!\"",
+      "speaker": "CATHERINE",
+      "delivery": "Furious, Shouting",
+      "source_lines": [
+        146,
+        148
+      ]
+    },
+    {
+      "start_ms": 45500,
+      "end_ms": 47800,
+      "id": "e_035",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Juliana, her chained hands clasped together in her lap.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        150,
+        152
+      ]
+    },
+    {
+      "start_ms": 45600,
+      "end_ms": 47400,
+      "id": "e_036",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I know what I am.\"",
+      "speaker": "JULIANA",
+      "delivery": "Serene, Grounded",
+      "source_lines": [
+        154,
+        156
+      ]
+    },
+    {
+      "start_ms": 47800,
+      "end_ms": 49000,
+      "id": "e_037",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Catherine scoffing with forced, derisive laughter.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        158,
+        160
+      ]
+    },
+    {
+      "start_ms": 47800,
+      "end_ms": 49000,
+      "id": "e_038",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"A disgraced woman?\"",
+      "speaker": "CATHERINE",
+      "delivery": "Sneering, Mocking",
+      "source_lines": [
+        162,
+        164
+      ]
+    },
+    {
+      "start_ms": 49000,
+      "end_ms": 52500,
+      "id": "e_039",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana speaking with undeniable strength.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        166,
+        168
+      ]
+    },
+    {
+      "start_ms": 49200,
+      "end_ms": 52400,
+      "id": "e_040",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"A woman who survived. You cannot destroy me.\"",
+      "speaker": "JULIANA",
+      "delivery": "Unwavering",
+      "source_lines": [
+        170,
+        172
+      ]
+    },
+    {
+      "start_ms": 52500,
+      "end_ms": 54400,
+      "id": "e_041",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Catherine brandishing the glowing tong in Juliana's face, spittle flying from her lips.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        174,
+        176
+      ]
+    },
+    {
+      "start_ms": 52800,
+      "end_ms": 54200,
+      "id": "e_042",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You are lying!\"",
+      "speaker": "CATHERINE",
+      "delivery": "Screaming, Enraged",
+      "source_lines": [
+        178,
+        180
+      ]
+    },
+    {
+      "start_ms": 54400,
+      "end_ms": 58000,
+      "id": "e_043",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana looking straight up, voice steady and clear.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        182,
+        184
+      ]
+    },
+    {
+      "start_ms": 54600,
+      "end_ms": 58000,
+      "id": "e_044",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Gerald leaving me was the best thing he ever did for me.\"",
+      "speaker": "JULIANA",
+      "delivery": "Measured, Emphatic",
+      "source_lines": [
+        186,
+        188
+      ]
+    },
+    {
+      "start_ms": 58000,
+      "end_ms": 60800,
+      "id": "e_045",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Full shot of the dungeon cell. Catherine stands rigidly tall while Juliana sits shackled on the ground.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        190,
+        192
+      ]
+    },
+    {
+      "start_ms": 58200,
+      "end_ms": 61000,
+      "id": "e_046",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"He wanted a woman who looked beautiful beside his wealth.\"",
+      "speaker": "JULIANA",
+      "delivery": "Contemplative, Scathing",
+      "source_lines": [
+        194,
+        196
+      ]
+    },
+    {
+      "start_ms": 60800,
+      "end_ms": 64500,
+      "id": "e_047",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Extreme close-up of Juliana's expressive blue eyes and tear-stained cheek.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        198,
+        200
+      ]
+    },
+    {
+      "start_ms": 61100,
+      "end_ms": 66800,
+      "id": "e_048",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"He wanted a wife whose family could raise his name. He measured a woman's worth by what she could give him.\"",
+      "speaker": "JULIANA",
+      "delivery": "Passionate, Clear",
+      "source_lines": [
+        202,
+        204
+      ]
+    },
+    {
+      "start_ms": 64500,
+      "end_ms": 67000,
+      "id": "e_049",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle shot of Juliana leaning slightly forward against her chains.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        206,
+        208
+      ]
+    },
+    {
+      "start_ms": 67000,
+      "end_ms": 69000,
+      "id": "e_050",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Catherine staring down, her eyes widening as Juliana's words pierce her facade.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        210,
+        212
+      ]
+    },
+    {
+      "start_ms": 67200,
+      "end_ms": 68900,
+      "id": "e_051",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Let him have Clarissa.\"",
+      "speaker": "JULIANA",
+      "delivery": "Unapologetic, Victorious",
+      "source_lines": [
+        214,
+        216
+      ]
+    },
+    {
+      "start_ms": 69000,
+      "end_ms": 71200,
+      "id": "e_052",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana smiling with genuine liberation.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        218,
+        220
+      ]
+    },
+    {
+      "start_ms": 69600,
+      "end_ms": 71200,
+      "id": "e_053",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"He lost me.\"",
+      "speaker": "JULIANA",
+      "delivery": "Proud",
+      "source_lines": [
+        222,
+        224
+      ]
+    },
+    {
+      "start_ms": 71200,
+      "end_ms": 73300,
+      "id": "e_054",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Extreme close-up of Catherine's face contorting in sheer fury.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        226,
+        228
+      ]
+    },
+    {
+      "start_ms": 71300,
+      "end_ms": 73200,
+      "id": "e_055",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You were rejected!\"",
+      "speaker": "CATHERINE",
+      "delivery": "Shrieking, Vicious",
+      "source_lines": [
+        230,
+        232
+      ]
+    },
+    {
+      "start_ms": 73300,
+      "end_ms": 75500,
+      "id": "e_056",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana's calm, resolute face.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        234,
+        236
+      ]
+    },
+    {
+      "start_ms": 73400,
+      "end_ms": 77600,
+      "id": "e_057",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I was freed. And I found a man who never asked me what I was worth.\"",
+      "speaker": "JULIANA",
+      "delivery": "Grounded, Powerful",
+      "source_lines": [
+        238,
+        240
+      ]
+    },
+    {
+      "start_ms": 75500,
+      "end_ms": 77500,
+      "id": "e_058",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Wide shot of the cell, steam rising faintly in the cold subterranean air.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        242,
+        244
+      ]
+    },
+    {
+      "start_ms": 77500,
+      "end_ms": 80000,
+      "id": "e_059",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Catherine sneering with dripping condescension.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        246,
+        248
+      ]
+    },
+    {
+      "start_ms": 77800,
+      "end_ms": 79400,
+      "id": "e_060",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Your soldier?\"",
+      "speaker": "CATHERINE",
+      "delivery": "Disdainful",
+      "source_lines": [
+        250,
+        252
+      ]
+    },
+    {
+      "start_ms": 80000,
+      "end_ms": 82500,
+      "id": "e_061",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana, her eyes glowing with genuine devotion.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        254,
+        256
+      ]
+    },
+    {
+      "start_ms": 80200,
+      "end_ms": 82000,
+      "id": "e_062",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"My husband.\"",
+      "speaker": "JULIANA",
+      "delivery": "Tender, Certain",
+      "source_lines": [
+        258,
+        260
+      ]
+    },
+    {
+      "start_ms": 82500,
+      "end_ms": 84100,
+      "id": "e_063",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Catherine scowling with deep disgust.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        262,
+        264
+      ]
+    },
+    {
+      "start_ms": 82500,
+      "end_ms": 84000,
+      "id": "e_064",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"He is a nobody.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Bitter",
+      "source_lines": [
+        266,
+        268
+      ]
+    },
+    {
+      "start_ms": 84100,
+      "end_ms": 86500,
+      "id": "e_065",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana smiling softly, totally untroubled.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        270,
+        272
+      ]
+    },
+    {
+      "start_ms": 84200,
+      "end_ms": 86200,
+      "id": "e_066",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Then I love a nobody.\"",
+      "speaker": "JULIANA",
+      "delivery": "Warm, Defiant",
+      "source_lines": [
+        274,
+        276
+      ]
+    },
+    {
+      "start_ms": 86500,
+      "end_ms": 89800,
+      "id": "e_067",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle shot focusing on Juliana's bare, chained feet locked in iron on the stone floor.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        278,
+        280
+      ]
+    },
+    {
+      "start_ms": 86500,
+      "end_ms": 90200,
+      "id": "e_068",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Because that nobody showed me more love than your entire world ever did.\"",
+      "speaker": "JULIANA",
+      "delivery": "Resonant, Moving",
+      "source_lines": [
+        282,
+        284
+      ]
+    },
+    {
+      "start_ms": 89800,
+      "end_ms": 92800,
+      "id": "e_069",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Catherine gripping the branding rod tighter, her upper lip curling in fury.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        286,
+        288
+      ]
+    },
+    {
+      "start_ms": 90100,
+      "end_ms": 92600,
+      "id": "e_070",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You know nothing about my world.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Indignant, Sharp",
+      "source_lines": [
+        290,
+        292
+      ]
+    },
+    {
+      "start_ms": 92800,
+      "end_ms": 97000,
+      "id": "e_071",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Juliana sitting in her tattered apron and chains, looking composed.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        294,
+        296
+      ]
+    },
+    {
+      "start_ms": 93200,
+      "end_ms": 96600,
+      "id": "e_072",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I know exactly what your world values.\"",
+      "speaker": "JULIANA",
+      "delivery": "Knowing, Sober",
+      "source_lines": [
+        298,
+        300
+      ]
+    },
+    {
+      "start_ms": 97000,
+      "end_ms": 99800,
+      "id": "e_073",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Extreme close-up of Juliana's lips and eyes as she lists them with chilling precision.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        302,
+        304
+      ]
+    },
+    {
+      "start_ms": 97600,
+      "end_ms": 99600,
+      "id": "e_074",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Beauty. Money.\"",
+      "speaker": "JULIANA",
+      "delivery": "Listing, Deliberate",
+      "source_lines": [
+        306,
+        308
+      ]
+    },
+    {
+      "start_ms": 99800,
+      "end_ms": 101000,
+      "id": "e_075",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Extreme close-up of Catherine's wide, stunned eyes reacting to the naked truth.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        310,
+        312
+      ]
+    },
+    {
+      "start_ms": 101000,
+      "end_ms": 103700,
+      "id": "e_076",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana looking up unflinchingly.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        314,
+        316
+      ]
+    },
+    {
+      "start_ms": 101200,
+      "end_ms": 103500,
+      "id": "e_077",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Family. A perfect name.\"",
+      "speaker": "JULIANA",
+      "delivery": "Firm",
+      "source_lines": [
+        318,
+        320
+      ]
+    },
+    {
+      "start_ms": 103700,
+      "end_ms": 107000,
+      "id": "e_078",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle shot of Catherine standing rigid in her gold and purple gown, the guard standing sentinel behind her.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        322,
+        324
+      ]
+    },
+    {
+      "start_ms": 103800,
+      "end_ms": 107200,
+      "id": "e_079",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"And a woman who never embarrasses the people standing behind her.\"",
+      "speaker": "JULIANA",
+      "delivery": "Continuing",
+      "source_lines": [
+        326,
+        328
+      ]
+    },
+    {
+      "start_ms": 107000,
+      "end_ms": 108800,
+      "id": "e_080",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Catherine throwing her hands up in explosive defensiveness.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        330,
+        332
+      ]
+    },
+    {
+      "start_ms": 107200,
+      "end_ms": 108800,
+      "id": "e_081",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"And what is wrong with that?!\"",
+      "speaker": "CATHERINE",
+      "delivery": "Shouting, Outraged",
+      "source_lines": [
+        334,
+        336
+      ]
+    },
+    {
+      "start_ms": 108800,
+      "end_ms": 109400,
+      "id": "e_082",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Catherine's face twisting in absolute venom.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        338,
+        340
+      ]
+    },
+    {
+      "start_ms": 109400,
+      "end_ms": 112500,
+      "id": "e_083",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana looking serene.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        342,
+        344
+      ]
+    },
+    {
+      "start_ms": 109500,
+      "end_ms": 112800,
+      "id": "e_084",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Nothing. Until you have nothing left beneath it.\"",
+      "speaker": "JULIANA",
+      "delivery": "Gentle, Penetrating",
+      "source_lines": [
+        346,
+        348
+      ]
+    },
+    {
+      "start_ms": 112500,
+      "end_ms": 116000,
+      "id": "e_085",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Catherine standing motionless, holding the iron rod, struck to the core by the insult.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        350,
+        352
+      ]
+    },
+    {
+      "start_ms": 112800,
+      "end_ms": 116000,
+      "id": "e_086",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You have spent your whole life collecting things that make people bow...\"",
+      "speaker": "JULIANA",
+      "delivery": "Unrelenting",
+      "source_lines": [
+        354,
+        356
+      ]
+    },
+    {
+      "start_ms": 116000,
+      "end_ms": 116800,
+      "id": "e_087",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle shot of Juliana's chained hands folded peacefully in her lap.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        358,
+        360
+      ]
+    },
+    {
+      "start_ms": 116800,
+      "end_ms": 119500,
+      "id": "e_088",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Juliana looking up with quiet pity.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        362,
+        364
+      ]
+    },
+    {
+      "start_ms": 116900,
+      "end_ms": 119500,
+      "id": "e_089",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"...but you have never learned how to make anyone love you.\"",
+      "speaker": "JULIANA",
+      "delivery": "Piercing",
+      "source_lines": [
+        366,
+        368
+      ]
+    },
+    {
+      "start_ms": 119500,
+      "end_ms": 121800,
+      "id": "e_090",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Catherine snapping entirely, raising the branding poker like a weapon and screaming.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        370,
+        372
+      ]
+    },
+    {
+      "start_ms": 119600,
+      "end_ms": 121800,
+      "id": "e_091",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Silence! Silence!\"",
+      "speaker": "CATHERINE",
+      "delivery": "Hysterical, Screaming",
+      "source_lines": [
+        374,
+        376
+      ]
+    },
+    {
+      "start_ms": 121800,
+      "end_ms": 123000,
+      "id": "e_092",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Catherine's crazed, gasping face.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        378,
+        380
+      ]
+    },
+    {
+      "start_ms": 121800,
+      "end_ms": 122800,
+      "id": "e_093",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Why?!\"",
+      "speaker": "CATHERINE",
+      "delivery": "Shrieking",
+      "source_lines": [
+        382,
+        384
+      ]
+    },
+    {
+      "start_ms": 122800,
+      "end_ms": 125000,
+      "id": "e_094",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana crying out her defiance.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        386,
+        388
+      ]
+    },
+    {
+      "start_ms": 123000,
+      "end_ms": 125200,
+      "id": "e_095",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Because I am right!\"",
+      "speaker": "JULIANA",
+      "delivery": "Forceful",
+      "source_lines": [
+        390,
+        392
+      ]
+    },
+    {
+      "start_ms": 125000,
+      "end_ms": 128500,
+      "id": "e_096",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle tracking shot of the red-hot branding tip trailing across the wet dungeon floor, steaming.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        394,
+        396
+      ]
+    },
+    {
+      "start_ms": 125400,
+      "end_ms": 128800,
+      "id": "e_097",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You want everyone to believe you are powerful.\"",
+      "speaker": "JULIANA",
+      "delivery": "Scathing, Direct",
+      "source_lines": [
+        398,
+        400
+      ]
+    },
+    {
+      "start_ms": 128500,
+      "end_ms": 131800,
+      "id": "e_098",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Juliana sitting under the cold skylight bars, her posture majestic despite her imprisonment.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        402,
+        404
+      ]
+    },
+    {
+      "start_ms": 129000,
+      "end_ms": 131600,
+      "id": "e_099",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You want everyone to fear you.\"",
+      "speaker": "JULIANA",
+      "delivery": "Continuing",
+      "source_lines": [
+        406,
+        408
+      ]
+    },
+    {
+      "start_ms": 131800,
+      "end_ms": 134800,
+      "id": "e_100",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Juliana looking directly at Catherine, gestures restrained by the heavy iron chains.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        410,
+        412
+      ]
+    },
+    {
+      "start_ms": 132000,
+      "end_ms": 134000,
+      "id": "e_101",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"But look at you.\"",
+      "speaker": "JULIANA",
+      "delivery": "Mocking, Direct",
+      "source_lines": [
+        414,
+        416
+      ]
+    },
+    {
+      "start_ms": 134800,
+      "end_ms": 138500,
+      "id": "e_102",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana, her eyes burning with fiery contempt.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        418,
+        420
+      ]
+    },
+    {
+      "start_ms": 135000,
+      "end_ms": 138600,
+      "id": "e_103",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You have to threaten a chained woman to feel powerful!\"",
+      "speaker": "JULIANA",
+      "delivery": "Stripping Her Bare",
+      "source_lines": [
+        422,
+        424
+      ]
+    },
+    {
+      "start_ms": 138500,
+      "end_ms": 140400,
+      "id": "e_104",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Catherine trembling with uncontrollable rage, teeth bared.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        426,
+        428
+      ]
+    },
+    {
+      "start_ms": 138600,
+      "end_ms": 140200,
+      "id": "e_105",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You insolent—!\"",
+      "speaker": "CATHERINE",
+      "delivery": "Choking with Rage",
+      "source_lines": [
+        430,
+        432
+      ]
+    },
+    {
+      "start_ms": 140400,
+      "end_ms": 142400,
+      "id": "e_106",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Catherine gripping the glowing tongs as Juliana continues speaking over her.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        434,
+        436
+      ]
+    },
+    {
+      "start_ms": 140400,
+      "end_ms": 142300,
+      "id": "e_107",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You may have the title you have always wanted...\"",
+      "speaker": "JULIANA",
+      "delivery": "Steely, Triumphant",
+      "source_lines": [
+        438,
+        440
+      ]
+    },
+    {
+      "start_ms": 142400,
+      "end_ms": 146500,
+      "id": "e_108",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana delivering the final emotional blow.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        442,
+        444
+      ]
+    },
+    {
+      "start_ms": 142400,
+      "end_ms": 146500,
+      "id": "e_109",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"...but you will never have the courage to earn what you demand from everyone else.\"",
+      "speaker": "JULIANA",
+      "delivery": "Final, Condemning",
+      "source_lines": [
+        446,
+        448
+      ]
+    },
+    {
+      "start_ms": 146500,
+      "end_ms": 148000,
+      "id": "e_110",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Catherine's face twitching with sheer murderous madness.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        450,
+        452
+      ]
+    },
+    {
+      "start_ms": 146600,
+      "end_ms": 148100,
+      "id": "e_111",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You think you can lecture me?!\"",
+      "speaker": "CATHERINE",
+      "delivery": "Enraged, Shouting",
+      "source_lines": [
+        454,
+        456
+      ]
+    },
+    {
+      "start_ms": 148000,
+      "end_ms": 150800,
+      "id": "e_112",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Catherine raising the branding iron high above her head with both hands.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        458,
+        460
+      ]
+    },
+    {
+      "start_ms": 148000,
+      "end_ms": 150800,
+      "id": "e_113",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Catherine hoists the searing branding rod over Juliana with frantic fury.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        462,
+        464
+      ]
+    },
+    {
+      "start_ms": 148100,
+      "end_ms": 151200,
+      "id": "e_114",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Then let's see how brave you are when it touches your skin!\"",
+      "speaker": "CATHERINE",
+      "delivery": "Screaming, Maniacal",
+      "source_lines": [
+        466,
+        468
+      ]
+    },
+    {
+      "start_ms": 150800,
+      "end_ms": 152000,
+      "id": "e_115",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Catherine plunging the glowing orange poker straight toward Juliana's face.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        470,
+        472
+      ]
+    },
+    {
+      "start_ms": 151200,
+      "end_ms": 154380,
+      "id": "e_116",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana gasps, freezing as the glowing tip of the iron thrusts forward, stopping mere millimeters from her right eye.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        474,
+        476
+      ]
+    },
+    {
+      "start_ms": 152000,
+      "end_ms": 154380,
+      "id": "e_117",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Extreme close-up of Juliana's wide, unblinking blue eye. The intense, fiery orange glow of the iron poker radiates inches from her cornea, holding on the heart-stopping cliffhanger as the frame cuts to black.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        478,
+        480
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "start_ms": 0,
+      "end_ms": 154380
+    }
+  ],
+  "warnings": []
+}

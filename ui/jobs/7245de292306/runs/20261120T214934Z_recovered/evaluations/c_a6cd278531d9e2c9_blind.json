@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c_a6cd278531d9e2c9",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP32:E92",
+      "EP32:E95"
+    ],
+    "reason": "The clip opens on Catherine's crazed, gasping face and Juliana's defiant cry, then a direct line of dialogue within the first 2.4 seconds creates immediate tension."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP32:E106",
+      "EP32:E104",
+      "EP32:E109"
+    ],
+    "reason": "The clip ends on Juliana's final line while Catherine grips glowing tongs in rage and no reaction or outcome is shown, so the confrontation feels left open, though the threat is only implied.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Catherine and Juliana are and their relationship",
+      "Why Juliana is chained and imprisoned",
+      "What the 'title' Catherine wants refers to",
+      "What the branding tongs are meant to do to Juliana",
+      "What Juliana's defiance is responding to before the clip begins"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Visible rage, defiance, and contempt are conveyed through close-ups, trembling, bared teeth, and a sharp verbal exchange that builds to a cutting final line."
+  },
+  "weaknesses": [
+    "Without prior plot the stakes of the branding threat and the power struggle are unclear to a first-time viewer",
+    "The clip's emotional payoff depends on knowing what 'the title' and 'courage' refer to",
+    "Ending on a line of dialogue with no visible reaction from Catherine may leave some viewers without a clear closing beat"
+  ],
+  "one_line_why_it_works": "Escalating close-ups of rage and defiance, a glowing branding tip, and a cutting final line create strong emotional tension even for a first-time viewer."
+}

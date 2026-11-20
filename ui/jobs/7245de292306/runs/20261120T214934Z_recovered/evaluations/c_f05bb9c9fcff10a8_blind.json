@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_f05bb9c9fcff10a8",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP45:E36",
+      "EP45:E39"
+    ],
+    "reason": "The opening 0-3000ms shows a disheveled bride at the altar and Alexander turning toward her, and by 300-6700ms he is looming over her in fury. The conflict is immediate and visible without any setup."
+  },
+  "cliffhanger": {
+    "score_0_10": 5.0,
+    "evidence_refs": [
+      "EP45:E47",
+      "EP45:E53"
+    ],
+    "reason": "The final 3000ms carry a stinger: Alexander declares Juliana his lawful wife and Duchess, and Catherine's shocked 'Wife?!' is left hanging. The clip ends on the declaration itself, though, and Catherine's response and the fallout are not shown, so the ending is only partly unresolved.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Juliana Ashcroft is and what her relationship to Alexander was before this moment",
+      "What Catherine is accused of poisoning and why Alexander's mother is involved",
+      "The significance of the title Duchess of Ashburton and the role of the Crown",
+      "Whether Catherine was already married to Alexander and what the wedding's status is",
+      "What led to the disheveled wedding and the congregation's reaction"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Fury, betrayal, terror, and a public humiliation build steadily, with Catherine's gasping distress and the congregation's shock making the stakes feel high."
+  },
+  "weaknesses": [
+    "Accusations of poisoning and torture are asserted without any shown basis, so the viewer cannot judge who is right",
+    "The 'Wife?!' reveal depends on unseen history about Catherine's marriage to Alexander",
+    "Catherine's reactions are brief, leaving her position unclear",
+    "The final declaration shifts focus to Juliana, whose role is not established in the clip",
+    "Heavy reliance on unseen backstory limits standalone comprehension"
+  ],
+  "one_line_why_it_works": "A fast-escalating public accusation and a shocking declaration at the altar create strong tension, though the clip leans heavily on context it never shows."
+}

@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_a4e00454dfae405a DURATION_MS=28000\nSEGMENT 1 (playback order)\nEP10:E2 0-2200 ACTION: Juliana quietly studies the botanical illustrations by firelight, a bundle of fresh dried herbs resting on the table.\nEP10:E1 0-2500 CAMERA: Medium profile shot of Juliana sitting at a wooden table beside the glowing fireplace, reading an old herbal medicine book.\nEP10:E3 2100-3300 SOUND: A heavy wooden door suddenly creaks and bangs open in the quiet cottage.\nEP10:E4 2200-3500 ACTION: Juliana jerks her head up from the book, startled by the sudden intrusion.\nEP10:E5 2600-4200 CAMERA: Medium wide shot framing the doorway as Alexander stands framed in the dark threshold, panting heavily, his hand pressed against his blood-soaked chest.\nEP10:E6 4200-6800 CAMERA: Medium close-up of Juliana rising swiftly from her chair, shock and terror flashing across her face.\nEP10:E7 5100-6600 JULIANA: \"Alexander!\"\nEP10:E8 6800-9100 CAMERA: Close-up of Alexander struggling to breathe, clutching his bloodied coat over his chest.\nEP10:E9 7500-9000 ALEXANDER: \"It is nothing.\"\nEP10:E10 9100-11500 CAMERA: Medium shot of Juliana hurriedly stepping toward him across the stone floor.\nEP10:E11 9150-11450 JULIANA: \"There is blood running down your arm.\"\nEP10:E12 11500-14200 CAMERA: Medium profile two-shot as Alexander stands rigid while Juliana confronts him.\nEP10:E13 11900-14300 ALEXANDER: \"A cut from the tenant fields.\"\nEP10:E14 14200-16000 CAMERA: Wide shot of the hearth room as Juliana firmly points toward a wooden armchair beside the fire.\nEP10:E15 14500-16000 JULIANA: \"Sit down.\"\nEP10:E16 16000-17800 CAMERA: Close-up of Juliana's determined, unyielding expression.\nEP10:E17 16200-17300 JULIANA: \"Now.\"\nEP10:E18 17800-20000 CAMERA: Medium shot of Alexander reluctantly lowering his heavy frame onto the chair in front of the fire.\nEP10:E19 20000-23000 CAMERA: Medium tracking shot following Juliana as she brings a wooden washbowl, fresh cloth, and an earthen jar of ointment to the foot of his chair.\nEP10:E20 20900-22900 JULIANA: \"I need to see the wound.\"\nEP10:E21 23000-25200 CAMERA: Low-angle close-up of Alexander looking up at her stubbornly.\nEP10:E22 23200-24900 ALEXANDER: \"It is only a scratch.\"\nEP10:E23 25200-28000 CAMERA: Medium shot of Juliana crossing her arms over her chest, eyeing him with quiet defiance.\nEP10:E24 25500-28000 JULIANA: \"Then removing your shirt should not trouble you.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

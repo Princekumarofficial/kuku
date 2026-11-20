@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_0078e8c80bc8a0ab DURATION_MS=26200\nSEGMENT 1 (playback order)\nEP44:E32 0-2200 CAMERA: Close-up on Catherine lowering her hand, stunned and deeply hurt by his rejection.\nEP44:E33 0-2200 CATHERINE: \"You don't remember?\"\nEP44:E34 2200-4800 CAMERA: High-angle shot looking down at Catherine in the foreground, with Rupert held under guard in the background.\nEP44:E35 2400-4600 CATHERINE: \"I was supposed to be your Duchess!\"\nEP44:E36 4800-6800 CAMERA: Medium two-shot of Catherine and Alexander confronting each other.\nEP44:E37 5000-6800 ALEXANDER: \"You were never my Duchess.\"\nEP44:E38 6800-8800 CAMERA: Extreme close-up on Catherine's tearful face.\nEP44:E39 6900-8600 CATHERINE: \"But I loved you!\"\nEP44:E41 8800-11300 ALEXANDER: \"You loved the Duke you thought you would marry.\"\nEP44:E40 8800-11400 CAMERA: Medium close-up on Alexander, his scarred jaw set firm.\nEP44:E42 11400-14800 CAMERA: Close-up on Catherine, gasping in protest.\nEP44:E43 12000-14000 CATHERINE: \"No!\"\nEP44:E44 14800-18200 CAMERA: Medium shot as Catherine clutches her chest, pouring her heart out.\nEP44:E45 15600-18200 CATHERINE: \"I loved you before all this!\"\nEP44:E46 18200-19600 CAMERA: Close-up on Alexander tilting his head slightly, his gaze piercing through her.\nEP44:E47 18300-19200 ALEXANDER: \"Did you?\"\nEP44:E48 19600-20800 CAMERA: Close-up on Catherine, rendered speechless by his doubt.\nEP44:E49 20800-23600 CAMERA: Tilt-up shot starting from heavy iron chains resting on the wooden floor up to the shackled wrists of Juliana dressed in her rustic grey gown.\nEP44:E50 23600-25400 CAMERA: Wide shot from behind Catherine as Alexander turns his back on her and walks resolutely down the rubble-strewn aisle toward Juliana standing in chains at the doorway.\nEP44:E51 23800-25400 ACTION: Alexander walks away from Catherine toward Juliana, who waits solemnly by the cathedral entrance.\nEP44:E52 25400-25900 CAMERA: Medium close-up on Juliana looking down at her chained hands, lifting her gaze gently.\nEP44:E54 25900-26200 CATHERINE: \"Her?!\"\nEP44:E53 25900-26200 CAMERA: Extreme close-up on Catherine's horrified, bewildered expression as she realizes who Alexander chose.",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_0adc5a864c7df60a DURATION_MS=28800\nSEGMENT 1 (playback order)\nEP01:E51 0-500 CAMERA: Medium two-shot of the Lady in Gold Gown and Gerald looking together down at Juliana.\nEP01:E53 500-2500 ACTION: Juliana turns abruptly toward the first row of pews, where her elderly father sits gripping an ornate brass cane.\nEP01:E54 500-2900 CAMERA: Close-up on the father's hand tightly gripping the gold curved handle of his walking cane.\nEP01:E55 1600-2700 LADY JULIANA: \"Father...\"\nEP01:E57 2900-5100 LADY JULIANA: \"Tell them this is a mistake.\"\nEP01:E56 2900-5200 CAMERA: Wide shot showing Juliana dropping to her knees beside her seated father, pleading with him.\nEP01:E58 5200-7500 CAMERA: Close-up on the father's weathered face, looking fixedly at the floor, refusing to meet her gaze.\nEP01:E60 7500-10400 LADY JULIANA: \"Father... please look at me.\"\nEP01:E59 7500-11000 CAMERA: Close-up on Juliana looking up at him, tears streaming uncontrollably down her cheeks.\nEP01:E61 11000-12300 ACTION: The father tightens his jaw and stony expression, refusing to offer a single word or look.\nEP01:E62 11000-12300 CAMERA: Profile close-up of the father staring blankly forward.\nEP01:E63 12300-17300 CAMERA: Low-angle shot looking up at the Matriarch commanding the space with regal severity.\nEP01:E64 12400-13400 MATRIARCH: \"Enough!\"\nEP01:E65 13600-17000 MATRIARCH: \"You have embarrassed this family long enough.\"\nEP01:E66 17300-20100 CAMERA: Close-up on Juliana as she rises, stung by the utter betrayal.\nEP01:E67 17700-19700 LADY JULIANA: \"Embarrassed you?\"\nEP01:E68 20100-24000 CAMERA: Medium shot of the Matriarch gesturing toward Clarissa, who stands elegantly in gold.\nEP01:E69 20300-23000 MATRIARCH: \"Clarissa knows how to carry herself.\"\nEP01:E70 23100-26500 MATRIARCH: \"She has beauty, connections, and a future worth protecting.\"\nEP01:E71 24000-26800 CAMERA: Medium profile two-shot of the Matriarch confronting Juliana face to face.\nEP01:E72 26800-28800 CAMERA: Close-up on Juliana, demanding answers in spite of her humiliation.\nEP01:E73 26900-28800 LADY JULIANA: \"And I am what?\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

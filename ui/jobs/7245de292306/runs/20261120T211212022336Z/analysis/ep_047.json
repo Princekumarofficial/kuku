@@ -1,0 +1,285 @@
+{
+  "episode_id": "ep_047",
+  "summary": "Episode ep_047 is built from on-screen event text across four scenes: a night conspiracy in the estate chambers (sc_001), a morning reassurance between Alexander and Juliana (sc_002), a courtyard confrontation where Catherine begs for shelter (sc_003), and Juliana's sentence of Catherine to scullery service (sc_004). Source warnings state that sc_002 and sc_004 have incomplete coverage with unavailable gaps, so scene timing and continuity may be partial; sc_002 is timed to 55500 but its last event ends at 54800, and sc_004 is timed to 134000 with events ending at 134000. Identities and roles of characters who appear only in dialogue (Father Thomas, the High Council, Rupert, the King) are inferred from speech, not shown on screen. The unnamed conspirator is never identified on screen. Claims such as Catherine's involvement in the poisoning and her status as an impostor are character accusations and are not verified within the supplied events. Metadata logline and continuity notes were treated as non-evidence and not used for beats, revelations, or claims.",
+  "characters": [
+    {
+      "name": "Catherine",
+      "role": "Antagonist-leaning figure who plots to stay on the Ashbourne estate, is accused of aiding poison and being an impostor, and is sentenced to scullery service"
+    },
+    {
+      "name": "Alexander",
+      "role": "Duke and Juliana's husband, who defends her and orders Catherine expelled before Juliana intervenes"
+    },
+    {
+      "name": "Juliana",
+      "role": "Healer and Alexander's wife, who challenges the expulsion and imposes servitude on Catherine"
+    },
+    {
+      "name": "Lady Ashbourne",
+      "role": "Elderly noblewoman who accuses Catherine and demands her expulsion"
+    },
+    {
+      "name": "Vaughn",
+      "role": "Guard who offers to remove Catherine from the courtyard on command"
+    },
+    {
+      "name": "Conspirator",
+      "role": "Unnamed muscular man who advises Catherine on the council's and Alexander's moves; identity not shown on screen"
+    }
+  ],
+  "beats": [
+    {
+      "id": "b1",
+      "kind": "setup",
+      "event_refs": [
+        "EP47:E1",
+        "EP47:E2",
+        "EP47:E3"
+      ],
+      "description": "In the estate chambers at night, Catherine states she intends to stay on the estate while Rupert is imprisoned.",
+      "intensity_0_10": 4.0
+    },
+    {
+      "id": "b2",
+      "kind": "plot_commitment",
+      "event_refs": [
+        "EP47:E4",
+        "EP47:E5",
+        "EP47:E6",
+        "EP47:E7",
+        "EP47:E8",
+        "EP47:E9"
+      ],
+      "description": "A conspirator warns that Alexander will search the grounds and the council has blocked the marriage registry; Catherine orders him to keep her inside the walls and to keep the council paralyzed.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b3",
+      "kind": "reassurance",
+      "event_refs": [
+        "EP47:E10",
+        "EP47:E11",
+        "EP47:E12",
+        "EP47:E13",
+        "EP47:E14",
+        "EP47:E15",
+        "EP47:E16"
+      ],
+      "description": "At morning, Juliana voices fear that the council will strip Alexander's title because of her and that lords will never accept her as a healer.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "b4",
+      "kind": "reassurance",
+      "event_refs": [
+        "EP47:E17",
+        "EP47:E18",
+        "EP47:E19",
+        "EP47:E20",
+        "EP47:E21",
+        "EP47:E22",
+        "EP47:E23",
+        "EP47:E24"
+      ],
+      "description": "Alexander reassures Juliana that she is his wife and that they will stand before the King and God within ten days.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b5",
+      "kind": "confrontation",
+      "event_refs": [
+        "EP47:E25",
+        "EP47:E26",
+        "EP47:E27",
+        "EP47:E28",
+        "EP47:E29",
+        "EP47:E30",
+        "EP47:E31",
+        "EP47:E32",
+        "EP47:E33"
+      ],
+      "description": "In the rain-soaked courtyard, Lady Ashbourne condemns the kneeling Catherine, who pleads that she has nowhere to go; Lady Ashbourne orders her cast into the road.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b6",
+      "kind": "escalation",
+      "event_refs": [
+        "EP47:E34",
+        "EP47:E35",
+        "EP47:E36",
+        "EP47:E37",
+        "EP47:E38",
+        "EP47:E39"
+      ],
+      "description": "Vaughn readies to seize Catherine; Alexander arrives with Juliana and orders her thrown past the perimeter, and Catherine begs for mercy.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "b7",
+      "kind": "reversal",
+      "event_refs": [
+        "EP47:E40",
+        "EP47:E41",
+        "EP47:E42",
+        "EP47:E43",
+        "EP47:E44",
+        "EP47:E45",
+        "EP47:E46",
+        "EP47:E47"
+      ],
+      "description": "Juliana halts the guard; Alexander protests that Catherine tried to destroy her, and Juliana answers that Ashbourne does not throw beggars into the mud.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b8",
+      "kind": "sentence",
+      "event_refs": [
+        "EP47:E48",
+        "EP47:E49",
+        "EP47:E50",
+        "EP47:E51",
+        "EP47:E52",
+        "EP47:E53",
+        "EP47:E54",
+        "EP47:E55",
+        "EP47:E56",
+        "EP47:E57"
+      ],
+      "description": "Juliana offers shelter only as a scullery maid, and Catherine recoils at the humiliation.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "b9",
+      "kind": "sentence",
+      "event_refs": [
+        "EP47:E58",
+        "EP47:E59",
+        "EP47:E60",
+        "EP47:E61",
+        "EP47:E62",
+        "EP47:E63",
+        "EP47:E64",
+        "EP47:E65",
+        "EP47:E66",
+        "EP47:E67"
+      ],
+      "description": "Juliana sets out the labor terms, including dawn hearth work and midnight kitchen work, and warns that a single complaint will cast Catherine out with nothing.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "b10",
+      "kind": "resolution",
+      "event_refs": [
+        "EP47:E68",
+        "EP47:E69",
+        "EP47:E70"
+      ],
+      "description": "Catherine accepts the apron and keys and prostrates herself before Alexander, Juliana, and Lady Ashbourne as the scene cuts to black.",
+      "intensity_0_10": 7.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "r1",
+      "event_refs": [
+        "EP47:E3",
+        "EP47:E7",
+        "EP47:E9"
+      ],
+      "claim": "Catherine plans in secret to remain on the Ashbourne estate and has an ally who will keep the council paralyzed.",
+      "spoiler_significance_0_10": 7.0,
+      "creates_questions": [
+        "Who is the conspirator and what is his role?",
+        "Will Catherine's plan to stay succeed?"
+      ]
+    },
+    {
+      "id": "r2",
+      "event_refs": [
+        "EP47:E5"
+      ],
+      "claim": "The High Council has blocked the marriage registry.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "Will the marriage proceed within ten days?",
+        "How will the council's block be overcome?"
+      ]
+    },
+    {
+      "id": "r3",
+      "event_refs": [
+        "EP47:E33"
+      ],
+      "claim": "Lady Ashbourne accuses Catherine of aiding a poison in her veins.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "Did Catherine aid the poisoning?"
+      ]
+    },
+    {
+      "id": "r4",
+      "event_refs": [
+        "EP47:E57"
+      ],
+      "claim": "Juliana describes Catherine as an impostor.",
+      "spoiler_significance_0_10": 7.0,
+      "creates_questions": [
+        "What is Catherine's true identity?",
+        "Is the impostor claim substantiated?"
+      ]
+    },
+    {
+      "id": "r5",
+      "event_refs": [
+        "EP47:E24"
+      ],
+      "claim": "Alexander states that he and Juliana will stand before the King and God again within ten days.",
+      "spoiler_significance_0_10": 4.0,
+      "creates_questions": [
+        "Will the ten-day marriage ceremony take place?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "Who is the unnamed conspirator and what is his full involvement with Catherine?",
+      "introduced_by": [
+        "EP47:E4",
+        "EP47:E5"
+      ]
+    },
+    {
+      "question": "Will the High Council or Father Thomas overturn Alexander and Juliana's marriage?",
+      "introduced_by": [
+        "EP47:E12",
+        "EP47:E5"
+      ]
+    },
+    {
+      "question": "Is Catherine truly an impostor, and what is her real identity?",
+      "introduced_by": [
+        "EP47:E57"
+      ]
+    },
+    {
+      "question": "Did Catherine aid the poisoning of Lady Ashbourne?",
+      "introduced_by": [
+        "EP47:E33"
+      ]
+    },
+    {
+      "question": "What is Rupert's fate in the undercroft cells?",
+      "introduced_by": [
+        "EP47:E3"
+      ]
+    },
+    {
+      "question": "Will Catherine remain on the estate as a scullery maid, and will she comply with the terms?",
+      "introduced_by": [
+        "EP47:E63",
+        "EP47:E69"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,745 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "ep_026",
+  "episode_number": 26,
+  "metadata": {
+    "logline": "While secretly administering a charcoal antidote to the poisoned Dowager Duchess in the dead of night, Juliana is stunned when the Duchess suddenly recognizes a distinctive family ring on her hand and fiercely demands the truth about her identity.",
+    "continuity_notes": "Following her encounter with Alexander in the forest where she vowed to protect the Duchess, Juliana sneaks into the bedchamber at Ashburg Manor to deliver the remaining antidote before Rupert and Catherine's poison takes full hold."
+  },
+  "source": {
+    "file": "025_episode-026-Episode 1678579.txt",
+    "sha256": "6ffdcf181c0b1067f4524a1696da17735a23b94498c443f342516aab7fe15966",
+    "complete": true
+  },
+  "scenes": [
+    {
+      "start_ms": 0,
+      "end_ms": 120880,
+      "id": "sc_001",
+      "heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – NIGHT"
+    }
+  ],
+  "events": [
+    {
+      "start_ms": 0,
+      "end_ms": 5800,
+      "id": "e_001",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Wide shot framed through heavy bed curtains in a dark, candlelit bedchamber. Juliana in her maid's apron sits vigilantly beside the canopied bed where the frail Dowager Duchess lies.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        14,
+        16
+      ]
+    },
+    {
+      "start_ms": 0,
+      "end_ms": 5500,
+      "id": "e_002",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana glances nervously back toward the door, ensuring no guards are near, before turning her full attention back to the ailing Duchess.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        18,
+        20
+      ]
+    },
+    {
+      "start_ms": 5800,
+      "end_ms": 10500,
+      "id": "e_003",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana's hands unscrewing the glass dropper from a small amber medicine bottle filled with dark medicinal liquid.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        22,
+        24
+      ]
+    },
+    {
+      "start_ms": 6500,
+      "end_ms": 9000,
+      "id": "e_004",
+      "scene_id": "sc_001",
+      "type": "sound",
+      "text": "Tense, atmospheric orchestral score builds softly in the background.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        26,
+        28
+      ]
+    },
+    {
+      "start_ms": 10500,
+      "end_ms": 14200,
+      "id": "e_005",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the Dowager Duchess resting against pale pillows as her heavy eyelids slowly open, her gaze weak and disoriented.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        30,
+        32
+      ]
+    },
+    {
+      "start_ms": 11000,
+      "end_ms": 14000,
+      "id": "e_006",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "The Dowager Duchess blinks against the dim lamplight, turning her head toward Juliana.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        34,
+        36
+      ]
+    },
+    {
+      "start_ms": 14200,
+      "end_ms": 20500,
+      "id": "e_007",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle medium two-shot looking past Juliana's silhouette down to the Duchess in bed.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        38,
+        40
+      ]
+    },
+    {
+      "start_ms": 14200,
+      "end_ms": 20200,
+      "id": "e_008",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Who are you? Speak to me. I have not seen your face before.\"",
+      "speaker": "DOWAGER DUCHESS",
+      "delivery": "Weak, Raspy",
+      "source_lines": [
+        42,
+        44
+      ]
+    },
+    {
+      "start_ms": 20500,
+      "end_ms": 25800,
+      "id": "e_009",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana leaning over the bed, holding the dropper bottle carefully toward the Duchess's mouth, her expression urgent yet tender.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        46,
+        48
+      ]
+    },
+    {
+      "start_ms": 20600,
+      "end_ms": 25400,
+      "id": "e_010",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Please, Your Grace. Drink the last of this antidote. Drink it slowly.\"",
+      "speaker": "JULIANA",
+      "delivery": "Urgent, Reassuring",
+      "source_lines": [
+        50,
+        52
+      ]
+    },
+    {
+      "start_ms": 25800,
+      "end_ms": 28500,
+      "id": "e_011",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Extreme close-up of the Duchess taking drops of the dark liquid from the glass bottle onto her lips.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        54,
+        56
+      ]
+    },
+    {
+      "start_ms": 25800,
+      "end_ms": 28400,
+      "id": "e_012",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "The Duchess swallows the remedy with difficulty as Juliana carefully tilts the amber bottle.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        58,
+        60
+      ]
+    },
+    {
+      "start_ms": 28500,
+      "end_ms": 30800,
+      "id": "e_013",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium two-shot as Juliana withdraws the medicine bottle, standing beside the bedside lamp.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        62,
+        64
+      ]
+    },
+    {
+      "start_ms": 30800,
+      "end_ms": 35800,
+      "id": "e_014",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the Dowager Duchess observing Juliana with faint recognition through her exhaustion.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        66,
+        68
+      ]
+    },
+    {
+      "start_ms": 30800,
+      "end_ms": 35500,
+      "id": "e_015",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You... you are no common servant. You took Catherine's whip for me the other day.\"",
+      "speaker": "DOWAGER DUCHESS",
+      "delivery": "Faint, Discerning",
+      "source_lines": [
+        70,
+        72
+      ]
+    },
+    {
+      "start_ms": 35800,
+      "end_ms": 40200,
+      "id": "e_016",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana, her eyes reflecting quiet resolve and pain.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        74,
+        76
+      ]
+    },
+    {
+      "start_ms": 36000,
+      "end_ms": 39800,
+      "id": "e_017",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I did what I had to. It does not change my duty.\"",
+      "speaker": "JULIANA",
+      "delivery": "Humble, Sincere",
+      "source_lines": [
+        78,
+        80
+      ]
+    },
+    {
+      "start_ms": 40200,
+      "end_ms": 43200,
+      "id": "e_018",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium two-shot as Juliana leans closer to tuck the blankets securely over the Duchess.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        82,
+        84
+      ]
+    },
+    {
+      "start_ms": 40300,
+      "end_ms": 43000,
+      "id": "e_019",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Rest now, Your Grace. You are safe tonight.\"",
+      "speaker": "JULIANA",
+      "delivery": "Gentle, Calming",
+      "source_lines": [
+        86,
+        88
+      ]
+    },
+    {
+      "start_ms": 43200,
+      "end_ms": 47500,
+      "id": "e_020",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana looking around the shadowy room, her voice dropping to a tense whisper.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        90,
+        92
+      ]
+    },
+    {
+      "start_ms": 43500,
+      "end_ms": 47000,
+      "id": "e_021",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"If the guards hear us, we are both dead.\"",
+      "speaker": "JULIANA",
+      "delivery": "Hushed, Tense Whisper",
+      "source_lines": [
+        94,
+        96
+      ]
+    },
+    {
+      "start_ms": 47500,
+      "end_ms": 50800,
+      "id": "e_022",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Static shot of the heavy carved double doors to the bedchamber, left slightly ajar with a sliver of hallway candlelight gleaming through the gap.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        98,
+        100
+      ]
+    },
+    {
+      "start_ms": 50800,
+      "end_ms": 55800,
+      "id": "e_023",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the Dowager Duchess lying back, processing Juliana's warning as dark realization settles into her face.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        102,
+        104
+      ]
+    },
+    {
+      "start_ms": 52500,
+      "end_ms": 55500,
+      "id": "e_024",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "The Duchess clutches the blanket against her chest, her breathing quickening with dismay.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        106,
+        108
+      ]
+    },
+    {
+      "start_ms": 55800,
+      "end_ms": 62500,
+      "id": "e_025",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of the Duchess looking upward toward Juliana, her voice trembling with tragic certainty.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        110,
+        112
+      ]
+    },
+    {
+      "start_ms": 56000,
+      "end_ms": 62000,
+      "id": "e_026",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?\"",
+      "speaker": "DOWAGER DUCHESS",
+      "delivery": "Trembling, Heartbroken",
+      "source_lines": [
+        114,
+        116
+      ]
+    },
+    {
+      "start_ms": 62500,
+      "end_ms": 67000,
+      "id": "e_027",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Juliana leaning over the edge of the mattress, nodding earnestly to soothe her fears.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        118,
+        120
+      ]
+    },
+    {
+      "start_ms": 62600,
+      "end_ms": 66700,
+      "id": "e_028",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Yes. But the charcoal is fighting the poison. You are safe now.\"",
+      "speaker": "JULIANA",
+      "delivery": "Reassuring, Steadfast",
+      "source_lines": [
+        122,
+        124
+      ]
+    },
+    {
+      "start_ms": 67000,
+      "end_ms": 71800,
+      "id": "e_029",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the small amber dropper bottle sitting atop the polished wooden bedside table in the dim glow of the lamp.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        126,
+        128
+      ]
+    },
+    {
+      "start_ms": 71800,
+      "end_ms": 79600,
+      "id": "e_030",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of the Dowager Duchess looking intently at Juliana from her pillows, studying her bearing.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        130,
+        132
+      ]
+    },
+    {
+      "start_ms": 73800,
+      "end_ms": 79400,
+      "id": "e_031",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Then tell me... why is a girl of such noble spirit working as a common maid?\"",
+      "speaker": "DOWAGER DUCHESS",
+      "delivery": "Curious, Searching",
+      "source_lines": [
+        134,
+        136
+      ]
+    },
+    {
+      "start_ms": 79600,
+      "end_ms": 86500,
+      "id": "e_032",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana, her chin lifting with dignified sorrow and quiet defiance.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        138,
+        140
+      ]
+    },
+    {
+      "start_ms": 80000,
+      "end_ms": 85800,
+      "id": "e_033",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Because my family cast me out to rot. I have nothing left in this world but my honor.\"",
+      "speaker": "JULIANA",
+      "delivery": "Painful, Proud",
+      "source_lines": [
+        142,
+        144
+      ]
+    },
+    {
+      "start_ms": 86500,
+      "end_ms": 90800,
+      "id": "e_034",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium tracking down Juliana's apron to her hand as she rests it against the bed linens, revealing a distinctive engraved signet ring on her finger.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        146,
+        148
+      ]
+    },
+    {
+      "start_ms": 87000,
+      "end_ms": 90500,
+      "id": "e_035",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana rests her right hand against the edge of the bedcover, unwittingly placing the unique ring directly within the Duchess's line of sight.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        150,
+        152
+      ]
+    },
+    {
+      "start_ms": 90200,
+      "end_ms": 92000,
+      "id": "e_036",
+      "scene_id": "sc_001",
+      "type": "sound",
+      "text": "A sharp, stunned gasp.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        154,
+        156
+      ]
+    },
+    {
+      "start_ms": 90800,
+      "end_ms": 95000,
+      "id": "e_037",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Extreme close-up of the Dowager Duchess gasping sharply, her eyes widening in profound shock as all color drains from her face.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        158,
+        160
+      ]
+    },
+    {
+      "start_ms": 90800,
+      "end_ms": 95000,
+      "id": "e_038",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "The Duchess's mouth hangs open in pure disbelief as she stares fixedly at Juliana's hand.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        162,
+        164
+      ]
+    },
+    {
+      "start_ms": 95000,
+      "end_ms": 100000,
+      "id": "e_039",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of the Duchess pushing herself up against the headboard, trembling as she stretches out her frail hand.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        166,
+        168
+      ]
+    },
+    {
+      "start_ms": 96000,
+      "end_ms": 99800,
+      "id": "e_040",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Your hand... Let me see your hand.\"",
+      "speaker": "DOWAGER DUCHESS",
+      "delivery": "Breathless, Shaken",
+      "source_lines": [
+        170,
+        172
+      ]
+    },
+    {
+      "start_ms": 100000,
+      "end_ms": 105500,
+      "id": "e_041",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana reacting with confusion and growing concern at the elder woman's sudden frenzy.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        174,
+        176
+      ]
+    },
+    {
+      "start_ms": 100500,
+      "end_ms": 105000,
+      "id": "e_042",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Your Grace? What is wrong? You look as though you've seen a ghost.\"",
+      "speaker": "JULIANA",
+      "delivery": "Confused, Alarmed",
+      "source_lines": [
+        178,
+        180
+      ]
+    },
+    {
+      "start_ms": 105500,
+      "end_ms": 109000,
+      "id": "e_043",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up shot of the Duchess's withered, shaking hand reaching across the blanket toward Juliana's arm.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        182,
+        184
+      ]
+    },
+    {
+      "start_ms": 106000,
+      "end_ms": 109000,
+      "id": "e_044",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "The Duchess reaches outward with trembling fingers, grasping frantically for Juliana.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        186,
+        188
+      ]
+    },
+    {
+      "start_ms": 108800,
+      "end_ms": 110000,
+      "id": "e_045",
+      "scene_id": "sc_001",
+      "type": "sound",
+      "text": "A sudden sharp rustle of fabric as her fingers snap tight.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        190,
+        192
+      ]
+    },
+    {
+      "start_ms": 109000,
+      "end_ms": 110800,
+      "id": "e_046",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Tight shot of the Duchess's frail hand clamping down with fierce, unexpected strength onto Juliana's dark sleeve.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        194,
+        196
+      ]
+    },
+    {
+      "start_ms": 109200,
+      "end_ms": 110600,
+      "id": "e_047",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Do not move!\"",
+      "speaker": "DOWAGER DUCHESS",
+      "delivery": "Stern, Desperate",
+      "source_lines": [
+        198,
+        200
+      ]
+    },
+    {
+      "start_ms": 110800,
+      "end_ms": 115800,
+      "id": "e_048",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the Dowager Duchess looking up at Juliana with overwhelming urgency and tears brimming in her wide eyes.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        202,
+        204
+      ]
+    },
+    {
+      "start_ms": 111000,
+      "end_ms": 115500,
+      "id": "e_049",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Where... where... Where did you get this ring? Speak to me!\"",
+      "speaker": "DOWAGER DUCHESS",
+      "delivery": "Intense, Demanding",
+      "source_lines": [
+        206,
+        208
+      ]
+    },
+    {
+      "start_ms": 115800,
+      "end_ms": 119500,
+      "id": "e_050",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Juliana frozen in shock, her breath catching as the Duchess's desperate words echo in the silence of the room.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        210,
+        212
+      ]
+    },
+    {
+      "start_ms": 119500,
+      "end_ms": 120880,
+      "id": "e_051",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Tight close-up of the Dowager Duchess's two weathered hands tightly clasping Juliana's hand, holding the signet ring between them as a dramatic orchestral cliffhanger chord swells, cutting sharply to black.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        214,
+        216
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "start_ms": 0,
+      "end_ms": 120880
+    }
+  ],
+  "warnings": []
+}

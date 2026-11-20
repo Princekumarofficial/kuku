@@ -1,0 +1,54 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "opp_1",
+      "episode_id": "ep_021",
+      "concept": "A desperate village girl bursts into the barn saying her brother Toby is dying, and the healer Lady Juliana is refused help and left with no clinic.",
+      "hook_refs": [
+        "EP21:E5"
+      ],
+      "ending_refs": [
+        "EP21:E19"
+      ],
+      "context_refs": [
+        "EP21:E10"
+      ],
+      "why_promising": "The clip opens on Prudence's urgent plea within the first 3 seconds, and the ending anchor (Juliana saying her cottage is ashes and she has only coltsfoot) lands a grim obstacle of about 26.6 seconds. Toby's burning chest is shown within the clip, so viewers can follow the stakes without prior context. Both anchors fall within the first coverage interval."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_2",
+      "episode_id": "ep_021",
+      "concept": "Prudence kneels and begs Lady Juliana to save seven-year-old Toby, and Juliana takes her mother's herbal ledger and treats the boy with steam until he sleeps.",
+      "hook_refs": [
+        "EP21:E22"
+      ],
+      "ending_refs": [
+        "EP21:E49"
+      ],
+      "context_refs": [
+        "EP21:E28",
+        "EP21:E32"
+      ],
+      "why_promising": "The hook is Prudence's plea 'He is only seven!' at the start of the clip, and the ending anchor is Juliana's 'Let the vapor clear your chest' at about 39.4 seconds, before Toby falls asleep and the resolution begins. Toby's sickness and Juliana's alarm are shown within the clip, so the stakes are clear. The clip stays inside the second coverage interval and leaves the cure unresolved."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_3",
+      "episode_id": "ep_021",
+      "concept": "Prudence hints at a dark secret in the manor, and Lady Juliana is startled into asking whether the Dowager Duchess is ill, which leads to the claim that she is dying of a strange illness.",
+      "hook_refs": [
+        "EP21:E64"
+      ],
+      "ending_refs": [
+        "EP21:E76"
+      ],
+      "context_refs": [
+        "EP21:E68",
+        "EP21:E70"
+      ],
+      "why_promising": "The clip starts on Prudence's bitter remark about the manor, the Dowager Duchess's name is raised within the clip, and the ending anchor is the unresolved cliffhanger lasting about 23 seconds. The hook is weaker than the other two because its opening line is less specific. It is included because it is the only route to this strong ending within a single coverage interval."
+    }
+  ]
+}

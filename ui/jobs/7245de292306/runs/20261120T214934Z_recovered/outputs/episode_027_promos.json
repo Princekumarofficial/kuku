@@ -1,0 +1,186 @@
+{
+  "schema_version": "1.0",
+  "series_id": "series_001",
+  "scope": {
+    "type": "episode",
+    "episode_id": "ep_027"
+  },
+  "promos": [
+    {
+      "candidate_id": "c_a57055fd5e4e3b5e",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 44200,
+          "end_ms": 66500,
+          "episode_id": "ep_027"
+        }
+      ],
+      "duration_ms": 22300,
+      "hook": {
+        "description": "The clip opens on a quiet, odd question from the Duchess and within the first 3000ms a violent pounding on the doors (starting at 2200ms) jolts Juliana into alarm, creating immediate tension.",
+        "evidence_refs": [
+          "EP27:E25",
+          "EP27:E26",
+          "EP27:E27"
+        ]
+      },
+      "cliffhanger": {
+        "description": "In the final 3000ms Lady Catherine points at Juliana and demands 'Show me your hand' while Juliana has just denied hiding anything, leaving the question of what is concealed unanswered at the clip's end.",
+        "evidence_refs": [
+          "EP27:E38",
+          "EP27:E39"
+        ]
+      },
+      "why_it_works": "A sudden pounding at the door and an accusatory demand to reveal a hidden hand create immediate tension and an open question that pulls the viewer forward.",
+      "scores": {
+        "hook": 8.0,
+        "cliffhanger": 8.0,
+        "standalone": 5.0,
+        "emotion": 7.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 7.1
+      },
+      "warnings": [
+        "Characters and stakes are not introduced, so the confrontation lacks grounding for a first-time viewer",
+        "The opening question about the husband's name is left unexplained and may read as arbitrary",
+        "Juliana's denial and the hidden hand are set up without any evidence of what is concealed",
+        "Some camera-only segments carry the scene without establishing relationships",
+        "Spoilers not checked",
+        "Identity and relationship of the Duchess, Juliana, Lady Catherine and the Blond Nobleman",
+        "Who the husband referenced by the Duchess is and why the question matters",
+        "Why the maid is in the private chamber and what Juliana was doing there",
+        "What Juliana is hiding and why the hand matters",
+        "Significance of the royal guard's presence",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 1,
+      "promo_id": "p_001"
+    },
+    {
+      "candidate_id": "c_319530fe97c3c62b",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 63500,
+          "end_ms": 122600,
+          "episode_id": "ep_027"
+        }
+      ],
+      "duration_ms": 59100,
+      "hook": {
+        "description": "Opens within 0-3000ms with a pointed finger and the immediate demand 'Show me your hand.' followed by a confrontation about a hidden object, creating instant tension. The hook evidence is within the opening window as required.",
+        "evidence_refs": [
+          "EP27:E38",
+          "EP27:E39",
+          "EP27:E41"
+        ]
+      },
+      "cliffhanger": {
+        "description": "The final 3000ms reveal 'Someone has been poisoning Her Grace' within the closing window, which escalates the accusation after the Nobleman's 'Poison.' Juliana's fate and the reaction to the accusation are not shown, so the scene ends on an open threat.",
+        "evidence_refs": [
+          "EP27:E76",
+          "EP27:E77"
+        ]
+      },
+      "why_it_works": "A tense interrogation over a hidden bottle escalates from 'Show me your hand' to the chilling reveal that someone is poisoning the Duchess, leaving the threat unresolved at the end.",
+      "scores": {
+        "hook": 8.0,
+        "cliffhanger": 7.0,
+        "standalone": 5.0,
+        "emotion": 8.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 6.95
+      },
+      "warnings": [
+        "Requires significant unseen background to understand the stakes and relationships",
+        "The accusation's consequences are not shown, so the outcome feels open rather than dramatically resolved",
+        "Several character roles are inferred only from dialogue and framing",
+        "Dense back-and-forth dialogue may be hard to follow without prior knowledge",
+        "Spoilers not checked",
+        "Identity and role of the Duchess and her relationship to the characters",
+        "Why Juliana is considered a new maid and what house rules apply",
+        "What the amber dropper bottle contains and why it matters beyond the dialogue",
+        "Who the Blond Nobleman is and his authority in the household",
+        "Why the physicians' treatment is being questioned and what 'dying' means in this setting",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 2,
+      "promo_id": "p_002"
+    },
+    {
+      "candidate_id": "c_cdf45fecd94732df",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 118700,
+          "end_ms": 149200,
+          "episode_id": "ep_027"
+        }
+      ],
+      "duration_ms": 30500,
+      "hook": {
+        "description": "The clip opens immediately on the word 'Poison.' at 0-1100ms, followed by the accusation 'Someone has been poisoning Her Grace' at 1700-3900ms. A first-time viewer is pulled in at once. The sequence escalates through a false accusation and a seizure of Juliana, and the final shot at 28800-30500ms keeps the stakes active.",
+        "evidence_refs": [
+          "EP27:E75",
+          "EP27:E77",
+          "EP27:E94"
+        ]
+      },
+      "cliffhanger": {
+        "description": "Juliana is being dragged toward the doorway and looks back at the bedridden Duchess at the end. Her fate, the truth about the vial, and whether the accusation holds are all left open within the clip. It is not a resolved ending.",
+        "evidence_refs": [
+          "EP27:E93",
+          "EP27:E94"
+        ]
+      },
+      "why_it_works": "A sharp opening accusation of poisoning escalates into a false charge and Juliana's violent arrest, leaving her fate unresolved and the viewer emotionally invested despite limited context.",
+      "scores": {
+        "hook": 8.0,
+        "cliffhanger": 7.0,
+        "standalone": 5.0,
+        "emotion": 8.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 6.95
+      },
+      "warnings": [
+        "Key characters and relationships are not introduced, so the stakes rely on inference",
+        "The contents of the vial and the poisoning claim are not explained",
+        "Lady Catherine's motive is not clear from the clip alone",
+        "Dialogue-heavy middle section may slow pacing for a first-time viewer",
+        "Spoilers not checked",
+        "Identity and role of Juliana",
+        "Identity of the Blond Nobleman and his authority",
+        "Relationship of Lady Catherine to the Duchess and Juliana",
+        "Who the bedridden Duchess is and why she is ill",
+        "Contents and origin of the vial",
+        "Meaning of 'Her Grace' and the room's setting",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 3,
+      "promo_id": "p_003"
+    }
+  ],
+  "construction": {
+    "opportunities": 3,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "DURATION_OUT_OF_RANGE": 2735,
+      "PARTIAL_DIALOGUE": 385
+    }
+  },
+  "rejected_candidates": [
+    {
+      "candidate_id": "c_f8189f8c8e9d945e",
+      "reasons": [
+        "HEAVY_TIME_OVERLAP"
+      ]
+    }
+  ]
+}

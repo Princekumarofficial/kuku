@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_8b32c33ce42683cd DURATION_MS=23500\nSEGMENT 1 (playback order)\nEP21:E60 0-300 ACTION: Lady Juliana takes Prudence's trembling hands into hers, smiling with heartfelt warmth.\nEP21:E61 0-500 CAMERA: Close-up of Lady Juliana comforting Prudence warmly.\nEP21:E64 500-4000 PRUDENCE: \"At the grand manor, they ignore us. They only care about their own luxury.\"\nEP21:E63 500-6000 CAMERA: Low-angle shot past sleeping Toby toward Prudence standing in the room, her expression darkening with anger.\nEP21:E65 4100-5900 PRUDENCE: \"But their gold cannot buy them health.\"\nEP21:E66 6000-7700 ACTION: Lady Juliana turns sharply, her eyes widening with sudden recognition.\nEP21:E67 6000-8700 CAMERA: Close-up of Lady Juliana looking directly into Prudence's eyes with startled concern.\nEP21:E68 6000-8700 LADY JULIANA: \"What do you mean? Is someone ill? The Dowager Duchess?\"\nEP21:E69 8700-10700 CAMERA: Low-angle cut to Toby sleeping peacefully as the fire crackles behind him.\nEP21:E70 8700-10700 PRUDENCE: \"She is dying, Lady Juliana.\"\nEP21:E72 10700-12900 PRUDENCE: \"A strange, mysterious illness is eating her away.\"\nEP21:E71 10700-16300 CAMERA: Close-up of Prudence leaning in close to Lady Juliana, whispering with grave intensity.\nEP21:E73 13000-17900 PRUDENCE: \"Inside that massive house with all their wealth, she is fading to nothing, and no one can stop it.\"\nEP21:E74 16300-18000 CAMERA: Brief cut back to Toby sleeping peacefully on his straw pillow by the warm fireplace.\nEP21:E75 18000-23500 ACTION: Lady Juliana sits motionless at the rustic wooden table, her bandaged hands holding open her late mother's leather-bound herbal ledger. Her eyes reflect deep apprehension as the dire truth settles over her.\nEP21:E76 18000-23500 CAMERA: Slow push-in on Lady Juliana staring down at the ancient pages, her expression filled with profound realization and growing resolve as dramatic strings swell to a gripping cliffhanger.",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

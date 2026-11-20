@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_54e059df263968b6",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP34:E1",
+      "EP34:E2"
+    ],
+    "reason": "The opening shot of a sunlit courtroom with a confined prisoner is followed at 1200ms by the judge naming witchcraft, unlawful healing, and poisoning, which raises stakes immediately."
+  },
+  "cliffhanger": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP34:E23",
+      "EP34:E24"
+    ],
+    "reason": "The clip ends mid-trial with the judge turning to Prudence and asking whether she served beside the accused, while Prudence stands trembling and ashamed. Her answer and its consequences are not shown, so the question is left open.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 6.0,
+    "missing_context": [
+      "Nature and source of the poisoning accusation is not explained",
+      "Why the grimoire is considered forbidden is not explained",
+      "Relationship between the aristocratic Lord and the accused is not established",
+      "Who Prudence is and why her testimony matters is not established",
+      "Cause of Lady Juliana's bruised cheekbone is not shown"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The judge's furious gavel strike, Lady Juliana's defiant admission, the Lord's smirk, and Prudence's shame build tension and sympathy within the clip."
+  },
+  "weaknesses": [
+    "Clip is mostly courtroom dialogue with limited visual variety",
+    "Lord's motive and malicious satisfaction are implied but not explained",
+    "Poisoning charge is named but never connected to evidence in the clip",
+    "Prudence is introduced abruptly in the final second with no prior setup",
+    "Viewer must infer the stakes of Juliana's admission without further context"
+  ],
+  "one_line_why_it_works": "A tense courtroom confrontation escalates from denial to defiant admission and ends on a new witness's shameful silence, leaving the viewer wanting to know what Prudence will say."
+}

@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_dfd2e2beb703c748",
+  "hook": {
+    "score_0_10": 5.0,
+    "evidence_refs": [
+      "EP35:E13",
+      "EP35:E14",
+      "EP35:E24"
+    ],
+    "reason": "The opening starts with a close-up of a gloved hand opening a door with a creaking sound, which gives a quiet mood but no immediate question. The emotional reunion lands at the end, but the opening itself is slow."
+  },
+  "cliffhanger": {
+    "score_0_10": 2.0,
+    "evidence_refs": [
+      "EP35:E24"
+    ],
+    "reason": "The clip ends on a resolved emotional reunion. The mother's line 'You're alive' implies Alexander was presumed dead, which raises a question, but no new threat or unresolved event is shown.",
+    "unresolved_at_end": false
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Alexander and his mother are to the story",
+      "Why the mother believed Alexander was dead",
+      "What the tactical map shows and why it matters",
+      "Why the cabin reunion is significant",
+      "Who the people in the cabin are and what happened before the door opened"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Tears, a trembling chin, a shocked expression, and the embrace with 'You're alive' create a strong emotional payoff even without full context."
+  },
+  "weaknesses": [
+    "The first few seconds show a door opening without establishing stakes or characters",
+    "Viewers do not know why the mother thought Alexander was dead",
+    "The map and lantern-lit planning scene are not explained",
+    "The clip resolves its emotional beat, so it gives little reason to keep watching",
+    "Character identity relies on names shown in dialogue without context"
+  ],
+  "one_line_why_it_works": "A silent door opening builds to a surprised reunion, with a mother's tears and 'You're alive' delivering a clear emotional payoff."
+}

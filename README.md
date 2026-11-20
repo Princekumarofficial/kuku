@@ -537,6 +537,7 @@ runs/
       episode_001_promos.json
       series_promos.json
       report.md
+      human_readable_ads.md          # generated on demand from saved artifacts
 ```
 
 Artifacts appear as their stages complete. Parse-only writes configuration, status,
@@ -545,6 +546,18 @@ and parsed artifacts. Failed runs can contain partial artifacts.
 **Read `outputs/series_promos.json` for global recommendations.**
 `candidates/series.json` contains only the optional cross-episode pool; it can be
 empty while global results contain valid episode clips.
+
+To turn a saved run into readable promo scripts with original dialogue, visual cues,
+and source timecodes, run:
+
+```powershell
+python scripts/render_ads.py runs/<run-id>
+```
+
+By default this writes `outputs/human_readable_ads.md`, containing both the
+series-selected promos and episode selections. Use `--scope series` or
+`--scope episode` to export only one set. The exporter checks candidate events
+against parsed source artifacts; it does not invent voiceovers or create video edits.
 
 ### 8.2 Contracts and identifiers
 
@@ -1003,6 +1016,8 @@ See [PLAN.md](PLAN.md) for the original design and broader acceptance criteria.
 │   ├── pipeline.py               # Sequential orchestration
 │   ├── report.py                 # Markdown report
 │   └── storage.py                # JSON and atomic file replacement
+├── scripts/
+│   └── render_ads.py              # Source-backed human-readable promo scripts
 ├── tests/                        # Offline and dataset integration tests
 ├── .env.example                  # Credential variable names
 ├── .gitignore                    # Environments, secrets, run artifacts

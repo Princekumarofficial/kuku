@@ -1,0 +1,773 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "ep_041",
+  "episode_number": 41,
+  "metadata": {
+    "logline": "At the height of Catherine and Rupert's lavish wedding, Juliana is paraded before high society in chains to be publicly disgraced—until a deafening explosion shatters the cathedral entrance, heralding Alexander's vengeful assault.",
+    "continuity_notes": "Follows Episode 40 where Rupert and Catherine met at the altar; Catherine halts the vows to stage a public humiliation of Juliana, unaware that Alexander's forces are already detonating the cathedral gates."
+  },
+  "source": {
+    "file": "040_episode-041-Episode 1686801.txt",
+    "sha256": "80e99739af6910a1947da7e3b729f9a79f1acc371d8d09c2f8028786b1c3a6ef",
+    "complete": true
+  },
+  "scenes": [
+    {
+      "start_ms": 0,
+      "end_ms": 96090,
+      "id": "sc_001",
+      "heading": "INT. CATHEDRAL – CONTINUOUS"
+    }
+  ],
+  "events": [
+    {
+      "start_ms": 0,
+      "end_ms": 1800,
+      "id": "e_001",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Wide symmetrical shot looking down the candlelit, flower-strewn aisle toward the altar where Rupert, Catherine, and the Priest stand.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        14,
+        16
+      ]
+    },
+    {
+      "start_ms": 1800,
+      "end_ms": 4500,
+      "id": "e_002",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Catherine abruptly pulls away from Rupert and raises her white-gloved hand high, commanding silence from the congregation.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        18,
+        20
+      ]
+    },
+    {
+      "start_ms": 1800,
+      "end_ms": 2800,
+      "id": "e_003",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Wait.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Imperious, Commanding",
+      "source_lines": [
+        22,
+        24
+      ]
+    },
+    {
+      "start_ms": 4500,
+      "end_ms": 8500,
+      "id": "e_004",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot tracking Catherine as she pivots toward the seated aristocracy, her veil floating gracefully behind her.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        26,
+        28
+      ]
+    },
+    {
+      "start_ms": 4900,
+      "end_ms": 8200,
+      "id": "e_005",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Before I become Duchess of Ashburgh...\"",
+      "speaker": "CATHERINE",
+      "delivery": "Haughty, Loud",
+      "source_lines": [
+        30,
+        32
+      ]
+    },
+    {
+      "start_ms": 8500,
+      "end_ms": 13000,
+      "id": "e_006",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Catherine's face, her lips curling into a sadistic, triumphant sneer.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        34,
+        36
+      ]
+    },
+    {
+      "start_ms": 8500,
+      "end_ms": 12700,
+      "id": "e_007",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"...I want everyone to see what happens to a woman who dares defy this family.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Cruel, Resonant",
+      "source_lines": [
+        38,
+        40
+      ]
+    },
+    {
+      "start_ms": 13000,
+      "end_ms": 15500,
+      "id": "e_008",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Two-shot profile of Rupert and Catherine. Rupert turns to her with mild caution.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        42,
+        44
+      ]
+    },
+    {
+      "start_ms": 13200,
+      "end_ms": 14000,
+      "id": "e_009",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Catherine...\"",
+      "speaker": "BLOND NOBLEMAN",
+      "delivery": "Subdued, Inquiring",
+      "source_lines": [
+        46,
+        48
+      ]
+    },
+    {
+      "start_ms": 14000,
+      "end_ms": 15300,
+      "id": "e_010",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Bring her in.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Callous, Projecting",
+      "source_lines": [
+        50,
+        52
+      ]
+    },
+    {
+      "start_ms": 15500,
+      "end_ms": 17500,
+      "id": "e_011",
+      "scene_id": "sc_001",
+      "type": "sound",
+      "text": "Heavy wooden creak of the cathedral double doors swinging open.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        54,
+        56
+      ]
+    },
+    {
+      "start_ms": 15500,
+      "end_ms": 20000,
+      "id": "e_012",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Wide shot from behind the altar down the aisle as the great church doors slowly open, revealing the silhouette of three figures against the daylight.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        58,
+        60
+      ]
+    },
+    {
+      "start_ms": 17500,
+      "end_ms": 20000,
+      "id": "e_013",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana, dressed in a coarse drab prison dress with a numbered identification badge, is marched forward by two armed constables holding her by the arms.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        62,
+        64
+      ]
+    },
+    {
+      "start_ms": 20000,
+      "end_ms": 22800,
+      "id": "e_014",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Extreme close-up of Juliana's scarred, dirtied wrists bound tight in heavy iron shackles.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        66,
+        68
+      ]
+    },
+    {
+      "start_ms": 22800,
+      "end_ms": 26000,
+      "id": "e_015",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Intense close-up of Juliana's bruised, dirt-streaked face. Her piercing blue eyes burn with fierce dignity despite her captive state.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        70,
+        72
+      ]
+    },
+    {
+      "start_ms": 26000,
+      "end_ms": 28800,
+      "id": "e_016",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Catherine standing beside the altar, watching Juliana's entrance with gloating satisfaction.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        74,
+        76
+      ]
+    },
+    {
+      "start_ms": 26800,
+      "end_ms": 28400,
+      "id": "e_017",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"There she is.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Smug, Taunting",
+      "source_lines": [
+        78,
+        80
+      ]
+    },
+    {
+      "start_ms": 28800,
+      "end_ms": 30000,
+      "id": "e_018",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium tracking shot of Juliana marching between the stern constables down the central aisle toward the altar.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        82,
+        84
+      ]
+    },
+    {
+      "start_ms": 30000,
+      "end_ms": 34000,
+      "id": "e_019",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of a seated aristocratic couple in the pews, whispering and sneering behind an ivory lace fan.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        86,
+        88
+      ]
+    },
+    {
+      "start_ms": 30500,
+      "end_ms": 31600,
+      "id": "e_020",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Look at her.\"",
+      "speaker": "NOBLEWOMAN",
+      "delivery": "Gleeful, Whispering",
+      "source_lines": [
+        90,
+        92
+      ]
+    },
+    {
+      "start_ms": 31700,
+      "end_ms": 33800,
+      "id": "e_021",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"She actually came back to the chapel.\"",
+      "speaker": "NOBLEMAN",
+      "delivery": "Mocking, Chuckling",
+      "source_lines": [
+        94,
+        96
+      ]
+    },
+    {
+      "start_ms": 34000,
+      "end_ms": 36800,
+      "id": "e_022",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the noblewoman giggling with hand over mouth, glancing spitefully at the disgraced bride.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        98,
+        100
+      ]
+    },
+    {
+      "start_ms": 34800,
+      "end_ms": 36800,
+      "id": "e_023",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Not as a bride this time.\"",
+      "speaker": "NOBLEWOMAN",
+      "delivery": "Scornful, Smug",
+      "source_lines": [
+        102,
+        104
+      ]
+    },
+    {
+      "start_ms": 36800,
+      "end_ms": 39800,
+      "id": "e_024",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of two senior aristocrats in the carved choir stalls, resting on their canes and nodding in smug agreement.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        106,
+        108
+      ]
+    },
+    {
+      "start_ms": 39800,
+      "end_ms": 43800,
+      "id": "e_025",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close profile of Juliana as she halts in the center aisle, lifting her chin proudly to face the sneering onlookers.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        110,
+        112
+      ]
+    },
+    {
+      "start_ms": 41000,
+      "end_ms": 44200,
+      "id": "e_026",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Lady Juliana Ashcroft. Look around.\"",
+      "speaker": "CATHERINE",
+      "delivery": "O.S.) (Derisive, Projecting",
+      "source_lines": [
+        114,
+        116
+      ]
+    },
+    {
+      "start_ms": 43800,
+      "end_ms": 48500,
+      "id": "e_027",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "High-angle wide shot showing Juliana flanked by guards in the center of the lavishly decorated nave, dwarfed by the grand cathedral.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        118,
+        120
+      ]
+    },
+    {
+      "start_ms": 45000,
+      "end_ms": 48000,
+      "id": "e_028",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"This is the world you thought you belonged to.\"",
+      "speaker": "CATHERINE",
+      "delivery": "V.O.) (Mocking, Resonant",
+      "source_lines": [
+        122,
+        124
+      ]
+    },
+    {
+      "start_ms": 48500,
+      "end_ms": 52800,
+      "id": "e_029",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle medium shot of Catherine gesturing broadly from the altar steps, looking down upon Juliana like an empress.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        126,
+        128
+      ]
+    },
+    {
+      "start_ms": 48600,
+      "end_ms": 52400,
+      "id": "e_030",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"And now they can all see what you truly are.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Spiteful, Boastful",
+      "source_lines": [
+        130,
+        132
+      ]
+    },
+    {
+      "start_ms": 52800,
+      "end_ms": 57800,
+      "id": "e_031",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Juliana standing firmly between the guards, calmly meeting Catherine's venomous gaze.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        134,
+        136
+      ]
+    },
+    {
+      "start_ms": 54800,
+      "end_ms": 57500,
+      "id": "e_032",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana looks around the cathedral at the sea of pompous faces, then raises her eyes straight back to Catherine with utter disdain.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        138,
+        140
+      ]
+    },
+    {
+      "start_ms": 57800,
+      "end_ms": 60800,
+      "id": "e_033",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Tight close-up on Juliana's bruised, unshaken face.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        142,
+        144
+      ]
+    },
+    {
+      "start_ms": 58000,
+      "end_ms": 60500,
+      "id": "e_034",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You needed an entire chapel to feel powerful over one chained woman?\"",
+      "speaker": "JULIANA",
+      "delivery": "Defiant, Unbowed",
+      "source_lines": [
+        146,
+        148
+      ]
+    },
+    {
+      "start_ms": 60800,
+      "end_ms": 64000,
+      "id": "e_035",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Dramatic low-angle full shot looking up at Juliana, her posture straight, imposing, and regal despite the heavy chains.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        150,
+        152
+      ]
+    },
+    {
+      "start_ms": 61000,
+      "end_ms": 63500,
+      "id": "e_036",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Still arrogant. Still standing.\"",
+      "speaker": "CATHERINE",
+      "delivery": "O.S.) (Murmured, Cold",
+      "source_lines": [
+        154,
+        156
+      ]
+    },
+    {
+      "start_ms": 64000,
+      "end_ms": 68500,
+      "id": "e_037",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Full shot of Catherine turning back to Rupert at the altar, dismissing Juliana's defiance as beneath her.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        158,
+        160
+      ]
+    },
+    {
+      "start_ms": 64500,
+      "end_ms": 65400,
+      "id": "e_038",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Come.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Dismissive",
+      "source_lines": [
+        162,
+        164
+      ]
+    },
+    {
+      "start_ms": 68500,
+      "end_ms": 70500,
+      "id": "e_039",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Catherine's and Rupert's gloved hands clasping together over the velvet altar cushion.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        166,
+        168
+      ]
+    },
+    {
+      "start_ms": 70500,
+      "end_ms": 75000,
+      "id": "e_040",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium two-shot of Catherine gazing up adoringly into Rupert's eyes, her tone intoxicatingly intimate.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        170,
+        172
+      ]
+    },
+    {
+      "start_ms": 70500,
+      "end_ms": 74800,
+      "id": "e_041",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Soon, there will be nothing left between us and the Ashburgh title.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Intimate, Ambitious",
+      "source_lines": [
+        174,
+        176
+      ]
+    },
+    {
+      "start_ms": 75000,
+      "end_ms": 77500,
+      "id": "e_042",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Rupert's face breaking into a calculating, ambitious grin.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        178,
+        180
+      ]
+    },
+    {
+      "start_ms": 75800,
+      "end_ms": 77000,
+      "id": "e_043",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Nothing.\"",
+      "speaker": "BLOND NOBLEMAN",
+      "delivery": "Quietly Triumphant",
+      "source_lines": [
+        182,
+        184
+      ]
+    },
+    {
+      "start_ms": 77500,
+      "end_ms": 80500,
+      "id": "e_044",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of the elderly Priest opening the leather-bound liturgical book between Rupert and Catherine.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        186,
+        188
+      ]
+    },
+    {
+      "start_ms": 78000,
+      "end_ms": 79300,
+      "id": "e_045",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Shall we?\"",
+      "speaker": "PRIEST",
+      "delivery": "Solemn, Polite",
+      "source_lines": [
+        190,
+        192
+      ]
+    },
+    {
+      "start_ms": 80500,
+      "end_ms": 81800,
+      "id": "e_046",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Wide shot centered down the aisle toward the massive closed entrance doors.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        194,
+        196
+      ]
+    },
+    {
+      "start_ms": 81000,
+      "end_ms": 85500,
+      "id": "e_047",
+      "scene_id": "sc_001",
+      "type": "sound",
+      "text": "Ear-splitting detonation, shattering stone, wood splintering violently into kindling, followed by terrified screams of the congregation.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        198,
+        200
+      ]
+    },
+    {
+      "start_ms": 81800,
+      "end_ms": 84000,
+      "id": "e_048",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "A violent fireball bursts inward as the entire cathedral entrance explodes, blasting the massive double doors and masonry into flying shrapnel and billowing smoke.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        202,
+        204
+      ]
+    },
+    {
+      "start_ms": 81800,
+      "end_ms": 84500,
+      "id": "e_049",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Rapid series of panic shots: aristocratic guests ducking behind pews, covering their heads in terror, women shrieking as plaster rains down.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        206,
+        208
+      ]
+    },
+    {
+      "start_ms": 84500,
+      "end_ms": 88500,
+      "id": "e_050",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Catherine and Rupert at the altar. Catherine gasps in horror, clutching her veil as debris rains over her bridal gown while Rupert spins around in shock.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        210,
+        212
+      ]
+    },
+    {
+      "start_ms": 88500,
+      "end_ms": 92000,
+      "id": "e_051",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium wide shot of Juliana standing motionless in the middle of the aisle while thick smoke and dust billow from the demolished archway behind her.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        214,
+        216
+      ]
+    },
+    {
+      "start_ms": 89000,
+      "end_ms": 93500,
+      "id": "e_052",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Silhouetted armed figures emerge through the smoke and rubble of the breached doorway. Juliana slowly turns her head, glancing back toward the light.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        218,
+        220
+      ]
+    },
+    {
+      "start_ms": 92000,
+      "end_ms": 96090,
+      "id": "e_053",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Extreme close-up pushing in on Juliana's bruised face. Her expression shifts from grim resolve into awe, breathless realization, and blooming hope as the orchestral score swells into an abrupt cliffhanger.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        222,
+        224
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "start_ms": 0,
+      "end_ms": 96090
+    }
+  ],
+  "warnings": []
+}

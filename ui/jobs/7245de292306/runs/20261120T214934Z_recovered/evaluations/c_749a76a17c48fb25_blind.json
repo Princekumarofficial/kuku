@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_749a76a17c48fb25",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP25:E12",
+      "EP25:E13"
+    ],
+    "reason": "The opening within 0-3000ms shows Juliana in visible pain, shaking her head and saying \"It is nothing,\" which raises a question about what happened. The stakes are not yet clear to a first-time viewer, so the hook is moderate."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP25:E32",
+      "EP25:E34"
+    ],
+    "reason": "The clip ends on Juliana saying \"I went there to help someone\" after Alexander asks why she was inside Ashburg Manor. Her reason is withheld and the questions about who she helped and why she was there stay open, so the ending is unresolved and not a resolved intense moment.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Alexander is and his relationship to Juliana",
+      "Who Lady Catherine is and what she did",
+      "What Ashburg Manor is and why entering it matters",
+      "What the \"wrong chamber\" incident and punishment as a maid refer to",
+      "Who the person Juliana says she went to help is",
+      "The source of the riding-crop wound and why it matters"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The clip builds tension through Juliana's pain and resignation, Alexander's volatile fury and repeated pressing questions, and the withheld answer at the end."
+  },
+  "weaknesses": [
+    "Much of the clip is pressing questions without enough visible context for a new viewer to understand the stakes.",
+    "The identity of Lady Catherine and the significance of Ashburg Manor are not established within the clip.",
+    "The opening line \"It is nothing\" is dismissive, so the hook depends on the wound visual rather than a clear question.",
+    "Dialogue on the forest backdrop and the reason for the visit is vague, which weakens standalone clarity."
+  ],
+  "one_line_why_it_works": "A wounded woman's reluctance to speak, a furious man's escalating questions, and the withheld reason for her presence at Ashburg Manor create an unresolved tension that pulls a viewer forward."
+}

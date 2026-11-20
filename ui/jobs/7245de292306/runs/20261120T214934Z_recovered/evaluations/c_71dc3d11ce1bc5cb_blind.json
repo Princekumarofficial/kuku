@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c_71dc3d11ce1bc5cb",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP30:E44",
+      "EP30:E45"
+    ],
+    "reason": "Within the opening 3000ms, Rupert's shocked close-up and his line 'Witchcraft is a capital charge.' signal immediately that someone faces a deadly accusation, which creates tension quickly. Without context, the stakes are clear but the situation is not yet specific."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP30:E66",
+      "EP30:E67"
+    ],
+    "reason": "The final 3000ms end on the Elder Nobleman's threat 'Tomorrow, she stops being a prisoner. She becomes a witch.' Juliana's fate is set for a tomorrow hearing that is not shown, so the outcome is left open. The ending is ominous rather than a sharp reveal, and the threat is partly stated rather than shown, so the hook is moderate.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Identities and relationships of the Elder Nobleman, Rupert, Catherine, the Dowager, and Juliana are not established",
+      "The 'botanical ledger' referenced by Catherine is unexplained",
+      "Why the accusations are being manufactured and what the 'plan' consists of before the clip is unclear",
+      "Catherine's line 'Her botanical ledger...' is cut off and its significance is unknown",
+      "Who is 'her' and who is the prisoner is not established within the clip"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The clip builds dread through cold, calm conspiracy, Catherine's gleeful cruelty, Rupert's horror, and the Elder Nobleman's predatory final stare and threat against an apparently innocent woman. The emotional response is strong even without full context."
+  },
+  "weaknesses": [
+    "Heavy reliance on unseen prior events makes the characters and stakes hard to follow for a first-time viewer",
+    "Catherine's 'Her botanical ledger...' line is truncated, leaving a key clue unclear",
+    "The witchcraft accusation is asserted rather than shown, so the stakes depend on the viewer accepting the characters' statements",
+    "The cliffhanger is a verbal threat for the next day rather than a visual or dramatic unknown, so the open question is somewhat abstract"
+  ],
+  "one_line_why_it_works": "A cold, calculated conspiracy is laid out in escalating steps and closes on a predatory threat against a named woman's life, which creates strong dread even though the surrounding plot is unexplained."
+}

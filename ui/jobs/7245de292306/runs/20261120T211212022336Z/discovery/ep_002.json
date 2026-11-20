@@ -1,0 +1,100 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "ep002_opp01",
+      "episode_id": "ep_002",
+      "concept": "Gerald publicly rejects Juliana at the altar and justifies it by saying promises change when a better choice appears.",
+      "hook_refs": [
+        "EP02:E2"
+      ],
+      "ending_refs": [
+        "EP02:E17"
+      ],
+      "context_refs": [
+        "EP02:E1"
+      ],
+      "why_promising": "Opens directly on the rejection line. The 23.7-second clip runs from the hook to Gerald's justification, which leaves Juliana's reaction unresolved."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep002_opp02",
+      "episode_id": "ep_002",
+      "concept": "Juliana pleads with her father in the family pew, and he tells her to accept Gerald's choice and not disgrace them.",
+      "hook_refs": [
+        "EP02:E26"
+      ],
+      "ending_refs": [
+        "EP02:E52"
+      ],
+      "context_refs": [
+        "EP02:E28"
+      ],
+      "why_promising": "Shows family rejection as a separate betrayal from Gerald's. The 38.4-second clip ends on Gerald's order to leave quietly, which is a pointed unresolved beat."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep002_opp03",
+      "episode_id": "ep_002",
+      "concept": "Juliana turns her humiliation into a public accusation against Gerald and tells the chapel she will not leave ashamed.",
+      "hook_refs": [
+        "EP02:E57"
+      ],
+      "ending_refs": [
+        "EP02:E71"
+      ],
+      "context_refs": [
+        "EP02:E55"
+      ],
+      "why_promising": "Gives a strong reversal arc in about 26 seconds. The clip starts at the defiant 'Dignity?' beat, which sets up the accusation, and ends on the unfinished 'I may leave this chapel without a husband...' line."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep002_opp04",
+      "episode_id": "ep_002",
+      "concept": "Gerald's cruel insults toward Juliana, from plain and silent to beneath him, ending on his claim that Clarissa is the wife he should have chosen.",
+      "hook_refs": [
+        "EP02:E6"
+      ],
+      "ending_refs": [
+        "EP02:E21"
+      ],
+      "context_refs": [
+        "EP02:E10"
+      ],
+      "why_promising": "Gives a sharp, emotionally direct sequence built on Gerald's cruelty. The 25.8-second clip ends on his unresolved statement about Clarissa."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep002_opp05",
+      "episode_id": "ep_002",
+      "concept": "Clarissa mocks Juliana's gown and appearance, and Gerald orders Juliana to leave the chapel with some dignity.",
+      "hook_refs": [
+        "EP02:E34"
+      ],
+      "ending_refs": [
+        "EP02:E52"
+      ],
+      "context_refs": [
+        "EP02:E36"
+      ],
+      "why_promising": "Adds a sister-rivalry angle with a clear hook. The 24.9-second clip covers Clarissa's taunts through Gerald's dismissal, which leaves the reply open."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep002_opp06",
+      "episode_id": "ep_002",
+      "concept": "A matriarch in black velvet confronts Juliana in the aisle and tells her not to look so wounded, while Juliana later says Gerald has shown the chapel what his word is worth.",
+      "hook_refs": [
+        "EP02:E48"
+      ],
+      "ending_refs": [
+        "EP02:E64"
+      ],
+      "context_refs": [
+        "EP02:E46"
+      ],
+      "why_promising": "Introduces a new antagonist and builds to Juliana's public rebuke. The 29.4-second clip ends on her unfinished claim about Gerald's reputation, though the matriarch's identity is not confirmed on screen."
+    }
+  ]
+}

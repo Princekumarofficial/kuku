@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c_1fed7e8084655e1b",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP38:E26",
+      "EP38:E28"
+    ],
+    "reason": "The opening 0-2500ms shows a tear-stained close-up of Juliana in raw anguish, and by 200-2200ms she asks \"Do you know they condemned me?\", which creates an immediate question about her situation."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP38:E44",
+      "EP38:E52"
+    ],
+    "reason": "The clip ends at 35500ms with Juliana gripping the bars and saying \"Then I suppose I'm next.\" The wedding bells have just started, and her fate and the meaning of \"next\" are left open, so the clip ends on an unresolved question rather than a settled outcome.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Juliana is and why she was condemned",
+      "Who \"him\" and \"he\" refer to, including the husband she refuses to betray",
+      "Whose wedding is beginning and why it matters to Juliana",
+      "What \"next\" means in \"Then I suppose I'm next\"",
+      "Where the cell and cathedral are located and what the stakes of the sentence are"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "The clip moves from raw anguish and tears to fear (\"What if I die here?\"), then to resolute loyalty (\"I will not betray him\"), and ends with startled dread as the bells start. The emotional arc is clear and intense."
+  },
+  "weaknesses": [
+    "Key referents such as \"him\", \"they\", and \"the wedding\" are never identified within the clip, so a first-time viewer cannot tell who is involved or why it matters.",
+    "The ending line \"Then I suppose I'm next\" is ambiguous and relies on context not supplied in the clip.",
+    "The sound of bells runs from 21800ms to the end, so the final beat is mostly carried by audio with little visual payoff.",
+    "The repeated emotional beats of fear and resolve may feel prolonged before the bell cue arrives."
+  ],
+  "one_line_why_it_works": "A tearful, condemned woman pledges loyalty to an unseen husband, then the wedding bells start and she realizes her own fate is tied to what they signal, ending on an open dread-filled line."
+}

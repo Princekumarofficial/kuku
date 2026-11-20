@@ -1,0 +1,55 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "ep27_opp1",
+      "episode_id": "ep_027",
+      "concept": "Heavy doors burst open to reveal the Nobleman and Lady Catherine, who accuse the maid of entering the Duchess's chamber; the accusation escalates to an admission of 'poisoning' that the maid disputes.",
+      "hook_refs": [
+        "EP27:E28"
+      ],
+      "ending_refs": [
+        "EP27:E52"
+      ],
+      "context_refs": [
+        "EP27:E31",
+        "EP27:E33"
+      ],
+      "why_promising": "Opens on a clear visual confrontation understandable without prior context, with a 37.6-second span to an unresolved accusation ending that is contested on screen."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep27_opp2",
+      "episode_id": "ep_027",
+      "concept": "Lady Catherine demands the maid show her hand, revealing a small amber dropper bottle that the maid calls medicine, leading to a demand for who authorized it.",
+      "hook_refs": [
+        "EP27:E39"
+      ],
+      "ending_refs": [
+        "EP27:E77"
+      ],
+      "context_refs": [
+        "EP27:E42",
+        "EP27:E44"
+      ],
+      "why_promising": "A direct, self-contained command as hook leads into a 57.8-second escalation that ends on an unresolved claim that someone is poisoning the Duchess."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep27_opp3",
+      "episode_id": "ep_027",
+      "concept": "Juliana declares someone has been poisoning Her Grace, and Lady Catherine seizes on it to claim an admission, which Juliana protests as the guards close in.",
+      "hook_refs": [
+        "EP27:E77"
+      ],
+      "ending_refs": [
+        "EP27:E94"
+      ],
+      "context_refs": [
+        "EP27:E81",
+        "EP27:E83"
+      ],
+      "why_promising": "A strong accusation hook leads to a 28.8-second cliffhanger ending where Juliana is dragged toward the door, unresolved on screen."
+    }
+  ]
+}

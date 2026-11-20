@@ -1,0 +1,44 @@
+{
+  "candidate_id": "c_53709a05ce84ad76",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP41:E6",
+      "EP41:E9",
+      "EP41:E10"
+    ],
+    "reason": "The opening shows a sadistic sneer from Catherine at 0-300ms, followed by Rupert's cautious turn and the nobleman's 'Catherine...' and Catherine's 'Bring her in.' within the first 3000ms. The tension is clear, but the stakes are not yet explained."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP41:E19",
+      "EP41:E20",
+      "EP41:E21"
+    ],
+    "reason": "The final 3000ms show the sneering couple and the lines 'Look at her' and 'She actually came back to the chapel.' The clip ends mid-confrontation with Juliana's situation unresolved, but this is a scene pause rather than a strong suspense hook.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Who Juliana is and why she is a prisoner in a numbered prison dress",
+      "Why Catherine and the blond nobleman view Juliana with such hostility",
+      "Rupert's role and why he reacts with caution",
+      "What 'came back to the chapel' refers to and why her return matters",
+      "The significance of the cathedral setting and the armed constables"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 6.0,
+    "reason": "The clip conveys contempt, gloating satisfaction, and Juliana's fierce dignity through close-ups of expressions and mocking lines. The emotional stakes are felt, but without backstory the feelings are less personal."
+  },
+  "weaknesses": [
+    "Lacks any setup for Juliana's imprisonment or her history with Catherine",
+    "The viewer cannot tell why the mocking remarks are significant",
+    "Rupert's caution is shown without any stated reason",
+    "The ending confrontation is pending rather than a strong cliffhanger",
+    "Several shots are visual description with limited dialogue to anchor the story"
+  ],
+  "one_line_why_it_works": "Strong visual contrast between Catherine's gloating and Juliana's defiant dignity, with hostile crowd reactions building a clear sense of humiliation."
+}

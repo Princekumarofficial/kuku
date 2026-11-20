@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_e2439e4ad9fdcd68 DURATION_MS=32500\nSEGMENT 1 (playback order)\nEP50:E8 0-300 CAMERA: Close-up pushing in on Catherine as she leans lower over his face, her gaze sharpening with dangerous intimacy.\nEP50:E10 300-3300 CAMERA: Medium two-shot from the side as both sit up in bed, sheets pulled up around their waists.\nEP50:E11 1300-3000 CATHERINE: \"Name your price.\"\nEP50:E12 3300-11000 CAMERA: Medium profile close-up on Father Thomas sitting up tall and bare-chested, Catherine resting her hand firmly over his heart.\nEP50:E13 3900-9500 FATHER THOMAS: \"The west territory. Tax collection, all of it. Routed through my office.\"\nEP50:E14 11000-15000 CAMERA: Slight pull back as Catherine pulls her hand back slightly, staring at him in disbelief.\nEP50:E15 11700-14700 CATHERINE: \"That's not absolution, Thomas. That's a fortune.\"\nEP50:E16 15000-20300 CAMERA: Two-shot centering on Father Thomas leaning toward her, his expression resolute and uncompromising.\nEP50:E17 15500-19500 FATHER THOMAS: \"Absolution is free. Discretion has a price.\"\nEP50:E18 20300-24300 CAMERA: Tight profile close-up between their faces, golden candlelight illuminating Catherine's jaw as she raises her hand to touch his cheek.\nEP50:E19 21000-23900 CATHERINE: \"Unsupervised. In your hands alone.\"\nEP50:E20 24300-27500 CAMERA: Tight close-up as Father Thomas reaches up and firmly clasps Catherine's hand at his neck.\nEP50:E21 24900-27000 FATHER THOMAS: \"For as long as it holds.\"\nEP50:E22 27500-32500 CAMERA: Medium close-up as Catherine breaks into a knowing, seductive smile and taps his chest with her index finger.\nEP50:E23 27700-32500 CATHERINE: \"Done. You told yourself this ends when the hearing does.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

@@ -1,0 +1,204 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_046f76ba91ab2b38 DURATION_MS=24700\nSEGMENT 1 (playback order)\nEP07:E19 0-200 CAMERA: Medium close-up of Juliana lifting her chin with unwavering dignity.\nEP07:E21 200-2200 CAMERA: Close-up on Gerald's tightening jaw.\nEP07:E22 400-2000 GERALD: \"You were born a lady.\"\nEP07:E23 2200-6000 CAMERA: Close-up on Juliana's clear blue eyes, shining with unbroken pride.\nEP07:E24 4000-5600 JULIANA: \"And I remain one.\"\nEP07:E25 6000-10000 CAMERA: Wide shot framing Juliana facing off against Gerald and Aristocratic Woman in the bleak courtyard.\nEP07:E26 6700-9800 GERALD: \"You chose that scarred beggar over a life of comfort.\"\nEP07:E27 10000-16700 CAMERA: Two-shot profile of Juliana looking straight into Gerald's eyes without flinching.\nEP07:E28 13000-16200 JULIANA: \"I chose a man who stood beside me when you walked away.\"\nEP07:E29 16700-20400 CAMERA: Intense close-up of Juliana dismissing him with utter contempt.\nEP07:E30 17000-20000 JULIANA: \"You have no authority here. Leave.\"\nEP07:E31 20400-24700 CAMERA: Close-up of Gerald lunging forward, aggressively pointing his finger into Juliana's face.\nEP07:E32 20800-23700 GERALD: \"I have enough influence to make a beggar disappear.\"\nEP07:E33 23800-24700 GERALD: \"And your husband?\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "complete",
+  "output": {
+    "candidate_id": "c_046f76ba91ab2b38",
+    "hook": {
+      "score_0_10": 6.0,
+      "evidence_refs": [
+        "EP07:E19",
+        "EP07:E21",
+        "EP07:E22"
+      ],
+      "reason": "The opening starts within 0-3000ms with a tense visual of Juliana's dignified stance and Gerald's tightening jaw, followed by his sharp line 'You were born a lady.' This creates immediate friction, but without knowing the stakes the hook is only moderately gripping."
+    },
+    "cliffhanger": {
+      "score_0_10": 8.0,
+      "evidence_refs": [
+        "EP07:E31",
+        "EP07:E32",
+        "EP07:E33"
+      ],
+      "reason": "The clip ends within the final 3000ms on Gerald's threat 'I have enough influence to make a beggar disappear' and then the open question 'And your husband?' No resolution is shown, so the threat and question remain hanging at the cut.",
+      "unresolved_at_end": true
+    },
+    "standalone": {
+      "score_0_10": 4.0,
+      "missing_context": [
+        "Identity and relationship of Gerald to Juliana",
+        "Who the 'scarred beggar' is and why Juliana chose him",
+        "Identity of the Aristocratic Woman and her role in the confrontation",
+        "Why the courtyard confrontation matters and what is at stake",
+        "Who 'your husband' refers to and why Gerald's question is threatening"
+      ]
+    },
+    "emotion": {
+      "score_0_10": 8.0,
+      "reason": "The clip builds strong tension through Juliana's contempt and pride, Gerald's escalating aggression and pointing finger, and the veiled threat at the end. The emotional intensity is high even without prior context."
+    },
+    "weaknesses": [
+      "Characters and their relationships are unexplained to a first-time viewer",
+      "The closing question's referent is unclear, which weakens its impact for someone without prior context",
+      "The setting and stakes are only partly conveyed by the visuals",
+      "Dialogue-heavy confrontation may feel abrupt without an establishing beat"
+    ],
+    "one_line_why_it_works": "Escalating face-to-face defiance culminates in a threatening question that ends unresolved, leaving the viewer tense about what Gerald will do next."
+  }
+}

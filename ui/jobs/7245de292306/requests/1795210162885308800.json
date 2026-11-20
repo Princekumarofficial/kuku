@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_53709a05ce84ad76 DURATION_MS=21300\nSEGMENT 1 (playback order)\nEP41:E6 0-300 CAMERA: Close-up of Catherine's face, her lips curling into a sadistic, triumphant sneer.\nEP41:E8 300-2800 CAMERA: Two-shot profile of Rupert and Catherine. Rupert turns to her with mild caution.\nEP41:E9 500-1300 BLOND NOBLEMAN: \"Catherine...\"\nEP41:E10 1300-2600 CATHERINE: \"Bring her in.\"\nEP41:E11 2800-4800 SOUND: Heavy wooden creak of the cathedral double doors swinging open.\nEP41:E12 2800-7300 CAMERA: Wide shot from behind the altar down the aisle as the great church doors slowly open, revealing the silhouette of three figures against the daylight.\nEP41:E13 4800-7300 ACTION: Juliana, dressed in a coarse drab prison dress with a numbered identification badge, is marched forward by two armed constables holding her by the arms.\nEP41:E14 7300-10100 CAMERA: Extreme close-up of Juliana's scarred, dirtied wrists bound tight in heavy iron shackles.\nEP41:E15 10100-13300 CAMERA: Intense close-up of Juliana's bruised, dirt-streaked face. Her piercing blue eyes burn with fierce dignity despite her captive state.\nEP41:E16 13300-16100 CAMERA: Medium shot of Catherine standing beside the altar, watching Juliana's entrance with gloating satisfaction.\nEP41:E17 14100-15700 CATHERINE: \"There she is.\"\nEP41:E18 16100-17300 CAMERA: Medium tracking shot of Juliana marching between the stern constables down the central aisle toward the altar.\nEP41:E19 17300-21300 CAMERA: Medium shot of a seated aristocratic couple in the pews, whispering and sneering behind an ivory lace fan.\nEP41:E20 17800-18900 NOBLEWOMAN: \"Look at her.\"\nEP41:E21 19000-21100 NOBLEMAN: \"She actually came back to the chapel.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c_cba682b15fa60ec5",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP43:E1",
+      "EP43:E2",
+      "EP43:E3"
+    ],
+    "reason": "The clip opens mid-confrontation with a trembling, enraged man at an altar and an immediate accusation, 'You're lying!', within the first 3000ms, which creates tension quickly. The hook is not fully clear to a first-time viewer because who is lying and why is never established."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP43:E24",
+      "EP43:E25"
+    ],
+    "reason": "The final seconds show Alexander's icy line 'Then let the Crown decide.' which leaves the dispute between the two claimants open. The clip ends with the conflict unresolved, but the closing beat is a verbal standoff rather than a sharp reveal, so the pull is moderate.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Relationship between Rupert and Alexander Ashburn is never explained",
+      "Who is the real Duke and what the claim of imposter rests on is not shown",
+      "Significance of the wedding and of Catherine and Lord Sterling is not explained",
+      "What 'the Crown' can decide and what is at stake is unclear"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Rupert's panic, rage and desperate accusations, the guard's defiant refusal, and the stunned reactions of the bride and congregation build strong tension and conflict."
+  },
+  "weaknesses": [
+    "Heavy reliance on an unexplained premise of an impostor claim makes the stakes hard to grasp",
+    "Ending is a verbal standoff without a clear question the viewer is left wanting answered beyond who is the Duke",
+    "Repetitive shouting from Rupert reduces the impact of later beats",
+    "Catherine's and Sterling's reactions are shown but their roles are not established"
+  ],
+  "one_line_why_it_works": "A rapid escalation of accusations, guards taking sides, and a composed rival's closing challenge create strong conflict and an open ending even though the backstory is missing."
+}

@@ -1,0 +1,228 @@
+{
+  "episode_id": "ep_011",
+  "summary": "Episode EP11 covers scenes sc_001 (cottage grounds, EP11:E1-E47) and sc_002 (interior, EP11:E48-E85). Source warnings state both scenes have incomplete coverage and gaps are unavailable, so the sequence and completeness of events are uncertain. The on-screen evidence shows Gerald arriving with a Constable, accusing Alexander of stealing his gold pocket watch, and demanding a search. The Constable searches the cottage, Gerald provokes Alexander, and the Constable finds a gold pocket watch in Alexander's trench coat (EP11:E78). Clarissa appears only briefly in the carriage (EP11:E12) and her role is not established on screen. Gerald's claim that the theft happened on his last visit (EP11:E20) is unverified within the supplied evidence. Metadata describing the logline and continuity is not on-screen evidence and is not used for any event claim. Speaker tags for EP11:E44, EP11:E72 and EP11:E74 are malformed, so the attribution of those lines is uncertain as written.",
+  "characters": [
+    {
+      "name": "Juliana",
+      "role": "Alexander's wife; defends him and resists the search; shows distress over her mother's medicines"
+    },
+    {
+      "name": "Alexander",
+      "role": "Juliana's husband; restrained and threatened by Gerald; his coat holds the discovered watch"
+    },
+    {
+      "name": "Gerald",
+      "role": "Aristocratic antagonist who accuses Alexander, provokes him and orchestrates the search"
+    },
+    {
+      "name": "Clarissa",
+      "role": "Occupant of Gerald's carriage; visible only briefly with a triumphant expression; involvement unconfirmed"
+    },
+    {
+      "name": "Constable",
+      "role": "Uniformed officer who conducts the search and discovers the watch; unnamed in the supplied evidence"
+    }
+  ],
+  "beats": [
+    {
+      "id": "b1",
+      "kind": "arrival",
+      "event_refs": [
+        "EP11:E1",
+        "EP11:E2",
+        "EP11:E3",
+        "EP11:E4",
+        "EP11:E5",
+        "EP11:E6",
+        "EP11:E7"
+      ],
+      "description": "Carriage arrives through muddy grounds; Gerald and an armed Constable step down while Juliana and Alexander watch with apprehension.",
+      "intensity_0_10": 4.0
+    },
+    {
+      "id": "b2",
+      "kind": "accusation",
+      "event_refs": [
+        "EP11:E8",
+        "EP11:E9",
+        "EP11:E10",
+        "EP11:E11",
+        "EP11:E12",
+        "EP11:E13",
+        "EP11:E14",
+        "EP11:E15",
+        "EP11:E16",
+        "EP11:E17",
+        "EP11:E18",
+        "EP11:E19",
+        "EP11:E20"
+      ],
+      "description": "Gerald accuses Alexander of stealing his gold pocket watch on his last visit; Juliana disputes the claim.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b3",
+      "kind": "escalation",
+      "event_refs": [
+        "EP11:E21",
+        "EP11:E22",
+        "EP11:E23",
+        "EP11:E24",
+        "EP11:E25",
+        "EP11:E26",
+        "EP11:E27",
+        "EP11:E28",
+        "EP11:E29",
+        "EP11:E30",
+        "EP11:E31",
+        "EP11:E32",
+        "EP11:E33",
+        "EP11:E34",
+        "EP11:E35",
+        "EP11:E36",
+        "EP11:E37",
+        "EP11:E38",
+        "EP11:E39",
+        "EP11:E40",
+        "EP11:E41",
+        "EP11:E42",
+        "EP11:E43",
+        "EP11:E44",
+        "EP11:E45",
+        "EP11:E46",
+        "EP11:E47"
+      ],
+      "description": "Gerald insults Juliana and Alexander threatens him; the Constable demands a search and Alexander agrees to it.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b4",
+      "kind": "search",
+      "event_refs": [
+        "EP11:E48",
+        "EP11:E49",
+        "EP11:E50",
+        "EP11:E51",
+        "EP11:E52",
+        "EP11:E53",
+        "EP11:E54",
+        "EP11:E55",
+        "EP11:E56",
+        "EP11:E57",
+        "EP11:E58",
+        "EP11:E59"
+      ],
+      "description": "The Constable ransacks the cottage while Juliana pleads and tries to save her mother's medicines and linens.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b5",
+      "kind": "provocation",
+      "event_refs": [
+        "EP11:E60",
+        "EP11:E61",
+        "EP11:E62",
+        "EP11:E63",
+        "EP11:E64",
+        "EP11:E65",
+        "EP11:E66",
+        "EP11:E67",
+        "EP11:E68",
+        "EP11:E69",
+        "EP11:E70",
+        "EP11:E71",
+        "EP11:E72",
+        "EP11:E73",
+        "EP11:E74"
+      ],
+      "description": "Gerald taunts Juliana and baits Alexander to strike; Alexander is restrained by the Constable's truncheon and holds back.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "b6",
+      "kind": "frame_up_discovery",
+      "event_refs": [
+        "EP11:E75",
+        "EP11:E76",
+        "EP11:E77",
+        "EP11:E78",
+        "EP11:E79",
+        "EP11:E80",
+        "EP11:E81",
+        "EP11:E82",
+        "EP11:E83",
+        "EP11:E84",
+        "EP11:E85"
+      ],
+      "description": "The Constable finds a gold pocket watch inside Alexander's coat; Juliana is horrified, Alexander realizes he has been framed, and Gerald gloats.",
+      "intensity_0_10": 10.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "r1",
+      "event_refs": [
+        "EP11:E78",
+        "EP11:E80",
+        "EP11:E82"
+      ],
+      "claim": "A gold pocket watch with an attached chain is found inside the lining of Alexander's trench coat, supporting Gerald's accusation on screen.",
+      "spoiler_significance_0_10": 9.0,
+      "creates_questions": [
+        "Who placed the watch in Alexander's coat?",
+        "Did Alexander take the watch on Gerald's previous visit as claimed?",
+        "Did Gerald or Clarissa plant the watch?"
+      ]
+    },
+    {
+      "id": "r2",
+      "event_refs": [
+        "EP11:E12",
+        "EP11:E83"
+      ],
+      "claim": "Clarissa is visibly pleased with the confrontation and Gerald reacts with triumph at the discovery, suggesting but not establishing coordination between them.",
+      "spoiler_significance_0_10": 3.0,
+      "creates_questions": [
+        "Was Clarissa involved in the frame-up?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "Who planted the gold pocket watch in Alexander's coat and how did it get there?",
+      "introduced_by": [
+        "EP11:E16",
+        "EP11:E78"
+      ]
+    },
+    {
+      "question": "Did Alexander ever take Gerald's watch during Gerald's previous visit to the cottage?",
+      "introduced_by": [
+        "EP11:E20",
+        "EP11:E22"
+      ]
+    },
+    {
+      "question": "What role, if any, does Clarissa play in Gerald's accusation?",
+      "introduced_by": [
+        "EP11:E12",
+        "EP11:E83"
+      ]
+    },
+    {
+      "question": "Will Alexander retaliate against Gerald or accept the consequences of the discovery?",
+      "introduced_by": [
+        "EP11:E67",
+        "EP11:E72",
+        "EP11:E82"
+      ]
+    },
+    {
+      "question": "Will Juliana's trust in Alexander survive the discovery of the watch?",
+      "introduced_by": [
+        "EP11:E80",
+        "EP11:E81"
+      ]
+    }
+  ]
+}

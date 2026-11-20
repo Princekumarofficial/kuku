@@ -1,0 +1,1151 @@
+[
+  {
+    "candidate_id": "c_2ba8faaeeb22c3b7",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 32800,
+        "end_ms": 83600,
+        "episode_id": "ep_001"
+      }
+    ],
+    "duration_ms": 50800,
+    "origin": "opp_001",
+    "clip_events": [
+      {
+        "ref": "EP01:E21",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle shot from behind Juliana looking up at Gerald and the Lady in Gold Gown standing proudly before the altar."
+      },
+      {
+        "ref": "EP01:E22",
+        "segment_index": 0,
+        "relative_start_ms": 900,
+        "relative_end_ms": 2500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana's trembling lips and shocked, tearful blue eyes."
+      },
+      {
+        "ref": "EP01:E23",
+        "segment_index": 0,
+        "relative_start_ms": 1000,
+        "relative_end_ms": 2200,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Gerald?\""
+      },
+      {
+        "ref": "EP01:E24",
+        "segment_index": 0,
+        "relative_start_ms": 2600,
+        "relative_end_ms": 4900,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Why are you holding her hand?\""
+      },
+      {
+        "ref": "EP01:E25",
+        "segment_index": 0,
+        "relative_start_ms": 3700,
+        "relative_end_ms": 6200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up insert of Gerald's fingers firmly interlocked with the white-gloved hand of the Lady in Gold Gown."
+      },
+      {
+        "ref": "EP01:E26",
+        "segment_index": 0,
+        "relative_start_ms": 6200,
+        "relative_end_ms": 8700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on the Lady in Gold Gown beaming with cruel triumph."
+      },
+      {
+        "ref": "EP01:E27",
+        "segment_index": 0,
+        "relative_start_ms": 6300,
+        "relative_end_ms": 8400,
+        "type": "dialogue",
+        "speaker": "LADY IN GOLD GOWN",
+        "text": "\"Because he is marrying me.\""
+      },
+      {
+        "ref": "EP01:E28",
+        "segment_index": 0,
+        "relative_start_ms": 8700,
+        "relative_end_ms": 11100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana as tears spill over her eyelashes."
+      },
+      {
+        "ref": "EP01:E29",
+        "segment_index": 0,
+        "relative_start_ms": 8900,
+        "relative_end_ms": 10300,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"No...\""
+      },
+      {
+        "ref": "EP01:E30",
+        "segment_index": 0,
+        "relative_start_ms": 11100,
+        "relative_end_ms": 14000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide profile shot showing Juliana standing below the altar platform, looking up at Gerald and her sister."
+      },
+      {
+        "ref": "EP01:E32",
+        "segment_index": 0,
+        "relative_start_ms": 14000,
+        "relative_end_ms": 17200,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"You knew this before I walked through those doors!\""
+      },
+      {
+        "ref": "EP01:E31",
+        "segment_index": 0,
+        "relative_start_ms": 14000,
+        "relative_end_ms": 17600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana clutching her chest, her sorrow turning into burning outrage."
+      },
+      {
+        "ref": "EP01:E33",
+        "segment_index": 0,
+        "relative_start_ms": 17600,
+        "relative_end_ms": 19200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Gerald standing stoic and impassive next to the smug Lady in Gold Gown."
+      },
+      {
+        "ref": "EP01:E34",
+        "segment_index": 0,
+        "relative_start_ms": 19200,
+        "relative_end_ms": 21800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana's hands desperately clenching fistfuls of her white dress fabric."
+      },
+      {
+        "ref": "EP01:E35",
+        "segment_index": 0,
+        "relative_start_ms": 20000,
+        "relative_end_ms": 21800,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"You let me come here...\""
+      },
+      {
+        "ref": "EP01:E36",
+        "segment_index": 0,
+        "relative_start_ms": 21800,
+        "relative_end_ms": 24800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana's tear-streaked face as she shakes with grief."
+      },
+      {
+        "ref": "EP01:E37",
+        "segment_index": 0,
+        "relative_start_ms": 21900,
+        "relative_end_ms": 24100,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"You let me dress in my mother's gown...\""
+      },
+      {
+        "ref": "EP01:E38",
+        "segment_index": 0,
+        "relative_start_ms": 24200,
+        "relative_end_ms": 27200,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"You let me believe I was walking toward my husband!\""
+      },
+      {
+        "ref": "EP01:E39",
+        "segment_index": 0,
+        "relative_start_ms": 24800,
+        "relative_end_ms": 27300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot on Gerald stepping forward, cold and indifferent, with the Lady in Gold Gown lingering in soft focus behind him."
+      },
+      {
+        "ref": "EP01:E41",
+        "segment_index": 0,
+        "relative_start_ms": 27300,
+        "relative_end_ms": 29000,
+        "type": "dialogue",
+        "speaker": "THE FORMER GROOM",
+        "text": "\"I changed my mind.\""
+      },
+      {
+        "ref": "EP01:E40",
+        "segment_index": 0,
+        "relative_start_ms": 27300,
+        "relative_end_ms": 30200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up on Gerald's hardened profile as he glances down."
+      },
+      {
+        "ref": "EP01:E42",
+        "segment_index": 0,
+        "relative_start_ms": 30200,
+        "relative_end_ms": 33200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up on Juliana's furious, weeping face."
+      },
+      {
+        "ref": "EP01:E43",
+        "segment_index": 0,
+        "relative_start_ms": 30600,
+        "relative_end_ms": 32800,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"You swore you loved me!\""
+      },
+      {
+        "ref": "EP01:E44",
+        "segment_index": 0,
+        "relative_start_ms": 33200,
+        "relative_end_ms": 36000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on the Lady in Gold Gown smiling condescendingly."
+      },
+      {
+        "ref": "EP01:E45",
+        "segment_index": 0,
+        "relative_start_ms": 33700,
+        "relative_end_ms": 36000,
+        "type": "dialogue",
+        "speaker": "LADY IN GOLD GOWN",
+        "text": "\"People change their minds, sister.\""
+      },
+      {
+        "ref": "EP01:E46",
+        "segment_index": 0,
+        "relative_start_ms": 36000,
+        "relative_end_ms": 39600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium profile shot of the Lady in Gold Gown turning her head subtly toward Gerald with satisfied malice."
+      },
+      {
+        "ref": "EP01:E47",
+        "segment_index": 0,
+        "relative_start_ms": 36300,
+        "relative_end_ms": 37600,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"And you knew?\""
+      },
+      {
+        "ref": "EP01:E48",
+        "segment_index": 0,
+        "relative_start_ms": 37800,
+        "relative_end_ms": 39300,
+        "type": "dialogue",
+        "speaker": "LADY IN GOLD GOWN",
+        "text": "\"Of course I knew.\""
+      },
+      {
+        "ref": "EP01:E49",
+        "segment_index": 0,
+        "relative_start_ms": 39600,
+        "relative_end_ms": 41800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana, stunned by the callous depth of the conspiracy."
+      },
+      {
+        "ref": "EP01:E50",
+        "segment_index": 0,
+        "relative_start_ms": 40300,
+        "relative_end_ms": 41500,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"How long?\""
+      },
+      {
+        "ref": "EP01:E51",
+        "segment_index": 0,
+        "relative_start_ms": 41800,
+        "relative_end_ms": 46200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot of the Lady in Gold Gown and Gerald looking together down at Juliana."
+      },
+      {
+        "ref": "EP01:E52",
+        "segment_index": 0,
+        "relative_start_ms": 42200,
+        "relative_end_ms": 45700,
+        "type": "dialogue",
+        "speaker": "LADY IN GOLD GOWN",
+        "text": "\"Long enough to know he was never going to marry you.\""
+      },
+      {
+        "ref": "EP01:E53",
+        "segment_index": 0,
+        "relative_start_ms": 46200,
+        "relative_end_ms": 48200,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana turns abruptly toward the first row of pews, where her elderly father sits gripping an ornate brass cane."
+      },
+      {
+        "ref": "EP01:E54",
+        "segment_index": 0,
+        "relative_start_ms": 46200,
+        "relative_end_ms": 48600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on the father's hand tightly gripping the gold curved handle of his walking cane."
+      },
+      {
+        "ref": "EP01:E55",
+        "segment_index": 0,
+        "relative_start_ms": 47300,
+        "relative_end_ms": 48400,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Father...\""
+      },
+      {
+        "ref": "EP01:E57",
+        "segment_index": 0,
+        "relative_start_ms": 48600,
+        "relative_end_ms": 50800,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Tell them this is a mistake.\""
+      },
+      {
+        "ref": "EP01:E56",
+        "segment_index": 0,
+        "relative_start_ms": 48600,
+        "relative_end_ms": 50800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot showing Juliana dropping to her knees beside her seated father, pleading with him."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_418018ae8a78fae5",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 43900,
+        "end_ms": 98200,
+        "episode_id": "ep_001"
+      }
+    ],
+    "duration_ms": 54300,
+    "origin": "opp_002",
+    "clip_events": [
+      {
+        "ref": "EP01:E30",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide profile shot showing Juliana standing below the altar platform, looking up at Gerald and her sister."
+      },
+      {
+        "ref": "EP01:E32",
+        "segment_index": 0,
+        "relative_start_ms": 2900,
+        "relative_end_ms": 6100,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"You knew this before I walked through those doors!\""
+      },
+      {
+        "ref": "EP01:E31",
+        "segment_index": 0,
+        "relative_start_ms": 2900,
+        "relative_end_ms": 6500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana clutching her chest, her sorrow turning into burning outrage."
+      },
+      {
+        "ref": "EP01:E33",
+        "segment_index": 0,
+        "relative_start_ms": 6500,
+        "relative_end_ms": 8100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Gerald standing stoic and impassive next to the smug Lady in Gold Gown."
+      },
+      {
+        "ref": "EP01:E34",
+        "segment_index": 0,
+        "relative_start_ms": 8100,
+        "relative_end_ms": 10700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana's hands desperately clenching fistfuls of her white dress fabric."
+      },
+      {
+        "ref": "EP01:E35",
+        "segment_index": 0,
+        "relative_start_ms": 8900,
+        "relative_end_ms": 10700,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"You let me come here...\""
+      },
+      {
+        "ref": "EP01:E36",
+        "segment_index": 0,
+        "relative_start_ms": 10700,
+        "relative_end_ms": 13700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana's tear-streaked face as she shakes with grief."
+      },
+      {
+        "ref": "EP01:E37",
+        "segment_index": 0,
+        "relative_start_ms": 10800,
+        "relative_end_ms": 13000,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"You let me dress in my mother's gown...\""
+      },
+      {
+        "ref": "EP01:E38",
+        "segment_index": 0,
+        "relative_start_ms": 13100,
+        "relative_end_ms": 16100,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"You let me believe I was walking toward my husband!\""
+      },
+      {
+        "ref": "EP01:E39",
+        "segment_index": 0,
+        "relative_start_ms": 13700,
+        "relative_end_ms": 16200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot on Gerald stepping forward, cold and indifferent, with the Lady in Gold Gown lingering in soft focus behind him."
+      },
+      {
+        "ref": "EP01:E41",
+        "segment_index": 0,
+        "relative_start_ms": 16200,
+        "relative_end_ms": 17900,
+        "type": "dialogue",
+        "speaker": "THE FORMER GROOM",
+        "text": "\"I changed my mind.\""
+      },
+      {
+        "ref": "EP01:E40",
+        "segment_index": 0,
+        "relative_start_ms": 16200,
+        "relative_end_ms": 19100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up on Gerald's hardened profile as he glances down."
+      },
+      {
+        "ref": "EP01:E42",
+        "segment_index": 0,
+        "relative_start_ms": 19100,
+        "relative_end_ms": 22100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up on Juliana's furious, weeping face."
+      },
+      {
+        "ref": "EP01:E43",
+        "segment_index": 0,
+        "relative_start_ms": 19500,
+        "relative_end_ms": 21700,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"You swore you loved me!\""
+      },
+      {
+        "ref": "EP01:E44",
+        "segment_index": 0,
+        "relative_start_ms": 22100,
+        "relative_end_ms": 24900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on the Lady in Gold Gown smiling condescendingly."
+      },
+      {
+        "ref": "EP01:E45",
+        "segment_index": 0,
+        "relative_start_ms": 22600,
+        "relative_end_ms": 24900,
+        "type": "dialogue",
+        "speaker": "LADY IN GOLD GOWN",
+        "text": "\"People change their minds, sister.\""
+      },
+      {
+        "ref": "EP01:E46",
+        "segment_index": 0,
+        "relative_start_ms": 24900,
+        "relative_end_ms": 28500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium profile shot of the Lady in Gold Gown turning her head subtly toward Gerald with satisfied malice."
+      },
+      {
+        "ref": "EP01:E47",
+        "segment_index": 0,
+        "relative_start_ms": 25200,
+        "relative_end_ms": 26500,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"And you knew?\""
+      },
+      {
+        "ref": "EP01:E48",
+        "segment_index": 0,
+        "relative_start_ms": 26700,
+        "relative_end_ms": 28200,
+        "type": "dialogue",
+        "speaker": "LADY IN GOLD GOWN",
+        "text": "\"Of course I knew.\""
+      },
+      {
+        "ref": "EP01:E49",
+        "segment_index": 0,
+        "relative_start_ms": 28500,
+        "relative_end_ms": 30700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana, stunned by the callous depth of the conspiracy."
+      },
+      {
+        "ref": "EP01:E50",
+        "segment_index": 0,
+        "relative_start_ms": 29200,
+        "relative_end_ms": 30400,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"How long?\""
+      },
+      {
+        "ref": "EP01:E51",
+        "segment_index": 0,
+        "relative_start_ms": 30700,
+        "relative_end_ms": 35100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot of the Lady in Gold Gown and Gerald looking together down at Juliana."
+      },
+      {
+        "ref": "EP01:E52",
+        "segment_index": 0,
+        "relative_start_ms": 31100,
+        "relative_end_ms": 34600,
+        "type": "dialogue",
+        "speaker": "LADY IN GOLD GOWN",
+        "text": "\"Long enough to know he was never going to marry you.\""
+      },
+      {
+        "ref": "EP01:E53",
+        "segment_index": 0,
+        "relative_start_ms": 35100,
+        "relative_end_ms": 37100,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana turns abruptly toward the first row of pews, where her elderly father sits gripping an ornate brass cane."
+      },
+      {
+        "ref": "EP01:E54",
+        "segment_index": 0,
+        "relative_start_ms": 35100,
+        "relative_end_ms": 37500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on the father's hand tightly gripping the gold curved handle of his walking cane."
+      },
+      {
+        "ref": "EP01:E55",
+        "segment_index": 0,
+        "relative_start_ms": 36200,
+        "relative_end_ms": 37300,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Father...\""
+      },
+      {
+        "ref": "EP01:E57",
+        "segment_index": 0,
+        "relative_start_ms": 37500,
+        "relative_end_ms": 39700,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Tell them this is a mistake.\""
+      },
+      {
+        "ref": "EP01:E56",
+        "segment_index": 0,
+        "relative_start_ms": 37500,
+        "relative_end_ms": 39800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot showing Juliana dropping to her knees beside her seated father, pleading with him."
+      },
+      {
+        "ref": "EP01:E58",
+        "segment_index": 0,
+        "relative_start_ms": 39800,
+        "relative_end_ms": 42100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on the father's weathered face, looking fixedly at the floor, refusing to meet her gaze."
+      },
+      {
+        "ref": "EP01:E60",
+        "segment_index": 0,
+        "relative_start_ms": 42100,
+        "relative_end_ms": 45000,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Father... please look at me.\""
+      },
+      {
+        "ref": "EP01:E59",
+        "segment_index": 0,
+        "relative_start_ms": 42100,
+        "relative_end_ms": 45600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana looking up at him, tears streaming uncontrollably down her cheeks."
+      },
+      {
+        "ref": "EP01:E61",
+        "segment_index": 0,
+        "relative_start_ms": 45600,
+        "relative_end_ms": 46900,
+        "type": "action",
+        "speaker": null,
+        "text": "The father tightens his jaw and stony expression, refusing to offer a single word or look."
+      },
+      {
+        "ref": "EP01:E62",
+        "segment_index": 0,
+        "relative_start_ms": 45600,
+        "relative_end_ms": 46900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Profile close-up of the father staring blankly forward."
+      },
+      {
+        "ref": "EP01:E63",
+        "segment_index": 0,
+        "relative_start_ms": 46900,
+        "relative_end_ms": 51900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle shot looking up at the Matriarch commanding the space with regal severity."
+      },
+      {
+        "ref": "EP01:E64",
+        "segment_index": 0,
+        "relative_start_ms": 47000,
+        "relative_end_ms": 48000,
+        "type": "dialogue",
+        "speaker": "MATRIARCH",
+        "text": "\"Enough!\""
+      },
+      {
+        "ref": "EP01:E65",
+        "segment_index": 0,
+        "relative_start_ms": 48200,
+        "relative_end_ms": 51600,
+        "type": "dialogue",
+        "speaker": "MATRIARCH",
+        "text": "\"You have embarrassed this family long enough.\""
+      },
+      {
+        "ref": "EP01:E66",
+        "segment_index": 0,
+        "relative_start_ms": 51900,
+        "relative_end_ms": 54300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana as she rises, stung by the utter betrayal."
+      },
+      {
+        "ref": "EP01:E67",
+        "segment_index": 0,
+        "relative_start_ms": 52300,
+        "relative_end_ms": 54300,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Embarrassed you?\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_bc6a93c98939499f",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 60000,
+        "end_ms": 90800,
+        "episode_id": "ep_001"
+      }
+    ],
+    "duration_ms": 30800,
+    "origin": "opp_003",
+    "clip_events": [
+      {
+        "ref": "EP01:E39",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot on Gerald stepping forward, cold and indifferent, with the Lady in Gold Gown lingering in soft focus behind him."
+      },
+      {
+        "ref": "EP01:E41",
+        "segment_index": 0,
+        "relative_start_ms": 100,
+        "relative_end_ms": 1800,
+        "type": "dialogue",
+        "speaker": "THE FORMER GROOM",
+        "text": "\"I changed my mind.\""
+      },
+      {
+        "ref": "EP01:E40",
+        "segment_index": 0,
+        "relative_start_ms": 100,
+        "relative_end_ms": 3000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up on Gerald's hardened profile as he glances down."
+      },
+      {
+        "ref": "EP01:E42",
+        "segment_index": 0,
+        "relative_start_ms": 3000,
+        "relative_end_ms": 6000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up on Juliana's furious, weeping face."
+      },
+      {
+        "ref": "EP01:E43",
+        "segment_index": 0,
+        "relative_start_ms": 3400,
+        "relative_end_ms": 5600,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"You swore you loved me!\""
+      },
+      {
+        "ref": "EP01:E44",
+        "segment_index": 0,
+        "relative_start_ms": 6000,
+        "relative_end_ms": 8800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on the Lady in Gold Gown smiling condescendingly."
+      },
+      {
+        "ref": "EP01:E45",
+        "segment_index": 0,
+        "relative_start_ms": 6500,
+        "relative_end_ms": 8800,
+        "type": "dialogue",
+        "speaker": "LADY IN GOLD GOWN",
+        "text": "\"People change their minds, sister.\""
+      },
+      {
+        "ref": "EP01:E46",
+        "segment_index": 0,
+        "relative_start_ms": 8800,
+        "relative_end_ms": 12400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium profile shot of the Lady in Gold Gown turning her head subtly toward Gerald with satisfied malice."
+      },
+      {
+        "ref": "EP01:E47",
+        "segment_index": 0,
+        "relative_start_ms": 9100,
+        "relative_end_ms": 10400,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"And you knew?\""
+      },
+      {
+        "ref": "EP01:E48",
+        "segment_index": 0,
+        "relative_start_ms": 10600,
+        "relative_end_ms": 12100,
+        "type": "dialogue",
+        "speaker": "LADY IN GOLD GOWN",
+        "text": "\"Of course I knew.\""
+      },
+      {
+        "ref": "EP01:E49",
+        "segment_index": 0,
+        "relative_start_ms": 12400,
+        "relative_end_ms": 14600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana, stunned by the callous depth of the conspiracy."
+      },
+      {
+        "ref": "EP01:E50",
+        "segment_index": 0,
+        "relative_start_ms": 13100,
+        "relative_end_ms": 14300,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"How long?\""
+      },
+      {
+        "ref": "EP01:E51",
+        "segment_index": 0,
+        "relative_start_ms": 14600,
+        "relative_end_ms": 19000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot of the Lady in Gold Gown and Gerald looking together down at Juliana."
+      },
+      {
+        "ref": "EP01:E52",
+        "segment_index": 0,
+        "relative_start_ms": 15000,
+        "relative_end_ms": 18500,
+        "type": "dialogue",
+        "speaker": "LADY IN GOLD GOWN",
+        "text": "\"Long enough to know he was never going to marry you.\""
+      },
+      {
+        "ref": "EP01:E53",
+        "segment_index": 0,
+        "relative_start_ms": 19000,
+        "relative_end_ms": 21000,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana turns abruptly toward the first row of pews, where her elderly father sits gripping an ornate brass cane."
+      },
+      {
+        "ref": "EP01:E54",
+        "segment_index": 0,
+        "relative_start_ms": 19000,
+        "relative_end_ms": 21400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on the father's hand tightly gripping the gold curved handle of his walking cane."
+      },
+      {
+        "ref": "EP01:E55",
+        "segment_index": 0,
+        "relative_start_ms": 20100,
+        "relative_end_ms": 21200,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Father...\""
+      },
+      {
+        "ref": "EP01:E57",
+        "segment_index": 0,
+        "relative_start_ms": 21400,
+        "relative_end_ms": 23600,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Tell them this is a mistake.\""
+      },
+      {
+        "ref": "EP01:E56",
+        "segment_index": 0,
+        "relative_start_ms": 21400,
+        "relative_end_ms": 23700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot showing Juliana dropping to her knees beside her seated father, pleading with him."
+      },
+      {
+        "ref": "EP01:E58",
+        "segment_index": 0,
+        "relative_start_ms": 23700,
+        "relative_end_ms": 26000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on the father's weathered face, looking fixedly at the floor, refusing to meet her gaze."
+      },
+      {
+        "ref": "EP01:E60",
+        "segment_index": 0,
+        "relative_start_ms": 26000,
+        "relative_end_ms": 28900,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Father... please look at me.\""
+      },
+      {
+        "ref": "EP01:E59",
+        "segment_index": 0,
+        "relative_start_ms": 26000,
+        "relative_end_ms": 29500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana looking up at him, tears streaming uncontrollably down her cheeks."
+      },
+      {
+        "ref": "EP01:E61",
+        "segment_index": 0,
+        "relative_start_ms": 29500,
+        "relative_end_ms": 30800,
+        "type": "action",
+        "speaker": null,
+        "text": "The father tightens his jaw and stony expression, refusing to offer a single word or look."
+      },
+      {
+        "ref": "EP01:E62",
+        "segment_index": 0,
+        "relative_start_ms": 29500,
+        "relative_end_ms": 30800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Profile close-up of the father staring blankly forward."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_0adc5a864c7df60a",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 78500,
+        "end_ms": 107300,
+        "episode_id": "ep_001"
+      }
+    ],
+    "duration_ms": 28800,
+    "origin": "opp_004",
+    "clip_events": [
+      {
+        "ref": "EP01:E51",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot of the Lady in Gold Gown and Gerald looking together down at Juliana."
+      },
+      {
+        "ref": "EP01:E53",
+        "segment_index": 0,
+        "relative_start_ms": 500,
+        "relative_end_ms": 2500,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana turns abruptly toward the first row of pews, where her elderly father sits gripping an ornate brass cane."
+      },
+      {
+        "ref": "EP01:E54",
+        "segment_index": 0,
+        "relative_start_ms": 500,
+        "relative_end_ms": 2900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on the father's hand tightly gripping the gold curved handle of his walking cane."
+      },
+      {
+        "ref": "EP01:E55",
+        "segment_index": 0,
+        "relative_start_ms": 1600,
+        "relative_end_ms": 2700,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Father...\""
+      },
+      {
+        "ref": "EP01:E57",
+        "segment_index": 0,
+        "relative_start_ms": 2900,
+        "relative_end_ms": 5100,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Tell them this is a mistake.\""
+      },
+      {
+        "ref": "EP01:E56",
+        "segment_index": 0,
+        "relative_start_ms": 2900,
+        "relative_end_ms": 5200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot showing Juliana dropping to her knees beside her seated father, pleading with him."
+      },
+      {
+        "ref": "EP01:E58",
+        "segment_index": 0,
+        "relative_start_ms": 5200,
+        "relative_end_ms": 7500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on the father's weathered face, looking fixedly at the floor, refusing to meet her gaze."
+      },
+      {
+        "ref": "EP01:E60",
+        "segment_index": 0,
+        "relative_start_ms": 7500,
+        "relative_end_ms": 10400,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Father... please look at me.\""
+      },
+      {
+        "ref": "EP01:E59",
+        "segment_index": 0,
+        "relative_start_ms": 7500,
+        "relative_end_ms": 11000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana looking up at him, tears streaming uncontrollably down her cheeks."
+      },
+      {
+        "ref": "EP01:E61",
+        "segment_index": 0,
+        "relative_start_ms": 11000,
+        "relative_end_ms": 12300,
+        "type": "action",
+        "speaker": null,
+        "text": "The father tightens his jaw and stony expression, refusing to offer a single word or look."
+      },
+      {
+        "ref": "EP01:E62",
+        "segment_index": 0,
+        "relative_start_ms": 11000,
+        "relative_end_ms": 12300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Profile close-up of the father staring blankly forward."
+      },
+      {
+        "ref": "EP01:E63",
+        "segment_index": 0,
+        "relative_start_ms": 12300,
+        "relative_end_ms": 17300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle shot looking up at the Matriarch commanding the space with regal severity."
+      },
+      {
+        "ref": "EP01:E64",
+        "segment_index": 0,
+        "relative_start_ms": 12400,
+        "relative_end_ms": 13400,
+        "type": "dialogue",
+        "speaker": "MATRIARCH",
+        "text": "\"Enough!\""
+      },
+      {
+        "ref": "EP01:E65",
+        "segment_index": 0,
+        "relative_start_ms": 13600,
+        "relative_end_ms": 17000,
+        "type": "dialogue",
+        "speaker": "MATRIARCH",
+        "text": "\"You have embarrassed this family long enough.\""
+      },
+      {
+        "ref": "EP01:E66",
+        "segment_index": 0,
+        "relative_start_ms": 17300,
+        "relative_end_ms": 20100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana as she rises, stung by the utter betrayal."
+      },
+      {
+        "ref": "EP01:E67",
+        "segment_index": 0,
+        "relative_start_ms": 17700,
+        "relative_end_ms": 19700,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Embarrassed you?\""
+      },
+      {
+        "ref": "EP01:E68",
+        "segment_index": 0,
+        "relative_start_ms": 20100,
+        "relative_end_ms": 24000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the Matriarch gesturing toward Clarissa, who stands elegantly in gold."
+      },
+      {
+        "ref": "EP01:E69",
+        "segment_index": 0,
+        "relative_start_ms": 20300,
+        "relative_end_ms": 23000,
+        "type": "dialogue",
+        "speaker": "MATRIARCH",
+        "text": "\"Clarissa knows how to carry herself.\""
+      },
+      {
+        "ref": "EP01:E70",
+        "segment_index": 0,
+        "relative_start_ms": 23100,
+        "relative_end_ms": 26500,
+        "type": "dialogue",
+        "speaker": "MATRIARCH",
+        "text": "\"She has beauty, connections, and a future worth protecting.\""
+      },
+      {
+        "ref": "EP01:E71",
+        "segment_index": 0,
+        "relative_start_ms": 24000,
+        "relative_end_ms": 26800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium profile two-shot of the Matriarch confronting Juliana face to face."
+      },
+      {
+        "ref": "EP01:E72",
+        "segment_index": 0,
+        "relative_start_ms": 26800,
+        "relative_end_ms": 28800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana, demanding answers in spite of her humiliation."
+      },
+      {
+        "ref": "EP01:E73",
+        "segment_index": 0,
+        "relative_start_ms": 26900,
+        "relative_end_ms": 28800,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"And I am what?\""
+      }
+    ]
+  }
+]

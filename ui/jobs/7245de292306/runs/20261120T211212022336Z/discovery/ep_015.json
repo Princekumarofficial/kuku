@@ -1,0 +1,72 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "opp_01",
+      "episode_id": "ep_015",
+      "concept": "Juliana confronts the thugs at the cottage door and is mocked, then the thugs freeze at the approaching footsteps.",
+      "hook_refs": [
+        "EP15:E10"
+      ],
+      "ending_refs": [
+        "EP15:E44"
+      ],
+      "context_refs": [
+        "EP15:E12",
+        "EP15:E14"
+      ],
+      "why_promising": "The opening line is an immediate standoff, and the clip ends on unresolved footsteps before Alexander arrives. The 54.7-second span fits the 20-60 second window within the single coverage interval."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_02",
+      "episode_id": "ep_015",
+      "concept": "Juliana defies the Thug with Cap and refuses to leave her garden, then is shoved to the ground before the cliffhanger.",
+      "hook_refs": [
+        "EP15:E29"
+      ],
+      "ending_refs": [
+        "EP15:E55"
+      ],
+      "context_refs": [
+        "EP15:E31",
+        "EP15:E33"
+      ],
+      "why_promising": "Her defiant line is self-contained and the threat of 'Get out of the way!' sets up the confrontation. The clip runs 45 seconds to the unresolved cello cliffhanger."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_03",
+      "episode_id": "ep_015",
+      "concept": "The Tall Thug raises his club over the remaining herbs as Juliana screams, leading to the cliffhanger.",
+      "hook_refs": [
+        "EP15:E42"
+      ],
+      "ending_refs": [
+        "EP15:E55"
+      ],
+      "context_refs": [
+        "EP15:E48",
+        "EP15:E53"
+      ],
+      "why_promising": "The peak-threat image opens with immediate danger and carries through to an unresolved standoff. The 26-second clip sits well within the length limits."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_04",
+      "episode_id": "ep_015",
+      "concept": "Alexander charges out of the mist to stand between Juliana and the thugs, ending on the cliffhanger.",
+      "hook_refs": [
+        "EP15:E45"
+      ],
+      "ending_refs": [
+        "EP15:E55"
+      ],
+      "context_refs": [
+        "EP15:E48",
+        "EP15:E51"
+      ],
+      "why_promising": "The rescue entrance is a clear hook that makes the arrival immediately understandable. The 22.8-second clip ends unresolved, with Alexander's name established on screen in the clip."
+    }
+  ]
+}

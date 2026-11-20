@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_6afd9957ed4432f5",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP15:E42",
+      "EP15:E44"
+    ],
+    "reason": "The clip opens with a heavy club raised over Juliana, a direct and immediate threat, and the Thug's stiffening at approaching footsteps adds a second hook within the first seconds."
+  },
+  "cliffhanger": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP15:E54",
+      "EP15:E55"
+    ],
+    "reason": "The Thug has just asked whether Alexander wants to fight, Alexander stands between the thugs and Juliana, and the clip ends on an abrupt cut with violence described as hanging on a knife's edge, so the outcome is not shown.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Juliana, Alexander, and the thugs are and how they relate",
+      "Why the thugs are destroying herbs and what the herbs mean",
+      "Why Juliana is fallen or what led to the confrontation",
+      "What 'veteran' refers to in the Thug's taunt",
+      "Alexander's history or motive for intervening"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Fear, shock, relief, and rising suspense are conveyed through Juliana's trembling and wet lashes, Alexander's lethal rage, and the tense cello swell before the cut."
+  },
+  "weaknesses": [
+    "Characters and their relationships are not introduced, so a first-time viewer cannot place the stakes beyond the immediate threat",
+    "The purpose of the herbs and the thugs' motive are unexplained",
+    "Juliana's fallen state is shown without any cause",
+    "The taunt 'veteran' implies backstory that is not supplied within the clip",
+    "Alexander's arrival is well staged but his intent is only implied by his demeanor"
+  ],
+  "one_line_why_it_works": "A raised club, a sudden rescuer charging out of the mist, and a cut on an unanswered challenge create strong tension that pulls a viewer forward even without context."
+}

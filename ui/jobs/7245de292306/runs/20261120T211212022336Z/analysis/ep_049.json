@@ -1,0 +1,260 @@
+{
+  "episode_id": "ep_049",
+  "summary": "Episode ep_049 (EP49) shows a covert night meeting in an abandoned manor wing between Catherine and Father Thomas, who negotiate terms for stalling a council hearing and gathering inside intelligence, then seal a pact with a handclasp and an intimate close. Evidence is the on-screen events EP49:E1 to EP49:E63 only. Identities and roles are inferred from dialogue and camera framing: Catherine is referred to as a disgraced bride and Father Thomas as a crowned priest, but no caption or title on screen confirms these. Agnes, the Duke, the King, the council and the church appear only in dialogue and are not seen. The continuity note about Agnes fetching Father Thomas and the logline's framing of the meeting as treasonous and conspiratorial are metadata, not on-screen evidence, and are used only as context. Catherine's reference to 'that morning' and the earlier humiliation implies prior events that are not shown, so their nature is uncertain. The stated timeline of ten days is spoken, not verified. Ratings are interpretive.",
+  "characters": [
+    {
+      "name": "Catherine",
+      "role": "Noblewoman addressed as a disgraced bride; initiates and directs the conspiracy against the council hearing (inferred from dialogue and framing)"
+    },
+    {
+      "name": "Father Thomas",
+      "role": "Priest in clerical collar who agrees to inside intelligence and a pact with Catherine; wary of the risk from the Duke (inferred from dialogue and framing)"
+    },
+    {
+      "name": "Agnes",
+      "role": "Servant or agent mentioned in dialogue as having fetched Father Thomas; not seen on screen"
+    },
+    {
+      "name": "The Duke",
+      "role": "Offscreen authority figure mentioned in dialogue as a potential threat to Father Thomas; not seen on screen"
+    }
+  ],
+  "beats": [
+    {
+      "id": "B1",
+      "kind": "arrival",
+      "event_refs": [
+        "EP49:E1",
+        "EP49:E2",
+        "EP49:E3",
+        "EP49:E4",
+        "EP49:E5",
+        "EP49:E6"
+      ],
+      "description": "Father Thomas enters the derelict hallway through a creaking door and steps into the shadows; Catherine, holding a candlestick, chides him for taking his time.",
+      "intensity_0_10": 3.0
+    },
+    {
+      "id": "B2",
+      "kind": "tension_setup",
+      "event_refs": [
+        "EP49:E7",
+        "EP49:E8",
+        "EP49:E9",
+        "EP49:E10",
+        "EP49:E11",
+        "EP49:E12",
+        "EP49:E13",
+        "EP49:E14"
+      ],
+      "description": "Father Thomas reports that Agnes made him wait; Catherine responds coldly, places the candleholder on the table, and Father Thomas says there are no shadows tonight.",
+      "intensity_0_10": 4.0
+    },
+    {
+      "id": "B3",
+      "kind": "banter_reveal",
+      "event_refs": [
+        "EP49:E15",
+        "EP49:E16",
+        "EP49:E17",
+        "EP49:E18",
+        "EP49:E19",
+        "EP49:E20",
+        "EP49:E21"
+      ],
+      "description": "Catherine and Father Thomas refer to an earlier secret meeting in her bedchamber and insist that his identity must stay hidden from the household.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "B4",
+      "kind": "strategic_planning",
+      "event_refs": [
+        "EP49:E22",
+        "EP49:E23",
+        "EP49:E24",
+        "EP49:E25",
+        "EP49:E26",
+        "EP49:E27",
+        "EP49:E28",
+        "EP49:E29",
+        "EP49:E30",
+        "EP49:E31"
+      ],
+      "description": "Catherine notes the court watched Father Thomas humiliate a woman; they talk about the room's symbolism and their mutual use of each other; Catherine demands the council remember this for ten days.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "B5",
+      "kind": "demand_terms",
+      "event_refs": [
+        "EP49:E32",
+        "EP49:E33",
+        "EP49:E34",
+        "EP49:E35",
+        "EP49:E36",
+        "EP49:E37",
+        "EP49:E38",
+        "EP49:E39",
+        "EP49:E40",
+        "EP49:E41",
+        "EP49:E42",
+        "EP49:E43",
+        "EP49:E44"
+      ],
+      "description": "Catherine states her terms: keep the hearing unresolved and learn everything the council knows; Father Thomas questions whether she wants eyes inside the council chamber, and she replies she wants eyes and ears on everything deciding her future.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "B6",
+      "kind": "risk_pushback",
+      "event_refs": [
+        "EP49:E45",
+        "EP49:E46",
+        "EP49:E47",
+        "EP49:E48",
+        "EP49:E49",
+        "EP49:E50",
+        "EP49:E51",
+        "EP49:E52",
+        "EP49:E53",
+        "EP49:E54"
+      ],
+      "description": "Father Thomas raises the danger of being discovered by the Duke and of being hanged for treason; Catherine presses him with reassurance and promises of reward.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "B7",
+      "kind": "pact",
+      "event_refs": [
+        "EP49:E55",
+        "EP49:E56",
+        "EP49:E57",
+        "EP49:E58",
+        "EP49:E59",
+        "EP49:E60"
+      ],
+      "description": "Father Thomas offers his open palm; Catherine places her hand in it, and both affirm they understand each other.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "B8",
+      "kind": "intimate_closure",
+      "event_refs": [
+        "EP49:E61",
+        "EP49:E62",
+        "EP49:E63"
+      ],
+      "description": "Catherine says We always have; Father Thomas cups her cheek and she leans into his touch before the scene cuts to black.",
+      "intensity_0_10": 5.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "R1",
+      "event_refs": [
+        "EP49:E20",
+        "EP49:E18"
+      ],
+      "claim": "Father Thomas and Catherine met secretly in her bedchamber before dawn on an earlier morning, and his face must not be linked to that meeting.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "What happened on that earlier morning?",
+        "Who else in the household might recognize Father Thomas?"
+      ]
+    },
+    {
+      "id": "R2",
+      "event_refs": [
+        "EP49:E35",
+        "EP49:E37",
+        "EP49:E41"
+      ],
+      "claim": "Catherine's plan has two stated aims: keep the council hearing unresolved, and obtain advance knowledge of everything the council decides or hears.",
+      "spoiler_significance_0_10": 7.0,
+      "creates_questions": [
+        "How will Father Thomas get inside information from the council?",
+        "What is the hearing about and who is the 'her' being targeted?"
+      ]
+    },
+    {
+      "id": "R3",
+      "event_refs": [
+        "EP49:E44",
+        "EP49:E23"
+      ],
+      "claim": "Catherine was publicly humiliated by the church, and the court watched Father Thomas humiliate her.",
+      "spoiler_significance_0_10": 5.0,
+      "creates_questions": [
+        "Why did the church humiliate Catherine and what is her standing?"
+      ]
+    },
+    {
+      "id": "R4",
+      "event_refs": [
+        "EP49:E46",
+        "EP49:E50"
+      ],
+      "claim": "Father Thomas's risk depends on the Duke, who was restored by the King, and a conspiracy against the Duke would be treason.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "Will the Duke discover the conspiracy?",
+        "What is the relationship between the Duke and the King?"
+      ]
+    },
+    {
+      "id": "R5",
+      "event_refs": [
+        "EP49:E31",
+        "EP49:E52",
+        "EP49:E54"
+      ],
+      "claim": "Catherine says the council must remember her cause for ten days and promises a grateful Duchess will reward Father Thomas for help.",
+      "spoiler_significance_0_10": 4.0,
+      "creates_questions": [
+        "What event does the ten-day period refer to?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "What happened on the morning Catherine and Father Thomas met in her bedchamber?",
+      "introduced_by": [
+        "EP49:E18",
+        "EP49:E20"
+      ]
+    },
+    {
+      "question": "What is the council hearing about and what is its outcome?",
+      "introduced_by": [
+        "EP49:E35",
+        "EP49:E37"
+      ]
+    },
+    {
+      "question": "Will Father Thomas be discovered by the Duke or the household?",
+      "introduced_by": [
+        "EP49:E20",
+        "EP49:E46",
+        "EP49:E50"
+      ]
+    },
+    {
+      "question": "Who is Agnes and what role does she play in the conspiracy?",
+      "introduced_by": [
+        "EP49:E8"
+      ]
+    },
+    {
+      "question": "What does the ten-day period refer to?",
+      "introduced_by": [
+        "EP49:E31"
+      ]
+    },
+    {
+      "question": "Why was Catherine humiliated by the church?",
+      "introduced_by": [
+        "EP49:E44"
+      ]
+    }
+  ]
+}

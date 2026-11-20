@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_205050aba48891c3 DURATION_MS=59600\nSEGMENT 1 (playback order)\nEP42:E9 0-3600 CAMERA: Medium shot of Rupert descending the altar steps, furiously pointing toward Alexander.\nEP42:E10 100-3300 BLOND NOBLEMAN: \"Guards! Arrest this imposter!\"\nEP42:E11 3600-5500 CAMERA: Medium shot of the royal guardsman standing rigidly in red uniform and bearskin cap, resting his white-gloved hand on his sabre.\nEP42:E12 4100-5500 ROYAL GUARD: \"We will not.\"\nEP42:E13 5500-8600 CAMERA: Close-up on Rupert, veins bulging in his neck as his composure shatters.\nEP42:E14 5600-7300 BLOND NOBLEMAN: \"I said arrest him!\"\nEP42:E15 7600-8600 BLOND NOBLEMAN: \"Why?!\"\nEP42:E16 8600-10900 CAMERA: Close-up on the Royal Guard holding his upright blade with unwavering conviction.\nEP42:E17 8800-10900 ROYAL GUARD: \"Because we know who he is.\"\nEP42:E18 10900-12500 CAMERA: Medium shot of Catherine clutching her father's arm, her bridal bouquet drooping as panic seizes her face.\nEP42:E19 11100-12400 CATHERINE: \"Rupert...\"\nEP42:E20 12500-15900 CAMERA: Medium close-up of Rupert gripping the edge of a pew for balance, his eyes wild with terror.\nEP42:E21 12600-15900 BLOND NOBLEMAN: \"You cannot be him. Alexander died!\"\nEP42:E22 15900-22000 CAMERA: Wide tracking shot behind Alexander as he advances down the center aisle, silhouetted against the ruins of the cathedral nave.\nEP42:E23 16100-21900 ALEXANDER: \"And yet, here I stand. That is the lie you built your life upon.\"\nEP42:E24 22000-26900 CAMERA: Medium shot of an elderly silver-haired woman in simple ivory robes stepping into the aisle, her hands outstretched in trembling awe.\nEP42:E25 22300-24600 ALEXANDER'S MOTHER: \"Alexander...\"\nEP42:E26 26900-30100 ACTION: Alexander halts his march as his mother reaches him, placing her frail hands gently upon his chest.\nEP42:E27 30100-31100 ALEXANDER: \"Mother.\"\nEP42:E28 31100-36100 ACTION: His mother gently cradles Alexander's scarred cheek, tears streaming down her face as guests in the background watch in stunned silence.\nEP42:E29 31300-35900 ALEXANDER'S MOTHER: \"Look at you... my beautiful boy.\"\nEP42:E31 36100-43900 ALEXANDER'S MOTHER: \"I saw you again... but seeing you like this... I see my son as he was always meant to be.\"\nEP42:E30 36100-45600 CAMERA: Medium two-shot framed down the ruined nave between Alexander and his mother.\nEP42:E32 44100-46100 ALEXANDER: \"I have come home, Mother.\"\nEP42:E33 46100-54600 ACTION: Alexander's mother turns toward the gathered nobility and guards, raising her chin and pointing proudly toward Alexander.\nEP42:E34 46300-54500 ALEXANDER'S MOTHER: \"Let everyone hear me! This is my son... Alexander Ashburn. The rightful Duke of Ashburn!\"\nEP42:E35 54600-55900 CAMERA: Medium shot of Rupert cowering on the altar steps beside Catherine and her father, utterly defeated.\nEP42:E37 55900-59600 ALEXANDER: \"And now, Rupert... we settle what you stole.\"\nEP42:E36 55900-59600 CAMERA: Tight close-up on Alexander, his hand resting on the hilt of his sabre as his eyes burn with fierce, cold retribution.",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

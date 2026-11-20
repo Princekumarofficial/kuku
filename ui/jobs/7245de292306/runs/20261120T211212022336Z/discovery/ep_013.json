@@ -1,0 +1,111 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "ep13_opp1",
+      "episode_id": "ep_013",
+      "concept": "Juliana's vow to Alexander as Gerald and Clarissa look on, then her entry into the briars while Alexander is restrained",
+      "hook_refs": [
+        "EP13:E18"
+      ],
+      "ending_refs": [
+        "EP13:E58"
+      ],
+      "context_refs": [
+        "EP13:E17",
+        "EP13:E19",
+        "EP13:E21"
+      ],
+      "why_promising": "The clip opens on an emotional vow within three seconds, builds through the Constable restraining Alexander and Clarissa's taunt, and ends mid-struggle in the thorns with the outcome unresolved."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep13_opp2",
+      "episode_id": "ep_013",
+      "concept": "Gerald's taunt that Alexander's freedom lies in the garden, followed by Juliana's bloodied crawl through the thorns",
+      "hook_refs": [
+        "EP13:E44"
+      ],
+      "ending_refs": [
+        "EP13:E74"
+      ],
+      "context_refs": [
+        "EP13:E42",
+        "EP13:E45",
+        "EP13:E47"
+      ],
+      "why_promising": "A cruel antagonist line opens the clip, and the sustained injury sequence and Alexander's agony create rising stakes; the ending holds on Juliana still fighting through pain with the cost unresolved."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep13_opp3",
+      "episode_id": "ep_013",
+      "concept": "Juliana, bleeding among the thorns, pleads for the ring and finds it half-buried in the frost",
+      "hook_refs": [
+        "EP13:E66"
+      ],
+      "ending_refs": [
+        "EP13:E75"
+      ],
+      "context_refs": [
+        "EP13:E65",
+        "EP13:E67",
+        "EP13:E68"
+      ],
+      "why_promising": "A desperate line of dialogue opens the clip, the search moves to discovery, and the clip ends on her gripping the emerald ring as the episode cuts to black, a strong cliffhanger."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep13_opp4",
+      "episode_id": "ep_013",
+      "concept": "Alexander's fear that the briars will tear Juliana's hands apart, leading to Clarissa's cruel remark about the garden",
+      "hook_refs": [
+        "EP13:E10"
+      ],
+      "ending_refs": [
+        "EP13:E23"
+      ],
+      "context_refs": [
+        "EP13:E11",
+        "EP13:E12"
+      ],
+      "why_promising": "A fearful plea opens the clip, the balcony antagonists' mockery escalates tension, and the ending line about the garden swallowing women is an unresolved threat that sets up the entry."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep13_opp5",
+      "episode_id": "ep_013",
+      "concept": "Juliana's pain as thorns cut her hands, with Clarissa mocking her wounds, leading to Alexander's breaking point",
+      "hook_refs": [
+        "EP13:E37"
+      ],
+      "ending_refs": [
+        "EP13:E58"
+      ],
+      "context_refs": [
+        "EP13:E36",
+        "EP13:E39",
+        "EP13:E44"
+      ],
+      "why_promising": "A pain-filled line opens the clip on visible injury, the mocking from the balcony adds cruelty, and the clip ends on Juliana's agonized scream while the outcome stays open."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep13_opp6",
+      "episode_id": "ep_013",
+      "concept": "Juliana snagged by thorns, Alexander's charge toward the briars, and her continued crawl despite wounds",
+      "hook_refs": [
+        "EP13:E52"
+      ],
+      "ending_refs": [
+        "EP13:E66"
+      ],
+      "context_refs": [
+        "EP13:E53",
+        "EP13:E55",
+        "EP13:E60"
+      ],
+      "why_promising": "A sharp cry of pain opens the clip on a concrete obstacle, Alexander's furious charge raises the stakes, and the clip ends on Juliana's desperate plea for the ring with the result still unknown."
+    }
+  ]
+}

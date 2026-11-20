@@ -1,0 +1,140 @@
+{
+  "schema_version": "1.0",
+  "series_id": "series_001",
+  "scope": {
+    "type": "episode",
+    "episode_id": "ep_023"
+  },
+  "promos": [
+    {
+      "candidate_id": "c_e9fea6995b28d116",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 76000,
+          "end_ms": 124000,
+          "episode_id": "ep_023"
+        }
+      ],
+      "duration_ms": 48000,
+      "hook": {
+        "description": "The clip opens within 0-3000ms with a quiet bedside scene that quickly turns to a direct accusation, 'Someone is poisoning her,' at 3000ms, and the word 'Arsenic' at 10000ms raises the stakes early.",
+        "evidence_refs": [
+          "EP23:E38",
+          "EP23:E40",
+          "EP23:E45"
+        ]
+      },
+      "cliffhanger": {
+        "description": "The final 3000ms show Prudence's terror and her warning 'someone is coming' as the door handle is shown, and the clip ends before any visible arrival or resolution, so the tension is left open.",
+        "evidence_refs": [
+          "EP23:E63",
+          "EP23:E62",
+          "EP23:E61"
+        ]
+      },
+      "why_it_works": "A first-time viewer is pulled in by an immediate poisoning accusation and a dying Duchess, then left gripped by an unseen intruder and Prudence's terrified warning at the door.",
+      "scores": {
+        "hook": 8.0,
+        "cliffhanger": 8.5,
+        "standalone": 5.0,
+        "emotion": 8.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 7.4
+      },
+      "warnings": [
+        "Poisoner's identity and motive are unknown, so the accusation lacks a target",
+        "Characters are referred to without names or roles established in the clip",
+        "The door sequence ends before the intruder is revealed, which may frustrate a viewer without context",
+        "Remedy dialogue is brief, so the medical stakes are only partly clear",
+        "Spoilers not checked",
+        "Identity and relationship of the Duchess",
+        "Who Lady Juliana is and why she is treating the Duchess",
+        "Who Prudence is and her relationship to the others",
+        "What the leather journal contains and why it matters",
+        "Who is poisoning the Duchess and why",
+        "Who or what is approaching the door",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 1,
+      "promo_id": "p_001"
+    },
+    {
+      "candidate_id": "c_30ae3b98455426af",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 40800,
+          "end_ms": 100000,
+          "episode_id": "ep_023"
+        }
+      ],
+      "duration_ms": 59200,
+      "hook": {
+        "description": "Opens with a sharp refusal and quickly escalates to a claim that the Duchess's condition is not simple old age, then reveals 'Someone is poisoning her' within the clip. The opening 0-3000ms establishes conflict, though the stakes depend on context not shown.",
+        "evidence_refs": [
+          "EP23:E20",
+          "EP23:E22",
+          "EP23:E40"
+        ]
+      },
+      "cliffhanger": {
+        "description": "Ends mid-action with Juliana uncorking an apothecary bottle to treat the choking Duchess, and Prudence asks whether she can be saved. Whether the Duchess survives is left open, but the clip ends during treatment rather than on a dramatic reveal, so the suspense is moderate.",
+        "evidence_refs": [
+          "EP23:E51",
+          "EP23:E52",
+          "EP23:E49"
+        ]
+      },
+      "why_it_works": "A tense escalation from refusal to a poisoning revelation and a sudden physical crisis gives a first-time viewer a clear urgent moment, though the lack of context limits full comprehension.",
+      "scores": {
+        "hook": 7.0,
+        "cliffhanger": 7.0,
+        "standalone": 5.0,
+        "emotion": 7.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 6.5
+      },
+      "warnings": [
+        "Clip depends heavily on unseen prior plot to explain stakes and characters",
+        "Timestamps overlap and the sequence of 'Mother' reveal is not explained",
+        "Discovery of a family connection in the journal is referenced without showing what it says",
+        "Ending is an action beat rather than a strong narrative hook",
+        "Spoilers not checked",
+        "Identity and relationship of Lady Juliana, Prudence, and the Duchess",
+        "Who the mother referenced in the journal is and why her written words matter",
+        "Why Juliana's refusal at the start is directed at Prudence",
+        "Cause and suspects of the poisoning beyond the word arsenic",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 2,
+      "promo_id": "p_002"
+    }
+  ],
+  "construction": {
+    "opportunities": 3,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "DURATION_OUT_OF_RANGE": 808,
+      "PARTIAL_DIALOGUE": 44
+    }
+  },
+  "rejected_candidates": [
+    {
+      "candidate_id": "c_cd902cd502be4768",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_4088fbf1bf41aec1",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    }
+  ]
+}

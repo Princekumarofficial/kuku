@@ -1,0 +1,46 @@
+{
+  "candidate_id": "c_418018ae8a78fae5",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP01:E32",
+      "EP01:E30",
+      "EP01:E66",
+      "EP01:E67"
+    ],
+    "reason": "The clip opens with an accusatory line, 'You knew this before I walked through those doors!', starting at 2900ms, within the first 3000ms. The stakes of a public confrontation are clear immediately. The final 3000ms contain Juliana rising, stung, and asking 'Embarrassed you?', which pulls the viewer forward."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP01:E67",
+      "EP01:E66",
+      "EP01:E65"
+    ],
+    "reason": "The clip ends mid-confrontation on Juliana's unanswered question, with the Matriarch's rebuke just delivered and the father still silent. Nothing is resolved, so it is not a resolved ending. The open question is an emotional hook rather than a plot-level cliffhanger, and the reveal of what happens next is not set up.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Gerald is and what his relationship to Juliana was before this scene",
+      "What the wedding or ceremony is and why the groom changed his mind",
+      "The role and history of the Lady in Gold Gown and her 'conspiracy'",
+      "Why Juliana's father refuses to speak or look at her",
+      "Who the Matriarch is and the family dynamics behind her rebuke",
+      "What 'embarrassed this family' refers to",
+      "Why Juliana wears her mother's gown and what it signifies"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 9.0,
+    "reason": "Sustained, escalating grief and betrayal are conveyed through close-ups of tears, clenched fabric, and pleading lines to her father. The rebuke from the Matriarch and the callous smile of the Lady in Gold Gown intensify the emotional impact strongly."
+  },
+  "weaknesses": [
+    "Without prior context, the betrayal's cause and scope are unclear, so the emotional stakes rely on inference",
+    "Several dialogue lines are stacked on overlapping timestamps, making the exact sequence hard to follow",
+    "The clip is dense with reactions and little explanation, which weakens standalone comprehension",
+    "The ending asks a question rather than delivering a distinct turning point, so the cliffhanger feels more like a mid-scene cut"
+  ],
+  "one_line_why_it_works": "A public humiliation is shown through escalating, emotionally charged confrontation and a sharp final question that leaves the conflict open, even though a first-time viewer lacks the backstory to fully understand it."
+}

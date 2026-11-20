@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_75cfade293d72661",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP28:E14",
+      "EP28:E17"
+    ],
+    "reason": "The clip opens on a defiant close-up of Juliana held by a guard, and a blond nobleman's taunt within the first two seconds sets up immediate hostility and an unclear accusation."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP28:E35",
+      "EP28:E50",
+      "EP28:E51"
+    ],
+    "reason": "The clip ends with Rupert ordering Juliana taken away while the Duchess's accusation is cut off mid-sentence and the poison claim is never settled, so the situation is left unresolved.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Identity and relationship of Juliana, Rupert, the Dowager Duchess, Catherine and the blond nobleman",
+      "What the 'clever story' and the alleged poisoning refer to",
+      "Why Juliana is a maid accused of wrongdoing and what she discovered",
+      "What the Duchess means by 'They have been—' and what Catherine is accused of knowing",
+      "Whether the Duchess's claims are true or the nobleman's dismissal is correct"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Sustained tension builds through the Duchess's outburst, Juliana's distress, Rupert's cold menace and the sudden threat to Juliana, producing strong suspense and indignation."
+  },
+  "weaknesses": [
+    "Heavy reliance on unexplained names and relationships makes the stakes hard to follow for a first-time viewer",
+    "The Duchess's key accusation is cut off, so the central reveal is withheld without enough earlier setup",
+    "Juliana's and the Duchess's motives are unclear, weakening audience investment in the conflict",
+    "The ending depends on the viewer caring about an unexplained poisoning plot"
+  ],
+  "one_line_why_it_works": "A defiant maid, a poisoned and accusing duchess and a menacing lord create immediate tension, and the cut-off accusation and Juliana's removal leave the outcome open."
+}

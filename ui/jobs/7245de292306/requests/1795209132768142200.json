@@ -1,0 +1,184 @@
+{
+  "stage": "episode_analysis",
+  "system": "Analyze narrative beats, characters, revelations and unresolved questions. Only event text is on-screen evidence; metadata may describe unseen events. Use supplied EPxx:Ex aliases. Report uncertainty in the summary. A revelation's significance is not its spoiler damage.",
+  "user": "EP=ep_035; timestamps are integer milliseconds\nSOURCE_SHA256=07326970ef3d6f070ac1d6590c28721fda574046ea5e3885daec412a9f2d9ea6\nMETADATA ONLY (not on-screen evidence): {'logline': \"Fleeing her captivity through a secret passage, Alexander's elderly mother treks through a bitter blizzard to a secluded cabin, where she tearfully reunites with her presumed-dead son and learns the horrifying conspiracy behind his supposed demise.\", 'continuity_notes': \"While Juliana faces trial and sentencing in the courtroom, this episode reveals Alexander's mother escaping confinement and tracking down Alexander in his mountain hideout, uncovering the dark treason that orchestrates both their fates.\"}\nSOURCE WARNINGS=['sc_001: incomplete source coverage; gaps are unavailable', 'sc_003: incomplete source coverage; gaps are unavailable']\nSCENE sc_001 0-15500 INT. STONE CORRIDOR - NIGHT\nEP35:E1 0-5200 CAMERA: Medium tracking shot following an elderly hooded woman clutching an iron lantern as she stumbles anxiously through a damp subterranean stone tunnel.\nEP35:E2 0-5200 ACTION: Alexander's mother, frail with silver hair under a dark hooded cloak, braces her hand against the rough stone wall, panting heavily in fear.\nEP35:E3 5500-8500 ALEXANDER'S MOTHER [Determined, Breathless]: \"I will not die in that house.\"\nEP35:E4 9000-12800 CAMERA: Close-up on her trembling, weathered hands gripping a mossy stone bolt set into a heavy iron plate on the stone wall.\nEP35:E5 9500-12800 ACTION: She uses all her strength to shove the stone bolt upward, disengaging the hidden lock mechanism.\nEP35:E6 11200-13000 SOUND: Heavy stone grating and metallic latch clanging as the lock releases.\nEP35:E7 13000-15500 ACTION: The heavy stone doorway swings inward, and the elderly woman ducks low, crawling through the opening into the cold night outside.\nSCENE sc_002 15500-27500 EXT. SNOWY FOREST / CABIN - NIGHT\nEP35:E8 15500-19500 CAMERA: Wide atmospheric shot of a deep, snow-covered pine forest at night. In the distance stands a small secluded log cabin nestled under towering snowy trees.\nEP35:E9 15500-19500 ACTION: Alexander's mother plods through the thick snow, leaning heavily on a wooden walking stick, her dark cloak dusted with snow.\nEP35:E10 16000-19500 SOUND: Howling winter wind and crunching of footsteps in deep snow.\nEP35:E11 19500-24000 CAMERA: Medium close-up of Alexander's mother arriving beside the frosted wooden door frame under sharp hanging icicles, shivering violently from the freezing cold.\nEP35:E12 21000-23000 ALEXANDER'S MOTHER [Whispering, Weary]: \"This must be the place.\"\nEP35:E13 24000-27500 CAMERA: Close-up on her wool-gloved hand unlatching the icy wooden door handle and pushing it open.\nEP35:E14 24800-27000 SOUND: Creak of cold wooden hinges opening.\nSCENE sc_003 27500-157500 INT. SECLUDED CABIN - CONTINUOUS\nEP35:E15 27500-30800 CAMERA: Panning shot from the open doorway revealing the warm, dimly lit cabin interior, settling on Alexander standing over a rustic wooden table by lantern light.\nEP35:E16 28500-30800 ACTION: Alexander, wearing a rugged trench coat, his scarred face framed by long dark hair, stands studying an unfolded tactical map before snapping his head up in alarm.\nEP35:E17 30800-33800 CAMERA: Medium shot of Alexander's mother stepping across the threshold, holding up her burning lantern, her eyes wide with shock.\nEP35:E18 33800-36500 CAMERA: Extreme close-up on Alexander's scarred left cheek and wide, disbelieving blue eyes.\nEP35:E19 36500-40500 CAMERA: Close-up on his mother's tear-streaked face as her chin trembles and tears spill down her cheeks.\nEP35:E20 37000-40000 ALEXANDER'S MOTHER [Sobbing, Stunned]: \"Alexander!\"\nEP35:E21 40500-44200 CAMERA: Close-up on Alexander as his hard expression crumbles into utter astonishment.\nEP35:E22 42500-44200 ALEXANDER [Breathless, In Disbelief]: \"Mother?\"\nEP35:E23 44200-47500 ACTION: She drops her walking staff and rushes forward, throwing her arms around Alexander's neck. He pulls her tightly into his chest.\nEP35:E24 45500-48000 ALEXANDER'S MOTHER [Weeping, Overwhelmed]: \"You're alive.\"\nEP35:E25 48000-49800 ALEXANDER [Gentle, Choked Up]: \"Mother.\"\nEP35:E26 50000-55500 ACTION: She leans back slightly, her frail hand reaching up to gently cup his bearded, scarred cheek, staring into his eyes in disbelief.\nEP35:E27 52500-55000 ALEXANDER'S MOTHER [Tearful, Heartbroken]: \"I buried you.\"\nEP35:E28 56500-58000 ALEXANDER [Soft, Somber]: \"I know.\"\nEP35:E29 59500-66000 ALEXANDER'S MOTHER [Anguished, Accusing]: \"They told me you died. They told me your entire regiment was destroyed.\"\nEP35:E30 66500-71000 CAMERA: Close-up on Alexander's hardened, shadowed profile, his jaw tight with grim memories.\nEP35:E31 68500-70800 ALEXANDER [Dark, Resigned]: \"Most of them were.\"\nEP35:E32 71500-74000 ALEXANDER'S MOTHER [Searching, Desperate]: \"Then how did you survive?\"\nEP35:E33 74200-78000 CAMERA: Side profile of Alexander as his eyes look into the distance, haunted by the past.\nEP35:E34 75000-77500 ALEXANDER [Grim, Quiet]: \"I wasn't supposed to.\"\nEP35:E35 78000-82500 ACTION: Alexander steps over to the wooden table, looking down at the parchment map spread out under the lantern.\nEP35:E36 79000-83000 ALEXANDER [Solemn]: \"Three years ago, I was sent to the Iberian front.\"\nEP35:E37 83000-87000 CAMERA: Close-up of Alexander's weathered face looking down pensively as he recounts the mission.\nEP35:E38 83000-89000 ALEXANDER [Steady, Focused]: \"It was a classified Crown mission. We were investigating a British officer selling military secrets to French spies.\"\nEP35:E39 87000-89800 ACTION: Alexander's scarred finger points to a red-circled location on the parchment map marked near Madrid.\nEP35:E40 89800-92000 CAMERA: Close-up on his mother, gasping with wide, horrified eyes.\nEP35:E41 89800-91500 ALEXANDER'S MOTHER [Shocked]: \"A traitor?\"\nEP35:E42 92000-93200 ALEXANDER [Cold, Firm]: \"Yes.\"\nEP35:E43 93500-97500 CAMERA: Medium shot framing both of them across the wooden table bathed in amber lantern glow.\nEP35:E44 94500-97000 ALEXANDER [Grave]: \"We were close to finding him.\"\nEP35:E45 98500-101000 ALEXANDER [Hardened]: \"Then came the ambush.\"\nEP35:E46 101200-104200 CAMERA: Close-up on Alexander's scarred hand clenching into a fist, furiously crumbling the parchment map beneath his knuckles.\nEP35:E47 101500-104200 ALEXANDER [Bitter, Painful]: \"My men were slaughtered.\"\nEP35:E48 104200-106500 CAMERA: Close-up of his mother clutching at her throat, tears glistening in her eyes.\nEP35:E49 104500-106000 ALEXANDER'S MOTHER [Trembling, Anxious]: \"And you?\"\nEP35:E50 107000-110000 ALEXANDER [Hollow]: \"I was shot. Left for dead.\"\nEP35:E51 110000-113500 CAMERA: Medium shot of his mother placing both hands on the table, leaning forward in disbelief.\nEP35:E52 111000-113000 ALEXANDER'S MOTHER [Pleading, Astonished]: \"How did you escape?\"\nEP35:E53 113500-118000 CAMERA: Close-up on Alexander, his eyes dark with the harrowing memory.\nEP35:E54 114000-118000 ALEXANDER [Somber, Low]: \"I crawled away from the battlefield, half dead, alone.\"\nEP35:E55 118200-122000 ALEXANDER [Continuing]: \"I survived because the men who came looking for me believed I was already dead.\"\nEP35:E56 122000-125500 CAMERA: Close-up on his mother as her expression shifts to profound bewilderment and outrage.\nEP35:E57 122000-125500 ALEXANDER'S MOTHER [Aghast, Stunned]: \"Then why did they never tell us?\"\nEP35:E58 125500-129500 CAMERA: Close-up on Alexander's intense, piercing gaze.\nEP35:E59 126000-129500 ALEXANDER [Ominous, Deliberate]: \"Because someone wanted you to believe I was dead.\"\nEP35:E60 129500-130500 ALEXANDER'S MOTHER [Breathless]: \"Who?\"\nEP35:E61 130500-134000 ACTION: Alexander turns away toward the frosted window, staring out into the dark raging blizzard outside.\nEP35:E62 131000-134000 ALEXANDER [Brooding]: \"I spent three years trying to find out.\"\nEP35:E63 134000-136800 ACTION: Alexander abruptly pushes away from the window, storming back toward the table with burning rage.\nEP35:E64 134000-137000 ALEXANDER [Fierce, Resolute]: \"The ambush was not an accident.\"\nEP35:E65 137000-144000 ACTION: He leans heavily over the wooden table, looming close as his fury boils over.\nEP35:E66 137000-140500 ALEXANDER [Vehement, Enraged]: \"Someone ordered my men to die.\"\nEP35:E67 141000-144000 ALEXANDER [Darkly Intimating]: \"Someone wanted me erased.\"\nEP35:E68 144000-145000 ALEXANDER'S MOTHER [Gasping, Terrified]: \"Who?\"\nEP35:E69 145000-150500 CAMERA: Tight close-up on Alexander's scarred, grim visage, his voice dropping to a deadly chill.\nEP35:E70 145500-150000 ALEXANDER [Deadly, Chilling]: \"The men behind it... are the same men ruling Ashwood now.\"\nEP35:E71 150500-157500 CAMERA: Close-up on his mother's face as the horrifying realization hits her, her mouth open in a soundless gasp of sheer dread as the scene holds and slowly fades.\nEP35:E72 150800-157500 SOUND: A sudden, ominous orchestral crescendo swells dramatically into silence.",
+  "schema": {
+    "$defs": {
+      "Beat": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "kind": {
+            "title": "Kind",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "description": {
+            "title": "Description",
+            "type": "string"
+          },
+          "intensity_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Intensity 0 10",
+            "type": "number"
+          }
+        },
+        "required": [
+          "id",
+          "kind",
+          "event_refs",
+          "description",
+          "intensity_0_10"
+        ],
+        "title": "Beat",
+        "type": "object"
+      },
+      "Character": {
+        "additionalProperties": false,
+        "properties": {
+          "name": {
+            "title": "Name",
+            "type": "string"
+          },
+          "role": {
+            "title": "Role",
+            "type": "string"
+          }
+        },
+        "required": [
+          "name",
+          "role"
+        ],
+        "title": "Character",
+        "type": "object"
+      },
+      "Question": {
+        "additionalProperties": false,
+        "properties": {
+          "question": {
+            "title": "Question",
+            "type": "string"
+          },
+          "introduced_by": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Introduced By",
+            "type": "array"
+          }
+        },
+        "required": [
+          "question",
+          "introduced_by"
+        ],
+        "title": "Question",
+        "type": "object"
+      },
+      "Revelation": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "claim": {
+            "title": "Claim",
+            "type": "string"
+          },
+          "spoiler_significance_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Spoiler Significance 0 10",
+            "type": "number"
+          },
+          "creates_questions": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Creates Questions",
+            "type": "array"
+          }
+        },
+        "required": [
+          "id",
+          "event_refs",
+          "claim",
+          "spoiler_significance_0_10",
+          "creates_questions"
+        ],
+        "title": "Revelation",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "episode_id": {
+        "title": "Episode Id",
+        "type": "string"
+      },
+      "summary": {
+        "title": "Summary",
+        "type": "string"
+      },
+      "characters": {
+        "items": {
+          "$ref": "#/$defs/Character"
+        },
+        "title": "Characters",
+        "type": "array"
+      },
+      "beats": {
+        "items": {
+          "$ref": "#/$defs/Beat"
+        },
+        "title": "Beats",
+        "type": "array"
+      },
+      "revelations": {
+        "items": {
+          "$ref": "#/$defs/Revelation"
+        },
+        "title": "Revelations",
+        "type": "array"
+      },
+      "unresolved_questions": {
+        "items": {
+          "$ref": "#/$defs/Question"
+        },
+        "title": "Unresolved Questions",
+        "type": "array"
+      }
+    },
+    "required": [
+      "episode_id",
+      "summary",
+      "characters",
+      "beats",
+      "revelations",
+      "unresolved_questions"
+    ],
+    "title": "EpisodeAnalysis",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

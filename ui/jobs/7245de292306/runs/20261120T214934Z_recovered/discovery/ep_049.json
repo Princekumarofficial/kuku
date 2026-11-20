@@ -1,0 +1,52 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "opp_01",
+      "episode_id": "ep_049",
+      "concept": "Catherine's cold rebuke meets Father Thomas's sharp reply, leading into her demand that the council be stalled and watched.",
+      "hook_refs": [
+        "EP49:E10"
+      ],
+      "ending_refs": [
+        "EP49:E31"
+      ],
+      "context_refs": [
+        "EP49:E14"
+      ],
+      "why_promising": "The hook line is a self-contained power move in the first seconds. The clip runs 15800-72200ms (56400ms) and ends on Catherine's unresolved demand that the council remember her cause for the full ten days."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_02",
+      "episode_id": "ep_049",
+      "concept": "Catherine lays out her terms and Father Thomas questions the danger of spying inside the council chamber.",
+      "hook_refs": [
+        "EP49:E41"
+      ],
+      "ending_refs": [
+        "EP49:E54"
+      ],
+      "context_refs": [
+        "EP49:E44"
+      ],
+      "why_promising": "The hook is a standalone declaration of ambition. The clip runs 94400-134200ms (39800ms), and the ending is Catherine's unresolved promise of rewards for help, just before the handclasp pact."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_03",
+      "episode_id": "ep_049",
+      "concept": "Father Thomas's wary objection about the Duke and the secret meeting's risk, framed by Catherine's claim of a hidden earlier morning.",
+      "hook_refs": [
+        "EP49:E18"
+      ],
+      "ending_refs": [
+        "EP49:E35"
+      ],
+      "context_refs": [
+        "EP49:E20"
+      ],
+      "why_promising": "The hook frames the secret earlier meeting in one self-contained line. The clip runs 33500-83800ms (50300ms), and the ending is Catherine's unresolved first term, which sets up the stakes without completing them."
+    }
+  ]
+}

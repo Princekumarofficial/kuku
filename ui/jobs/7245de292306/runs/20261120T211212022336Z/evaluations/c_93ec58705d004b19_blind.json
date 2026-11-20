@@ -1,0 +1,44 @@
+{
+  "candidate_id": "c_93ec58705d004b19",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP04:E19",
+      "EP04:E20",
+      "EP04:E46"
+    ],
+    "reason": "The opening line 'You heard what they think I am.' with an anguished close-up creates immediate tension, and the final vow 'It is a vow.' lands as a strong closing beat. The opening hook is strong but depends on context a first-time viewer lacks."
+  },
+  "cliffhanger": {
+    "score_0_10": 5.0,
+    "evidence_refs": [
+      "EP04:E40",
+      "EP04:E42",
+      "EP04:E46"
+    ],
+    "reason": "The clip ends on the bearded man's vow while Juliana's answer to the ring and his offer is still open, so the decision is unresolved. The emotional exchange does reach a stopping point, so this is a mild rather than strong suspense hook.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Juliana's family is and what they did to her",
+      "What 'they think I am' refers to",
+      "Why Juliana was betrayed and by whom",
+      "Who the Mysterious Bearded Man is and why he kneels",
+      "The significance of the ring and the wedding setting",
+      "Who Gerald is and his role in the scene"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Juliana's shifting mix of pride, sadness, and suspicion, including the tear and her refusal of charity, contrasted with the bearded man's steady vow, produces strong emotional tension."
+  },
+  "weaknesses": [
+    "Core backstory is absent, so stakes are hard to grasp for a first-time viewer",
+    "The ring offer and the reason for the proposal are unexplained",
+    "Juliana's final response is not shown, weakening the closing hook",
+    "Repeated 'stand alone' and pity lines rely on unstated history"
+  ],
+  "one_line_why_it_works": "Raw confrontation between a wounded woman and a stranger's sincere vow builds emotional tension, though the unexplained backstory limits standalone clarity."
+}

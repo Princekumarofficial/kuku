@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c_c7c1ccf7b84bce75",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP30:E5",
+      "EP30:E7"
+    ],
+    "reason": "The clip opens with a sharp stick tap and within the first 3000ms the Elder Nobleman's line about a rat in the cellar and servants smelling it creates immediate menace and curiosity."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.5,
+    "evidence_refs": [
+      "EP30:E22",
+      "EP30:E23"
+    ],
+    "reason": "The final 3000ms end on the Elder Nobleman turning toward the library doors and saying 'We stop hiding the prisoner', an escalating reveal with the next action left open rather than resolved.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Identity and significance of the Ashcroft girl and the prisoner",
+      "Who the Duchess is and what the poisoning involves",
+      "Meaning of the 'rat in the cellar' and the lower grates guards",
+      "Relationship between Rupert and the Elder Nobleman and their household roles",
+      "What 'hiding the prisoner' means for the characters' plans"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.5,
+    "reason": "Rupert's visible dread, the Elder Nobleman's cold contempt and the cane pinning him against the wall build strong tension and intimidation, though the emotional stakes for viewers are unclear without context."
+  },
+  "weaknesses": [
+    "Stakes and relationships are unclear to a first-time viewer, weakening emotional investment",
+    "Dialogue refers to people and events (Ashcroft girl, Duchess poisoning, lower grates) that are never introduced",
+    "Some camera descriptions are repetitive, with several close-ups of faces and gloves in a row",
+    "The ending pivots to a plan without showing what it means, so the cliffhanger depends on unexplained context"
+  ],
+  "one_line_why_it_works": "A cold, escalating confrontation opens on a menacing line and ends on an ominous reveal that leaves the next move unresolved."
+}

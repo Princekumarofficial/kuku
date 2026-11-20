@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0",
+  "series_id": "series_001",
+  "scope": {
+    "type": "episode",
+    "episode_id": "ep_020"
+  },
+  "promos": [
+    {
+      "candidate_id": "c_5b5362525e113931",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 2800,
+          "end_ms": 25400,
+          "episode_id": "ep_020"
+        }
+      ],
+      "duration_ms": 22600,
+      "hook": {
+        "description": "The opening line 'Two lumps of sugar, Rupert?' is a quick, sharp start with a sly barb in E4. The clip closes on Rupert's reveal that 'the title is mine' in E16, which gives a strong ending beat.",
+        "evidence_refs": [
+          "EP20:E3",
+          "EP20:E16"
+        ]
+      },
+      "cliffhanger": {
+        "description": "Rupert's claim that the title will be his once Alexander's death is formally sealed by the Crown is left pending at the cut, so the stakes stay open. The clip ends before any sealing or outcome is shown.",
+        "evidence_refs": [
+          "EP20:E15",
+          "EP20:E16"
+        ]
+      },
+      "why_it_works": "A sharp sugar-and-sweetness rivalry escalates into Rupert's chilling claim on the title, and the unfinished Crown sealing leaves the threat hanging at the cut.",
+      "scores": {
+        "hook": 7.0,
+        "cliffhanger": 7.0,
+        "standalone": 5.0,
+        "emotion": 7.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 6.5
+      },
+      "warnings": [
+        "The first half is slow setup of tea-pouring and gestures before the conflict sharpens",
+        "Alexander's death is introduced without any context, so the menace of E15 depends on unexplained events",
+        "Terms like 'Duke', 'Lord of Ashbury', and 'the title' are used without explanation for a first-time viewer",
+        "The reveal in E16 is clear but the stakes behind Catherine's dismissal are not fully established",
+        "Spoilers not checked",
+        "Who Alexander is and how he died",
+        "What the estate and Ashbury title represent in the story",
+        "Why the succession papers matter and what they change",
+        "The relationship between Catherine and Rupert before this scene",
+        "Why Catherine rejects a 'practical Duke' and what she wants",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 1,
+      "promo_id": "p_001"
+    }
+  ],
+  "construction": {
+    "opportunities": 4,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "REQUIRED_CONTEXT_OUTSIDE_CLIP": 10,
+      "PARTIAL_DIALOGUE": 144,
+      "DURATION_OUT_OF_RANGE": 269
+    }
+  },
+  "rejected_candidates": [
+    {
+      "candidate_id": "c_39085fc4fef39a0a",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_7f1e6384cab156b0",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_779446e63c3d681f",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    }
+  ]
+}

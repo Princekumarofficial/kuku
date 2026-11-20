@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c_b6643efb629348c2",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP14:E40",
+      "EP14:E42"
+    ],
+    "reason": "The opening 0-3000ms shows a solemn close-up and the line 'You have taken my place today.' This creates curiosity, but the stakes and the reason for the 'place' are not established within the clip."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.5,
+    "evidence_refs": [
+      "EP14:E50",
+      "EP14:E51"
+    ],
+    "reason": "The final 3000ms shows Alexander's knuckles clenching into a fist beside a blood-soaked bucket, followed by an ominous bass boom and a cut to black. This leaves a threat of vengeance open, but no event is resolved or explicitly set up as the next beat.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Who Alexander and Juliana are and their relationship history",
+      "What 'taking my place' refers to and why Juliana is exhausted",
+      "Who was hurt or why Juliana needed protecting",
+      "Whose blood is in the bucket and what happened",
+      "Who Alexander intends to target with his vengeance"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The clip moves from tender comfort (blanket, embrace, kiss) to a hardening, menacing tone (clenched fist, blood-soaked water, low bass boom), producing a strong shift in feeling."
+  },
+  "weaknesses": [
+    "Characters and their history are not introduced, so the tender moments lack a first-time viewer's grounding",
+    "The meaning of 'taken my place' is unclear without prior events",
+    "The blood source and vengeance target are not identified, so the ending threat is vague to a new viewer",
+    "The emotional payoff depends on knowing the stakes that the clip does not supply"
+  ],
+  "one_line_why_it_works": "A tender embrace abruptly turns into an ominous vengeance cue, using the bloody bucket and bass boom to leave a menacing question open."
+}

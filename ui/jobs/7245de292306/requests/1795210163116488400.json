@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_14f0ab5a715e28e0 DURATION_MS=38500\nSEGMENT 1 (playback order)\nEP48:E19 0-1900 CAMERA: Close-up on Agnes's hands turning the ornate iron key in the wooden door's brass lock.\nEP48:E20 300-1800 SOUND: Heavy metallic click of an iron key latching into a deadbolt.\nEP48:E21 2000-4500 ACTION: Catherine strides forward and firmly grasps Agnes by both hands, stepping uncomfortably close.\nEP48:E22 2000-11000 CAMERA: Two-shot profile of Catherine towering over Agnes in the candlelight.\nEP48:E23 2200-5100 CATHERINE: \"Everyone in that chapel saw me humiliated today.\"\nEP48:E24 5300-7000 CATHERINE: \"Good. Let them remember it.\"\nEP48:E25 7200-11000 CATHERINE: \"Grief makes people careless, and carelessness is exactly what I need from that household right now.\"\nEP48:E26 11000-14800 CAMERA: Over-the-shoulder close-up on Agnes, her brow furrowed in anxious alarm.\nEP48:E27 11300-14800 AGNES: \"My lady... the Duke has bailiffs watching every road out of the county.\"\nEP48:E28 14800-19500 CAMERA: Close-up on Catherine, a smug, venomous smile spreading across her painted lips.\nEP48:E29 15000-19300 CATHERINE: \"I'm not leaving the county, Agnes. I'm going back into that house.\"\nEP48:E30 19500-26200 CAMERA: Medium tracking shot following Catherine as she releases Agnes and stalks across the room toward the window sill.\nEP48:E31 20000-23000 CATHERINE: \"Father Thomas did his part beautifully today.\"\nEP48:E32 23200-26200 CATHERINE: \"Now I need him to do a little more before that hearing convenes.\"\nEP48:E33 26200-29000 CAMERA: Medium close-up of Agnes glancing nervously over her shoulder.\nEP48:E34 26500-28600 AGNES: \"If someone sees him come to you...\"\nEP48:E35 29000-34900 CAMERA: Close-up on Catherine spinning around from the window, her jaw set in terrifying firmness.\nEP48:E36 29800-32000 CATHERINE: \"Then no one sees him.\"\nEP48:E37 32300-34900 CATHERINE: \"That is precisely your job tonight.\"\nEP48:E38 34900-38500 CAMERA: Medium shot as Catherine picks up a heavy velvet coin purse and places it firmly into Agnes's awaiting open palms.\nEP48:E39 35500-37000 SOUND: Dull clinking of heavy gold coins inside a leather pouch.\nEP48:E40 35800-38500 CATHERINE: \"Send for the priest. Tonight.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

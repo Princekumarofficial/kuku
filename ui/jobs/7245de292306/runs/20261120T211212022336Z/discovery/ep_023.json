@@ -1,0 +1,55 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "ep023_opp_01",
+      "episode_id": "ep_023",
+      "concept": "Juliana names the poison as arsenic and the door opens on an unidentified arrival",
+      "hook_refs": [
+        "EP23:E40"
+      ],
+      "ending_refs": [
+        "EP23:E63"
+      ],
+      "context_refs": [
+        "EP23:E45"
+      ],
+      "why_promising": "The hook at 79000 ms is a clear accusation, 'Someone is poisoning her.' The clip runs to the 'someone is coming' warning at 124000 ms, an unresolved tension point. Duration is 45000 ms, within the 20000-60000 ms range, and it fits inside the single 0-131500 ms coverage interval."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep023_opp_02",
+      "episode_id": "ep_023",
+      "concept": "Juliana reads her mother's journal symptoms and races to brew a charcoal cure",
+      "hook_refs": [
+        "EP23:E32"
+      ],
+      "ending_refs": [
+        "EP23:E57"
+      ],
+      "context_refs": [
+        "EP23:E35",
+        "EP23:E40",
+        "EP23:E45"
+      ],
+      "why_promising": "The hook at 62000 ms lists the Duchess's symptoms from the journal, which is a self-contained opening. The clip carries through the arsenic accusation and ends on the unresolved question of whether the charcoal remedy will save her at 112000 ms. Duration is 50000 ms, within range, and it fits inside the single coverage interval."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep023_opp_03",
+      "episode_id": "ep_023",
+      "concept": "Juliana rejects the old-age explanation and turns to her mother's notebook",
+      "hook_refs": [
+        "EP23:E22"
+      ],
+      "ending_refs": [
+        "EP23:E52"
+      ],
+      "context_refs": [
+        "EP23:E24",
+        "EP23:E25"
+      ],
+      "why_promising": "The hook at 43800 ms is a bold claim, 'This is not simply old age.' The clip shows her opening the journal and ends on the unresolved 'I can try' at 100000 ms. Duration is 56200 ms, within range, and it fits inside the single coverage interval. The context is limited to what is shown on screen in the clip."
+    }
+  ]
+}

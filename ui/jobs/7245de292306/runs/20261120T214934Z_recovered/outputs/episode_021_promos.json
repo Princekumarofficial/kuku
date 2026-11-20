@@ -1,0 +1,143 @@
+{
+  "schema_version": "1.0",
+  "series_id": "series_001",
+  "scope": {
+    "type": "episode",
+    "episode_id": "ep_021"
+  },
+  "promos": [
+    {
+      "candidate_id": "c_8b32c33ce42683cd",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 90500,
+          "end_ms": 114000,
+          "episode_id": "ep_021"
+        }
+      ],
+      "duration_ms": 23500,
+      "hook": {
+        "description": "The opening 0-4000ms establishes an immediate tension: Prudence's trembling hands, a warm comforting gesture, and Prudence's bitter line about the wealthy at the grand manor who ignore them. The hook is clear but relies on unexplained social conflict.",
+        "evidence_refs": [
+          "EP21:E60",
+          "EP21:E61",
+          "EP21:E64"
+        ]
+      },
+      "cliffhanger": {
+        "description": "Prudence says the Dowager Duchess is fading from a strange, mysterious illness that no one can stop, and the clip ends with Juliana studying her late mother's herbal ledger while strings swell. The illness and the question of how to help remain unresolved at the end, though the ending leans on a musical cue more than a specific unanswered event.",
+        "evidence_refs": [
+          "EP21:E73",
+          "EP21:E75",
+          "EP21:E76"
+        ]
+      },
+      "why_it_works": "Prudence's whispered revelation that a powerful woman is dying of a mysterious illness shifts Juliana from comfort to apprehension, and the closing ledger shot makes her resolve feel like a hook to the next step.",
+      "scores": {
+        "hook": 7.0,
+        "cliffhanger": 7.0,
+        "standalone": 5.0,
+        "emotion": 7.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 6.5
+      },
+      "warnings": [
+        "Characters and their relationships are introduced without context for a first-time viewer",
+        "The Dowager Duchess appears only as a name and is not established",
+        "The mysterious illness is described but not shown or made concrete",
+        "The final resolve is conveyed mainly through a music cue rather than a stated next action",
+        "Toby's repeated sleeping shots add length without advancing the plot",
+        "Spoilers not checked",
+        "Relationship between Prudence, Lady Juliana, and Toby is never stated",
+        "Identity and role of the Dowager Duchess and the grand manor are not explained",
+        "Why Juliana's hands are bandaged is not shown",
+        "Significance of the late mother's herbal ledger is not established",
+        "Prudence's earlier grievance against the wealthy household is unexplained",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 1,
+      "promo_id": "p_001"
+    },
+    {
+      "candidate_id": "c_be31937cde63952a",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 3500,
+          "end_ms": 30800,
+          "episode_id": "ep_021"
+        }
+      ],
+      "duration_ms": 27300,
+      "hook": {
+        "description": "The clip opens with a loud slam of barn doors and a frantic, weeping girl bursting in, and her plea that Toby is dying arrives within the first seven seconds, creating immediate urgency.",
+        "evidence_refs": [
+          "EP21:E3",
+          "EP21:E4",
+          "EP21:E5"
+        ]
+      },
+      "cliffhanger": {
+        "description": "The clip ends with Lady Juliana saying she has nothing left but coltsfoot while Toby's condition is still unknown, so the outcome is left open. The ending is more an unresolved situation than a sharp cliffhanger because no immediate threat or action is shown at the final moment.",
+        "evidence_refs": [
+          "EP21:E19",
+          "EP21:E17",
+          "EP21:E10"
+        ]
+      },
+      "why_it_works": "A desperate child's plea for her dying brother, followed by rejection and a final loss of resources, creates strong emotional urgency that leaves the boy's fate unresolved.",
+      "scores": {
+        "hook": 7.0,
+        "cliffhanger": 6.0,
+        "standalone": 5.0,
+        "emotion": 8.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 6.35
+      },
+      "warnings": [
+        "Key characters and stakes are introduced without explanation for a first-time viewer",
+        "The coltsfoot line is introduced without context, weakening its payoff",
+        "The final line closes on loss rather than a clear pending action, so tension depends on unexplained background",
+        "Lady Juliana's bandaged hands and burned cottage are never explained",
+        "Spoilers not checked",
+        "Who Toby is and how sick he is beyond 'chest is burning' and 'cannot breathe'",
+        "What the apothecary and manor doctor represent and why silver matters",
+        "Why Lady Juliana's hands are bandaged",
+        "What happened to the cottage and why it is ashes",
+        "What coltsfoot is and whether it can help Toby",
+        "The clinic's role and why it is closed",
+        "The relationship between Lady Juliana and the village",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 2,
+      "promo_id": "p_002"
+    }
+  ],
+  "construction": {
+    "opportunities": 3,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "DURATION_OUT_OF_RANGE": 333,
+      "PARTIAL_DIALOGUE": 145
+    }
+  },
+  "rejected_candidates": [
+    {
+      "candidate_id": "c_d6acd0dc511f0e96",
+      "reasons": [
+        "WEAK_CLIFFHANGER"
+      ]
+    },
+    {
+      "candidate_id": "c_be3ba494a3f9afb1",
+      "reasons": [
+        "WEAK_CLIFFHANGER"
+      ]
+    }
+  ]
+}

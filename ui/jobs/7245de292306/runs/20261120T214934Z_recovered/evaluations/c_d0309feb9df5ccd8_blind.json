@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_d0309feb9df5ccd8",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP40:E37",
+      "EP40:E38"
+    ],
+    "reason": "The clip opens within 0-3000ms on a tight, menacing close-up of the elder nobleman smiling coldly, followed by the line 'And its witch will be dead.' This creates immediate tension and a threat for a first-time viewer, though the speaker and target are unclear."
+  },
+  "cliffhanger": {
+    "score_0_10": 4.0,
+    "evidence_refs": [
+      "EP40:E38",
+      "EP40:E51"
+    ],
+    "reason": "The opening threat against a 'witch' is never resolved in the clip, so it stays open. However, the final seconds (E51) show a triumphant, conspiratorial exchange and a cut to black during a solemn chord, which reads more as a resolved celebratory beat than a suspenseful stop.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Identity and motives of the elder nobleman",
+      "Who the 'witch' is and why she is targeted",
+      "Relationship between Catherine and Rupert",
+      "Meaning of 'ignored cousin' and the family conflict behind it",
+      "Who the blond nobleman and Lady Harrington are to the story"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 6.0,
+    "reason": "The clip builds menace through the opening threat, then shifts to awe at Catherine's entrance and ends on smug, conspiratorial triumph. The emotional tones are vivid but the stakes for the viewer are unclear without context."
+  },
+  "weaknesses": [
+    "The threatened 'witch' is not identified, so the menace lacks a clear target",
+    "Characters are introduced by name without any background",
+    "The ending is triumphant rather than suspenseful, which weakens the cliffhanger",
+    "The shift from threat to wedding spectacle is abrupt for a first-time viewer",
+    "Catherine's 'ignored cousin' jab references unseen history"
+  ],
+  "one_line_why_it_works": "A cold, menacing threat opens the clip and is followed by a spectacular bridal entrance, creating a sharp contrast of dread and glamour that hooks curiosity about the hidden conflict."
+}

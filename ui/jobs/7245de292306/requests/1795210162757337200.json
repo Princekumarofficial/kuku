@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_16a3dbecca95d760 DURATION_MS=59800\nSEGMENT 1 (playback order)\nEP38:E10 0-1500 CAMERA: Low-angle close-up of Juliana crawling forward across the stone floor toward the bread, her gaze fixed on the offering in disbelief.\nEP38:E11 0-1300 JULIANA: \"Why?\"\nEP38:E13 1500-4300 GUARD: \"Because no one should die hungry.\"\nEP38:E12 1500-5500 CAMERA: Medium close-up of the Guard looking through the vertical bars with quiet compassion.\nEP38:E14 4500-6000 GUARD: \"Eat it before they see.\"\nEP38:E15 5500-7200 CAMERA: Over-the-shoulder shot through the cell bars as the Guard turns and walks swiftly away into the dark corridor.\nEP38:E16 5800-7200 ACTION: The Guard's silhouette retreats into the shadows.\nEP38:E17 7200-14500 CAMERA: Tight shot following Juliana's trembling, shackle-bound hands as she reaches out and drags the loaf toward her chest.\nEP38:E18 7500-11500 ACTION: Juliana clutches the bread tightly with both hands, tears welling in her eyes.\nEP38:E19 10000-11500 JULIANA: \"Thank you.\"\nEP38:E20 11800-15000 ACTION: Starving and overcome with emotion, Juliana presses the bread to her lips and tears off a desperate, ravenous bite.\nEP38:E21 14500-19000 CAMERA: Close-up profile of Juliana chewing the bread, tears rolling down her soot-streaked cheek.\nEP38:E22 15000-18500 ACTION: Juliana chews hungrily, closing her eyes as the agonizing reality of her plight hits her anew.\nEP38:E23 18500-20500 JULIANA: \"Alexander...\"\nEP38:E24 19000-23500 CAMERA: Low-angle wide shot of Juliana seated against the damp stone wall beneath high overhead iron ceiling grates, clutching the half-eaten bread in her lap.\nEP38:E25 20800-23000 JULIANA: \"...are you safe?\"\nEP38:E26 23500-29500 CAMERA: Intimate close-up of Juliana looking upward, her tear-stained face filled with raw anguish.\nEP38:E27 24000-27000 JULIANA: \"Do you even know what happened to me?\"\nEP38:E28 27200-29200 JULIANA: \"Do you know they condemned me?\"\nEP38:E30 29500-31500 JULIANA: \"What if I die here?\"\nEP38:E29 29500-35000 CAMERA: Tight macro shot on Juliana's chin and throat as she presses a trembling hand against her chest.\nEP38:E31 31800-34500 JULIANA: \"What if I never see you again?\"\nEP38:E32 32500-35000 ACTION: A heavy tear drips down from her jaw, falling into the dark dampness below.\nEP38:E33 35000-39500 CAMERA: Medium close-up profile of Juliana closing her eyes, drawing a deep breath to steady herself.\nEP38:E34 35500-37500 JULIANA: \"Keep him safe.\"\nEP38:E35 37800-39300 JULIANA: \"Wherever he is.\"\nEP38:E37 39500-41000 JULIANA: \"Let him live.\"\nEP38:E36 39500-44500 CAMERA: Frontal medium shot of Juliana kneeling upright, her right hand pressed firmly over her heart, her posture transforming into quiet dignity.\nEP38:E38 41500-44500 JULIANA: \"And if I have only one thing left to give...\"\nEP38:E39 44500-48000 CAMERA: Tight close-up of Juliana turning toward the cell wall, her blue eyes flashing with fierce loyalty.\nEP38:E40 44800-46500 JULIANA: \"I will not give them my husband.\"\nEP38:E41 46800-48200 JULIANA: \"I will not betray him.\"\nEP38:E42 48000-51000 CAMERA: Extreme close-up of Juliana's closed eyelids as she takes a sharp, startled breath.\nEP38:E43 48500-50500 ACTION: Juliana's eyes snap wide open in sudden realization as a deep resonant toll reverberates from above.\nEP38:E44 48800-59800 SOUND: Solemn, resonant church bells begin tolling rhythmically from the cathedral above, echoing deep into the stone dungeon.\nEP38:E45 51000-54500 CAMERA: Low-angle shot looking up past Juliana kneeling on the wet floor toward the barred iron skylight above her cell.\nEP38:E46 53000-54300 JULIANA: \"Bells.\"\nEP38:E47 54500-56500 CAMERA: Wide tracking shot as Juliana scrambles to her feet, chains clinking loudly against her skirts.\nEP38:E48 55000-57500 ACTION: Juliana rushes toward the front of the cell, clutching the iron bars with both hands.\nEP38:E49 56500-59800 CAMERA: Medium profile shot of Juliana gripping the heavy iron bars, gazing down the corridor toward the source of the sound.\nEP38:E50 56800-58200 JULIANA: \"The wedding.\"\nEP38:E51 58500-59800 JULIANA: \"It's beginning.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

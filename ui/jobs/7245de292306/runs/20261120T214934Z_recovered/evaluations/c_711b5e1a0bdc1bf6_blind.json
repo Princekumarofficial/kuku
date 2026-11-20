@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_711b5e1a0bdc1bf6",
+  "hook": {
+    "score_0_10": 5.0,
+    "evidence_refs": [
+      "EP19:E33",
+      "EP19:E32"
+    ],
+    "reason": "The opening starts within 0-3000ms with a tense informant report and a rage-filled close-up of Alexander, which creates immediate stakes. However, the first line depends on unexplained names and a power struggle the viewer cannot place, which weakens the pull."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP19:E47",
+      "EP19:E45"
+    ],
+    "reason": "The clip ends on Alexander's defiant line within the final 3000ms, after the informant says everyone believes he is dead. The situation of his imprisoned mother and the deception about his death remain open, so the clip does not resolve them, though the ending is a statement of intent rather than a sharp cut.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Identity and background of Alexander, Rupert, Lady Catherine, and the informant",
+      "Meaning of Ashburg, the title, the estate, and the household",
+      "Why Alexander is believed dead and what he has been doing",
+      "Relationship between Alexander and his mother",
+      "Why Rupert is taking control and what the dismissed servants mean for the plot"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Alexander's simmering rage, trembling fist, and anguished breathing combined with the informant's urgent concern build a strong sense of injustice and helplessness. The closing defiance adds a grim resolve that lands emotionally."
+  },
+  "weaknesses": [
+    "Heavy exposition delivered through dialogue with unfamiliar names and no grounding for the viewer",
+    "Viewer cannot tell who Rupert is or why his control matters",
+    "Stakes for Lady Catherine are stated but not shown or personalized",
+    "The final line depends on knowing why Alexander is presumed dead",
+    "Multiple close-ups of silent reaction shots slow the pacing after the opening"
+  ],
+  "one_line_why_it_works": "Strong emotional escalation from rage to anguish to grim defiance, with a final line that signals a hidden plan and an unresolved threat to his imprisoned mother."
+}

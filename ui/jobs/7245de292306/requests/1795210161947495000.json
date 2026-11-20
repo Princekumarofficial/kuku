@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_30ca259ec7d8b287 DURATION_MS=28900\nSEGMENT 1 (playback order)\nEP11:E8 0-2600 CAMERA: Medium tracking shot as Juliana steps defensively toward Gerald, her face full of shock and anger.\nEP11:E9 100-2500 JULIANA: \"Gerald? What are you doing here?\"\nEP11:E10 2600-4800 CAMERA: Wide two-shot across the puddle-strewn ground between Gerald and Juliana against the misty landscape.\nEP11:E11 2900-5000 GERALD: \"I came for something that belongs to me.\"\nEP11:E12 4800-6100 CAMERA: Close-up of Clarissa peering from the carriage window in her violet silk gown, a venomous, triumphant smile curling her lips.\nEP11:E13 6100-8600 CAMERA: Close-up of Juliana, her anger flaring as she gestures sharply.\nEP11:E14 6200-8500 JULIANA: \"You have already taken enough from me. Leave!\"\nEP11:E15 8600-10300 CAMERA: Medium close-up of Gerald pointing an accusatory finger, his composure snapping into hostile anger.\nEP11:E16 8600-10500 GERALD: \"Your husband stole my gold pocket watch!\"\nEP11:E17 10300-11800 CAMERA: Close-up of Juliana recoiling in utter disbelief.\nEP11:E18 10800-11800 JULIANA: \"What? When?\"\nEP11:E19 11800-13800 CAMERA: Close-up of Gerald narrowing his eyes vindictively.\nEP11:E20 12700-14100 GERALD: \"The last time I came here.\"\nEP11:E21 13800-16400 CAMERA: Medium shot of Juliana scoffing, stepping forward as Alexander stands motionless behind her.\nEP11:E22 14800-16600 JULIANA: \"You never even entered the cottage!\"\nEP11:E23 16400-18700 CAMERA: Close-up of Gerald smirking with condescending amusement.\nEP11:E24 17000-18800 GERALD: \"Then you should have nothing to fear from a search.\"\nEP11:E25 18700-20700 CAMERA: Three-shot of Alexander, Juliana, and Gerald in the bleak drizzle.\nEP11:E26 19100-20800 JULIANA: \"Alexander would never steal from you.\"\nEP11:E27 20700-24200 CAMERA: Low-angle shot of Gerald throwing his head back in arrogant, mocking laughter.\nEP11:E28 21100-24600 GERALD: \"Of course you would defend him. You married a beggar!\"\nEP11:E29 24200-26700 CAMERA: Medium close-up of Alexander stepping past Juliana, his gaze murderous and jaw rigid.\nEP11:E30 24800-26700 ALEXANDER: \"Choose your next words carefully.\"\nEP11:E31 26700-28800 CAMERA: Medium shot of Gerald pointing back toward the approaching Constable, feigning alarm.\nEP11:E32 26900-28900 GERALD: \"You hear that? He threatens me again!\"\nEP11:E33 28800-28900 CAMERA: Medium shot of the Constable marching into frame between them, holding his truncheon horizontally.",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

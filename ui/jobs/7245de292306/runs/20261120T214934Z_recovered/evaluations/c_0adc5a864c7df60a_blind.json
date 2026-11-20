@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c_0adc5a864c7df60a",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP01:E53",
+      "EP01:E57"
+    ],
+    "reason": "The clip opens within 0-3000ms on an abrupt turn and a public, emotionally charged plea, creating immediate tension about who is being addressed and why. The clip ends with Juliana's pointed question in the final 3000ms, but the hook is set up by an unexplained situation rather than a clear stake."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP01:E72",
+      "EP01:E73"
+    ],
+    "reason": "The clip ends on an open question, 'And I am what?', with the Matriarch's answer withheld, so the exchange is unresolved at the cut. The tension is pending, though the question is partly self-contained rather than a major reveal.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "The wedding or event context and what 'this' mistake refers to are never established.",
+      "Who Gerald is and his relationship to Juliana is unclear.",
+      "Why the father refuses to look at Juliana is not explained.",
+      "The relationship between the Matriarch and Clarissa, and why Clarissa is being praised, is unexplained.",
+      "The meaning of 'embarrassed this family' and the stakes of Juliana's position are not stated."
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Juliana's tears, kneeling, and pleading against the father's stony silence and the Matriarch's cold dismissal produce strong visible distress and betrayal, though the emotion is conveyed through visible action rather than explained motives."
+  },
+  "weaknesses": [
+    "Stakes and cause of conflict are not established within the clip, limiting viewer investment.",
+    "The Matriarch's comparison of Juliana and Clarissa is ambiguous without context.",
+    "Gerald's presence and role are unclear.",
+    "The final question is a strong pending beat but lacks a clear dramatic consequence within the clip."
+  ],
+  "one_line_why_it_works": "A public humiliation builds from a silent father and a pleading daughter to a cold matriarchal rebuke, ending on Juliana's unanswered challenge 'And I am what?'."
+}

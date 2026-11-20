@@ -1,0 +1,674 @@
+[
+  {
+    "candidate_id": "c_c7c1ccf7b84bce75",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 6800,
+        "end_ms": 47300,
+        "episode_id": "ep_030"
+      }
+    ],
+    "duration_ms": 40500,
+    "origin": "ep30_opp_01",
+    "clip_events": [
+      {
+        "ref": "EP30:E4",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Rupert standing nervously beside ornate double doors, wearing black gloves and an embroidered dark coat, glancing up with anxiety."
+      },
+      {
+        "ref": "EP30:E5",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1100,
+        "type": "sound",
+        "speaker": null,
+        "text": "A firm tap of the wooden walking stick halting against the floor."
+      },
+      {
+        "ref": "EP30:E6",
+        "segment_index": 0,
+        "relative_start_ms": 700,
+        "relative_end_ms": 6700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Two-shot profile of the Elder Nobleman facing Rupert in the vaulted corridor."
+      },
+      {
+        "ref": "EP30:E7",
+        "segment_index": 0,
+        "relative_start_ms": 2000,
+        "relative_end_ms": 6500,
+        "type": "dialogue",
+        "speaker": "ELDER NOBLEMAN",
+        "text": "\"You have a rat in your cellar, Rupert. And the servants are beginning to smell it.\""
+      },
+      {
+        "ref": "EP30:E8",
+        "segment_index": 0,
+        "relative_start_ms": 6700,
+        "relative_end_ms": 10100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Rupert defensive and agitated."
+      },
+      {
+        "ref": "EP30:E9",
+        "segment_index": 0,
+        "relative_start_ms": 6800,
+        "relative_end_ms": 10000,
+        "type": "dialogue",
+        "speaker": "RUPERT",
+        "text": "\"The Ashcroft girl is locked tight. Nobody knows she is down there.\""
+      },
+      {
+        "ref": "EP30:E10",
+        "segment_index": 0,
+        "relative_start_ms": 10100,
+        "relative_end_ms": 19200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the Elder Nobleman fixing Rupert with a piercing, contemptuous glare."
+      },
+      {
+        "ref": "EP30:E11",
+        "segment_index": 0,
+        "relative_start_ms": 10500,
+        "relative_end_ms": 19000,
+        "type": "dialogue",
+        "speaker": "ELDER NOBLEMAN",
+        "text": "\"The kitchen maids are whispering. They see the soup bowls returned unwiped. They see your guards outside the lower grates.\""
+      },
+      {
+        "ref": "EP30:E12",
+        "segment_index": 0,
+        "relative_start_ms": 19200,
+        "relative_end_ms": 23000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Rupert looking down, nervously pulling at his black leather gloves as dread creeps over his face."
+      },
+      {
+        "ref": "EP30:E13",
+        "segment_index": 0,
+        "relative_start_ms": 19700,
+        "relative_end_ms": 22400,
+        "type": "dialogue",
+        "speaker": "RUPERT",
+        "text": "\"She knows the Duchess was poisoned.\""
+      },
+      {
+        "ref": "EP30:E14",
+        "segment_index": 0,
+        "relative_start_ms": 23000,
+        "relative_end_ms": 25200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up on the Elder Nobleman's unyielding eyes narrowing in cold calculation."
+      },
+      {
+        "ref": "EP30:E15",
+        "segment_index": 0,
+        "relative_start_ms": 25200,
+        "relative_end_ms": 26600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of Rupert swallows hard, breathless with dread."
+      },
+      {
+        "ref": "EP30:E16",
+        "segment_index": 0,
+        "relative_start_ms": 25300,
+        "relative_end_ms": 26500,
+        "type": "dialogue",
+        "speaker": "RUPERT",
+        "text": "\"If she speaks...\""
+      },
+      {
+        "ref": "EP30:E18",
+        "segment_index": 0,
+        "relative_start_ms": 26600,
+        "relative_end_ms": 28400,
+        "type": "action",
+        "speaker": null,
+        "text": "The Elder Nobleman thrusts the gold knob of his walking stick directly against Rupert's chest, pinning him against the wall."
+      },
+      {
+        "ref": "EP30:E17",
+        "segment_index": 0,
+        "relative_start_ms": 26600,
+        "relative_end_ms": 33000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot as the Elder Nobleman lunges forward aggressively, stepping into Rupert's personal space."
+      },
+      {
+        "ref": "EP30:E19",
+        "segment_index": 0,
+        "relative_start_ms": 26800,
+        "relative_end_ms": 33000,
+        "type": "dialogue",
+        "speaker": "ELDER NOBLEMAN",
+        "text": "\"Then make certain she isn't! A peasant weed, Rupert! You do not store weeds in your cellar, you burn them!\""
+      },
+      {
+        "ref": "EP30:E20",
+        "segment_index": 0,
+        "relative_start_ms": 33000,
+        "relative_end_ms": 37000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle close-up of Rupert gasping softly, intimidated by the cane pressed firmly beneath his cravat."
+      },
+      {
+        "ref": "EP30:E21",
+        "segment_index": 0,
+        "relative_start_ms": 35000,
+        "relative_end_ms": 36700,
+        "type": "dialogue",
+        "speaker": "RUPERT",
+        "text": "\"What are you suggesting?\""
+      },
+      {
+        "ref": "EP30:E22",
+        "segment_index": 0,
+        "relative_start_ms": 37000,
+        "relative_end_ms": 40500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as the Elder Nobleman withdraws his cane and turns sharply toward the library doors."
+      },
+      {
+        "ref": "EP30:E23",
+        "segment_index": 0,
+        "relative_start_ms": 38000,
+        "relative_end_ms": 40500,
+        "type": "dialogue",
+        "speaker": "ELDER NOBLEMAN",
+        "text": "\"We stop hiding the prisoner.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_71dc3d11ce1bc5cb",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 87800,
+        "end_ms": 143500,
+        "episode_id": "ep_030"
+      }
+    ],
+    "duration_ms": 55700,
+    "origin": "ep30_opp_02",
+    "clip_events": [
+      {
+        "ref": "EP30:E42",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of the Elder Nobleman's face illuminated by warm firelight."
+      },
+      {
+        "ref": "EP30:E44",
+        "segment_index": 0,
+        "relative_start_ms": 700,
+        "relative_end_ms": 4000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Rupert wide-eyed with shock at the severity of the plan."
+      },
+      {
+        "ref": "EP30:E45",
+        "segment_index": 0,
+        "relative_start_ms": 1200,
+        "relative_end_ms": 3500,
+        "type": "dialogue",
+        "speaker": "RUPERT",
+        "text": "\"Witchcraft is a capital charge.\""
+      },
+      {
+        "ref": "EP30:E46",
+        "segment_index": 0,
+        "relative_start_ms": 4000,
+        "relative_end_ms": 6700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Straight-on close-up of the Elder Nobleman staring back without a flicker of remorse."
+      },
+      {
+        "ref": "EP30:E47",
+        "segment_index": 0,
+        "relative_start_ms": 4200,
+        "relative_end_ms": 5600,
+        "type": "dialogue",
+        "speaker": "ELDER NOBLEMAN",
+        "text": "\"Precisely.\""
+      },
+      {
+        "ref": "EP30:E48",
+        "segment_index": 0,
+        "relative_start_ms": 6700,
+        "relative_end_ms": 14100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium three-shot framing Rupert, the Elder Nobleman between them, and Catherine listening closely."
+      },
+      {
+        "ref": "EP30:E49",
+        "segment_index": 0,
+        "relative_start_ms": 6800,
+        "relative_end_ms": 14000,
+        "type": "dialogue",
+        "speaker": "ELDER NOBLEMAN",
+        "text": "\"Do not hide the evidence, manufacture it. Drag her before the magistrate tomorrow, frame the trial, buy the jury, and let the State hang her.\""
+      },
+      {
+        "ref": "EP30:E50",
+        "segment_index": 0,
+        "relative_start_ms": 14100,
+        "relative_end_ms": 16600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Catherine smiling with malicious satisfaction, fluttering her fan."
+      },
+      {
+        "ref": "EP30:E51",
+        "segment_index": 0,
+        "relative_start_ms": 14400,
+        "relative_end_ms": 16100,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Her botanical ledger...\""
+      },
+      {
+        "ref": "EP30:E52",
+        "segment_index": 0,
+        "relative_start_ms": 16600,
+        "relative_end_ms": 18800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Elder Nobleman nodding slowly."
+      },
+      {
+        "ref": "EP30:E53",
+        "segment_index": 0,
+        "relative_start_ms": 17000,
+        "relative_end_ms": 18200,
+        "type": "dialogue",
+        "speaker": "ELDER NOBLEMAN",
+        "text": "\"Exactly.\""
+      },
+      {
+        "ref": "EP30:E54",
+        "segment_index": 0,
+        "relative_start_ms": 18800,
+        "relative_end_ms": 21200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Catherine leaning slightly forward."
+      },
+      {
+        "ref": "EP30:E55",
+        "segment_index": 0,
+        "relative_start_ms": 19500,
+        "relative_end_ms": 21000,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"And the Dowager?\""
+      },
+      {
+        "ref": "EP30:E56",
+        "segment_index": 0,
+        "relative_start_ms": 21200,
+        "relative_end_ms": 29000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the Elder Nobleman gesturing dismissively with one gloved hand."
+      },
+      {
+        "ref": "EP30:E57",
+        "segment_index": 0,
+        "relative_start_ms": 21700,
+        "relative_end_ms": 28700,
+        "type": "dialogue",
+        "speaker": "ELDER NOBLEMAN",
+        "text": "\"She is weak, confused. No magistrate will trust a dying woman's accusations against a respected household.\""
+      },
+      {
+        "ref": "EP30:E58",
+        "segment_index": 0,
+        "relative_start_ms": 29000,
+        "relative_end_ms": 34100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Rupert exhaling deeply, processing the horrifying certainty of their conspiracy."
+      },
+      {
+        "ref": "EP30:E59",
+        "segment_index": 0,
+        "relative_start_ms": 32200,
+        "relative_end_ms": 33700,
+        "type": "dialogue",
+        "speaker": "RUPERT",
+        "text": "\"And Juliana?\""
+      },
+      {
+        "ref": "EP30:E60",
+        "segment_index": 0,
+        "relative_start_ms": 34100,
+        "relative_end_ms": 37300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the Elder Nobleman staring sternly across the desk."
+      },
+      {
+        "ref": "EP30:E61",
+        "segment_index": 0,
+        "relative_start_ms": 34600,
+        "relative_end_ms": 37100,
+        "type": "dialogue",
+        "speaker": "ELDER NOBLEMAN",
+        "text": "\"She goes before the magistrate tomorrow.\""
+      },
+      {
+        "ref": "EP30:E62",
+        "segment_index": 0,
+        "relative_start_ms": 37300,
+        "relative_end_ms": 45700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Catherine beaming with venomous glee, spreading her red fan wide."
+      },
+      {
+        "ref": "EP30:E63",
+        "segment_index": 0,
+        "relative_start_ms": 37700,
+        "relative_end_ms": 45200,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"She will hang. A perfect solution. The town will cheer as the witch's disgraced daughter faces the noose.\""
+      },
+      {
+        "ref": "EP30:E64",
+        "segment_index": 0,
+        "relative_start_ms": 45700,
+        "relative_end_ms": 49000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Rupert pulling out the desk chair and seating himself with dark resolve."
+      },
+      {
+        "ref": "EP30:E65",
+        "segment_index": 0,
+        "relative_start_ms": 46300,
+        "relative_end_ms": 48400,
+        "type": "dialogue",
+        "speaker": "RUPERT",
+        "text": "\"I will write the arrest warrant myself.\""
+      },
+      {
+        "ref": "EP30:E66",
+        "segment_index": 0,
+        "relative_start_ms": 49000,
+        "relative_end_ms": 55700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of the Elder Nobleman's weathered face, his eyes cold and predatory in the firelight."
+      },
+      {
+        "ref": "EP30:E67",
+        "segment_index": 0,
+        "relative_start_ms": 49700,
+        "relative_end_ms": 55700,
+        "type": "dialogue",
+        "speaker": "ELDER NOBLEMAN",
+        "text": "\"Tomorrow, she stops being a prisoner. She becomes a witch.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_349a1d22627eadab",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 124900,
+        "end_ms": 151210,
+        "episode_id": "ep_030"
+      }
+    ],
+    "duration_ms": 26310,
+    "origin": "ep30_opp_03",
+    "clip_events": [
+      {
+        "ref": "EP30:E60",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the Elder Nobleman staring sternly across the desk."
+      },
+      {
+        "ref": "EP30:E62",
+        "segment_index": 0,
+        "relative_start_ms": 200,
+        "relative_end_ms": 8600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Catherine beaming with venomous glee, spreading her red fan wide."
+      },
+      {
+        "ref": "EP30:E63",
+        "segment_index": 0,
+        "relative_start_ms": 600,
+        "relative_end_ms": 8100,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"She will hang. A perfect solution. The town will cheer as the witch's disgraced daughter faces the noose.\""
+      },
+      {
+        "ref": "EP30:E64",
+        "segment_index": 0,
+        "relative_start_ms": 8600,
+        "relative_end_ms": 11900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Rupert pulling out the desk chair and seating himself with dark resolve."
+      },
+      {
+        "ref": "EP30:E65",
+        "segment_index": 0,
+        "relative_start_ms": 9200,
+        "relative_end_ms": 11300,
+        "type": "dialogue",
+        "speaker": "RUPERT",
+        "text": "\"I will write the arrest warrant myself.\""
+      },
+      {
+        "ref": "EP30:E66",
+        "segment_index": 0,
+        "relative_start_ms": 11900,
+        "relative_end_ms": 19600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of the Elder Nobleman's weathered face, his eyes cold and predatory in the firelight."
+      },
+      {
+        "ref": "EP30:E67",
+        "segment_index": 0,
+        "relative_start_ms": 12600,
+        "relative_end_ms": 18600,
+        "type": "dialogue",
+        "speaker": "ELDER NOBLEMAN",
+        "text": "\"Tomorrow, she stops being a prisoner. She becomes a witch.\""
+      },
+      {
+        "ref": "EP30:E68",
+        "segment_index": 0,
+        "relative_start_ms": 19600,
+        "relative_end_ms": 23600,
+        "type": "camera",
+        "speaker": null,
+        "text": "High-angle shot peering down through the heavy iron dungeon grate into the flooded, pitch-black subterranean wet cells where water drips continuously."
+      },
+      {
+        "ref": "EP30:E69",
+        "segment_index": 0,
+        "relative_start_ms": 19600,
+        "relative_end_ms": 26310,
+        "type": "sound",
+        "speaker": null,
+        "text": "Echoing, hollow water droplets splashing into dark pools beneath stone vaults, accompanied by a somber orchestral swell."
+      },
+      {
+        "ref": "EP30:E70",
+        "segment_index": 0,
+        "relative_start_ms": 23600,
+        "relative_end_ms": 26310,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle medium shot pushing in on Juliana huddled against the wet stone wall, chained by the wrists, shivering in wet rags as faint moonlight filters down through the grate above."
+      },
+      {
+        "ref": "EP30:E71",
+        "segment_index": 0,
+        "relative_start_ms": 23600,
+        "relative_end_ms": 26310,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana clutches a rough burlap rag to her trembling chest, her tear-stained face lifting upward in dread and fragile hope as the frame holds, cutting abruptly to black."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_a23b28622ff8efaf",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 44800,
+        "end_ms": 64800,
+        "episode_id": "ep_030"
+      }
+    ],
+    "duration_ms": 20000,
+    "origin": "recovery_B2",
+    "clip_events": [
+      {
+        "ref": "EP30:E22",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as the Elder Nobleman withdraws his cane and turns sharply toward the library doors."
+      },
+      {
+        "ref": "EP30:E23",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2500,
+        "type": "dialogue",
+        "speaker": "ELDER NOBLEMAN",
+        "text": "\"We stop hiding the prisoner.\""
+      },
+      {
+        "ref": "EP30:E24",
+        "segment_index": 0,
+        "relative_start_ms": 2800,
+        "relative_end_ms": 6200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tracking shot from behind the Elder Nobleman as he pushes open the heavy double doors into the dark wood-paneled library."
+      },
+      {
+        "ref": "EP30:E25",
+        "segment_index": 0,
+        "relative_start_ms": 3200,
+        "relative_end_ms": 5700,
+        "type": "sound",
+        "speaker": null,
+        "text": "The heavy creak of massive mahogany doors gliding open on brass hinges."
+      },
+      {
+        "ref": "EP30:E26",
+        "segment_index": 0,
+        "relative_start_ms": 6200,
+        "relative_end_ms": 9800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Front medium shot of the Elder Nobleman pausing inside the library doorway, Rupert following behind him."
+      },
+      {
+        "ref": "EP30:E27",
+        "segment_index": 0,
+        "relative_start_ms": 6400,
+        "relative_end_ms": 9200,
+        "type": "dialogue",
+        "speaker": "ELDER NOBLEMAN",
+        "text": "\"We give them a reason to condemn her.\""
+      },
+      {
+        "ref": "EP30:E28",
+        "segment_index": 0,
+        "relative_start_ms": 9800,
+        "relative_end_ms": 14000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot of Catherine standing regally before the roaring stone hearth, dressed in an ornate burgundy and gold brocade gown, slowly unfurling a red lace fan."
+      },
+      {
+        "ref": "EP30:E29",
+        "segment_index": 0,
+        "relative_start_ms": 12200,
+        "relative_end_ms": 14000,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"You have a solution?\""
+      },
+      {
+        "ref": "EP30:E30",
+        "segment_index": 0,
+        "relative_start_ms": 14000,
+        "relative_end_ms": 18000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Side profile close-up of the Elder Nobleman speaking with icy confidence."
+      },
+      {
+        "ref": "EP30:E31",
+        "segment_index": 0,
+        "relative_start_ms": 14600,
+        "relative_end_ms": 17700,
+        "type": "dialogue",
+        "speaker": "ELDER NOBLEMAN",
+        "text": "\"We use the law to destroy her.\""
+      },
+      {
+        "ref": "EP30:E32",
+        "segment_index": 0,
+        "relative_start_ms": 18000,
+        "relative_end_ms": 20000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Rupert looking bewildered."
+      },
+      {
+        "ref": "EP30:E33",
+        "segment_index": 0,
+        "relative_start_ms": 18300,
+        "relative_end_ms": 19500,
+        "type": "dialogue",
+        "speaker": "RUPERT",
+        "text": "\"The law?\""
+      }
+    ]
+  }
+]

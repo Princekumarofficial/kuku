@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_be31937cde63952a DURATION_MS=27300\nSEGMENT 1 (playback order)\nEP21:E3 0-1300 SOUND: A loud wooden slam as the heavy double barn doors violently fly open.\nEP21:E4 100-5000 CAMERA: Wide shot framing the open doorway against the overcast daylight as Prudence, a young village girl in an apron, rushes inside, frantic and weeping.\nEP21:E5 700-4500 PRUDENCE: \"Lady Juliana! Please! You have to help me, Toby is dying!\"\nEP21:E6 4700-7000 ACTION: Lady Juliana hurries over, placing her bandaged hands reassuringly on Prudence's trembling shoulders.\nEP21:E8 5000-7500 LADY JULIANA: \"Oh dear. Breathe. Tell me what has happened.\"\nEP21:E7 5000-7700 CAMERA: Medium close-up of Lady Juliana looking into Prudence's tearful face with compassionate urgency.\nEP21:E10 7700-11500 PRUDENCE: \"My little brother Toby... his chest is burning! He cannot breathe!\"\nEP21:E9 7700-11600 CAMERA: Close-up of Prudence weeping, clutching her hands to her chest in agony.\nEP21:E12 11500-14700 LADY JULIANA: \"Tell me what the apothecary said. Did he not give you medicine?\"\nEP21:E11 11600-14700 CAMERA: Close-up of Lady Juliana, her brow furrowing with concern.\nEP21:E14 14700-18200 PRUDENCE: \"He shut the door in my face because we have no silver!\"\nEP21:E13 14700-18300 CAMERA: Close-up of Prudence, her face twisted in bitter anguish as she gestures back toward the rain-soaked outdoors.\nEP21:E15 18300-21500 CAMERA: Wide shot of Lady Juliana and Prudence facing each other inside the wooden barn, dust motes drifting in the pale light.\nEP21:E16 18300-21800 PRUDENCE: \"The manor doctor laughed! He said village boys are not worth his time!\"\nEP21:E17 21500-27300 CAMERA: Medium profile shot of Lady Juliana looking down at her bandaged hands, holding Prudence's hand with somber heartache.\nEP21:E18 21600-23900 LADY JULIANA: \"We have no clinic now.\"\nEP21:E19 24000-27300 LADY JULIANA: \"Our cottage is ashes. I have nothing left but this coltsfoot.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

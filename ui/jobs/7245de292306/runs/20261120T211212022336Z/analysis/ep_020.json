@@ -1,0 +1,192 @@
+{
+  "episode_id": "ep_020",
+  "summary": "On-screen evidence covers the Ashbury Manor drawing room (EP20:E1-E34, E54-E68) and an abandoned barn (EP20:E35-E53). Catherine and Rupert scheme to take the ducal title after Alexander's death is sealed by the Crown, and Rupert describes the Dowager's decline as engineered, though the dialogue does not confirm any act. Juliana refuses Seamus's pleas to stop working while the lung fever spreads through the valley. Source warning sc_002 notes incomplete coverage with unavailable gaps, so the sequence between events may be missing. The Dowager and Alexander appear only in dialogue, not on screen, and the metadata's references to Alexander's fight and the village's remedies are unseen and not treated as evidence. Motives and outcomes remain uncertain.",
+  "characters": [
+    {
+      "name": "Catherine",
+      "role": "Antagonist; scheming aspirant to the ducal title, dismissive of villagers (EP20:E2-E68)"
+    },
+    {
+      "name": "Rupert",
+      "role": "Antagonist; cousin plotting to take the title after Alexander's death is sealed, implies the Dowager's decline is engineered (EP20:E2-E61)"
+    },
+    {
+      "name": "Juliana",
+      "role": "Viscount's daughter now working as the village's healer in the barn; defiant protagonist (EP20:E35-E53)"
+    },
+    {
+      "name": "Seamus",
+      "role": "Older weathered villager who urges Juliana to rest and mourns her lost status (EP20:E36-E53)"
+    }
+  ],
+  "beats": [
+    {
+      "id": "b1",
+      "kind": "setup",
+      "event_refs": [
+        "EP20:E1",
+        "EP20:E2",
+        "EP20:E3",
+        "EP20:E4"
+      ],
+      "description": "Establishing shots of Ashbury Manor and the drawing room, where Catherine and Rupert trade barbed remarks over tea.",
+      "intensity_0_10": 3.0
+    },
+    {
+      "id": "b2",
+      "kind": "plan_revealed",
+      "event_refs": [
+        "EP20:E13",
+        "EP20:E14",
+        "EP20:E15",
+        "EP20:E16"
+      ],
+      "description": "Rupert states that the title will be his once Alexander's death is formally sealed by the Crown.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b3",
+      "kind": "conspiracy",
+      "event_refs": [
+        "EP20:E18",
+        "EP20:E19",
+        "EP20:E21",
+        "EP20:E22",
+        "EP20:E27"
+      ],
+      "description": "Catherine questions the Dowager's survival; Rupert says her health fails and claims he has ensured her quiet comfort, leaving his actions ambiguous.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b4",
+      "kind": "class_contempt",
+      "event_refs": [
+        "EP20:E29",
+        "EP20:E30",
+        "EP20:E31",
+        "EP20:E33",
+        "EP20:E34"
+      ],
+      "description": "Catherine and Rupert dismiss the villagers as beneath them and promise they will learn their place.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "b5",
+      "kind": "confrontation",
+      "event_refs": [
+        "EP20:E36",
+        "EP20:E37",
+        "EP20:E38",
+        "EP20:E41",
+        "EP20:E44",
+        "EP20:E48",
+        "EP20:E49"
+      ],
+      "description": "In the barn, Seamus urges Juliana to rest; she refuses, citing the lung fever and the loss of the chapel.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b6",
+      "kind": "reaffirmation",
+      "event_refs": [
+        "EP20:E51",
+        "EP20:E52",
+        "EP20:E53"
+      ],
+      "description": "Seamus says she has been reduced to a peasant; Juliana replies that she has been reduced to herself and is not finished.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "b7",
+      "kind": "ambition_escalation",
+      "event_refs": [
+        "EP20:E57",
+        "EP20:E60",
+        "EP20:E63",
+        "EP20:E64",
+        "EP20:E67"
+      ],
+      "description": "Catherine dismisses the peasants, and she and Rupert plan for Ashbury to belong to them once the Duchess is gone.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b8",
+      "kind": "cliffhanger",
+      "event_refs": [
+        "EP20:E68"
+      ],
+      "description": "Catherine gazes from the window with burning ambition as the score swells to a menacing hold.",
+      "intensity_0_10": 6.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "r1",
+      "event_refs": [
+        "EP20:E15",
+        "EP20:E16"
+      ],
+      "claim": "Rupert intends to claim the title once Alexander's death is formally sealed by the Crown.",
+      "spoiler_significance_0_10": 8.0,
+      "creates_questions": [
+        "q1",
+        "q2"
+      ]
+    },
+    {
+      "id": "r2",
+      "event_refs": [
+        "EP20:E21",
+        "EP20:E22",
+        "EP20:E27"
+      ],
+      "claim": "Rupert says the Dowager's decline is ongoing and that he has ensured her quiet comfort, which may imply deliberate harm.",
+      "spoiler_significance_0_10": 7.0,
+      "creates_questions": [
+        "q3"
+      ]
+    },
+    {
+      "id": "r3",
+      "event_refs": [
+        "EP20:E41",
+        "EP20:E48"
+      ],
+      "claim": "Juliana is the only healer left in the village after the chapel was lost, and lung fever is spreading in the valley.",
+      "spoiler_significance_0_10": 4.0,
+      "creates_questions": [
+        "q4"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "q1: Will Rupert's claim to the title succeed, and is Alexander's death confirmed?",
+      "introduced_by": [
+        "EP20:E15",
+        "EP20:E16"
+      ]
+    },
+    {
+      "question": "q2: Will the Crown formally seal Alexander's death?",
+      "introduced_by": [
+        "EP20:E15"
+      ]
+    },
+    {
+      "question": "q3: Did Rupert cause the Dowager's decline, and is she still alive?",
+      "introduced_by": [
+        "EP20:E18",
+        "EP20:E21",
+        "EP20:E27"
+      ]
+    },
+    {
+      "question": "q4: Can Juliana's remedies stop the lung fever in the valley?",
+      "introduced_by": [
+        "EP20:E41",
+        "EP20:E48"
+      ]
+    }
+  ]
+}

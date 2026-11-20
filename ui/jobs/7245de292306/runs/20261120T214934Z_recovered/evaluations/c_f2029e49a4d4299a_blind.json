@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_f2029e49a4d4299a",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP26:E32",
+      "EP26:E34",
+      "EP26:E35"
+    ],
+    "reason": "The opening starts with a close-up of Juliana's chin lifting and a slow tracking shot to a distinctive engraved signet ring, which creates a visual question. The hook is slow and gives no immediate conflict, and the gasp only arrives at 4400ms."
+  },
+  "cliffhanger": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP26:E44",
+      "EP26:E45"
+    ],
+    "reason": "The clip ends mid-action with the Duchess's trembling fingers snapping tight on Juliana's arm, and her demand 'Let me see your hand' is never answered. The ring's significance and the Duchess's reaction stay unexplained at the cut.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Identity and relationship of Juliana and the Dowager Duchess",
+      "Why the engraved signet ring provokes the Duchess's shock",
+      "What the Duchess recognizes or fears",
+      "Whether Juliana's dignified sorrow relates to any earlier situation",
+      "Setting and stakes of the bedside scene"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The sharp gasp, the Duchess's drained color, trembling frailty, and frantic grasp build shock and unease, and Juliana's growing confusion adds tension. The emotion is strong but lacks grounding because the cause is unexplained."
+  },
+  "weaknesses": [
+    "The ring's importance is not established within the clip, so the Duchess's reaction lacks clear motivation for a first-time viewer.",
+    "The opening sorrow and defiance of Juliana are not tied to any visible cause.",
+    "The middle section relies on repeated shock beats without new information.",
+    "Characters are unnamed in context beyond on-screen dialogue, so the relationship dynamic is unclear."
+  ],
+  "one_line_why_it_works": "A visible ring triggers a sudden, frightened reaction from the Duchess, and the clip ends on her desperate grab before any answer is given."
+}

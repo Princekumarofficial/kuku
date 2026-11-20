@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_db715e4c90fc52bc",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP08:E8",
+      "EP08:E9",
+      "EP08:E11"
+    ],
+    "reason": "The clip opens with Alexander quietly setting down a bundle of white herbal flowers beside an open book, and Juliana's immediate reply 'Yarrow.' gives a small, intriguing start. The opening is calm rather than attention-grabbing, though, and the intrigue builds gradually."
+  },
+  "cliffhanger": {
+    "score_0_10": 5.0,
+    "evidence_refs": [
+      "EP08:E28",
+      "EP08:E29",
+      "EP08:E30",
+      "EP08:E31"
+    ],
+    "reason": "The clip ends with Alexander stopping Juliana's hand and saying 'Not yet.', followed by her puzzled 'Not yet?'. The meaning of 'Not yet' is left open, so the question hangs at the final frame. The tension is mild and personal rather than a high-stakes cliffhanger.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Who Alexander and Juliana are and how they know each other",
+      "Why Alexander's hair and beard matter to Juliana and why he refuses to have them trimmed yet",
+      "What the open book is and why the herbs matter in this setting",
+      "The earlier events that give Alexander's scar and soldier past their significance"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 6.0,
+    "reason": "The exchange carries warm, affectionate tension: Juliana's curiosity, Alexander's guarded half-smile, and the intimate gesture toward his temple followed by his firm but gentle stop. The emotional stakes are clear, but without backstory the feelings stay somewhat surface-level."
+  },
+  "weaknesses": [
+    "Relationship and stakes are not established within the clip, limiting viewer investment",
+    "The 'Not yet' exchange is ambiguous and could be read as either romantic or merely teasing",
+    "Slow pacing of medium shots and close-ups with limited action",
+    "Little visible conflict or urgency to drive the viewer forward"
+  ],
+  "one_line_why_it_works": "A quiet, intimate exchange about healing knowledge and a guarded man's refusal ends on an open 'Not yet?' that makes a first-time viewer curious about what comes next."
+}

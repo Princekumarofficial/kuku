@@ -1,0 +1,48 @@
+{
+  "candidate_id": "c_af1f5a1fd6ebd224",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP16:E32",
+      "EP16:E34",
+      "EP16:E36",
+      "EP16:E40",
+      "EP16:E44",
+      "EP16:E63",
+      "EP16:E64"
+    ],
+    "reason": "The clip opens immediately on bandaged, trembling hands and a sudden violent confrontation, and the 'Harrington! Gerald Harrington paid us!' reveal lands quickly. The ending hook falls within the final 3000ms, but it is a soft romantic beat rather than a sharp new question."
+  },
+  "cliffhanger": {
+    "score_0_10": 5.0,
+    "evidence_refs": [
+      "EP16:E61",
+      "EP16:E62",
+      "EP16:E63",
+      "EP16:E64"
+    ],
+    "reason": "The cello swell marks a hold, but the on-screen action (Alexander answering 'No.' and a shared gaze) closes the immediate question of whether he is hurt, so it reads as a romantic pause rather than an unresolved danger. Gerald Harrington's betrayal and the thugs' motive are left open, which gives some unresolved tension.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Identity and role of Alexander and his relationship to Juliana",
+      "Why the thugs attacked and what garden or cottage this is",
+      "Who Gerald Harrington is and why his name matters to Juliana",
+      "Referent of Alexander's 'No.' response",
+      "Whether the injured hand or the 'soldier' line has a prior backstory"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Juliana's devastation at the betrayal, Alexander's lethal intensity, and the closing swelling cello create strong tension and a warm romantic pull that a first-time viewer would feel."
+  },
+  "weaknesses": [
+    "The ending is a romantic gaze rather than a true cliffhanger; the 'No.' answer resolves the immediate question of injury",
+    "Heavy reliance on unexplained context such as Gerald Harrington and the garden setting",
+    "Dialogue-driven intensity is clear, but the reason for the attack and Alexander's background are not established",
+    "Ending musical cue promises a dramatic hold that the visuals do not deliver"
+  ],
+  "one_line_why_it_works": "A sudden, violent confrontation quickly escalates into a betrayal reveal and ends on a charged romantic gaze that pulls a viewer into the characters' unexplained history."
+}

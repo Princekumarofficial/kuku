@@ -1,0 +1,737 @@
+[
+  {
+    "candidate_id": "c_54e059df263968b6",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 0,
+        "end_ms": 41200,
+        "episode_id": "ep_034"
+      }
+    ],
+    "duration_ms": 41200,
+    "origin": "ep034_opp_1",
+    "clip_events": [
+      {
+        "ref": "EP34:E1",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2800,
+        "type": "camera",
+        "speaker": null,
+        "text": "High wide establishing shot from behind the presiding judge looking down into the grand, sunlit courtroom filled with stern spectators, armed bailiffs, and Lady Juliana standing confined in the wooden prisoner's dock on the left."
+      },
+      {
+        "ref": "EP34:E2",
+        "segment_index": 0,
+        "relative_start_ms": 1200,
+        "relative_end_ms": 7800,
+        "type": "dialogue",
+        "speaker": "JUDGE",
+        "text": "\"Lady Juliana Ashcroft, you are accused of witchcraft, unlawful healing, and poisoning.\""
+      },
+      {
+        "ref": "EP34:E3",
+        "segment_index": 0,
+        "relative_start_ms": 2800,
+        "relative_end_ms": 7800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the stern, elderly Judge seated at the high mahogany bench, resting both hands on the court documents."
+      },
+      {
+        "ref": "EP34:E4",
+        "segment_index": 0,
+        "relative_start_ms": 7800,
+        "relative_end_ms": 13100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the charred, ancient botanical grimoire resting on the bench, its scorched pages open to an illustration of a wild rose, as a finger firmly taps the text."
+      },
+      {
+        "ref": "EP34:E5",
+        "segment_index": 0,
+        "relative_start_ms": 9000,
+        "relative_end_ms": 11200,
+        "type": "sound",
+        "speaker": null,
+        "text": "[A firm, hollow tap of a finger striking the parchment]"
+      },
+      {
+        "ref": "EP34:E6",
+        "segment_index": 0,
+        "relative_start_ms": 9100,
+        "relative_end_ms": 12600,
+        "type": "dialogue",
+        "speaker": "JUDGE",
+        "text": "\"Do you deny possessing this book?\""
+      },
+      {
+        "ref": "EP34:E7",
+        "segment_index": 0,
+        "relative_start_ms": 13100,
+        "relative_end_ms": 15500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle medium close-up of Lady Juliana standing erect in the dock, her prisoner label pinned to her rustic buttoned gown, her expression resolute."
+      },
+      {
+        "ref": "EP34:E8",
+        "segment_index": 0,
+        "relative_start_ms": 13800,
+        "relative_end_ms": 14800,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"No.\""
+      },
+      {
+        "ref": "EP34:E9",
+        "segment_index": 0,
+        "relative_start_ms": 15500,
+        "relative_end_ms": 19400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle medium shot of the Judge leaning over his elevated bench, staring down critically."
+      },
+      {
+        "ref": "EP34:E10",
+        "segment_index": 0,
+        "relative_start_ms": 15600,
+        "relative_end_ms": 19200,
+        "type": "dialogue",
+        "speaker": "JUDGE",
+        "text": "\"Do you deny using its remedies?\""
+      },
+      {
+        "ref": "EP34:E11",
+        "segment_index": 0,
+        "relative_start_ms": 19400,
+        "relative_end_ms": 23800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of Lady Juliana's face, bruised cheekbone highlighting her calm defiance."
+      },
+      {
+        "ref": "EP34:E12",
+        "segment_index": 0,
+        "relative_start_ms": 20800,
+        "relative_end_ms": 21800,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"No.\""
+      },
+      {
+        "ref": "EP34:E13",
+        "segment_index": 0,
+        "relative_start_ms": 23800,
+        "relative_end_ms": 27400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the aristocratic Lord standing at the railing in his tailored dark coat, turning slowly with a smirk of malicious satisfaction."
+      },
+      {
+        "ref": "EP34:E14",
+        "segment_index": 0,
+        "relative_start_ms": 27400,
+        "relative_end_ms": 31700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Judge leaning forward across his bench, eyes narrowing with grim conviction."
+      },
+      {
+        "ref": "EP34:E15",
+        "segment_index": 0,
+        "relative_start_ms": 27500,
+        "relative_end_ms": 31200,
+        "type": "dialogue",
+        "speaker": "JUDGE",
+        "text": "\"Then you admit to practicing forbidden arts.\""
+      },
+      {
+        "ref": "EP34:E16",
+        "segment_index": 0,
+        "relative_start_ms": 31700,
+        "relative_end_ms": 35300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Lady Juliana looking upward with quiet dignity, her eyes luminous."
+      },
+      {
+        "ref": "EP34:E17",
+        "segment_index": 0,
+        "relative_start_ms": 33200,
+        "relative_end_ms": 35100,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"I admit to healing the sick.\""
+      },
+      {
+        "ref": "EP34:E18",
+        "segment_index": 0,
+        "relative_start_ms": 35300,
+        "relative_end_ms": 37400,
+        "type": "action",
+        "speaker": null,
+        "text": "The Judge furiously raises his wooden gavel and strikes the sound block with sharp force."
+      },
+      {
+        "ref": "EP34:E19",
+        "segment_index": 0,
+        "relative_start_ms": 35400,
+        "relative_end_ms": 36600,
+        "type": "dialogue",
+        "speaker": "JUDGE",
+        "text": "\"Silence!\""
+      },
+      {
+        "ref": "EP34:E20",
+        "segment_index": 0,
+        "relative_start_ms": 35800,
+        "relative_end_ms": 37000,
+        "type": "sound",
+        "speaker": null,
+        "text": "[Sharp, echoing crack of the gavel slamming onto wood]"
+      },
+      {
+        "ref": "EP34:E21",
+        "segment_index": 0,
+        "relative_start_ms": 35800,
+        "relative_end_ms": 37400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the Judge slamming the gavel down on his bench."
+      },
+      {
+        "ref": "EP34:E22",
+        "segment_index": 0,
+        "relative_start_ms": 37400,
+        "relative_end_ms": 41200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tracking shot moving from the Judge on his bench as he points his outstretched arm across the courtroom floor toward the witness stand."
+      },
+      {
+        "ref": "EP34:E23",
+        "segment_index": 0,
+        "relative_start_ms": 37500,
+        "relative_end_ms": 41200,
+        "type": "dialogue",
+        "speaker": "JUDGE",
+        "text": "\"Prudence. You served beside the accused?\""
+      },
+      {
+        "ref": "EP34:E24",
+        "segment_index": 0,
+        "relative_start_ms": 41000,
+        "relative_end_ms": 41200,
+        "type": "action",
+        "speaker": null,
+        "text": "Prudence the young maid stands trembling in the center of the courtroom floor, her head bowed in deep shame, clutching the sides of her apron."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_6a30a81da166616f",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 107300,
+        "end_ms": 131600,
+        "episode_id": "ep_034"
+      }
+    ],
+    "duration_ms": 24300,
+    "origin": "ep034_opp_2",
+    "clip_events": [
+      {
+        "ref": "EP34:E65",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Side two-shot of the Lord stepping up to the dock, looming beside Lady Juliana as she looks him in the eye."
+      },
+      {
+        "ref": "EP34:E66",
+        "segment_index": 0,
+        "relative_start_ms": 700,
+        "relative_end_ms": 2500,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"She calls it healing.\""
+      },
+      {
+        "ref": "EP34:E67",
+        "segment_index": 0,
+        "relative_start_ms": 2700,
+        "relative_end_ms": 5500,
+        "type": "action",
+        "speaker": null,
+        "text": "The Lord turns dramatically to face the entire assembly, gesturing toward the spectators."
+      },
+      {
+        "ref": "EP34:E68",
+        "segment_index": 0,
+        "relative_start_ms": 2700,
+        "relative_end_ms": 5500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the Lord addressing the courtroom."
+      },
+      {
+        "ref": "EP34:E69",
+        "segment_index": 0,
+        "relative_start_ms": 2800,
+        "relative_end_ms": 5300,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"The people call it poisoning!\""
+      },
+      {
+        "ref": "EP34:E70",
+        "segment_index": 0,
+        "relative_start_ms": 5500,
+        "relative_end_ms": 7900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Lady Juliana looking past him directly toward the gallery with sharp clarity."
+      },
+      {
+        "ref": "EP34:E71",
+        "segment_index": 0,
+        "relative_start_ms": 5900,
+        "relative_end_ms": 7700,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"What were their illnesses?\""
+      },
+      {
+        "ref": "EP34:E72",
+        "segment_index": 0,
+        "relative_start_ms": 7900,
+        "relative_end_ms": 9900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle close-up of the Lord looking down arrogantly over his shoulder."
+      },
+      {
+        "ref": "EP34:E73",
+        "segment_index": 0,
+        "relative_start_ms": 8000,
+        "relative_end_ms": 9200,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"Irrelevant.\""
+      },
+      {
+        "ref": "EP34:E74",
+        "segment_index": 0,
+        "relative_start_ms": 9900,
+        "relative_end_ms": 12500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Lady Juliana gritting her teeth in fierce defiance."
+      },
+      {
+        "ref": "EP34:E75",
+        "segment_index": 0,
+        "relative_start_ms": 10100,
+        "relative_end_ms": 12300,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"It is not irrelevant!\""
+      },
+      {
+        "ref": "EP34:E76",
+        "segment_index": 0,
+        "relative_start_ms": 12500,
+        "relative_end_ms": 16100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle medium shot of Lady Juliana standing tall against the courtroom window light, her chained hands resting on the balustrade as she addresses the entire hall."
+      },
+      {
+        "ref": "EP34:E77",
+        "segment_index": 0,
+        "relative_start_ms": 12600,
+        "relative_end_ms": 15900,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Herbs are not magic! They are medicine!\""
+      },
+      {
+        "ref": "EP34:E78",
+        "segment_index": 0,
+        "relative_start_ms": 16100,
+        "relative_end_ms": 19500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the Judge sitting with steepled fingers upon his high bench."
+      },
+      {
+        "ref": "EP34:E79",
+        "segment_index": 0,
+        "relative_start_ms": 16300,
+        "relative_end_ms": 19100,
+        "type": "dialogue",
+        "speaker": "JUDGE",
+        "text": "\"You admit you administered them?\""
+      },
+      {
+        "ref": "EP34:E80",
+        "segment_index": 0,
+        "relative_start_ms": 19500,
+        "relative_end_ms": 21800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Lady Juliana looking straight forward."
+      },
+      {
+        "ref": "EP34:E81",
+        "segment_index": 0,
+        "relative_start_ms": 19900,
+        "relative_end_ms": 20900,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Yes.\""
+      },
+      {
+        "ref": "EP34:E82",
+        "segment_index": 0,
+        "relative_start_ms": 21800,
+        "relative_end_ms": 24300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the Judge gesturing with an open hand."
+      },
+      {
+        "ref": "EP34:E83",
+        "segment_index": 0,
+        "relative_start_ms": 22000,
+        "relative_end_ms": 24300,
+        "type": "dialogue",
+        "speaker": "JUDGE",
+        "text": "\"Without the approval of a licensed physician?\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_db732446cb310f7e",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 154800,
+        "end_ms": 179400,
+        "episode_id": "ep_034"
+      }
+    ],
+    "duration_ms": 24600,
+    "origin": "ep034_opp_3",
+    "clip_events": [
+      {
+        "ref": "EP34:E97",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle close-up of Lady Juliana looking skyward through the arched court windows."
+      },
+      {
+        "ref": "EP34:E98",
+        "segment_index": 0,
+        "relative_start_ms": 400,
+        "relative_end_ms": 1600,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"I have.\""
+      },
+      {
+        "ref": "EP34:E99",
+        "segment_index": 0,
+        "relative_start_ms": 2000,
+        "relative_end_ms": 7200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the Judge pointing an outstretched finger across the bench, his tone hardening into lethal severity."
+      },
+      {
+        "ref": "EP34:E100",
+        "segment_index": 0,
+        "relative_start_ms": 2200,
+        "relative_end_ms": 7000,
+        "type": "dialogue",
+        "speaker": "JUDGE",
+        "text": "\"You understand that refusal may be treated as proof that you knowingly practiced witchcraft?\""
+      },
+      {
+        "ref": "EP34:E101",
+        "segment_index": 0,
+        "relative_start_ms": 7200,
+        "relative_end_ms": 8800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Lady Juliana unflinchingly accepting her fate."
+      },
+      {
+        "ref": "EP34:E102",
+        "segment_index": 0,
+        "relative_start_ms": 7300,
+        "relative_end_ms": 8700,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Then let it be.\""
+      },
+      {
+        "ref": "EP34:E103",
+        "segment_index": 0,
+        "relative_start_ms": 8800,
+        "relative_end_ms": 12000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Prudence breaking into shattered sobs, pressing her apron to her face to muffle her tears."
+      },
+      {
+        "ref": "EP34:E104",
+        "segment_index": 0,
+        "relative_start_ms": 9200,
+        "relative_end_ms": 12000,
+        "type": "action",
+        "speaker": null,
+        "text": "Prudence buries her face in her stained white apron, shuddering with grief."
+      },
+      {
+        "ref": "EP34:E105",
+        "segment_index": 0,
+        "relative_start_ms": 12000,
+        "relative_end_ms": 19600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot pushing into Lady Juliana's face as she speaks directly across the hall with compassionate, unwavering authority."
+      },
+      {
+        "ref": "EP34:E106",
+        "segment_index": 0,
+        "relative_start_ms": 12200,
+        "relative_end_ms": 18800,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Do not be afraid. I will not call healing evil just because powerful people have decided to fear it.\""
+      },
+      {
+        "ref": "EP34:E107",
+        "segment_index": 0,
+        "relative_start_ms": 19600,
+        "relative_end_ms": 21700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up profile of the Lord, his smirk instantly freezing into an irritated, malevolent scowl."
+      },
+      {
+        "ref": "EP34:E108",
+        "segment_index": 0,
+        "relative_start_ms": 21700,
+        "relative_end_ms": 23400,
+        "type": "action",
+        "speaker": null,
+        "text": "The Judge furiously smashes his gavel down upon the sound block with a deafening crack."
+      },
+      {
+        "ref": "EP34:E109",
+        "segment_index": 0,
+        "relative_start_ms": 21700,
+        "relative_end_ms": 23400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Judge slamming the wooden gavel down."
+      },
+      {
+        "ref": "EP34:E110",
+        "segment_index": 0,
+        "relative_start_ms": 21800,
+        "relative_end_ms": 22800,
+        "type": "sound",
+        "speaker": null,
+        "text": "[Violent, resonant smash of the wooden gavel]"
+      },
+      {
+        "ref": "EP34:E111",
+        "segment_index": 0,
+        "relative_start_ms": 23000,
+        "relative_end_ms": 24600,
+        "type": "dialogue",
+        "speaker": "JUDGE",
+        "text": "\"Enough!\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_458f36d8f36b80bf",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 35100,
+        "end_ms": 57600,
+        "episode_id": "ep_034"
+      }
+    ],
+    "duration_ms": 22500,
+    "origin": "recovery_B4",
+    "clip_events": [
+      {
+        "ref": "EP34:E16",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Lady Juliana looking upward with quiet dignity, her eyes luminous."
+      },
+      {
+        "ref": "EP34:E18",
+        "segment_index": 0,
+        "relative_start_ms": 200,
+        "relative_end_ms": 2300,
+        "type": "action",
+        "speaker": null,
+        "text": "The Judge furiously raises his wooden gavel and strikes the sound block with sharp force."
+      },
+      {
+        "ref": "EP34:E19",
+        "segment_index": 0,
+        "relative_start_ms": 300,
+        "relative_end_ms": 1500,
+        "type": "dialogue",
+        "speaker": "JUDGE",
+        "text": "\"Silence!\""
+      },
+      {
+        "ref": "EP34:E20",
+        "segment_index": 0,
+        "relative_start_ms": 700,
+        "relative_end_ms": 1900,
+        "type": "sound",
+        "speaker": null,
+        "text": "[Sharp, echoing crack of the gavel slamming onto wood]"
+      },
+      {
+        "ref": "EP34:E21",
+        "segment_index": 0,
+        "relative_start_ms": 700,
+        "relative_end_ms": 2300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the Judge slamming the gavel down on his bench."
+      },
+      {
+        "ref": "EP34:E22",
+        "segment_index": 0,
+        "relative_start_ms": 2300,
+        "relative_end_ms": 7400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tracking shot moving from the Judge on his bench as he points his outstretched arm across the courtroom floor toward the witness stand."
+      },
+      {
+        "ref": "EP34:E23",
+        "segment_index": 0,
+        "relative_start_ms": 2400,
+        "relative_end_ms": 6100,
+        "type": "dialogue",
+        "speaker": "JUDGE",
+        "text": "\"Prudence. You served beside the accused?\""
+      },
+      {
+        "ref": "EP34:E24",
+        "segment_index": 0,
+        "relative_start_ms": 5900,
+        "relative_end_ms": 7900,
+        "type": "action",
+        "speaker": null,
+        "text": "Prudence the young maid stands trembling in the center of the courtroom floor, her head bowed in deep shame, clutching the sides of her apron."
+      },
+      {
+        "ref": "EP34:E25",
+        "segment_index": 0,
+        "relative_start_ms": 7400,
+        "relative_end_ms": 9700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Prudence looking up with tears streaming down her pale face."
+      },
+      {
+        "ref": "EP34:E26",
+        "segment_index": 0,
+        "relative_start_ms": 8100,
+        "relative_end_ms": 9500,
+        "type": "dialogue",
+        "speaker": "PRUDENCE",
+        "text": "\"Yes, Your Honor.\""
+      },
+      {
+        "ref": "EP34:E27",
+        "segment_index": 0,
+        "relative_start_ms": 9700,
+        "relative_end_ms": 13900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the Judge leaning forward with folded hands."
+      },
+      {
+        "ref": "EP34:E28",
+        "segment_index": 0,
+        "relative_start_ms": 10200,
+        "relative_end_ms": 13700,
+        "type": "dialogue",
+        "speaker": "JUDGE",
+        "text": "\"Did you witness Lady Juliana perform these treatments?\""
+      },
+      {
+        "ref": "EP34:E29",
+        "segment_index": 0,
+        "relative_start_ms": 13900,
+        "relative_end_ms": 16400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Profile over-the-shoulder shot from behind Prudence toward Lady Juliana standing bound in iron cuffs at the prisoner's dock."
+      },
+      {
+        "ref": "EP34:E30",
+        "segment_index": 0,
+        "relative_start_ms": 14000,
+        "relative_end_ms": 15400,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Tell the truth.\""
+      },
+      {
+        "ref": "EP34:E31",
+        "segment_index": 0,
+        "relative_start_ms": 16400,
+        "relative_end_ms": 19700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Prudence breaking down in tears, squeezing her eyes shut as guilt overwhelms her."
+      },
+      {
+        "ref": "EP34:E32",
+        "segment_index": 0,
+        "relative_start_ms": 17900,
+        "relative_end_ms": 19100,
+        "type": "dialogue",
+        "speaker": "PRUDENCE",
+        "text": "\"Yes.\""
+      },
+      {
+        "ref": "EP34:E33",
+        "segment_index": 0,
+        "relative_start_ms": 19700,
+        "relative_end_ms": 22500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Lady Juliana looking at her former maid, a momentary flicker of hurt passing through her eyes before settling into stoic composure."
+      }
+    ]
+  }
+]

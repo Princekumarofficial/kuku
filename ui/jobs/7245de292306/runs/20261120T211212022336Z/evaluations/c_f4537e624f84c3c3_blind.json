@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c_f4537e624f84c3c3",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP06:E61",
+      "EP06:E63"
+    ],
+    "reason": "The clip opens within 0-3000ms with Juliana scrubbing hard and a raw, suppressed emotional line (E63) that signals loss, which pulls a first-time viewer in quickly even without context."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP06:E92",
+      "EP06:E91"
+    ],
+    "reason": "The final line 'And yet...' (E92) is trailing and unfinished, and it follows a peaceful moment (E91), so the clip ends on an open turn rather than a resolution. The meaning of the pivot is not shown, so the thread is left unresolved.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Juliana's home, family, and what she lost are only referenced in dialogue and never shown or explained",
+      "The identity and relationship of the Mysterious Bearded Man to Juliana is not established",
+      "Why the table is wobbly and why the place is 'not much' is not explained",
+      "The reason Juliana is staying in this room for the night is not given",
+      "What 'And yet...' refers to is not stated"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The shift from suppressed grief (E62-E63) to quiet gratitude and serenity (E85, E91) creates a clear emotional arc, though the grief is not grounded in visible context for a new viewer."
+  },
+  "weaknesses": [
+    "Stakes and backstory are asserted through dialogue (E86, E87, E89) rather than established on screen, so the emotional weight is hard to fully understand",
+    "Several beats are slow, quiet chores (E67, E69, E71) that dilute momentum",
+    "The Mysterious Bearded Man's motives and identity are unexplained, making his help feel generic",
+    "The final 'And yet...' may read as an unfinished line rather than a deliberate hook"
+  ],
+  "one_line_why_it_works": "A raw early outburst of loss gives way to a warm, quiet fire scene that ends on the unfinished line 'And yet...', leaving a first-time viewer curious about what comes next."
+}

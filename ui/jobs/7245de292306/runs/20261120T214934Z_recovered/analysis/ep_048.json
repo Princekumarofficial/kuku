@@ -1,0 +1,204 @@
+{
+  "episode_id": "ep_048",
+  "summary": "Based only on on-screen events EP48:E1 to EP48:E43 in scenes sc_001 and sc_002, Catherine privately plans to counter Alexander and the council during a ten-day window. She has Agnes lock the door, sends Agnes with a purse to summon a priest secretly, and says she will return to the house rather than flee. Uncertainty: sc_002 has incomplete source coverage with gaps unavailable, so events between the recorded timestamps may be missing. Father Thomas, Alexander and the Duke appear only in dialogue or are referenced; none is seen on screen. Juliana is not named in on-screen events. Intent and the identity of the crown referenced in dialogue are inferred from dialogue only. Metadata was not used as evidence; its account of a prior public humiliation and the reprieve is unseen in this source.",
+  "characters": [
+    {
+      "name": "Catherine",
+      "role": "Scheming woman in her chambers who plots against Alexander and the council while planning secret moves through Agnes."
+    },
+    {
+      "name": "Agnes",
+      "role": "Maid who enters on Catherine's summons, is told to lock the door, and is sent to bring a priest secretly."
+    },
+    {
+      "name": "Father Thomas",
+      "role": "Priest referenced in dialogue as having done Catherine's part and expected to act again; does not appear on screen."
+    },
+    {
+      "name": "Alexander",
+      "role": "Addressed by Catherine in dialogue as the opponent with ten days to act; does not appear on screen."
+    },
+    {
+      "name": "The Duke",
+      "role": "Referenced by Agnes as having bailiffs watching the roads out of the county; does not appear on screen."
+    }
+  ],
+  "beats": [
+    {
+      "id": "B1",
+      "kind": "establishing",
+      "event_refs": [
+        "EP48:E1",
+        "EP48:E2"
+      ],
+      "description": "Catherine stands at the window in her chamber at night and turns with a cold smirk.",
+      "intensity_0_10": 3.0
+    },
+    {
+      "id": "B2",
+      "kind": "declaration_of_intent",
+      "event_refs": [
+        "EP48:E3",
+        "EP48:E4",
+        "EP48:E5",
+        "EP48:E6",
+        "EP48:E7",
+        "EP48:E8",
+        "EP48:E9",
+        "EP48:E10",
+        "EP48:E11",
+        "EP48:E12",
+        "EP48:E13",
+        "EP48:E14"
+      ],
+      "description": "Catherine speaks of using the ten-day period for the council, witnesses and a decree, and frames the period as a door that can be closed from the other side.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "B3",
+      "kind": "secrecy_setup",
+      "event_refs": [
+        "EP48:E15",
+        "EP48:E16",
+        "EP48:E17",
+        "EP48:E18",
+        "EP48:E19",
+        "EP48:E20"
+      ],
+      "description": "Agnes enters on Catherine's summons and the chamber door is locked with an iron key.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "B4",
+      "kind": "confrontation",
+      "event_refs": [
+        "EP48:E21",
+        "EP48:E22",
+        "EP48:E23",
+        "EP48:E24",
+        "EP48:E25"
+      ],
+      "description": "Catherine grips Agnes's hands and expresses resentment over her public humiliation, saying grief makes the household careless.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "B5",
+      "kind": "reveal",
+      "event_refs": [
+        "EP48:E26",
+        "EP48:E27",
+        "EP48:E28",
+        "EP48:E29"
+      ],
+      "description": "Agnes warns of bailiffs on the roads and Catherine replies that she will go back into the house instead of leaving the county.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "B6",
+      "kind": "instruction",
+      "event_refs": [
+        "EP48:E30",
+        "EP48:E31",
+        "EP48:E32",
+        "EP48:E33",
+        "EP48:E34",
+        "EP48:E35",
+        "EP48:E36",
+        "EP48:E37"
+      ],
+      "description": "Catherine says Father Thomas has already done his part and needs to do more, and orders that no one see him come to her.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "B7",
+      "kind": "dispatch",
+      "event_refs": [
+        "EP48:E38",
+        "EP48:E39",
+        "EP48:E40",
+        "EP48:E41",
+        "EP48:E42"
+      ],
+      "description": "Catherine gives Agnes a heavy purse, orders her to send for the priest tonight without being seen, and Agnes hurries out.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "B8",
+      "kind": "closing_image",
+      "event_refs": [
+        "EP48:E43"
+      ],
+      "description": "Through the window, Catherine stands motionless in candlelight staring into the night as the scene fades to black.",
+      "intensity_0_10": 5.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "R1",
+      "event_refs": [
+        "EP48:E29"
+      ],
+      "claim": "Catherine says she will not leave the county and instead intends to return to the house.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "What will Catherine do once she is back inside the house?"
+      ]
+    },
+    {
+      "id": "R2",
+      "event_refs": [
+        "EP48:E31",
+        "EP48:E32",
+        "EP48:E40",
+        "EP48:E41"
+      ],
+      "claim": "Catherine has an existing arrangement with Father Thomas and wants him to act again secretly before the hearing.",
+      "spoiler_significance_0_10": 7.0,
+      "creates_questions": [
+        "Will Father Thomas arrive secretly as Catherine requested?",
+        "What specific action does Catherine want from Father Thomas?"
+      ]
+    },
+    {
+      "id": "R3",
+      "event_refs": [
+        "EP48:E13",
+        "EP48:E14"
+      ],
+      "claim": "Catherine says the ten-day period is a door and that doors can be closed from the other side, implying a planned move against Alexander.",
+      "spoiler_significance_0_10": 5.0,
+      "creates_questions": [
+        "What move against Alexander does Catherine intend during the ten days?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "Will Father Thomas arrive secretly at Catherine's chambers tonight?",
+      "introduced_by": [
+        "EP48:E40",
+        "EP48:E41"
+      ]
+    },
+    {
+      "question": "What does Catherine plan to do with the ten days before the hearing?",
+      "introduced_by": [
+        "EP48:E6",
+        "EP48:E8",
+        "EP48:E13"
+      ]
+    },
+    {
+      "question": "What is the healer's crown and what does Catherine intend to do to it?",
+      "introduced_by": [
+        "EP48:E3"
+      ]
+    },
+    {
+      "question": "Will Agnes carry out the secret summons without being seen?",
+      "introduced_by": [
+        "EP48:E42"
+      ]
+    }
+  ]
+}

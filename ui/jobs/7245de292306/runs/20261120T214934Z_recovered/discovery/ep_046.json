@@ -1,0 +1,68 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "ep046_opp01",
+      "episode_id": "ep_046",
+      "concept": "The High Priest breaks the Crown seal and places the sanctuary under seizure, then accuses the marriage of invalidity, ending on the claim that Alexander was recorded as dead.",
+      "hook_refs": [
+        "EP46:E8"
+      ],
+      "ending_refs": [
+        "EP46:E32"
+      ],
+      "context_refs": [
+        "EP46:E11"
+      ],
+      "why_promising": "The decree hook is self-contained and the clip ends on the unresolved Crown-record accusation about Alexander's death, which raises an open question (EP46:E32, 52200-58000ms; hook EP46:E8 at 11500ms; span 46500ms)."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep046_opp02",
+      "episode_id": "ep_046",
+      "concept": "Juliana publicly refuses the church's permission and declares that God married the couple, ending before Catherine's threat.",
+      "hook_refs": [
+        "EP46:E34"
+      ],
+      "ending_refs": [
+        "EP46:E46"
+      ],
+      "context_refs": [
+        "EP46:E38"
+      ],
+      "why_promising": "Juliana's defiant opening line is a strong standalone hook, and the clip closes on her triumphant shout that God married them, leaving the High Priest's response unresolved (EP46:E46 end 85500ms; hook at 58500ms; span 27000ms)."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep046_opp03",
+      "episode_id": "ep_046",
+      "concept": "Alexander rejects the High Priest's authority and the High Priest sets a ten-day standoff, ending on the priest's warning before the guards stand down.",
+      "hook_refs": [
+        "EP46:E58"
+      ],
+      "ending_refs": [
+        "EP46:E71"
+      ],
+      "context_refs": [
+        "EP46:E60"
+      ],
+      "why_promising": "Alexander's challenge to the parish priest is clear on its own, and the clip ends on the priest's 'Ten days, Duke' warning, which comes before the guards and priest depart (EP46:E71 end 138500ms; hook at 101800ms; span 36700ms)."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep046_opp04",
+      "episode_id": "ep_046",
+      "concept": "The High Priest accuses the couple of marrying without leave, and Alexander answers with a demand for a ten-day trial and accepts the wager.",
+      "hook_refs": [
+        "EP46:E50"
+      ],
+      "ending_refs": [
+        "EP46:E65"
+      ],
+      "context_refs": [
+        "EP46:E52"
+      ],
+      "why_promising": "The priest's threatening warning opens the clip with immediate tension, and it ends on Alexander accepting the wager, a cliffhanger that precedes the guards' standoff (EP46:E65 end 126500ms; hook at 89300ms; span 37200ms)."
+    }
+  ]
+}

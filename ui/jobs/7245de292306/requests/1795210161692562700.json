@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_bc6a93c98939499f DURATION_MS=30800\nSEGMENT 1 (playback order)\nEP01:E39 0-100 CAMERA: Medium shot on Gerald stepping forward, cold and indifferent, with the Lady in Gold Gown lingering in soft focus behind him.\nEP01:E41 100-1800 THE FORMER GROOM: \"I changed my mind.\"\nEP01:E40 100-3000 CAMERA: Tight close-up on Gerald's hardened profile as he glances down.\nEP01:E42 3000-6000 CAMERA: Extreme close-up on Juliana's furious, weeping face.\nEP01:E43 3400-5600 LADY JULIANA: \"You swore you loved me!\"\nEP01:E44 6000-8800 CAMERA: Close-up on the Lady in Gold Gown smiling condescendingly.\nEP01:E45 6500-8800 LADY IN GOLD GOWN: \"People change their minds, sister.\"\nEP01:E46 8800-12400 CAMERA: Medium profile shot of the Lady in Gold Gown turning her head subtly toward Gerald with satisfied malice.\nEP01:E47 9100-10400 LADY JULIANA: \"And you knew?\"\nEP01:E48 10600-12100 LADY IN GOLD GOWN: \"Of course I knew.\"\nEP01:E49 12400-14600 CAMERA: Close-up on Juliana, stunned by the callous depth of the conspiracy.\nEP01:E50 13100-14300 LADY JULIANA: \"How long?\"\nEP01:E51 14600-19000 CAMERA: Medium two-shot of the Lady in Gold Gown and Gerald looking together down at Juliana.\nEP01:E52 15000-18500 LADY IN GOLD GOWN: \"Long enough to know he was never going to marry you.\"\nEP01:E53 19000-21000 ACTION: Juliana turns abruptly toward the first row of pews, where her elderly father sits gripping an ornate brass cane.\nEP01:E54 19000-21400 CAMERA: Close-up on the father's hand tightly gripping the gold curved handle of his walking cane.\nEP01:E55 20100-21200 LADY JULIANA: \"Father...\"\nEP01:E57 21400-23600 LADY JULIANA: \"Tell them this is a mistake.\"\nEP01:E56 21400-23700 CAMERA: Wide shot showing Juliana dropping to her knees beside her seated father, pleading with him.\nEP01:E58 23700-26000 CAMERA: Close-up on the father's weathered face, looking fixedly at the floor, refusing to meet her gaze.\nEP01:E60 26000-28900 LADY JULIANA: \"Father... please look at me.\"\nEP01:E59 26000-29500 CAMERA: Close-up on Juliana looking up at him, tears streaming uncontrollably down her cheeks.\nEP01:E61 29500-30800 ACTION: The father tightens his jaw and stony expression, refusing to offer a single word or look.\nEP01:E62 29500-30800 CAMERA: Profile close-up of the father staring blankly forward.",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

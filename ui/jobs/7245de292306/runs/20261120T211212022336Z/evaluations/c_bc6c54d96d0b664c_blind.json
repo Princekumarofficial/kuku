@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_bc6c54d96d0b664c",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP13:E63",
+      "EP13:E65",
+      "EP13:E66"
+    ],
+    "reason": "The opening starts within 0-3000ms with Alexander struggling against the Constable in grief and rage, then cuts to Juliana bleeding among thorns while she pleads for a ring. The immediate physical danger and urgency create a strong hook, though the reason for the struggle is unclear."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP13:E74",
+      "EP13:E75"
+    ],
+    "reason": "The clip ends in the final 3000ms with Juliana gripping the ring while in pain and the episode cuts to black. Her situation and Alexander's terror are not resolved, so the ending reads as unresolved, though the ring's significance is only partly set up.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Why Juliana is lying among thorns and bleeding",
+      "Who the Constable is and why Alexander is restrained",
+      "What the emerald ring means and why it matters so urgently",
+      "What Juliana's plea 'ring... you have to be here' refers to",
+      "Why Alexander is in suspended terror at the briar patch"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Intense visual emphasis on bleeding, frost, grief, rage, tears, and clenched pain, combined with Juliana's urgent plea, builds strong emotional tension. The lack of context limits how deeply the viewer can connect with the characters."
+  },
+  "weaknesses": [
+    "Clip lacks setup for the conflict and stakes",
+    "Constable's role and relation to Alexander are unexplained",
+    "The importance of the emerald ring is not established beyond urgency",
+    "Alexander's terror is shown without a clear cause",
+    "Short segment depends on prior episode context to feel complete"
+  ],
+  "one_line_why_it_works": "A bleeding, desperate heroine finally grasping a glowing ring at the moment the episode cuts to black creates immediate tension, even though the story context is missing."
+}

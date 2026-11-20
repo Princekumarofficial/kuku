@@ -1,0 +1,406 @@
+{
+  "series_id": "series_001",
+  "partial_series": false,
+  "episodes": [
+    {
+      "episode_id": "ep_001",
+      "number": 1,
+      "file": "ep_001.json",
+      "source_sha256": "9787df1d0983957589fc407cb0f2cdc0a89fcde7100c022a4741b8abfeedfa81",
+      "duration_ms": 138000,
+      "source_complete": false
+    },
+    {
+      "episode_id": "ep_002",
+      "number": 2,
+      "file": "ep_002.json",
+      "source_sha256": "f0bdb98b40cdd1cd1458e4dbae99ee51c55130e75cd676e06a12ce04a9cbb111",
+      "duration_ms": 110000,
+      "source_complete": true
+    },
+    {
+      "episode_id": "ep_003",
+      "number": 3,
+      "file": "ep_003.json",
+      "source_sha256": "2a1df4c96f178a4784aef81dd6fe82e3a9d226d2443fe98629cfbc0c95dc14df",
+      "duration_ms": 145750,
+      "source_complete": true
+    },
+    {
+      "episode_id": "ep_004",
+      "number": 4,
+      "file": "ep_004.json",
+      "source_sha256": "65f7f9c356a21c86dddfd4808bbdbc65dcd22f0ce220cc2de2cbcdc0371fc51b",
+      "duration_ms": 151400,
+      "source_complete": false
+    },
+    {
+      "episode_id": "ep_005",
+      "number": 5,
+      "file": "ep_005.json",
+      "source_sha256": "0dc648aeee02b1eebdd200144e70386f1dd101e820f96e3a5da65b527a43c9db",
+      "duration_ms": 110500,
+      "source_complete": false
+    },
+    {
+      "episode_id": "ep_006",
+      "number": 6,
+      "file": "ep_006.json",
+      "source_sha256": "11131c5019b2c7021f376b17cfd99d6c876b8594da0ea4fe5abffda6f4db19de",
+      "duration_ms": 115000,
+      "source_complete": true
+    },
+    {
+      "episode_id": "ep_007",
+      "number": 7,
+      "file": "ep_007.json",
+      "source_sha256": "d6125d1e308e9ea7993e1e22a4452e1f940bc384a13b621acdb5b3709bf96494",
+      "duration_ms": 116000,
+      "source_complete": false
+    },
+    {
+      "episode_id": "ep_008",
+      "number": 8,
+      "file": "ep_008.json",
+      "source_sha256": "e2482244be533ae60b42cae3032208cf0bede3b2427639797a6323995dafeccb",
+      "duration_ms": 78000,
+      "source_complete": true
+    },
+    {
+      "episode_id": "ep_009",
+      "number": 9,
+      "file": "ep_009.json",
+      "source_sha256": "faea423ecdc00a4677d0cfe44deea27f2353120a682104faf07c073e99589e9e",
+      "duration_ms": 115500,
+      "source_complete": false
+    },
+    {
+      "episode_id": "ep_010",
+      "number": 10,
+      "file": "ep_010.json",
+      "source_sha256": "474a02d035632a75787ddf6796abafcb7a5dac806f9739e25b3de09e0de5841f",
+      "duration_ms": 94000,
+      "source_complete": true
+    },
+    {
+      "episode_id": "ep_011",
+      "number": 11,
+      "file": "ep_011.json",
+      "source_sha256": "839ae70b822b9ae862ea9b0625a372d2a03660757d6556cd2dc1251d876654de",
+      "duration_ms": 112750,
+      "source_complete": false
+    },
+    {
+      "episode_id": "ep_012",
+      "number": 12,
+      "file": "ep_012.json",
+      "source_sha256": "d3c65e83677b3d1014a1e95dead2ea621ff2a81bf565462084f3ac9f5c0c6305",
+      "duration_ms": 87210,
+      "source_complete": true
+    },
+    {
+      "episode_id": "ep_013",
+      "number": 13,
+      "file": "ep_013.json",
+      "source_sha256": "b0880fe2f19304409a390837761474a741e366a571f3435abdb40c74a7929a18",
+      "duration_ms": 118880,
+      "source_complete": true
+    },
+    {
+      "episode_id": "ep_014",
+      "number": 14,
+      "file": "ep_014.json",
+      "source_sha256": "23e67fb015dbfbf003d1008f2fd5033dfa192100b1eced5d1bb3e28d31c3844d",
+      "duration_ms": 87630,
+      "source_complete": true
+    },
+    {
+      "episode_id": "ep_015",
+      "number": 15,
+      "file": "ep_015.json",
+      "source_sha256": "4820cb5f1dca8b09eb9b111eb828151ea39cb8d15da729b75acb08551f573b27",
+      "duration_ms": 86000,
+      "source_complete": true
+    },
+    {
+      "episode_id": "ep_016",
+      "number": 16,
+      "file": "ep_016.json",
+      "source_sha256": "f86c26df7397d86091056e44fe613c2f50abe7d221f7e015d8cdd5c4f8775e19",
+      "duration_ms": 83190,
+      "source_complete": true
+    },
+    {
+      "episode_id": "ep_017",
+      "number": 17,
+      "file": "ep_017.json",
+      "source_sha256": "25fad86cb46d505849d1247d92836e1176bf732e50699a00b1f34c0e14f28e27",
+      "duration_ms": 118880,
+      "source_complete": false
+    },
+    {
+      "episode_id": "ep_018",
+      "number": 18,
+      "file": "ep_018.json",
+      "source_sha256": "1e1ecab8f43c144862ef126eb707196478303c1af57186357ba1e25ea4c8e529",
+      "duration_ms": 192000,
+      "source_complete": false
+    },
+    {
+      "episode_id": "ep_019",
+      "number": 19,
+      "file": "ep_019.json",
+      "source_sha256": "45e16ab1556cb4afe16777d1538079263f933b85ecb63e1e44a462d33541fb24",
+      "duration_ms": 119630,
+      "source_complete": false
+    },
+    {
+      "episode_id": "ep_020",
+      "number": 20,
+      "file": "ep_020.json",
+      "source_sha256": "e6389a016e5aa432efca70d3bb2d64ec859200ad0e6aad207fa63a616ce12fa8",
+      "duration_ms": 114750,
+      "source_complete": false
+    },
+    {
+      "episode_id": "ep_021",
+      "number": 21,
+      "file": "ep_021.json",
+      "source_sha256": "00cb2e6c0b31ed3022212cc30d2fadd006e70516eb33be7d50aed31137d39db9",
+      "duration_ms": 114000,
+      "source_complete": false
+    },
+    {
+      "episode_id": "ep_022",
+      "number": 22,
+      "file": "ep_022.json",
+      "source_sha256": "516bd97dafb3753c10ac4a1a909aa7bccec17367050791e278e4102277cc3cc1",
+      "duration_ms": 131000,
+      "source_complete": false
+    },
+    {
+      "episode_id": "ep_023",
+      "number": 23,
+      "file": "ep_023.json",
+      "source_sha256": "2590fe65b7a4a8b4978992a4a857b46ba3c35d80f65ebdf0906e7f558107f1ca",
+      "duration_ms": 131500,
+      "source_complete": true
+    },
+    {
+      "episode_id": "ep_024",
+      "number": 24,
+      "file": "ep_024.json",
+      "source_sha256": "c211a90aef87daaf36182aaee95262b6121e962537fb25b37ef68260e4971259",
+      "duration_ms": 92000,
+      "source_complete": true
+    },
+    {
+      "episode_id": "ep_025",
+      "number": 25,
+      "file": "ep_025.json",
+      "source_sha256": "c80b5d5b0e2ddf2033dd07eb15242604859e9dd2fd24c64113a274aa29dd6962",
+      "duration_ms": 168000,
+      "source_complete": false
+    },
+    {
+      "episode_id": "ep_026",
+      "number": 26,
+      "file": "ep_026.json",
+      "source_sha256": "6ffdcf181c0b1067f4524a1696da17735a23b94498c443f342516aab7fe15966",
+      "duration_ms": 120880,
+      "source_complete": true
+    },
+    {
+      "episode_id": "ep_027",
+      "number": 27,
+      "file": "ep_027.json",
+      "source_sha256": "1d7ceb00a1cf58e1e97f31213bd40db884f5073f0abfc6b11bb2f6650882b63a",
+      "duration_ms": 150500,
+      "source_complete": false
+    },
+    {
+      "episode_id": "ep_028",
+      "number": 28,
+      "file": "ep_028.json",
+      "source_sha256": "c16039c9150b946989645a76291309ef7889e05e14a38451ad10630ef7f90d21",
+      "duration_ms": 138500,
+      "source_complete": true
+    },
+    {
+      "episode_id": "ep_029",
+      "number": 29,
+      "file": "ep_029.json",
+      "source_sha256": "bf00c3e50abaa8f00aebcb55c6a4520f26e9a987f22ab4975348ab092bdf6265",
+      "duration_ms": 116690,
+      "source_complete": true
+    },
+    {
+      "episode_id": "ep_030",
+      "number": 30,
+      "file": "ep_030.json",
+      "source_sha256": "5535a6b12dd9085ead17b3b19968ca9f25f6d862c822cea65a417972ea3c1265",
+      "duration_ms": 151210,
+      "source_complete": true
+    },
+    {
+      "episode_id": "ep_031",
+      "number": 31,
+      "file": "ep_031.json",
+      "source_sha256": "7c7df240ef6ad40a87f2d5514d857e60273642fba4a5bbbd0da899a68e969610",
+      "duration_ms": 160000,
+      "source_complete": false
+    },
+    {
+      "episode_id": "ep_032",
+      "number": 32,
+      "file": "ep_032.json",
+      "source_sha256": "e35aeb60acdaeebbbee43d680bf3c910d1b48a08c7c141a727cc0b8649b15b53",
+      "duration_ms": 154380,
+      "source_complete": true
+    },
+    {
+      "episode_id": "ep_033",
+      "number": 33,
+      "file": "ep_033.json",
+      "source_sha256": "0012ba24a8fa997a1df93165c06c90dacf5bab6c76ceef791533e8747aec4ad6",
+      "duration_ms": 174040,
+      "source_complete": true
+    },
+    {
+      "episode_id": "ep_034",
+      "number": 34,
+      "file": "ep_034.json",
+      "source_sha256": "76ed46ede7bbc0388279753e8d3e8da924141b43480b9f52243d1155003ca436",
+      "duration_ms": 190000,
+      "source_complete": false
+    },
+    {
+      "episode_id": "ep_035",
+      "number": 35,
+      "file": "ep_035.json",
+      "source_sha256": "07326970ef3d6f070ac1d6590c28721fda574046ea5e3885daec412a9f2d9ea6",
+      "duration_ms": 157500,
+      "source_complete": false
+    },
+    {
+      "episode_id": "ep_036",
+      "number": 36,
+      "file": "ep_036.json",
+      "source_sha256": "20e03164760e2aef2f6425e045f839e61841ebc2c378c7938803790bd19fc224",
+      "duration_ms": 200750,
+      "source_complete": true
+    },
+    {
+      "episode_id": "ep_037",
+      "number": 37,
+      "file": "ep_037.json",
+      "source_sha256": "a76d8261a5e8423038f50c4f78f9dfd15fe90fbbc900e06f579de5e943163e2e",
+      "duration_ms": 156470,
+      "source_complete": true
+    },
+    {
+      "episode_id": "ep_038",
+      "number": 38,
+      "file": "ep_038.json",
+      "source_sha256": "03e0ee85f8752256ba57786e7857c8c7e9f49b24b40d8ae900c4a6f5a00b5926",
+      "duration_ms": 87910,
+      "source_complete": true
+    },
+    {
+      "episode_id": "ep_039",
+      "number": 39,
+      "file": "ep_039.json",
+      "source_sha256": "9880b70ecdcada1fcb110b33761a1bdfdf96ccad454ef181cd47d641bb68e500",
+      "duration_ms": 98410,
+      "source_complete": true
+    },
+    {
+      "episode_id": "ep_040",
+      "number": 40,
+      "file": "ep_040.json",
+      "source_sha256": "9b116fc10ed5209d6d3a109f10f574cd6f4a1b680f5e1cf66a99e6f02b7b51e0",
+      "duration_ms": 110080,
+      "source_complete": false
+    },
+    {
+      "episode_id": "ep_041",
+      "number": 41,
+      "file": "ep_041.json",
+      "source_sha256": "80e99739af6910a1947da7e3b729f9a79f1acc371d8d09c2f8028786b1c3a6ef",
+      "duration_ms": 96090,
+      "source_complete": true
+    },
+    {
+      "episode_id": "ep_042",
+      "number": 42,
+      "file": "ep_042.json",
+      "source_sha256": "338a2e4416e23ccbdd35fce7a7bef8fe67e442cb023bacc55ae9a3f512aca696",
+      "duration_ms": 77800,
+      "source_complete": false
+    },
+    {
+      "episode_id": "ep_043",
+      "number": 43,
+      "file": "ep_043.json",
+      "source_sha256": "38bc44fd0e20af8d7d020f5616476647014c1fb0e0dff1bd0a59f77cf36d9bb9",
+      "duration_ms": 114960,
+      "source_complete": true
+    },
+    {
+      "episode_id": "ep_044",
+      "number": 44,
+      "file": "ep_044.json",
+      "source_sha256": "d6578a980e20d1c89412d7828db835a3076dbe6b8555a2d0cdb7b54ad747e256",
+      "duration_ms": 70500,
+      "source_complete": true
+    },
+    {
+      "episode_id": "ep_045",
+      "number": 45,
+      "file": "ep_045.json",
+      "source_sha256": "3424e374024cd00f62363ff74cc760257a974bf2c966796922d6ee99beade3db",
+      "duration_ms": 121750,
+      "source_complete": true
+    },
+    {
+      "episode_id": "ep_046",
+      "number": 46,
+      "file": "ep_046.json",
+      "source_sha256": "0be3f531f43e86d3e33d345721484e16c73d7c066a20333d08f888a60d957e14",
+      "duration_ms": 143880,
+      "source_complete": true
+    },
+    {
+      "episode_id": "ep_047",
+      "number": 47,
+      "file": "ep_047.json",
+      "source_sha256": "fff9175ab2120638b955660a5b8cdf11c5f6cdfaf8e0d40d313c7f1a8a54b63a",
+      "duration_ms": 134000,
+      "source_complete": false
+    },
+    {
+      "episode_id": "ep_048",
+      "number": 48,
+      "file": "ep_048.json",
+      "source_sha256": "877b9ef4386e0bdc3b9103964979388eca1eb9c5341f835d6b203412fc6db624",
+      "duration_ms": 80000,
+      "source_complete": false
+    },
+    {
+      "episode_id": "ep_049",
+      "number": 49,
+      "file": "ep_049.json",
+      "source_sha256": "7b96649d2e272da28d82c5cf18c7915d4f09117e5d7632a04625a333d554016e",
+      "duration_ms": 144750,
+      "source_complete": true
+    },
+    {
+      "episode_id": "ep_050",
+      "number": 50,
+      "file": "ep_050.json",
+      "source_sha256": "93a1df095b8ea3a42ca4367e0f4c29c8d35fa1c549fd281a4289f93f6a392c1b",
+      "duration_ms": 80000,
+      "source_complete": true
+    }
+  ]
+}

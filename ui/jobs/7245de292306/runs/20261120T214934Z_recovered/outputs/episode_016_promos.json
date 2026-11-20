@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "series_id": "series_001",
+  "scope": {
+    "type": "episode",
+    "episode_id": "ep_016"
+  },
+  "promos": [
+    {
+      "candidate_id": "c_af1f5a1fd6ebd224",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 40000,
+          "end_ms": 83190,
+          "episode_id": "ep_016"
+        }
+      ],
+      "duration_ms": 43190,
+      "hook": {
+        "description": "The clip opens immediately on bandaged, trembling hands and a sudden violent confrontation, and the 'Harrington! Gerald Harrington paid us!' reveal lands quickly. The ending hook falls within the final 3000ms, but it is a soft romantic beat rather than a sharp new question.",
+        "evidence_refs": [
+          "EP16:E32",
+          "EP16:E34",
+          "EP16:E36",
+          "EP16:E40",
+          "EP16:E44",
+          "EP16:E63",
+          "EP16:E64"
+        ]
+      },
+      "cliffhanger": {
+        "description": "The cello swell marks a hold, but the on-screen action (Alexander answering 'No.' and a shared gaze) closes the immediate question of whether he is hurt, so it reads as a romantic pause rather than an unresolved danger. Gerald Harrington's betrayal and the thugs' motive are left open, which gives some unresolved tension.",
+        "evidence_refs": [
+          "EP16:E61",
+          "EP16:E62",
+          "EP16:E63",
+          "EP16:E64"
+        ]
+      },
+      "why_it_works": "A sudden, violent confrontation quickly escalates into a betrayal reveal and ends on a charged romantic gaze that pulls a viewer into the characters' unexplained history.",
+      "scores": {
+        "hook": 7.0,
+        "cliffhanger": 5.0,
+        "standalone": 5.0,
+        "emotion": 8.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 6.05
+      },
+      "warnings": [
+        "The ending is a romantic gaze rather than a true cliffhanger; the 'No.' answer resolves the immediate question of injury",
+        "Heavy reliance on unexplained context such as Gerald Harrington and the garden setting",
+        "Dialogue-driven intensity is clear, but the reason for the attack and Alexander's background are not established",
+        "Ending musical cue promises a dramatic hold that the visuals do not deliver",
+        "Spoilers not checked",
+        "Identity and role of Alexander and his relationship to Juliana",
+        "Why the thugs attacked and what garden or cottage this is",
+        "Who Gerald Harrington is and why his name matters to Juliana",
+        "Referent of Alexander's 'No.' response",
+        "Whether the injured hand or the 'soldier' line has a prior backstory",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 1,
+      "promo_id": "p_001"
+    }
+  ],
+  "construction": {
+    "opportunities": 4,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "REQUIRED_CONTEXT_OUTSIDE_CLIP": 4,
+      "DURATION_OUT_OF_RANGE": 503,
+      "PARTIAL_DIALOGUE": 32
+    }
+  },
+  "rejected_candidates": [
+    {
+      "candidate_id": "c_b4968985f372a4b6",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_26918d00e903ac92",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_94444b1e6d2526d7",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    }
+  ]
+}

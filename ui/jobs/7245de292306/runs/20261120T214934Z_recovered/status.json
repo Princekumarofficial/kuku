@@ -1,0 +1,9 @@
+{
+  "status": "complete",
+  "episodes": 50,
+  "candidates": 200,
+  "evaluated": 200,
+  "evaluation_failures": 0,
+  "outcome": "promos_created",
+  "series_promos": 10
+}

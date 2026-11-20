@@ -1,0 +1,72 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "ep11_opp_01",
+      "episode_id": "ep_011",
+      "concept": "Gerald arrives with a Constable and Juliana confronts him; the clip builds to Gerald's accusation that Alexander is a thief and Alexander's threatening stand-off, ending on the Constable's demand to search.",
+      "hook_refs": [
+        "EP11:E11"
+      ],
+      "ending_refs": [
+        "EP11:E32"
+      ],
+      "context_refs": [
+        "EP11:E14",
+        "EP11:E16"
+      ],
+      "why_promising": "Opens on Gerald's direct line 'I came for something that belongs to me' within the first seconds and runs about 26 seconds to Gerald's 'He threatens me again!', leaving the confrontation unresolved."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep11_opp_02",
+      "episode_id": "ep_011",
+      "concept": "Gerald's accusation of the stolen gold pocket watch escalates into a demand for a search, ending on Alexander's resigned 'Let them.'",
+      "hook_refs": [
+        "EP11:E16"
+      ],
+      "ending_refs": [
+        "EP11:E47"
+      ],
+      "context_refs": [
+        "EP11:E20",
+        "EP11:E22"
+      ],
+      "why_promising": "Opens on 'Your husband stole my gold pocket watch!' and runs about 37 seconds through Gerald's 'The last time I came here' and Juliana's denial, ending on Alexander consenting to the search with the watch's fate still hanging."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep11_opp_03",
+      "episode_id": "ep_011",
+      "concept": "The Constable ransacks the cottage while Juliana begs him to stop, then Gerald taunts Juliana and baits Alexander to strike, ending on Gerald's provocation.",
+      "hook_refs": [
+        "EP11:E52"
+      ],
+      "ending_refs": [
+        "EP11:E69"
+      ],
+      "context_refs": [
+        "EP11:E61",
+        "EP11:E63"
+      ],
+      "why_promising": "Opens on Juliana's 'Stop! Those are my mother's medicines!' and runs about 26 seconds, building from the search to Gerald's 'Going to strike a gentleman in front of his wife?' with Alexander's violence threatened."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep11_opp_04",
+      "episode_id": "ep_011",
+      "concept": "The Constable finds the gold pocket watch inside Alexander's trench coat, and Juliana and Gerald react to the discovery as the frame-up lands, ending on the freeze-frame of the watch.",
+      "hook_refs": [
+        "EP11:E76"
+      ],
+      "ending_refs": [
+        "EP11:E85"
+      ],
+      "context_refs": [
+        "EP11:E77",
+        "EP11:E78"
+      ],
+      "why_promising": "Opens on the Constable grabbing Alexander's coat and runs about 22 seconds to the watch being held up in a freeze-frame, a strong unresolved ending that sets up the frame-up arc."
+    }
+  ]
+}

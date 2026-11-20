@@ -1,0 +1,206 @@
+{
+  "episode_id": "ep_006",
+  "summary": "Episode ep_006 covers scenes sc_001 (woodland path, night, 0-33700 ms) and sc_002 (wooden cabin, 33700-115000 ms) using on-screen event evidence EP06:E1 to EP06:E97. Juliana and an unnamed Mysterious Bearded Man walk through rain to a secluded cottage, where they talk about her losses, the cabin's modesty and his guilt, then clean and light a fire. Uncertainties: the on-screen evidence never names the man or states that he is her husband, so the marriage is taken from metadata only. Metadata (logline, continuity notes) also mentions a new husband, the Ashcroft estate, and a link to Episode 5; these are not verified on screen and are not used as event evidence. The event text does not explain what caused Juliana's losses or humiliation. Speaker tags for E86 to E89 are malformed as '[V.O.)', which is noted as a transcription artifact and does not change the content. Source hash is 11131c5019b2c7021f376b17cfd99d6c876b8594da0ea4fe5abffda6f4db19de and source warnings list is empty.",
+  "characters": [
+    {
+      "name": "Juliana",
+      "role": "Bride in a white satin wedding gown and dark cloak; the emotional center who has lost her home and family and is trying to find composure in the cottage"
+    },
+    {
+      "name": "Mysterious Bearded Man",
+      "role": "Scarred, unnamed companion who apologizes for the modest shelter, feels guilt for her situation, and tends the fire and the cabin with her"
+    }
+  ],
+  "beats": [
+    {
+      "id": "b1",
+      "kind": "setup",
+      "event_refs": [
+        "EP06:E1",
+        "EP06:E2",
+        "EP06:E4",
+        "EP06:E6",
+        "EP06:E7"
+      ],
+      "description": "Juliana and the man trudge through cold rain in the dark woods; she holds up her wedding gown out of the mud.",
+      "intensity_0_10": 3.0
+    },
+    {
+      "id": "b2",
+      "kind": "emotional_exchange",
+      "event_refs": [
+        "EP06:E9",
+        "EP06:E11",
+        "EP06:E13",
+        "EP06:E15",
+        "EP06:E18",
+        "EP06:E19"
+      ],
+      "description": "He acknowledges she did not come from this life and feels guilty for the rain; she answers with resigned composure and a wry remark that the day was already ruined.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "b3",
+      "kind": "reveal",
+      "event_refs": [
+        "EP06:E20",
+        "EP06:E21",
+        "EP06:E22",
+        "EP06:E23",
+        "EP06:E25"
+      ],
+      "description": "A secluded rustic stone cottage appears among the trees; Juliana reacts with surprise and asks if this is it, and he confirms.",
+      "intensity_0_10": 4.0
+    },
+    {
+      "id": "b4",
+      "kind": "threshold_and_apology",
+      "event_refs": [
+        "EP06:E28",
+        "EP06:E29",
+        "EP06:E31",
+        "EP06:E37",
+        "EP06:E40",
+        "EP06:E41"
+      ],
+      "description": "Juliana strides ahead defiantly, saying no one will humiliate her there; they enter the dark cabin, and he apologizes and says this is all he can give her.",
+      "intensity_0_10": 4.0
+    },
+    {
+      "id": "b5",
+      "kind": "honest_bonding",
+      "event_refs": [
+        "EP06:E46",
+        "EP06:E47",
+        "EP06:E50",
+        "EP06:E52",
+        "EP06:E54",
+        "EP06:E56"
+      ],
+      "description": "Juliana finds the quiet peaceful and admits she is disappointed but not because of him.",
+      "intensity_0_10": 4.0
+    },
+    {
+      "id": "b6",
+      "kind": "emotional_turn",
+      "event_refs": [
+        "EP06:E58",
+        "EP06:E60",
+        "EP06:E63",
+        "EP06:E64"
+      ],
+      "description": "Juliana scrubs the table to keep busy; he urges her to rest, and her voice breaks as she says stopping would make her think of everything she lost.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b7",
+      "kind": "domestic_bonding",
+      "event_refs": [
+        "EP06:E65",
+        "EP06:E67",
+        "EP06:E69",
+        "EP06:E71",
+        "EP06:E78",
+        "EP06:E81",
+        "EP06:E83"
+      ],
+      "description": "He fixes the wobbly table leg, she sweeps, he builds and lights the fire; he says it is not much and she replies it is enough for tonight.",
+      "intensity_0_10": 3.0
+    },
+    {
+      "id": "b8",
+      "kind": "reflection",
+      "event_refs": [
+        "EP06:E86",
+        "EP06:E87",
+        "EP06:E89",
+        "EP06:E92",
+        "EP06:E94"
+      ],
+      "description": "Beside the hearth, Juliana voices losing her home, her family and the life she expected, then says that sitting with him she does not feel afraid.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "b9",
+      "kind": "closing_image",
+      "event_refs": [
+        "EP06:E95",
+        "EP06:E96",
+        "EP06:E97"
+      ],
+      "description": "Juliana looks up with quiet hope as the fire slowly fades to black with warm string music.",
+      "intensity_0_10": 2.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "r1",
+      "event_refs": [
+        "EP06:E86",
+        "EP06:E87",
+        "EP06:E89"
+      ],
+      "claim": "Juliana says she lost her home and her family on the day of the events shown.",
+      "spoiler_significance_0_10": 5.0,
+      "creates_questions": [
+        "What happened to Juliana's family and home?",
+        "Why did Juliana lose her home on this day?"
+      ]
+    },
+    {
+      "id": "r2",
+      "event_refs": [
+        "EP06:E40",
+        "EP06:E41"
+      ],
+      "claim": "The man says Juliana came from comfort and that the cottage is all he can give her now.",
+      "spoiler_significance_0_10": 3.0,
+      "creates_questions": [
+        "What changed Juliana's material circumstances?",
+        "What is the man's connection to Juliana's former life?"
+      ]
+    },
+    {
+      "id": "r3",
+      "event_refs": [
+        "EP06:E18",
+        "EP06:E29"
+      ],
+      "claim": "Juliana implies she was recently humiliated and that the day was already ruined before the walk to the cottage.",
+      "spoiler_significance_0_10": 4.0,
+      "creates_questions": [
+        "Who humiliated Juliana and in what circumstances?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "What happened to Juliana's home and family?",
+      "introduced_by": [
+        "EP06:E86",
+        "EP06:E87"
+      ]
+    },
+    {
+      "question": "What humiliation did Juliana suffer before arriving at the cottage?",
+      "introduced_by": [
+        "EP06:E18",
+        "EP06:E29"
+      ]
+    },
+    {
+      "question": "Why does the Mysterious Bearded Man feel guilty and what role did he play in Juliana's situation?",
+      "introduced_by": [
+        "EP06:E9",
+        "EP06:E15"
+      ]
+    },
+    {
+      "question": "What is the Mysterious Bearded Man's name and is he Juliana's husband as the metadata states?",
+      "introduced_by": [
+        "EP06:E9",
+        "EP06:E25"
+      ]
+    }
+  ]
+}

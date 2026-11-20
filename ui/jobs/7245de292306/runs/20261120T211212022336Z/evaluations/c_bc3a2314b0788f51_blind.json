@@ -1,0 +1,44 @@
+{
+  "candidate_id": "c_bc3a2314b0788f51",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP04:E79",
+      "EP04:E81",
+      "EP04:E82"
+    ],
+    "reason": "Opens within 0-3000ms with an extreme close-up of an intense gaze and a wedding blessing that is interrupted by the priest's pronouncement, which creates immediate tension. The stakes of the moment are not explained, so the hook depends on the viewer reading the mood alone."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP04:E96",
+      "EP04:E97"
+    ],
+    "reason": "The final 3000ms show Lady Ashcroft rising and ordering that the man not be brought near Ashcroft Manor, with no resolution of Gerald's rage or of the confrontation. The conflict is left open at the cut, so it is not merely an intense but resolved ending.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Who Gerald is and his relationship to Juliana",
+      "Why Gerald calls Juliana's choice throwing herself away and a penniless nobody",
+      "What Juliana means by begging for yours",
+      "Who the husband standing guard behind Juliana is and why he matters",
+      "Who Lady Ashcroft is and what Ashcroft Manor represents",
+      "Why the marriage is opposed and what the stakes are"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Rage from Gerald, Juliana's proud defiance, Gerald's wounded shock, and Lady Ashcroft's sudden accusatory outburst build strong, escalating emotional tension within the 21700ms clip."
+  },
+  "weaknesses": [
+    "Relationships and motives are not established, so a first-time viewer cannot tell who is right or what is at stake",
+    "Gerald's insults refer to unexplained backstory",
+    "Lady Ashcroft's sudden intervention arrives without any lead-in about her role",
+    "The clip ends mid-conflict, which may feel abrupt to viewers who expect a complete beat",
+    "The sound cue at 4200-5400ms is the only audio emphasis and offers limited help in conveying the emotional shift"
+  ],
+  "one_line_why_it_works": "A wedding is interrupted by escalating rage and defiance, and the clip ends on a new accusation that leaves the conflict open for a first-time viewer."
+}

@@ -1,0 +1,602 @@
+[
+  {
+    "candidate_id": "c_51ecd2454634c1b8",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 4200,
+        "end_ms": 28900,
+        "episode_id": "ep_005"
+      }
+    ],
+    "duration_ms": 24700,
+    "origin": "opp_1",
+    "clip_events": [
+      {
+        "ref": "EP05:E3",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot tracking Juliana and the Mysterious Bearded Man descending the grand stone steps of the cathedral courtyard. Behind them, Lord Ashcroft emerges from the vaulted doorway leaning on his cane."
+      },
+      {
+        "ref": "EP05:E4",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1600,
+        "type": "dialogue",
+        "speaker": "LORD ASHCROFT",
+        "text": "\"Miss Ashcroft.\""
+      },
+      {
+        "ref": "EP05:E5",
+        "segment_index": 0,
+        "relative_start_ms": 1300,
+        "relative_end_ms": 2400,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana and the Mysterious Bearded Man pause on the stone steps, turning slightly back toward Lord Ashcroft."
+      },
+      {
+        "ref": "EP05:E6",
+        "segment_index": 0,
+        "relative_start_ms": 2400,
+        "relative_end_ms": 6300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Lord Ashcroft, his weathered face rigid with aristocratic pride and disgust."
+      },
+      {
+        "ref": "EP05:E7",
+        "segment_index": 0,
+        "relative_start_ms": 2600,
+        "relative_end_ms": 6200,
+        "type": "dialogue",
+        "speaker": "LORD ASHCROFT",
+        "text": "\"You will not leave this church carrying the Ashcroft name.\""
+      },
+      {
+        "ref": "EP05:E8",
+        "segment_index": 0,
+        "relative_start_ms": 6300,
+        "relative_end_ms": 11600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana looking up at her father. Her hand rises to touch the amethyst heirloom pendant resting at her throat."
+      },
+      {
+        "ref": "EP05:E9",
+        "segment_index": 0,
+        "relative_start_ms": 7500,
+        "relative_end_ms": 11300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"The vows are spoken, Father. I am his wife now.\""
+      },
+      {
+        "ref": "EP05:E10",
+        "segment_index": 0,
+        "relative_start_ms": 11600,
+        "relative_end_ms": 16600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Lord Ashcroft standing rigid outside the chapel archway, unforgiving and unyielding."
+      },
+      {
+        "ref": "EP05:E11",
+        "segment_index": 0,
+        "relative_start_ms": 11800,
+        "relative_end_ms": 13800,
+        "type": "dialogue",
+        "speaker": "LORD ASHCROFT",
+        "text": "\"Then leave as his wife.\""
+      },
+      {
+        "ref": "EP05:E12",
+        "segment_index": 0,
+        "relative_start_ms": 14300,
+        "relative_end_ms": 16600,
+        "type": "dialogue",
+        "speaker": "LORD ASHCROFT",
+        "text": "\"You leave as no daughter of mine.\""
+      },
+      {
+        "ref": "EP05:E13",
+        "segment_index": 0,
+        "relative_start_ms": 16600,
+        "relative_end_ms": 20800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle shot tracking Lord Ashcroft's polished black boots as he slowly descends the stone steps toward them."
+      },
+      {
+        "ref": "EP05:E14",
+        "segment_index": 0,
+        "relative_start_ms": 16800,
+        "relative_end_ms": 18800,
+        "type": "dialogue",
+        "speaker": "LORD ASHCROFT",
+        "text": "\"Your dowry is revoked.\""
+      },
+      {
+        "ref": "EP05:E15",
+        "segment_index": 0,
+        "relative_start_ms": 18900,
+        "relative_end_ms": 20900,
+        "type": "dialogue",
+        "speaker": "LORD ASHCROFT",
+        "text": "\"Your inheritance is revoked.\""
+      },
+      {
+        "ref": "EP05:E16",
+        "segment_index": 0,
+        "relative_start_ms": 20800,
+        "relative_end_ms": 24700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana, her eyes wide with shock and heartbreak as she holds the ledger close against her chest."
+      },
+      {
+        "ref": "EP05:E17",
+        "segment_index": 0,
+        "relative_start_ms": 21200,
+        "relative_end_ms": 24700,
+        "type": "dialogue",
+        "speaker": "LORD ASHCROFT",
+        "text": "\"From this moment, you are dead to the Ashcroft family.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_1da504e8a9bd17cb",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 56800,
+        "end_ms": 82000,
+        "episode_id": "ep_005"
+      }
+    ],
+    "duration_ms": 25200,
+    "origin": "opp_2",
+    "clip_events": [
+      {
+        "ref": "EP05:E31",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on the ledger as Lady Ashcroft violently wrenches it out of Juliana's grip."
+      },
+      {
+        "ref": "EP05:E32",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 700,
+        "type": "action",
+        "speaker": null,
+        "text": "Lady Ashcroft snatches the heavy book away and flings it disdainfully into the rain-soaked courtyard."
+      },
+      {
+        "ref": "EP05:E34",
+        "segment_index": 0,
+        "relative_start_ms": 200,
+        "relative_end_ms": 1400,
+        "type": "sound",
+        "speaker": null,
+        "text": "A heavy wet slap as the leather-bound book crashes into the puddle-slicked stone pavement."
+      },
+      {
+        "ref": "EP05:E35",
+        "segment_index": 0,
+        "relative_start_ms": 1000,
+        "relative_end_ms": 6200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Clarissa and Gerald standing together on the cathedral steps. Clarissa clasps a gloved hand to her mouth in mock shock before bursting into gleeful laughter."
+      },
+      {
+        "ref": "EP05:E36",
+        "segment_index": 0,
+        "relative_start_ms": 2200,
+        "relative_end_ms": 5700,
+        "type": "dialogue",
+        "speaker": "CLARISSA",
+        "text": "\"Even your mother's precious legacy has been cast into the dirt!\""
+      },
+      {
+        "ref": "EP05:E37",
+        "segment_index": 0,
+        "relative_start_ms": 5600,
+        "relative_end_ms": 7800,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"Perhaps that is where it belongs.\""
+      },
+      {
+        "ref": "EP05:E38",
+        "segment_index": 0,
+        "relative_start_ms": 6200,
+        "relative_end_ms": 9700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana looking down at the ground, tears streaming down her pale cheeks."
+      },
+      {
+        "ref": "EP05:E39",
+        "segment_index": 0,
+        "relative_start_ms": 8700,
+        "relative_end_ms": 11700,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana drops to her knees onto the wet courtyard pavement, oblivious to the dirt soaking through her white bridal gown."
+      },
+      {
+        "ref": "EP05:E40",
+        "segment_index": 0,
+        "relative_start_ms": 9700,
+        "relative_end_ms": 12200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle close-up of Juliana's trembling hand reaching toward the leather ledger resting in the puddle."
+      },
+      {
+        "ref": "EP05:E41",
+        "segment_index": 0,
+        "relative_start_ms": 12200,
+        "relative_end_ms": 15700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot of Juliana kneeling on the damp ground as the tall Mysterious Bearded Man strides purposefully into frame toward her."
+      },
+      {
+        "ref": "EP05:E42",
+        "segment_index": 0,
+        "relative_start_ms": 13700,
+        "relative_end_ms": 17700,
+        "type": "action",
+        "speaker": null,
+        "text": "The Mysterious Bearded Man bends his knees and kneels down beside Juliana, extending his scarred hand to retrieve the fallen ledger."
+      },
+      {
+        "ref": "EP05:E43",
+        "segment_index": 0,
+        "relative_start_ms": 17700,
+        "relative_end_ms": 19200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of his large, weathered hands gently lifting the wet, embossed leather book from the ground."
+      },
+      {
+        "ref": "EP05:E44",
+        "segment_index": 0,
+        "relative_start_ms": 19200,
+        "relative_end_ms": 23200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot as he holds out the retrieved ledger and places it into Juliana's trembling hands."
+      },
+      {
+        "ref": "EP05:E45",
+        "segment_index": 0,
+        "relative_start_ms": 21000,
+        "relative_end_ms": 22200,
+        "type": "dialogue",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "text": "\"Here you go.\""
+      },
+      {
+        "ref": "EP05:E46",
+        "segment_index": 0,
+        "relative_start_ms": 23200,
+        "relative_end_ms": 25200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Mysterious Bearded Man looking warmly down at Juliana, his rugged face full of quiet sincerity."
+      },
+      {
+        "ref": "EP05:E47",
+        "segment_index": 0,
+        "relative_start_ms": 23700,
+        "relative_end_ms": 25200,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"They destroyed it.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_123dd766f28ea6d1",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 51800,
+        "end_ms": 74500,
+        "episode_id": "ep_005"
+      }
+    ],
+    "duration_ms": 22700,
+    "origin": "opp_3",
+    "clip_events": [
+      {
+        "ref": "EP05:E29",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Lady Ashcroft laying a jeweled hand firmly on the bound book."
+      },
+      {
+        "ref": "EP05:E30",
+        "segment_index": 0,
+        "relative_start_ms": 200,
+        "relative_end_ms": 2200,
+        "type": "dialogue",
+        "speaker": "LADY ASHCROFT",
+        "text": "\"Then you should have guarded it better.\""
+      },
+      {
+        "ref": "EP05:E31",
+        "segment_index": 0,
+        "relative_start_ms": 2200,
+        "relative_end_ms": 6000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on the ledger as Lady Ashcroft violently wrenches it out of Juliana's grip."
+      },
+      {
+        "ref": "EP05:E32",
+        "segment_index": 0,
+        "relative_start_ms": 2700,
+        "relative_end_ms": 5700,
+        "type": "action",
+        "speaker": null,
+        "text": "Lady Ashcroft snatches the heavy book away and flings it disdainfully into the rain-soaked courtyard."
+      },
+      {
+        "ref": "EP05:E33",
+        "segment_index": 0,
+        "relative_start_ms": 3700,
+        "relative_end_ms": 5000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Barbara, don't!\""
+      },
+      {
+        "ref": "EP05:E34",
+        "segment_index": 0,
+        "relative_start_ms": 5200,
+        "relative_end_ms": 6400,
+        "type": "sound",
+        "speaker": null,
+        "text": "A heavy wet slap as the leather-bound book crashes into the puddle-slicked stone pavement."
+      },
+      {
+        "ref": "EP05:E35",
+        "segment_index": 0,
+        "relative_start_ms": 6000,
+        "relative_end_ms": 11200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Clarissa and Gerald standing together on the cathedral steps. Clarissa clasps a gloved hand to her mouth in mock shock before bursting into gleeful laughter."
+      },
+      {
+        "ref": "EP05:E36",
+        "segment_index": 0,
+        "relative_start_ms": 7200,
+        "relative_end_ms": 10700,
+        "type": "dialogue",
+        "speaker": "CLARISSA",
+        "text": "\"Even your mother's precious legacy has been cast into the dirt!\""
+      },
+      {
+        "ref": "EP05:E37",
+        "segment_index": 0,
+        "relative_start_ms": 10600,
+        "relative_end_ms": 12800,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"Perhaps that is where it belongs.\""
+      },
+      {
+        "ref": "EP05:E38",
+        "segment_index": 0,
+        "relative_start_ms": 11200,
+        "relative_end_ms": 14700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana looking down at the ground, tears streaming down her pale cheeks."
+      },
+      {
+        "ref": "EP05:E39",
+        "segment_index": 0,
+        "relative_start_ms": 13700,
+        "relative_end_ms": 16700,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana drops to her knees onto the wet courtyard pavement, oblivious to the dirt soaking through her white bridal gown."
+      },
+      {
+        "ref": "EP05:E40",
+        "segment_index": 0,
+        "relative_start_ms": 14700,
+        "relative_end_ms": 17200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle close-up of Juliana's trembling hand reaching toward the leather ledger resting in the puddle."
+      },
+      {
+        "ref": "EP05:E41",
+        "segment_index": 0,
+        "relative_start_ms": 17200,
+        "relative_end_ms": 20700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot of Juliana kneeling on the damp ground as the tall Mysterious Bearded Man strides purposefully into frame toward her."
+      },
+      {
+        "ref": "EP05:E42",
+        "segment_index": 0,
+        "relative_start_ms": 18700,
+        "relative_end_ms": 22700,
+        "type": "action",
+        "speaker": null,
+        "text": "The Mysterious Bearded Man bends his knees and kneels down beside Juliana, extending his scarred hand to retrieve the fallen ledger."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_31f1fdd2691d44e4",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 80000,
+        "end_ms": 105500,
+        "episode_id": "ep_005"
+      }
+    ],
+    "duration_ms": 25500,
+    "origin": "opp_4",
+    "clip_events": [
+      {
+        "ref": "EP05:E46",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 5500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Mysterious Bearded Man looking warmly down at Juliana, his rugged face full of quiet sincerity."
+      },
+      {
+        "ref": "EP05:E47",
+        "segment_index": 0,
+        "relative_start_ms": 500,
+        "relative_end_ms": 2000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"They destroyed it.\""
+      },
+      {
+        "ref": "EP05:E48",
+        "segment_index": 0,
+        "relative_start_ms": 2500,
+        "relative_end_ms": 5400,
+        "type": "dialogue",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "text": "\"They dirtied it. That is not the same thing.\""
+      },
+      {
+        "ref": "EP05:E49",
+        "segment_index": 0,
+        "relative_start_ms": 5500,
+        "relative_end_ms": 11000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot of Juliana pressing the soiled book tightly against her chest, weeping softly."
+      },
+      {
+        "ref": "EP05:E50",
+        "segment_index": 0,
+        "relative_start_ms": 6500,
+        "relative_end_ms": 7800,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"It was my mother's.\""
+      },
+      {
+        "ref": "EP05:E51",
+        "segment_index": 0,
+        "relative_start_ms": 7900,
+        "relative_end_ms": 9000,
+        "type": "dialogue",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "text": "\"Then keep it.\""
+      },
+      {
+        "ref": "EP05:E52",
+        "segment_index": 0,
+        "relative_start_ms": 8500,
+        "relative_end_ms": 11000,
+        "type": "action",
+        "speaker": null,
+        "text": "The Mysterious Bearded Man reaches out with both hands, clasping his strong hands tenderly over hers and the book."
+      },
+      {
+        "ref": "EP05:E53",
+        "segment_index": 0,
+        "relative_start_ms": 9400,
+        "relative_end_ms": 11000,
+        "type": "dialogue",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "text": "\"Let them keep everything else.\""
+      },
+      {
+        "ref": "EP05:E54",
+        "segment_index": 0,
+        "relative_start_ms": 11000,
+        "relative_end_ms": 16500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle shot of Gerald standing high on the stone steps, grinning arrogantly as he points an accusatory finger down at them."
+      },
+      {
+        "ref": "EP05:E55",
+        "segment_index": 0,
+        "relative_start_ms": 11500,
+        "relative_end_ms": 12800,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"Look at you.\""
+      },
+      {
+        "ref": "EP05:E56",
+        "segment_index": 0,
+        "relative_start_ms": 13000,
+        "relative_end_ms": 16500,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"A noblewoman reduced to a beggar's wife!\""
+      },
+      {
+        "ref": "EP05:E57",
+        "segment_index": 0,
+        "relative_start_ms": 16500,
+        "relative_end_ms": 21500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Over-the-shoulder shot behind the Mysterious Bearded Man looking up toward Gerald on the stairs. Gerald's arrogant grin slowly wavers."
+      },
+      {
+        "ref": "EP05:E58",
+        "segment_index": 0,
+        "relative_start_ms": 18000,
+        "relative_end_ms": 20800,
+        "type": "dialogue",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "text": "\"Choose your next words carefully.\""
+      },
+      {
+        "ref": "EP05:E59",
+        "segment_index": 0,
+        "relative_start_ms": 21500,
+        "relative_end_ms": 25500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of the Mysterious Bearded Man's scarred hand completely covering and protecting Juliana's hands where they clasp the book."
+      },
+      {
+        "ref": "EP05:E60",
+        "segment_index": 0,
+        "relative_start_ms": 24200,
+        "relative_end_ms": 25200,
+        "type": "dialogue",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "text": "\"Come.\""
+      }
+    ]
+  }
+]

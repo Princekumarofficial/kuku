@@ -1,0 +1,42 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "opp_1",
+      "episode_id": "ep_022",
+      "concept": "Juliana enters the forbidden West Wing and finds the Dowager Duchess gravely ill, ending on the poisoning cliffhanger",
+      "hook_refs": [
+        "EP22:E60"
+      ],
+      "ending_refs": [
+        "EP22:E80"
+      ],
+      "context_refs": [
+        "EP22:E61",
+        "EP22:E62",
+        "EP22:E66",
+        "EP22:E69",
+        "EP22:E75"
+      ],
+      "why_promising": "The hook 'Do not stare. Keep walking.' opens within the first 3 seconds of a 35-second clip (96000-131000ms). The clip moves from the manor corridor to the bedchamber, where Juliana says 'This isn't ordinary fever' (E75) and the Duchess convulses. It ends unresolved on the poisoning cliffhanger (E80)."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_2",
+      "episode_id": "ep_022",
+      "concept": "Juliana passes the Housekeeper's test and learns the way to the West Wing",
+      "hook_refs": [
+        "EP22:E42"
+      ],
+      "ending_refs": [
+        "EP22:E53"
+      ],
+      "context_refs": [
+        "EP22:E45",
+        "EP22:E46",
+        "EP22:E51"
+      ],
+      "why_promising": "The Housekeeper's menacing threat 'keep your eyes and ears where they belong' opens a 22-second clip (66000-88000ms) within the first 3 seconds. It runs through the tense hiring test and ends on Prudence's warning that few servants go to the West Wing, which leaves the destination unresolved."
+    }
+  ]
+}

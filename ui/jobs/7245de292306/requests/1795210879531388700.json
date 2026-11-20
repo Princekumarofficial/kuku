@@ -1,0 +1,203 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_62a40544c493f242 DURATION_MS=42400\nSEGMENT 1 (playback order)\nEP10:E6 0-200 CAMERA: Medium close-up of Juliana rising swiftly from her chair, shock and terror flashing across her face.\nEP10:E8 200-2500 CAMERA: Close-up of Alexander struggling to breathe, clutching his bloodied coat over his chest.\nEP10:E9 900-2400 ALEXANDER: \"It is nothing.\"\nEP10:E10 2500-4900 CAMERA: Medium shot of Juliana hurriedly stepping toward him across the stone floor.\nEP10:E11 2550-4850 JULIANA: \"There is blood running down your arm.\"\nEP10:E12 4900-7600 CAMERA: Medium profile two-shot as Alexander stands rigid while Juliana confronts him.\nEP10:E13 5300-7700 ALEXANDER: \"A cut from the tenant fields.\"\nEP10:E14 7600-9400 CAMERA: Wide shot of the hearth room as Juliana firmly points toward a wooden armchair beside the fire.\nEP10:E15 7900-9400 JULIANA: \"Sit down.\"\nEP10:E16 9400-11200 CAMERA: Close-up of Juliana's determined, unyielding expression.\nEP10:E17 9600-10700 JULIANA: \"Now.\"\nEP10:E18 11200-13400 CAMERA: Medium shot of Alexander reluctantly lowering his heavy frame onto the chair in front of the fire.\nEP10:E19 13400-16400 CAMERA: Medium tracking shot following Juliana as she brings a wooden washbowl, fresh cloth, and an earthen jar of ointment to the foot of his chair.\nEP10:E20 14300-16300 JULIANA: \"I need to see the wound.\"\nEP10:E21 16400-18600 CAMERA: Low-angle close-up of Alexander looking up at her stubbornly.\nEP10:E22 16600-18300 ALEXANDER: \"It is only a scratch.\"\nEP10:E23 18600-21400 CAMERA: Medium shot of Juliana crossing her arms over her chest, eyeing him with quiet defiance.\nEP10:E24 18900-21400 JULIANA: \"Then removing your shirt should not trouble you.\"\nEP10:E25 21400-25200 CAMERA: Medium shot as Alexander stares at her for a beat before pushing himself up from the chair and shedding his heavy leather coat.\nEP10:E26 25200-26600 CAMERA: Close-up of Juliana observing him with guarded anticipation.\nEP10:E27 26600-29900 CAMERA: Close-up shot of Alexander pulling his dark shirt over his head, revealing his muscular torso crisscrossed with jagged battle scars and fresh bleeding lacerations.\nEP10:E28 29900-31400 CAMERA: Tight pan over the scarred, wounded flesh along his chest and ribs.\nEP10:E29 31400-32600 CAMERA: Close-up of Juliana's eyes widening in horror and deep pity.\nEP10:E30 31500-32300 JULIANA: \"Dear God.\"\nEP10:E31 32600-36400 CAMERA: Medium wide shot as Alexander sinks back into the chair, exhausted, while Juliana slowly kneels before him on the stone floor.\nEP10:E32 36400-38400 CAMERA: Extreme close-up macro shot of Juliana's trembling fingers hovering tenderly over the raised, jagged scar across Alexander's chest.\nEP10:E33 38400-40700 CAMERA: Close-up of Juliana looking up at him, her eyes softened with profound empathy.\nEP10:E34 38700-40500 JULIANA: \"You have suffered terribly.\"\nEP10:E35 40700-42400 CAMERA: Close-up of Alexander's weathered, scarred face gazing down at her with quiet stoicism.\nEP10:E36 41200-42400 ALEXANDER: \"It is over.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "complete",
+  "output": {
+    "candidate_id": "c_62a40544c493f242",
+    "hook": {
+      "score_0_10": 6.0,
+      "evidence_refs": [
+        "EP10:E6",
+        "EP10:E8",
+        "EP10:E9"
+      ],
+      "reason": "The opening within 0-3000ms shows Juliana rising in shock and Alexander struggling to breathe while clutching a bloodied coat, which creates immediate tension. The unexplained injury and his denial 'It is nothing.' raise a question, but the stakes are not clear to a first-time viewer."
+    },
+    "cliffhanger": {
+      "score_0_10": 2.0,
+      "evidence_refs": [
+        "EP10:E35",
+        "EP10:E36"
+      ],
+      "reason": "The final 3000ms close on Alexander's stoic face and his line 'It is over.', which signals closure rather than an open question. The wound is tended and the scene settles, so the ending reads as resolved.",
+      "unresolved_at_end": false
+    },
+    "standalone": {
+      "score_0_10": 4.0,
+      "missing_context": [
+        "Who Juliana and Alexander are and their relationship",
+        "What caused the bloodied wound and the battle scars",
+        "The meaning of 'a cut from the tenant fields' and the wider conflict",
+        "What 'It is over' refers to",
+        "Why Juliana's reaction carries such emotional weight"
+      ]
+    },
+    "emotion": {
+      "score_0_10": 6.0,
+      "reason": "Juliana's horror, pity and tenderness toward Alexander's scarred body and his quiet stoicism give the clip a clear emotional arc, though the feeling depends on context the viewer lacks."
+    },
+    "weaknesses": [
+      "Stakes and backstory are not established, so the clip relies on unexplained injuries",
+      "The closing line 'It is over.' resolves tension instead of leaving a hook",
+      "Much of the runtime is slow physical action (shirt removal, kneeling) with little dialogue",
+      "The emotional payoff is strong only for viewers who already know the characters"
+    ],
+    "one_line_why_it_works": "Juliana's shock and tender pity toward Alexander's injuries create an intimate emotional moment, even though the clip ends on a resolved note."
+  }
+}

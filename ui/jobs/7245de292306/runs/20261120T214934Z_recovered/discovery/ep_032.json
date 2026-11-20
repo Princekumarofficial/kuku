@@ -1,0 +1,60 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "ep032_opp01",
+      "episode_id": "ep_032",
+      "concept": "Cornered Juliana answers Catherine's threat to burn her mother's book with defiance, then faces the accusation that she thinks herself better, ending on Catherine's furious shout.",
+      "hook_refs": [
+        "EP32:E13",
+        "EP32:E14"
+      ],
+      "ending_refs": [
+        "EP32:E34"
+      ],
+      "context_refs": [
+        "EP32:E17",
+        "EP32:E22",
+        "EP32:E29"
+      ],
+      "why_promising": "Clear threat-and-defiance arc in about 29 seconds, with a direct hook line and an unresolved confrontation at the end."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep032_opp02",
+      "episode_id": "ep_032",
+      "concept": "Juliana declares she was freed from Gerald and found a man who never asked her worth, then names her husband despite Catherine's mockery, ending on Juliana's line that Catherine has never learned to make anyone love her.",
+      "hook_refs": [
+        "EP32:E57"
+      ],
+      "ending_refs": [
+        "EP32:E84"
+      ],
+      "context_refs": [
+        "EP32:E60",
+        "EP32:E62",
+        "EP32:E64",
+        "EP32:E66"
+      ],
+      "why_promising": "Self-contained personal-dignity beat about rejection and a husband Catherine scorns; the hook is a strong standalone claim and the ending stays unresolved."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep032_opp03",
+      "episode_id": "ep_032",
+      "concept": "Catherine demands Juliana's silence, Juliana calls her a woman who needs to threaten a chained woman to feel powerful, and Catherine raises the iron toward Juliana's face in the cliffhanger.",
+      "hook_refs": [
+        "EP32:E97"
+      ],
+      "ending_refs": [
+        "EP32:E116"
+      ],
+      "context_refs": [
+        "EP32:E101",
+        "EP32:E103",
+        "EP32:E114"
+      ],
+      "why_promising": "High-intensity escalation to the episode's cliffhanger in about 29 seconds, with a direct hook line and an unresolved final threat."
+    }
+  ]
+}

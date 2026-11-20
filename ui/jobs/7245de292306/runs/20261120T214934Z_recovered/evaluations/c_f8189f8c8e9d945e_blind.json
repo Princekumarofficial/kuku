@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_f8189f8c8e9d945e",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP27:E26",
+      "EP27:E28"
+    ],
+    "reason": "Opens within 0-3000ms with violent pounding and a startled reaction, then a strong confrontation reveal of doors bursting open at 2400ms, creating immediate tension for a first-time viewer."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP27:E52",
+      "EP27:E50"
+    ],
+    "reason": "The clip ends on an accusation with Juliana's guilt apparently established and no consequence shown, so the confrontation remains open; however, the ending is a verbal escalation rather than a clear suspense hook, and the outcome of the vial and the accusation is unknown.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Who the Duchess is and why her private chamber matters",
+      "Why Juliana is treating someone and what the vial contains",
+      "Who the Blond Nobleman and Lady Catherine are in relation to Juliana",
+      "What the royal guard's role is and what authority the accusers hold",
+      "Whether Juliana's help was authorized or what the stakes of 'permission' are"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 6.0,
+    "reason": "Clear tension and hostility from the pounding, the reveal, and Catherine's scorn and triumph; the viewer feels Juliana's vulnerability, though without knowing the backstory the emotional stakes stay somewhat abstract."
+  },
+  "weaknesses": [
+    "Key characters and relationships are not introduced, so a first-time viewer cannot tell who holds power or what the Duchess's condition is",
+    "The vial's purpose is never clarified beyond Juliana's one-word 'Medicine', leaving the central object ambiguous",
+    "The ending is a verbal accusation without a visible consequence, which may read as a pause rather than a strong cliffhanger",
+    "Dialogue-heavy middle section with several repetitive questions slows momentum",
+    "The royal guard is shown but has no lines or action, so his significance is unclear"
+  ],
+  "one_line_why_it_works": "Violent door-pounding and a dramatic reveal create immediate tension, and the accusatory exchange over a hidden vial builds a clear confrontation between a maid and her accusers."
+}

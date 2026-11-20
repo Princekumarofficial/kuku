@@ -1,0 +1,305 @@
+{
+  "episode_id": "ep_025",
+  "summary": "Episode ep_025 (scene sc_001, EP25:E1-E95) is a dusk forest-trail confrontation. Alexander finds Juliana hurt, sees a riding-crop laceration on her shoulder, and presses her for the culprit. She names Lady Catherine, says she entered Ashburg Manor to help the Dowager Duchess, and reports that the Dowager is being poisoned with arsenic. Alexander reacts with fury and protective concern, and the scene closes with him agreeing to hear everything she saw. Uncertainty: the source carries the warning sc_001 incomplete source coverage with gaps unavailable, so events outside the supplied range may be missing. Lady Catherine, the Dowager Duchess, Prudence and the doctor are never shown on screen; everything about them, including the attack, the poisoning and the medicine, is Juliana's unverified testimony. Character roles are inferred from dialogue only. The metadata logline and continuity notes were not used as evidence.",
+  "characters": [
+    {
+      "name": "Alexander",
+      "role": "Protective male lead who confronts Juliana, reacts with fury to her injury and demands the truth"
+    },
+    {
+      "name": "Juliana",
+      "role": "Woman who is injured and carries the account of the poisoning; she has been inside Ashburg Manor and treated the Dowager"
+    },
+    {
+      "name": "Lady Catherine",
+      "role": "Named by Juliana as the person who struck her; not seen on screen"
+    },
+    {
+      "name": "Dowager Duchess",
+      "role": "Reported poisoning victim per Juliana's testimony; not seen on screen"
+    },
+    {
+      "name": "Prudence",
+      "role": "Named by Juliana as having told her the Dowager was dying and as present during treatment; not seen on screen"
+    }
+  ],
+  "beats": [
+    {
+      "id": "b1",
+      "kind": "setup",
+      "event_refs": [
+        "EP25:E1",
+        "EP25:E2",
+        "EP25:E3"
+      ],
+      "description": "Misty forest trail at dusk; Juliana walks hurriedly and breathing heavily, then Alexander emerges to block her path.",
+      "intensity_0_10": 3.0
+    },
+    {
+      "id": "b2",
+      "kind": "confrontation",
+      "event_refs": [
+        "EP25:E4",
+        "EP25:E5",
+        "EP25:E6",
+        "EP25:E7",
+        "EP25:E8"
+      ],
+      "description": "Alexander calls her name and questions why she is walking strangely; Juliana deflects that she is only tired.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "b3",
+      "kind": "reveal",
+      "event_refs": [
+        "EP25:E9",
+        "EP25:E10",
+        "EP25:E11",
+        "EP25:E12",
+        "EP25:E13",
+        "EP25:E14",
+        "EP25:E15"
+      ],
+      "description": "Alexander grips her injured left shoulder, she gasps in pain, and he uncovers a raw riding-crop laceration; she minimizes it.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b4",
+      "kind": "escalation",
+      "event_refs": [
+        "EP25:E16",
+        "EP25:E17",
+        "EP25:E18",
+        "EP25:E19",
+        "EP25:E20",
+        "EP25:E21",
+        "EP25:E22"
+      ],
+      "description": "Alexander's fury mounts and he demands who did this; Juliana refuses to say it does not matter and he takes her hand, insisting on an answer.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b5",
+      "kind": "turning_point",
+      "event_refs": [
+        "EP25:E23",
+        "EP25:E24"
+      ],
+      "description": "Juliana whispers that Lady Catherine inflicted the wound.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "b6",
+      "kind": "interrogation",
+      "event_refs": [
+        "EP25:E25",
+        "EP25:E26",
+        "EP25:E27",
+        "EP25:E28",
+        "EP25:E29",
+        "EP25:E30",
+        "EP25:E31",
+        "EP25:E32",
+        "EP25:E33",
+        "EP25:E34",
+        "EP25:E35",
+        "EP25:E36"
+      ],
+      "description": "Alexander presses how and why she was at Ashburg Manor; Juliana hedges that she was punished as a maid, then says she went there to help someone.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b7",
+      "kind": "reveal",
+      "event_refs": [
+        "EP25:E37",
+        "EP25:E38",
+        "EP25:E39"
+      ],
+      "description": "Juliana names the Dowager Duchess as the person she went to help, and Alexander is stunned.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "b8",
+      "kind": "revelation",
+      "event_refs": [
+        "EP25:E40",
+        "EP25:E41",
+        "EP25:E42",
+        "EP25:E43",
+        "EP25:E44",
+        "EP25:E45",
+        "EP25:E46",
+        "EP25:E47",
+        "EP25:E48",
+        "EP25:E49",
+        "EP25:E50",
+        "EP25:E51"
+      ],
+      "description": "Juliana recounts that Prudence said the Dowager was dying, that the doctor called it age, and that she found poison, specifically arsenic.",
+      "intensity_0_10": 9.0
+    },
+    {
+      "id": "b9",
+      "kind": "escalation",
+      "event_refs": [
+        "EP25:E52",
+        "EP25:E53",
+        "EP25:E54",
+        "EP25:E55",
+        "EP25:E56",
+        "EP25:E57",
+        "EP25:E58",
+        "EP25:E59",
+        "EP25:E60",
+        "EP25:E61",
+        "EP25:E62",
+        "EP25:E63",
+        "EP25:E64"
+      ],
+      "description": "Alexander clenches his fist as Juliana says the poison was given repeatedly in small doses; she reveals she made medicine and treated the Dowager with Prudence.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b10",
+      "kind": "conflict",
+      "event_refs": [
+        "EP25:E65",
+        "EP25:E66",
+        "EP25:E67",
+        "EP25:E68",
+        "EP25:E69",
+        "EP25:E70",
+        "EP25:E71",
+        "EP25:E72",
+        "EP25:E73",
+        "EP25:E74",
+        "EP25:E75",
+        "EP25:E76",
+        "EP25:E77",
+        "EP25:E78",
+        "EP25:E79",
+        "EP25:E80",
+        "EP25:E81",
+        "EP25:E82",
+        "EP25:E83",
+        "EP25:E84",
+        "EP25:E85",
+        "EP25:E86",
+        "EP25:E87",
+        "EP25:E88"
+      ],
+      "description": "Alexander fears for her safety and asks if she will return; Juliana insists she cannot abandon the Dowager, and their argument over his anger and her risk plays out.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b11",
+      "kind": "resolution",
+      "event_refs": [
+        "EP25:E89",
+        "EP25:E90",
+        "EP25:E91",
+        "EP25:E92",
+        "EP25:E93",
+        "EP25:E94",
+        "EP25:E95"
+      ],
+      "description": "Alexander yields with a resigned exhale, asks her to tell everything she saw, and they walk off together into the twilight forest.",
+      "intensity_0_10": 5.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "r1",
+      "event_refs": [
+        "EP25:E24"
+      ],
+      "claim": "Juliana says Lady Catherine inflicted the shoulder wound (her testimony; unverified on screen).",
+      "spoiler_significance_0_10": 7.0,
+      "creates_questions": [
+        "Why did Lady Catherine strike Juliana?",
+        "What is Lady Catherine's connection to the Dowager Duchess?"
+      ]
+    },
+    {
+      "id": "r2",
+      "event_refs": [
+        "EP25:E28",
+        "EP25:E34",
+        "EP25:E37"
+      ],
+      "claim": "Juliana says she went into Ashburg Manor to help the Dowager Duchess after being caught in the wrong chamber and punished as a maid.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "What really happened inside Ashburg Manor?",
+        "Who caught and punished Juliana?"
+      ]
+    },
+    {
+      "id": "r3",
+      "event_refs": [
+        "EP25:E41",
+        "EP25:E43",
+        "EP25:E45",
+        "EP25:E49",
+        "EP25:E51",
+        "EP25:E55"
+      ],
+      "claim": "Juliana claims the Dowager Duchess was not dying of age but was being poisoned with arsenic in repeated small doses (her testimony; unverified).",
+      "spoiler_significance_0_10": 9.0,
+      "creates_questions": [
+        "Who is administering the arsenic?",
+        "Did the doctor miss the poisoning?"
+      ]
+    },
+    {
+      "id": "r4",
+      "event_refs": [
+        "EP25:E58",
+        "EP25:E60",
+        "EP25:E64"
+      ],
+      "claim": "Juliana says she made medicine for the Dowager with Prudence and her breathing became easier.",
+      "spoiler_significance_0_10": 5.0,
+      "creates_questions": [
+        "Will the Dowager Duchess recover?",
+        "Will Juliana return to treat her again?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "Who is administering arsenic to the Dowager Duchess?",
+      "introduced_by": [
+        "EP25:E45",
+        "EP25:E49",
+        "EP25:E51",
+        "EP25:E55"
+      ]
+    },
+    {
+      "question": "Why did Lady Catherine strike Juliana?",
+      "introduced_by": [
+        "EP25:E14",
+        "EP25:E24"
+      ]
+    },
+    {
+      "question": "What was Juliana doing inside Ashburg Manor, and what punishment did she actually receive?",
+      "introduced_by": [
+        "EP25:E28",
+        "EP25:E32",
+        "EP25:E34"
+      ]
+    },
+    {
+      "question": "Will Juliana return to Ashburg Manor, and will she be safe if she does?",
+      "introduced_by": [
+        "EP25:E66",
+        "EP25:E68",
+        "EP25:E71",
+        "EP25:E81"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_a6ffa92980cce33a",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP18:E1",
+      "EP18:E2",
+      "EP18:E25"
+    ],
+    "reason": "The clip opens within 0-2100ms on flames crawling under a closed door with smoke pouring through, a strong immediate threat. The final evidence (EP18:E25, 39500-41800ms) carries the tension to the end with a line about being unable to get through."
+  },
+  "cliffhanger": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP18:E23",
+      "EP18:E25"
+    ],
+    "reason": "The exit is shown as completely sealed by wall-high flames (EP18:E23) and the characters conclude they cannot get through (EP18:E25). No escape or rescue is shown, so the situation is unresolved when the clip ends.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Who Juliana and Alexander are and how they relate",
+      "Cause of the fire and why it spread so quickly",
+      "Why Juliana's hands are bandaged (EP18:E10)",
+      "What happened before the clip started",
+      "Why the room has no other exit or how the door was sealed"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Panic and urgency build through coughing, sobbing, the door being kicked in, and Alexander's protective embrace. The clip ends on fear as the exit is blocked, and the viewer is left with dread."
+  },
+  "weaknesses": [
+    "Characters and relationship are never established, so emotional investment depends on generic peril",
+    "Bandaged hands are shown without explanation",
+    "Juliana calls for Alexander twice and the repeated dialogue slightly slows momentum",
+    "The final line is the only in-clip statement of the blocked exit, so the stakes depend on the visual sealing alone"
+  ],
+  "one_line_why_it_works": "A fast-moving fire rescue escalates to a sealed exit and a fearful line of dialogue, leaving the danger unresolved at the end."
+}

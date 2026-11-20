@@ -1,0 +1,258 @@
+{
+  "episode_id": "ep_033",
+  "summary": "On-screen evidence (EP33:E1 to EP33:E99) shows an unnamed aristocratic lord coercing a young maid in a study into agreeing that Lady Juliana used herbs and a mother's book and performed unusual acts. He threatens to send her seven-year-old brother Toby to the county gaol, then tells her she will testify to witchcraft before the magistrate. Uncertainty: Juliana, Toby and the lord are never shown on screen and are identified only through dialogue. The maid's agreements (EP33:E27, E31, E52, E56, E60, E68) are extracted under threat and leading questions, so the claims of herbs, a book and witchcraft are the lord's framing and are unverified. The maid's account that Juliana saved Toby (EP33:E9, E21, E77, E90) is her statement and is also unverified. Metadata was not used as evidence and does not establish events beyond the on-screen material. The scene fades out at EP33:E98 and EP33:E99 with no resolution of the trial or Toby's fate.",
+  "characters": [
+    {
+      "name": "Unnamed Lord",
+      "role": "Aristocratic lord who coerces the maid into false testimony against Juliana and threatens her brother"
+    },
+    {
+      "name": "Unnamed young maid",
+      "role": "Servant coerced into giving false testimony; her brother Toby is threatened with the county gaol"
+    },
+    {
+      "name": "Lady Juliana",
+      "role": "Referenced only, not on screen; accused of witchcraft by the lord and credited by the maid with saving Toby"
+    },
+    {
+      "name": "Toby",
+      "role": "Referenced only, not on screen; the maid's seven-year-old brother, threatened with the county gaol and reportedly saved by Juliana"
+    }
+  ],
+  "beats": [
+    {
+      "id": "b1",
+      "kind": "setup",
+      "event_refs": [
+        "EP33:E1",
+        "EP33:E2",
+        "EP33:E3",
+        "EP33:E4",
+        "EP33:E5",
+        "EP33:E6",
+        "EP33:E7",
+        "EP33:E8",
+        "EP33:E9",
+        "EP33:E10",
+        "EP33:E11"
+      ],
+      "description": "The lord confronts the maid in the study about her brother's recovery, asking who saved him and how, and she names Lady Juliana.",
+      "intensity_0_10": 3.0
+    },
+    {
+      "id": "b2",
+      "kind": "interrogation",
+      "event_refs": [
+        "EP33:E12",
+        "EP33:E13",
+        "EP33:E14",
+        "EP33:E15",
+        "EP33:E16",
+        "EP33:E17",
+        "EP33:E18",
+        "EP33:E19",
+        "EP33:E20",
+        "EP33:E21",
+        "EP33:E22",
+        "EP33:E23",
+        "EP33:E24",
+        "EP33:E25",
+        "EP33:E26",
+        "EP33:E27",
+        "EP33:E28",
+        "EP33:E29",
+        "EP33:E30",
+        "EP33:E31",
+        "EP33:E32",
+        "EP33:E33",
+        "EP33:E34",
+        "EP33:E35"
+      ],
+      "description": "The lord presses the maid about herbs, the mother's book and unusual acts; she gives answers that are partly denied, then agrees under pressure to some leading claims.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b3",
+      "kind": "threat",
+      "event_refs": [
+        "EP33:E36",
+        "EP33:E37",
+        "EP33:E38",
+        "EP33:E39",
+        "EP33:E40",
+        "EP33:E41",
+        "EP33:E42",
+        "EP33:E43",
+        "EP33:E44",
+        "EP33:E45",
+        "EP33:E46",
+        "EP33:E47"
+      ],
+      "description": "The lord threatens to send the maid's seven-year-old brother to the county gaol, and she begs for mercy and asks what she must say.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "b4",
+      "kind": "coercion",
+      "event_refs": [
+        "EP33:E48",
+        "EP33:E49",
+        "EP33:E50",
+        "EP33:E51",
+        "EP33:E52",
+        "EP33:E53",
+        "EP33:E54",
+        "EP33:E55",
+        "EP33:E56",
+        "EP33:E57",
+        "EP33:E58",
+        "EP33:E59",
+        "EP33:E60",
+        "EP33:E61",
+        "EP33:E62",
+        "EP33:E63",
+        "EP33:E64",
+        "EP33:E65",
+        "EP33:E66",
+        "EP33:E67",
+        "EP33:E68"
+      ],
+      "description": "The lord supplies the wording of the account, including a circle of herbs and a book spoken over the bed, and the maid repeats it in fragments while insisting Juliana was praying.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b5",
+      "kind": "framing",
+      "event_refs": [
+        "EP33:E69",
+        "EP33:E70",
+        "EP33:E71",
+        "EP33:E72",
+        "EP33:E73",
+        "EP33:E74",
+        "EP33:E75",
+        "EP33:E76",
+        "EP33:E77",
+        "EP33:E78",
+        "EP33:E79",
+        "EP33:E80",
+        "EP33:E81",
+        "EP33:E82",
+        "EP33:E83",
+        "EP33:E84",
+        "EP33:E85"
+      ],
+      "description": "The lord declares the account witchcraft and orders the maid to give it before the magistrate; she protests that Juliana saved Toby and is left horrified.",
+      "intensity_0_10": 9.0
+    },
+    {
+      "id": "b6",
+      "kind": "capitulation",
+      "event_refs": [
+        "EP33:E86",
+        "EP33:E87",
+        "EP33:E88",
+        "EP33:E89",
+        "EP33:E90",
+        "EP33:E91",
+        "EP33:E92",
+        "EP33:E93",
+        "EP33:E94",
+        "EP33:E95",
+        "EP33:E96",
+        "EP33:E97",
+        "EP33:E98",
+        "EP33:E99"
+      ],
+      "description": "The lord states the story is already written, and the maid collapses, apologises to Juliana and is dismissed; the scene fades with her weeping.",
+      "intensity_0_10": 6.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "r1",
+      "event_refs": [
+        "EP33:E79",
+        "EP33:E83",
+        "EP33:E87",
+        "EP33:E88"
+      ],
+      "claim": "The lord intends the maid to give a testimony of witchcraft against Juliana before the magistrate, and states he has already written the story for her.",
+      "spoiler_significance_0_10": 8.0,
+      "creates_questions": [
+        "Will the maid's false testimony be delivered before the magistrate?",
+        "Will Juliana be charged with witchcraft on this testimony?"
+      ]
+    },
+    {
+      "id": "r2",
+      "event_refs": [
+        "EP33:E9",
+        "EP33:E21",
+        "EP33:E77",
+        "EP33:E90"
+      ],
+      "claim": "According to the maid, Lady Juliana saved her brother Toby, and she maintains this account despite the lord's pressure; this is her claim, not independently shown.",
+      "spoiler_significance_0_10": 4.0,
+      "creates_questions": [
+        "Did Juliana actually save Toby, and how?",
+        "Is Toby currently safe from the county gaol threat?"
+      ]
+    },
+    {
+      "id": "r3",
+      "event_refs": [
+        "EP33:E31",
+        "EP33:E52",
+        "EP33:E56",
+        "EP33:E60",
+        "EP33:E68"
+      ],
+      "claim": "The maid's agreement that Juliana used herbs, a mother's book and unusual acts was given under threat and leading questions, so these acts are the lord's framing and remain unverified.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "Did Juliana use herbs or a book in any way that could be called witchcraft?",
+        "What does the maid truly know about Juliana's actions?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "Will the maid give the false testimony before the magistrate?",
+      "introduced_by": [
+        "EP33:E79",
+        "EP33:E83"
+      ]
+    },
+    {
+      "question": "Is Toby's safety guaranteed, or will the county gaol take him?",
+      "introduced_by": [
+        "EP33:E40",
+        "EP33:E92"
+      ]
+    },
+    {
+      "question": "Did Juliana use herbs, a mother's book or any ritual, and if so what were they?",
+      "introduced_by": [
+        "EP33:E13",
+        "EP33:E25",
+        "EP33:E52",
+        "EP33:E58"
+      ]
+    },
+    {
+      "question": "Who is the lord, and what is his motive against Juliana?",
+      "introduced_by": [
+        "EP33:E1",
+        "EP33:E88"
+      ]
+    },
+    {
+      "question": "What happens to Juliana if the witchcraft accusation is made?",
+      "introduced_by": [
+        "EP33:E75",
+        "EP33:E97"
+      ]
+    }
+  ]
+}

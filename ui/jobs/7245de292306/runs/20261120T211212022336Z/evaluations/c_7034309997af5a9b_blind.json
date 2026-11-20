@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_7034309997af5a9b",
+  "hook": {
+    "score_0_10": 5.0,
+    "evidence_refs": [
+      "EP08:E21",
+      "EP08:E22",
+      "EP08:E44"
+    ],
+    "reason": "The opening line 'Enough to survive.' creates some curiosity, but the first seconds are a quiet domestic setup with no clear stakes. The final-window evidence is a light playful exchange, not a strong pull to keep watching."
+  },
+  "cliffhanger": {
+    "score_0_10": 3.0,
+    "evidence_refs": [
+      "EP08:E43",
+      "EP08:E44"
+    ],
+    "reason": "The clip closes on a playful 'We'll see.' with a smirk. The 'Not yet' and beard-trimming thread is a teasing banter beat that lands as resolved within the scene, so it does not read as an unresolved cliffhanger.",
+    "unresolved_at_end": false
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Identity and relationship of Alexander and Juliana",
+      "Setting and why they are at the hearth and table",
+      "What 'Enough to survive' refers to",
+      "Why the beard and hair matter to the characters",
+      "What 'Not yet' and 'Let them grow' are responding to"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 6.0,
+    "reason": "The exchange carries warmth, affection and light teasing between the two characters, with soft expressions and a playful tone. The emotional register is pleasant but low-stakes."
+  },
+  "weaknesses": [
+    "Opening hook is a slow, low-stakes domestic setup",
+    "Key referents are unexplained for a first-time viewer",
+    "Playful banter carries limited tension or stakes",
+    "Ending resolves warmly rather than leaving a hook for what comes next"
+  ],
+  "one_line_why_it_works": "A tender, playful exchange about a beard builds warm chemistry and ends on a teasing smirk that invites a smile."
+}

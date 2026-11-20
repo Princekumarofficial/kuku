@@ -1,0 +1,238 @@
+{
+  "episode_id": "ep_019",
+  "summary": "Episode EP19 is built from two scene-level source warnings (sc_001 and sc_002 have incomplete source coverage, with gaps unavailable), so beats and timing may omit unseen action. Only the on-screen event text is treated as evidence; the supplied metadata logline and continuity notes are not evidence and are used only to flag discrepancies. Juliana and Alexander stand amid the ruins of Blackwood cottage (EP19:E1-E7), receive blankets, a bucket and bread from villagers and are directed to an empty barn (EP19:E8-E22), then leave (EP19:E23-E25). In the forest, an informant reports to Alexander that Lord Sterling and a man named Rupert are exercising power in Ashburg, that Rupert signs estate papers from the late duke's room, that a woman called Lady Catherine is watched and isolated, and that Alexander is believed dead (EP19:E26-E50). The on-screen dialogue does not explicitly confirm that Rupert has usurped the ducal seat, and it does not establish that Alexander's imprisoned mother is the same person as Lady Catherine; the informant's pronoun at E37-E39 is ambiguous and Alexander's mother is named only at E43. The metadata says Juliana's book is a herbal book while the on-screen text calls it a ledger at E4, a discrepancy left unresolved. The barn scene shows Juliana's grief and Alexander's comfort and vow to reclaim what was stolen (EP19:E51-E63). Uncertainty remains about the mother's fate, the identity of Juliana's mother, and the nature of Alexander's and Juliana's relationship beyond what is shown.",
+  "characters": [
+    {
+      "name": "Juliana",
+      "role": "Protagonist; displaced by the cottage fire, grieving and holding her mother's scorched herbal book or ledger"
+    },
+    {
+      "name": "Alexander",
+      "role": "Presumed nobleman addressed as Your Grace; hiding and believed dead; plans to reclaim Ashburg"
+    },
+    {
+      "name": "Elder villager",
+      "role": "Unnamed villager who offers the empty barn, blankets, bread and gratitude to Juliana and Alexander"
+    },
+    {
+      "name": "Informant",
+      "role": "Unnamed bald, scarred operative who reports secretly to Alexander from Ashburg"
+    },
+    {
+      "name": "Lord Sterling",
+      "role": "Powerful figure whose influence in Ashburg has grown in Alexander's absence, as reported by the informant (exact role uncertain)"
+    },
+    {
+      "name": "Rupert",
+      "role": "Man acting as the face of Ashburg, signing estate papers and giving orders; described as usurping the title by implication only"
+    },
+    {
+      "name": "Lady Catherine",
+      "role": "Woman behaving as the future duchess, separated from household and watched; relation to Alexander's mother unconfirmed"
+    },
+    {
+      "name": "Alexander's mother",
+      "role": "Referred to by Alexander as a prisoner in her own house; not named on screen"
+    }
+  ],
+  "beats": [
+    {
+      "id": "B1",
+      "kind": "setup_aftermath",
+      "event_refs": [
+        "EP19:E1",
+        "EP19:E2",
+        "EP19:E3",
+        "EP19:E4",
+        "EP19:E5",
+        "EP19:E6",
+        "EP19:E7"
+      ],
+      "description": "Juliana and Alexander stand among the smoldering ruins of their cottage; Juliana mourns and salvages her mother's scorched book.",
+      "intensity_0_10": 4.0
+    },
+    {
+      "id": "B2",
+      "kind": "aid_offer",
+      "event_refs": [
+        "EP19:E8",
+        "EP19:E9",
+        "EP19:E10",
+        "EP19:E11",
+        "EP19:E12",
+        "EP19:E13",
+        "EP19:E14",
+        "EP19:E15",
+        "EP19:E16",
+        "EP19:E17",
+        "EP19:E18",
+        "EP19:E19",
+        "EP19:E20",
+        "EP19:E21",
+        "EP19:E22"
+      ],
+      "description": "Villagers offer an empty barn, blankets, a bucket and bread; Juliana protests and then accepts with gratitude.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "B3",
+      "kind": "departure",
+      "event_refs": [
+        "EP19:E23",
+        "EP19:E24",
+        "EP19:E25"
+      ],
+      "description": "Juliana says goodbye to Blackwood and the couple walks away from the ruins.",
+      "intensity_0_10": 4.0
+    },
+    {
+      "id": "B4",
+      "kind": "intelligence_report",
+      "event_refs": [
+        "EP19:E26",
+        "EP19:E27",
+        "EP19:E28",
+        "EP19:E29",
+        "EP19:E30",
+        "EP19:E31",
+        "EP19:E32",
+        "EP19:E33",
+        "EP19:E34",
+        "EP19:E35",
+        "EP19:E36",
+        "EP19:E37",
+        "EP19:E38",
+        "EP19:E39",
+        "EP19:E40",
+        "EP19:E41"
+      ],
+      "description": "In the misty forest the informant reports on Lord Sterling, Rupert and Lady Catherine; Alexander's anger grows.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "B5",
+      "kind": "escalation_revelation",
+      "event_refs": [
+        "EP19:E42",
+        "EP19:E43",
+        "EP19:E44",
+        "EP19:E45"
+      ],
+      "description": "Alexander learns his mother is imprisoned in her own house and that the world believes he is dead.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "B6",
+      "kind": "vow",
+      "event_refs": [
+        "EP19:E46",
+        "EP19:E47",
+        "EP19:E48",
+        "EP19:E49",
+        "EP19:E50"
+      ],
+      "description": "Alexander chooses to keep his survival hidden and vows vengeance to restore Ashburg.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "B7",
+      "kind": "emotional_low",
+      "event_refs": [
+        "EP19:E51",
+        "EP19:E52",
+        "EP19:E53",
+        "EP19:E54",
+        "EP19:E55",
+        "EP19:E56",
+        "EP19:E57"
+      ],
+      "description": "In the barn loft Juliana breaks down over her book, despairing about tomorrow after losing everything.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "B8",
+      "kind": "comfort_resolve",
+      "event_refs": [
+        "EP19:E58",
+        "EP19:E59",
+        "EP19:E60",
+        "EP19:E61",
+        "EP19:E62",
+        "EP19:E63"
+      ],
+      "description": "Alexander comforts Juliana with a blanket and promises a new beginning; she leans on him while he resolves to reclaim what was stolen.",
+      "intensity_0_10": 5.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "R1",
+      "event_refs": [
+        "EP19:E31",
+        "EP19:E33"
+      ],
+      "claim": "Lord Sterling's influence has grown in Ashburg during Alexander's absence, and Rupert acts as the face of Ashburg, signing estate papers from the late duke's room.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "Q1"
+      ]
+    },
+    {
+      "id": "R2",
+      "event_refs": [
+        "EP19:E35",
+        "EP19:E37",
+        "EP19:E39",
+        "EP19:E41",
+        "EP19:E43"
+      ],
+      "claim": "A woman identified as Lady Catherine is separated from the household, watched and has her letters checked, and loyal servants are gone; Alexander says his mother is a prisoner in her own house, with the identity link unconfirmed.",
+      "spoiler_significance_0_10": 7.0,
+      "creates_questions": [
+        "Q2"
+      ]
+    },
+    {
+      "id": "R3",
+      "event_refs": [
+        "EP19:E45",
+        "EP19:E47"
+      ],
+      "claim": "Everyone believes Alexander is dead, and he chooses to let them keep believing it for now.",
+      "spoiler_significance_0_10": 8.0,
+      "creates_questions": [
+        "Q3"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "What is Lord Sterling's relationship to Rupert, and how much control does Sterling hold over Ashburg?",
+      "introduced_by": [
+        "EP19:E31"
+      ]
+    },
+    {
+      "question": "Is Lady Catherine the same person as Alexander's imprisoned mother, and is she literally imprisoned?",
+      "introduced_by": [
+        "EP19:E35",
+        "EP19:E37",
+        "EP19:E43"
+      ]
+    },
+    {
+      "question": "What proof does Alexander need, and when will he reveal that he is alive?",
+      "introduced_by": [
+        "EP19:E48",
+        "EP19:E50"
+      ]
+    },
+    {
+      "question": "What happened to Juliana's mother, and what is the full meaning of her mother's herbal book?",
+      "introduced_by": [
+        "EP19:E2",
+        "EP19:E5"
+      ]
+    }
+  ]
+}

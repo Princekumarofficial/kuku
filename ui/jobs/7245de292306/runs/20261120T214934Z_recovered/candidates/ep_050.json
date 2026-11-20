@@ -1,0 +1,647 @@
+[
+  {
+    "candidate_id": "c_e2439e4ad9fdcd68",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 15500,
+        "end_ms": 48000,
+        "episode_id": "ep_050"
+      }
+    ],
+    "duration_ms": 32500,
+    "origin": "opp_1",
+    "clip_events": [
+      {
+        "ref": "EP50:E8",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up pushing in on Catherine as she leans lower over his face, her gaze sharpening with dangerous intimacy."
+      },
+      {
+        "ref": "EP50:E10",
+        "segment_index": 0,
+        "relative_start_ms": 300,
+        "relative_end_ms": 3300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot from the side as both sit up in bed, sheets pulled up around their waists."
+      },
+      {
+        "ref": "EP50:E11",
+        "segment_index": 0,
+        "relative_start_ms": 1300,
+        "relative_end_ms": 3000,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Name your price.\""
+      },
+      {
+        "ref": "EP50:E12",
+        "segment_index": 0,
+        "relative_start_ms": 3300,
+        "relative_end_ms": 11000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium profile close-up on Father Thomas sitting up tall and bare-chested, Catherine resting her hand firmly over his heart."
+      },
+      {
+        "ref": "EP50:E13",
+        "segment_index": 0,
+        "relative_start_ms": 3900,
+        "relative_end_ms": 9500,
+        "type": "dialogue",
+        "speaker": "FATHER THOMAS",
+        "text": "\"The west territory. Tax collection, all of it. Routed through my office.\""
+      },
+      {
+        "ref": "EP50:E14",
+        "segment_index": 0,
+        "relative_start_ms": 11000,
+        "relative_end_ms": 15000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Slight pull back as Catherine pulls her hand back slightly, staring at him in disbelief."
+      },
+      {
+        "ref": "EP50:E15",
+        "segment_index": 0,
+        "relative_start_ms": 11700,
+        "relative_end_ms": 14700,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"That's not absolution, Thomas. That's a fortune.\""
+      },
+      {
+        "ref": "EP50:E16",
+        "segment_index": 0,
+        "relative_start_ms": 15000,
+        "relative_end_ms": 20300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Two-shot centering on Father Thomas leaning toward her, his expression resolute and uncompromising."
+      },
+      {
+        "ref": "EP50:E17",
+        "segment_index": 0,
+        "relative_start_ms": 15500,
+        "relative_end_ms": 19500,
+        "type": "dialogue",
+        "speaker": "FATHER THOMAS",
+        "text": "\"Absolution is free. Discretion has a price.\""
+      },
+      {
+        "ref": "EP50:E18",
+        "segment_index": 0,
+        "relative_start_ms": 20300,
+        "relative_end_ms": 24300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight profile close-up between their faces, golden candlelight illuminating Catherine's jaw as she raises her hand to touch his cheek."
+      },
+      {
+        "ref": "EP50:E19",
+        "segment_index": 0,
+        "relative_start_ms": 21000,
+        "relative_end_ms": 23900,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Unsupervised. In your hands alone.\""
+      },
+      {
+        "ref": "EP50:E20",
+        "segment_index": 0,
+        "relative_start_ms": 24300,
+        "relative_end_ms": 27500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up as Father Thomas reaches up and firmly clasps Catherine's hand at his neck."
+      },
+      {
+        "ref": "EP50:E21",
+        "segment_index": 0,
+        "relative_start_ms": 24900,
+        "relative_end_ms": 27000,
+        "type": "dialogue",
+        "speaker": "FATHER THOMAS",
+        "text": "\"For as long as it holds.\""
+      },
+      {
+        "ref": "EP50:E22",
+        "segment_index": 0,
+        "relative_start_ms": 27500,
+        "relative_end_ms": 32500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up as Catherine breaks into a knowing, seductive smile and taps his chest with her index finger."
+      },
+      {
+        "ref": "EP50:E23",
+        "segment_index": 0,
+        "relative_start_ms": 27700,
+        "relative_end_ms": 32500,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Done. You told yourself this ends when the hearing does.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_43e985d45b573b5b",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 11200,
+        "end_ms": 48000,
+        "episode_id": "ep_050"
+      }
+    ],
+    "duration_ms": 36800,
+    "origin": "opp_2",
+    "clip_events": [
+      {
+        "ref": "EP50:E6",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Father Thomas turning his head toward her on the pillow, his voice raspy and dry."
+      },
+      {
+        "ref": "EP50:E8",
+        "segment_index": 0,
+        "relative_start_ms": 600,
+        "relative_end_ms": 4600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up pushing in on Catherine as she leans lower over his face, her gaze sharpening with dangerous intimacy."
+      },
+      {
+        "ref": "EP50:E9",
+        "segment_index": 0,
+        "relative_start_ms": 800,
+        "relative_end_ms": 4300,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Then let's stop pretending this was only appetite.\""
+      },
+      {
+        "ref": "EP50:E10",
+        "segment_index": 0,
+        "relative_start_ms": 4600,
+        "relative_end_ms": 7600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot from the side as both sit up in bed, sheets pulled up around their waists."
+      },
+      {
+        "ref": "EP50:E11",
+        "segment_index": 0,
+        "relative_start_ms": 5600,
+        "relative_end_ms": 7300,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Name your price.\""
+      },
+      {
+        "ref": "EP50:E12",
+        "segment_index": 0,
+        "relative_start_ms": 7600,
+        "relative_end_ms": 15300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium profile close-up on Father Thomas sitting up tall and bare-chested, Catherine resting her hand firmly over his heart."
+      },
+      {
+        "ref": "EP50:E13",
+        "segment_index": 0,
+        "relative_start_ms": 8200,
+        "relative_end_ms": 13800,
+        "type": "dialogue",
+        "speaker": "FATHER THOMAS",
+        "text": "\"The west territory. Tax collection, all of it. Routed through my office.\""
+      },
+      {
+        "ref": "EP50:E14",
+        "segment_index": 0,
+        "relative_start_ms": 15300,
+        "relative_end_ms": 19300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Slight pull back as Catherine pulls her hand back slightly, staring at him in disbelief."
+      },
+      {
+        "ref": "EP50:E15",
+        "segment_index": 0,
+        "relative_start_ms": 16000,
+        "relative_end_ms": 19000,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"That's not absolution, Thomas. That's a fortune.\""
+      },
+      {
+        "ref": "EP50:E16",
+        "segment_index": 0,
+        "relative_start_ms": 19300,
+        "relative_end_ms": 24600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Two-shot centering on Father Thomas leaning toward her, his expression resolute and uncompromising."
+      },
+      {
+        "ref": "EP50:E17",
+        "segment_index": 0,
+        "relative_start_ms": 19800,
+        "relative_end_ms": 23800,
+        "type": "dialogue",
+        "speaker": "FATHER THOMAS",
+        "text": "\"Absolution is free. Discretion has a price.\""
+      },
+      {
+        "ref": "EP50:E18",
+        "segment_index": 0,
+        "relative_start_ms": 24600,
+        "relative_end_ms": 28600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight profile close-up between their faces, golden candlelight illuminating Catherine's jaw as she raises her hand to touch his cheek."
+      },
+      {
+        "ref": "EP50:E19",
+        "segment_index": 0,
+        "relative_start_ms": 25300,
+        "relative_end_ms": 28200,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Unsupervised. In your hands alone.\""
+      },
+      {
+        "ref": "EP50:E20",
+        "segment_index": 0,
+        "relative_start_ms": 28600,
+        "relative_end_ms": 31800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up as Father Thomas reaches up and firmly clasps Catherine's hand at his neck."
+      },
+      {
+        "ref": "EP50:E21",
+        "segment_index": 0,
+        "relative_start_ms": 29200,
+        "relative_end_ms": 31300,
+        "type": "dialogue",
+        "speaker": "FATHER THOMAS",
+        "text": "\"For as long as it holds.\""
+      },
+      {
+        "ref": "EP50:E22",
+        "segment_index": 0,
+        "relative_start_ms": 31800,
+        "relative_end_ms": 36800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up as Catherine breaks into a knowing, seductive smile and taps his chest with her index finger."
+      },
+      {
+        "ref": "EP50:E23",
+        "segment_index": 0,
+        "relative_start_ms": 32000,
+        "relative_end_ms": 36800,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Done. You told yourself this ends when the hearing does.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_80b86072e41514e4",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 35000,
+        "end_ms": 80000,
+        "episode_id": "ep_050"
+      }
+    ],
+    "duration_ms": 45000,
+    "origin": "opp_3",
+    "clip_events": [
+      {
+        "ref": "EP50:E16",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Two-shot centering on Father Thomas leaning toward her, his expression resolute and uncompromising."
+      },
+      {
+        "ref": "EP50:E18",
+        "segment_index": 0,
+        "relative_start_ms": 800,
+        "relative_end_ms": 4800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight profile close-up between their faces, golden candlelight illuminating Catherine's jaw as she raises her hand to touch his cheek."
+      },
+      {
+        "ref": "EP50:E19",
+        "segment_index": 0,
+        "relative_start_ms": 1500,
+        "relative_end_ms": 4400,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Unsupervised. In your hands alone.\""
+      },
+      {
+        "ref": "EP50:E20",
+        "segment_index": 0,
+        "relative_start_ms": 4800,
+        "relative_end_ms": 8000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up as Father Thomas reaches up and firmly clasps Catherine's hand at his neck."
+      },
+      {
+        "ref": "EP50:E21",
+        "segment_index": 0,
+        "relative_start_ms": 5400,
+        "relative_end_ms": 7500,
+        "type": "dialogue",
+        "speaker": "FATHER THOMAS",
+        "text": "\"For as long as it holds.\""
+      },
+      {
+        "ref": "EP50:E22",
+        "segment_index": 0,
+        "relative_start_ms": 8000,
+        "relative_end_ms": 13500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up as Catherine breaks into a knowing, seductive smile and taps his chest with her index finger."
+      },
+      {
+        "ref": "EP50:E23",
+        "segment_index": 0,
+        "relative_start_ms": 8200,
+        "relative_end_ms": 13000,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Done. You told yourself this ends when the hearing does.\""
+      },
+      {
+        "ref": "EP50:E24",
+        "segment_index": 0,
+        "relative_start_ms": 13500,
+        "relative_end_ms": 19500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Father Thomas letting out a soft, self-deprecating chuckle before meeting her eyes with smoldering hunger."
+      },
+      {
+        "ref": "EP50:E25",
+        "segment_index": 0,
+        "relative_start_ms": 14800,
+        "relative_end_ms": 19000,
+        "type": "dialogue",
+        "speaker": "FATHER THOMAS",
+        "text": "\"I've told myself that since the dawn in your bedchamber, and here we are again.\""
+      },
+      {
+        "ref": "EP50:E26",
+        "segment_index": 0,
+        "relative_start_ms": 19500,
+        "relative_end_ms": 24800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of their lips almost grazing, warm candlelight catching the edges of their profiles."
+      },
+      {
+        "ref": "EP50:E27",
+        "segment_index": 0,
+        "relative_start_ms": 19800,
+        "relative_end_ms": 21500,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"In another room no one uses?\""
+      },
+      {
+        "ref": "EP50:E28",
+        "segment_index": 0,
+        "relative_start_ms": 21800,
+        "relative_end_ms": 24200,
+        "type": "dialogue",
+        "speaker": "FATHER THOMAS",
+        "text": "\"Perhaps I like rooms no one uses.\""
+      },
+      {
+        "ref": "EP50:E29",
+        "segment_index": 0,
+        "relative_start_ms": 24800,
+        "relative_end_ms": 30500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up profile as Catherine slides both hands into the dark hair at the back of his neck, pulling him closer."
+      },
+      {
+        "ref": "EP50:E30",
+        "segment_index": 0,
+        "relative_start_ms": 25300,
+        "relative_end_ms": 29800,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Or perhaps discretion isn't the only thing you've developed a taste for.\""
+      },
+      {
+        "ref": "EP50:E31",
+        "segment_index": 0,
+        "relative_start_ms": 30500,
+        "relative_end_ms": 35500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot as Father Thomas pulls Catherine into a fierce, suffocating embrace, burying his face in her neck while she clings to his broad shoulders."
+      },
+      {
+        "ref": "EP50:E32",
+        "segment_index": 0,
+        "relative_start_ms": 30800,
+        "relative_end_ms": 35500,
+        "type": "action",
+        "speaker": null,
+        "text": "Catherine closes her eyes in surrender as Father Thomas holds her tight against his naked chest, lost in their forbidden entanglement."
+      },
+      {
+        "ref": "EP50:E33",
+        "segment_index": 0,
+        "relative_start_ms": 35500,
+        "relative_end_ms": 38500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium tracking shot following Agnes as she walks cautiously down the dimly lit stone corridor, holding a black iron lantern."
+      },
+      {
+        "ref": "EP50:E34",
+        "segment_index": 0,
+        "relative_start_ms": 35800,
+        "relative_end_ms": 38500,
+        "type": "action",
+        "speaker": null,
+        "text": "Agnes scans the desolate hallway nervously, her lantern casting elongated shadows against the wall."
+      },
+      {
+        "ref": "EP50:E35",
+        "segment_index": 0,
+        "relative_start_ms": 38500,
+        "relative_end_ms": 41500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Over-the-shoulder shot behind Agnes as she stops dead in front of an open doorway, peering inside."
+      },
+      {
+        "ref": "EP50:E36",
+        "segment_index": 0,
+        "relative_start_ms": 39000,
+        "relative_end_ms": 41500,
+        "type": "action",
+        "speaker": null,
+        "text": "Through the crack of the door, Agnes sees Catherine and the shirtless priest locked in an intimate, passionate embrace upon the bed."
+      },
+      {
+        "ref": "EP50:E37",
+        "segment_index": 0,
+        "relative_start_ms": 41500,
+        "relative_end_ms": 43500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up on Agnes's face, drained of all color, her eyes bulging in pure terror."
+      },
+      {
+        "ref": "EP50:E38",
+        "segment_index": 0,
+        "relative_start_ms": 41800,
+        "relative_end_ms": 43500,
+        "type": "action",
+        "speaker": null,
+        "text": "Agnes's jaw drops open in shock as she stifles a cry."
+      },
+      {
+        "ref": "EP50:E39",
+        "segment_index": 0,
+        "relative_start_ms": 42200,
+        "relative_end_ms": 43600,
+        "type": "sound",
+        "speaker": null,
+        "text": "Sharp, terrified gasp catching in Agnes's throat."
+      },
+      {
+        "ref": "EP50:E40",
+        "segment_index": 0,
+        "relative_start_ms": 43500,
+        "relative_end_ms": 45000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Frantic backward tracking close-up on Agnes stumbling back into the shadows of the hallway, horrified by the lethal secret she has uncovered before an abrupt cut to black."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_740c5118e1126b6d",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 15500,
+        "end_ms": 35800,
+        "episode_id": "ep_050"
+      }
+    ],
+    "duration_ms": 20300,
+    "origin": "recovery_b2",
+    "clip_events": [
+      {
+        "ref": "EP50:E8",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up pushing in on Catherine as she leans lower over his face, her gaze sharpening with dangerous intimacy."
+      },
+      {
+        "ref": "EP50:E10",
+        "segment_index": 0,
+        "relative_start_ms": 300,
+        "relative_end_ms": 3300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot from the side as both sit up in bed, sheets pulled up around their waists."
+      },
+      {
+        "ref": "EP50:E11",
+        "segment_index": 0,
+        "relative_start_ms": 1300,
+        "relative_end_ms": 3000,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Name your price.\""
+      },
+      {
+        "ref": "EP50:E12",
+        "segment_index": 0,
+        "relative_start_ms": 3300,
+        "relative_end_ms": 11000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium profile close-up on Father Thomas sitting up tall and bare-chested, Catherine resting her hand firmly over his heart."
+      },
+      {
+        "ref": "EP50:E13",
+        "segment_index": 0,
+        "relative_start_ms": 3900,
+        "relative_end_ms": 9500,
+        "type": "dialogue",
+        "speaker": "FATHER THOMAS",
+        "text": "\"The west territory. Tax collection, all of it. Routed through my office.\""
+      },
+      {
+        "ref": "EP50:E14",
+        "segment_index": 0,
+        "relative_start_ms": 11000,
+        "relative_end_ms": 15000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Slight pull back as Catherine pulls her hand back slightly, staring at him in disbelief."
+      },
+      {
+        "ref": "EP50:E15",
+        "segment_index": 0,
+        "relative_start_ms": 11700,
+        "relative_end_ms": 14700,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"That's not absolution, Thomas. That's a fortune.\""
+      },
+      {
+        "ref": "EP50:E16",
+        "segment_index": 0,
+        "relative_start_ms": 15000,
+        "relative_end_ms": 20300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Two-shot centering on Father Thomas leaning toward her, his expression resolute and uncompromising."
+      },
+      {
+        "ref": "EP50:E17",
+        "segment_index": 0,
+        "relative_start_ms": 15500,
+        "relative_end_ms": 19500,
+        "type": "dialogue",
+        "speaker": "FATHER THOMAS",
+        "text": "\"Absolution is free. Discretion has a price.\""
+      }
+    ]
+  }
+]

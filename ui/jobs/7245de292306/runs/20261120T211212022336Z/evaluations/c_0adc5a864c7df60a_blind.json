@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_0adc5a864c7df60a",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP01:E53",
+      "EP01:E55",
+      "EP01:E57"
+    ],
+    "reason": "Opens within 3000ms on a sharp turn toward the seated father, a pleaded \"Father...\", and an immediate demand to \"Tell them this is a mistake.\" The conflict is visible from the first seconds."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP01:E72",
+      "EP01:E73"
+    ],
+    "reason": "The clip ends on Juliana demanding \"And I am what?\" with no answer shown, so the question is left open. The Matriarch's preceding line about Clarissa's value suggests a pending revelation, but the clip does not confirm the answer.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Identity and relationship of Gerald and the Lady in Gold Gown",
+      "What the \"mistake\" is and what event or ceremony this takes place at",
+      "Why the father refuses to look at or speak to Juliana",
+      "Who Clarissa is to the family and why she is being praised",
+      "What \"embarrassed this family\" refers to",
+      "What the Matriarch means by Juliana's worth or role in the family"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Juliana's tears, kneeling plea, the father's stony silence, and the Matriarch's cutting rebukes build clear distress and humiliation within the clip."
+  },
+  "weaknesses": [
+    "Key stakes and backstory are not visible, so the conflict depends on unseen context",
+    "The Matriarch's comparison with Clarissa is not fully explained",
+    "The ending question is strong but the clip does not show any response that would make the tension feel specific"
+  ],
+  "one_line_why_it_works": "A pleading daughter faces a silent father and a cold Matriarch, and the clip closes on \"And I am what?\", leaving the humiliation unanswered."
+}

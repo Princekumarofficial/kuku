@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_41f4a37199a36fda",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP15:E26",
+      "EP15:E28",
+      "EP15:E29"
+    ],
+    "reason": "The opening within the first 3000ms shows Juliana's indignant, wounded-pride close-up and her line asserting it is her home, which quickly establishes a confrontation with clear stakes."
+  },
+  "cliffhanger": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP15:E54",
+      "EP15:E55"
+    ],
+    "reason": "The final 3000ms show Juliana watching in suspense as violence hangs on a knife's edge, and the cello swell ends in an abrupt cut. The Thug with Cap's confrontation with Alexander is not resolved by the end of the clip, so the outcome is left open.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Identity and relationship of Alexander to Juliana is not established within the clip",
+      "Reason the thugs are attacking the cottage and destroying the plants is not shown",
+      "Significance of Juliana's injury and bandages is not explained",
+      "Meaning of the 'veteran' reference is not explained",
+      "Setting and prior events leading to the attack are not shown"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 9.0,
+    "reason": "The clip builds strong emotion through Juliana's humiliation, physical injury, grief over her mother's plants, and then relief and tension at Alexander's arrival, with the score held high by the sustained suspense at the end."
+  },
+  "weaknesses": [
+    "Alexander is introduced without any established identity, so his arrival carries less weight for a first-time viewer",
+    "The 'veteran' reference implies backstory that the clip does not provide",
+    "Juliana's bloodied bandages are shown without explaining their cause",
+    "Thug motivations are not established, making the antagonists feel one-dimensional",
+    "The ending relies on the viewer caring about the mother's plants without knowing their meaning beyond the moment"
+  ],
+  "one_line_why_it_works": "A sympathetic victim is shoved to the ground and grieving over ruined plants, and a rescuer's arrival is withheld at the moment of maximum tension, ending on an unresolved confrontation."
+}

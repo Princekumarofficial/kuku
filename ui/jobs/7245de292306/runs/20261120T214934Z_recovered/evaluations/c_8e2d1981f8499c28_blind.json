@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_8e2d1981f8499c28",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP44:E17",
+      "EP44:E18"
+    ],
+    "reason": "Opens within 0-3000ms with a wide shot of Catherine walking toward Alexander, and her line 'I thought you had died' at 800ms signals an emotional reunion with stakes. The viewer does not know who these people are, which limits the hook's pull."
+  },
+  "cliffhanger": {
+    "score_0_10": 4.0,
+    "evidence_refs": [
+      "EP44:E33",
+      "EP44:E41"
+    ],
+    "reason": "The clip ends during a confrontation with Alexander's line 'You loved the Duke you thought you would marry' at 28600-31100. The question 'You don't remember?' (E33) is never answered in the clip, so the memory question stays open. However, no new event or reveal is set up for what follows, so the ending reads more as a closed dramatic beat than an unresolved cliffhanger.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Who Alexander, Catherine, and Rupert are and their relationships",
+      "Why Catherine believed Alexander had died and what happened over the three years",
+      "Why Alexander does not remember Catherine or the events she refers to",
+      "Why Rupert is held under guard",
+      "The meaning of 'Duchess' and Alexander's ducal status",
+      "The significance of the congregation and the aisle setting"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Catherine's visible grief, tears, and pleading touch contrast sharply with Alexander's detached, rejecting demeanor. The escalating lines 'I mourned you', 'I waited for you', and 'But I loved you!' create strong emotional tension."
+  },
+  "weaknesses": [
+    "Heavy reliance on unexplained backstory makes the emotional stakes hard to grasp for a first-time viewer",
+    "The memory-loss question is raised but not clarified, leaving the central conflict opaque",
+    "Rupert's role and the guard are shown without any explanation",
+    "The ending is a verbal standoff with no visible consequence or forward momentum",
+    "Clip does not establish what Alexander's rejection means for the characters"
+  ],
+  "one_line_why_it_works": "The raw contrast between Catherine's pleading grief and Alexander's cold rejection creates immediate emotional tension, even without knowing the backstory."
+}

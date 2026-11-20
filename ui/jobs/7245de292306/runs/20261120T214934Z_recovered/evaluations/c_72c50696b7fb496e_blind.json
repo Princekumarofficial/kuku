@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_72c50696b7fb496e",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP47:E27",
+      "EP47:E41"
+    ],
+    "reason": "The clip opens within 0-3000ms with a sharp accusatory line from Lady Ashbourne, and the final 3000ms ends on Juliana's abrupt 'Stop.' that interrupts an imminent expulsion. The opening confrontation grabs attention quickly, though the stakes are only partly clear to a new viewer."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP47:E35",
+      "EP47:E37",
+      "EP47:E40",
+      "EP47:E41"
+    ],
+    "reason": "The clip ends mid-action: Vaughn is poised to drag Catherine out, Alexander has ordered her thrown past the perimeter, and Juliana has just halted the guard. Catherine's fate is not resolved by the final frame, so the tension is left open.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Why Catherine is accused of aiding the poison in Lady Ashbourne's veins is not explained",
+      "Catherine's relationship to Lady Ashbourne, Alexander, and Juliana is not established",
+      "What Ashbourne courtyard and the estate perimeter signify is unclear",
+      "Juliana's authority to halt the guard is not explained",
+      "Why London closed its doors and why Catherine's family disowned her is unexplained"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Catherine's weeping, her kneeling in the mud, her chest-clutching agony, and her plea for mercy convey strong distress, and the sudden 'Stop.' gives a sharp moment of relief. The emotional impact depends on the viewer caring about a character whose history is not shown."
+  },
+  "weaknesses": [
+    "The poisoning accusation is introduced without any supporting evidence, so the central conflict is hard to follow",
+    "Relationships between the four main figures are not established within the clip",
+    "Juliana's identity and motive for intervening are unexplained, weakening the final beat",
+    "The clip relies on dialogue about events outside its frame, which a first-time viewer cannot verify"
+  ],
+  "one_line_why_it_works": "A rapid escalation from accusation to threatened expulsion ends on a sudden interruption, leaving Catherine's fate open and making the viewer want to know what happens next."
+}

@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_55f2d9316ba29ac6",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP07:E7",
+      "EP07:E8",
+      "EP07:E33"
+    ],
+    "reason": "Opens inside the first 3000ms with a cruel smirk (E7) and Juliana rising defiantly (E8), so the opening shows immediate tension. The final-3000ms line 'And your husband?' (E33) adds a pointed closing hook, though the opening relies on unexplained social conflict."
+  },
+  "cliffhanger": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP07:E32",
+      "EP07:E33"
+    ],
+    "reason": "The clip ends on Gerald's threat to make a beggar disappear followed by 'And your husband?' (E33), which leaves the danger to the husband unresolved at the cutoff.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Juliana is and why she is being judged for her marriage and status",
+      "Why she now lives in a stone cottage and what 'threw away everything' refers to",
+      "Who the Aristocratic Woman and Gerald are to Juliana and what their authority is",
+      "Who the husband is and why his mention is threatening",
+      "The meaning of 'penniless soldier' and 'scarred beggar' without prior events"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Juliana's defiance, Gerald's sneering contempt, and the escalating threat create strong tension and a clear emotional arc of pride versus humiliation."
+  },
+  "weaknesses": [
+    "Heavy reliance on unexplained backstory makes the scene hard to follow for a first-time viewer",
+    "Much of the dialogue is exposition-driven insults rather than clear stakes",
+    "The threat is vague: the influence Gerald claims is never specified",
+    "The final question's target and consequence are unclear without prior context",
+    "The clip is largely a confrontation without a clear new development beyond the closing line"
+  ],
+  "one_line_why_it_works": "A proud heroine faces escalating humiliation and a sharp closing threat, with a final question that leaves the danger hanging."
+}

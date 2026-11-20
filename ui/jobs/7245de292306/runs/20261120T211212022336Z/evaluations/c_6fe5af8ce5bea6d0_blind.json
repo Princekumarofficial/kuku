@@ -1,0 +1,45 @@
+{
+  "candidate_id": "c_6fe5af8ce5bea6d0",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP09:E3",
+      "EP09:E6",
+      "EP09:E7",
+      "EP09:E17",
+      "EP09:E18"
+    ],
+    "reason": "Opens immediately with frantic pounding and an alarmed reaction, and Alexander's terse line adds tension. The hook is strong but the stakes are not clear until the mother speaks about her burning child, so the early intrigue is partly delayed."
+  },
+  "cliffhanger": {
+    "score_0_10": 3.0,
+    "evidence_refs": [
+      "EP09:E15",
+      "EP09:E17",
+      "EP09:E18"
+    ],
+    "reason": "The clip ends on the mother's answer about the child's illness, which is emotionally open but not a suspenseful break. The child is described as resting steadily and no treatment or outcome is shown, so the situation is unresolved but the scene reads as a pause rather than a cliffhanger.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Who Juliana is and why she is expected to know herbs",
+      "Who Alexander is and his relationship to Juliana",
+      "Where the cottage is and why the mother was directed there",
+      "Who 'they' are in the mother's statement that she was told about the woman",
+      "Whether the boy's fever has any established cause or history"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The mother's desperation, tears, and the feverish child create clear distress and sympathy, and the rain and urgent movements heighten the mood."
+  },
+  "weaknesses": [
+    "The viewer never learns who Juliana and Alexander are, which weakens investment in their response",
+    "Juliana's treatment is not shown, so the scene leaves the child's fate unresolved without a strong dramatic question",
+    "The mother's line about the boy burning with fever conflicts somewhat with Juliana's remark that he is resting steadily, creating ambiguity about severity",
+    "Several camera shots are repetitive in framing, slowing the pace in the final section"
+  ],
+  "one_line_why_it_works": "A sudden knock and a desperate mother bring urgent emotional stakes to a quiet cottage, and the clip ends on a child's worrying illness that the viewer wants resolved."
+}

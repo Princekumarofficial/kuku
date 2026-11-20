@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_749a76a17c48fb25 DURATION_MS=38100\nSEGMENT 1 (playback order)\nEP25:E10 0-100 CAMERA: Two-shot profile of Alexander grabbing Juliana's shoulder as she recoils.\nEP25:E12 100-2700 CAMERA: Close-up of Juliana gritting her teeth against the pain, shaking her head.\nEP25:E13 700-2400 JULIANA: \"It is nothing.\"\nEP25:E14 2700-6400 ACTION: Alexander's gloved fingers pull back the torn fabric of her cloak and sleeve, revealing a raw, bloody welt slashing across her bare shoulder.\nEP25:E15 2700-6700 CAMERA: Tight close-up of the fresh riding-crop laceration cut across Juliana's shoulder.\nEP25:E16 6700-9700 CAMERA: Close-up of Alexander's scarred face darkening with volatile fury, his jaw tightening.\nEP25:E17 7900-9400 ALEXANDER: \"Who did this?\"\nEP25:E18 9700-13700 CAMERA: Medium close-up of Juliana averting her eyes, her head bowed in quiet resignation.\nEP25:E19 11400-13200 JULIANA: \"It does not matter.\"\nEP25:E20 13700-16700 CAMERA: Tight shot of Alexander, his eyes burning with intense anger.\nEP25:E22 16700-17700 ALEXANDER: \"Who?\"\nEP25:E21 16700-18400 ACTION: Alexander steps directly into her space, firmly taking her hand in his.\nEP25:E23 18400-22400 CAMERA: Close-up of Juliana looking up into his eyes, whispering the truth.\nEP25:E24 19900-21700 JULIANA: \"Lady Catherine.\"\nEP25:E25 22400-25100 CAMERA: Close-up of Alexander, his gaze piercing and hard.\nEP25:E26 23100-24900 ALEXANDER: \"Where did you meet her?\"\nEP25:E28 25100-28100 JULIANA: \"I was in the wrong chamber. I was punished as a maid.\"\nEP25:E27 25100-28300 CAMERA: Close-up of Juliana recounting the incident.\nEP25:E29 28300-30700 CAMERA: Close-up of Alexander, pressing her without hesitation.\nEP25:E30 28500-30300 ALEXANDER: \"What were you doing there?\"\nEP25:E31 30700-35400 CAMERA: Medium two-shot of Alexander leaning down toward her against the dim forest backdrop.\nEP25:E32 30900-35100 ALEXANDER: \"Juliana... why were you inside Ashburg Manor?\"\nEP25:E33 35400-38100 CAMERA: Close-up of Juliana holding his gaze resolutely.\nEP25:E34 36100-38100 JULIANA: \"I went there to help someone.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

@@ -1,0 +1,95 @@
+{
+  "schema_version": "1.0",
+  "series_id": "series_001",
+  "scope": {
+    "type": "episode",
+    "episode_id": "ep_004"
+  },
+  "promos": [
+    {
+      "candidate_id": "c_bc3a2314b0788f51",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 109800,
+          "end_ms": 131500,
+          "episode_id": "ep_004"
+        }
+      ],
+      "duration_ms": 21700,
+      "hook": {
+        "description": "Opens within 0-3000ms with an extreme close-up of an intense gaze and a wedding blessing that is interrupted by the priest's pronouncement, which creates immediate tension. The stakes of the moment are not explained, so the hook depends on the viewer reading the mood alone.",
+        "evidence_refs": [
+          "EP04:E79",
+          "EP04:E81",
+          "EP04:E82"
+        ]
+      },
+      "cliffhanger": {
+        "description": "The final 3000ms show Lady Ashcroft rising and ordering that the man not be brought near Ashcroft Manor, with no resolution of Gerald's rage or of the confrontation. The conflict is left open at the cut, so it is not merely an intense but resolved ending.",
+        "evidence_refs": [
+          "EP04:E96",
+          "EP04:E97"
+        ]
+      },
+      "why_it_works": "A wedding is interrupted by escalating rage and defiance, and the clip ends on a new accusation that leaves the conflict open for a first-time viewer.",
+      "scores": {
+        "hook": 7.0,
+        "cliffhanger": 7.0,
+        "standalone": 5.0,
+        "emotion": 8.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 6.65
+      },
+      "warnings": [
+        "Relationships and motives are not established, so a first-time viewer cannot tell who is right or what is at stake",
+        "Gerald's insults refer to unexplained backstory",
+        "Lady Ashcroft's sudden intervention arrives without any lead-in about her role",
+        "The clip ends mid-conflict, which may feel abrupt to viewers who expect a complete beat",
+        "The sound cue at 4200-5400ms is the only audio emphasis and offers limited help in conveying the emotional shift",
+        "Spoilers not checked",
+        "Who Gerald is and his relationship to Juliana",
+        "Why Gerald calls Juliana's choice throwing herself away and a penniless nobody",
+        "What Juliana means by begging for yours",
+        "Who the husband standing guard behind Juliana is and why he matters",
+        "Who Lady Ashcroft is and what Ashcroft Manor represents",
+        "Why the marriage is opposed and what the stakes are",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 1,
+      "promo_id": "p_001"
+    }
+  ],
+  "construction": {
+    "opportunities": 3,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "PARTIAL_DIALOGUE": 499,
+      "REQUIRED_CONTEXT_OUTSIDE_CLIP": 2,
+      "DURATION_OUT_OF_RANGE": 2349
+    }
+  },
+  "rejected_candidates": [
+    {
+      "candidate_id": "c_08cefcd5985ef1d5",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_93ec58705d004b19",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_6fef83f5f89d45fe",
+      "reasons": [
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    }
+  ]
+}

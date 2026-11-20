@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_39085fc4fef39a0a",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP20:E7",
+      "EP20:E9"
+    ],
+    "reason": "The clip opens within 0-2500ms with Rupert's triumphant gesture and his claim that succession papers are being finalized, which signals a power struggle. Without context, the stakes are only partly clear, so the hook is moderate rather than strong."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP20:E25",
+      "EP20:E24"
+    ],
+    "reason": "The final line, 'How much longer can the frail thing survive?', falls within the last 3000ms and leaves the fate of the frail figure unresolved, implying a pending harm. The outcome is not shown, but the suspense depends on the viewer inferring that the 'frail thing' is the Dowager, which the clip never states outright.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Identity and relationship of Alexander, Rupert's cousin, and why his death matters",
+      "Who the Dowager is and her relation to the household",
+      "Meaning of the Ashbury title and why Catherine wants to marry the Lord",
+      "What 'practically' refers to in Catherine's objection",
+      "The implied poisoning or wasting plot, which is never explicitly confirmed in the clip",
+      "Who 'the frail thing' refers to in the final line"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The clip builds a cold, menacing tone through Rupert's sinister grin and Catherine's chilling detachment while discussing a dying woman. The delivery conveys calculated cruelty, which produces unease."
+  },
+  "weaknesses": [
+    "The clip relies on unstated context about the Dowager and the succession, so a first-time viewer may be confused about who is being targeted.",
+    "The clip never explicitly shows harm, so the implied poisoning depends on dialogue inference.",
+    "The opening line about succession papers is intriguing but gives limited sense of the stakes.",
+    "The line 'How tragic' is sarcastic in tone but this relies on delivery that cannot be verified from the transcript."
+  ],
+  "one_line_why_it_works": "A cold, scheming exchange ends on Catherine's chilling question about how much longer the frail Dowager can survive, leaving a menacing implication unresolved."
+}

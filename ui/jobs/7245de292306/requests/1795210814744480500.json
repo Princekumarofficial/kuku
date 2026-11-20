@@ -1,0 +1,205 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_51ecd2454634c1b8 DURATION_MS=24700\nSEGMENT 1 (playback order)\nEP05:E3 0-1800 CAMERA: Wide shot tracking Juliana and the Mysterious Bearded Man descending the grand stone steps of the cathedral courtyard. Behind them, Lord Ashcroft emerges from the vaulted doorway leaning on his cane.\nEP05:E4 0-1600 LORD ASHCROFT: \"Miss Ashcroft.\"\nEP05:E5 1300-2400 ACTION: Juliana and the Mysterious Bearded Man pause on the stone steps, turning slightly back toward Lord Ashcroft.\nEP05:E6 2400-6300 CAMERA: Close-up of Lord Ashcroft, his weathered face rigid with aristocratic pride and disgust.\nEP05:E7 2600-6200 LORD ASHCROFT: \"You will not leave this church carrying the Ashcroft name.\"\nEP05:E8 6300-11600 CAMERA: Medium close-up of Juliana looking up at her father. Her hand rises to touch the amethyst heirloom pendant resting at her throat.\nEP05:E9 7500-11300 JULIANA: \"The vows are spoken, Father. I am his wife now.\"\nEP05:E10 11600-16600 CAMERA: Medium shot of Lord Ashcroft standing rigid outside the chapel archway, unforgiving and unyielding.\nEP05:E11 11800-13800 LORD ASHCROFT: \"Then leave as his wife.\"\nEP05:E12 14300-16600 LORD ASHCROFT: \"You leave as no daughter of mine.\"\nEP05:E13 16600-20800 CAMERA: Low-angle shot tracking Lord Ashcroft's polished black boots as he slowly descends the stone steps toward them.\nEP05:E14 16800-18800 LORD ASHCROFT: \"Your dowry is revoked.\"\nEP05:E15 18900-20900 LORD ASHCROFT: \"Your inheritance is revoked.\"\nEP05:E16 20800-24700 CAMERA: Close-up of Juliana, her eyes wide with shock and heartbreak as she holds the ledger close against her chest.\nEP05:E17 21200-24700 LORD ASHCROFT: \"From this moment, you are dead to the Ashcroft family.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "complete",
+  "output": {
+    "candidate_id": "c_51ecd2454634c1b8",
+    "hook": {
+      "score_0_10": 7.0,
+      "evidence_refs": [
+        "EP05:E4",
+        "EP05:E5",
+        "EP05:E17"
+      ],
+      "reason": "The opening within 0-3000ms has a direct address, Lord Ashcroft saying Miss Ashcroft, plus a pause on the steps that signals confrontation. The final 3000ms carries the sharpest declaration, dead to the Ashcroft family, so the clip opens and closes on conflict."
+    },
+    "cliffhanger": {
+      "score_0_10": 5.0,
+      "evidence_refs": [
+        "EP05:E16",
+        "EP05:E17"
+      ],
+      "reason": "Juliana is left in shock holding the ledger after the father's final pronouncement, so her next move is open. The disownment itself is stated as final, which limits how much is left hanging, so the score stays moderate.",
+      "unresolved_at_end": true
+    },
+    "standalone": {
+      "score_0_10": 4.0,
+      "missing_context": [
+        "Identity and role of the Mysterious Bearded Man is never established",
+        "Why the marriage is opposed and what the vows mean for the family",
+        "Significance of the amethyst heirloom pendant",
+        "Why the ledger matters and what it contains",
+        "What the dowry and inheritance represent",
+        "Whether the church setting or the wedding is the first event of this story"
+      ]
+    },
+    "emotion": {
+      "score_0_10": 8.0,
+      "reason": "The father's rigid disgust, Juliana's touching of the pendant, and her wide-eyed heartbreak as she holds the ledger create strong emotional pressure. The repeated revocations and the disownment build a painful escalation."
+    },
+    "weaknesses": [
+      "The Mysterious Bearded Man is labeled mysterious but never speaks or reacts beyond pausing, so he carries no visible stakes",
+      "The ledger appears only at the end with no setup, so its weight is unclear to a new viewer",
+      "The pendant is touched but its importance is never shown",
+      "Stakes of the marriage are asserted rather than shown, so the conflict relies on tone alone",
+      "The ending delivers a final verdict, which reduces the sense of an open question about what happens next"
+    ],
+    "one_line_why_it_works": "A father's public disownment of his daughter delivers a clear emotional rupture with a strong opening confrontation and a painful closing reaction, even though the context behind the conflict is missing."
+  }
+}

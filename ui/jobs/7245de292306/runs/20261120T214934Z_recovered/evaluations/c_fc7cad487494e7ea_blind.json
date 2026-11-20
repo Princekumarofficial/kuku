@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_fc7cad487494e7ea",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP47:E32",
+      "EP47:E49"
+    ],
+    "reason": "The clip opens within 0-300ms on Lady Ashbourne delivering a cold judgment, and the final line (E49, 20300-23800) ends inside the last 3000ms with a conditional offer of shelter. The opening confrontation and the guard's readiness to seize Catherine create immediate tension for a first-time viewer."
+  },
+  "cliffhanger": {
+    "score_0_10": 5.0,
+    "evidence_refs": [
+      "EP47:E48",
+      "EP47:E49"
+    ],
+    "reason": "The immediate threat is halted by Juliana at E41 and resolved by E45-E47. The ending, with Juliana taking up an apron and keys and saying 'If you seek shelter in this house, Catherine, you earn it,' leaves Catherine's acceptance and the nature of the task unresolved, but this is a mild open question rather than a strong cliffhanger.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Lady Ashbourne is and what authority she holds",
+      "What Catherine did to Juliana, the offense referenced by 'she tried to destroy you'",
+      "Why Catherine is on the wet stones and why she is being expelled from the estate",
+      "The relationship between Juliana, Alexander, and the Ashbourne household",
+      "What the 'Your Grace' title refers to and who holds it",
+      "What the apron and keys signify in the household"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Catherine's tear-streaked panic, Alexander's disbelief, and Vaughn's readiness to drag her out build visible tension. Juliana's composed reversal offers a sharp emotional turn, though the viewer's emotional investment is limited without knowing the backstory."
+  },
+  "weaknesses": [
+    "Key referents such as the offense against Juliana and the authority of Lady Ashbourne are never established within the clip",
+    "The clip relies on a camera description for Lady Ashbourne's judgment, with no dialogue from her to show its content",
+    "Juliana's shift from halting the guard to offering conditional shelter is abrupt for a first-time viewer",
+    "The stakes of 'earn it' are vague because the task is only implied by the apron and keys"
+  ],
+  "one_line_why_it_works": "A tense standoff ends in a surprising reversal, with Juliana halting the guard and setting a conditional path for Catherine that leaves the outcome open."
+}

@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c_6ab2f746a4640b80",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP29:E5",
+      "EP29:E6",
+      "EP29:E7"
+    ],
+    "reason": "Opens within 0-3000ms with a regal stone-doorway shot of Catherine holding a leather-bound book, and immediately cuts to Juliana's tearful plea that the book is her mother's only legacy, creating instant conflict."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP29:E21",
+      "EP29:E22"
+    ],
+    "reason": "In the final 3000ms Catherine keeps the book, glints with malicious intent, and warns that the magistrate will call it witchcraft. Juliana's fate and the accusation remain open, so the clip does not resolve its threat.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Identities and relationship between Catherine and Juliana",
+      "Why Juliana is being dragged away and what the dungeon steps represent",
+      "Who the magistrate is and what witchcraft accusation implies",
+      "Whose hand wrote the herbarium and why it matters beyond the dialogue"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Juliana's grief and defiance contrast sharply with Catherine's condescension and malice, producing clear tension and sympathy for Juliana."
+  },
+  "weaknesses": [
+    "Stakes and characters are not established, so a first-time viewer cannot tell why the book matters beyond Juliana's claim",
+    "Catherine's condescension is conveyed mostly through dialogue, with little visual setup",
+    "The witchcraft threat is introduced without context for what it means for Juliana",
+    "Timing of E19 and E20 overlaps the same span, making the sequence of the flipping action less clear"
+  ],
+  "one_line_why_it_works": "A grieving daughter's plea against a smug captor, ending on a menacing witchcraft threat, gives a strong emotional hook and an open ending."
+}

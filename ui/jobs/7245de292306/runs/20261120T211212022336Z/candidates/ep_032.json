@@ -1,0 +1,962 @@
+[
+  {
+    "candidate_id": "c_b5af9aaea1a03cc6",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 13200,
+        "end_ms": 45400,
+        "episode_id": "ep_032"
+      }
+    ],
+    "duration_ms": 32200,
+    "origin": "ep032_opp01",
+    "clip_events": [
+      {
+        "ref": "EP32:E9",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot showing Juliana chained against the cold dungeon wall, small and restrained beneath Catherine's towering shadow."
+      },
+      {
+        "ref": "EP32:E10",
+        "segment_index": 0,
+        "relative_start_ms": 200,
+        "relative_end_ms": 2600,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"...but now you are afraid.\""
+      },
+      {
+        "ref": "EP32:E11",
+        "segment_index": 0,
+        "relative_start_ms": 300,
+        "relative_end_ms": 2800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Catherine straightening up haughtily."
+      },
+      {
+        "ref": "EP32:E12",
+        "segment_index": 0,
+        "relative_start_ms": 2800,
+        "relative_end_ms": 3800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of Juliana, her lips trembling in agonizing sorrow."
+      },
+      {
+        "ref": "EP32:E13",
+        "segment_index": 0,
+        "relative_start_ms": 3000,
+        "relative_end_ms": 5600,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Say goodbye to your mother.\""
+      },
+      {
+        "ref": "EP32:E14",
+        "segment_index": 0,
+        "relative_start_ms": 3800,
+        "relative_end_ms": 5800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle shot of Catherine swinging the flaming orange iron upward from the book."
+      },
+      {
+        "ref": "EP32:E15",
+        "segment_index": 0,
+        "relative_start_ms": 5600,
+        "relative_end_ms": 7300,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana's despair suddenly solidifies. Her jaw tightens, tears stopping as resolve takes over."
+      },
+      {
+        "ref": "EP32:E16",
+        "segment_index": 0,
+        "relative_start_ms": 5800,
+        "relative_end_ms": 7300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana looking up directly at Catherine, fear replaced by cold conviction."
+      },
+      {
+        "ref": "EP32:E17",
+        "segment_index": 0,
+        "relative_start_ms": 7000,
+        "relative_end_ms": 8800,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Burn it.\""
+      },
+      {
+        "ref": "EP32:E18",
+        "segment_index": 0,
+        "relative_start_ms": 7300,
+        "relative_end_ms": 9800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana, sitting upright despite her heavy iron shackles."
+      },
+      {
+        "ref": "EP32:E19",
+        "segment_index": 0,
+        "relative_start_ms": 9800,
+        "relative_end_ms": 12300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Catherine, her smug expression abruptly flickering with startled confusion."
+      },
+      {
+        "ref": "EP32:E20",
+        "segment_index": 0,
+        "relative_start_ms": 10600,
+        "relative_end_ms": 11600,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"What?\""
+      },
+      {
+        "ref": "EP32:E21",
+        "segment_index": 0,
+        "relative_start_ms": 12300,
+        "relative_end_ms": 15300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle close-up of Juliana staring straight up into Catherine's eyes without flinching."
+      },
+      {
+        "ref": "EP32:E22",
+        "segment_index": 0,
+        "relative_start_ms": 12600,
+        "relative_end_ms": 15600,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Burn the ledger. Burn every page.\""
+      },
+      {
+        "ref": "EP32:E23",
+        "segment_index": 0,
+        "relative_start_ms": 15300,
+        "relative_end_ms": 17600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot of the wet dungeon floor, guards stationed by the heavy iron doorway in the background as Catherine holds the hot brand."
+      },
+      {
+        "ref": "EP32:E24",
+        "segment_index": 0,
+        "relative_start_ms": 16600,
+        "relative_end_ms": 19600,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You may destroy the book...\""
+      },
+      {
+        "ref": "EP32:E25",
+        "segment_index": 0,
+        "relative_start_ms": 17600,
+        "relative_end_ms": 20300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Catherine's face darkening with irritation."
+      },
+      {
+        "ref": "EP32:E27",
+        "segment_index": 0,
+        "relative_start_ms": 20000,
+        "relative_end_ms": 23000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"...you cannot destroy what my mother taught me.\""
+      },
+      {
+        "ref": "EP32:E26",
+        "segment_index": 0,
+        "relative_start_ms": 20300,
+        "relative_end_ms": 23300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium low-angle shot of Juliana sitting amidst chains beneath the barred ceiling grate."
+      },
+      {
+        "ref": "EP32:E28",
+        "segment_index": 0,
+        "relative_start_ms": 23200,
+        "relative_end_ms": 25600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Catherine leaning down aggressively into Juliana's space, trembling with offended rage."
+      },
+      {
+        "ref": "EP32:E29",
+        "segment_index": 0,
+        "relative_start_ms": 23200,
+        "relative_end_ms": 25900,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"You think a few herbs make you better than me?\""
+      },
+      {
+        "ref": "EP32:E30",
+        "segment_index": 0,
+        "relative_start_ms": 25600,
+        "relative_end_ms": 27800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana looking steadily up into Catherine's furious glare."
+      },
+      {
+        "ref": "EP32:E31",
+        "segment_index": 0,
+        "relative_start_ms": 26000,
+        "relative_end_ms": 29600,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"No. Your cruelty does that for me.\""
+      },
+      {
+        "ref": "EP32:E32",
+        "segment_index": 0,
+        "relative_start_ms": 27800,
+        "relative_end_ms": 30300,
+        "type": "camera",
+        "speaker": null,
+        "text": "High-angle over-the-shoulder shot looking down at Juliana bound in heavy chains on the damp floor."
+      },
+      {
+        "ref": "EP32:E34",
+        "segment_index": 0,
+        "relative_start_ms": 30200,
+        "relative_end_ms": 32200,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"You still think you are better?!\""
+      },
+      {
+        "ref": "EP32:E33",
+        "segment_index": 0,
+        "relative_start_ms": 30300,
+        "relative_end_ms": 32200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of Catherine, baring her teeth in outrage."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_e81bed24a80a87bc",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 71200,
+        "end_ms": 112800,
+        "episode_id": "ep_032"
+      }
+    ],
+    "duration_ms": 41600,
+    "origin": "ep032_opp02",
+    "clip_events": [
+      {
+        "ref": "EP32:E54",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of Catherine's face contorting in sheer fury."
+      },
+      {
+        "ref": "EP32:E55",
+        "segment_index": 0,
+        "relative_start_ms": 100,
+        "relative_end_ms": 2000,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"You were rejected!\""
+      },
+      {
+        "ref": "EP32:E56",
+        "segment_index": 0,
+        "relative_start_ms": 2100,
+        "relative_end_ms": 4300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana's calm, resolute face."
+      },
+      {
+        "ref": "EP32:E57",
+        "segment_index": 0,
+        "relative_start_ms": 2200,
+        "relative_end_ms": 6400,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I was freed. And I found a man who never asked me what I was worth.\""
+      },
+      {
+        "ref": "EP32:E58",
+        "segment_index": 0,
+        "relative_start_ms": 4300,
+        "relative_end_ms": 6300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot of the cell, steam rising faintly in the cold subterranean air."
+      },
+      {
+        "ref": "EP32:E59",
+        "segment_index": 0,
+        "relative_start_ms": 6300,
+        "relative_end_ms": 8800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Catherine sneering with dripping condescension."
+      },
+      {
+        "ref": "EP32:E60",
+        "segment_index": 0,
+        "relative_start_ms": 6600,
+        "relative_end_ms": 8200,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Your soldier?\""
+      },
+      {
+        "ref": "EP32:E61",
+        "segment_index": 0,
+        "relative_start_ms": 8800,
+        "relative_end_ms": 11300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana, her eyes glowing with genuine devotion."
+      },
+      {
+        "ref": "EP32:E62",
+        "segment_index": 0,
+        "relative_start_ms": 9000,
+        "relative_end_ms": 10800,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"My husband.\""
+      },
+      {
+        "ref": "EP32:E64",
+        "segment_index": 0,
+        "relative_start_ms": 11300,
+        "relative_end_ms": 12800,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"He is a nobody.\""
+      },
+      {
+        "ref": "EP32:E63",
+        "segment_index": 0,
+        "relative_start_ms": 11300,
+        "relative_end_ms": 12900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Catherine scowling with deep disgust."
+      },
+      {
+        "ref": "EP32:E65",
+        "segment_index": 0,
+        "relative_start_ms": 12900,
+        "relative_end_ms": 15300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana smiling softly, totally untroubled."
+      },
+      {
+        "ref": "EP32:E66",
+        "segment_index": 0,
+        "relative_start_ms": 13000,
+        "relative_end_ms": 15000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Then I love a nobody.\""
+      },
+      {
+        "ref": "EP32:E67",
+        "segment_index": 0,
+        "relative_start_ms": 15300,
+        "relative_end_ms": 18600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle shot focusing on Juliana's bare, chained feet locked in iron on the stone floor."
+      },
+      {
+        "ref": "EP32:E68",
+        "segment_index": 0,
+        "relative_start_ms": 15300,
+        "relative_end_ms": 19000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Because that nobody showed me more love than your entire world ever did.\""
+      },
+      {
+        "ref": "EP32:E69",
+        "segment_index": 0,
+        "relative_start_ms": 18600,
+        "relative_end_ms": 21600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Catherine gripping the branding rod tighter, her upper lip curling in fury."
+      },
+      {
+        "ref": "EP32:E70",
+        "segment_index": 0,
+        "relative_start_ms": 18900,
+        "relative_end_ms": 21400,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"You know nothing about my world.\""
+      },
+      {
+        "ref": "EP32:E71",
+        "segment_index": 0,
+        "relative_start_ms": 21600,
+        "relative_end_ms": 25800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana sitting in her tattered apron and chains, looking composed."
+      },
+      {
+        "ref": "EP32:E72",
+        "segment_index": 0,
+        "relative_start_ms": 22000,
+        "relative_end_ms": 25400,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I know exactly what your world values.\""
+      },
+      {
+        "ref": "EP32:E73",
+        "segment_index": 0,
+        "relative_start_ms": 25800,
+        "relative_end_ms": 28600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of Juliana's lips and eyes as she lists them with chilling precision."
+      },
+      {
+        "ref": "EP32:E74",
+        "segment_index": 0,
+        "relative_start_ms": 26400,
+        "relative_end_ms": 28400,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Beauty. Money.\""
+      },
+      {
+        "ref": "EP32:E75",
+        "segment_index": 0,
+        "relative_start_ms": 28600,
+        "relative_end_ms": 29800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of Catherine's wide, stunned eyes reacting to the naked truth."
+      },
+      {
+        "ref": "EP32:E76",
+        "segment_index": 0,
+        "relative_start_ms": 29800,
+        "relative_end_ms": 32500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana looking up unflinchingly."
+      },
+      {
+        "ref": "EP32:E77",
+        "segment_index": 0,
+        "relative_start_ms": 30000,
+        "relative_end_ms": 32300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Family. A perfect name.\""
+      },
+      {
+        "ref": "EP32:E78",
+        "segment_index": 0,
+        "relative_start_ms": 32500,
+        "relative_end_ms": 35800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle shot of Catherine standing rigid in her gold and purple gown, the guard standing sentinel behind her."
+      },
+      {
+        "ref": "EP32:E79",
+        "segment_index": 0,
+        "relative_start_ms": 32600,
+        "relative_end_ms": 36000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"And a woman who never embarrasses the people standing behind her.\""
+      },
+      {
+        "ref": "EP32:E80",
+        "segment_index": 0,
+        "relative_start_ms": 35800,
+        "relative_end_ms": 37600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Catherine throwing her hands up in explosive defensiveness."
+      },
+      {
+        "ref": "EP32:E81",
+        "segment_index": 0,
+        "relative_start_ms": 36000,
+        "relative_end_ms": 37600,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"And what is wrong with that?!\""
+      },
+      {
+        "ref": "EP32:E82",
+        "segment_index": 0,
+        "relative_start_ms": 37600,
+        "relative_end_ms": 38200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Catherine's face twisting in absolute venom."
+      },
+      {
+        "ref": "EP32:E83",
+        "segment_index": 0,
+        "relative_start_ms": 38200,
+        "relative_end_ms": 41300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana looking serene."
+      },
+      {
+        "ref": "EP32:E84",
+        "segment_index": 0,
+        "relative_start_ms": 38300,
+        "relative_end_ms": 41600,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Nothing. Until you have nothing left beneath it.\""
+      },
+      {
+        "ref": "EP32:E85",
+        "segment_index": 0,
+        "relative_start_ms": 41300,
+        "relative_end_ms": 41600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Catherine standing motionless, holding the iron rod, struck to the core by the insult."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_d566d29d2d4dcfb4",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 122800,
+        "end_ms": 154380,
+        "episode_id": "ep_032"
+      }
+    ],
+    "duration_ms": 31580,
+    "origin": "ep032_opp03",
+    "clip_events": [
+      {
+        "ref": "EP32:E92",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Catherine's crazed, gasping face."
+      },
+      {
+        "ref": "EP32:E94",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana crying out her defiance."
+      },
+      {
+        "ref": "EP32:E95",
+        "segment_index": 0,
+        "relative_start_ms": 200,
+        "relative_end_ms": 2400,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Because I am right!\""
+      },
+      {
+        "ref": "EP32:E96",
+        "segment_index": 0,
+        "relative_start_ms": 2200,
+        "relative_end_ms": 5700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle tracking shot of the red-hot branding tip trailing across the wet dungeon floor, steaming."
+      },
+      {
+        "ref": "EP32:E97",
+        "segment_index": 0,
+        "relative_start_ms": 2600,
+        "relative_end_ms": 6000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You want everyone to believe you are powerful.\""
+      },
+      {
+        "ref": "EP32:E98",
+        "segment_index": 0,
+        "relative_start_ms": 5700,
+        "relative_end_ms": 9000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana sitting under the cold skylight bars, her posture majestic despite her imprisonment."
+      },
+      {
+        "ref": "EP32:E99",
+        "segment_index": 0,
+        "relative_start_ms": 6200,
+        "relative_end_ms": 8800,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You want everyone to fear you.\""
+      },
+      {
+        "ref": "EP32:E100",
+        "segment_index": 0,
+        "relative_start_ms": 9000,
+        "relative_end_ms": 12000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana looking directly at Catherine, gestures restrained by the heavy iron chains."
+      },
+      {
+        "ref": "EP32:E101",
+        "segment_index": 0,
+        "relative_start_ms": 9200,
+        "relative_end_ms": 11200,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"But look at you.\""
+      },
+      {
+        "ref": "EP32:E102",
+        "segment_index": 0,
+        "relative_start_ms": 12000,
+        "relative_end_ms": 15700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana, her eyes burning with fiery contempt."
+      },
+      {
+        "ref": "EP32:E103",
+        "segment_index": 0,
+        "relative_start_ms": 12200,
+        "relative_end_ms": 15800,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You have to threaten a chained woman to feel powerful!\""
+      },
+      {
+        "ref": "EP32:E104",
+        "segment_index": 0,
+        "relative_start_ms": 15700,
+        "relative_end_ms": 17600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Catherine trembling with uncontrollable rage, teeth bared."
+      },
+      {
+        "ref": "EP32:E105",
+        "segment_index": 0,
+        "relative_start_ms": 15800,
+        "relative_end_ms": 17400,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"You insolent—!\""
+      },
+      {
+        "ref": "EP32:E107",
+        "segment_index": 0,
+        "relative_start_ms": 17600,
+        "relative_end_ms": 19500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You may have the title you have always wanted...\""
+      },
+      {
+        "ref": "EP32:E106",
+        "segment_index": 0,
+        "relative_start_ms": 17600,
+        "relative_end_ms": 19600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Catherine gripping the glowing tongs as Juliana continues speaking over her."
+      },
+      {
+        "ref": "EP32:E108",
+        "segment_index": 0,
+        "relative_start_ms": 19600,
+        "relative_end_ms": 23700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana delivering the final emotional blow."
+      },
+      {
+        "ref": "EP32:E109",
+        "segment_index": 0,
+        "relative_start_ms": 19600,
+        "relative_end_ms": 23700,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"...but you will never have the courage to earn what you demand from everyone else.\""
+      },
+      {
+        "ref": "EP32:E110",
+        "segment_index": 0,
+        "relative_start_ms": 23700,
+        "relative_end_ms": 25200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Catherine's face twitching with sheer murderous madness."
+      },
+      {
+        "ref": "EP32:E111",
+        "segment_index": 0,
+        "relative_start_ms": 23800,
+        "relative_end_ms": 25300,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"You think you can lecture me?!\""
+      },
+      {
+        "ref": "EP32:E112",
+        "segment_index": 0,
+        "relative_start_ms": 25200,
+        "relative_end_ms": 28000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Catherine raising the branding iron high above her head with both hands."
+      },
+      {
+        "ref": "EP32:E113",
+        "segment_index": 0,
+        "relative_start_ms": 25200,
+        "relative_end_ms": 28000,
+        "type": "action",
+        "speaker": null,
+        "text": "Catherine hoists the searing branding rod over Juliana with frantic fury."
+      },
+      {
+        "ref": "EP32:E114",
+        "segment_index": 0,
+        "relative_start_ms": 25300,
+        "relative_end_ms": 28400,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Then let's see how brave you are when it touches your skin!\""
+      },
+      {
+        "ref": "EP32:E115",
+        "segment_index": 0,
+        "relative_start_ms": 28000,
+        "relative_end_ms": 29200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Catherine plunging the glowing orange poker straight toward Juliana's face."
+      },
+      {
+        "ref": "EP32:E116",
+        "segment_index": 0,
+        "relative_start_ms": 28400,
+        "relative_end_ms": 31580,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana gasps, freezing as the glowing tip of the iron thrusts forward, stopping mere millimeters from her right eye."
+      },
+      {
+        "ref": "EP32:E117",
+        "segment_index": 0,
+        "relative_start_ms": 29200,
+        "relative_end_ms": 31580,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of Juliana's wide, unblinking blue eye. The intense, fiery orange glow of the iron poker radiates inches from her cornea, holding on the heart-stopping cliffhanger as the frame cuts to black."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_a6cd278531d9e2c9",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 122800,
+        "end_ms": 146500,
+        "episode_id": "ep_032"
+      }
+    ],
+    "duration_ms": 23700,
+    "origin": "recovery_B11",
+    "clip_events": [
+      {
+        "ref": "EP32:E92",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Catherine's crazed, gasping face."
+      },
+      {
+        "ref": "EP32:E94",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana crying out her defiance."
+      },
+      {
+        "ref": "EP32:E95",
+        "segment_index": 0,
+        "relative_start_ms": 200,
+        "relative_end_ms": 2400,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Because I am right!\""
+      },
+      {
+        "ref": "EP32:E96",
+        "segment_index": 0,
+        "relative_start_ms": 2200,
+        "relative_end_ms": 5700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle tracking shot of the red-hot branding tip trailing across the wet dungeon floor, steaming."
+      },
+      {
+        "ref": "EP32:E97",
+        "segment_index": 0,
+        "relative_start_ms": 2600,
+        "relative_end_ms": 6000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You want everyone to believe you are powerful.\""
+      },
+      {
+        "ref": "EP32:E98",
+        "segment_index": 0,
+        "relative_start_ms": 5700,
+        "relative_end_ms": 9000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana sitting under the cold skylight bars, her posture majestic despite her imprisonment."
+      },
+      {
+        "ref": "EP32:E99",
+        "segment_index": 0,
+        "relative_start_ms": 6200,
+        "relative_end_ms": 8800,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You want everyone to fear you.\""
+      },
+      {
+        "ref": "EP32:E100",
+        "segment_index": 0,
+        "relative_start_ms": 9000,
+        "relative_end_ms": 12000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana looking directly at Catherine, gestures restrained by the heavy iron chains."
+      },
+      {
+        "ref": "EP32:E101",
+        "segment_index": 0,
+        "relative_start_ms": 9200,
+        "relative_end_ms": 11200,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"But look at you.\""
+      },
+      {
+        "ref": "EP32:E102",
+        "segment_index": 0,
+        "relative_start_ms": 12000,
+        "relative_end_ms": 15700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana, her eyes burning with fiery contempt."
+      },
+      {
+        "ref": "EP32:E103",
+        "segment_index": 0,
+        "relative_start_ms": 12200,
+        "relative_end_ms": 15800,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You have to threaten a chained woman to feel powerful!\""
+      },
+      {
+        "ref": "EP32:E104",
+        "segment_index": 0,
+        "relative_start_ms": 15700,
+        "relative_end_ms": 17600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Catherine trembling with uncontrollable rage, teeth bared."
+      },
+      {
+        "ref": "EP32:E105",
+        "segment_index": 0,
+        "relative_start_ms": 15800,
+        "relative_end_ms": 17400,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"You insolent—!\""
+      },
+      {
+        "ref": "EP32:E107",
+        "segment_index": 0,
+        "relative_start_ms": 17600,
+        "relative_end_ms": 19500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You may have the title you have always wanted...\""
+      },
+      {
+        "ref": "EP32:E106",
+        "segment_index": 0,
+        "relative_start_ms": 17600,
+        "relative_end_ms": 19600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Catherine gripping the glowing tongs as Juliana continues speaking over her."
+      },
+      {
+        "ref": "EP32:E108",
+        "segment_index": 0,
+        "relative_start_ms": 19600,
+        "relative_end_ms": 23700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana delivering the final emotional blow."
+      },
+      {
+        "ref": "EP32:E109",
+        "segment_index": 0,
+        "relative_start_ms": 19600,
+        "relative_end_ms": 23700,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"...but you will never have the courage to earn what you demand from everyone else.\""
+      }
+    ]
+  }
+]

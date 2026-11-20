@@ -1,0 +1,44 @@
+{
+  "candidate_id": "c_b5af9aaea1a03cc6",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP32:E9",
+      "EP32:E10",
+      "EP32:E14"
+    ],
+    "reason": "The clip opens within the first 3000ms with Juliana chained beneath a towering Catherine and a sharp line of threat, and the iron brand is raised by 5800ms, so tension arrives quickly."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP32:E33",
+      "EP32:E34",
+      "EP32:E31"
+    ],
+    "reason": "The clip ends in the middle of Catherine's outraged confrontation and does not show whether the ledger or book is burned or what Catherine does next, so the situation is left open rather than resolved.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Catherine and Juliana are and their relationship beyond the captive dynamic",
+      "What the book or ledger contains and why it matters",
+      "Why Juliana is chained and what crime or accusation led to this dungeon scene",
+      "What the 'herbs' and Juliana's mother's teaching refer to",
+      "What the flaming orange iron is meant to do to Juliana or the book"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Juliana's shift from tears to cold defiance and Catherine's escalating rage and fear create strong intensity, though the audience has little reason to feel deep investment without backstory."
+  },
+  "weaknesses": [
+    "Dialogue such as 'Burn it' and 'Burn the ledger' refers to stakes that a first-time viewer cannot identify",
+    "The opening line begins mid-thought with an ellipsis, so the viewer lacks the setup",
+    "The brand's target is ambiguous: the clip shows the book and the iron but not clearly what will be burned",
+    "The final beat is a reaction rather than a clear turn, so the ending may feel like a pause rather than a hook",
+    "Repeated exchanges of defiance and cruelty risk feeling circular without new information"
+  ],
+  "one_line_why_it_works": "A captive heroine's sudden shift from despair to defiance against a furious captor creates an immediate and emotionally charged standoff."
+}

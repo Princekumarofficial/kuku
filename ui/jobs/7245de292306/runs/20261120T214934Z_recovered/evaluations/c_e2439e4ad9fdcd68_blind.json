@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_e2439e4ad9fdcd68",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP50:E8",
+      "EP50:E11"
+    ],
+    "reason": "The clip opens on a charged close-up with Catherine leaning in, and within the first 3 seconds she asks 'Name your price.' This creates an immediate question about a bargain between two people in intimate tension, though the stakes are not yet clear."
+  },
+  "cliffhanger": {
+    "score_0_10": 5.0,
+    "evidence_refs": [
+      "EP50:E22",
+      "EP50:E23"
+    ],
+    "reason": "In the final 3 seconds Catherine's knowing smile and line 'You told yourself this ends when the hearing does' leave a deal open and point to a future hearing. The viewer is not told what happens at the hearing, so the ending feels unresolved, but the deal itself is concluded and the tension is only hinted at.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "What the 'west territory' and tax collection are, and why they matter",
+      "What 'absolution' means in this context and why Catherine questions the price",
+      "The nature of the relationship between Catherine and Father Thomas",
+      "What the hearing is, who holds it, and why it matters",
+      "Why Father Thomas says 'Unsupervised' and what oversight is being avoided",
+      "The wider stakes or power dynamics behind the bargain"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 6.0,
+    "reason": "The clip builds intimate tension through close framing, physical contact and a negotiated bargain with a hint of danger. The emotional charge is strong, but without context the viewer cannot fully feel the stakes behind the characters' choices."
+  },
+  "weaknesses": [
+    "Heavy reliance on unexplained references such as the hearing, the west territory and absolution",
+    "The bargain's stakes are unclear to a first-time viewer",
+    "The final line introduces a future event that the clip never establishes",
+    "Tone toward the characters' motives is ambiguous, which may weaken viewer investment"
+  ],
+  "one_line_why_it_works": "Intimate close-ups and a sharp opening question ('Name your price.') pull the viewer into a tense negotiation whose hidden stakes are hinted at by the final line about the hearing."
+}

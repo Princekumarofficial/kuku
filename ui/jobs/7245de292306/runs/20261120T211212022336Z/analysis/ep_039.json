@@ -1,0 +1,188 @@
+{
+  "episode_id": "ep_039",
+  "summary": "On-screen evidence shows loyalists infiltrating a cathedral area: a cart driver and a second loyalist overpower two royal sentries (EP39:E16-E26), a loyalist confirms the cart is clear and says 'Tell the Duke' (EP39:E29-E30), and a man named Alexander, who says he was buried three years ago, cuts his hair and beard and emerges in ducal regalia to order 'Secure the chapel' (EP39:E40-E50). Identifying him as Duke Alexander Ashwin rests on his regalia, the 'Your Grace' salute, and his own words, and is an inference rather than a stated fact. The spoken 'wife' is unnamed on screen. Metadata about a wedding, Juliana's execution, and the dungeon describes unseen events and is not treated as evidence. Timing, the number of guards inside, and the outcome of the east gate and chapel are not shown.",
+  "characters": [
+    {
+      "name": "Alexander Ashwin",
+      "role": "Returning figure who appears to be the Duke; disguised in exile, then transforms into ducal dress and gives orders"
+    },
+    {
+      "name": "Loyalist scout",
+      "role": "Conspirator watching the street and cathedral approach, reports six guards at the front"
+    },
+    {
+      "name": "Loyalist fighter",
+      "role": "Conspirator who reports four more guards inside and confirms the east gate is theirs"
+    },
+    {
+      "name": "Cart driver",
+      "role": "Loyalist posing as a firewood driver who overpowers a royal sentry"
+    },
+    {
+      "name": "Royal sentry",
+      "role": "Guard at the cathedral entrance who is subdued by loyalists"
+    },
+    {
+      "name": "Loyalist soldier",
+      "role": "Kneeling soldier who greets Alexander as Your Grace and receives orders"
+    }
+  ],
+  "beats": [
+    {
+      "id": "B1",
+      "kind": "setup",
+      "event_refs": [
+        "EP39:E1",
+        "EP39:E2",
+        "EP39:E3",
+        "EP39:E4",
+        "EP39:E5",
+        "EP39:E6"
+      ],
+      "description": "Laborers, a vigilant scout, and a disguised loyalist move through the cobblestone town square toward the church spires.",
+      "intensity_0_10": 3.0
+    },
+    {
+      "id": "B2",
+      "kind": "plan_reveal",
+      "event_refs": [
+        "EP39:E7",
+        "EP39:E8",
+        "EP39:E9",
+        "EP39:E10",
+        "EP39:E11",
+        "EP39:E12",
+        "EP39:E13",
+        "EP39:E14",
+        "EP39:E15"
+      ],
+      "description": "Red-uniformed guards hold the cathedral entrance while loyalists confer in an alley: six guards at the front, four more inside, and the east gate is theirs.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "B3",
+      "kind": "action_infiltration",
+      "event_refs": [
+        "EP39:E16",
+        "EP39:E17",
+        "EP39:E18",
+        "EP39:E19",
+        "EP39:E20",
+        "EP39:E21",
+        "EP39:E22",
+        "EP39:E23",
+        "EP39:E24",
+        "EP39:E25",
+        "EP39:E26",
+        "EP39:E27",
+        "EP39:E28",
+        "EP39:E29",
+        "EP39:E30"
+      ],
+      "description": "A cart driver stops at the entrance, attacks a sentry, and a second loyalist chokes out the other guard; the guards lie unconscious, men enter the doors, and the road is reported clear.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "B4",
+      "kind": "transformation",
+      "event_refs": [
+        "EP39:E31",
+        "EP39:E32",
+        "EP39:E33",
+        "EP39:E34",
+        "EP39:E35",
+        "EP39:E36",
+        "EP39:E37",
+        "EP39:E38",
+        "EP39:E39",
+        "EP39:E40",
+        "EP39:E41",
+        "EP39:E42",
+        "EP39:E43"
+      ],
+      "description": "Alexander looks at his scarred reflection, shears off his hair and beard, lays a hand on his scar, declares 'Enough hiding,' says he was buried three years ago, and says 'Today, he comes home' as he lifts the ducal coat.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "B5",
+      "kind": "reveal_and_vow",
+      "event_refs": [
+        "EP39:E44",
+        "EP39:E45",
+        "EP39:E46",
+        "EP39:E47",
+        "EP39:E48",
+        "EP39:E49",
+        "EP39:E50",
+        "EP39:E51",
+        "EP39:E52",
+        "EP39:E53",
+        "EP39:E54",
+        "EP39:E55",
+        "EP39:E56",
+        "EP39:E57",
+        "EP39:E58",
+        "EP39:E59"
+      ],
+      "description": "Alexander emerges in full ducal dress, is greeted as Your Grace, orders the chapel secured, declares he is taking back his house, and vows to bring his wife home before the screen cuts to black.",
+      "intensity_0_10": 9.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "R1",
+      "event_refs": [
+        "EP39:E41",
+        "EP39:E42",
+        "EP39:E45",
+        "EP39:E48"
+      ],
+      "claim": "The man in the cabin is Alexander, whom the speaker says was buried three years ago, and he has returned as the Duke (inferred from regalia and 'Your Grace').",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "Why was Alexander Ashwin reported dead three years ago?",
+        "Who buried him, and was the death staged?"
+      ]
+    },
+    {
+      "id": "R2",
+      "event_refs": [
+        "EP39:E58"
+      ],
+      "claim": "Alexander has a wife whom he intends to bring home; she is unnamed and her situation is not shown on screen.",
+      "spoiler_significance_0_10": 4.0,
+      "creates_questions": [
+        "Who is Alexander's wife, and where is she being held?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "Who is the wife Alexander vows to bring home, and where is she?",
+      "introduced_by": [
+        "EP39:E58"
+      ]
+    },
+    {
+      "question": "Why was Alexander Ashwin presumed dead three years ago, and how did he survive?",
+      "introduced_by": [
+        "EP39:E41"
+      ]
+    },
+    {
+      "question": "Will the loyalists take the chapel and the east gate, and how many guards remain inside?",
+      "introduced_by": [
+        "EP39:E12",
+        "EP39:E15",
+        "EP39:E50"
+      ]
+    },
+    {
+      "question": "What is the 'Tell the Duke' message's outcome, and does Alexander's strike succeed?",
+      "introduced_by": [
+        "EP39:E30",
+        "EP39:E59"
+      ]
+    }
+  ]
+}

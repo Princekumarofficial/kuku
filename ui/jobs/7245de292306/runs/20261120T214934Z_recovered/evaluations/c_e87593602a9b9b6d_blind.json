@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c_e87593602a9b9b6d",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP35:E58",
+      "EP35:E59"
+    ],
+    "reason": "The clip opens on an intense close-up within the first 3000ms, and the line 'Because someone wanted you to believe I was dead.' at 500ms raises an immediate question about who is behind a deception."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP35:E69",
+      "EP35:E70"
+    ],
+    "reason": "In the final 3000ms, the clip ends on the unexplained claim that 'the men behind it... are the same men ruling Ashwood now' (E70, 20000-24500ms) with no identification or resolution of who they are, so the question stays open at the cut.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Alexander is and why he was believed dead",
+      "Who the mother is and why she asks 'Who?' twice",
+      "What the ambush was and who his men were",
+      "What Ashwood is and who rules it",
+      "What the three years of searching refer to"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Rage, grief over lost men, and a shift to a deadly chill in the voice build clear intensity, although without context the emotional stakes for the characters are only partly felt."
+  },
+  "weaknesses": [
+    "Key characters and terms (Ashwood, the ambush, the mother) are not introduced, so a first-time viewer cannot tell who the antagonists are",
+    "The 'Who?' exchanges with the mother are not answered within the clip, which weakens the sense of progression",
+    "The line 'Someone wanted me erased' is repeated in theme with earlier lines and adds little new information",
+    "Camera and action descriptions dominate the middle of the clip, leaving the revelation about the ruling men thinly supported"
+  ],
+  "one_line_why_it_works": "A tense, escalating confession about a faked death ends on a chilling, unanswered claim that the enemies are the current rulers, which makes a viewer want to know who they are."
+}

@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "series_id": "series_001",
+  "scope": {
+    "type": "episode",
+    "episode_id": "ep_028"
+  },
+  "promos": [
+    {
+      "candidate_id": "c_ea3b8ec685ae45e3",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 70200,
+          "end_ms": 115800,
+          "episode_id": "ep_028"
+        }
+      ],
+      "duration_ms": 45600,
+      "hook": {
+        "description": "The clip opens within the first 3000ms with Catherine violently yanking a locket off Juliana, and Juliana's cry of 'No!' makes the stakes immediately clear. The final 3000ms carries Juliana's defiant 'Do not speak about my husband!' over a close-up of her blazing eyes, which is a strong closing beat.",
+        "evidence_refs": [
+          "EP28:E52",
+          "EP28:E53",
+          "EP28:E54",
+          "EP28:E82"
+        ]
+      },
+      "cliffhanger": {
+        "description": "Catherine has exposed Juliana's identity as Lady Juliana Ashcroft and is still tormenting her when the clip ends, with the locket lying on the floor and no response to the threat. The confrontation is left open, so this is not a resolved ending.",
+        "evidence_refs": [
+          "EP28:E73",
+          "EP28:E77",
+          "EP28:E81",
+          "EP28:E82"
+        ]
+      },
+      "why_it_works": "A fast, cruel confiscation of Juliana's locket escalates into a public unmasking of her identity and ends on her fierce defiance, leaving the confrontation open.",
+      "scores": {
+        "hook": 8.0,
+        "cliffhanger": 7.0,
+        "standalone": 5.0,
+        "emotion": 8.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 6.95
+      },
+      "warnings": [
+        "The opening Rupert shot is unexplained and does not connect to the rest of the clip for a first-time viewer",
+        "Terms such as 'witch', 'gallows', 'disgraced daughter' and 'penniless war veteran' are used without introduction, which requires assumed backstory",
+        "The emotional beats depend on the viewer understanding the stakes of the locket and the herbarium, which are not explained on screen",
+        "Spoilers not checked",
+        "Who Rupert is and why he is turning toward the guard at the start",
+        "Why Juliana is held by a guard and what the stone corridor and doorway setting means",
+        "Why Catherine calls Juliana a witch and mentions the gallows",
+        "What the disgraced family history and the 'penniless war veteran' husband refer to",
+        "Why the herbarium and the Ashcroft inscription matter to the confrontation",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 1,
+      "promo_id": "p_001"
+    }
+  ],
+  "construction": {
+    "opportunities": 6,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "DURATION_OUT_OF_RANGE": 1613,
+      "PARTIAL_DIALOGUE": 513
+    }
+  },
+  "rejected_candidates": [
+    {
+      "candidate_id": "c_bd71a12680ca240c",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_b9a9d7f4be75d3d9",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_75cfade293d72661",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_985efcc8e2bed806 DURATION_MS=24900\nSEGMENT 1 (playback order)\nEP42:E5 0-1600 CAMERA: Close-up on Juliana, her manacled hands clutching at her smock as tears well in her eyes.\nEP42:E6 0-1400 JULIANA: \"Alexander...\"\nEP42:E7 1600-2900 CAMERA: Close-up on Alexander, his gaze softening momentarily toward her.\nEP42:E8 1800-2900 ALEXANDER: \"Juliana.\"\nEP42:E9 2900-6500 CAMERA: Medium shot of Rupert descending the altar steps, furiously pointing toward Alexander.\nEP42:E10 3000-6200 BLOND NOBLEMAN: \"Guards! Arrest this imposter!\"\nEP42:E11 6500-8400 CAMERA: Medium shot of the royal guardsman standing rigidly in red uniform and bearskin cap, resting his white-gloved hand on his sabre.\nEP42:E12 7000-8400 ROYAL GUARD: \"We will not.\"\nEP42:E13 8400-11500 CAMERA: Close-up on Rupert, veins bulging in his neck as his composure shatters.\nEP42:E14 8500-10200 BLOND NOBLEMAN: \"I said arrest him!\"\nEP42:E15 10500-11500 BLOND NOBLEMAN: \"Why?!\"\nEP42:E16 11500-13800 CAMERA: Close-up on the Royal Guard holding his upright blade with unwavering conviction.\nEP42:E17 11700-13800 ROYAL GUARD: \"Because we know who he is.\"\nEP42:E18 13800-15400 CAMERA: Medium shot of Catherine clutching her father's arm, her bridal bouquet drooping as panic seizes her face.\nEP42:E19 14000-15300 CATHERINE: \"Rupert...\"\nEP42:E20 15400-18800 CAMERA: Medium close-up of Rupert gripping the edge of a pew for balance, his eyes wild with terror.\nEP42:E21 15500-18800 BLOND NOBLEMAN: \"You cannot be him. Alexander died!\"\nEP42:E22 18800-24900 CAMERA: Wide tracking shot behind Alexander as he advances down the center aisle, silhouetted against the ruins of the cathedral nave.\nEP42:E23 19000-24800 ALEXANDER: \"And yet, here I stand. That is the lie you built your life upon.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

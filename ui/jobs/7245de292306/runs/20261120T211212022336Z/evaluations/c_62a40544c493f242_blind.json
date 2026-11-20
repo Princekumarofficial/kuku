@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_62a40544c493f242",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP10:E6",
+      "EP10:E8",
+      "EP10:E9"
+    ],
+    "reason": "The opening within 0-3000ms shows Juliana rising in shock and Alexander struggling to breathe while clutching a bloodied coat, which creates immediate tension. The unexplained injury and his denial 'It is nothing.' raise a question, but the stakes are not clear to a first-time viewer."
+  },
+  "cliffhanger": {
+    "score_0_10": 2.0,
+    "evidence_refs": [
+      "EP10:E35",
+      "EP10:E36"
+    ],
+    "reason": "The final 3000ms close on Alexander's stoic face and his line 'It is over.', which signals closure rather than an open question. The wound is tended and the scene settles, so the ending reads as resolved.",
+    "unresolved_at_end": false
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Juliana and Alexander are and their relationship",
+      "What caused the bloodied wound and the battle scars",
+      "The meaning of 'a cut from the tenant fields' and the wider conflict",
+      "What 'It is over' refers to",
+      "Why Juliana's reaction carries such emotional weight"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 6.0,
+    "reason": "Juliana's horror, pity and tenderness toward Alexander's scarred body and his quiet stoicism give the clip a clear emotional arc, though the feeling depends on context the viewer lacks."
+  },
+  "weaknesses": [
+    "Stakes and backstory are not established, so the clip relies on unexplained injuries",
+    "The closing line 'It is over.' resolves tension instead of leaving a hook",
+    "Much of the runtime is slow physical action (shirt removal, kneeling) with little dialogue",
+    "The emotional payoff is strong only for viewers who already know the characters"
+  ],
+  "one_line_why_it_works": "Juliana's shock and tender pity toward Alexander's injuries create an intimate emotional moment, even though the clip ends on a resolved note."
+}

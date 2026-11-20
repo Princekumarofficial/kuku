@@ -1,0 +1,40 @@
+{
+  "candidate_id": "c_2312f74871c57405",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP02:E54",
+      "EP02:E55"
+    ],
+    "reason": "Opens within 0-3000ms with a defiant close-up and the sharp one-word line \"Dignity?\", which creates immediate tension and asks a question the viewer wants answered."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP02:E70",
+      "EP02:E71"
+    ],
+    "reason": "The final line \"I may leave this chapel without a husband...\" is cut off mid-sentence with an ellipsis, so the outcome of the confrontation is left open within the final 3000ms. The clip does not show a resolved ending.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Identity and relationship of Gerald, Clarissa, and Juliana",
+      "Why Juliana was abandoned and what the promised wedding means",
+      "What Gerald's broken word or the public rebuke refers to",
+      "Meaning of \"Dignity?\" as the opening question"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Juliana's composure shifting from pain to defiance, the fierce confrontation, and Gerald's stunned silence produce strong emotional intensity even without full backstory."
+  },
+  "weaknesses": [
+    "Lacks the backstory needed to understand the betrayal, so stakes feel partly unexplained to a first-time viewer",
+    "The opening question \"Dignity?\" is not connected to any shown event",
+    "The final line is cut off mid-sentence, which may read as an abrupt edit rather than a deliberate hook",
+    "Repeated stylistic beats of posture and expression describe mood more than new information"
+  ],
+  "one_line_why_it_works": "A composed, defiant public confrontation escalates to a cut-off final line that leaves the outcome open and carries strong emotion."
+}

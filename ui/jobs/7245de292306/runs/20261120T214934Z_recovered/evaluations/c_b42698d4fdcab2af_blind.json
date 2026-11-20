@@ -1,0 +1,44 @@
+{
+  "candidate_id": "c_b42698d4fdcab2af",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP38:E40",
+      "EP38:E55"
+    ],
+    "reason": "The opening line 'I will not give them my husband.' starts at 300ms and sets up immediate loyalty and conflict. The clip closes on Juliana whispering 'Alexander...' at 22000-23500ms, which ties back to that opening. The hook is strong, but the stakes are not explained within the clip."
+  },
+  "cliffhanger": {
+    "score_0_10": 5.0,
+    "evidence_refs": [
+      "EP38:E52",
+      "EP38:E44",
+      "EP38:E55"
+    ],
+    "reason": "Juliana's line 'Then I suppose I'm next' and the ongoing tolling bells leave a threat open. However, the clip ends on her warm, defiant smile and a whispered name, which reads more like an emotional beat than an unresolved threat. The unresolved element is real but vague.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Who 'they' are and why Juliana refuses to give up her husband",
+      "Who Alexander is and his relationship to Juliana",
+      "Why Juliana is imprisoned in a dungeon cell",
+      "What the wedding is and whose it is",
+      "What 'next' means in 'I suppose I'm next'",
+      "The significance of the bells as a signal"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Fierce loyalty, startled realization, and the shift from terror to a brave, faithful smile create clear emotional movement. The emotions land even without context, though their weight is limited by the unexplained stakes."
+  },
+  "weaknesses": [
+    "Heavy reliance on unexplained references to 'them', 'the wedding', and 'husband' without context",
+    "Ambiguous meaning of 'I'm next' weakens the cliffhanger",
+    "Ending on a smile and a whispered name may read as emotional closure rather than suspense",
+    "Long sustained sound cue (E44 runs 4300-23500ms) dominates the audio track with little variation",
+    "Dialogue lines are short, so the first-time viewer gets little explanation of the situation"
+  ],
+  "one_line_why_it_works": "A defiant opening line and a bell-driven realization create immediate emotional stakes, and the closing whisper of a husband's name lands a personal, faith-based note."
+}

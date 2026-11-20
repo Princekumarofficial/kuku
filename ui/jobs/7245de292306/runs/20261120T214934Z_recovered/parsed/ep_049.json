@@ -1,0 +1,913 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "ep_049",
+  "episode_number": 49,
+  "metadata": {
+    "logline": "Meeting Father Thomas in an abandoned wing of the manor before dawn, Catherine orchestrates a calculated conspiracy to stall the council hearing and extract inside intelligence, sealing their treasonous alliance with intimate assurance.",
+    "continuity_notes": "Directly follows Catherine sending Agnes to fetch Father Thomas under cover of darkness; now in Episode 49, Father Thomas slips into the secluded wing for their covert rendezvous."
+  },
+  "source": {
+    "file": "048_episode-049-Episode 1688398.txt",
+    "sha256": "7b96649d2e272da28d82c5cf18c7915d4f09117e5d7632a04625a333d554016e",
+    "complete": true
+  },
+  "scenes": [
+    {
+      "start_ms": 0,
+      "end_ms": 144750,
+      "id": "sc_001",
+      "heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+    }
+  ],
+  "events": [
+    {
+      "start_ms": 0,
+      "end_ms": 5200,
+      "id": "e_001",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Wide tracking shot down a dark, derelict hallway lined with dust-sheet draped furniture and peeling wallpaper. At the far end, a door creaks open, revealing a cloaked figure stepping in.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        14,
+        16
+      ]
+    },
+    {
+      "start_ms": 1000,
+      "end_ms": 4500,
+      "id": "e_002",
+      "scene_id": "sc_001",
+      "type": "sound",
+      "text": "Hinges creaking softly followed by the muffled thud of a heavy wooden door clicking shut.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        18,
+        20
+      ]
+    },
+    {
+      "start_ms": 1800,
+      "end_ms": 5200,
+      "id": "e_003",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Father Thomas, clad in a hooded dark mantle over priestly black robes, secures the door behind him and steps into the shadows of the abandoned corridor.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        22,
+        24
+      ]
+    },
+    {
+      "start_ms": 5200,
+      "end_ms": 7000,
+      "id": "e_004",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot on Catherine, draped in a dark hooded cloak over a lavish crimson bodice, holding a brass candlestick aloft.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        26,
+        28
+      ]
+    },
+    {
+      "start_ms": 5400,
+      "end_ms": 6800,
+      "id": "e_005",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You took your time.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Quietly Chiding",
+      "source_lines": [
+        30,
+        32
+      ]
+    },
+    {
+      "start_ms": 7000,
+      "end_ms": 8800,
+      "id": "e_006",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Over-the-shoulder shot past Father Thomas's cloaked back looking toward Catherine illuminated in warm candlelight.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        34,
+        36
+      ]
+    },
+    {
+      "start_ms": 8800,
+      "end_ms": 15500,
+      "id": "e_007",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Father Thomas under his black hood, his stern face framed by the clerical collar and silver crucifix resting on his chest.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        38,
+        40
+      ]
+    },
+    {
+      "start_ms": 9000,
+      "end_ms": 15200,
+      "id": "e_008",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Agnes is thorough. She made me wait for a groom to finish his rounds before she'd let me past the stables.\"",
+      "speaker": "FATHER THOMAS",
+      "delivery": "Low, Measured",
+      "source_lines": [
+        42,
+        44
+      ]
+    },
+    {
+      "start_ms": 15500,
+      "end_ms": 19800,
+      "id": "e_009",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up profile of Catherine, turning with a slight, knowing smirk.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        46,
+        48
+      ]
+    },
+    {
+      "start_ms": 15800,
+      "end_ms": 18800,
+      "id": "e_010",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Good. That's what I pay her for.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Pleased, Cold",
+      "source_lines": [
+        50,
+        52
+      ]
+    },
+    {
+      "start_ms": 19800,
+      "end_ms": 22000,
+      "id": "e_011",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium two-shot as Catherine steps forward and sets the heavy candleholder onto a small round table draped in grey cloth between them.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        54,
+        56
+      ]
+    },
+    {
+      "start_ms": 20000,
+      "end_ms": 22000,
+      "id": "e_012",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Catherine sets down the brass candleholder, the flame flickering across their faces.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        58,
+        60
+      ]
+    },
+    {
+      "start_ms": 22000,
+      "end_ms": 27500,
+      "id": "e_013",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Tight close-up on Father Thomas's face, the candlelight dancing in his calculating eyes.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        62,
+        64
+      ]
+    },
+    {
+      "start_ms": 22200,
+      "end_ms": 27200,
+      "id": "e_014",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"No shadows tonight, Catherine. Just us and an empty wing.\"",
+      "speaker": "FATHER THOMAS",
+      "delivery": "Grave",
+      "source_lines": [
+        66,
+        68
+      ]
+    },
+    {
+      "start_ms": 27500,
+      "end_ms": 33200,
+      "id": "e_015",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on Catherine, her blonde ringlets peeking from beneath her velvet hood as she smiles faintly.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        70,
+        72
+      ]
+    },
+    {
+      "start_ms": 27800,
+      "end_ms": 33000,
+      "id": "e_016",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You didn't need them the first time, either. I just prefer my secrets thorough.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Unfazed",
+      "source_lines": [
+        74,
+        76
+      ]
+    },
+    {
+      "start_ms": 33200,
+      "end_ms": 41800,
+      "id": "e_017",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Father Thomas, glancing down momentarily before fixing his piercing gaze back on her.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        78,
+        80
+      ]
+    },
+    {
+      "start_ms": 33500,
+      "end_ms": 41500,
+      "id": "e_018",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"A priest and a disgraced bride meeting before dawn in her bedchamber. I'd say thoroughness served us both rather well.\"",
+      "speaker": "FATHER THOMAS",
+      "delivery": "Dry, Cynical",
+      "source_lines": [
+        82,
+        84
+      ]
+    },
+    {
+      "start_ms": 41800,
+      "end_ms": 46800,
+      "id": "e_019",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Catherine's face hardening into a stern, focused expression.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        86,
+        88
+      ]
+    },
+    {
+      "start_ms": 42000,
+      "end_ms": 46500,
+      "id": "e_020",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"It will keep serving us as long as neither of us gets careless. No one in this house so much as suspects your face belongs to that morning. Let's keep it that way.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Assertive, Warning",
+      "source_lines": [
+        90,
+        92
+      ]
+    },
+    {
+      "start_ms": 46800,
+      "end_ms": 48500,
+      "id": "e_021",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on Father Thomas listening impassively.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        94,
+        96
+      ]
+    },
+    {
+      "start_ms": 48500,
+      "end_ms": 53000,
+      "id": "e_022",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium wide two-shot across the candlelit table, Catherine leaning slightly forward.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        98,
+        100
+      ]
+    },
+    {
+      "start_ms": 48800,
+      "end_ms": 52800,
+      "id": "e_023",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Today went better than either of us planned for. The whole court watched you humiliate her.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Scheming",
+      "source_lines": [
+        102,
+        104
+      ]
+    },
+    {
+      "start_ms": 53000,
+      "end_ms": 59800,
+      "id": "e_024",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up on Father Thomas as he turns his head slightly, scanning the dusty shadowed recesses of the abandoned room.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        106,
+        108
+      ]
+    },
+    {
+      "start_ms": 53200,
+      "end_ms": 59500,
+      "id": "e_025",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Fitting choice, this room. A place the family forgot for a conversation they mustn't remember.\"",
+      "speaker": "FATHER THOMAS",
+      "delivery": "Reflective, Brooding",
+      "source_lines": [
+        110,
+        112
+      ]
+    },
+    {
+      "start_ms": 59800,
+      "end_ms": 62800,
+      "id": "e_026",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on Catherine, her lips curling into an amused, knowing smile.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        114,
+        116
+      ]
+    },
+    {
+      "start_ms": 60000,
+      "end_ms": 62500,
+      "id": "e_027",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You always did have a taste for symbolism.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Amused",
+      "source_lines": [
+        118,
+        120
+      ]
+    },
+    {
+      "start_ms": 62800,
+      "end_ms": 67200,
+      "id": "e_028",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Father Thomas, a subtle smirk breaking through his austere demeanor.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        122,
+        124
+      ]
+    },
+    {
+      "start_ms": 63000,
+      "end_ms": 67100,
+      "id": "e_029",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"And you always did have a taste for using me. It's why we suit each other.\"",
+      "speaker": "FATHER THOMAS",
+      "delivery": "Intimate, Candid",
+      "source_lines": [
+        126,
+        128
+      ]
+    },
+    {
+      "start_ms": 67200,
+      "end_ms": 72400,
+      "id": "e_030",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on Catherine, her expression turning razor-sharp and commanding.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        130,
+        132
+      ]
+    },
+    {
+      "start_ms": 67400,
+      "end_ms": 72200,
+      "id": "e_031",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Then make certain the council remembers that for the full ten days, not just the first hour.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Strict, Urgent",
+      "source_lines": [
+        134,
+        136
+      ]
+    },
+    {
+      "start_ms": 72400,
+      "end_ms": 77000,
+      "id": "e_032",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Side profile close-up on Father Thomas, his brow furrowing with impatient resolve.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        138,
+        140
+      ]
+    },
+    {
+      "start_ms": 72600,
+      "end_ms": 76800,
+      "id": "e_033",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"What is it you actually need from me, Catherine? Say it plainly, for once.\"",
+      "speaker": "FATHER THOMAS",
+      "delivery": "Direct",
+      "source_lines": [
+        142,
+        144
+      ]
+    },
+    {
+      "start_ms": 77000,
+      "end_ms": 84000,
+      "id": "e_034",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Catherine raising one hand slightly, emphasizing her terms.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        146,
+        148
+      ]
+    },
+    {
+      "start_ms": 77200,
+      "end_ms": 83800,
+      "id": "e_035",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"First, the hearing stays unresolved as long as possible. Every extension, every delay, every excuse to reconvene.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Calculating, Determined",
+      "source_lines": [
+        150,
+        152
+      ]
+    },
+    {
+      "start_ms": 84000,
+      "end_ms": 91400,
+      "id": "e_036",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Frontal close-up of Catherine raising two fingers in the candlelight, her eyes burning with ruthless intent.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        154,
+        156
+      ]
+    },
+    {
+      "start_ms": 84200,
+      "end_ms": 91200,
+      "id": "e_037",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Second, I want to know what the council knows before it decides anything. Every argument, every witness, every whisper against her.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Fierce, Uncompromising",
+      "source_lines": [
+        158,
+        160
+      ]
+    },
+    {
+      "start_ms": 91400,
+      "end_ms": 94200,
+      "id": "e_038",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on Father Thomas absorbing the audacity of her demand.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        162,
+        164
+      ]
+    },
+    {
+      "start_ms": 91600,
+      "end_ms": 94000,
+      "id": "e_039",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You want eyes inside the council chamber itself?\"",
+      "speaker": "FATHER THOMAS",
+      "delivery": "Skeptical",
+      "source_lines": [
+        166,
+        168
+      ]
+    },
+    {
+      "start_ms": 94200,
+      "end_ms": 98000,
+      "id": "e_040",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up low angle on Catherine, tilting her chin up in defiant pride.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        170,
+        172
+      ]
+    },
+    {
+      "start_ms": 94400,
+      "end_ms": 97800,
+      "id": "e_041",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I want eyes and ears everywhere that decides my future.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Haughty, Imperious",
+      "source_lines": [
+        174,
+        176
+      ]
+    },
+    {
+      "start_ms": 98000,
+      "end_ms": 103800,
+      "id": "e_042",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Full two-shot of Catherine and Father Thomas facing off across the small table in the cavernous hallway.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        178,
+        180
+      ]
+    },
+    {
+      "start_ms": 98200,
+      "end_ms": 102500,
+      "id": "e_043",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Father Thomas clasps his hands behind his back, turning slightly away to ponder the gravity of her words.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        182,
+        184
+      ]
+    },
+    {
+      "start_ms": 98300,
+      "end_ms": 103200,
+      "id": "e_044",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Is that so unreasonable coming from a woman the church itself just humiliated back into relevance?\"",
+      "speaker": "CATHERINE",
+      "delivery": "Bitterly Resolute",
+      "source_lines": [
+        186,
+        188
+      ]
+    },
+    {
+      "start_ms": 103800,
+      "end_ms": 113000,
+      "id": "e_045",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot on Father Thomas turning back around to face her, his countenance etched with genuine concern.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        190,
+        192
+      ]
+    },
+    {
+      "start_ms": 104200,
+      "end_ms": 112800,
+      "id": "e_046",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"If I keep the hearing open, if I feed you every word spoken behind those doors, what happens to me when the Duke finds out a crowned priest conspired against him?\"",
+      "speaker": "FATHER THOMAS",
+      "delivery": "Wary, Grave",
+      "source_lines": [
+        194,
+        196
+      ]
+    },
+    {
+      "start_ms": 113000,
+      "end_ms": 118000,
+      "id": "e_047",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium two-shot tracking closer as Catherine steps closer toward him.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        198,
+        200
+      ]
+    },
+    {
+      "start_ms": 113200,
+      "end_ms": 117800,
+      "id": "e_048",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Then make certain he doesn't find out. You're careful. I've seen how careful.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Seductive, Reassuring",
+      "source_lines": [
+        202,
+        204
+      ]
+    },
+    {
+      "start_ms": 118000,
+      "end_ms": 124800,
+      "id": "e_049",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Tight close-up on Father Thomas's intense, brooding face.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        206,
+        208
+      ]
+    },
+    {
+      "start_ms": 118200,
+      "end_ms": 124500,
+      "id": "e_050",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Careful men still hang, my lady, when the crime is treason against a Duke the King himself just restored.\"",
+      "speaker": "FATHER THOMAS",
+      "delivery": "Stern, Stark",
+      "source_lines": [
+        210,
+        212
+      ]
+    },
+    {
+      "start_ms": 124800,
+      "end_ms": 128800,
+      "id": "e_051",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on Catherine, her lips parting into an alluring, promising smile.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        214,
+        216
+      ]
+    },
+    {
+      "start_ms": 125000,
+      "end_ms": 128500,
+      "id": "e_052",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Careful men who help me also get remembered.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Tempting",
+      "source_lines": [
+        218,
+        220
+      ]
+    },
+    {
+      "start_ms": 128800,
+      "end_ms": 134500,
+      "id": "e_053",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Split focus close-up between Father Thomas's intense gaze and Catherine leaning in close, whispering with lethal conviction.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        222,
+        224
+      ]
+    },
+    {
+      "start_ms": 129200,
+      "end_ms": 134200,
+      "id": "e_054",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"A grateful Duchess collects debts differently than a desperate one.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Whispering, Promising",
+      "source_lines": [
+        226,
+        228
+      ]
+    },
+    {
+      "start_ms": 134500,
+      "end_ms": 139800,
+      "id": "e_055",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium two-shot as Father Thomas extends his open right hand between them.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        230,
+        232
+      ]
+    },
+    {
+      "start_ms": 135000,
+      "end_ms": 139500,
+      "id": "e_056",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Father Thomas slowly raises his right hand, palm turned upward in invitation and pact.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        234,
+        236
+      ]
+    },
+    {
+      "start_ms": 135200,
+      "end_ms": 139500,
+      "id": "e_057",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"The rest depends on how well you keep your part of this quiet.\"",
+      "speaker": "FATHER THOMAS",
+      "delivery": "Low, Resigned",
+      "source_lines": [
+        238,
+        240
+      ]
+    },
+    {
+      "start_ms": 139800,
+      "end_ms": 142800,
+      "id": "e_058",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on Father Thomas looking down into her eyes.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        242,
+        244
+      ]
+    },
+    {
+      "start_ms": 140000,
+      "end_ms": 142500,
+      "id": "e_059",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Then we understand each other.\"",
+      "speaker": "FATHER THOMAS",
+      "delivery": "Softly",
+      "source_lines": [
+        246,
+        248
+      ]
+    },
+    {
+      "start_ms": 140500,
+      "end_ms": 142800,
+      "id": "e_060",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Catherine reaches out and places her slender hand firmly into Father Thomas's open palm.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        250,
+        252
+      ]
+    },
+    {
+      "start_ms": 142800,
+      "end_ms": 144000,
+      "id": "e_061",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Catherine gazing up at him, her eyes glistening in the candlelight.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        254,
+        256
+      ]
+    },
+    {
+      "start_ms": 143000,
+      "end_ms": 144000,
+      "id": "e_062",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"We always have.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Intimate",
+      "source_lines": [
+        258,
+        260
+      ]
+    },
+    {
+      "start_ms": 144000,
+      "end_ms": 144750,
+      "id": "e_063",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Extreme close-up as Father Thomas gently raises his other hand and cups Catherine's cheek tenderly, her hand resting against his chest as she leans into his touch before cutting to black.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        262,
+        264
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "start_ms": 0,
+      "end_ms": 144750
+    }
+  ],
+  "warnings": []
+}

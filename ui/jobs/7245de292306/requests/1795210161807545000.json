@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_31f1fdd2691d44e4 DURATION_MS=25500\nSEGMENT 1 (playback order)\nEP05:E46 0-5500 CAMERA: Close-up of the Mysterious Bearded Man looking warmly down at Juliana, his rugged face full of quiet sincerity.\nEP05:E47 500-2000 JULIANA: \"They destroyed it.\"\nEP05:E48 2500-5400 MYSTERIOUS BEARDED MAN: \"They dirtied it. That is not the same thing.\"\nEP05:E49 5500-11000 CAMERA: Medium two-shot of Juliana pressing the soiled book tightly against her chest, weeping softly.\nEP05:E50 6500-7800 JULIANA: \"It was my mother's.\"\nEP05:E51 7900-9000 MYSTERIOUS BEARDED MAN: \"Then keep it.\"\nEP05:E52 8500-11000 ACTION: The Mysterious Bearded Man reaches out with both hands, clasping his strong hands tenderly over hers and the book.\nEP05:E53 9400-11000 MYSTERIOUS BEARDED MAN: \"Let them keep everything else.\"\nEP05:E54 11000-16500 CAMERA: Low-angle shot of Gerald standing high on the stone steps, grinning arrogantly as he points an accusatory finger down at them.\nEP05:E55 11500-12800 GERALD: \"Look at you.\"\nEP05:E56 13000-16500 GERALD: \"A noblewoman reduced to a beggar's wife!\"\nEP05:E57 16500-21500 CAMERA: Over-the-shoulder shot behind the Mysterious Bearded Man looking up toward Gerald on the stairs. Gerald's arrogant grin slowly wavers.\nEP05:E58 18000-20800 MYSTERIOUS BEARDED MAN: \"Choose your next words carefully.\"\nEP05:E59 21500-25500 CAMERA: Extreme close-up of the Mysterious Bearded Man's scarred hand completely covering and protecting Juliana's hands where they clasp the book.\nEP05:E60 24200-25200 MYSTERIOUS BEARDED MAN: \"Come.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

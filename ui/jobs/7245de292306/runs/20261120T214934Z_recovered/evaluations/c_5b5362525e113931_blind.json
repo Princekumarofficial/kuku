@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c_5b5362525e113931",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP20:E3",
+      "EP20:E16"
+    ],
+    "reason": "The opening line 'Two lumps of sugar, Rupert?' is a quick, sharp start with a sly barb in E4. The clip closes on Rupert's reveal that 'the title is mine' in E16, which gives a strong ending beat."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP20:E15",
+      "EP20:E16"
+    ],
+    "reason": "Rupert's claim that the title will be his once Alexander's death is formally sealed by the Crown is left pending at the cut, so the stakes stay open. The clip ends before any sealing or outcome is shown.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Who Alexander is and how he died",
+      "What the estate and Ashbury title represent in the story",
+      "Why the succession papers matter and what they change",
+      "The relationship between Catherine and Rupert before this scene",
+      "Why Catherine rejects a 'practical Duke' and what she wants"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The exchange carries rivalry, condescending teasing, and a menacing reveal. Rupert's triumph and predatory stance give the scene a tense, cold charge."
+  },
+  "weaknesses": [
+    "The first half is slow setup of tea-pouring and gestures before the conflict sharpens",
+    "Alexander's death is introduced without any context, so the menace of E15 depends on unexplained events",
+    "Terms like 'Duke', 'Lord of Ashbury', and 'the title' are used without explanation for a first-time viewer",
+    "The reveal in E16 is clear but the stakes behind Catherine's dismissal are not fully established"
+  ],
+  "one_line_why_it_works": "A sharp sugar-and-sweetness rivalry escalates into Rupert's chilling claim on the title, and the unfinished Crown sealing leaves the threat hanging at the cut."
+}

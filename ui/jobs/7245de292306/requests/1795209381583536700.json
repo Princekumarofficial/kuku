@@ -1,0 +1,441 @@
+{
+  "stage": "episode_analysis",
+  "system": "Analyze narrative beats, characters, revelations and unresolved questions. Only event text is on-screen evidence; metadata may describe unseen events. Use supplied EPxx:Ex aliases. Report uncertainty in the summary. A revelation's significance is not its spoiler damage.",
+  "user": "EP=ep_016; timestamps are integer milliseconds\nSOURCE_SHA256=f86c26df7397d86091056e44fe613c2f50abe7d221f7e015d8cdd5c4f8775e19\nMETADATA ONLY (not on-screen evidence): {'logline': \"When hired thugs attack Juliana's medicinal garden, Alexander unleashes his combat training to effortlessly overpower them, extracting a shocking confession that unmasks Gerald Harrington as the mastermind.\", 'continuity_notes': \"Picks up immediately from Episode 15's cliffhanger where Alexander confronted the three thugs in the moonlit garden while Juliana huddled injured on the ground.\"}\nSOURCE WARNINGS=[]\nSCENE sc_001 0-83190 EXT. JULIANA'S COTTAGE GARDEN – NIGHT\nEP16:E1 0-2100 CAMERA: Wide shot from behind Alexander's trench coat looking toward the three thugs standing across the trampled garden under the full moon.\nEP16:E2 0-2100 ACTION: Alexander stands tall and unyielding, blocking the path to Juliana, while the Thug with Cap steps forward clutching an iron pipe.\nEP16:E3 2100-4500 CAMERA: Medium close-up of the Thug with Cap, his eyes wide and sneering with false bravado as his bald accomplice watches from behind.\nEP16:E4 2100-4200 THUG WITH CAP [Menacing, Goading]: \"Move aside, soldier.\"\nEP16:E5 4500-6400 CAMERA: Extreme close-up of Alexander's scarred, weathered face, his cold blue-grey eyes fixed intently on his opponent.\nEP16:E6 6400-9500 CAMERA: Low-angle medium shot of the Thug with Cap gripping his weapon with both hands and roaring into the night air.\nEP16:E7 6400-8800 THUG WITH CAP [Furious, Shouting]: \"I said, move!\"\nEP16:E8 9500-11200 CAMERA: Medium close-up of Alexander remaining completely motionless, his jaw clenched in stoic calm.\nEP16:E9 11200-13100 CAMERA: Close-up of Juliana kneeling in the mud against the ruined planter, clutching her bandaged hands to her chest in trembling fear.\nEP16:E10 11200-12700 JULIANA [Frightened, Whispering]: \"Alexander...\"\nEP16:E11 13100-14300 ALEXANDER [Calm, Protective]: \"Stay behind me.\"\nEP16:E12 14300-16000 CAMERA: Medium action shot as the Thug with Cap lunges forward with his weapon raised high.\nEP16:E13 14400-15500 THUG WITH CAP [Roaring]: \"Aaargh!\"\nEP16:E14 14400-16800 ACTION: The thug swings the club down with full force, but Alexander catches the weapon mid-air in his bare hand with chilling ease.\nEP16:E15 15800-16500 SOUND: Heavy blunt impact of a solid hand gripping wood.\nEP16:E16 16800-19500 CAMERA: Close-up of the Thug with Cap staring in wide-eyed terror as Alexander grips the bar and wrenches it away effortlessly.\nEP16:E17 19200-21800 ACTION: Alexander strikes the thug across the chest and slams him violently into the muddy ground beside the stone wall.\nEP16:E18 19800-21200 SOUND: Heavy thud of a body crashing into soil and wood.\nEP16:E19 21800-23000 CAMERA: Close-up of Juliana watching in breathless astonishment.\nEP16:E20 23000-25800 CAMERA: Medium tracking shot as the Bald Thug charges in with a shout, only for Alexander to pivot and seize him by the neck, hurling him across the garden path.\nEP16:E21 23000-23800 BALD THUG [Yelling]: \"Aaargh!\"\nEP16:E22 24200-25500 SOUND: Loud wooden scrape and crunch as the Bald Thug slides across the planks into the fence.\nEP16:E23 25800-28500 CAMERA: Medium shot of the Third Thug backing away nervously, raising a blunt rod with trembling arms before lunging.\nEP16:E24 25800-27100 THIRD THUG [Desperate, Shouting]: \"Stay back!\"\nEP16:E25 26500-28500 ACTION: Alexander deflects the strike with his forearm, drives a swift counter-blow into the thug's torso, and spins him violently to the ground.\nEP16:E26 27000-28200 SOUND: Solid bone-and-fist impact followed by a groaning thud.\nEP16:E27 28500-31000 CAMERA: Wide cinematic shot under the full moon. Alexander towers over the three writhing thugs groaning in the mud as Juliana looks up from her knees.\nEP16:E28 31000-34500 CAMERA: Low-angle close-up of Juliana looking up at Alexander, tears glistening on her mud-splattered cheeks in profound relief.\nEP16:E29 32000-33800 JULIANA [Breathless, Overwhelmed]: \"Alexander...\"\nEP16:E30 34500-38200 CAMERA: Medium shot over Juliana's shoulder as Alexander turns his gaze toward her, his stern demeanor softening with concern.\nEP16:E31 36200-37800 ALEXANDER [Gentle, Concerned]: \"Are you hurt?\"\nEP16:E32 38200-40800 CAMERA: Close-up of Juliana's trembling, soil-stained hands wrapped in blood-soaked bandages.\nEP16:E33 38200-40000 JULIANA [Fragile, Pain-filled]: \"Only my hands.\"\nEP16:E34 40800-44200 CAMERA: Medium shot as Alexander suddenly wheels around, strides to the groaning Thug with Cap, and yanks him straight off the ground by his coat collar with one arm.\nEP16:E35 41200-44000 ACTION: Alexander lifts the thug onto his tiptoes against the cottage wall, glaring with lethal intensity.\nEP16:E36 42500-44000 ALEXANDER [Demanding, Threatening]: \"Who sent you?\"\nEP16:E37 44200-46200 CAMERA: Close-up of the Thug with Cap gagging under Alexander's iron fist.\nEP16:E38 44200-45300 THUG WITH CAP [Choking, Defiant]: \"No one!\"\nEP16:E39 46200-48500 CAMERA: Close-up of Alexander, his eyes darkening with lethal fury.\nEP16:E40 46300-47400 ALEXANDER [Cold, Ominous]: \"Wrong answer.\"\nEP16:E41 48000-50000 ACTION: Alexander tightens his grip on the thug's throat, lifting him higher against the stone wall.\nEP16:E42 48800-49600 ALEXANDER [Roaring]: \"Who?!\"\nEP16:E43 49800-52800 CAMERA: Extreme close-up of the terrified thug gasping for air, his eyes bulging.\nEP16:E44 49800-52200 THUG WITH CAP [Screaming, Panicked]: \"Harrington! Gerald Harrington paid us!\"\nEP16:E45 52800-55200 CAMERA: Close-up of Juliana on the ground, reeling in devastated disbelief as the betrayal hits her.\nEP16:E46 53200-54400 JULIANA [Shaken, Heartbroken]: \"Gerald...\"\nEP16:E47 55200-59000 CAMERA: Medium wide shot as Alexander releases the thug, sending him tumbling into the ruined flowerbeds.\nEP16:E48 55500-58500 ACTION: The Thug with Cap scrambles to his feet and sprints into the dark woods alongside his two limping accomplices.\nEP16:E49 56000-58200 THUG WITH CAP [Shouting, Retreating]: \"We were only paid to destroy the garden, that's all!\"\nEP16:E50 59000-63000 CAMERA: Close-up on Alexander's hand hanging by his coat. Fresh blood trickles from his split knuckles, and he slowly curls his fingers into a tight fist.\nEP16:E51 60000-63000 ACTION: Alexander flexes his bleeding hand, showing no sign of pain.\nEP16:E52 63000-66500 CAMERA: Medium shot as Juliana gingerly rises to her feet, stepping toward Alexander with deep awe and wonder in her eyes.\nEP16:E53 64200-66200 JULIANA [Soft, Astounded]: \"You knew exactly what to do.\"\nEP16:E54 66500-70500 CAMERA: Close-up of Juliana looking up at him, searching his scarred face.\nEP16:E55 67800-70200 JULIANA [Wondering, Intrigued]: \"You fought like you've done this a hundred times.\"\nEP16:E56 70500-74200 CAMERA: Medium close-up of Alexander turning his profile away, shadowed by haunted memories of his past.\nEP16:E57 71000-74000 ALEXANDER [Somber, Heavy-Hearted]: \"A soldier learns things he wishes he could forget.\"\nEP16:E58 74200-76800 CAMERA: Close-up of Juliana softening with deep empathy as her eyes drop to his bleeding knuckle.\nEP16:E59 74800-75800 JULIANA [Tender, Concerned]: \"Are you hurt?\"\nEP16:E60 76000-77500 ACTION: Juliana reaches out toward his injured hand with delicate concern.\nEP16:E61 76800-83190 CAMERA: Medium shot of Alexander and Juliana standing face-to-face in the moonlit garden, framed against the dark night.\nEP16:E62 77800-78800 ALEXANDER [Quiet, Steady]: \"No.\"\nEP16:E63 78800-83190 ACTION: Alexander and Juliana gaze deeply into each other's eyes, an unspoken bond forming between them as the ruined garden lies silent beneath the moon.\nEP16:E64 80000-83190 SOUND: Slow, resonant emotional cello melody swelling to a dramatic cliffhanger hold.",
+  "schema": {
+    "$defs": {
+      "Beat": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "kind": {
+            "title": "Kind",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "description": {
+            "title": "Description",
+            "type": "string"
+          },
+          "intensity_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Intensity 0 10",
+            "type": "number"
+          }
+        },
+        "required": [
+          "id",
+          "kind",
+          "event_refs",
+          "description",
+          "intensity_0_10"
+        ],
+        "title": "Beat",
+        "type": "object"
+      },
+      "Character": {
+        "additionalProperties": false,
+        "properties": {
+          "name": {
+            "title": "Name",
+            "type": "string"
+          },
+          "role": {
+            "title": "Role",
+            "type": "string"
+          }
+        },
+        "required": [
+          "name",
+          "role"
+        ],
+        "title": "Character",
+        "type": "object"
+      },
+      "Question": {
+        "additionalProperties": false,
+        "properties": {
+          "question": {
+            "title": "Question",
+            "type": "string"
+          },
+          "introduced_by": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Introduced By",
+            "type": "array"
+          }
+        },
+        "required": [
+          "question",
+          "introduced_by"
+        ],
+        "title": "Question",
+        "type": "object"
+      },
+      "Revelation": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "claim": {
+            "title": "Claim",
+            "type": "string"
+          },
+          "spoiler_significance_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Spoiler Significance 0 10",
+            "type": "number"
+          },
+          "creates_questions": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Creates Questions",
+            "type": "array"
+          }
+        },
+        "required": [
+          "id",
+          "event_refs",
+          "claim",
+          "spoiler_significance_0_10",
+          "creates_questions"
+        ],
+        "title": "Revelation",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "episode_id": {
+        "title": "Episode Id",
+        "type": "string"
+      },
+      "summary": {
+        "title": "Summary",
+        "type": "string"
+      },
+      "characters": {
+        "items": {
+          "$ref": "#/$defs/Character"
+        },
+        "title": "Characters",
+        "type": "array"
+      },
+      "beats": {
+        "items": {
+          "$ref": "#/$defs/Beat"
+        },
+        "title": "Beats",
+        "type": "array"
+      },
+      "revelations": {
+        "items": {
+          "$ref": "#/$defs/Revelation"
+        },
+        "title": "Revelations",
+        "type": "array"
+      },
+      "unresolved_questions": {
+        "items": {
+          "$ref": "#/$defs/Question"
+        },
+        "title": "Unresolved Questions",
+        "type": "array"
+      }
+    },
+    "required": [
+      "episode_id",
+      "summary",
+      "characters",
+      "beats",
+      "revelations",
+      "unresolved_questions"
+    ],
+    "title": "EpisodeAnalysis",
+    "type": "object"
+  },
+  "state": "complete",
+  "output": {
+    "episode_id": "ep_016",
+    "summary": "Analysis of EP16 (ep_016) based only on on-screen event text E1-E64 within scene sc_001 (0-83190 ms). Metadata (logline, continuity notes) was not used as evidence. The Episode 15 cliffhanger is referenced only in metadata and is unverified here. Gerald Harrington is never seen on screen; his involvement rests solely on the Thug with Cap's accusation at EP16:E44 and is unconfirmed, so calling him the mastermind is unverified. The thugs' motive is only partly stated (EP16:E49 says they were paid to destroy the garden). Alexander's background is hinted at (EP16:E57) but not explained. Timestamps are integer milliseconds as supplied. Scene-level events are limited to the 0-83190 ms span.",
+    "characters": [
+      {
+        "name": "Alexander",
+        "role": "Protagonist; scarred, combat-trained man who defends Juliana and interrogates the thugs; hints of a soldier's past"
+      },
+      {
+        "name": "Juliana",
+        "role": "Garden owner and Alexander's love interest; injured hands; witnesses the attack and the betrayal"
+      },
+      {
+        "name": "Thug with Cap",
+        "role": "Leader of the hired thugs; attacks Alexander and names Gerald Harrington as the payer under duress"
+      },
+      {
+        "name": "Bald Thug",
+        "role": "Hired thug who charges Alexander and is thrown into the fence"
+      },
+      {
+        "name": "Third Thug",
+        "role": "Hired thug who attacks with a blunt rod and is knocked to the ground"
+      },
+      {
+        "name": "Gerald Harrington",
+        "role": "Alleged employer named by the Thug with Cap; not seen on screen; involvement unverified"
+      }
+    ],
+    "beats": [
+      {
+        "id": "B1",
+        "kind": "standoff",
+        "event_refs": [
+          "EP16:E1",
+          "EP16:E2",
+          "EP16:E3",
+          "EP16:E4",
+          "EP16:E5",
+          "EP16:E6",
+          "EP16:E7",
+          "EP16:E8"
+        ],
+        "description": "Alexander blocks the thugs from reaching Juliana; the Thug with Cap issues threats and demands Alexander move aside.",
+        "intensity_0_10": 5.0
+      },
+      {
+        "id": "B2",
+        "kind": "attack_and_counter",
+        "event_refs": [
+          "EP16:E9",
+          "EP16:E10",
+          "EP16:E11",
+          "EP16:E12",
+          "EP16:E13",
+          "EP16:E14",
+          "EP16:E15",
+          "EP16:E16"
+        ],
+        "description": "Juliana is frightened and Alexander tells her to stay behind him; the Thug with Cap lunges and Alexander catches the weapon bare-handed and wrenches it away.",
+        "intensity_0_10": 7.0
+      },
+      {
+        "id": "B3",
+        "kind": "takedown",
+        "event_refs": [
+          "EP16:E17",
+          "EP16:E18",
+          "EP16:E19"
+        ],
+        "description": "Alexander strikes the Thug with Cap across the chest and slams him into the muddy ground; Juliana watches in astonishment.",
+        "intensity_0_10": 6.0
+      },
+      {
+        "id": "B4",
+        "kind": "takedown",
+        "event_refs": [
+          "EP16:E20",
+          "EP16:E21",
+          "EP16:E22"
+        ],
+        "description": "The Bald Thug charges and Alexander seizes him by the neck and hurls him across the garden path into the fence.",
+        "intensity_0_10": 6.0
+      },
+      {
+        "id": "B5",
+        "kind": "takedown",
+        "event_refs": [
+          "EP16:E23",
+          "EP16:E24",
+          "EP16:E25",
+          "EP16:E26",
+          "EP16:E27"
+        ],
+        "description": "The Third Thug lunges with a rod; Alexander deflects, counter-strikes and drops him, leaving all three thugs groaning in the mud.",
+        "intensity_0_10": 6.0
+      },
+      {
+        "id": "B6",
+        "kind": "emotional_check_in",
+        "event_refs": [
+          "EP16:E28",
+          "EP16:E29",
+          "EP16:E30",
+          "EP16:E31",
+          "EP16:E32",
+          "EP16:E33"
+        ],
+        "description": "Juliana, in tears of relief, looks up at Alexander; he softens and asks if she is hurt, and she says only her hands are injured.",
+        "intensity_0_10": 4.0
+      },
+      {
+        "id": "B7",
+        "kind": "interrogation_reveal",
+        "event_refs": [
+          "EP16:E34",
+          "EP16:E35",
+          "EP16:E36",
+          "EP16:E37",
+          "EP16:E38",
+          "EP16:E39",
+          "EP16:E40",
+          "EP16:E41",
+          "EP16:E42",
+          "EP16:E43",
+          "EP16:E44"
+        ],
+        "description": "Alexander lifts the Thug with Cap against the wall and demands who sent him; under threat of strangulation the thug names Gerald Harrington as the payer.",
+        "intensity_0_10": 9.0
+      },
+      {
+        "id": "B8",
+        "kind": "emotional_reaction",
+        "event_refs": [
+          "EP16:E45",
+          "EP16:E46"
+        ],
+        "description": "Juliana reels in devastated disbelief at the name Gerald.",
+        "intensity_0_10": 6.0
+      },
+      {
+        "id": "B9",
+        "kind": "retreat_and_clarification",
+        "event_refs": [
+          "EP16:E47",
+          "EP16:E48",
+          "EP16:E49"
+        ],
+        "description": "Alexander releases the thug, who flees into the woods with his limping accomplices, shouting that they were only paid to destroy the garden.",
+        "intensity_0_10": 5.0
+      },
+      {
+        "id": "B10",
+        "kind": "aftermath_bond",
+        "event_refs": [
+          "EP16:E50",
+          "EP16:E51",
+          "EP16:E52",
+          "EP16:E53",
+          "EP16:E54",
+          "EP16:E55",
+          "EP16:E56",
+          "EP16:E57",
+          "EP16:E58",
+          "EP16:E59",
+          "EP16:E60"
+        ],
+        "description": "Alexander's knuckles bleed and he shows no pain; Juliana admires his fighting, he hints at a soldier's painful past, and she reaches toward his injured hand.",
+        "intensity_0_10": 5.0
+      },
+      {
+        "id": "B11",
+        "kind": "romantic_cliffhanger",
+        "event_refs": [
+          "EP16:E61",
+          "EP16:E62",
+          "EP16:E63",
+          "EP16:E64"
+        ],
+        "description": "Alexander and Juliana stand face-to-face in the moonlit garden; he answers quietly that he is not hurt, they share a lingering gaze, and a cello swell closes the scene on a hold.",
+        "intensity_0_10": 6.0
+      }
+    ],
+    "revelations": [
+      {
+        "id": "R1",
+        "event_refs": [
+          "EP16:E44"
+        ],
+        "claim": "The Thug with Cap says Gerald Harrington paid the thugs; this is an unverified accusation made under duress.",
+        "spoiler_significance_0_10": 8.0,
+        "creates_questions": [
+          "Is Gerald Harrington actually behind the attack?",
+          "Did Harrington order the attack directly or through intermediaries?"
+        ]
+      },
+      {
+        "id": "R2",
+        "event_refs": [
+          "EP16:E49"
+        ],
+        "claim": "The Thug with Cap says the thugs were only paid to destroy the garden.",
+        "spoiler_significance_0_10": 5.0,
+        "creates_questions": [
+          "Why would someone want Juliana's medicinal garden destroyed?",
+          "Was the attack meant to harm Juliana or only her property?"
+        ]
+      },
+      {
+        "id": "R3",
+        "event_refs": [
+          "EP16:E57"
+        ],
+        "claim": "Alexander hints that as a soldier he learned things he wishes he could forget, suggesting a traumatic military past.",
+        "spoiler_significance_0_10": 4.0,
+        "creates_questions": [
+          "What did Alexander experience as a soldier?",
+          "Why is Alexander's combat training so advanced?"
+        ]
+      }
+    ],
+    "unresolved_questions": [
+      {
+        "question": "Is Gerald Harrington truly the mastermind behind the attack?",
+        "introduced_by": [
+          "EP16:E44"
+        ]
+      },
+      {
+        "question": "Who else, if anyone, ordered the attack on the garden?",
+        "introduced_by": [
+          "EP16:E36",
+          "EP16:E40",
+          "EP16:E44"
+        ]
+      },
+      {
+        "question": "Why was the medicinal garden targeted?",
+        "introduced_by": [
+          "EP16:E49"
+        ]
+      },
+      {
+        "question": "What is Alexander's past as a soldier and why is he hiding it?",
+        "introduced_by": [
+          "EP16:E57"
+        ]
+      },
+      {
+        "question": "Will Alexander and Juliana's emerging bond develop, and what does it mean for her safety?",
+        "introduced_by": [
+          "EP16:E63",
+          "EP16:E64"
+        ]
+      }
+    ]
+  }
+}

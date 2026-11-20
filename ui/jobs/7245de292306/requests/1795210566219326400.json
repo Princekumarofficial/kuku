@@ -1,0 +1,202 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_d0fd4eeddc4f03dc DURATION_MS=23700\nSEGMENT 1 (playback order)\nEP02:E2 0-2500 THE FORMER GROOM: \"I cannot marry you, Juliana.\"\nEP02:E1 0-2800 CAMERA: Medium low-angle shot on Gerald at the altar steps, looking down dismissively, while Clarissa in her shimmering gold gown stands behind him gloating.\nEP02:E3 2800-4600 CAMERA: Medium close-up on Juliana trembling in disbelief, her hands clasped tightly to her chest.\nEP02:E4 2800-4600 ACTION: Juliana gasps softly in heartbreak, her eyes wide and brimming with tears.\nEP02:E5 4600-6600 CAMERA: Medium shot returning to Gerald, sneering down at Juliana.\nEP02:E6 4700-6500 THE FORMER GROOM: \"You are far too plain...\"\nEP02:E7 6600-9500 CAMERA: Close-up on Juliana's tear-streaked face, crushed under his biting words.\nEP02:E8 6800-9500 THE FORMER GROOM: \"...far too silent...\"\nEP02:E9 9500-12000 CAMERA: Medium shot on Gerald turning slightly toward Clarissa as she smiles admiringly at him.\nEP02:E10 9600-12000 THE FORMER GROOM: \"...and completely beneath the future I deserve.\"\nEP02:E11 12000-15800 CAMERA: Wide shot down the aisle as Juliana takes an agonizing step forward toward the altar, extending a trembling hand.\nEP02:E12 12400-15500 LADY JULIANA: \"Gerald... Look at me.\"\nEP02:E13 15800-18000 CAMERA: Close-up on Gerald's cold, merciless face staring ahead unblinkingly.\nEP02:E14 18000-20700 CAMERA: Tight insert on Juliana's hand clutching the heirloom amethyst pendant resting against her gown.\nEP02:E15 18200-20600 LADY JULIANA: \"You gave me your word before both our families.\"\nEP02:E16 20700-23700 CAMERA: Medium two-shot of Gerald and Clarissa standing side by side before the priest.\nEP02:E17 20900-23700 THE FORMER GROOM: \"Promises change when a better choice appears.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "complete",
+  "output": {
+    "candidate_id": "c_d0fd4eeddc4f03dc",
+    "hook": {
+      "score_0_10": 8.0,
+      "evidence_refs": [
+        "EP02:E2",
+        "EP02:E1"
+      ],
+      "reason": "The opening line 'I cannot marry you, Juliana.' lands within 0-2500ms over a dismissive low-angle shot of Gerald and a gloating Clarissa, creating an immediate public humiliation stakes question."
+    },
+    "cliffhanger": {
+      "score_0_10": 5.0,
+      "evidence_refs": [
+        "EP02:E16",
+        "EP02:E17"
+      ],
+      "reason": "The final 3000ms show Gerald standing beside Clarissa before the priest and declaring 'Promises change when a better choice appears', so his choice is stated and the clip ends on a wedding with Juliana's plea and the pendant's meaning left unanswered; the emotional outcome for Juliana remains open.",
+      "unresolved_at_end": true
+    },
+    "standalone": {
+      "score_0_10": 5.0,
+      "missing_context": [
+        "Relationship history between Juliana and Gerald and what 'your word before both our families' refers to",
+        "Who Clarissa is and why she is gloating",
+        "Why the heirloom amethyst pendant matters",
+        "Whether the wedding is being halted or proceeding and the outcome for Juliana",
+        "Meaning of 'EP02' and what happened in episode 1"
+      ]
+    },
+    "emotion": {
+      "score_0_10": 8.0,
+      "reason": "Juliana's trembling disbelief, tearful heartbreak and Gerald's cruel insults create strong sympathy and anger within the clip."
+    },
+    "weaknesses": [
+      "Clip depends on unstated backstory for the promise and the pendant, weakening standalone clarity",
+      "Juliana's final reaction is not shown, so the ending may feel abrupt rather than a deliberate hook",
+      "Gerald's insults are repetitive and the characterization of Clarissa is thin",
+      "Lack of visual or dialogue cue indicating what happens next limits curiosity beyond the immediate betrayal"
+    ],
+    "one_line_why_it_works": "A public rejection at the altar delivers an immediate, emotionally charged hook and ends on the groom's cruel decision, leaving Juliana's response and the broader conflict open."
+  }
+}

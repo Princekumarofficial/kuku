@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_17f1541326629c7b",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP22:E58",
+      "EP22:E60",
+      "EP22:E59"
+    ],
+    "reason": "The opening within 0-3000ms is urgent: Prudence grabs Juliana's arm and whispers \"Do not stare. Keep walking.\" This creates immediate secrecy and tension, but the stakes and reason for hiding are not yet clear."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP22:E80",
+      "EP22:E79"
+    ],
+    "reason": "The clip ends mid-crisis while the Duchess is choking and Juliana has just asked \"Who has been treating you?\" That question is not answered within the clip, so the ending is unresolved rather than a resolved intense moment.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Identity and relationship of Prudence, Lady Juliana, and the Dowager Duchess",
+      "Why Juliana must avoid being seen in the West Wing",
+      "Purpose of the wooden bucket carried into the room",
+      "Who the unnamed treating person is and what treatment is being referred to",
+      "Source or cause of the Duchess's illness before the poison suspicion"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Trembling hands, frantic whispering, a locked door, the Duchess's gasping convulsions, and Juliana's horrified realization build strong dread and desperation for a first-time viewer."
+  },
+  "weaknesses": [
+    "Opening lines lack context, so the secrecy initially feels arbitrary to a new viewer",
+    "Poisoning is inferred from \"This isn't ordinary fever\" and the final description rather than stated explicitly in dialogue",
+    "The final shot description includes an interpretive label (\"haunting realization of poison\") that goes beyond what is directly shown",
+    "Several shots are close-ups of physical symptoms that repeat the same distress without adding new information",
+    "The bucket and its significance are never explained"
+  ],
+  "one_line_why_it_works": "The clip escalates from a secretive rush into a locked room to a sudden medical emergency, ending on the unanswered question \"Who has been treating you?\" while the Duchess is choking."
+}

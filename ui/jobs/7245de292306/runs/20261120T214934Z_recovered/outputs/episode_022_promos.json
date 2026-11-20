@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "series_id": "series_001",
+  "scope": {
+    "type": "episode",
+    "episode_id": "ep_022"
+  },
+  "promos": [
+    {
+      "candidate_id": "c_5fd693cb18637eea",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 94500,
+          "end_ms": 131000,
+          "episode_id": "ep_022"
+        }
+      ],
+      "duration_ms": 36500,
+      "hook": {
+        "description": "Opens within 0-3000ms with Juliana's awed line and a dramatic portrait push-in, then Prudence's urgent whisper suggests secrecy. The final-3000ms evidence (E80) shows the Duchess choking with a poison realization, which creates a strong question, though the opening itself is not a direct hook.",
+        "evidence_refs": [
+          "EP22:E57",
+          "EP22:E58",
+          "EP22:E60",
+          "EP22:E80"
+        ]
+      },
+      "cliffhanger": {
+        "description": "The clip ends mid-crisis: the Duchess is choking and Juliana's question 'Who has been treating you?' goes unanswered, with abrupt suspenseful music. Nothing resolves within the clip, so it counts as unresolved rather than merely intense.",
+        "evidence_refs": [
+          "EP22:E79",
+          "EP22:E80"
+        ]
+      },
+      "why_it_works": "A tense, escalating medical-mystery sequence ends on an unanswered question while a dying woman chokes, which makes viewers want to know who is poisoning her.",
+      "scores": {
+        "hook": 7.0,
+        "cliffhanger": 8.0,
+        "standalone": 5.0,
+        "emotion": 7.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 6.8
+      },
+      "warnings": [
+        "Early context is thin; a first-time viewer cannot tell who the characters are or what the stakes are beyond the crisis",
+        "Poison is asserted through camera and action description rather than clearly grounded in dialogue",
+        "The wooden bucket and the 'herbalist instincts' detail are introduced without explanation",
+        "Slow setup through the gallery and corridor delays the central conflict for roughly the first 14 seconds",
+        "Spoilers not checked",
+        "Identity and relationship of Lady Juliana, Prudence, and the Dowager Duchess",
+        "Who the Duke and Duchess in the portrait are and why the gallery matters",
+        "Why the secluded West Wing and locked bedchamber are secret",
+        "Purpose of the wooden bucket Juliana sets down",
+        "Who the suspected treating person is and why poison is suspected",
+        "Basis for the poison conclusion beyond the camera description",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 1,
+      "promo_id": "p_001"
+    }
+  ],
+  "construction": {
+    "opportunities": 2,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "DURATION_OUT_OF_RANGE": 19
+    }
+  },
+  "rejected_candidates": [
+    {
+      "candidate_id": "c_b8a32d3bd409c2b3",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_17f1541326629c7b",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_ae76b04035ab88f1",
+      "reasons": [
+        "ENDING_RESOLVED",
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,890 @@
+[
+  {
+    "candidate_id": "c_ec6117177e5de0eb",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 59800,
+        "end_ms": 98000,
+        "episode_id": "ep_039"
+      }
+    ],
+    "duration_ms": 38200,
+    "origin": "opp_1",
+    "clip_events": [
+      {
+        "ref": "EP39:E36",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1000,
+        "type": "sound",
+        "speaker": null,
+        "text": "Rhythmic, metallic snips of heavy shears cutting through thick hair."
+      },
+      {
+        "ref": "EP39:E37",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as Alexander trims his beard at the jawline."
+      },
+      {
+        "ref": "EP39:E38",
+        "segment_index": 0,
+        "relative_start_ms": 1400,
+        "relative_end_ms": 6800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot framed in the mirror of Alexander now handsomely groomed, his trimmed beard framing his fierce, scarred features."
+      },
+      {
+        "ref": "EP39:E40",
+        "segment_index": 0,
+        "relative_start_ms": 2200,
+        "relative_end_ms": 3000,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Enough hiding.\""
+      },
+      {
+        "ref": "EP39:E39",
+        "segment_index": 0,
+        "relative_start_ms": 2200,
+        "relative_end_ms": 6800,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander lightly traces the jagged combat scar across his cheek, eyes burning with reclaimed power."
+      },
+      {
+        "ref": "EP39:E41",
+        "segment_index": 0,
+        "relative_start_ms": 3200,
+        "relative_end_ms": 5700,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"They buried Alexander Ashwin three years ago.\""
+      },
+      {
+        "ref": "EP39:E42",
+        "segment_index": 0,
+        "relative_start_ms": 5800,
+        "relative_end_ms": 7100,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Today, he comes home.\""
+      },
+      {
+        "ref": "EP39:E43",
+        "segment_index": 0,
+        "relative_start_ms": 6800,
+        "relative_end_ms": 8700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Alexander lifting his royal navy-blue embroidered ducal coat from the wooden bench."
+      },
+      {
+        "ref": "EP39:E44",
+        "segment_index": 0,
+        "relative_start_ms": 8700,
+        "relative_end_ms": 12000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide tracking shot through double wooden barn doors opening outward onto a vast, snow-covered landscape as Alexander steps forward into the light."
+      },
+      {
+        "ref": "EP39:E45",
+        "segment_index": 0,
+        "relative_start_ms": 8700,
+        "relative_end_ms": 12000,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander emerges in full ducal splendor—dressed in an immaculate navy tailcoat lined with gold embroidery, double-breasted brass buttons, and a crisp white cravat."
+      },
+      {
+        "ref": "EP39:E46",
+        "segment_index": 0,
+        "relative_start_ms": 12000,
+        "relative_end_ms": 15000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of Alexander's hand adjusting the ornate golden lion crest pinned at his cravat."
+      },
+      {
+        "ref": "EP39:E47",
+        "segment_index": 0,
+        "relative_start_ms": 15000,
+        "relative_end_ms": 18000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium low-angle shot as a loyalist soldier drops down onto one knee before him in the snow."
+      },
+      {
+        "ref": "EP39:E48",
+        "segment_index": 0,
+        "relative_start_ms": 16000,
+        "relative_end_ms": 17400,
+        "type": "dialogue",
+        "speaker": "LOYALIST",
+        "text": "\"Your Grace.\""
+      },
+      {
+        "ref": "EP39:E49",
+        "segment_index": 0,
+        "relative_start_ms": 18000,
+        "relative_end_ms": 22700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up profile of Alexander, his breath pluming in the winter cold, his eyes hardened like steel."
+      },
+      {
+        "ref": "EP39:E50",
+        "segment_index": 0,
+        "relative_start_ms": 20700,
+        "relative_end_ms": 22400,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Secure the chapel.\""
+      },
+      {
+        "ref": "EP39:E51",
+        "segment_index": 0,
+        "relative_start_ms": 22700,
+        "relative_end_ms": 25400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the soldier rising and snapping a crisp military salute."
+      },
+      {
+        "ref": "EP39:E52",
+        "segment_index": 0,
+        "relative_start_ms": 24000,
+        "relative_end_ms": 25400,
+        "type": "dialogue",
+        "speaker": "LOYALIST",
+        "text": "\"Yes, Your Grace.\""
+      },
+      {
+        "ref": "EP39:E53",
+        "segment_index": 0,
+        "relative_start_ms": 25400,
+        "relative_end_ms": 35200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Slow dramatic tracking shot moving backward in front of Alexander as he strides purposefully through the deep snow, the wooden chapel looming in the distance behind him."
+      },
+      {
+        "ref": "EP39:E54",
+        "segment_index": 0,
+        "relative_start_ms": 25700,
+        "relative_end_ms": 27400,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"No more hiding.\""
+      },
+      {
+        "ref": "EP39:E55",
+        "segment_index": 0,
+        "relative_start_ms": 27700,
+        "relative_end_ms": 30400,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"I am taking back my house.\""
+      },
+      {
+        "ref": "EP39:E56",
+        "segment_index": 0,
+        "relative_start_ms": 30400,
+        "relative_end_ms": 35200,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander marches forward unstoppably, his long coat fluttering in the winter wind as his icy gaze locks forward."
+      },
+      {
+        "ref": "EP39:E58",
+        "segment_index": 0,
+        "relative_start_ms": 35200,
+        "relative_end_ms": 38200,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"And I am bringing my wife home.\""
+      },
+      {
+        "ref": "EP39:E57",
+        "segment_index": 0,
+        "relative_start_ms": 35200,
+        "relative_end_ms": 38200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Dramatic push-in close-up directly onto Alexander's scarred, fierce face as he speaks with absolute conviction."
+      },
+      {
+        "ref": "EP39:E59",
+        "segment_index": 0,
+        "relative_start_ms": 38000,
+        "relative_end_ms": 38200,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander's eyes burn with furious determination as the screen cuts sharply to black."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_10693ed7c7cf2c82",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 29600,
+        "end_ms": 82200,
+        "episode_id": "ep_039"
+      }
+    ],
+    "duration_ms": 52600,
+    "origin": "opp_2",
+    "clip_events": [
+      {
+        "ref": "EP39:E18",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot of the royal sentry stepping forward and extending a white-gloved hand to halt the cart."
+      },
+      {
+        "ref": "EP39:E19",
+        "segment_index": 0,
+        "relative_start_ms": 200,
+        "relative_end_ms": 1000,
+        "type": "dialogue",
+        "speaker": "ROYAL SENTRY",
+        "text": "\"Stop!\""
+      },
+      {
+        "ref": "EP39:E20",
+        "segment_index": 0,
+        "relative_start_ms": 1200,
+        "relative_end_ms": 2800,
+        "type": "dialogue",
+        "speaker": "CART DRIVER",
+        "text": "\"Firewood for the kitchens, sir.\""
+      },
+      {
+        "ref": "EP39:E21",
+        "segment_index": 0,
+        "relative_start_ms": 2800,
+        "relative_end_ms": 6900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Fast dynamic medium shot as the cart driver suddenly lunges off the wooden bench."
+      },
+      {
+        "ref": "EP39:E22",
+        "segment_index": 0,
+        "relative_start_ms": 3200,
+        "relative_end_ms": 6900,
+        "type": "action",
+        "speaker": null,
+        "text": "The driver leaps off the cart, striking the sentry across the chest, seizing his neck, and tackling him violently against the wooden carriage wheel."
+      },
+      {
+        "ref": "EP39:E23",
+        "segment_index": 0,
+        "relative_start_ms": 3500,
+        "relative_end_ms": 6400,
+        "type": "sound",
+        "speaker": null,
+        "text": "Dull physical thuds and scuffling boots on wet stone as the guard groans in surprise."
+      },
+      {
+        "ref": "EP39:E24",
+        "segment_index": 0,
+        "relative_start_ms": 6900,
+        "relative_end_ms": 13200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up as a second loyalist emerges from behind the doorway, wrapping his arms around the remaining royal guard's throat from behind."
+      },
+      {
+        "ref": "EP39:E25",
+        "segment_index": 0,
+        "relative_start_ms": 7400,
+        "relative_end_ms": 12900,
+        "type": "action",
+        "speaker": null,
+        "text": "The loyalist locks the sentry into a tight sleeper hold, clamping a hand firmly over his mouth until his eyes roll back and he goes limp."
+      },
+      {
+        "ref": "EP39:E26",
+        "segment_index": 0,
+        "relative_start_ms": 11400,
+        "relative_end_ms": 12600,
+        "type": "dialogue",
+        "speaker": "LOYALIST FIGHTER",
+        "text": "\"Sleep.\""
+      },
+      {
+        "ref": "EP39:E27",
+        "segment_index": 0,
+        "relative_start_ms": 13200,
+        "relative_end_ms": 17200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide high-angle shot overlooking the stone cathedral steps where both royal guards lie unconscious on the fallen autumn leaves while more men slip inside the opened doors."
+      },
+      {
+        "ref": "EP39:E28",
+        "segment_index": 0,
+        "relative_start_ms": 17200,
+        "relative_end_ms": 20400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium low-angle shot of the two loyalist fighters looking up into the overcast sky outside the stone sanctuary."
+      },
+      {
+        "ref": "EP39:E29",
+        "segment_index": 0,
+        "relative_start_ms": 17400,
+        "relative_end_ms": 18500,
+        "type": "dialogue",
+        "speaker": "CART DRIVER",
+        "text": "\"The road is clear.\""
+      },
+      {
+        "ref": "EP39:E30",
+        "segment_index": 0,
+        "relative_start_ms": 18600,
+        "relative_end_ms": 19600,
+        "type": "dialogue",
+        "speaker": "LOYALIST FIGHTER",
+        "text": "\"Tell the Duke.\""
+      },
+      {
+        "ref": "EP39:E31",
+        "segment_index": 0,
+        "relative_start_ms": 20400,
+        "relative_end_ms": 23200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up framed into a cracked wooden wall mirror reflecting Alexander with long unkempt hair, a thick beard, and combat scars across his cheek."
+      },
+      {
+        "ref": "EP39:E32",
+        "segment_index": 0,
+        "relative_start_ms": 20400,
+        "relative_end_ms": 23200,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander stares solemnly at his rugged reflection, his expression dark and resolute."
+      },
+      {
+        "ref": "EP39:E33",
+        "segment_index": 0,
+        "relative_start_ms": 23200,
+        "relative_end_ms": 26200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tilt-down medium close-up over a wooden table displaying a pristine navy-and-gold embroidered ducal uniform, ornate lion crest brooch, white cravat, razor, and scissors."
+      },
+      {
+        "ref": "EP39:E34",
+        "segment_index": 0,
+        "relative_start_ms": 26200,
+        "relative_end_ms": 30200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium profile shot of Alexander lifting the metal shears beside the window light, raising them toward his hair."
+      },
+      {
+        "ref": "EP39:E35",
+        "segment_index": 0,
+        "relative_start_ms": 26900,
+        "relative_end_ms": 30200,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander snips through his overgrown locks, shedding the years of exile and camouflage."
+      },
+      {
+        "ref": "EP39:E36",
+        "segment_index": 0,
+        "relative_start_ms": 27600,
+        "relative_end_ms": 31200,
+        "type": "sound",
+        "speaker": null,
+        "text": "Rhythmic, metallic snips of heavy shears cutting through thick hair."
+      },
+      {
+        "ref": "EP39:E37",
+        "segment_index": 0,
+        "relative_start_ms": 30200,
+        "relative_end_ms": 31600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as Alexander trims his beard at the jawline."
+      },
+      {
+        "ref": "EP39:E38",
+        "segment_index": 0,
+        "relative_start_ms": 31600,
+        "relative_end_ms": 37000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot framed in the mirror of Alexander now handsomely groomed, his trimmed beard framing his fierce, scarred features."
+      },
+      {
+        "ref": "EP39:E40",
+        "segment_index": 0,
+        "relative_start_ms": 32400,
+        "relative_end_ms": 33200,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Enough hiding.\""
+      },
+      {
+        "ref": "EP39:E39",
+        "segment_index": 0,
+        "relative_start_ms": 32400,
+        "relative_end_ms": 37000,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander lightly traces the jagged combat scar across his cheek, eyes burning with reclaimed power."
+      },
+      {
+        "ref": "EP39:E41",
+        "segment_index": 0,
+        "relative_start_ms": 33400,
+        "relative_end_ms": 35900,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"They buried Alexander Ashwin three years ago.\""
+      },
+      {
+        "ref": "EP39:E42",
+        "segment_index": 0,
+        "relative_start_ms": 36000,
+        "relative_end_ms": 37300,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Today, he comes home.\""
+      },
+      {
+        "ref": "EP39:E43",
+        "segment_index": 0,
+        "relative_start_ms": 37000,
+        "relative_end_ms": 38900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Alexander lifting his royal navy-blue embroidered ducal coat from the wooden bench."
+      },
+      {
+        "ref": "EP39:E44",
+        "segment_index": 0,
+        "relative_start_ms": 38900,
+        "relative_end_ms": 42200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide tracking shot through double wooden barn doors opening outward onto a vast, snow-covered landscape as Alexander steps forward into the light."
+      },
+      {
+        "ref": "EP39:E45",
+        "segment_index": 0,
+        "relative_start_ms": 38900,
+        "relative_end_ms": 42200,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander emerges in full ducal splendor—dressed in an immaculate navy tailcoat lined with gold embroidery, double-breasted brass buttons, and a crisp white cravat."
+      },
+      {
+        "ref": "EP39:E46",
+        "segment_index": 0,
+        "relative_start_ms": 42200,
+        "relative_end_ms": 45200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of Alexander's hand adjusting the ornate golden lion crest pinned at his cravat."
+      },
+      {
+        "ref": "EP39:E47",
+        "segment_index": 0,
+        "relative_start_ms": 45200,
+        "relative_end_ms": 48200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium low-angle shot as a loyalist soldier drops down onto one knee before him in the snow."
+      },
+      {
+        "ref": "EP39:E48",
+        "segment_index": 0,
+        "relative_start_ms": 46200,
+        "relative_end_ms": 47600,
+        "type": "dialogue",
+        "speaker": "LOYALIST",
+        "text": "\"Your Grace.\""
+      },
+      {
+        "ref": "EP39:E49",
+        "segment_index": 0,
+        "relative_start_ms": 48200,
+        "relative_end_ms": 52600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up profile of Alexander, his breath pluming in the winter cold, his eyes hardened like steel."
+      },
+      {
+        "ref": "EP39:E50",
+        "segment_index": 0,
+        "relative_start_ms": 50900,
+        "relative_end_ms": 52600,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Secure the chapel.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_3d4c709012cb38e5",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 15800,
+        "end_ms": 49200,
+        "episode_id": "ep_039"
+      }
+    ],
+    "duration_ms": 33400,
+    "origin": "opp_3",
+    "clip_events": [
+      {
+        "ref": "EP39:E9",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot in a nearby alleyway where two loyalist conspirators huddle beside bundles of hay, discreetly passing a folded message."
+      },
+      {
+        "ref": "EP39:E10",
+        "segment_index": 0,
+        "relative_start_ms": 2200,
+        "relative_end_ms": 6600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close profile two-shot of the two loyalist soldiers watching the cathedral spires in the distance."
+      },
+      {
+        "ref": "EP39:E11",
+        "segment_index": 0,
+        "relative_start_ms": 2500,
+        "relative_end_ms": 4100,
+        "type": "dialogue",
+        "speaker": "LOYALIST SCOUT",
+        "text": "\"Six at the front.\""
+      },
+      {
+        "ref": "EP39:E12",
+        "segment_index": 0,
+        "relative_start_ms": 4400,
+        "relative_end_ms": 6000,
+        "type": "dialogue",
+        "speaker": "LOYALIST FIGHTER",
+        "text": "\"Four more inside.\""
+      },
+      {
+        "ref": "EP39:E13",
+        "segment_index": 0,
+        "relative_start_ms": 6600,
+        "relative_end_ms": 8400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium over-the-shoulder shot of the two men conferring as townsfolk pass in the foreground."
+      },
+      {
+        "ref": "EP39:E14",
+        "segment_index": 0,
+        "relative_start_ms": 6700,
+        "relative_end_ms": 7400,
+        "type": "dialogue",
+        "speaker": "LOYALIST SCOUT",
+        "text": "\"And the east gate?\""
+      },
+      {
+        "ref": "EP39:E15",
+        "segment_index": 0,
+        "relative_start_ms": 7500,
+        "relative_end_ms": 8400,
+        "type": "dialogue",
+        "speaker": "LOYALIST FIGHTER",
+        "text": "\"Ours.\""
+      },
+      {
+        "ref": "EP39:E16",
+        "segment_index": 0,
+        "relative_start_ms": 8400,
+        "relative_end_ms": 13800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide crane shot panning down as a horse-drawn cart loaded with cut firewood pulls up along the wet stone pavement in front of the cathedral steps."
+      },
+      {
+        "ref": "EP39:E17",
+        "segment_index": 0,
+        "relative_start_ms": 8400,
+        "relative_end_ms": 13800,
+        "type": "action",
+        "speaker": null,
+        "text": "A lone driver in rugged attire guides the horse cart slowly toward the sentries guarding the arched entryway."
+      },
+      {
+        "ref": "EP39:E18",
+        "segment_index": 0,
+        "relative_start_ms": 13800,
+        "relative_end_ms": 16600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot of the royal sentry stepping forward and extending a white-gloved hand to halt the cart."
+      },
+      {
+        "ref": "EP39:E19",
+        "segment_index": 0,
+        "relative_start_ms": 14000,
+        "relative_end_ms": 14800,
+        "type": "dialogue",
+        "speaker": "ROYAL SENTRY",
+        "text": "\"Stop!\""
+      },
+      {
+        "ref": "EP39:E20",
+        "segment_index": 0,
+        "relative_start_ms": 15000,
+        "relative_end_ms": 16600,
+        "type": "dialogue",
+        "speaker": "CART DRIVER",
+        "text": "\"Firewood for the kitchens, sir.\""
+      },
+      {
+        "ref": "EP39:E21",
+        "segment_index": 0,
+        "relative_start_ms": 16600,
+        "relative_end_ms": 20700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Fast dynamic medium shot as the cart driver suddenly lunges off the wooden bench."
+      },
+      {
+        "ref": "EP39:E22",
+        "segment_index": 0,
+        "relative_start_ms": 17000,
+        "relative_end_ms": 20700,
+        "type": "action",
+        "speaker": null,
+        "text": "The driver leaps off the cart, striking the sentry across the chest, seizing his neck, and tackling him violently against the wooden carriage wheel."
+      },
+      {
+        "ref": "EP39:E23",
+        "segment_index": 0,
+        "relative_start_ms": 17300,
+        "relative_end_ms": 20200,
+        "type": "sound",
+        "speaker": null,
+        "text": "Dull physical thuds and scuffling boots on wet stone as the guard groans in surprise."
+      },
+      {
+        "ref": "EP39:E24",
+        "segment_index": 0,
+        "relative_start_ms": 20700,
+        "relative_end_ms": 27000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up as a second loyalist emerges from behind the doorway, wrapping his arms around the remaining royal guard's throat from behind."
+      },
+      {
+        "ref": "EP39:E25",
+        "segment_index": 0,
+        "relative_start_ms": 21200,
+        "relative_end_ms": 26700,
+        "type": "action",
+        "speaker": null,
+        "text": "The loyalist locks the sentry into a tight sleeper hold, clamping a hand firmly over his mouth until his eyes roll back and he goes limp."
+      },
+      {
+        "ref": "EP39:E26",
+        "segment_index": 0,
+        "relative_start_ms": 25200,
+        "relative_end_ms": 26400,
+        "type": "dialogue",
+        "speaker": "LOYALIST FIGHTER",
+        "text": "\"Sleep.\""
+      },
+      {
+        "ref": "EP39:E27",
+        "segment_index": 0,
+        "relative_start_ms": 27000,
+        "relative_end_ms": 31000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide high-angle shot overlooking the stone cathedral steps where both royal guards lie unconscious on the fallen autumn leaves while more men slip inside the opened doors."
+      },
+      {
+        "ref": "EP39:E28",
+        "segment_index": 0,
+        "relative_start_ms": 31000,
+        "relative_end_ms": 33400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium low-angle shot of the two loyalist fighters looking up into the overcast sky outside the stone sanctuary."
+      },
+      {
+        "ref": "EP39:E29",
+        "segment_index": 0,
+        "relative_start_ms": 31200,
+        "relative_end_ms": 32300,
+        "type": "dialogue",
+        "speaker": "CART DRIVER",
+        "text": "\"The road is clear.\""
+      },
+      {
+        "ref": "EP39:E30",
+        "segment_index": 0,
+        "relative_start_ms": 32400,
+        "relative_end_ms": 33400,
+        "type": "dialogue",
+        "speaker": "LOYALIST FIGHTER",
+        "text": "\"Tell the Duke.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_e65480595f10cc66",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 74800,
+        "end_ms": 98000,
+        "episode_id": "ep_039"
+      }
+    ],
+    "duration_ms": 23200,
+    "origin": "opp_4",
+    "clip_events": [
+      {
+        "ref": "EP39:E47",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 3000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium low-angle shot as a loyalist soldier drops down onto one knee before him in the snow."
+      },
+      {
+        "ref": "EP39:E48",
+        "segment_index": 0,
+        "relative_start_ms": 1000,
+        "relative_end_ms": 2400,
+        "type": "dialogue",
+        "speaker": "LOYALIST",
+        "text": "\"Your Grace.\""
+      },
+      {
+        "ref": "EP39:E49",
+        "segment_index": 0,
+        "relative_start_ms": 3000,
+        "relative_end_ms": 7700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up profile of Alexander, his breath pluming in the winter cold, his eyes hardened like steel."
+      },
+      {
+        "ref": "EP39:E50",
+        "segment_index": 0,
+        "relative_start_ms": 5700,
+        "relative_end_ms": 7400,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Secure the chapel.\""
+      },
+      {
+        "ref": "EP39:E51",
+        "segment_index": 0,
+        "relative_start_ms": 7700,
+        "relative_end_ms": 10400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the soldier rising and snapping a crisp military salute."
+      },
+      {
+        "ref": "EP39:E52",
+        "segment_index": 0,
+        "relative_start_ms": 9000,
+        "relative_end_ms": 10400,
+        "type": "dialogue",
+        "speaker": "LOYALIST",
+        "text": "\"Yes, Your Grace.\""
+      },
+      {
+        "ref": "EP39:E53",
+        "segment_index": 0,
+        "relative_start_ms": 10400,
+        "relative_end_ms": 20200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Slow dramatic tracking shot moving backward in front of Alexander as he strides purposefully through the deep snow, the wooden chapel looming in the distance behind him."
+      },
+      {
+        "ref": "EP39:E54",
+        "segment_index": 0,
+        "relative_start_ms": 10700,
+        "relative_end_ms": 12400,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"No more hiding.\""
+      },
+      {
+        "ref": "EP39:E55",
+        "segment_index": 0,
+        "relative_start_ms": 12700,
+        "relative_end_ms": 15400,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"I am taking back my house.\""
+      },
+      {
+        "ref": "EP39:E56",
+        "segment_index": 0,
+        "relative_start_ms": 15400,
+        "relative_end_ms": 20200,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander marches forward unstoppably, his long coat fluttering in the winter wind as his icy gaze locks forward."
+      },
+      {
+        "ref": "EP39:E58",
+        "segment_index": 0,
+        "relative_start_ms": 20200,
+        "relative_end_ms": 23200,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"And I am bringing my wife home.\""
+      },
+      {
+        "ref": "EP39:E57",
+        "segment_index": 0,
+        "relative_start_ms": 20200,
+        "relative_end_ms": 23200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Dramatic push-in close-up directly onto Alexander's scarred, fierce face as he speaks with absolute conviction."
+      },
+      {
+        "ref": "EP39:E59",
+        "segment_index": 0,
+        "relative_start_ms": 23000,
+        "relative_end_ms": 23200,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander's eyes burn with furious determination as the screen cuts sharply to black."
+      }
+    ]
+  }
+]

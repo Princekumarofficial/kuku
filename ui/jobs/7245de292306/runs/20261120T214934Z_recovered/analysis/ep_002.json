@@ -1,0 +1,265 @@
+{
+  "episode_id": "ep_002",
+  "summary": "Episode ep_002 (EP=ep_002, scene sc_001, 0-110000 ms, cathedral) shows Juliana publicly rejected at the altar by Gerald, who chooses Clarissa, and then rebuked by her father, Clarissa and a matriarch before she turns the humiliation into a public accusation against Gerald. Only the EP02:E1-EP02:E74 event text is treated as on-screen evidence. The metadata logline and continuity note, including the claim that this picks up from Episode 1's cliffhanger, are unverified and not used as evidence. Identities are uncertain: Gerald is inferred from camera directions naming him, Clarissa from E33 and E2, and the speaker labelled THE FORMER GROOM is taken as Gerald. The father is seen in E22-E27 but the BLOND NOBLEMAN speaker at E28 and E30 is only probably him, and the matriarch's off-screen voice at E48 and E50 is not confirmed as hers. Several speaker tags are malformed (for example '[Off-screen)'), and the tags were read as off-screen indicators without altering the dialogue. Juliana's claims about Clarissa's promises and Gerald's prior word are her own assertions and are not verified by on-screen events.",
+  "characters": [
+    {
+      "name": "Juliana",
+      "role": "Jilted bride and protagonist; speaks as LADY JULIANA; addressed as sister by Clarissa in EP02:E34"
+    },
+    {
+      "name": "Gerald",
+      "role": "Former groom who publicly rejects Juliana for Clarissa; speaks as THE FORMER GROOM"
+    },
+    {
+      "name": "Clarissa",
+      "role": "Juliana's sister who marries Gerald's place at the altar; speaks as LADY IN GOLD GOWN"
+    },
+    {
+      "name": "Father (unnamed)",
+      "role": "Juliana's father in the family pew who sides against her; identity as BLOND NOBLEMAN speaker is uncertain"
+    },
+    {
+      "name": "Matriarch (unnamed)",
+      "role": "Black-velvet-gowned older woman who scolds Juliana; off-screen voice attribution uncertain"
+    }
+  ],
+  "beats": [
+    {
+      "id": "b01",
+      "kind": "public_rejection",
+      "event_refs": [
+        "EP02:E1",
+        "EP02:E2"
+      ],
+      "description": "Gerald, at the altar steps with Clarissa behind him, tells Juliana he cannot marry her.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b02",
+      "kind": "cruel_insults",
+      "event_refs": [
+        "EP02:E5",
+        "EP02:E6",
+        "EP02:E7",
+        "EP02:E8",
+        "EP02:E9",
+        "EP02:E10"
+      ],
+      "description": "Gerald insults Juliana as plain, silent and beneath him while Clarissa smiles at him.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "b03",
+      "kind": "plea_rejected",
+      "event_refs": [
+        "EP02:E11",
+        "EP02:E12",
+        "EP02:E13",
+        "EP02:E14",
+        "EP02:E15",
+        "EP02:E16"
+      ],
+      "description": "Juliana steps forward and pleads with Gerald, reminding him of his word before both families; he remains cold and unmoved.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b04",
+      "kind": "justification_of_betrayal",
+      "event_refs": [
+        "EP02:E17",
+        "EP02:E18",
+        "EP02:E19",
+        "EP02:E20",
+        "EP02:E21"
+      ],
+      "description": "Gerald says promises change when a better choice appears and that Clarissa is what he should have chosen from the start.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "b05",
+      "kind": "family_rejection",
+      "event_refs": [
+        "EP02:E22",
+        "EP02:E23",
+        "EP02:E24",
+        "EP02:E25",
+        "EP02:E26",
+        "EP02:E27",
+        "EP02:E28",
+        "EP02:E29",
+        "EP02:E30",
+        "EP02:E31",
+        "EP02:E32"
+      ],
+      "description": "Juliana appeals to her father in the family pew, who refuses to intervene and tells her to accept it and not disgrace them further.",
+      "intensity_0_10": 9.0
+    },
+    {
+      "id": "b06",
+      "kind": "sister_mockery",
+      "event_refs": [
+        "EP02:E33",
+        "EP02:E34",
+        "EP02:E35",
+        "EP02:E36",
+        "EP02:E37",
+        "EP02:E38",
+        "EP02:E39",
+        "EP02:E40",
+        "EP02:E41",
+        "EP02:E42",
+        "EP02:E43",
+        "EP02:E44",
+        "EP02:E45"
+      ],
+      "description": "Clarissa mocks Juliana's gown, appearance and dead mother's apothecary, while Juliana's tearful expression hardens into indignation.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b07",
+      "kind": "matriarch_scolding",
+      "event_refs": [
+        "EP02:E46",
+        "EP02:E47",
+        "EP02:E48",
+        "EP02:E49",
+        "EP02:E50"
+      ],
+      "description": "A matriarch in black velvet confronts Juliana in the aisle and tells her to be grateful she is allowed to attend.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b08",
+      "kind": "dismissal_and_expulsion",
+      "event_refs": [
+        "EP02:E51",
+        "EP02:E52",
+        "EP02:E53"
+      ],
+      "description": "Gerald gestures Juliana toward the exit and tells her to go home with some dignity; she turns back toward the altar.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b09",
+      "kind": "turning_point_defiance",
+      "event_refs": [
+        "EP02:E54",
+        "EP02:E55",
+        "EP02:E56",
+        "EP02:E57",
+        "EP02:E58",
+        "EP02:E59",
+        "EP02:E60",
+        "EP02:E61",
+        "EP02:E62",
+        "EP02:E63"
+      ],
+      "description": "Juliana's pain turns into a defiant smile; she stands tall, accuses Gerald of abandoning a woman who trusted him for a promise of beauty and wealth, and warns him not to mistake her heartbreak for his victory.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "b10",
+      "kind": "public_indictment",
+      "event_refs": [
+        "EP02:E64",
+        "EP02:E65",
+        "EP02:E66",
+        "EP02:E67",
+        "EP02:E68",
+        "EP02:E69",
+        "EP02:E70",
+        "EP02:E71",
+        "EP02:E72",
+        "EP02:E73",
+        "EP02:E74"
+      ],
+      "description": "Juliana tells the congregation that Gerald's conduct has shown them what his word is worth, leaves Gerald frozen, and closes with a proud statement that she will not leave believing she should be ashamed.",
+      "intensity_0_10": 9.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "r01",
+      "event_refs": [
+        "EP02:E17",
+        "EP02:E21"
+      ],
+      "claim": "Gerald says he has replaced Juliana with Clarissa as a better choice, implying he now prefers her.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "Why did Gerald change his choice?",
+        "Was the switch to Clarissa planned before the wedding?"
+      ]
+    },
+    {
+      "id": "r02",
+      "event_refs": [
+        "EP02:E59"
+      ],
+      "claim": "Juliana asserts that Clarissa promised Gerald greater beauty and wealth; this is her accusation and is not independently shown on screen.",
+      "spoiler_significance_0_10": 5.0,
+      "creates_questions": [
+        "Is Juliana's claim about Clarissa's promises true?"
+      ]
+    },
+    {
+      "id": "r03",
+      "event_refs": [
+        "EP02:E28",
+        "EP02:E30"
+      ],
+      "claim": "Juliana's father, or the BLOND NOBLEMAN speaker, tells her to accept Gerald's choice and not disgrace the family.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "Will the family reconcile with Juliana?",
+        "Is the BLOND NOBLEMAN the father?"
+      ]
+    },
+    {
+      "id": "r04",
+      "event_refs": [
+        "EP02:E15"
+      ],
+      "claim": "Juliana says Gerald gave his word before both families, establishing a prior engagement commitment.",
+      "spoiler_significance_0_10": 4.0,
+      "creates_questions": [
+        "What exactly did Gerald promise before both families?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "Why did Gerald break his word and choose Clarissa?",
+      "introduced_by": [
+        "EP02:E17",
+        "EP02:E21"
+      ]
+    },
+    {
+      "question": "Is Juliana's accusation that Clarissa offered greater beauty and wealth true?",
+      "introduced_by": [
+        "EP02:E59"
+      ]
+    },
+    {
+      "question": "What is the significance of the heirloom amethyst pendant Juliana holds?",
+      "introduced_by": [
+        "EP02:E14"
+      ]
+    },
+    {
+      "question": "Will Juliana's father or the rest of her family reconcile with her?",
+      "introduced_by": [
+        "EP02:E26",
+        "EP02:E30"
+      ]
+    },
+    {
+      "question": "Who is the matriarch and what is her stance on the scandal?",
+      "introduced_by": [
+        "EP02:E46",
+        "EP02:E48"
+      ]
+    }
+  ]
+}

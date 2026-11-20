@@ -1,0 +1,247 @@
+{
+  "episode_id": "ep_022",
+  "summary": "Lady Juliana disguises herself as a maid with Prudence to enter Ashbury Manor (spelled Ashburton once in E9; treated as the same location) and reaches the Dowager Duchess's bedchamber in the West Wing. On screen she finds the Duchess gravely ill and says 'This isn't ordinary fever' (EP22:E75), then asks who has been treating her (EP22:E79). Uncertainty: source coverage is incomplete for sc_001 and sc_002 and gaps are unavailable; source warning 'Line 102: Event interval outside scene' is unresolved and its affected event is not identified; E9 dialogue is cut off mid-sentence; 'Julian' (EP22:E27, housekeeper's address) is treated as an alias for Lady Juliana; 'Toby' (EP22:E13) and Lady Catherine/Lord Rupert (EP22:E9) appear only as mentions. Metadata (logline and continuity notes) is not on-screen evidence and is not used for claims here; it describes the illness as poisoned and says Episode 21 revealed the Duchess is dying, which is not verified on screen. Poisoning is not explicitly confirmed on screen; E80 only describes 'the haunting realization of poison' in a camera note.",
+  "characters": [
+    {
+      "name": "Lady Juliana",
+      "role": "Protagonist; aristocrat disguised as a maid ('Julian') who infiltrates Ashbury Manor to help the Duchess; has herbalist instincts"
+    },
+    {
+      "name": "Prudence",
+      "role": "Insider servant who helps Juliana enter the manor and warns her of risks"
+    },
+    {
+      "name": "Housekeeper",
+      "role": "Stern authority figure who tests Juliana and questions her suitability; unnamed on screen"
+    },
+    {
+      "name": "Dowager Duchess",
+      "role": "Gravely ill patient in the West Wing bedchamber; unnamed on screen beyond title"
+    },
+    {
+      "name": "Lady Catherine",
+      "role": "Mentioned by Prudence as someone who watches everyone (EP22:E9); not seen on screen"
+    },
+    {
+      "name": "Lord Rupert",
+      "role": "Mentioned by Prudence, dialogue cut off (EP22:E9); not seen on screen"
+    },
+    {
+      "name": "Toby",
+      "role": "Mentioned by Juliana as someone she saved (EP22:E13); not seen on screen"
+    }
+  ],
+  "beats": [
+    {
+      "id": "B1",
+      "kind": "setup",
+      "event_refs": [
+        "EP22:E1",
+        "EP22:E2",
+        "EP22:E3",
+        "EP22:E4",
+        "EP22:E5",
+        "EP22:E6",
+        "EP22:E7",
+        "EP22:E8",
+        "EP22:E9",
+        "EP22:E10",
+        "EP22:E11",
+        "EP22:E12",
+        "EP22:E13",
+        "EP22:E14",
+        "EP22:E15",
+        "EP22:E16",
+        "EP22:E17",
+        "EP22:E18",
+        "EP22:E19",
+        "EP22:E20",
+        "EP22:E21",
+        "EP22:E22"
+      ],
+      "description": "Juliana and Prudence stand in the service courtyard; Prudence warns of the watchful staff and Juliana insists the Duchess is dying and that she must act, then they enter the servant door.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "B2",
+      "kind": "tension_test",
+      "event_refs": [
+        "EP22:E23",
+        "EP22:E24",
+        "EP22:E25",
+        "EP22:E26",
+        "EP22:E27",
+        "EP22:E28",
+        "EP22:E29",
+        "EP22:E30",
+        "EP22:E31",
+        "EP22:E32",
+        "EP22:E33",
+        "EP22:E34",
+        "EP22:E35",
+        "EP22:E36",
+        "EP22:E37",
+        "EP22:E38",
+        "EP22:E39",
+        "EP22:E40",
+        "EP22:E41",
+        "EP22:E42",
+        "EP22:E43",
+        "EP22:E44",
+        "EP22:E45",
+        "EP22:E46",
+        "EP22:E47"
+      ],
+      "description": "The Housekeeper questions and tests the disguised Juliana, who answers meekly and is hired for work, with a warning against eyes and ears wandering.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "B3",
+      "kind": "relief_and_setup",
+      "event_refs": [
+        "EP22:E48",
+        "EP22:E49",
+        "EP22:E50",
+        "EP22:E51",
+        "EP22:E52",
+        "EP22:E53"
+      ],
+      "description": "After the Housekeeper leaves, Prudence expresses relief and Juliana asks for the West Wing; Prudence points toward the grand staircase and warns few servants go there.",
+      "intensity_0_10": 4.0
+    },
+    {
+      "id": "B4",
+      "kind": "transition",
+      "event_refs": [
+        "EP22:E54",
+        "EP22:E55",
+        "EP22:E56",
+        "EP22:E57",
+        "EP22:E58",
+        "EP22:E59",
+        "EP22:E60",
+        "EP22:E61"
+      ],
+      "description": "Juliana crosses the grand hall, is awed by the portrait of the late Duke and Duchess, and Prudence urges her to keep moving toward the West Wing.",
+      "intensity_0_10": 4.0
+    },
+    {
+      "id": "B5",
+      "kind": "infiltration",
+      "event_refs": [
+        "EP22:E62",
+        "EP22:E63",
+        "EP22:E64",
+        "EP22:E65",
+        "EP22:E66",
+        "EP22:E67",
+        "EP22:E68"
+      ],
+      "description": "Juliana checks the empty hallway, enters the Duchess's bedchamber, and locks the door behind her, finding a frail figure in the bed with labored breathing.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "B6",
+      "kind": "discovery",
+      "event_refs": [
+        "EP22:E69",
+        "EP22:E70",
+        "EP22:E71",
+        "EP22:E72",
+        "EP22:E73",
+        "EP22:E74",
+        "EP22:E75"
+      ],
+      "description": "Juliana addresses the Duchess, examines her pulse, and realizes the illness is not an ordinary fever.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "B7",
+      "kind": "cliffhanger",
+      "event_refs": [
+        "EP22:E76",
+        "EP22:E77",
+        "EP22:E78",
+        "EP22:E79",
+        "EP22:E80"
+      ],
+      "description": "The Duchess convulses and gasps; Juliana demands to know who has been treating her, and the episode ends on a suspenseful music cue as the Duchess chokes for air.",
+      "intensity_0_10": 9.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "R1",
+      "event_refs": [
+        "EP22:E11",
+        "EP22:E13"
+      ],
+      "claim": "Juliana states the Duchess is dying and that she has saved someone before (Toby) and can save the Duchess.",
+      "spoiler_significance_0_10": 3.0,
+      "creates_questions": [
+        "What illness is affecting the Duchess?",
+        "Who is Toby and how was he saved?"
+      ]
+    },
+    {
+      "id": "R2",
+      "event_refs": [
+        "EP22:E75"
+      ],
+      "claim": "Juliana states on screen that the Duchess's illness is not an ordinary fever.",
+      "spoiler_significance_0_10": 7.0,
+      "creates_questions": [
+        "What is causing the Duchess's illness?",
+        "Is the illness deliberately caused?"
+      ]
+    },
+    {
+      "id": "R3",
+      "event_refs": [
+        "EP22:E79",
+        "EP22:E80"
+      ],
+      "claim": "Juliana asks who has been treating the Duchess and the camera note describes a realization of poison; the on-screen dialogue does not name a treating person.",
+      "spoiler_significance_0_10": 8.0,
+      "creates_questions": [
+        "Who has been treating the Duchess?",
+        "Is the Duchess being poisoned by her caretaker or someone else?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "What illness or poison is affecting the Dowager Duchess?",
+      "introduced_by": [
+        "EP22:E75",
+        "EP22:E80"
+      ]
+    },
+    {
+      "question": "Who has been treating the Dowager Duchess?",
+      "introduced_by": [
+        "EP22:E79"
+      ]
+    },
+    {
+      "question": "Will Lady Juliana's disguise be discovered by the Housekeeper, Lady Catherine, or Lord Rupert?",
+      "introduced_by": [
+        "EP22:E9",
+        "EP22:E15",
+        "EP22:E46"
+      ]
+    },
+    {
+      "question": "Who is Toby and what did Juliana do to save him?",
+      "introduced_by": [
+        "EP22:E13"
+      ]
+    },
+    {
+      "question": "What role do Lady Catherine and Lord Rupert play in the manor?",
+      "introduced_by": [
+        "EP22:E9"
+      ]
+    }
+  ]
+}

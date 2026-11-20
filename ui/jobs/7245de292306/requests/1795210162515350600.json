@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_6ab2f746a4640b80 DURATION_MS=34900\nSEGMENT 1 (playback order)\nEP29:E5 0-2300 CAMERA: Medium low-angle shot of Catherine standing regally under an arched stone doorway, clutching the leather-bound herbarium.\nEP29:E6 2300-6600 CAMERA: Tight close-up of Juliana's tearful face as she reaches an arm out toward Catherine in anguish.\nEP29:E7 2300-6600 JULIANA: \"Catherine! Please! That book is my mother's only legacy!\"\nEP29:E8 6600-8100 CAMERA: Medium shot from behind Catherine as she stands motionless, watching Juliana being dragged away.\nEP29:E9 8100-12200 CAMERA: Close-up of Juliana turning her head back toward Catherine, screaming through tears.\nEP29:E10 8100-12200 JULIANA: \"It contains years of her work! Her knowledge! Everything she left me!\"\nEP29:E11 12200-15000 CAMERA: Full shot of Catherine turning gracefully on the dungeon steps, holding the book loosely at her side.\nEP29:E12 15000-21700 CAMERA: Medium close-up pushing in on Catherine as she presents the worn botanical book with both gloved hands.\nEP29:E13 15900-18900 CATHERINE: \"Your mother's little book of weeds?\"\nEP29:E14 19700-21600 CATHERINE: \"You still call this a legacy?\"\nEP29:E15 21700-23800 CAMERA: Close-up of Juliana held firmly between the guards, glaring back with fierce defiance.\nEP29:E16 22000-23600 JULIANA: \"It is medicine!\"\nEP29:E17 23800-26800 CAMERA: Medium close-up of Catherine smiling condescendingly.\nEP29:E18 25300-26700 CATHERINE: \"Of course.\"\nEP29:E20 26800-32200 CATHERINE: \"Roots. Leaves. Powders. Strange mixtures written in a dead woman's hand.\"\nEP29:E19 26800-32300 CAMERA: Overhead close-up of Catherine's gloved fingers flipping through the herbarium's delicate, hand-drawn floral remedies and annotations.\nEP29:E21 32300-34900 CAMERA: Medium shot of Catherine tucking the book under her arm, her eyes glinting with malicious intent.\nEP29:E22 32600-34900 CATHERINE: \"The magistrate will call it witchcraft.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

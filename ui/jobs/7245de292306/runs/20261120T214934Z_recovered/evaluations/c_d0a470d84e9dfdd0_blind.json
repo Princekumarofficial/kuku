@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_d0a470d84e9dfdd0",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP41:E25",
+      "EP41:E26",
+      "EP41:E34"
+    ],
+    "reason": "The opening shows a proud, chained woman confronting sneering onlookers and Catherine's public taunt, which creates immediate tension. The sharpest line, Juliana's retort at 18200ms, falls after the first 3000ms, so the strongest hook evidence starts late."
+  },
+  "cliffhanger": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP41:E52",
+      "EP41:E53"
+    ],
+    "reason": "The clip ends on an abrupt cut as armed figures emerge from the breached doorway and Juliana's expression shifts to hope. Whether they are rescuers or threats is never shown, so the moment is unresolved at the end, not a resolved intense scene.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Who Juliana Ashcroft is and why she is chained",
+      "Why Catherine and Rupert are at the altar and what the Ashburgh title means",
+      "The relationship between Catherine, Rupert, and Juliana",
+      "Who the armed figures are and who caused the explosion",
+      "Who the blond nobleman and the priest are in relation to the plot"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Juliana's defiance, Catherine's venom, the sudden explosion, and the final swell of awe and hope create strong emotional shifts, though the viewer lacks the background to feel the stakes fully."
+  },
+  "weaknesses": [
+    "Without prior context, the chained captive's identity and stakes are unclear",
+    "The ambulatory wedding-plot references (Ashburgh title) are unexplained",
+    "The explosion's cause and the attackers' identity are unknown, so the final turn lacks grounding",
+    "Hook strongest line appears after the first 3 seconds"
+  ],
+  "one_line_why_it_works": "A defiant chained woman faces a triumphant rival, then a sudden explosion and an ambiguous armed entrance leave the viewer hanging on Juliana's hopeful turn."
+}

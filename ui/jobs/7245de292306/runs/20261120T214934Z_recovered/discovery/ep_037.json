@@ -1,0 +1,71 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "opp_01",
+      "episode_id": "ep_037",
+      "concept": "Rupert and Catherine announce that Juliana's execution follows the wedding, and Clarissa's household reads the invitation with growing relish until the nobleman asks 'To whom?'",
+      "hook_refs": [
+        "EP37:E14"
+      ],
+      "ending_refs": [
+        "EP37:E44"
+      ],
+      "context_refs": [
+        "EP37:E36",
+        "EP37:E40"
+      ],
+      "why_promising": "The hook states a stark, self-contained threat within 50 seconds of coverage, and the ending asks an open question. The span is 50400 ms, within the 20000-60000 ms range, and all anchors and context sit inside the 0-156470 ms coverage."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_02",
+      "episode_id": "ep_037",
+      "concept": "Starved and shackled in the dungeon, Juliana vows that hunger and fear will not break her, then grips the iron ring with determination.",
+      "hook_refs": [
+        "EP37:E54"
+      ],
+      "ending_refs": [
+        "EP37:E62"
+      ],
+      "context_refs": [
+        "EP37:E57",
+        "EP37:E60"
+      ],
+      "why_promising": "The hook is a direct line of defiance that carries emotional stakes. The ending is a physical action that stays unresolved. The 20500 ms span is within range, and the context lines fall within the clip."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_03",
+      "episode_id": "ep_037",
+      "concept": "The nobleman asks whether Juliana will really be executed, and Clarissa dismisses the doubt before the open execution clause and cello sting close the scene.",
+      "hook_refs": [
+        "EP37:E65"
+      ],
+      "ending_refs": [
+        "EP37:E78"
+      ],
+      "context_refs": [
+        "EP37:E67"
+      ],
+      "why_promising": "The hook is a question that works without prior context. The ending is the unresolved cliffhanger on the execution clause. The 39270 ms span is within range and the context reply is inside the clip."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_04",
+      "episode_id": "ep_037",
+      "concept": "Clarissa reads the second page of the invitation and reveals a public sentencing, then frames the execution as a warning to every woman who rises above her place.",
+      "hook_refs": [
+        "EP37:E36"
+      ],
+      "ending_refs": [
+        "EP37:E46"
+      ],
+      "context_refs": [
+        "EP37:E38",
+        "EP37:E40"
+      ],
+      "why_promising": "The hook announces a sentencing with immediate stakes, and the ending gives an unresolved warning that targets women. The 23000 ms span is within range and the context lines fall inside the clip."
+    }
+  ]
+}

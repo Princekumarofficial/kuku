@@ -1,0 +1,1087 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "ep_013",
+  "episode_number": 13,
+  "metadata": {
+    "logline": "Defying Alexander's desperate pleas, Juliana crawls barehanded into the razor-sharp blackthorn garden, enduring brutal lacerations under Clarissa and Gerald's cruel taunts until she unearths the lost emerald signet ring.",
+    "continuity_notes": "Picks up immediately from Episode 12's climax where Juliana demanded to know where the frozen blackthorn garden was located to save Alexander from the gallows."
+  },
+  "source": {
+    "file": "012_episode-013-Episode 1671715.txt",
+    "sha256": "b0880fe2f19304409a390837761474a741e366a571f3435abdb40c74a7929a18",
+    "complete": true
+  },
+  "scenes": [
+    {
+      "start_ms": 0,
+      "end_ms": 45800,
+      "id": "sc_001",
+      "heading": "EXT. MANOR GROUNDS - BLACKTHORN GARDEN – DUSK"
+    },
+    {
+      "start_ms": 45800,
+      "end_ms": 118880,
+      "id": "sc_002",
+      "heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+    }
+  ],
+  "events": [
+    {
+      "start_ms": 0,
+      "end_ms": 4200,
+      "id": "e_001",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle macro shot tracking through an impenetrable, menacing thicket of frozen blackthorn briars encrusted with frost.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        14,
+        16
+      ]
+    },
+    {
+      "start_ms": 0,
+      "end_ms": 4000,
+      "id": "e_002",
+      "scene_id": "sc_001",
+      "type": "sound",
+      "text": "Whistling winter wind and an ominous low brass drone.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        18,
+        20
+      ]
+    },
+    {
+      "start_ms": 4200,
+      "end_ms": 7000,
+      "id": "e_003",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Wide shot looking down from the stone terrace. Gerald and Clarissa stand elevated on the balustrade, while Juliana, Alexander in handcuffs, and the Constable stand before the dense briar garden.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        22,
+        24
+      ]
+    },
+    {
+      "start_ms": 5100,
+      "end_ms": 7000,
+      "id": "e_004",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Alexander turns toward Juliana, his manacled hands trembling as he grips her arm.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        26,
+        28
+      ]
+    },
+    {
+      "start_ms": 5400,
+      "end_ms": 10200,
+      "id": "e_005",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Juliana, look at those thorns. You cannot do this.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Pleading, Agonized",
+      "source_lines": [
+        30,
+        32
+      ]
+    },
+    {
+      "start_ms": 7000,
+      "end_ms": 10800,
+      "id": "e_006",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Alexander and Juliana facing each other, his chained wrists held between them.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        34,
+        36
+      ]
+    },
+    {
+      "start_ms": 10800,
+      "end_ms": 14200,
+      "id": "e_007",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on Juliana's hooded face, her eyes filled with resolute sorrow.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        38,
+        40
+      ]
+    },
+    {
+      "start_ms": 12400,
+      "end_ms": 13800,
+      "id": "e_008",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I must.\"",
+      "speaker": "JULIANA",
+      "delivery": "Quiet, Unwavering",
+      "source_lines": [
+        42,
+        44
+      ]
+    },
+    {
+      "start_ms": 14200,
+      "end_ms": 18800,
+      "id": "e_009",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on Alexander, his combat scar stark against his pained expression.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        46,
+        48
+      ]
+    },
+    {
+      "start_ms": 14400,
+      "end_ms": 17300,
+      "id": "e_010",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"They will tear your hands apart.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Terrified for Her",
+      "source_lines": [
+        50,
+        52
+      ]
+    },
+    {
+      "start_ms": 18800,
+      "end_ms": 21000,
+      "id": "e_011",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle shot looking up at Gerald and Clarissa leaning over the stone balustrade, smirking down with cruel amusement.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        54,
+        56
+      ]
+    },
+    {
+      "start_ms": 21000,
+      "end_ms": 24200,
+      "id": "e_012",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana looking up into Alexander's eyes with tender courage.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        58,
+        60
+      ]
+    },
+    {
+      "start_ms": 22000,
+      "end_ms": 23900,
+      "id": "e_013",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I will be fine.\"",
+      "speaker": "JULIANA",
+      "delivery": "Soft, Reassuring",
+      "source_lines": [
+        62,
+        64
+      ]
+    },
+    {
+      "start_ms": 24200,
+      "end_ms": 28400,
+      "id": "e_014",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I would rather face the gallows than watch you hurt yourself for me.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Desperate, Fierce",
+      "source_lines": [
+        66,
+        68
+      ]
+    },
+    {
+      "start_ms": 24200,
+      "end_ms": 28500,
+      "id": "e_015",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Two-shot framing Alexander leaning down toward Juliana, fighting against his bonds.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        70,
+        72
+      ]
+    },
+    {
+      "start_ms": 28500,
+      "end_ms": 29900,
+      "id": "e_016",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Gerald chuckling smugly on the terrace above, crossing his arms.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        74,
+        76
+      ]
+    },
+    {
+      "start_ms": 29900,
+      "end_ms": 36800,
+      "id": "e_017",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Tight close-up of Juliana gently clasping Alexander's handcuffed hands, gazing up at him with unyielding love.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        78,
+        80
+      ]
+    },
+    {
+      "start_ms": 30800,
+      "end_ms": 35800,
+      "id": "e_018",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You stood beside me when everyone else abandoned me. I will not abandon you now.\"",
+      "speaker": "JULIANA",
+      "delivery": "Emotional, Devoted",
+      "source_lines": [
+        82,
+        84
+      ]
+    },
+    {
+      "start_ms": 36200,
+      "end_ms": 39500,
+      "id": "e_019",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana releases his hands and turns toward the briar thicket. Alexander stretches out his chained hands, attempting to hold her back, but the Constable restrains him.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        86,
+        88
+      ]
+    },
+    {
+      "start_ms": 36800,
+      "end_ms": 39800,
+      "id": "e_020",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot behind Juliana as she walks toward the vast expanse of frozen briars.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        90,
+        92
+      ]
+    },
+    {
+      "start_ms": 37000,
+      "end_ms": 38200,
+      "id": "e_021",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Careful, sister.\"",
+      "speaker": "CLARISSA",
+      "delivery": "O.S.) (Mocking, Vindictive",
+      "source_lines": [
+        94,
+        96
+      ]
+    },
+    {
+      "start_ms": 39800,
+      "end_ms": 41600,
+      "id": "e_022",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle shot of Clarissa smirking down over the carved stone balustrade.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        98,
+        100
+      ]
+    },
+    {
+      "start_ms": 39900,
+      "end_ms": 41500,
+      "id": "e_023",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"That garden has swallowed better women than you.\"",
+      "speaker": "CLARISSA",
+      "delivery": "Cruel, Sarcastic",
+      "source_lines": [
+        102,
+        104
+      ]
+    },
+    {
+      "start_ms": 41600,
+      "end_ms": 45800,
+      "id": "e_024",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Gerald leaning against the balcony beside Clarissa, wearing an arrogant smirk.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        106,
+        108
+      ]
+    },
+    {
+      "start_ms": 41800,
+      "end_ms": 45500,
+      "id": "e_025",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Perhaps the beggar's wife will finally learn what her new life is worth.\"",
+      "speaker": "GERALD",
+      "delivery": "Condescending, Arrogant",
+      "source_lines": [
+        110,
+        112
+      ]
+    },
+    {
+      "start_ms": 45800,
+      "end_ms": 47000,
+      "id": "e_026",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "Juliana drops to her knees in front of the frozen blackthorn branches, steadying her trembling breath.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        121,
+        123
+      ]
+    },
+    {
+      "start_ms": 45800,
+      "end_ms": 47000,
+      "id": "e_027",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium shot of Juliana kneeling on the frozen soil at the edge of the briars.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        125,
+        127
+      ]
+    },
+    {
+      "start_ms": 47000,
+      "end_ms": 50000,
+      "id": "e_028",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium shot of Alexander lunging forward with chained hands raised high, roaring in fury as the Constable grabs him.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        129,
+        131
+      ]
+    },
+    {
+      "start_ms": 47200,
+      "end_ms": 48800,
+      "id": "e_029",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Juliana, stop!\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Screaming, Panicked",
+      "source_lines": [
+        133,
+        135
+      ]
+    },
+    {
+      "start_ms": 47800,
+      "end_ms": 49200,
+      "id": "e_030",
+      "scene_id": "sc_002",
+      "type": "sound",
+      "text": "Rattling of heavy iron chains.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        137,
+        139
+      ]
+    },
+    {
+      "start_ms": 50000,
+      "end_ms": 53000,
+      "id": "e_031",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "Juliana crawls forward on all fours, lowering her head under the jagged, arching thorns.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        141,
+        143
+      ]
+    },
+    {
+      "start_ms": 50000,
+      "end_ms": 52000,
+      "id": "e_032",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Eye-level shot looking through the thorny thicket at Juliana crawling deeper into the briars.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        145,
+        147
+      ]
+    },
+    {
+      "start_ms": 51500,
+      "end_ms": 52600,
+      "id": "e_033",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Please...\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Strangled, Weeping",
+      "source_lines": [
+        149,
+        151
+      ]
+    },
+    {
+      "start_ms": 52000,
+      "end_ms": 53500,
+      "id": "e_034",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Extreme close-up of Alexander's anguished face as he strains furiously against his handcuffs.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        153,
+        155
+      ]
+    },
+    {
+      "start_ms": 53500,
+      "end_ms": 56000,
+      "id": "e_035",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Ground-level shot of Juliana's bare hands reaching out onto the cracked, frozen ground.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        157,
+        159
+      ]
+    },
+    {
+      "start_ms": 54000,
+      "end_ms": 56500,
+      "id": "e_036",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "Sharp blackthorn spines rake across Juliana's fingers and knuckles, carving bloody gashes across her skin.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        161,
+        163
+      ]
+    },
+    {
+      "start_ms": 54500,
+      "end_ms": 55800,
+      "id": "e_037",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"No...\"",
+      "speaker": "JULIANA",
+      "delivery": "Gasping in Pain",
+      "source_lines": [
+        165,
+        167
+      ]
+    },
+    {
+      "start_ms": 56000,
+      "end_ms": 58200,
+      "id": "e_038",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Extreme close-up of Juliana's hand scraping against the frost-covered stone, bright red blood welling from deep puncture wounds.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        169,
+        171
+      ]
+    },
+    {
+      "start_ms": 57200,
+      "end_ms": 58600,
+      "id": "e_039",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Look at her hands.\"",
+      "speaker": "CLARISSA",
+      "delivery": "O.S.) (Gleeful, Derisive",
+      "source_lines": [
+        173,
+        175
+      ]
+    },
+    {
+      "start_ms": 58200,
+      "end_ms": 62000,
+      "id": "e_040",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium shot on the balcony as Clarissa gleefully points down at Juliana, Gerald chuckling beside her.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        177,
+        179
+      ]
+    },
+    {
+      "start_ms": 58800,
+      "end_ms": 61800,
+      "id": "e_041",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"The lady has finally found something worthy of her.\"",
+      "speaker": "CLARISSA",
+      "delivery": "Mocking, Spiteful",
+      "source_lines": [
+        181,
+        183
+      ]
+    },
+    {
+      "start_ms": 62000,
+      "end_ms": 64000,
+      "id": "e_042",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "Gerald leans his hands on the terrace railing, sneering callously.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        185,
+        187
+      ]
+    },
+    {
+      "start_ms": 62000,
+      "end_ms": 67500,
+      "id": "e_043",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Low-angle medium close-up of Gerald shouting down into the garden.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        189,
+        191
+      ]
+    },
+    {
+      "start_ms": 62200,
+      "end_ms": 67000,
+      "id": "e_044",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Keep searching, Juliana. Your husband's freedom is somewhere in that garden.\"",
+      "speaker": "GERALD",
+      "delivery": "Taunting, Cruel",
+      "source_lines": [
+        193,
+        195
+      ]
+    },
+    {
+      "start_ms": 67500,
+      "end_ms": 71200,
+      "id": "e_045",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Macro close-up of a massive blackthorn needle stabbing deep into the back of Juliana's bleeding hand.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        197,
+        199
+      ]
+    },
+    {
+      "start_ms": 68500,
+      "end_ms": 70200,
+      "id": "e_046",
+      "scene_id": "sc_002",
+      "type": "sound",
+      "text": "Sickening crunch and scrape of thorns slicing through flesh.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        201,
+        203
+      ]
+    },
+    {
+      "start_ms": 71200,
+      "end_ms": 74000,
+      "id": "e_047",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up of Alexander struggling in agony, tears forming in his eyes.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        205,
+        207
+      ]
+    },
+    {
+      "start_ms": 71400,
+      "end_ms": 73800,
+      "id": "e_048",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Please... enough!\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Desperate, Choked",
+      "source_lines": [
+        209,
+        211
+      ]
+    },
+    {
+      "start_ms": 74000,
+      "end_ms": 78000,
+      "id": "e_049",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Wide tunnel shot through the briars as Juliana crawls deeper into the dark, frozen tangle.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        213,
+        215
+      ]
+    },
+    {
+      "start_ms": 74500,
+      "end_ms": 78000,
+      "id": "e_050",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "Juliana drags her body across the frozen, cracked soil beneath the dense roof of briars.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        217,
+        219
+      ]
+    },
+    {
+      "start_ms": 78000,
+      "end_ms": 80500,
+      "id": "e_051",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up of Juliana's hand getting snagged between two vicious thorns, tearing her sleeve and flesh.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        221,
+        223
+      ]
+    },
+    {
+      "start_ms": 78500,
+      "end_ms": 80500,
+      "id": "e_052",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Ah!\"",
+      "speaker": "JULIANA",
+      "delivery": "Screaming in Pain",
+      "source_lines": [
+        225,
+        227
+      ]
+    },
+    {
+      "start_ms": 80500,
+      "end_ms": 83000,
+      "id": "e_053",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "Alexander loses control, violently lunging past the Constable toward the briars.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        229,
+        231
+      ]
+    },
+    {
+      "start_ms": 80500,
+      "end_ms": 83000,
+      "id": "e_054",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium tracking shot of Alexander breaking into a desperate charge.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        233,
+        235
+      ]
+    },
+    {
+      "start_ms": 80800,
+      "end_ms": 82200,
+      "id": "e_055",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Stop!\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Furious, Booming",
+      "source_lines": [
+        237,
+        239
+      ]
+    },
+    {
+      "start_ms": 83000,
+      "end_ms": 86000,
+      "id": "e_056",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "Juliana continues clawing forward, branches lacerating her arm and cheek.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        241,
+        243
+      ]
+    },
+    {
+      "start_ms": 83000,
+      "end_ms": 86000,
+      "id": "e_057",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up of Juliana wincing in agony and screaming through clenched teeth.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        245,
+        247
+      ]
+    },
+    {
+      "start_ms": 83800,
+      "end_ms": 85800,
+      "id": "e_058",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Ahhh!\"",
+      "speaker": "JULIANA",
+      "delivery": "Agonized Scream",
+      "source_lines": [
+        249,
+        251
+      ]
+    },
+    {
+      "start_ms": 86000,
+      "end_ms": 89000,
+      "id": "e_059",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium shot of the Constable forcefully grappling Alexander by his coat collar, slamming him back against the gate.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        253,
+        255
+      ]
+    },
+    {
+      "start_ms": 86500,
+      "end_ms": 88800,
+      "id": "e_060",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Juliana!\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Roaring in Torment",
+      "source_lines": [
+        257,
+        259
+      ]
+    },
+    {
+      "start_ms": 89000,
+      "end_ms": 94000,
+      "id": "e_061",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Ground-level shot of Juliana frantically digging and scraping at the frozen dirt and dried bramble pods with both bloody hands.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        261,
+        263
+      ]
+    },
+    {
+      "start_ms": 89200,
+      "end_ms": 94000,
+      "id": "e_062",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "Juliana digs her torn fingers into the frost-hardened earth, turning over rocks and dead vegetation.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        265,
+        267
+      ]
+    },
+    {
+      "start_ms": 94000,
+      "end_ms": 97000,
+      "id": "e_063",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium close-up of Alexander struggling against the Constable, his face twisted in grief and rage.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        269,
+        271
+      ]
+    },
+    {
+      "start_ms": 94800,
+      "end_ms": 96400,
+      "id": "e_064",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Juliana!\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Desperate Shout",
+      "source_lines": [
+        273,
+        275
+      ]
+    },
+    {
+      "start_ms": 97000,
+      "end_ms": 103000,
+      "id": "e_065",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up of Juliana lying on her stomach among the thorns, bleeding cuts running down her forehead, cheeks, and bare arms.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        277,
+        279
+      ]
+    },
+    {
+      "start_ms": 98200,
+      "end_ms": 102500,
+      "id": "e_066",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Please, ring... you have to be here.\"",
+      "speaker": "JULIANA",
+      "delivery": "Panting, Praying",
+      "source_lines": [
+        281,
+        283
+      ]
+    },
+    {
+      "start_ms": 103000,
+      "end_ms": 106500,
+      "id": "e_067",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "Her blood-smeared index finger brushes against a solid metallic object half-buried in the frozen dirt beneath a thorny branch.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        285,
+        287
+      ]
+    },
+    {
+      "start_ms": 103000,
+      "end_ms": 107000,
+      "id": "e_068",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Extreme close-up macro shot of an ornate antique gold ring set with a massive, radiant emerald resting in the frosted soil.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        289,
+        291
+      ]
+    },
+    {
+      "start_ms": 107000,
+      "end_ms": 109000,
+      "id": "e_069",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up of Juliana's wide, disbelieving blue eyes as breath catches in her throat.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        293,
+        295
+      ]
+    },
+    {
+      "start_ms": 109000,
+      "end_ms": 112000,
+      "id": "e_070",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "Juliana reaches out her torn, bloodied hand and wraps her fingers tightly around the emerald ring.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        297,
+        299
+      ]
+    },
+    {
+      "start_ms": 109000,
+      "end_ms": 112000,
+      "id": "e_071",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Extreme close-up of her bloody hand closing around the emerald signet ring.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        301,
+        303
+      ]
+    },
+    {
+      "start_ms": 112000,
+      "end_ms": 113000,
+      "id": "e_072",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up of Juliana grimacing in fierce triumph and intense pain as thorns catch her knuckles.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        305,
+        307
+      ]
+    },
+    {
+      "start_ms": 113000,
+      "end_ms": 114000,
+      "id": "e_073",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Brief cut to Alexander staring into the briar patch in suspended terror.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        309,
+        311
+      ]
+    },
+    {
+      "start_ms": 114000,
+      "end_ms": 117200,
+      "id": "e_074",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up on Juliana's sweat- and frost-streaked face as she grinds her teeth, tears pooling in her eyes, fighting through the blinding pain.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        313,
+        315
+      ]
+    },
+    {
+      "start_ms": 117200,
+      "end_ms": 118880,
+      "id": "e_075",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Macro close-up holding on Juliana's bloodied fist firmly gripping the emerald ring against the frozen ground as the episode cuts to black.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        317,
+        319
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "start_ms": 0,
+      "end_ms": 118880
+    }
+  ],
+  "warnings": []
+}

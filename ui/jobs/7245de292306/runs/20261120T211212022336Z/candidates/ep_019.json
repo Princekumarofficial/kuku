@@ -1,0 +1,539 @@
+[
+  {
+    "candidate_id": "c_711b5e1a0bdc1bf6",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 54800,
+        "end_ms": 83700,
+        "episode_id": "ep_019"
+      }
+    ],
+    "duration_ms": 28900,
+    "origin": "ep19_opp_01",
+    "clip_events": [
+      {
+        "ref": "EP19:E33",
+        "segment_index": 0,
+        "relative_start_ms": 500,
+        "relative_end_ms": 6500,
+        "type": "dialogue",
+        "speaker": "INFORMANT",
+        "text": "\"Rupert has become the face of Ashburg. He sits in your father's room, signs your estate papers, gives orders as though the title already belongs to him.\""
+      },
+      {
+        "ref": "EP19:E32",
+        "segment_index": 0,
+        "relative_start_ms": 500,
+        "relative_end_ms": 6600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Slow push-in on Alexander's rugged, scarred face, his jaw tightening with simmering rage as he listens."
+      },
+      {
+        "ref": "EP19:E34",
+        "segment_index": 0,
+        "relative_start_ms": 6600,
+        "relative_end_ms": 10000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the bald informant standing among the towering trees, reporting solemnly."
+      },
+      {
+        "ref": "EP19:E35",
+        "segment_index": 0,
+        "relative_start_ms": 6800,
+        "relative_end_ms": 10000,
+        "type": "dialogue",
+        "speaker": "INFORMANT",
+        "text": "\"And Lady Catherine, she behaves as though she is already the future duchess.\""
+      },
+      {
+        "ref": "EP19:E36",
+        "segment_index": 0,
+        "relative_start_ms": 10000,
+        "relative_end_ms": 15800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the informant, his voice dropping into urgent, discreet concern."
+      },
+      {
+        "ref": "EP19:E37",
+        "segment_index": 0,
+        "relative_start_ms": 10300,
+        "relative_end_ms": 15700,
+        "type": "dialogue",
+        "speaker": "INFORMANT",
+        "text": "\"But they have separated her from the household. She is watched constantly. Every letter she sends is checked. Every visitor is questioned.\""
+      },
+      {
+        "ref": "EP19:E38",
+        "segment_index": 0,
+        "relative_start_ms": 15800,
+        "relative_end_ms": 18500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of Alexander's right hand clenching into a powerful, trembling fist at his coat seam, veins bulging with restrained violence."
+      },
+      {
+        "ref": "EP19:E39",
+        "segment_index": 0,
+        "relative_start_ms": 16100,
+        "relative_end_ms": 18400,
+        "type": "dialogue",
+        "speaker": "INFORMANT",
+        "text": "\"There are almost no loyal servants left around her.\""
+      },
+      {
+        "ref": "EP19:E40",
+        "segment_index": 0,
+        "relative_start_ms": 18500,
+        "relative_end_ms": 21400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle shot past Alexander toward the informant."
+      },
+      {
+        "ref": "EP19:E41",
+        "segment_index": 0,
+        "relative_start_ms": 18700,
+        "relative_end_ms": 21600,
+        "type": "dialogue",
+        "speaker": "INFORMANT",
+        "text": "\"The people who served your family for years have been dismissed, frightened away, or replaced.\""
+      },
+      {
+        "ref": "EP19:E42",
+        "segment_index": 0,
+        "relative_start_ms": 21400,
+        "relative_end_ms": 24000,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander lifts his gaze toward the cold forest canopy, his breathing heavy with profound anguish."
+      },
+      {
+        "ref": "EP19:E43",
+        "segment_index": 0,
+        "relative_start_ms": 21700,
+        "relative_end_ms": 24000,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"My mother is a prisoner in her own house.\""
+      },
+      {
+        "ref": "EP19:E44",
+        "segment_index": 0,
+        "relative_start_ms": 24000,
+        "relative_end_ms": 26400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the informant looking steadily at Alexander."
+      },
+      {
+        "ref": "EP19:E45",
+        "segment_index": 0,
+        "relative_start_ms": 24200,
+        "relative_end_ms": 26200,
+        "type": "dialogue",
+        "speaker": "INFORMANT",
+        "text": "\"And everyone believes you are dead.\""
+      },
+      {
+        "ref": "EP19:E46",
+        "segment_index": 0,
+        "relative_start_ms": 26400,
+        "relative_end_ms": 28900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of Alexander's scarred eye and grimly set mouth."
+      },
+      {
+        "ref": "EP19:E47",
+        "segment_index": 0,
+        "relative_start_ms": 26700,
+        "relative_end_ms": 28900,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Then let them believe it a little longer.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_330056ea086f3b99",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 96800,
+        "end_ms": 119630,
+        "episode_id": "ep_019"
+      }
+    ],
+    "duration_ms": 22830,
+    "origin": "ep19_opp_02",
+    "clip_events": [
+      {
+        "ref": "EP19:E53",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana's face, silent tears streaming down her soot-smudged cheeks as her chin quivers."
+      },
+      {
+        "ref": "EP19:E54",
+        "segment_index": 0,
+        "relative_start_ms": 400,
+        "relative_end_ms": 3200,
+        "type": "action",
+        "speaker": null,
+        "text": "The heavy wooden barn doors creak open. Alexander steps into the lantern light, carrying a bundle of firewood and a thick blanket under his arm."
+      },
+      {
+        "ref": "EP19:E55",
+        "segment_index": 0,
+        "relative_start_ms": 600,
+        "relative_end_ms": 2600,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"We have lost everything.\""
+      },
+      {
+        "ref": "EP19:E56",
+        "segment_index": 0,
+        "relative_start_ms": 3100,
+        "relative_end_ms": 6200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana breaking down in tears over her open book, struggling to breathe through her weeping."
+      },
+      {
+        "ref": "EP19:E57",
+        "segment_index": 0,
+        "relative_start_ms": 3600,
+        "relative_end_ms": 5800,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I don't know what we will do tomorrow.\""
+      },
+      {
+        "ref": "EP19:E58",
+        "segment_index": 0,
+        "relative_start_ms": 6200,
+        "relative_end_ms": 9200,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander steps up behind her and gently drapes the thick woolen blanket over her trembling shoulders, resting his hands reassuringly on her."
+      },
+      {
+        "ref": "EP19:E59",
+        "segment_index": 0,
+        "relative_start_ms": 7400,
+        "relative_end_ms": 9400,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Tomorrow, we begin again.\""
+      },
+      {
+        "ref": "EP19:E60",
+        "segment_index": 0,
+        "relative_start_ms": 9200,
+        "relative_end_ms": 13000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana turning her tear-drenched eyes up toward Alexander, her face filled with longing and newfound hope."
+      },
+      {
+        "ref": "EP19:E61",
+        "segment_index": 0,
+        "relative_start_ms": 10500,
+        "relative_end_ms": 12400,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You make it sound so simple.\""
+      },
+      {
+        "ref": "EP19:E62",
+        "segment_index": 0,
+        "relative_start_ms": 13000,
+        "relative_end_ms": 15700,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander sits down beside her in the straw. Juliana leans gently against his shoulder, letting her weary head rest against his broad chest."
+      },
+      {
+        "ref": "EP19:E63",
+        "segment_index": 0,
+        "relative_start_ms": 15700,
+        "relative_end_ms": 22830,
+        "type": "camera",
+        "speaker": null,
+        "text": "Slow cinematic push-in on the couple nestled together in the warm lantern glow. Alexander wraps his arm firmly around Juliana as she closes her eyes in exhausted relief, while his piercing gaze stares resolutely into the darkness, determined to reclaim everything that was stolen."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_f4a6fdc91e4fad26",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 73200,
+        "end_ms": 94000,
+        "episode_id": "ep_019"
+      }
+    ],
+    "duration_ms": 20800,
+    "origin": "recovery_B5",
+    "clip_events": [
+      {
+        "ref": "EP19:E38",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of Alexander's right hand clenching into a powerful, trembling fist at his coat seam, veins bulging with restrained violence."
+      },
+      {
+        "ref": "EP19:E40",
+        "segment_index": 0,
+        "relative_start_ms": 100,
+        "relative_end_ms": 3000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle shot past Alexander toward the informant."
+      },
+      {
+        "ref": "EP19:E41",
+        "segment_index": 0,
+        "relative_start_ms": 300,
+        "relative_end_ms": 3200,
+        "type": "dialogue",
+        "speaker": "INFORMANT",
+        "text": "\"The people who served your family for years have been dismissed, frightened away, or replaced.\""
+      },
+      {
+        "ref": "EP19:E42",
+        "segment_index": 0,
+        "relative_start_ms": 3000,
+        "relative_end_ms": 5600,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander lifts his gaze toward the cold forest canopy, his breathing heavy with profound anguish."
+      },
+      {
+        "ref": "EP19:E43",
+        "segment_index": 0,
+        "relative_start_ms": 3300,
+        "relative_end_ms": 5600,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"My mother is a prisoner in her own house.\""
+      },
+      {
+        "ref": "EP19:E44",
+        "segment_index": 0,
+        "relative_start_ms": 5600,
+        "relative_end_ms": 8000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the informant looking steadily at Alexander."
+      },
+      {
+        "ref": "EP19:E45",
+        "segment_index": 0,
+        "relative_start_ms": 5800,
+        "relative_end_ms": 7800,
+        "type": "dialogue",
+        "speaker": "INFORMANT",
+        "text": "\"And everyone believes you are dead.\""
+      },
+      {
+        "ref": "EP19:E46",
+        "segment_index": 0,
+        "relative_start_ms": 8000,
+        "relative_end_ms": 10600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of Alexander's scarred eye and grimly set mouth."
+      },
+      {
+        "ref": "EP19:E47",
+        "segment_index": 0,
+        "relative_start_ms": 8300,
+        "relative_end_ms": 10500,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Then let them believe it a little longer.\""
+      },
+      {
+        "ref": "EP19:E48",
+        "segment_index": 0,
+        "relative_start_ms": 10800,
+        "relative_end_ms": 12300,
+        "type": "dialogue",
+        "speaker": "INFORMANT",
+        "text": "\"And when we have the proof?\""
+      },
+      {
+        "ref": "EP19:E49",
+        "segment_index": 0,
+        "relative_start_ms": 12300,
+        "relative_end_ms": 16300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Dramatic low-angle push-in on Alexander's commanding silhouette, his combat scar etched sharply against the fog."
+      },
+      {
+        "ref": "EP19:E50",
+        "segment_index": 0,
+        "relative_start_ms": 12700,
+        "relative_end_ms": 15700,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Then Ashburg will remember who it belongs to.\""
+      },
+      {
+        "ref": "EP19:E51",
+        "segment_index": 0,
+        "relative_start_ms": 16300,
+        "relative_end_ms": 20800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide atmospheric shot of the shadowy barn loft. Moonlight filters through vertical wooden slats, illuminating Juliana seated on a pile of straw beside a warm, glowing kerosene lantern."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_7adf4d08652a66c0",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 78800,
+        "end_ms": 100000,
+        "episode_id": "ep_019"
+      }
+    ],
+    "duration_ms": 21200,
+    "origin": "recovery_B6",
+    "clip_events": [
+      {
+        "ref": "EP19:E44",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the informant looking steadily at Alexander."
+      },
+      {
+        "ref": "EP19:E45",
+        "segment_index": 0,
+        "relative_start_ms": 200,
+        "relative_end_ms": 2200,
+        "type": "dialogue",
+        "speaker": "INFORMANT",
+        "text": "\"And everyone believes you are dead.\""
+      },
+      {
+        "ref": "EP19:E46",
+        "segment_index": 0,
+        "relative_start_ms": 2400,
+        "relative_end_ms": 5000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of Alexander's scarred eye and grimly set mouth."
+      },
+      {
+        "ref": "EP19:E47",
+        "segment_index": 0,
+        "relative_start_ms": 2700,
+        "relative_end_ms": 4900,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Then let them believe it a little longer.\""
+      },
+      {
+        "ref": "EP19:E48",
+        "segment_index": 0,
+        "relative_start_ms": 5200,
+        "relative_end_ms": 6700,
+        "type": "dialogue",
+        "speaker": "INFORMANT",
+        "text": "\"And when we have the proof?\""
+      },
+      {
+        "ref": "EP19:E49",
+        "segment_index": 0,
+        "relative_start_ms": 6700,
+        "relative_end_ms": 10700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Dramatic low-angle push-in on Alexander's commanding silhouette, his combat scar etched sharply against the fog."
+      },
+      {
+        "ref": "EP19:E50",
+        "segment_index": 0,
+        "relative_start_ms": 7100,
+        "relative_end_ms": 10100,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Then Ashburg will remember who it belongs to.\""
+      },
+      {
+        "ref": "EP19:E51",
+        "segment_index": 0,
+        "relative_start_ms": 10700,
+        "relative_end_ms": 15200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide atmospheric shot of the shadowy barn loft. Moonlight filters through vertical wooden slats, illuminating Juliana seated on a pile of straw beside a warm, glowing kerosene lantern."
+      },
+      {
+        "ref": "EP19:E52",
+        "segment_index": 0,
+        "relative_start_ms": 15200,
+        "relative_end_ms": 18000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Over-the-shoulder close-up of Juliana's bandaged hands tracing the detailed botanical drawing on the charred page of her mother's herbal."
+      },
+      {
+        "ref": "EP19:E53",
+        "segment_index": 0,
+        "relative_start_ms": 18000,
+        "relative_end_ms": 19000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana's face, silent tears streaming down her soot-smudged cheeks as her chin quivers."
+      },
+      {
+        "ref": "EP19:E54",
+        "segment_index": 0,
+        "relative_start_ms": 18400,
+        "relative_end_ms": 21200,
+        "type": "action",
+        "speaker": null,
+        "text": "The heavy wooden barn doors creak open. Alexander steps into the lantern light, carrying a bundle of firewood and a thick blanket under his arm."
+      },
+      {
+        "ref": "EP19:E55",
+        "segment_index": 0,
+        "relative_start_ms": 18600,
+        "relative_end_ms": 20600,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"We have lost everything.\""
+      },
+      {
+        "ref": "EP19:E56",
+        "segment_index": 0,
+        "relative_start_ms": 21100,
+        "relative_end_ms": 21200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana breaking down in tears over her open book, struggling to breathe through her weeping."
+      }
+    ]
+  }
+]

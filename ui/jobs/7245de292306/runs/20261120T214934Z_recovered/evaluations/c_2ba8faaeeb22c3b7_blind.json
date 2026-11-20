@@ -1,0 +1,40 @@
+{
+  "candidate_id": "c_2ba8faaeeb22c3b7",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP01:E23",
+      "EP01:E24"
+    ],
+    "reason": "The opening within 0-3000ms establishes a shocked bride-like figure questioning Gerald's hand-holding with another woman, creating an immediate betrayal question."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP01:E55",
+      "EP01:E57",
+      "EP01:E56"
+    ],
+    "reason": "The clip ends with Juliana kneeling and pleading with her father to say it is a mistake, but his response is not shown, so the immediate outcome stays open. The emotional stakes are high, but the tension is partly a resolved revelation rather than a pure unresolved hook.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Relationship between Gerald, Juliana, and the Lady in Gold Gown is only partly stated through dialogue",
+      "Identity and role of the elderly father is not established",
+      "Why the wedding is happening and what the conspiracy involves is unclear",
+      "The former groom label is introduced without prior explanation"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Juliana's tears, shock, outrage, and plea to her father convey strong betrayal and humiliation within the supplied evidence."
+  },
+  "weaknesses": [
+    "Opening context about who Gerald and the Lady are is inferred rather than explicitly stated",
+    "Father's reaction is not shown, limiting closure of the final beat",
+    "Conspiracy details are vague beyond the sister's admission"
+  ],
+  "one_line_why_it_works": "A public betrayal at the altar escalates through direct confrontation and ends with the heroine begging her father for help, leaving his response unresolved."
+}

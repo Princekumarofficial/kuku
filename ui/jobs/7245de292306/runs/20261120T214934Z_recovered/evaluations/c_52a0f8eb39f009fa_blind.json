@@ -1,0 +1,46 @@
+{
+  "candidate_id": "c_52a0f8eb39f009fa",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP13:E15",
+      "EP13:E16",
+      "EP13:E17",
+      "EP13:E18",
+      "EP13:E58"
+    ],
+    "reason": "The opening within 0-3000ms shows Alexander bound and leaning toward Juliana while Gerald smirks from above, and Juliana's close-up with the line about not abandoning him sets up a clear emotional stake. The clip then escalates quickly to bloodied hands and screaming, which holds attention, though the premise behind the bonds and the rivalry is never explained."
+  },
+  "cliffhanger": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP13:E56",
+      "EP13:E57",
+      "EP13:E58"
+    ],
+    "reason": "The clip ends mid-action with Juliana still clawing forward through the briars, injured and screaming, while Alexander's fate and the outcome of her trek are left open. The ending is unresolved rather than an intense but completed beat.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Why Alexander is handcuffed and held by the Constable",
+      "Who Juliana, Alexander, Gerald and Clarissa are to each other",
+      "The significance of the frozen briar garden and what Juliana is searching for",
+      "Meaning of the 'beggar's wife' insult and of Gerald's claim that her husband's freedom lies in the garden",
+      "Relationship implied by Clarissa calling Juliana 'sister'",
+      "What Juliana has already endured before this clip"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 9.0,
+    "reason": "Sustained distress builds through Alexander's anguished pleas, Juliana's bleeding hands and the sadistic taunts from the balcony, ending on her screams. The emotional intensity is high even without the backstory."
+  },
+  "weaknesses": [
+    "Heavy reliance on unseen prior events makes the characters' motives hard to read for a first-time viewer",
+    "The antagonists' cruelty is clear but their reasons are not, which weakens their impact",
+    "Repeated pleas and screams in the final seconds may feel repetitive without new information",
+    "Dialogue lines like 'Careful, sister' and 'Keep searching' lack context to carry their intended weight"
+  ],
+  "one_line_why_it_works": "Juliana's self-sacrificing vow and the escalating cruelty of the onlookers drive a visceral, unresolved moment that a viewer feels even without knowing the full story."
+}

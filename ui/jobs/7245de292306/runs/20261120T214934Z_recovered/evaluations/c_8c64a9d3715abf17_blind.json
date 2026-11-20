@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_8c64a9d3715abf17",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP10:E27",
+      "EP10:E40",
+      "EP10:E42"
+    ],
+    "reason": "The clip opens with a shirt being pulled off to reveal scarred, bleeding flesh, which is an immediate visual question. The hook starts within 0-3000ms, and the final-3000ms evidence (E40, E42) ends on a soft, low-stakes exchange rather than a sharp reveal, so the opening carries more of the pull than the ending."
+  },
+  "cliffhanger": {
+    "score_0_10": 2.0,
+    "evidence_refs": [
+      "EP10:E41",
+      "EP10:E42"
+    ],
+    "reason": "The ending answers its own question: she asks whether it hurts and he replies 'Not much' while trying not to wince. Nothing threatening or pending is left open, so this reads as a resolved beat rather than a cliffhanger.",
+    "unresolved_at_end": false
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Identities and relationship of Alexander and Juliana",
+      "Cause and history of the scars and wounds",
+      "Meaning of 'It is over' and what has ended",
+      "Setting and why they are on a stone floor by a water bowl",
+      "What Juliana's guarded anticipation at the start refers to"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 6.0,
+    "reason": "Horror and pity from Juliana, the 'You have suffered terribly' line, and the gentle tending of the wound create a clear tender, sympathetic tone. The emotional weight is real but borrowed from implied backstory the viewer cannot see."
+  },
+  "weaknesses": [
+    "Scars are shown without any explanation, so the pity lands without a stake",
+    "Long static reveal (E27 spans 3300ms) slows the opening",
+    "'Your scars disagree' is ambiguous without prior dialogue",
+    "Ending is a gentle care moment with no forward pull",
+    "Overlapping timestamps (E30 inside E29, E34/E36 inside longer shots) make the sequence harder to read"
+  ],
+  "one_line_why_it_works": "The shirt reveal of scarred, bleeding flesh followed by tender care creates a striking contrast of pain and gentleness that a first-time viewer can feel even without context."
+}

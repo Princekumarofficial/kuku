@@ -1,0 +1,44 @@
+{
+  "candidate_id": "c_10693ed7c7cf2c82",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP39:E18",
+      "EP39:E19",
+      "EP39:E21",
+      "EP39:E22"
+    ],
+    "reason": "The clip opens within 0-3000ms on a tense checkpoint: a royal sentry halts a cart with 'Stop!' and the driver suddenly lunges and tackles him. The sudden violence gives an immediate reason to keep watching."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP39:E49",
+      "EP39:E50"
+    ],
+    "reason": "The final 3000ms ends on Alexander's hardened expression and the order 'Secure the chapel' while his loyalists are still mid-operation. The clip does not show the chapel outcome, so the situation is open, though the tension is partly a call to action rather than a sharp unanswered question.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Who Alexander Ashwin is and why he was exiled or presumed dead",
+      "What the Duke's role is and why the loyalists are acting against the royal guard",
+      "Why the cathedral or chapel matters and what the coup or uprising is",
+      "What 'Today, he comes home' implies about his former status",
+      "Who the cart driver and second loyalist are beyond their actions",
+      "Why the royal guards are at the cathedral steps and what the stakes are"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The sudden violence, the mirror scene of Alexander reclaiming his identity, and the defiant lines 'Enough hiding' and 'Today, he comes home' create strong tension and a sense of triumphant resolve."
+  },
+  "weaknesses": [
+    "Without prior context, the stakes of the operation and Alexander's identity are unclear to a first-time viewer",
+    "The motives and relationships of the loyalists are not established",
+    "The chapel's significance is never explained, so 'Secure the chapel' lacks weight",
+    "The transformation sequence is long relative to the plot advancement, which slows momentum after the opening action"
+  ],
+  "one_line_why_it_works": "A sudden violent ambush at the opening creates immediate tension, and the dramatic transformation of Alexander into a ducal figure ends on a clear order that leaves the mission open."
+}

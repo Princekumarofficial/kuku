@@ -1,0 +1,1113 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "ep_021",
+  "episode_number": 21,
+  "metadata": {
+    "logline": "After defying her own despair to cure a fever-stricken village boy with her mother's herbal remedies, Lady Juliana learns that the Dowager Duchess is secretly withering away from a mysterious illness inside Ashbury Manor.",
+    "continuity_notes": "Directly follows Episode 20's cliffhanger where Catherine and Rupert plotted to seize Ashbury upon the Dowager Duchess's demise; in the village, Juliana puts aside her grief over her burned cottage to save young Toby, stumbling upon critical intelligence regarding the manor."
+  },
+  "source": {
+    "file": "020_episode-021-Episode 1678574.txt",
+    "sha256": "00cb2e6c0b31ed3022212cc30d2fadd006e70516eb33be7d50aed31137d39db9",
+    "complete": false
+  },
+  "scenes": [
+    {
+      "start_ms": 0,
+      "end_ms": 40500,
+      "id": "sc_001",
+      "heading": "INT. BARN – DAY"
+    },
+    {
+      "start_ms": 40500,
+      "end_ms": 42800,
+      "id": "sc_002",
+      "heading": "EXT. VILLAGE LANE – CONTINUOUS"
+    },
+    {
+      "start_ms": 42800,
+      "end_ms": 114000,
+      "id": "sc_003",
+      "heading": "INT. PRUDENCE'S COTTAGE – CONTINUOUS"
+    }
+  ],
+  "events": [
+    {
+      "start_ms": 0,
+      "end_ms": 3500,
+      "id": "e_001",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Lady Juliana in a rustic grey gown, her wrists wrapped in white bandages, smoothing a blanket over a straw pallet in the dimly lit barn.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        14,
+        16
+      ]
+    },
+    {
+      "start_ms": 0,
+      "end_ms": 3500,
+      "id": "e_002",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Lady Juliana gently straightens the grey wool blanket over the hay bed, exhaling a soft, exhausted sigh.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        18,
+        20
+      ]
+    },
+    {
+      "start_ms": 3500,
+      "end_ms": 4800,
+      "id": "e_003",
+      "scene_id": "sc_001",
+      "type": "sound",
+      "text": "A loud wooden slam as the heavy double barn doors violently fly open.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        22,
+        24
+      ]
+    },
+    {
+      "start_ms": 3600,
+      "end_ms": 8500,
+      "id": "e_004",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Wide shot framing the open doorway against the overcast daylight as Prudence, a young village girl in an apron, rushes inside, frantic and weeping.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        26,
+        28
+      ]
+    },
+    {
+      "start_ms": 4200,
+      "end_ms": 8000,
+      "id": "e_005",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Lady Juliana! Please! You have to help me, Toby is dying!\"",
+      "speaker": "PRUDENCE",
+      "delivery": "Desperate, Panicked",
+      "source_lines": [
+        30,
+        32
+      ]
+    },
+    {
+      "start_ms": 8200,
+      "end_ms": 10500,
+      "id": "e_006",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Lady Juliana hurries over, placing her bandaged hands reassuringly on Prudence's trembling shoulders.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        34,
+        36
+      ]
+    },
+    {
+      "start_ms": 8500,
+      "end_ms": 11200,
+      "id": "e_007",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Lady Juliana looking into Prudence's tearful face with compassionate urgency.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        38,
+        40
+      ]
+    },
+    {
+      "start_ms": 8500,
+      "end_ms": 11000,
+      "id": "e_008",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Oh dear. Breathe. Tell me what has happened.\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Gentle, Urgent",
+      "source_lines": [
+        42,
+        44
+      ]
+    },
+    {
+      "start_ms": 11200,
+      "end_ms": 15100,
+      "id": "e_009",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Prudence weeping, clutching her hands to her chest in agony.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        46,
+        48
+      ]
+    },
+    {
+      "start_ms": 11200,
+      "end_ms": 15000,
+      "id": "e_010",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"My little brother Toby... his chest is burning! He cannot breathe!\"",
+      "speaker": "PRUDENCE",
+      "delivery": "Sobbing, Breathless",
+      "source_lines": [
+        50,
+        52
+      ]
+    },
+    {
+      "start_ms": 15100,
+      "end_ms": 18200,
+      "id": "e_011",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Lady Juliana, her brow furrowing with concern.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        54,
+        56
+      ]
+    },
+    {
+      "start_ms": 15000,
+      "end_ms": 18200,
+      "id": "e_012",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Tell me what the apothecary said. Did he not give you medicine?\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Inquiring, Strained",
+      "source_lines": [
+        58,
+        60
+      ]
+    },
+    {
+      "start_ms": 18200,
+      "end_ms": 21800,
+      "id": "e_013",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Prudence, her face twisted in bitter anguish as she gestures back toward the rain-soaked outdoors.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        62,
+        64
+      ]
+    },
+    {
+      "start_ms": 18200,
+      "end_ms": 21700,
+      "id": "e_014",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"He shut the door in my face because we have no silver!\"",
+      "speaker": "PRUDENCE",
+      "delivery": "Anguished, Resentful",
+      "source_lines": [
+        66,
+        68
+      ]
+    },
+    {
+      "start_ms": 21800,
+      "end_ms": 25000,
+      "id": "e_015",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Wide shot of Lady Juliana and Prudence facing each other inside the wooden barn, dust motes drifting in the pale light.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        70,
+        72
+      ]
+    },
+    {
+      "start_ms": 21800,
+      "end_ms": 25300,
+      "id": "e_016",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"The manor doctor laughed! He said village boys are not worth his time!\"",
+      "speaker": "PRUDENCE",
+      "delivery": "Bitter, Tearful",
+      "source_lines": [
+        74,
+        76
+      ]
+    },
+    {
+      "start_ms": 25000,
+      "end_ms": 30900,
+      "id": "e_017",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium profile shot of Lady Juliana looking down at her bandaged hands, holding Prudence's hand with somber heartache.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        78,
+        80
+      ]
+    },
+    {
+      "start_ms": 25100,
+      "end_ms": 27400,
+      "id": "e_018",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"We have no clinic now.\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Sorrowful, Dejected",
+      "source_lines": [
+        82,
+        84
+      ]
+    },
+    {
+      "start_ms": 27500,
+      "end_ms": 30800,
+      "id": "e_019",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Our cottage is ashes. I have nothing left but this coltsfoot.\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Despondent",
+      "source_lines": [
+        86,
+        88
+      ]
+    },
+    {
+      "start_ms": 31000,
+      "end_ms": 33000,
+      "id": "e_020",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Prudence drops desperately to her knees onto the hay-strewn barn floor, clasping her hands in tearful supplication.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        90,
+        92
+      ]
+    },
+    {
+      "start_ms": 31100,
+      "end_ms": 35800,
+      "id": "e_021",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "High-angle looking down at Prudence kneeling before Lady Juliana, pleading upward.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        94,
+        96
+      ]
+    },
+    {
+      "start_ms": 31000,
+      "end_ms": 35800,
+      "id": "e_022",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"He is only seven! If you do not come, he will die! You are his only hope, Lady Juliana!\"",
+      "speaker": "PRUDENCE",
+      "delivery": "Pleading, Desperate",
+      "source_lines": [
+        98,
+        100
+      ]
+    },
+    {
+      "start_ms": 35800,
+      "end_ms": 39500,
+      "id": "e_023",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Lady Juliana immediately reaches down and pulls Prudence firmly back to her feet, then turns to snatch her heavy leather-bound herbal ledger from the wooden workbench.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        102,
+        104
+      ]
+    },
+    {
+      "start_ms": 35900,
+      "end_ms": 40500,
+      "id": "e_024",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot framing the barn entrance as Lady Juliana lifts Prudence up, grabs her book, and leads the way out.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        106,
+        108
+      ]
+    },
+    {
+      "start_ms": 35900,
+      "end_ms": 40400,
+      "id": "e_025",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Stand up. Sinking to your knees will not save him. Let me grab my ledger. We go now.\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Resolute, Authoritative",
+      "source_lines": [
+        110,
+        112
+      ]
+    },
+    {
+      "start_ms": 40500,
+      "end_ms": 42800,
+      "id": "e_026",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Tracking wide shot following Lady Juliana and Prudence running side by side along a muddy, puddled village road past thatched stone cottages under a gloomy, overcast sky.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        121,
+        123
+      ]
+    },
+    {
+      "start_ms": 40500,
+      "end_ms": 42800,
+      "id": "e_027",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "Lady Juliana clutches the thick book to her chest as she and Prudence sprint swiftly through the village.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        125,
+        127
+      ]
+    },
+    {
+      "start_ms": 42800,
+      "end_ms": 45500,
+      "id": "e_028",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Low-angle medium shot of seven-year-old Toby lying on a makeshift straw pallet before a roaring fireplace, coughing weakly.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        136,
+        138
+      ]
+    },
+    {
+      "start_ms": 42800,
+      "end_ms": 45500,
+      "id": "e_029",
+      "scene_id": "sc_003",
+      "type": "sound",
+      "text": "Heavy, raspy chest coughs echoing in the small room, accompanied by crackling hearth fire.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        140,
+        142
+      ]
+    },
+    {
+      "start_ms": 45500,
+      "end_ms": 48000,
+      "id": "e_030",
+      "scene_id": "sc_003",
+      "type": "action",
+      "text": "Lady Juliana rushes in, sets the ledger on the rustic wooden table, and quickly flips open the pages.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        144,
+        146
+      ]
+    },
+    {
+      "start_ms": 45500,
+      "end_ms": 48500,
+      "id": "e_031",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Close-up of Lady Juliana rapidly scanning the botanical illustrations and handwritten remedies in the book.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        148,
+        150
+      ]
+    },
+    {
+      "start_ms": 47300,
+      "end_ms": 48800,
+      "id": "e_032",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"His skin is burning hot.\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Alarmed, Focused",
+      "source_lines": [
+        152,
+        154
+      ]
+    },
+    {
+      "start_ms": 48800,
+      "end_ms": 50500,
+      "id": "e_033",
+      "scene_id": "sc_003",
+      "type": "action",
+      "text": "Lady Juliana places her bandaged hand against Toby's flushed, sweating forehead as he wheezes painfully.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        156,
+        158
+      ]
+    },
+    {
+      "start_ms": 48800,
+      "end_ms": 51200,
+      "id": "e_034",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Medium close-up of Lady Juliana tending to Toby, with Prudence standing anxiously in the background.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        160,
+        162
+      ]
+    },
+    {
+      "start_ms": 48900,
+      "end_ms": 50800,
+      "id": "e_035",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"Prudence, fetch hot water immediately!\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Commanding",
+      "source_lines": [
+        164,
+        166
+      ]
+    },
+    {
+      "start_ms": 51200,
+      "end_ms": 54000,
+      "id": "e_036",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Medium shot of Prudence nodding rapidly, rushing toward the stone hearth.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        168,
+        170
+      ]
+    },
+    {
+      "start_ms": 51200,
+      "end_ms": 53000,
+      "id": "e_037",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"Yes! Right away, I will get it!\"",
+      "speaker": "PRUDENCE",
+      "delivery": "Hurried, Obedient",
+      "source_lines": [
+        172,
+        174
+      ]
+    },
+    {
+      "start_ms": 53000,
+      "end_ms": 55000,
+      "id": "e_038",
+      "scene_id": "sc_003",
+      "type": "action",
+      "text": "Prudence wraps a cloth around the iron handle of the steaming kettle resting over the hearth fire and lifts it.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        176,
+        178
+      ]
+    },
+    {
+      "start_ms": 54000,
+      "end_ms": 56200,
+      "id": "e_039",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Close-up top-down view of Lady Juliana's bandaged fingers gently touching an ink illustration of chamomile flowers in the open ledger.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        180,
+        182
+      ]
+    },
+    {
+      "start_ms": 54100,
+      "end_ms": 58200,
+      "id": "e_040",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"I cannot let my own weariness stop me. This boy needs my mother's knowledge.\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "V.O.) (Introspective, Determined",
+      "source_lines": [
+        184,
+        186
+      ]
+    },
+    {
+      "start_ms": 58200,
+      "end_ms": 60500,
+      "id": "e_041",
+      "scene_id": "sc_003",
+      "type": "action",
+      "text": "Lady Juliana crushes dried herbal leaves into a dark wooden bowl between her bandaged hands, then pours steaming water over them from the kettle.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        188,
+        190
+      ]
+    },
+    {
+      "start_ms": 58500,
+      "end_ms": 60800,
+      "id": "e_042",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Close-up of hot water pouring into the bowl, releasing aromatic vapors from the dried herbs.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        192,
+        194
+      ]
+    },
+    {
+      "start_ms": 60800,
+      "end_ms": 64000,
+      "id": "e_043",
+      "scene_id": "sc_003",
+      "type": "action",
+      "text": "Lady Juliana sits beside the pallet and brings the steaming herbal bowl close to Toby's face while Prudence cradles his shoulders.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        196,
+        198
+      ]
+    },
+    {
+      "start_ms": 60800,
+      "end_ms": 64500,
+      "id": "e_044",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Medium shot of Lady Juliana, Prudence, and Toby huddled together by the warm glow of the fire.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        200,
+        202
+      ]
+    },
+    {
+      "start_ms": 61000,
+      "end_ms": 64000,
+      "id": "e_045",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"Lift his shoulders, Prudence. Hold the steam close. Let him inhale.\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Instructive, Calm",
+      "source_lines": [
+        204,
+        206
+      ]
+    },
+    {
+      "start_ms": 64500,
+      "end_ms": 66800,
+      "id": "e_046",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Close-up of Prudence supporting Toby's head, whispering tenderly into his ear.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        208,
+        210
+      ]
+    },
+    {
+      "start_ms": 64500,
+      "end_ms": 66600,
+      "id": "e_047",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"Like this? Toby, breathe it in, sweet boy.\"",
+      "speaker": "PRUDENCE",
+      "delivery": "Tearful, Coaxing",
+      "source_lines": [
+        212,
+        214
+      ]
+    },
+    {
+      "start_ms": 66800,
+      "end_ms": 70500,
+      "id": "e_048",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Close-up of Lady Juliana gently waving her hand to direct the medicinal steam toward Toby's nose and mouth.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        216,
+        218
+      ]
+    },
+    {
+      "start_ms": 66800,
+      "end_ms": 70400,
+      "id": "e_049",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"Yes, just like that. Keep breathing, Toby. Let the vapor clear your chest.\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Encouraging, Reassuring",
+      "source_lines": [
+        220,
+        222
+      ]
+    },
+    {
+      "start_ms": 70500,
+      "end_ms": 73500,
+      "id": "e_050",
+      "scene_id": "sc_003",
+      "type": "action",
+      "text": "Toby's strained wheezing eases into quiet, rhythmic breathing as he slips into peaceful sleep on his pillow.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        224,
+        226
+      ]
+    },
+    {
+      "start_ms": 70500,
+      "end_ms": 72000,
+      "id": "e_051",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Close-up of Toby's face relaxing, his chest falling still and calm.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        228,
+        230
+      ]
+    },
+    {
+      "start_ms": 72000,
+      "end_ms": 76000,
+      "id": "e_052",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Close-up of Prudence covering her mouth in overwhelmed relief, tears streaming down her face.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        232,
+        234
+      ]
+    },
+    {
+      "start_ms": 72000,
+      "end_ms": 75500,
+      "id": "e_053",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"Oh, thank God! His chest is quiet! The rattling has stopped!\"",
+      "speaker": "PRUDENCE",
+      "delivery": "Overwhelmed, Relieved",
+      "source_lines": [
+        236,
+        238
+      ]
+    },
+    {
+      "start_ms": 75500,
+      "end_ms": 79500,
+      "id": "e_054",
+      "scene_id": "sc_003",
+      "type": "action",
+      "text": "Lady Juliana pulls the plaid wool blanket snug over Toby's chest, smiling softly with profound relief.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        240,
+        242
+      ]
+    },
+    {
+      "start_ms": 76000,
+      "end_ms": 79800,
+      "id": "e_055",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Medium shot of Lady Juliana sitting on a stool beside Toby's bedside, placing a cup of coltsfoot tea on a small wooden table.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        244,
+        246
+      ]
+    },
+    {
+      "start_ms": 76000,
+      "end_ms": 79600,
+      "id": "e_056",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"Keep him warm. Give him three drops of this coltsfoot tea every morning.\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Gentle, Caring",
+      "source_lines": [
+        248,
+        250
+      ]
+    },
+    {
+      "start_ms": 79800,
+      "end_ms": 87500,
+      "id": "e_057",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Medium close-up of Prudence looking at Lady Juliana with awe and boundless gratitude, her hands clasped in front of her.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        252,
+        254
+      ]
+    },
+    {
+      "start_ms": 79800,
+      "end_ms": 83000,
+      "id": "e_058",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"You saved him. The grand doctors left him to choke, but you...\"",
+      "speaker": "PRUDENCE",
+      "delivery": "Grateful, Choked with Emotion",
+      "source_lines": [
+        256,
+        258
+      ]
+    },
+    {
+      "start_ms": 83000,
+      "end_ms": 87500,
+      "id": "e_059",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"I have no money, Lady Juliana, but I swear on my life, I will do anything to repay you.\"",
+      "speaker": "PRUDENCE",
+      "delivery": "Fervent, Devoted",
+      "source_lines": [
+        260,
+        262
+      ]
+    },
+    {
+      "start_ms": 87500,
+      "end_ms": 90800,
+      "id": "e_060",
+      "scene_id": "sc_003",
+      "type": "action",
+      "text": "Lady Juliana takes Prudence's trembling hands into hers, smiling with heartfelt warmth.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        264,
+        266
+      ]
+    },
+    {
+      "start_ms": 87500,
+      "end_ms": 91000,
+      "id": "e_061",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Close-up of Lady Juliana comforting Prudence warmly.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        268,
+        270
+      ]
+    },
+    {
+      "start_ms": 87700,
+      "end_ms": 90500,
+      "id": "e_062",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"Your brother's breath is payment enough for me, Prudence.\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Warm, Sincere",
+      "source_lines": [
+        272,
+        274
+      ]
+    },
+    {
+      "start_ms": 91000,
+      "end_ms": 96500,
+      "id": "e_063",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Low-angle shot past sleeping Toby toward Prudence standing in the room, her expression darkening with anger.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        276,
+        278
+      ]
+    },
+    {
+      "start_ms": 91000,
+      "end_ms": 94500,
+      "id": "e_064",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"At the grand manor, they ignore us. They only care about their own luxury.\"",
+      "speaker": "PRUDENCE",
+      "delivery": "Indignant, Resentful",
+      "source_lines": [
+        280,
+        282
+      ]
+    },
+    {
+      "start_ms": 94600,
+      "end_ms": 96400,
+      "id": "e_065",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"But their gold cannot buy them health.\"",
+      "speaker": "PRUDENCE",
+      "delivery": "Ominous",
+      "source_lines": [
+        284,
+        286
+      ]
+    },
+    {
+      "start_ms": 96500,
+      "end_ms": 98200,
+      "id": "e_066",
+      "scene_id": "sc_003",
+      "type": "action",
+      "text": "Lady Juliana turns sharply, her eyes widening with sudden recognition.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        288,
+        290
+      ]
+    },
+    {
+      "start_ms": 96500,
+      "end_ms": 99200,
+      "id": "e_067",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Close-up of Lady Juliana looking directly into Prudence's eyes with startled concern.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        292,
+        294
+      ]
+    },
+    {
+      "start_ms": 96500,
+      "end_ms": 99200,
+      "id": "e_068",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"What do you mean? Is someone ill? The Dowager Duchess?\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Startled, Curious",
+      "source_lines": [
+        296,
+        298
+      ]
+    },
+    {
+      "start_ms": 99200,
+      "end_ms": 101200,
+      "id": "e_069",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Low-angle cut to Toby sleeping peacefully as the fire crackles behind him.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        300,
+        302
+      ]
+    },
+    {
+      "start_ms": 99200,
+      "end_ms": 101200,
+      "id": "e_070",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"She is dying, Lady Juliana.\"",
+      "speaker": "PRUDENCE",
+      "delivery": "Solemn, O.S.",
+      "source_lines": [
+        304,
+        306
+      ]
+    },
+    {
+      "start_ms": 101200,
+      "end_ms": 106800,
+      "id": "e_071",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Close-up of Prudence leaning in close to Lady Juliana, whispering with grave intensity.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        308,
+        310
+      ]
+    },
+    {
+      "start_ms": 101200,
+      "end_ms": 103400,
+      "id": "e_072",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"A strange, mysterious illness is eating her away.\"",
+      "speaker": "PRUDENCE",
+      "delivery": "Conspiratorial, Grim",
+      "source_lines": [
+        312,
+        314
+      ]
+    },
+    {
+      "start_ms": 103500,
+      "end_ms": 108400,
+      "id": "e_073",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"Inside that massive house with all their wealth, she is fading to nothing, and no one can stop it.\"",
+      "speaker": "PRUDENCE",
+      "delivery": "Dark, Chilling",
+      "source_lines": [
+        316,
+        318
+      ]
+    },
+    {
+      "start_ms": 106800,
+      "end_ms": 108500,
+      "id": "e_074",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Brief cut back to Toby sleeping peacefully on his straw pillow by the warm fireplace.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        320,
+        322
+      ]
+    },
+    {
+      "start_ms": 108500,
+      "end_ms": 114000,
+      "id": "e_075",
+      "scene_id": "sc_003",
+      "type": "action",
+      "text": "Lady Juliana sits motionless at the rustic wooden table, her bandaged hands holding open her late mother's leather-bound herbal ledger. Her eyes reflect deep apprehension as the dire truth settles over her.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        324,
+        326
+      ]
+    },
+    {
+      "start_ms": 108500,
+      "end_ms": 114000,
+      "id": "e_076",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Slow push-in on Lady Juliana staring down at the ancient pages, her expression filled with profound realization and growing resolve as dramatic strings swell to a gripping cliffhanger.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        328,
+        330
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "start_ms": 0,
+      "end_ms": 30900
+    },
+    {
+      "start_ms": 31000,
+      "end_ms": 114000
+    }
+  ],
+  "warnings": [
+    "sc_001: incomplete source coverage; gaps are unavailable"
+  ]
+}

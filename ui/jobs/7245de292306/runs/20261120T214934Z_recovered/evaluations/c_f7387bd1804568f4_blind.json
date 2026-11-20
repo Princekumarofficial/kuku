@@ -1,0 +1,40 @@
+{
+  "candidate_id": "c_f7387bd1804568f4",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP10:E48",
+      "EP10:E50"
+    ],
+    "reason": "Opens within 0-3000ms with a direct question from Juliana about why he looks at her, creating immediate tension; the reply 'Because you are looking at me' adds a charged beat. Hook is strong but relies on a first-time viewer accepting an unexplained romantic tension between characters.[EP10:E48 starts at 900ms, within the opening window]"
+  },
+  "cliffhanger": {
+    "score_0_10": 2.0,
+    "evidence_refs": [
+      "EP10:E59",
+      "EP10:E60"
+    ],
+    "reason": "The ending is an emotional confession followed by Juliana being captivated and the scene lingering and fading. Nothing is posed as an unanswered question or threat; the moment resolves emotionally, so it is not a true cliffhanger.",
+    "unresolved_at_end": false
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Who Alexander and Juliana are and their relationship before this scene",
+      "Why Alexander is injured and needs the salve",
+      "What 'pain' Alexander refers to and its cause",
+      "Setting and reason for the firelit shelter"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Restrained longing, heavy breathing, and the confession 'Your touch is the only medicine that has ever eased my pain' build a clear romantic emotional arc that lands in the final segment."
+  },
+  "weaknesses": [
+    "Context about the characters, injury, and setting is absent for a first-time viewer",
+    "Ending is emotionally resolved rather than suspenseful, so it offers no cliffhanger pull",
+    "Pacing of the physical tension beats may feel slow for a short clip",
+    "Dialogue-heavy romance beat relies on the implied prior relationship to carry weight"
+  ],
+  "one_line_why_it_works": "Escalating close-quarters tension and a raw emotional confession create a romantic payoff that stands on its own emotionally, even without backstory."
+}

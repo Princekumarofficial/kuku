@@ -1,0 +1,157 @@
+{
+  "stage": "candidate_discovery",
+  "system": "Find diverse promo opportunities, preferably 8-12 if supported. Return hook and unresolved ending anchors, not timestamps. A continuous clip must last 20-60 seconds with its hook in the first 3 seconds, understandable without prior context. Check the anchor timestamps: ending.end_ms minus hook.start_ms should be 20,000-60,000ms. Do not propose isolated 2-10 second moments. Both anchors and required context must fit in one supplied coverage interval. Ending anchors should precede resolution. Context refs must occur within the clip. Empty opportunities are valid when evidence is insufficient.",
+  "user": "EP=ep_040; timestamps are integer milliseconds\nSOURCE_SHA256=9b116fc10ed5209d6d3a109f10f574cd6f4a1b680f5e1cf66a99e6f02b7b51e0\nMETADATA ONLY (not on-screen evidence): {'logline': \"High society gathers at the grand cathedral for Rupert and Catherine's lavish wedding, while the conspirators ensure every exit is sealed to seal Juliana's execution—unaware that Alexander's retribution is already at their gates.\", 'continuity_notes': 'Picks up right after Alexander commands his men to secure the chapel and vows to reclaim his house and rescue Juliana; inside the cathedral, the wedding guests arrive and the conspirators finalize their sinister plot.'}\nSOURCE WARNINGS=['sc_001: incomplete source coverage; gaps are unavailable']\nSCENE sc_001 0-34200 EXT. CATHEDRAL STEPS – DAY\nEP40:E1 0-4800 CAMERA: Wide establishing shot looking up at the imposing stone Gothic cathedral as noble guests in formal Regency attire ascend the grand steps.\nEP40:E2 0-4800 SOUND: Somber cathedral bells tolling and the distant murmur of arriving carriages.\nEP40:E3 4800-8500 CAMERA: Medium wide shot of an ornate black and gold royal carriage pulling up to the cobblestone courtyard. A footman in white gloves steps forward and opens the carriage door.\nEP40:E4 5500-7400 FOOTMAN [Formal, Resonant]: \"The Harrington family.\"\nEP40:E5 8500-12200 CAMERA: Medium shot as Lord Harrington in a tailored black tailcoat and white waistcoat steps down from the carriage, turning to extend his gloved hand to Lady Harrington, who gracefully descends.\nEP40:E6 10000-12400 ACTION: Lady Harrington takes his hand and steps onto the pavement, clutching a velvet reticule.\nEP40:E7 12400-17300 LADY HARRINGTON [Smug, Impressed]: \"Look at them. Every noble family in the county is here today.\"\nEP40:E8 12400-19000 CAMERA: Medium two-shot tracking slightly as Lord and Lady Harrington pause arm-in-arm, taking in the gathering crowd of high society.\nEP40:E9 19000-23000 CAMERA: Low-angle shot from behind as they ascend the stone steps toward the arched cathedral entrance.\nEP40:E10 19200-23000 LORD HARRINGTON [Ambitious, Proud]: \"And soon, we'll be connected to the Duchess of Ashburgh.\"\nEP40:E11 23000-26200 CAMERA: Tight close-up profile of Lady Harrington, her eyes glistening with cruel satisfaction in the soft sunlight.\nEP40:E12 23200-26000 LADY HARRINGTON [Malicious, Taunting]: \"Imagine Juliana seeing this.\"\nEP40:E13 26200-30000 CAMERA: Tight close-up of Lord Harrington looking down at her, his expression cold and ruthless.\nEP40:E14 26200-28900 LORD HARRINGTON [Sinister, Dismissive]: \"She won't be seeing anything for long.\"\nEP40:E15 29000-29900 LADY HARRINGTON [Pleased, Cold]: \"Good.\"\nEP40:E16 30100-33200 LORD HARRINGTON [Chuckling, Scornful]: \"This place has always been unlucky for Juliana.\"\nEP40:E17 32800-34200 ACTION: Lady Harrington lets out a soft, amused laugh as they reach the heavy wooden cathedral doors.\nSCENE sc_002 34200-49800 INT. CATHEDRAL – CONTINUOUS\nEP40:E18 34200-40500 CAMERA: Dramatic tracking shot following Lord and Lady Harrington from behind as they stride down the candlelit aisle of the cathedral toward their reserved pew.\nEP40:E19 34400-39000 LADY HARRINGTON [Vindictive, Pious]: \"She stands beneath God's watch and still gets exactly what she deserves.\"\nEP40:E20 40500-42200 ACTION: Lord and Lady Harrington slide gracefully into the polished wooden pew, smoothing their garments.\nEP40:E21 40500-45200 CAMERA: Medium profile shot of the couple seated in the pew, looking toward the grand altar.\nEP40:E22 42000-44000 LADY HARRINGTON [Anticipatory, Eager]: \"We have an excellent view.\"\nEP40:E23 44100-45200 LORD HARRINGTON [Inquiring, Subdued]: \"Of the wedding?\"\nEP40:E24 45200-49800 CAMERA: Close-up two-shot as Lady Harrington turns her head toward Lord Harrington with a dark, knowing smirk.\nEP40:E25 45300-48300 LADY HARRINGTON [Chilling, Sarcastic]: \"And everything that comes after it.\"\nSCENE sc_003 49800-78500 INT. CATHEDRAL – ALTAR & BALCONY – CONTINUOUS\nEP40:E26 49800-55800 CAMERA: Medium shot of Rupert, the Blond Nobleman, standing before the altar draped in floral garlands. He wears an ornate silver-embroidered black formal coat and nervously adjusts his pristine white gloves.\nEP40:E27 50800-53200 BLOND NOBLEMAN [Nervous, Determined]: \"Everything must go perfectly.\"\nEP40:E28 53200-55800 ACTION: Rupert smooths the lapels of his coat, checking his posture as he waits for the bride.\nEP40:E29 55800-58200 CAMERA: Medium shot up on the stone balcony overlooking the nave, where an elder conspirator nobleman in black gloves stands gripping a cane.\nEP40:E30 58200-63800 CAMERA: High-angle wide shot looking down from the balcony across the entire cathedral filled with guests, candles lining the central aisle, and royal guards standing at attention.\nEP40:E31 63800-69500 CAMERA: Medium shot on the balcony as a Royal Guard in red uniform and tall bearskin hat steps up and bows respectfully to the elder nobleman.\nEP40:E32 65000-66800 ELDER NOBLEMAN [Stern, Scheming]: \"All entrances are covered?\"\nEP40:E33 66900-68200 ROYAL GUARD [Obedient, Firm]: \"Every one, my Lord.\"\nEP40:E34 68300-69300 ELDER NOBLEMAN [Calculating]: \"Good.\"\nEP40:E35 69500-74500 CAMERA: Over-the-shoulder shot from behind the elder nobleman, his gloved hand resting on the stone balustrade, looking down upon the altar and seated aristocrats.\nEP40:E36 69800-74200 ELDER NOBLEMAN [Ruthless, Victorious]: \"By sunset, Ashburgh will have its new Duke and Duchess.\"\nEP40:E37 74500-78500 CAMERA: Tight, menacing close-up on the elder nobleman's face as a cold, sinister smile spreads across his lips.\nEP40:E38 74800-77400 ELDER NOBLEMAN [Deadly, Uncompromising]: \"And its witch will be dead.\"\nSCENE sc_004 78500-110080 INT. CATHEDRAL – CONTINUOUS\nEP40:E39 78500-81000 SOUND: The heavy creak of massive wooden cathedral doors swinging open, accompanied by swelling bridal organ music.\nEP40:E40 78500-81000 CAMERA: Wide symmetrical shot down the candlelit aisle as the double doors part, flooding the cathedral with brilliant golden daylight.\nEP40:E41 81000-82500 CAMERA: Close-up of Rupert turning his head sharply, his eyes widening in awe.\nEP40:E42 82500-85800 CAMERA: Framed wide shot of Catherine silhouetted in the bright doorway, wearing a breathtaking cream and gold imperial bridal gown with puffed sleeves and an exquisite sheer veil.\nEP40:E43 85800-90800 CAMERA: Majestic high-angle wide tracking shot following Catherine from behind as her magnificent cathedral-length veil trails down the aisle between seated guests.\nEP40:E44 90800-94500 CAMERA: Medium close-up of Lady Harrington leaning forward from her pew, utterly captivated.\nEP40:E45 92000-94200 LADY HARRINGTON [Awestruck, Whispering]: \"She looks like a queen.\"\nEP40:E46 94500-97500 CAMERA: Medium shot of Rupert at the altar, a proud, possessive smile breaking across his handsome face.\nEP40:E47 97500-102800 CAMERA: Full shot as Catherine reaches the top of the altar steps. Rupert steps forward and takes her gloved hands into his.\nEP40:E48 100000-102800 BLOND NOBLEMAN [Enamored, Flattering]: \"You look more queen than bride.\"\nEP40:E49 102800-110080 CAMERA: Tight two-shot profile of Catherine and Rupert clasping hands intimately, gazing into each other's eyes with shared aristocratic vanity.\nEP40:E50 105000-109000 CATHERINE [Smug, Coquettish]: \"And you look better in silk than you ever did as an ignored cousin.\"\nEP40:E51 109000-110080 ACTION: Rupert and Catherine exchange conspiratorial, triumphant smiles at the altar as the solemn organ chord holds and the scene cuts to black.\nAVAILABLE COVERAGE (milliseconds)=[{\"start_ms\": 0, \"end_ms\": 30000}, {\"start_ms\": 30100, \"end_ms\": 110080}]\nEPISODE ANALYSIS={\"episode_id\":\"ep_040\",\"summary\":\"Coverage is incomplete: the source warning notes gaps that are unavailable, and the on-screen evidence runs only through EP40:E51 (scenes sc_001 to sc_004, ending at 110080 ms with a cut to black). Analysis rests solely on event text; the supplied metadata (logline and continuity notes) is not on-screen evidence and was not used for any claims. Lord and Lady Harrington arrive at the cathedral and discuss a Juliana they expect to be harmed, with the Duchess of Ashburgh connection implied. An elder nobleman and a Royal Guard confirm all entrances are covered, and the elder nobleman says Ashburgh will have a new Duke and Duchess by sunset and that its witch will be dead. Rupert and Catherine's wedding then proceeds, with a conspiratorial exchange at the altar. Whether Rupert and Catherine are knowing conspirators, the identities of the elder nobleman and guard beyond on-screen roles, and the fate of Juliana are not established by the visible evidence; these are reported as uncertain.\",\"characters\":[{\"name\":\"Lord Harrington\",\"role\":\"Noble, ambitious and proud; arrives with Lady Harrington and speaks of the Duchess of Ashburgh connection and Juliana's fate (E10, E14, E16, E23)\"},{\"name\":\"Lady Harrington\",\"role\":\"Noble, malicious and smug; taunts about Juliana and expresses vindictive anticipation (E7, E12, E19, E22, E25, E45)\"},{\"name\":\"Rupert (the Blond Nobleman)\",\"role\":\"Groom at the altar; speaks nervously and smugly at the ceremony (E26, E27, E48)\"},{\"name\":\"Catherine\",\"role\":\"Bride entering the cathedral; speaks with coquettish smugness (E42, E50)\"},{\"name\":\"Elder Nobleman\",\"role\":\"Unnamed elder conspirator on the balcony; gives orders and voices the threat against Ashburgh's witch (E29, E32, E34, E36, E38)\"},{\"name\":\"Royal Guard\",\"role\":\"Unnamed guard in red uniform reporting that all entrances are covered (E31, E33)\"},{\"name\":\"Footman\",\"role\":\"Unnamed footman who announces the Harrington family (E3, E4)\"}],\"beats\":[{\"id\":\"b_001\",\"kind\":\"arrival\",\"event_refs\":[\"EP40:E1\",\"EP40:E2\",\"EP40:E3\",\"EP40:E4\",\"EP40:E5\",\"EP40:E6\"],\"description\":\"Noble guests ascend the cathedral steps as the Harringtons arrive by carriage and are announced.\",\"intensity_0_10\":3.0},{\"id\":\"b_002\",\"kind\":\"menace_setup\",\"event_refs\":[\"EP40:E7\",\"EP40:E8\",\"EP40:E9\",\"EP40:E10\",\"EP40:E11\",\"EP40:E12\",\"EP40:E13\",\"EP40:E14\",\"EP40:E15\",\"EP40:E16\",\"EP40:E17\"],\"description\":\"The Harringtons speak of connection to the Duchess of Ashburgh and of Juliana, whom Lord Harrington says will not be seeing anything for long; the exchange is ominous but its exact nature is not fully explained on screen.\",\"intensity_0_10\":6.0},{\"id\":\"b_003\",\"kind\":\"anticipation\",\"event_refs\":[\"EP40:E18\",\"EP40:E19\",\"EP40:E20\",\"EP40:E21\",\"EP40:E22\",\"EP40:E23\",\"EP40:E24\",\"EP40:E25\"],\"description\":\"The Harringtons take their pew and Lady Harrington hints at a sinister outcome 'after' the wedding.\",\"intensity_0_10\":6.0},{\"id\":\"b_004\",\"kind\":\"conspiracy_reveal\",\"event_refs\":[\"EP40:E29\",\"EP40:E30\",\"EP40:E31\",\"EP40:E32\",\"EP40:E33\",\"EP40:E34\",\"EP40:E35\",\"EP40:E36\",\"EP40:E37\",\"EP40:E38\"],\"description\":\"On the balcony an elder nobleman confirms through a Royal Guard that all entrances are covered and voices a plan for Ashburgh's new rulers and the death of its witch by sunset.\",\"intensity_0_10\":8.0},{\"id\":\"b_005\",\"kind\":\"ceremony_entrance\",\"event_refs\":[\"EP40:E39\",\"EP40:E40\",\"EP40:E41\",\"EP40:E42\",\"EP40:E43\",\"EP40:E44\",\"EP40:E45\",\"EP40:E46\",\"EP40:E47\"],\"description\":\"Catherine enters the cathedral in a bridal gown to organ music and approaches the altar where Rupert waits.\",\"intensity_0_10\":5.0},{\"id\":\"b_006\",\"kind\":\"ceremony_exchange\",\"event_refs\":[\"EP40:E48\",\"EP40:E49\",\"EP40:E50\",\"EP40:E51\"],\"description\":\"Rupert and Catherine exchange flattering and smug remarks and a conspiratorial look at the altar before the scene cuts to black.\",\"intensity_0_10\":5.0}],\"revelations\":[{\"id\":\"r_001\",\"event_refs\":[\"EP40:E32\",\"EP40:E33\",\"EP40:E34\"],\"claim\":\"The cathedral's exits are reportedly covered on the elder nobleman's orders, suggesting a planned containment of guests.\",\"spoiler_significance_0_10\":6.0,\"creates_questions\":[\"Who exactly is the elder nobleman and how is he tied to the Harringtons?\",\"Why are all entrances being covered?\"]},{\"id\":\"r_002\",\"event_refs\":[\"EP40:E36\",\"EP40:E38\"],\"claim\":\"The elder nobleman plans for Ashburgh to have a new Duke and Duchess by sunset and states that its witch will be dead.\",\"spoiler_significance_0_10\":8.0,\"creates_questions\":[\"Who is the witch the elder nobleman refers to, and is it Juliana?\",\"Who are the intended new Duke and Duchess?\",\"Does the plan succeed?\"]},{\"id\":\"r_003\",\"event_refs\":[\"EP40:E14\",\"EP40:E16\"],\"claim\":\"Lord Harrington implies Juliana will soon be unable to see anything and mocks her unluckiness at this place, suggesting harm is planned against her.\",\"spoiler_significance_0_10\":6.0,\"creates_questions\":[\"What exactly is planned for Juliana?\",\"Is Juliana present at the cathedral?\"]},{\"id\":\"r_004\",\"event_refs\":[\"EP40:E48\",\"EP40:E50\",\"EP40:E51\"],\"claim\":\"Catherine's remark about Rupert being an ignored cousin and the conspiratorial exchange at the altar hint that the couple may be part of the plot, though this is not confirmed on screen.\",\"spoiler_significance_0_10\":5.0,\"creates_questions\":[\"Are Rupert and Catherine knowingly involved in the conspiracy?\",\"What is the family relationship and history between Rupert and Catherine?\"]}],\"unresolved_questions\":[{\"question\":\"What is Juliana's fate and where is she?\",\"introduced_by\":[\"EP40:E12\",\"EP40:E14\",\"EP40:E16\"]},{\"question\":\"Who is the elder nobleman and what is his relationship to the Harringtons?\",\"introduced_by\":[\"EP40:E29\",\"EP40:E32\",\"EP40:E36\"]},{\"question\":\"Who is the witch the elder nobleman plans to kill?\",\"introduced_by\":[\"EP40:E38\"]},{\"question\":\"Who will become the new Duke and Duchess of Ashburgh, and how do the Harringtons connect to them?\",\"introduced_by\":[\"EP40:E10\",\"EP40:E36\"]},{\"question\":\"Are Rupert and Catherine knowing participants in the conspiracy?\",\"introduced_by\":[\"EP40:E50\",\"EP40:E51\"]},{\"question\":\"What happens at sunset and during the events beyond the wedding, given that the source coverage is incomplete?\",\"introduced_by\":[\"EP40:E25\",\"EP40:E36\"]}]}\nSERIES CONTEXT={\"series_id\":\"series_001\",\"premise\":\"Lady Juliana is publicly jilted at the altar when her fiance Gerald chooses her sister Clarissa, and her family rejects her. She marries a scarred, unnamed Bearded Man (later revealed on screen as Alexander, a presumed-dead soldier and Duke), and the couple is repeatedly targeted by antagonists. Juliana uses her late mother's herbal knowledge to heal the sick, which draws accusations of witchcraft and poisoning, while Alexander's return and claim to his ducal title set up a confrontation with the conspirators who hid his survival.\",\"arcs\":[{\"id\":\"arc_jilting_and_family_rejection\",\"description\":\"Juliana is jilted at the altar by Gerald, humiliated by her sister Clarissa and disowned by her family, which sets off the series' central betrayal.\",\"beat_refs\":[{\"episode_id\":\"ep_001\",\"beat_id\":\"B02\"},{\"episode_id\":\"ep_001\",\"beat_id\":\"B03\"},{\"episode_id\":\"ep_001\",\"beat_id\":\"B09\"},{\"episode_id\":\"ep_001\",\"beat_id\":\"B10\"},{\"episode_id\":\"ep_002\",\"beat_id\":\"b01\"},{\"episode_id\":\"ep_002\",\"beat_id\":\"b05\"},{\"episode_id\":\"ep_003\",\"beat_id\":\"b3\"},{\"episode_id\":\"ep_004\",\"beat_id\":\"B11\"}]},{\"id\":\"arc_exile_and_marriage_to_the_bearded_man\",\"description\":\"After the rejection, the unnamed Bearded Man intervenes, offers Juliana a ring and a vow, and the couple leaves the family behind to live in hardship in a cottage.\",\"beat_refs\":[{\"episode_id\":\"ep_003\",\"beat_id\":\"b9\"},{\"episode_id\":\"ep_004\",\"beat_id\":\"B8\"},{\"episode_id\":\"ep_004\",\"beat_id\":\"B9\"},{\"episode_id\":\"ep_005\",\"beat_id\":\"b1\"},{\"episode_id\":\"ep_005\",\"beat_id\":\"b3\"},{\"episode_id\":\"ep_006\",\"beat_id\":\"b2\"},{\"episode_id\":\"ep_006\",\"beat_id\":\"b8\"}]},{\"id\":\"arc_healing_and_poisoning_conspiracy\",\"description\":\"Juliana's herbal healing draws her into the household of the ailing Dowager Duchess, where she uncovers evidence of arsenic poisoning and is pulled into a dangerous conflict with Catherine and Rupert.\",\"beat_refs\":[{\"episode_id\":\"ep_009\",\"beat_id\":\"b02\"},{\"episode_id\":\"ep_022\",\"beat_id\":\"B6\"},{\"episode_id\":\"ep_023\",\"beat_id\":\"beat_2\"},{\"episode_id\":\"ep_023\",\"beat_id\":\"beat_6\"},{\"episode_id\":\"ep_024\",\"beat_id\":\"B7\"},{\"episode_id\":\"ep_025\",\"beat_id\":\"b5\"},{\"episode_id\":\"ep_026\",\"beat_id\":\"b6\"},{\"episode_id\":\"ep_028\",\"beat_id\":\"b4\"}]},{\"id\":\"arc_frame_up_and_imprisonment\",\"description\":\"Juliana and Alexander are framed with a stolen watch and with witchcraft and poisoning charges, leading to Juliana's arrest, torture and public trial.\",\"beat_refs\":[{\"episode_id\":\"ep_011\",\"beat_id\":\"b6\"},{\"episode_id\":\"ep_012\",\"beat_id\":\"B6\"},{\"episode_id\":\"ep_029\",\"beat_id\":\"b07\"},{\"episode_id\":\"ep_031\",\"beat_id\":\"b9\"},{\"episode_id\":\"ep_034\",\"beat_id\":\"B9\"}]},{\"id\":\"arc_alexander_return_and_reclamation\",\"description\":\"Alexander's survival is revealed after an ambush he was believed to have died in, and he moves to expose the conspirators who hid him, reclaim his title and rescue Juliana before her execution.\",\"beat_refs\":[{\"episode_id\":\"ep_035\",\"beat_id\":\"b7\"},{\"episode_id\":\"ep_036\",\"beat_id\":\"b8\"},{\"episode_id\":\"ep_039\",\"beat_id\":\"B5\"},{\"episode_id\":\"ep_042\",\"beat_id\":\"b11\"},{\"episode_id\":\"ep_045\",\"beat_id\":\"B6\"},{\"episode_id\":\"ep_046\",\"beat_id\":\"B2\"}]}],\"key_revelations\":[{\"episode_id\":\"ep_001\",\"revelation_id\":\"R01\",\"prerequisite_context\":[\"Gerald is holding the hand of the Lady in Gold Gown at the altar\",\"The Lady in Gold Gown states that Gerald is marrying her\"]},{\"episode_id\":\"ep_001\",\"revelation_id\":\"R02\",\"prerequisite_context\":[\"The Lady in Gold Gown knew of the betrayal in advance\",\"She says Gerald was never going to marry Juliana\"]},{\"episode_id\":\"ep_004\",\"revelation_id\":\"R4\",\"prerequisite_context\":[\"The priest pronounces the couple husband and wife in an off-screen voice\",\"The priest had earlier hesitated before proceeding\"]},{\"episode_id\":\"ep_011\",\"revelation_id\":\"r1\",\"prerequisite_context\":[\"Gerald accuses Alexander of stealing his gold pocket watch\",\"The Constable finds a gold pocket watch inside Alexander's coat\"]},{\"episode_id\":\"ep_023\",\"revelation_id\":\"rev_2\",\"prerequisite_context\":[\"Juliana's late mother's journal records toxic symptoms matching the Duchess's condition\",\"Juliana asserts that someone is poisoning the Duchess\"]},{\"episode_id\":\"ep_027\",\"revelation_id\":\"r1\",\"prerequisite_context\":[\"The Duchess says the ring bears the Ashbourne crest\",\"Juliana says her husband gave her the ring\"]},{\"episode_id\":\"ep_028\",\"revelation_id\":\"r3\",\"prerequisite_context\":[\"Catherine reads the herbarium inscription Juliana Ashcroft\",\"Catherine names her Lady Juliana Ashcroft\"]},{\"episode_id\":\"ep_035\",\"revelation_id\":\"r2\",\"prerequisite_context\":[\"Alexander says the ambush was ordered to erase him\",\"Alexander says someone wanted his mother to believe he was dead\"]},{\"episode_id\":\"ep_036\",\"revelation_id\":\"r7\",\"prerequisite_context\":[\"Juliana was arrested and accused of poisoning Alexander\",\"The mother reports that Juliana was condemned by a magistrate\"]},{\"episode_id\":\"ep_045\",\"revelation_id\":\"R1\",\"prerequisite_context\":[\"Alexander kneels before Juliana and unchains her\",\"Alexander identifies himself as Alexander Ashburton, the rightful Duke\"]}]}",
+  "schema": {
+    "$defs": {
+      "EpisodeOpportunity": {
+        "additionalProperties": false,
+        "properties": {
+          "scope": {
+            "const": "episode",
+            "title": "Scope",
+            "type": "string"
+          },
+          "local_id": {
+            "title": "Local Id",
+            "type": "string"
+          },
+          "episode_id": {
+            "title": "Episode Id",
+            "type": "string"
+          },
+          "concept": {
+            "title": "Concept",
+            "type": "string"
+          },
+          "hook_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Hook Refs",
+            "type": "array"
+          },
+          "ending_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Ending Refs",
+            "type": "array"
+          },
+          "context_refs": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Context Refs",
+            "type": "array"
+          },
+          "why_promising": {
+            "title": "Why Promising",
+            "type": "string"
+          }
+        },
+        "required": [
+          "scope",
+          "local_id",
+          "episode_id",
+          "concept",
+          "hook_refs",
+          "ending_refs",
+          "context_refs",
+          "why_promising"
+        ],
+        "title": "EpisodeOpportunity",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "opportunities": {
+        "items": {
+          "$ref": "#/$defs/EpisodeOpportunity"
+        },
+        "title": "Opportunities",
+        "type": "array"
+      }
+    },
+    "required": [
+      "opportunities"
+    ],
+    "title": "EpisodeDiscovery",
+    "type": "object"
+  },
+  "state": "complete",
+  "output": {
+    "opportunities": [
+      {
+        "scope": "episode",
+        "local_id": "ep40_opp_01",
+        "episode_id": "ep_040",
+        "concept": "Lord and Lady Harrington's ominous prophecy that the elder nobleman's plan will leave Ashburgh with a new Duke and Duchess, with its witch dead by sunset, set against the wedding guests and the sealed cathedral exits.",
+        "hook_refs": [
+          "EP40:E38"
+        ],
+        "ending_refs": [
+          "EP40:E51"
+        ],
+        "context_refs": [
+          "EP40:E37"
+        ],
+        "why_promising": "The hook is a direct threat delivered in the first moments of the clip, and the clip runs about 35 seconds to an unresolved ceremony cut to black with conspiratorial smiles, leaving the witch's identity and the outcome open."
+      },
+      {
+        "scope": "episode",
+        "local_id": "ep40_opp_02",
+        "episode_id": "ep_040",
+        "concept": "Lady Harrington's vindictive remark that the woman under God's watch still gets exactly what she deserves, leading into the couple's anticipation of the wedding and the elder nobleman's scheming on the balcony.",
+        "hook_refs": [
+          "EP40:E19"
+        ],
+        "ending_refs": [
+          "EP40:E36"
+        ],
+        "context_refs": [
+          "EP40:E25",
+          "EP40:E32"
+        ],
+        "why_promising": "The hook opens with a cruel line about an unnamed victim that creates immediate tension, and the clip spans about 40 seconds through the Harringtons' pew scene to the elder nobleman's sunset threat, ending before the plot is resolved."
+      },
+      {
+        "scope": "episode",
+        "local_id": "ep40_opp_03",
+        "episode_id": "ep_040",
+        "concept": "Lord Harrington's chilling remark that the cathedral has always been unlucky for Juliana, followed by the Harringtons' pew scene and Lady Harrington's hint at a sinister outcome after the wedding.",
+        "hook_refs": [
+          "EP40:E16"
+        ],
+        "ending_refs": [
+          "EP40:E27"
+        ],
+        "context_refs": [
+          "EP40:E19",
+          "EP40:E25"
+        ],
+        "why_promising": "The hook targets Juliana's fate with a mocking line that raises an open question, and the roughly 23-second clip ends on Rupert's anxious demand that everything must go perfectly, leaving the wedding's purpose unresolved."
+      },
+      {
+        "scope": "episode",
+        "local_id": "ep40_opp_04",
+        "episode_id": "ep_040",
+        "concept": "The elder nobleman's question to the royal guard about whether all entrances are covered, which leads to the guard's confirmation and the wedding's ceremonial entrance and smug altar exchange.",
+        "hook_refs": [
+          "EP40:E32"
+        ],
+        "ending_refs": [
+          "EP40:E50"
+        ],
+        "context_refs": [
+          "EP40:E29",
+          "EP40:E31"
+        ],
+        "why_promising": "The hook is a tense question that establishes a containment plot in its first seconds, and the roughly 45-second clip ends on Catherine's pointed remark about Rupert being an ignored cousin, which hints at a hidden alliance without resolving it."
+      }
+    ]
+  }
+}

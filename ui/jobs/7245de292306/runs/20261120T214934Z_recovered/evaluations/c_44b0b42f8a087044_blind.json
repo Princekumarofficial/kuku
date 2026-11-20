@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_44b0b42f8a087044",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP26:E23",
+      "EP26:E25",
+      "EP26:E26"
+    ],
+    "reason": "Within the opening 3000ms the Duchess is shown processing a warning with dark realization (E23) and trembling with certainty (E25), then states an immediate, high-stakes accusation that Rupert and Catherine want her dead and are poisoning her (E26). This gives an instant question about who is poisoning whom."
+  },
+  "cliffhanger": {
+    "score_0_10": 8.5,
+    "evidence_refs": [
+      "EP26:E48",
+      "EP26:E49"
+    ],
+    "reason": "In the final 3000ms the Duchess, with tears in her eyes, demands 'Where did you get this ring? Speak to me!' (E49), and the clip ends on that demand before any answer is given. The question is open and the ring's significance is not resolved within the clip, so this is an unresolved cliffhanger rather than a resolved intense moment.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Identity and relationship of Rupert and Catherine",
+      "Why the Duchess believes she is being poisoned and whether the charcoal treatment is valid",
+      "Juliana's family history and why she was 'cast out'",
+      "Significance of the engraved signet ring and why it provokes the Duchess",
+      "Role and significance of the small amber dropper bottle on the bedside table",
+      "Meaning of the Duchess's 'seen a ghost' reaction"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "The clip builds strong emotional tension through the trembling voice, stunned gasp, all color draining from the Duchess's face, frantic grasping, and tears in her eyes during the final demand. The emotional intensity is clearly conveyed even without knowing the backstory."
+  },
+  "weaknesses": [
+    "Several named characters and objects (Rupert, Catherine, the amber dropper bottle, the signet ring) are introduced without enough context for a first-time viewer to understand their importance.",
+    "The ring's connection to the Duchess's reaction is shown only through reaction, so the viewer cannot tell what it means.",
+    "Juliana's backstory is asserted in dialogue but not explained, which weakens standalone clarity.",
+    "The poisoning premise is stated as belief and not confirmed, so the clip's stakes depend on information outside the clip."
+  ],
+  "one_line_why_it_works": "A tense accusation of poisoning opens the clip, a visible ring triggers a shocking reaction, and the Duchess's urgent demand for an answer ends the clip on an open question."
+}

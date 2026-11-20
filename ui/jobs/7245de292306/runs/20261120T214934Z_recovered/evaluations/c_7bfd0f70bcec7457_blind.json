@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_7bfd0f70bcec7457",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP25:E38",
+      "EP25:E39",
+      "EP25:E49"
+    ],
+    "reason": "The clip opens on an immediate shock close-up and the line 'The Dowager?', which raises a question at once. It builds to the one-word reveal 'Poison.' at the end, so the opening and closing beats both carry the hook."
+  },
+  "cliffhanger": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP25:E47",
+      "EP25:E48",
+      "EP25:E49"
+    ],
+    "reason": "Alexander asks 'What did you find?' and the clip ends on Juliana's trembling lips and the single word 'Poison.' The poisoning is revealed but its consequences and who is responsible are left open, so the clip ends unresolved.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who the Dowager is and her relationship to Alexander and Juliana",
+      "Who Prudence is and why her earlier report matters",
+      "The bedchamber scene and what the doctor concluded",
+      "What Alexander and Juliana are doing on the trail and why the discovery matters",
+      "Who may have poisoned the Dowager and why"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Shock on Alexander's face, grim expressions, and Juliana's trembling lips convey a strong sense of dread and suspense."
+  },
+  "weaknesses": [
+    "Heavy reliance on unnamed characters and off-screen events makes the stakes hard to grasp for a first-time viewer",
+    "The reveal of 'Poison.' is strong but the clip gives no sense of who is responsible or what happens next",
+    "Dialogue is sparse in the middle section, so the stretch between 2700 and 13000ms relies on camera movement rather than content"
+  ],
+  "one_line_why_it_works": "A shocked close-up, a sharp question about the Dowager, and a slow-build reveal ending on the single word 'Poison.' create suspense that leaves the viewer wanting to know who did it."
+}

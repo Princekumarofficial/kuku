@@ -1,0 +1,403 @@
+{
+  "stage": "episode_analysis",
+  "system": "Analyze narrative beats, characters, revelations and unresolved questions. Only event text is on-screen evidence; metadata may describe unseen events. Use supplied EPxx:Ex aliases. Report uncertainty in the summary. A revelation's significance is not its spoiler damage.",
+  "user": "EP=ep_014; timestamps are integer milliseconds\nSOURCE_SHA256=23e67fb015dbfbf003d1008f2fd5033dfa192100b1eced5d1bb3e28d31c3844d\nMETADATA ONLY (not on-screen evidence): {'logline': \"After Juliana secures Alexander's freedom with the unearthed emerald signet ring, he carries her home to bandage her torn hands, silently swearing that no one will ever harm her again.\", 'continuity_notes': \"Picks up immediately from Episode 13's cliffhanger where Juliana grasped the emerald ring beneath the razor-sharp blackthorns.\"}\nSOURCE WARNINGS=[]\nSCENE sc_001 0-40500 EXT. BLACKTHORN GARDEN – DUSK\nEP14:E1 0-5600 CAMERA: Close-up low angle looking through dense, sharp blackthorn branches onto the cracked, frozen soil.\nEP14:E2 500-5500 ACTION: Juliana's blood-streaked, mud-caked hand slowly uncurls amidst the thorns, revealing the ornate emerald signet ring resting in her palm.\nEP14:E3 1000-5500 SOUND: Eerie cold wind whistling over the briars with deep, atmospheric cello chords.\nEP14:E4 5600-9500 CAMERA: Medium close-up of Juliana stepping out from the briar patch, her cloak torn, cheeks scratched, holding the ring outward with unwavering resolve.\nEP14:E5 7700-9000 JULIANA [Exhausted, Resolute]: \"I found it.\"\nEP14:E6 9500-13500 CAMERA: Wide shot of Juliana holding the ring out toward the austere Police Constable standing guard beside the frozen garden.\nEP14:E7 10500-12700 JULIANA [Firm, Commanding]: \"Now release my husband.\"\nEP14:E8 12500-13500 ACTION: The Constable takes the ring from her bloodied fingers.\nEP14:E9 13500-15500 CAMERA: Tight shot on the iron shackles locking Alexander's wrists together against the thorny backdrop.\nEP14:E10 14200-15400 SOUND: Sharp metallic click and clinking rattle of heavy iron handcuffs unlocking and falling away.\nEP14:E11 14500-15600 ACTION: The Constable unlocks the cuffs, freeing Alexander's large hands.\nEP14:E12 15600-18500 CAMERA: Tracking shot as Alexander lunges forward without hesitation, rushing past the Constable straight to Juliana.\nEP14:E13 16800-18000 ALEXANDER [Gasping, Urgent]: \"Juliana.\"\nEP14:E14 18500-23000 CAMERA: Close-up on Alexander's rugged hands tenderly grasping Juliana's bloodied, lacerated hands, turning them over with immense care.\nEP14:E15 18800-23000 ACTION: Alexander gently turns her palms up, his thumbs trembling as he inspects the deep, bleeding gashes gouged into her skin.\nEP14:E16 23000-25500 CAMERA: Close-up on Alexander's agonized, furious expression as he stares at her wounds.\nEP14:E17 23100-25000 ALEXANDER [Trembling, Heartbroken]: \"What have they done to you?\"\nEP14:E18 25500-29500 CAMERA: Close-up on Juliana's pale, tear-streaked face looking back into his eyes with tender relief.\nEP14:E19 26500-28500 JULIANA [Softly, Stifling Pain]: \"Nothing they didn't promise.\"\nEP14:E20 29500-32500 CAMERA: Medium profile two-shot of Alexander and Juliana gazing into each other's eyes amidst the cold mist.\nEP14:E21 29800-32000 JULIANA [Faint, Pleading]: \"Take me home.\"\nEP14:E22 32500-38500 CAMERA: Low-angle medium shot as Alexander effortlessly scoops Juliana into his arms, gathering her up against his chest.\nEP14:E23 33200-37000 ACTION: Alexander lifts Juliana bridal-style, wrapping his strong arms protectively around her as she rests against his shoulder.\nEP14:E24 35800-38500 ALEXANDER [Deep, Sorrowful]: \"You should never have had to bleed for me.\"\nEP14:E25 38500-40500 CAMERA: Medium tracking shot behind stone balustrades as Alexander carries Juliana past the foggy estate grounds.\nSCENE sc_002 40500-43500 EXT. ALEXANDER'S COTTAGE – CONTINUOUS\nEP14:E26 40500-43500 CAMERA: Wide establishing shot of the humble stone cottage standing isolated beneath dark, overcast stormy skies on a rain-slicked dirt road.\nEP14:E27 40500-43500 SOUND: Gentle patter of rain and cold wind howling in the desolate countryside.\nSCENE sc_003 43500-87630 INT. ALEXANDER'S COTTAGE – NIGHT\nEP14:E28 43500-47000 CAMERA: Warm interior wide shot in front of a roaring hearth fire. Juliana sits on a wooden chair while Alexander kneels on the floor before her, a washbasin of water between them.\nEP14:E29 44000-47000 ACTION: Alexander gently wraps clean linen bandages around Juliana's torn wrist and palm.\nEP14:E30 44000-47500 SOUND: Crackling flames and wood popping in the open fireplace.\nEP14:E31 47000-50500 CAMERA: Intimate over-the-shoulder close-up looking up into Juliana's face from Alexander's perspective.\nEP14:E32 47200-49800 ALEXANDER [Hoarse, Stricken]: \"You could have lost your hands.\"\nEP14:E33 50500-55500 CAMERA: Extreme close-up on Juliana's glistening eyes and trembling lips, firelight reflecting softly across her face.\nEP14:E34 51800-54000 JULIANA [Whispered, Emotional]: \"But I didn't lose you.\"\nEP14:E35 55500-58500 CAMERA: Close-up on Alexander's scarred, weathered fingers wrapping the cloth tightly yet gently around her lacerations.\nEP14:E36 58500-60500 CAMERA: Close-up on Alexander looking up at her with profound remorse and affection.\nEP14:E37 58500-60000 ALEXANDER [Quiet, Tender]: \"I'm sorry.\"\nEP14:E38 60500-63500 CAMERA: Close-up on Juliana smiling faintly through her tears, shaking her head.\nEP14:E39 60500-62500 JULIANA [Gentle, Reassuring]: \"You didn't hurt me.\"\nEP14:E40 63500-66000 CAMERA: Side profile close-up of Alexander lowering his head solemnly in front of her.\nEP14:E41 66000-70500 CAMERA: Medium two-shot as Alexander gently drapes a heavy warm woolen blanket across Juliana's lap and around her shoulders.\nEP14:E42 66000-67400 JULIANA [Loving, Earnest]: \"You have taken my place today.\"\nEP14:E43 67500-69800 JULIANA [Continuing]: \"And you are doing it better than me.\"\nEP14:E44 70500-76000 CAMERA: Medium shot as Juliana rests her cheek against Alexander's chest; he embraces her tightly against him, cradling her head under his chin.\nEP14:E45 71000-76000 ACTION: Juliana closes her eyes in exhausted relief, sinking into Alexander's warmth as his broad arm encloses her safely.\nEP14:E46 76000-83500 CAMERA: Tight close-up of Alexander holding Juliana against his bearded cheek, kissing the crown of her head before gently cradling her jaw in his scarred hand.\nEP14:E47 76500-81000 ALEXANDER [Dark, Solemn Vow]: \"No one will ever hurt you for protecting me again.\"\nEP14:E48 81200-83500 ACTION: Alexander strokes her cheek with his thumb, his gaze hardening into deadly, protective conviction.\nEP14:E49 83500-87630 CAMERA: Low-angle shot focusing down on two wooden buckets on the stone floor—one filled with dark, blood-soaked wash water reflecting the fireplace.\nEP14:E50 84000-87000 ACTION: Alexander's muscular arm drops into frame beside the bloody bucket; his scarred knuckles slowly and tightly clench into an iron fist of brewing vengeance.\nEP14:E51 84500-87630 SOUND: Ominous, resonating low bass boom swelling into sudden silence as the screen cuts to black.",
+  "schema": {
+    "$defs": {
+      "Beat": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "kind": {
+            "title": "Kind",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "description": {
+            "title": "Description",
+            "type": "string"
+          },
+          "intensity_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Intensity 0 10",
+            "type": "number"
+          }
+        },
+        "required": [
+          "id",
+          "kind",
+          "event_refs",
+          "description",
+          "intensity_0_10"
+        ],
+        "title": "Beat",
+        "type": "object"
+      },
+      "Character": {
+        "additionalProperties": false,
+        "properties": {
+          "name": {
+            "title": "Name",
+            "type": "string"
+          },
+          "role": {
+            "title": "Role",
+            "type": "string"
+          }
+        },
+        "required": [
+          "name",
+          "role"
+        ],
+        "title": "Character",
+        "type": "object"
+      },
+      "Question": {
+        "additionalProperties": false,
+        "properties": {
+          "question": {
+            "title": "Question",
+            "type": "string"
+          },
+          "introduced_by": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Introduced By",
+            "type": "array"
+          }
+        },
+        "required": [
+          "question",
+          "introduced_by"
+        ],
+        "title": "Question",
+        "type": "object"
+      },
+      "Revelation": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "claim": {
+            "title": "Claim",
+            "type": "string"
+          },
+          "spoiler_significance_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Spoiler Significance 0 10",
+            "type": "number"
+          },
+          "creates_questions": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Creates Questions",
+            "type": "array"
+          }
+        },
+        "required": [
+          "id",
+          "event_refs",
+          "claim",
+          "spoiler_significance_0_10",
+          "creates_questions"
+        ],
+        "title": "Revelation",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "episode_id": {
+        "title": "Episode Id",
+        "type": "string"
+      },
+      "summary": {
+        "title": "Summary",
+        "type": "string"
+      },
+      "characters": {
+        "items": {
+          "$ref": "#/$defs/Character"
+        },
+        "title": "Characters",
+        "type": "array"
+      },
+      "beats": {
+        "items": {
+          "$ref": "#/$defs/Beat"
+        },
+        "title": "Beats",
+        "type": "array"
+      },
+      "revelations": {
+        "items": {
+          "$ref": "#/$defs/Revelation"
+        },
+        "title": "Revelations",
+        "type": "array"
+      },
+      "unresolved_questions": {
+        "items": {
+          "$ref": "#/$defs/Question"
+        },
+        "title": "Unresolved Questions",
+        "type": "array"
+      }
+    },
+    "required": [
+      "episode_id",
+      "summary",
+      "characters",
+      "beats",
+      "revelations",
+      "unresolved_questions"
+    ],
+    "title": "EpisodeAnalysis",
+    "type": "object"
+  },
+  "state": "complete",
+  "output": {
+    "episode_id": "ep_014",
+    "summary": "Episode ep_014 (EP14) shows Juliana retrieving the emerald signet ring from blackthorns, trading it to a Police Constable for Alexander's release, then taking him home to bandage her hands in a cottage. The on-screen events do not establish who 'they' are, what was promised, why Alexander was shackled, or what the ring means. The closing vow and bucket of blood imply a threat, but the source doesn't name it. Metadata (logline and continuity note about Episode 13's cliffhanger) was not treated as on-screen evidence and is unverified here. Timestamps are taken from the supplied event ranges in integer milliseconds.",
+    "characters": [
+      {
+        "name": "Juliana",
+        "role": "Protagonist who recovers the ring at great physical cost and secures Alexander's release"
+      },
+      {
+        "name": "Alexander",
+        "role": "Juliana's husband, shackled and then freed; protective and vengeful by the end"
+      },
+      {
+        "name": "Police Constable",
+        "role": "Guard who takes the ring and unlocks Alexander's cuffs; affiliation unclear"
+      }
+    ],
+    "beats": [
+      {
+        "id": "B1",
+        "kind": "discovery",
+        "event_refs": [
+          "EP14:E1",
+          "EP14:E2",
+          "EP14:E3",
+          "EP14:E4",
+          "EP14:E5"
+        ],
+        "description": "Juliana pulls the emerald ring from the thorns and steps out, injured, announcing she found it.",
+        "intensity_0_10": 6.0
+      },
+      {
+        "id": "B2",
+        "kind": "exchange",
+        "event_refs": [
+          "EP14:E6",
+          "EP14:E7",
+          "EP14:E8"
+        ],
+        "description": "Juliana demands her husband's release and hands the ring to the Constable.",
+        "intensity_0_10": 7.0
+      },
+      {
+        "id": "B3",
+        "kind": "release",
+        "event_refs": [
+          "EP14:E9",
+          "EP14:E10",
+          "EP14:E11",
+          "EP14:E12"
+        ],
+        "description": "The Constable removes Alexander's iron cuffs and Alexander rushes to Juliana.",
+        "intensity_0_10": 7.0
+      },
+      {
+        "id": "B4",
+        "kind": "emotional_reunion",
+        "event_refs": [
+          "EP14:E13",
+          "EP14:E14",
+          "EP14:E15",
+          "EP14:E16",
+          "EP14:E17",
+          "EP14:E18",
+          "EP14:E19"
+        ],
+        "description": "Alexander inspects Juliana's wounds in anguish; she says the cost was what 'they' promised.",
+        "intensity_0_10": 7.0
+      },
+      {
+        "id": "B5",
+        "kind": "departure",
+        "event_refs": [
+          "EP14:E20",
+          "EP14:E21",
+          "EP14:E22",
+          "EP14:E23",
+          "EP14:E24",
+          "EP14:E25"
+        ],
+        "description": "Juliana asks to go home and Alexander carries her away from the estate.",
+        "intensity_0_10": 5.0
+      },
+      {
+        "id": "B6",
+        "kind": "arrival",
+        "event_refs": [
+          "EP14:E26",
+          "EP14:E27"
+        ],
+        "description": "The couple reaches an isolated stone cottage under stormy skies.",
+        "intensity_0_10": 2.0
+      },
+      {
+        "id": "B7",
+        "kind": "tender_care",
+        "event_refs": [
+          "EP14:E28",
+          "EP14:E29",
+          "EP14:E30",
+          "EP14:E31",
+          "EP14:E32",
+          "EP14:E33",
+          "EP14:E34",
+          "EP14:E35",
+          "EP14:E36",
+          "EP14:E37",
+          "EP14:E38",
+          "EP14:E39"
+        ],
+        "description": "Alexander bandages Juliana's hands by the fire; they exchange apologies and reassurance.",
+        "intensity_0_10": 5.0
+      },
+      {
+        "id": "B8",
+        "kind": "reassurance",
+        "event_refs": [
+          "EP14:E40",
+          "EP14:E41",
+          "EP14:E42",
+          "EP14:E43",
+          "EP14:E44",
+          "EP14:E45"
+        ],
+        "description": "Alexander wraps Juliana in a blanket; she says she took his place and he is doing it better.",
+        "intensity_0_10": 4.0
+      },
+      {
+        "id": "B9",
+        "kind": "vow",
+        "event_refs": [
+          "EP14:E46",
+          "EP14:E47",
+          "EP14:E48",
+          "EP14:E49",
+          "EP14:E50",
+          "EP14:E51"
+        ],
+        "description": "Alexander vows no one will hurt her again for protecting him, and his fist clenches as the scene cuts to black.",
+        "intensity_0_10": 8.0
+      }
+    ],
+    "revelations": [
+      {
+        "id": "R1",
+        "event_refs": [
+          "EP14:E19",
+          "EP14:E17"
+        ],
+        "claim": "Juliana's injuries were part of an arrangement with unnamed parties ('they') who made promises.",
+        "spoiler_significance_0_10": 5.0,
+        "creates_questions": [
+          "Who are 'they' and what did they promise?"
+        ]
+      },
+      {
+        "id": "R2",
+        "event_refs": [
+          "EP14:E42",
+          "EP14:E43"
+        ],
+        "claim": "Juliana implies she took Alexander's place in some ordeal, and Alexander is now doing that role better.",
+        "spoiler_significance_0_10": 6.0,
+        "creates_questions": [
+          "What was the place Juliana took for Alexander?",
+          "Why did the ordeal require someone to stand in for him?"
+        ]
+      },
+      {
+        "id": "R3",
+        "event_refs": [
+          "EP14:E47",
+          "EP14:E50"
+        ],
+        "claim": "Alexander's vow suggests Juliana was endangered because she protected him, and he intends to retaliate.",
+        "spoiler_significance_0_10": 5.0,
+        "creates_questions": [
+          "Who threatened Juliana for protecting Alexander?"
+        ]
+      }
+    ],
+    "unresolved_questions": [
+      {
+        "question": "Who are 'they', and what did they promise Juliana?",
+        "introduced_by": [
+          "EP14:E19"
+        ]
+      },
+      {
+        "question": "Why was Alexander shackled, and why was he released?",
+        "introduced_by": [
+          "EP14:E7",
+          "EP14:E9"
+        ]
+      },
+      {
+        "question": "What is the significance of the emerald signet ring?",
+        "introduced_by": [
+          "EP14:E2",
+          "EP14:E6",
+          "EP14:E8"
+        ]
+      },
+      {
+        "question": "What place did Juliana take for Alexander?",
+        "introduced_by": [
+          "EP14:E42",
+          "EP14:E43"
+        ]
+      },
+      {
+        "question": "Who will Alexander's vow of vengeance target?",
+        "introduced_by": [
+          "EP14:E47",
+          "EP14:E50"
+        ]
+      }
+    ]
+  }
+}

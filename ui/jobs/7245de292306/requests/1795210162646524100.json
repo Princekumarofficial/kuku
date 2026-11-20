@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_6a30a81da166616f DURATION_MS=24300\nSEGMENT 1 (playback order)\nEP34:E65 0-2700 CAMERA: Side two-shot of the Lord stepping up to the dock, looming beside Lady Juliana as she looks him in the eye.\nEP34:E66 700-2500 LORD: \"She calls it healing.\"\nEP34:E67 2700-5500 ACTION: The Lord turns dramatically to face the entire assembly, gesturing toward the spectators.\nEP34:E68 2700-5500 CAMERA: Medium shot of the Lord addressing the courtroom.\nEP34:E69 2800-5300 LORD: \"The people call it poisoning!\"\nEP34:E70 5500-7900 CAMERA: Close-up of Lady Juliana looking past him directly toward the gallery with sharp clarity.\nEP34:E71 5900-7700 LADY JULIANA: \"What were their illnesses?\"\nEP34:E72 7900-9900 CAMERA: Low-angle close-up of the Lord looking down arrogantly over his shoulder.\nEP34:E73 8000-9200 LORD: \"Irrelevant.\"\nEP34:E74 9900-12500 CAMERA: Close-up of Lady Juliana gritting her teeth in fierce defiance.\nEP34:E75 10100-12300 LADY JULIANA: \"It is not irrelevant!\"\nEP34:E76 12500-16100 CAMERA: Low-angle medium shot of Lady Juliana standing tall against the courtroom window light, her chained hands resting on the balustrade as she addresses the entire hall.\nEP34:E77 12600-15900 LADY JULIANA: \"Herbs are not magic! They are medicine!\"\nEP34:E78 16100-19500 CAMERA: Medium shot of the Judge sitting with steepled fingers upon his high bench.\nEP34:E79 16300-19100 JUDGE: \"You admit you administered them?\"\nEP34:E80 19500-21800 CAMERA: Close-up of Lady Juliana looking straight forward.\nEP34:E81 19900-20900 LADY JULIANA: \"Yes.\"\nEP34:E82 21800-24300 CAMERA: Medium shot of the Judge gesturing with an open hand.\nEP34:E83 22000-24300 JUDGE: \"Without the approval of a licensed physician?\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

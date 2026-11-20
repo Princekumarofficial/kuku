@@ -1,0 +1,45 @@
+{
+  "candidate_id": "c_db732446cb310f7e",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP34:E97",
+      "EP34:E98",
+      "EP34:E99"
+    ],
+    "reason": "The opening shows Lady Juliana looking skyward and answering \"I have.\" within the first 2 seconds, which raises a question. The Judge's escalating threat follows immediately, but the opening lacks context for what she has done or been asked."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP34:E108",
+      "EP34:E109",
+      "EP34:E110",
+      "EP34:E111"
+    ],
+    "reason": "The clip ends with the Judge slamming the gavel and shouting \"Enough!\" in the final seconds, cutting off the exchange. Juliana's fate is not shown, so the scene is left unresolved at the clip's end, though the outburst is only a partial hook.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Identity and role of Lady Juliana beyond the courtroom setting",
+      "Nature of the charge and what \"refusal\" refers to",
+      "What \"healing\" refers to and why it is treated as evil",
+      "Identity of the Lord and his relationship to the Judge",
+      "Who Prudence is and why she is grieving",
+      "Outcome of the proceedings and whether a verdict has been reached"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The clip builds from calm defiance to grief, as Prudence sobs into her apron, and then to Juliana's compassionate authority. It closes on the Judge's furious, violent outburst, giving strong emotional contrast."
+  },
+  "weaknesses": [
+    "Viewer lacks the legal and social context needed to understand the stakes",
+    "Characters such as the Lord and Prudence are introduced without explanation",
+    "Ambiguous references such as \"that\" and \"it\" depend on omitted earlier plot",
+    "The gavel outburst may read as abrupt without knowing the surrounding proceedings"
+  ],
+  "one_line_why_it_works": "A defiant woman faces a hostile judge in a tense courtroom, and the gavel outburst ends the clip on an unresolved escalation."
+}

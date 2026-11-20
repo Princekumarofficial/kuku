@@ -1,0 +1,184 @@
+{
+  "stage": "episode_analysis",
+  "system": "Analyze narrative beats, characters, revelations and unresolved questions. Only event text is on-screen evidence; metadata may describe unseen events. Use supplied EPxx:Ex aliases. Report uncertainty in the summary. A revelation's significance is not its spoiler damage.",
+  "user": "EP=ep_032; timestamps are integer milliseconds\nSOURCE_SHA256=e35aeb60acdaeebbbee43d680bf3c910d1b48a08c7c141a727cc0b8649b15b53\nMETADATA ONLY (not on-screen evidence): {'logline': \"Cornered and chained in the damp dungeon, Juliana shatters Catherine's cruelty with unshakeable dignity and the truth about love and worth, driving Catherine into a murderous fury.\", 'continuity_notes': \"Picks up immediately from Episode 31's cliffhanger where Catherine used a glowing branding iron to scorch Juliana's mother's herbal book.\"}\nSOURCE WARNINGS=[]\nSCENE sc_001 0-154380 INT. DUNGEON CELLS – CONTINUOUS\nEP32:E1 0-3000 CAMERA: Close-up on the open botanical ledger lying on the wet stone floor as the glowing red branding tip sizzles against the delicate parchment.\nEP32:E2 0-2800 SOUND: Sizzling, crackling sound of scorched parchment paper.\nEP32:E3 3000-4500 CAMERA: Close-up of Juliana, chained against the brick wall, tears glistening on her cheeks as she trembles in grief.\nEP32:E4 3800-5200 CATHERINE [Mocking, Savoring]: \"There it is.\"\nEP32:E5 4500-7500 CAMERA: Low-angle medium shot of Catherine in her opulent velvet gown, clutching the hot poker with a sadistic sneer.\nEP32:E6 7500-9200 CATHERINE [Whispering, Venomous]: \"Fear.\"\nEP32:E7 7500-10500 CAMERA: Close-up of Catherine leaning slightly forward over the burning book, eyes glittering with malice.\nEP32:E8 9800-13200 CATHERINE [Taunting]: \"You have been so proud of that brave little face...\"\nEP32:E9 10500-13500 CAMERA: Wide shot showing Juliana chained against the cold dungeon wall, small and restrained beneath Catherine's towering shadow.\nEP32:E10 13400-15800 CATHERINE [Smug, Dominant]: \"...but now you are afraid.\"\nEP32:E11 13500-16000 CAMERA: Medium shot of Catherine straightening up haughtily.\nEP32:E12 16000-17000 CAMERA: Extreme close-up of Juliana, her lips trembling in agonizing sorrow.\nEP32:E13 16200-18800 CATHERINE [Cruel, Final]: \"Say goodbye to your mother.\"\nEP32:E14 17000-19000 CAMERA: Low-angle shot of Catherine swinging the flaming orange iron upward from the book.\nEP32:E15 18800-20500 ACTION: Juliana's despair suddenly solidifies. Her jaw tightens, tears stopping as resolve takes over.\nEP32:E16 19000-20500 CAMERA: Close-up of Juliana looking up directly at Catherine, fear replaced by cold conviction.\nEP32:E17 20200-22000 JULIANA [Defiant, Unbroken]: \"Burn it.\"\nEP32:E18 20500-23000 CAMERA: Medium close-up of Juliana, sitting upright despite her heavy iron shackles.\nEP32:E19 23000-25500 CAMERA: Close-up of Catherine, her smug expression abruptly flickering with startled confusion.\nEP32:E20 23800-24800 CATHERINE [Disconcerted]: \"What?\"\nEP32:E21 25500-28500 CAMERA: Low-angle close-up of Juliana staring straight up into Catherine's eyes without flinching.\nEP32:E22 25800-28800 JULIANA [Firm, Resolute]: \"Burn the ledger. Burn every page.\"\nEP32:E23 28500-30800 CAMERA: Wide shot of the wet dungeon floor, guards stationed by the heavy iron doorway in the background as Catherine holds the hot brand.\nEP32:E24 29800-32800 JULIANA [Steely, Proud]: \"You may destroy the book...\"\nEP32:E25 30800-33500 CAMERA: Close-up of Catherine's face darkening with irritation.\nEP32:E26 33500-36500 CAMERA: Medium low-angle shot of Juliana sitting amidst chains beneath the barred ceiling grate.\nEP32:E27 33200-36200 JULIANA [Transcendent, Defiant]: \"...you cannot destroy what my mother taught me.\"\nEP32:E28 36400-38800 CAMERA: Close-up of Catherine leaning down aggressively into Juliana's space, trembling with offended rage.\nEP32:E29 36400-39100 CATHERINE [Spiteful, Hissing]: \"You think a few herbs make you better than me?\"\nEP32:E30 38800-41000 CAMERA: Close-up of Juliana looking steadily up into Catherine's furious glare.\nEP32:E31 39200-42800 JULIANA [Calm, Cutting]: \"No. Your cruelty does that for me.\"\nEP32:E32 41000-43500 CAMERA: High-angle over-the-shoulder shot looking down at Juliana bound in heavy chains on the damp floor.\nEP32:E33 43500-45500 CAMERA: Extreme close-up of Catherine, baring her teeth in outrage.\nEP32:E34 43400-45400 CATHERINE [Furious, Shouting]: \"You still think you are better?!\"\nEP32:E35 45500-47800 CAMERA: Medium shot of Juliana, her chained hands clasped together in her lap.\nEP32:E36 45600-47400 JULIANA [Serene, Grounded]: \"I know what I am.\"\nEP32:E37 47800-49000 CAMERA: Medium shot of Catherine scoffing with forced, derisive laughter.\nEP32:E38 47800-49000 CATHERINE [Sneering, Mocking]: \"A disgraced woman?\"\nEP32:E39 49000-52500 CAMERA: Close-up of Juliana speaking with undeniable strength.\nEP32:E40 49200-52400 JULIANA [Unwavering]: \"A woman who survived. You cannot destroy me.\"\nEP32:E41 52500-54400 CAMERA: Close-up of Catherine brandishing the glowing tong in Juliana's face, spittle flying from her lips.\nEP32:E42 52800-54200 CATHERINE [Screaming, Enraged]: \"You are lying!\"\nEP32:E43 54400-58000 CAMERA: Close-up of Juliana looking straight up, voice steady and clear.\nEP32:E44 54600-58000 JULIANA [Measured, Emphatic]: \"Gerald leaving me was the best thing he ever did for me.\"\nEP32:E45 58000-60800 CAMERA: Full shot of the dungeon cell. Catherine stands rigidly tall while Juliana sits shackled on the ground.\nEP32:E46 58200-61000 JULIANA [Contemplative, Scathing]: \"He wanted a woman who looked beautiful beside his wealth.\"\nEP32:E47 60800-64500 CAMERA: Extreme close-up of Juliana's expressive blue eyes and tear-stained cheek.\nEP32:E48 61100-66800 JULIANA [Passionate, Clear]: \"He wanted a wife whose family could raise his name. He measured a woman's worth by what she could give him.\"\nEP32:E49 64500-67000 CAMERA: Low-angle shot of Juliana leaning slightly forward against her chains.\nEP32:E50 67000-69000 CAMERA: Close-up of Catherine staring down, her eyes widening as Juliana's words pierce her facade.\nEP32:E51 67200-68900 JULIANA [Unapologetic, Victorious]: \"Let him have Clarissa.\"\nEP32:E52 69000-71200 CAMERA: Close-up of Juliana smiling with genuine liberation.\nEP32:E53 69600-71200 JULIANA [Proud]: \"He lost me.\"\nEP32:E54 71200-73300 CAMERA: Extreme close-up of Catherine's face contorting in sheer fury.\nEP32:E55 71300-73200 CATHERINE [Shrieking, Vicious]: \"You were rejected!\"\nEP32:E56 73300-75500 CAMERA: Close-up of Juliana's calm, resolute face.\nEP32:E57 73400-77600 JULIANA [Grounded, Powerful]: \"I was freed. And I found a man who never asked me what I was worth.\"\nEP32:E58 75500-77500 CAMERA: Wide shot of the cell, steam rising faintly in the cold subterranean air.\nEP32:E59 77500-80000 CAMERA: Close-up of Catherine sneering with dripping condescension.\nEP32:E60 77800-79400 CATHERINE [Disdainful]: \"Your soldier?\"\nEP32:E61 80000-82500 CAMERA: Close-up of Juliana, her eyes glowing with genuine devotion.\nEP32:E62 80200-82000 JULIANA [Tender, Certain]: \"My husband.\"\nEP32:E63 82500-84100 CAMERA: Close-up of Catherine scowling with deep disgust.\nEP32:E64 82500-84000 CATHERINE [Bitter]: \"He is a nobody.\"\nEP32:E65 84100-86500 CAMERA: Close-up of Juliana smiling softly, totally untroubled.\nEP32:E66 84200-86200 JULIANA [Warm, Defiant]: \"Then I love a nobody.\"\nEP32:E67 86500-89800 CAMERA: Low-angle shot focusing on Juliana's bare, chained feet locked in iron on the stone floor.\nEP32:E68 86500-90200 JULIANA [Resonant, Moving]: \"Because that nobody showed me more love than your entire world ever did.\"\nEP32:E69 89800-92800 CAMERA: Medium close-up of Catherine gripping the branding rod tighter, her upper lip curling in fury.\nEP32:E70 90100-92600 CATHERINE [Indignant, Sharp]: \"You know nothing about my world.\"\nEP32:E71 92800-97000 CAMERA: Medium shot of Juliana sitting in her tattered apron and chains, looking composed.\nEP32:E72 93200-96600 JULIANA [Knowing, Sober]: \"I know exactly what your world values.\"\nEP32:E73 97000-99800 CAMERA: Extreme close-up of Juliana's lips and eyes as she lists them with chilling precision.\nEP32:E74 97600-99600 JULIANA [Listing, Deliberate]: \"Beauty. Money.\"\nEP32:E75 99800-101000 CAMERA: Extreme close-up of Catherine's wide, stunned eyes reacting to the naked truth.\nEP32:E76 101000-103700 CAMERA: Close-up of Juliana looking up unflinchingly.\nEP32:E77 101200-103500 JULIANA [Firm]: \"Family. A perfect name.\"\nEP32:E78 103700-107000 CAMERA: Low-angle shot of Catherine standing rigid in her gold and purple gown, the guard standing sentinel behind her.\nEP32:E79 103800-107200 JULIANA [Continuing]: \"And a woman who never embarrasses the people standing behind her.\"\nEP32:E80 107000-108800 CAMERA: Close-up of Catherine throwing her hands up in explosive defensiveness.\nEP32:E81 107200-108800 CATHERINE [Shouting, Outraged]: \"And what is wrong with that?!\"\nEP32:E82 108800-109400 CAMERA: Close-up of Catherine's face twisting in absolute venom.\nEP32:E83 109400-112500 CAMERA: Close-up of Juliana looking serene.\nEP32:E84 109500-112800 JULIANA [Gentle, Penetrating]: \"Nothing. Until you have nothing left beneath it.\"\nEP32:E85 112500-116000 CAMERA: Medium shot of Catherine standing motionless, holding the iron rod, struck to the core by the insult.\nEP32:E86 112800-116000 JULIANA [Unrelenting]: \"You have spent your whole life collecting things that make people bow...\"\nEP32:E87 116000-116800 CAMERA: Low-angle shot of Juliana's chained hands folded peacefully in her lap.\nEP32:E88 116800-119500 CAMERA: Medium close-up of Juliana looking up with quiet pity.\nEP32:E89 116900-119500 JULIANA [Piercing]: \"...but you have never learned how to make anyone love you.\"\nEP32:E90 119500-121800 CAMERA: Medium shot of Catherine snapping entirely, raising the branding poker like a weapon and screaming.\nEP32:E91 119600-121800 CATHERINE [Hysterical, Screaming]: \"Silence! Silence!\"\nEP32:E92 121800-123000 CAMERA: Close-up of Catherine's crazed, gasping face.\nEP32:E93 121800-122800 CATHERINE [Shrieking]: \"Why?!\"\nEP32:E94 122800-125000 CAMERA: Close-up of Juliana crying out her defiance.\nEP32:E95 123000-125200 JULIANA [Forceful]: \"Because I am right!\"\nEP32:E96 125000-128500 CAMERA: Low-angle tracking shot of the red-hot branding tip trailing across the wet dungeon floor, steaming.\nEP32:E97 125400-128800 JULIANA [Scathing, Direct]: \"You want everyone to believe you are powerful.\"\nEP32:E98 128500-131800 CAMERA: Medium shot of Juliana sitting under the cold skylight bars, her posture majestic despite her imprisonment.\nEP32:E99 129000-131600 JULIANA [Continuing]: \"You want everyone to fear you.\"\nEP32:E100 131800-134800 CAMERA: Medium shot of Juliana looking directly at Catherine, gestures restrained by the heavy iron chains.\nEP32:E101 132000-134000 JULIANA [Mocking, Direct]: \"But look at you.\"\nEP32:E102 134800-138500 CAMERA: Close-up of Juliana, her eyes burning with fiery contempt.\nEP32:E103 135000-138600 JULIANA [Stripping Her Bare]: \"You have to threaten a chained woman to feel powerful!\"\nEP32:E104 138500-140400 CAMERA: Close-up of Catherine trembling with uncontrollable rage, teeth bared.\nEP32:E105 138600-140200 CATHERINE [Choking with Rage]: \"You insolent—!\"\nEP32:E106 140400-142400 CAMERA: Medium shot of Catherine gripping the glowing tongs as Juliana continues speaking over her.\nEP32:E107 140400-142300 JULIANA [Steely, Triumphant]: \"You may have the title you have always wanted...\"\nEP32:E108 142400-146500 CAMERA: Close-up of Juliana delivering the final emotional blow.\nEP32:E109 142400-146500 JULIANA [Final, Condemning]: \"...but you will never have the courage to earn what you demand from everyone else.\"\nEP32:E110 146500-148000 CAMERA: Close-up of Catherine's face twitching with sheer murderous madness.\nEP32:E111 146600-148100 CATHERINE [Enraged, Shouting]: \"You think you can lecture me?!\"\nEP32:E112 148000-150800 CAMERA: Medium shot of Catherine raising the branding iron high above her head with both hands.\nEP32:E113 148000-150800 ACTION: Catherine hoists the searing branding rod over Juliana with frantic fury.\nEP32:E114 148100-151200 CATHERINE [Screaming, Maniacal]: \"Then let's see how brave you are when it touches your skin!\"\nEP32:E115 150800-152000 CAMERA: Medium shot of Catherine plunging the glowing orange poker straight toward Juliana's face.\nEP32:E116 151200-154380 ACTION: Juliana gasps, freezing as the glowing tip of the iron thrusts forward, stopping mere millimeters from her right eye.\nEP32:E117 152000-154380 CAMERA: Extreme close-up of Juliana's wide, unblinking blue eye. The intense, fiery orange glow of the iron poker radiates inches from her cornea, holding on the heart-stopping cliffhanger as the frame cuts to black.",
+  "schema": {
+    "$defs": {
+      "Beat": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "kind": {
+            "title": "Kind",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "description": {
+            "title": "Description",
+            "type": "string"
+          },
+          "intensity_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Intensity 0 10",
+            "type": "number"
+          }
+        },
+        "required": [
+          "id",
+          "kind",
+          "event_refs",
+          "description",
+          "intensity_0_10"
+        ],
+        "title": "Beat",
+        "type": "object"
+      },
+      "Character": {
+        "additionalProperties": false,
+        "properties": {
+          "name": {
+            "title": "Name",
+            "type": "string"
+          },
+          "role": {
+            "title": "Role",
+            "type": "string"
+          }
+        },
+        "required": [
+          "name",
+          "role"
+        ],
+        "title": "Character",
+        "type": "object"
+      },
+      "Question": {
+        "additionalProperties": false,
+        "properties": {
+          "question": {
+            "title": "Question",
+            "type": "string"
+          },
+          "introduced_by": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Introduced By",
+            "type": "array"
+          }
+        },
+        "required": [
+          "question",
+          "introduced_by"
+        ],
+        "title": "Question",
+        "type": "object"
+      },
+      "Revelation": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "claim": {
+            "title": "Claim",
+            "type": "string"
+          },
+          "spoiler_significance_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Spoiler Significance 0 10",
+            "type": "number"
+          },
+          "creates_questions": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Creates Questions",
+            "type": "array"
+          }
+        },
+        "required": [
+          "id",
+          "event_refs",
+          "claim",
+          "spoiler_significance_0_10",
+          "creates_questions"
+        ],
+        "title": "Revelation",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "episode_id": {
+        "title": "Episode Id",
+        "type": "string"
+      },
+      "summary": {
+        "title": "Summary",
+        "type": "string"
+      },
+      "characters": {
+        "items": {
+          "$ref": "#/$defs/Character"
+        },
+        "title": "Characters",
+        "type": "array"
+      },
+      "beats": {
+        "items": {
+          "$ref": "#/$defs/Beat"
+        },
+        "title": "Beats",
+        "type": "array"
+      },
+      "revelations": {
+        "items": {
+          "$ref": "#/$defs/Revelation"
+        },
+        "title": "Revelations",
+        "type": "array"
+      },
+      "unresolved_questions": {
+        "items": {
+          "$ref": "#/$defs/Question"
+        },
+        "title": "Unresolved Questions",
+        "type": "array"
+      }
+    },
+    "required": [
+      "episode_id",
+      "summary",
+      "characters",
+      "beats",
+      "revelations",
+      "unresolved_questions"
+    ],
+    "title": "EpisodeAnalysis",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

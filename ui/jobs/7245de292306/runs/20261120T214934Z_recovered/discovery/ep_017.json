@@ -1,0 +1,76 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "ep17_opp_01",
+      "episode_id": "ep_017",
+      "concept": "Alexander kneels and vows protection, Juliana doubts he can promise it, and he answers that he just did.",
+      "hook_refs": [
+        "EP17:E23"
+      ],
+      "ending_refs": [
+        "EP17:E45"
+      ],
+      "context_refs": [
+        "EP17:E22",
+        "EP17:E25",
+        "EP17:E27"
+      ],
+      "why_promising": "The clip opens on a direct vow in the first 800 ms and runs about 34 seconds through Juliana's doubt and his reply to a confession of fear of losing him. Its anchors sit within the contiguous coverage from 26000 to 118880 ms, and the ending leaves her confession open."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep17_opp_02",
+      "episode_id": "ep_017",
+      "concept": "By the hearth, Juliana tends Alexander's wounds, teases him, and admits she was frightened of losing him.",
+      "hook_refs": [
+        "EP17:E33"
+      ],
+      "ending_refs": [
+        "EP17:E64"
+      ],
+      "context_refs": [
+        "EP17:E31",
+        "EP17:E35",
+        "EP17:E41",
+        "EP17:E45"
+      ],
+      "why_promising": "The clip opens on a tender, reproachful line within the first second, runs about 57 seconds, and builds from playful banter to a confession. It ends on her unresolved line about saving him from the birds, which sets up the next beat. Everything sits within the 26000 to 118880 ms coverage."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep17_opp_03",
+      "episode_id": "ep_017",
+      "concept": "Juliana jokes that Alexander makes it impossible to argue with him, then the banter turns to hair, birds, and a playful reach for his beard.",
+      "hook_refs": [
+        "EP17:E37"
+      ],
+      "ending_refs": [
+        "EP17:E57"
+      ],
+      "context_refs": [
+        "EP17:E35",
+        "EP17:E36"
+      ],
+      "why_promising": "The hook is a witty, self-contained line that lands within the first 3 seconds of a clip of about 44 seconds. The ending is her teasing exclamation that this is becoming impossible, which leaves the banter open. The clip sits within the contiguous coverage."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep17_opp_04",
+      "episode_id": "ep_017",
+      "concept": "Juliana, held close to his chest, notes his racing heart, and he answers that hers is racing too, leading into playful talk and a request to wait.",
+      "hook_refs": [
+        "EP17:E51"
+      ],
+      "ending_refs": [
+        "EP17:E64"
+      ],
+      "context_refs": [
+        "EP17:E47",
+        "EP17:E48",
+        "EP17:E50"
+      ],
+      "why_promising": "The clip opens on a playful line about his racing heart within 1.5 seconds of its start, runs about 22 seconds, and includes the embrace that gives the line its meaning. It ends on her unresolved line about saving him from the birds, so the moment stays open."
+    }
+  ]
+}

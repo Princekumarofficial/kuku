@@ -1,0 +1,1007 @@
+[
+  {
+    "candidate_id": "c_f8189f8c8e9d945e",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 46400,
+        "end_ms": 86400,
+        "episode_id": "ep_027"
+      }
+    ],
+    "duration_ms": 40000,
+    "origin": "ep27_opp1",
+    "clip_events": [
+      {
+        "ref": "EP27:E26",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1900,
+        "type": "sound",
+        "speaker": null,
+        "text": "Loud, violent pounding echoes on the wooden double doors."
+      },
+      {
+        "ref": "EP27:E27",
+        "segment_index": 0,
+        "relative_start_ms": 100,
+        "relative_end_ms": 2400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Juliana gasps, snapping her head toward the entrance in alarm."
+      },
+      {
+        "ref": "EP27:E28",
+        "segment_index": 0,
+        "relative_start_ms": 2400,
+        "relative_end_ms": 5100,
+        "type": "action",
+        "speaker": null,
+        "text": "The heavy mahogany double doors burst open, revealing the Blond Nobleman flanked by Lady Catherine and a royal guard in uniform."
+      },
+      {
+        "ref": "EP27:E29",
+        "segment_index": 0,
+        "relative_start_ms": 2400,
+        "relative_end_ms": 5100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot framing the open doorway as the aristocrats step into the dimly lit hallway."
+      },
+      {
+        "ref": "EP27:E30",
+        "segment_index": 0,
+        "relative_start_ms": 5100,
+        "relative_end_ms": 9200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Lady Catherine in her lavish cream gown and tiara, scowling with arrogant disdain."
+      },
+      {
+        "ref": "EP27:E31",
+        "segment_index": 0,
+        "relative_start_ms": 5800,
+        "relative_end_ms": 9200,
+        "type": "dialogue",
+        "speaker": "LADY CATHERINE",
+        "text": "\"What is that maid doing in Her Grace's private chamber?\""
+      },
+      {
+        "ref": "EP27:E32",
+        "segment_index": 0,
+        "relative_start_ms": 9200,
+        "relative_end_ms": 12200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana standing stiffly beside the bed, concealing her hands."
+      },
+      {
+        "ref": "EP27:E33",
+        "segment_index": 0,
+        "relative_start_ms": 10400,
+        "relative_end_ms": 12000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"She needed help.\""
+      },
+      {
+        "ref": "EP27:E34",
+        "segment_index": 0,
+        "relative_start_ms": 12200,
+        "relative_end_ms": 15600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Lady Catherine narrowing her eyes with venomous suspicion."
+      },
+      {
+        "ref": "EP27:E35",
+        "segment_index": 0,
+        "relative_start_ms": 13600,
+        "relative_end_ms": 15400,
+        "type": "dialogue",
+        "speaker": "LADY CATHERINE",
+        "text": "\"What are you hiding?\""
+      },
+      {
+        "ref": "EP27:E36",
+        "segment_index": 0,
+        "relative_start_ms": 15600,
+        "relative_end_ms": 17600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana, her chin raised."
+      },
+      {
+        "ref": "EP27:E37",
+        "segment_index": 0,
+        "relative_start_ms": 15800,
+        "relative_end_ms": 17100,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Nothing.\""
+      },
+      {
+        "ref": "EP27:E38",
+        "segment_index": 0,
+        "relative_start_ms": 17600,
+        "relative_end_ms": 20100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Lady Catherine pointing a white-gloved finger directly at Juliana."
+      },
+      {
+        "ref": "EP27:E39",
+        "segment_index": 0,
+        "relative_start_ms": 18400,
+        "relative_end_ms": 20000,
+        "type": "dialogue",
+        "speaker": "LADY CATHERINE",
+        "text": "\"Show me your hand.\""
+      },
+      {
+        "ref": "EP27:E40",
+        "segment_index": 0,
+        "relative_start_ms": 20100,
+        "relative_end_ms": 24100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the Blond Nobleman stepping forward beside Lady Catherine, clad in a dark tailored coat with black leather gloves."
+      },
+      {
+        "ref": "EP27:E41",
+        "segment_index": 0,
+        "relative_start_ms": 20200,
+        "relative_end_ms": 23700,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"Girl. Show me what you are holding.\""
+      },
+      {
+        "ref": "EP27:E42",
+        "segment_index": 0,
+        "relative_start_ms": 24100,
+        "relative_end_ms": 27400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Two-shot of Juliana facing the Blond Nobleman as she slowly extends her palm, revealing the small amber glass dropper bottle."
+      },
+      {
+        "ref": "EP27:E43",
+        "segment_index": 0,
+        "relative_start_ms": 26200,
+        "relative_end_ms": 27300,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"What is this?\""
+      },
+      {
+        "ref": "EP27:E44",
+        "segment_index": 0,
+        "relative_start_ms": 27400,
+        "relative_end_ms": 28400,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Medicine.\""
+      },
+      {
+        "ref": "EP27:E45",
+        "segment_index": 0,
+        "relative_start_ms": 28400,
+        "relative_end_ms": 31400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Lady Catherine tapping her gloved finger to her lip, letting out a mocking scoff."
+      },
+      {
+        "ref": "EP27:E46",
+        "segment_index": 0,
+        "relative_start_ms": 28800,
+        "relative_end_ms": 31400,
+        "type": "dialogue",
+        "speaker": "LADY CATHERINE",
+        "text": "\"Medicine? You are a new maid.\""
+      },
+      {
+        "ref": "EP27:E47",
+        "segment_index": 0,
+        "relative_start_ms": 31400,
+        "relative_end_ms": 34400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the Blond Nobleman staring down at the vial, as Catherine sneers from his side."
+      },
+      {
+        "ref": "EP27:E48",
+        "segment_index": 0,
+        "relative_start_ms": 31700,
+        "relative_end_ms": 34100,
+        "type": "dialogue",
+        "speaker": "LADY CATHERINE",
+        "text": "\"Who permitted you to give medicine to the Duchess?\""
+      },
+      {
+        "ref": "EP27:E49",
+        "segment_index": 0,
+        "relative_start_ms": 34400,
+        "relative_end_ms": 36600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana holding her ground."
+      },
+      {
+        "ref": "EP27:E50",
+        "segment_index": 0,
+        "relative_start_ms": 34600,
+        "relative_end_ms": 35600,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"No one.\""
+      },
+      {
+        "ref": "EP27:E51",
+        "segment_index": 0,
+        "relative_start_ms": 36600,
+        "relative_end_ms": 40000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Lady Catherine turning fiercely triumphant."
+      },
+      {
+        "ref": "EP27:E52",
+        "segment_index": 0,
+        "relative_start_ms": 37200,
+        "relative_end_ms": 40000,
+        "type": "dialogue",
+        "speaker": "LADY CATHERINE",
+        "text": "\"Then you administered it without permission.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_319530fe97c3c62b",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 63500,
+        "end_ms": 122600,
+        "episode_id": "ep_027"
+      }
+    ],
+    "duration_ms": 59100,
+    "origin": "ep27_opp2",
+    "clip_events": [
+      {
+        "ref": "EP27:E36",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana, her chin raised."
+      },
+      {
+        "ref": "EP27:E38",
+        "segment_index": 0,
+        "relative_start_ms": 500,
+        "relative_end_ms": 3000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Lady Catherine pointing a white-gloved finger directly at Juliana."
+      },
+      {
+        "ref": "EP27:E39",
+        "segment_index": 0,
+        "relative_start_ms": 1300,
+        "relative_end_ms": 2900,
+        "type": "dialogue",
+        "speaker": "LADY CATHERINE",
+        "text": "\"Show me your hand.\""
+      },
+      {
+        "ref": "EP27:E40",
+        "segment_index": 0,
+        "relative_start_ms": 3000,
+        "relative_end_ms": 7000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the Blond Nobleman stepping forward beside Lady Catherine, clad in a dark tailored coat with black leather gloves."
+      },
+      {
+        "ref": "EP27:E41",
+        "segment_index": 0,
+        "relative_start_ms": 3100,
+        "relative_end_ms": 6600,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"Girl. Show me what you are holding.\""
+      },
+      {
+        "ref": "EP27:E42",
+        "segment_index": 0,
+        "relative_start_ms": 7000,
+        "relative_end_ms": 10300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Two-shot of Juliana facing the Blond Nobleman as she slowly extends her palm, revealing the small amber glass dropper bottle."
+      },
+      {
+        "ref": "EP27:E43",
+        "segment_index": 0,
+        "relative_start_ms": 9100,
+        "relative_end_ms": 10200,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"What is this?\""
+      },
+      {
+        "ref": "EP27:E44",
+        "segment_index": 0,
+        "relative_start_ms": 10300,
+        "relative_end_ms": 11300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Medicine.\""
+      },
+      {
+        "ref": "EP27:E45",
+        "segment_index": 0,
+        "relative_start_ms": 11300,
+        "relative_end_ms": 14300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Lady Catherine tapping her gloved finger to her lip, letting out a mocking scoff."
+      },
+      {
+        "ref": "EP27:E46",
+        "segment_index": 0,
+        "relative_start_ms": 11700,
+        "relative_end_ms": 14300,
+        "type": "dialogue",
+        "speaker": "LADY CATHERINE",
+        "text": "\"Medicine? You are a new maid.\""
+      },
+      {
+        "ref": "EP27:E47",
+        "segment_index": 0,
+        "relative_start_ms": 14300,
+        "relative_end_ms": 17300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the Blond Nobleman staring down at the vial, as Catherine sneers from his side."
+      },
+      {
+        "ref": "EP27:E48",
+        "segment_index": 0,
+        "relative_start_ms": 14600,
+        "relative_end_ms": 17000,
+        "type": "dialogue",
+        "speaker": "LADY CATHERINE",
+        "text": "\"Who permitted you to give medicine to the Duchess?\""
+      },
+      {
+        "ref": "EP27:E49",
+        "segment_index": 0,
+        "relative_start_ms": 17300,
+        "relative_end_ms": 19500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana holding her ground."
+      },
+      {
+        "ref": "EP27:E50",
+        "segment_index": 0,
+        "relative_start_ms": 17500,
+        "relative_end_ms": 18500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"No one.\""
+      },
+      {
+        "ref": "EP27:E51",
+        "segment_index": 0,
+        "relative_start_ms": 19500,
+        "relative_end_ms": 23000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Lady Catherine turning fiercely triumphant."
+      },
+      {
+        "ref": "EP27:E52",
+        "segment_index": 0,
+        "relative_start_ms": 20100,
+        "relative_end_ms": 22900,
+        "type": "dialogue",
+        "speaker": "LADY CATHERINE",
+        "text": "\"Then you administered it without permission.\""
+      },
+      {
+        "ref": "EP27:E54",
+        "segment_index": 0,
+        "relative_start_ms": 23000,
+        "relative_end_ms": 24300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Because she was dying!\""
+      },
+      {
+        "ref": "EP27:E53",
+        "segment_index": 0,
+        "relative_start_ms": 23000,
+        "relative_end_ms": 24500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana, her voice rising passionately."
+      },
+      {
+        "ref": "EP27:E55",
+        "segment_index": 0,
+        "relative_start_ms": 24500,
+        "relative_end_ms": 29300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the Blond Nobleman pacing forward with calculating malice."
+      },
+      {
+        "ref": "EP27:E56",
+        "segment_index": 0,
+        "relative_start_ms": 24700,
+        "relative_end_ms": 28900,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"And you decided you knew better than every physician in this house?\""
+      },
+      {
+        "ref": "EP27:E57",
+        "segment_index": 0,
+        "relative_start_ms": 29300,
+        "relative_end_ms": 31500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana retorting without hesitation."
+      },
+      {
+        "ref": "EP27:E58",
+        "segment_index": 0,
+        "relative_start_ms": 29800,
+        "relative_end_ms": 31400,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"The physicians were not saving her!\""
+      },
+      {
+        "ref": "EP27:E59",
+        "segment_index": 0,
+        "relative_start_ms": 31500,
+        "relative_end_ms": 34300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Over-the-shoulder shot past the Blond Nobleman looking toward the frail Duchess watching helplessly from the bed."
+      },
+      {
+        "ref": "EP27:E60",
+        "segment_index": 0,
+        "relative_start_ms": 31800,
+        "relative_end_ms": 34200,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"My aunt has been wasting away for months.\""
+      },
+      {
+        "ref": "EP27:E61",
+        "segment_index": 0,
+        "relative_start_ms": 34300,
+        "relative_end_ms": 40100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the Blond Nobleman turning slowly back toward Juliana, building his trap."
+      },
+      {
+        "ref": "EP27:E62",
+        "segment_index": 0,
+        "relative_start_ms": 35300,
+        "relative_end_ms": 39900,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"And now we find an unknown maid alone beside her bed...\""
+      },
+      {
+        "ref": "EP27:E63",
+        "segment_index": 0,
+        "relative_start_ms": 40100,
+        "relative_end_ms": 44300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up shot of his gloved black leather finger reaching down to tap against the glass dropper bottle in Juliana's open palm."
+      },
+      {
+        "ref": "EP27:E64",
+        "segment_index": 0,
+        "relative_start_ms": 40700,
+        "relative_end_ms": 44000,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"...holding a substance no one authorized her to give.\""
+      },
+      {
+        "ref": "EP27:E65",
+        "segment_index": 0,
+        "relative_start_ms": 44300,
+        "relative_end_ms": 46700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana raising the small bottle high for them to see."
+      },
+      {
+        "ref": "EP27:E66",
+        "segment_index": 0,
+        "relative_start_ms": 44800,
+        "relative_end_ms": 46300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"It is an antidote.\""
+      },
+      {
+        "ref": "EP27:E67",
+        "segment_index": 0,
+        "relative_start_ms": 46700,
+        "relative_end_ms": 49000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Lady Catherine sneering sharply."
+      },
+      {
+        "ref": "EP27:E68",
+        "segment_index": 0,
+        "relative_start_ms": 46800,
+        "relative_end_ms": 48300,
+        "type": "dialogue",
+        "speaker": "LADY CATHERINE",
+        "text": "\"An antidote to what?\""
+      },
+      {
+        "ref": "EP27:E69",
+        "segment_index": 0,
+        "relative_start_ms": 49000,
+        "relative_end_ms": 50100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of Juliana's focused eyes."
+      },
+      {
+        "ref": "EP27:E70",
+        "segment_index": 0,
+        "relative_start_ms": 49700,
+        "relative_end_ms": 50800,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"Answer her.\""
+      },
+      {
+        "ref": "EP27:E71",
+        "segment_index": 0,
+        "relative_start_ms": 50100,
+        "relative_end_ms": 51500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on the Blond Nobleman's impatient scowl."
+      },
+      {
+        "ref": "EP27:E72",
+        "segment_index": 0,
+        "relative_start_ms": 51500,
+        "relative_end_ms": 53700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana speaking the truth clearly."
+      },
+      {
+        "ref": "EP27:E73",
+        "segment_index": 0,
+        "relative_start_ms": 51600,
+        "relative_end_ms": 53000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Poison.\""
+      },
+      {
+        "ref": "EP27:E74",
+        "segment_index": 0,
+        "relative_start_ms": 53700,
+        "relative_end_ms": 56500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on the Blond Nobleman, his expression freezing into a dark scowl."
+      },
+      {
+        "ref": "EP27:E75",
+        "segment_index": 0,
+        "relative_start_ms": 55200,
+        "relative_end_ms": 56300,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"Poison.\""
+      },
+      {
+        "ref": "EP27:E76",
+        "segment_index": 0,
+        "relative_start_ms": 56500,
+        "relative_end_ms": 59100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana stating the grim reality."
+      },
+      {
+        "ref": "EP27:E77",
+        "segment_index": 0,
+        "relative_start_ms": 56900,
+        "relative_end_ms": 59100,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Someone has been poisoning Her Grace.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_cdf45fecd94732df",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 118700,
+        "end_ms": 149200,
+        "episode_id": "ep_027"
+      }
+    ],
+    "duration_ms": 30500,
+    "origin": "ep27_opp3",
+    "clip_events": [
+      {
+        "ref": "EP27:E74",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on the Blond Nobleman, his expression freezing into a dark scowl."
+      },
+      {
+        "ref": "EP27:E75",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1100,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"Poison.\""
+      },
+      {
+        "ref": "EP27:E76",
+        "segment_index": 0,
+        "relative_start_ms": 1300,
+        "relative_end_ms": 4100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana stating the grim reality."
+      },
+      {
+        "ref": "EP27:E77",
+        "segment_index": 0,
+        "relative_start_ms": 1700,
+        "relative_end_ms": 3900,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Someone has been poisoning Her Grace.\""
+      },
+      {
+        "ref": "EP27:E78",
+        "segment_index": 0,
+        "relative_start_ms": 4100,
+        "relative_end_ms": 5900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Lady Catherine turning abruptly to the guard stationed by the open door, pointing with feigned outrage."
+      },
+      {
+        "ref": "EP27:E79",
+        "segment_index": 0,
+        "relative_start_ms": 4400,
+        "relative_end_ms": 5800,
+        "type": "dialogue",
+        "speaker": "LADY CATHERINE",
+        "text": "\"You hear that?!\""
+      },
+      {
+        "ref": "EP27:E80",
+        "segment_index": 0,
+        "relative_start_ms": 5900,
+        "relative_end_ms": 9800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Lady Catherine twisting Juliana's words with malicious glee."
+      },
+      {
+        "ref": "EP27:E81",
+        "segment_index": 0,
+        "relative_start_ms": 6100,
+        "relative_end_ms": 9700,
+        "type": "dialogue",
+        "speaker": "LADY CATHERINE",
+        "text": "\"She admits she has been giving the Duchess poison in secret!\""
+      },
+      {
+        "ref": "EP27:E82",
+        "segment_index": 0,
+        "relative_start_ms": 9800,
+        "relative_end_ms": 12300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana recoiling in shock at the blatant lie."
+      },
+      {
+        "ref": "EP27:E83",
+        "segment_index": 0,
+        "relative_start_ms": 10000,
+        "relative_end_ms": 12100,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"That is not what I said!\""
+      },
+      {
+        "ref": "EP27:E84",
+        "segment_index": 0,
+        "relative_start_ms": 12300,
+        "relative_end_ms": 15300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the Blond Nobleman raising his black-gloved hand, silencing the room."
+      },
+      {
+        "ref": "EP27:E85",
+        "segment_index": 0,
+        "relative_start_ms": 12500,
+        "relative_end_ms": 13900,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"Enough.\""
+      },
+      {
+        "ref": "EP27:E86",
+        "segment_index": 0,
+        "relative_start_ms": 15300,
+        "relative_end_ms": 20700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot as the Blond Nobleman steps into Juliana's personal space and plucks the glass dropper vial from her hand."
+      },
+      {
+        "ref": "EP27:E87",
+        "segment_index": 0,
+        "relative_start_ms": 16100,
+        "relative_end_ms": 19800,
+        "type": "action",
+        "speaker": null,
+        "text": "The Blond Nobleman takes the medicine vial from Juliana's grasp, inspecting it under the candlelight."
+      },
+      {
+        "ref": "EP27:E88",
+        "segment_index": 0,
+        "relative_start_ms": 17500,
+        "relative_end_ms": 20600,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"An unknown servant enters a restricted chamber.\""
+      },
+      {
+        "ref": "EP27:E89",
+        "segment_index": 0,
+        "relative_start_ms": 20700,
+        "relative_end_ms": 25500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of the Blond Nobleman holding the vial beside his temple, his blue eyes cold and triumphant."
+      },
+      {
+        "ref": "EP27:E90",
+        "segment_index": 0,
+        "relative_start_ms": 20900,
+        "relative_end_ms": 25100,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"She secretly administers an unidentified substance to a helpless woman.\""
+      },
+      {
+        "ref": "EP27:E91",
+        "segment_index": 0,
+        "relative_start_ms": 25300,
+        "relative_end_ms": 26200,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"Take her.\""
+      },
+      {
+        "ref": "EP27:E92",
+        "segment_index": 0,
+        "relative_start_ms": 25500,
+        "relative_end_ms": 28800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot as the armed guard storms forward, seizing Juliana roughly by both arms."
+      },
+      {
+        "ref": "EP27:E93",
+        "segment_index": 0,
+        "relative_start_ms": 26300,
+        "relative_end_ms": 29300,
+        "type": "action",
+        "speaker": null,
+        "text": "The guard twists Juliana around and drags her forcibly toward the doorway as she struggles against his grip."
+      },
+      {
+        "ref": "EP27:E94",
+        "segment_index": 0,
+        "relative_start_ms": 28800,
+        "relative_end_ms": 30500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana being pulled backward, casting a frantic glance back toward the bedridden Duchess."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_a57055fd5e4e3b5e",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 44200,
+        "end_ms": 66500,
+        "episode_id": "ep_027"
+      }
+    ],
+    "duration_ms": 22300,
+    "origin": "recovery_b5",
+    "clip_events": [
+      {
+        "ref": "EP27:E24",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Duchess gazing up at Juliana, her voice barely a whisper."
+      },
+      {
+        "ref": "EP27:E25",
+        "segment_index": 0,
+        "relative_start_ms": 300,
+        "relative_end_ms": 2200,
+        "type": "dialogue",
+        "speaker": "DOWAGER DUCHESS",
+        "text": "\"What is your husband's name?\""
+      },
+      {
+        "ref": "EP27:E26",
+        "segment_index": 0,
+        "relative_start_ms": 2200,
+        "relative_end_ms": 4100,
+        "type": "sound",
+        "speaker": null,
+        "text": "Loud, violent pounding echoes on the wooden double doors."
+      },
+      {
+        "ref": "EP27:E27",
+        "segment_index": 0,
+        "relative_start_ms": 2300,
+        "relative_end_ms": 4600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Juliana gasps, snapping her head toward the entrance in alarm."
+      },
+      {
+        "ref": "EP27:E28",
+        "segment_index": 0,
+        "relative_start_ms": 4600,
+        "relative_end_ms": 7300,
+        "type": "action",
+        "speaker": null,
+        "text": "The heavy mahogany double doors burst open, revealing the Blond Nobleman flanked by Lady Catherine and a royal guard in uniform."
+      },
+      {
+        "ref": "EP27:E29",
+        "segment_index": 0,
+        "relative_start_ms": 4600,
+        "relative_end_ms": 7300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot framing the open doorway as the aristocrats step into the dimly lit hallway."
+      },
+      {
+        "ref": "EP27:E30",
+        "segment_index": 0,
+        "relative_start_ms": 7300,
+        "relative_end_ms": 11400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Lady Catherine in her lavish cream gown and tiara, scowling with arrogant disdain."
+      },
+      {
+        "ref": "EP27:E31",
+        "segment_index": 0,
+        "relative_start_ms": 8000,
+        "relative_end_ms": 11400,
+        "type": "dialogue",
+        "speaker": "LADY CATHERINE",
+        "text": "\"What is that maid doing in Her Grace's private chamber?\""
+      },
+      {
+        "ref": "EP27:E32",
+        "segment_index": 0,
+        "relative_start_ms": 11400,
+        "relative_end_ms": 14400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana standing stiffly beside the bed, concealing her hands."
+      },
+      {
+        "ref": "EP27:E33",
+        "segment_index": 0,
+        "relative_start_ms": 12600,
+        "relative_end_ms": 14200,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"She needed help.\""
+      },
+      {
+        "ref": "EP27:E34",
+        "segment_index": 0,
+        "relative_start_ms": 14400,
+        "relative_end_ms": 17800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Lady Catherine narrowing her eyes with venomous suspicion."
+      },
+      {
+        "ref": "EP27:E35",
+        "segment_index": 0,
+        "relative_start_ms": 15800,
+        "relative_end_ms": 17600,
+        "type": "dialogue",
+        "speaker": "LADY CATHERINE",
+        "text": "\"What are you hiding?\""
+      },
+      {
+        "ref": "EP27:E36",
+        "segment_index": 0,
+        "relative_start_ms": 17800,
+        "relative_end_ms": 19800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana, her chin raised."
+      },
+      {
+        "ref": "EP27:E37",
+        "segment_index": 0,
+        "relative_start_ms": 18000,
+        "relative_end_ms": 19300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Nothing.\""
+      },
+      {
+        "ref": "EP27:E38",
+        "segment_index": 0,
+        "relative_start_ms": 19800,
+        "relative_end_ms": 22300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Lady Catherine pointing a white-gloved finger directly at Juliana."
+      },
+      {
+        "ref": "EP27:E39",
+        "segment_index": 0,
+        "relative_start_ms": 20600,
+        "relative_end_ms": 22200,
+        "type": "dialogue",
+        "speaker": "LADY CATHERINE",
+        "text": "\"Show me your hand.\""
+      }
+    ]
+  }
+]

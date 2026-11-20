@@ -1,0 +1,1007 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "ep_020",
+  "episode_number": 20,
+  "metadata": {
+    "logline": "Inside the opulent Ashbury estate, the treacherous Rupert and Catherine plot to seize the ducal title as the Dowager Duchess slowly withers, while in an icy barn, Juliana defiantly prepares remedies to save the fever-stricken villagers.",
+    "continuity_notes": "Follows Episode 19's night in the barn; as Alexander begins his clandestine fight to reclaim his birthright, Juliana tends to the suffering village while Rupert and Catherine celebrate their anticipated ascension to the ducal throne."
+  },
+  "source": {
+    "file": "019_episode-020-Episode 1671722.txt",
+    "sha256": "e6389a016e5aa432efca70d3bb2d64ec859200ad0e6aad207fa63a616ce12fa8",
+    "complete": false
+  },
+  "scenes": [
+    {
+      "start_ms": 0,
+      "end_ms": 2800,
+      "id": "sc_001",
+      "heading": "EXT. ASHBURY MANOR – DAY"
+    },
+    {
+      "start_ms": 2800,
+      "end_ms": 56500,
+      "id": "sc_002",
+      "heading": "INT. ASHBURY MANOR - DRAWING ROOM – CONTINUOUS"
+    },
+    {
+      "start_ms": 56500,
+      "end_ms": 88200,
+      "id": "sc_003",
+      "heading": "INT. ABANDONED BARN – DAY"
+    },
+    {
+      "start_ms": 88200,
+      "end_ms": 114750,
+      "id": "sc_004",
+      "heading": "INT. ASHBURY MANOR - DRAWING ROOM – CONTINUOUS"
+    }
+  ],
+  "events": [
+    {
+      "start_ms": 0,
+      "end_ms": 2800,
+      "id": "e_001",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle establishing shot tilting up toward the imposing, grand stone facade of Ashbury Manor against a cold, overcast morning sky, frost dusting the pristine lawn.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        14,
+        16
+      ]
+    },
+    {
+      "start_ms": 2800,
+      "end_ms": 6800,
+      "id": "e_002",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium wide shot of the lavish drawing room. CATHERINE, dressed in an ornate lilac regency gown and white satin gloves, gracefully pours hot tea from an ornate silver teapot, while RUPERT stands elegantly by the tall window.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        25,
+        27
+      ]
+    },
+    {
+      "start_ms": 2900,
+      "end_ms": 4400,
+      "id": "e_003",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Two lumps of sugar, Rupert?\"",
+      "speaker": "CATHERINE",
+      "delivery": "Smug, Prim",
+      "source_lines": [
+        29,
+        31
+      ]
+    },
+    {
+      "start_ms": 4600,
+      "end_ms": 7800,
+      "id": "e_004",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Or has your sudden climb to power sweetened your taste already?\"",
+      "speaker": "CATHERINE",
+      "delivery": "Taunting, Silkily",
+      "source_lines": [
+        33,
+        35
+      ]
+    },
+    {
+      "start_ms": 6900,
+      "end_ms": 9500,
+      "id": "e_005",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up of Catherine stirring her tea with a silver spoon, lifting her gaze with a haughty smirk.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        37,
+        39
+      ]
+    },
+    {
+      "start_ms": 8200,
+      "end_ms": 10800,
+      "id": "e_006",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Only if it sweetens your disposition, Catherine.\"",
+      "speaker": "RUPERT",
+      "delivery": "Flirtatious, Sly",
+      "source_lines": [
+        41,
+        43
+      ]
+    },
+    {
+      "start_ms": 9600,
+      "end_ms": 15200,
+      "id": "e_007",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium shot tracking Rupert as he steps forward from the hearth, adjusting his dark leather gloves with an air of absolute triumph.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        45,
+        47
+      ]
+    },
+    {
+      "start_ms": 10900,
+      "end_ms": 12700,
+      "id": "e_008",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"The estate is practically ours.\"",
+      "speaker": "RUPERT",
+      "delivery": "Boastful, Confident",
+      "source_lines": [
+        49,
+        51
+      ]
+    },
+    {
+      "start_ms": 12800,
+      "end_ms": 15100,
+      "id": "e_009",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"The succession papers are being finalized as we speak.\"",
+      "speaker": "RUPERT",
+      "delivery": "Smug",
+      "source_lines": [
+        53,
+        55
+      ]
+    },
+    {
+      "start_ms": 15200,
+      "end_ms": 20000,
+      "id": "e_010",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium close-up of Catherine raising the porcelain teacup to her lips, her expression turning sharp and dismissive.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        57,
+        59
+      ]
+    },
+    {
+      "start_ms": 15400,
+      "end_ms": 18700,
+      "id": "e_011",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"'Practically' is a word for beggars. I do not marry a practical Duke.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Cold, Haughty",
+      "source_lines": [
+        61,
+        63
+      ]
+    },
+    {
+      "start_ms": 18800,
+      "end_ms": 20100,
+      "id": "e_012",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"I marry the Lord of Ashbury.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Stern, Ambitious",
+      "source_lines": [
+        65,
+        67
+      ]
+    },
+    {
+      "start_ms": 20000,
+      "end_ms": 25500,
+      "id": "e_013",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium shot of Rupert striding toward the tea table, leaning forward with predatory conviction.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        69,
+        71
+      ]
+    },
+    {
+      "start_ms": 20100,
+      "end_ms": 21200,
+      "id": "e_014",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"And so you shall.\"",
+      "speaker": "RUPERT",
+      "delivery": "Reassuring, Firm",
+      "source_lines": [
+        73,
+        75
+      ]
+    },
+    {
+      "start_ms": 21300,
+      "end_ms": 24200,
+      "id": "e_015",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Once my cousin Alexander's death is formally sealed by the Crown...\"",
+      "speaker": "RUPERT",
+      "delivery": "Dark, Conspiratorial",
+      "source_lines": [
+        77,
+        79
+      ]
+    },
+    {
+      "start_ms": 24300,
+      "end_ms": 25400,
+      "id": "e_016",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"...the title is mine.\"",
+      "speaker": "RUPERT",
+      "delivery": "Decisive",
+      "source_lines": [
+        81,
+        83
+      ]
+    },
+    {
+      "start_ms": 25500,
+      "end_ms": 30200,
+      "id": "e_017",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up of Catherine lowering her teacup, her icy blue eyes narrowing in calculated concern.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        85,
+        87
+      ]
+    },
+    {
+      "start_ms": 25500,
+      "end_ms": 28200,
+      "id": "e_018",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"And what of the Dowager? The old woman still breathes.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Wary, Inquiring",
+      "source_lines": [
+        89,
+        91
+      ]
+    },
+    {
+      "start_ms": 28300,
+      "end_ms": 30200,
+      "id": "e_019",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Her shadow still hangs over this house.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Disdainful",
+      "source_lines": [
+        93,
+        95
+      ]
+    },
+    {
+      "start_ms": 30200,
+      "end_ms": 34000,
+      "id": "e_020",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Tight close-up of Rupert's face as a sinister grin spreads across his features.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        97,
+        99
+      ]
+    },
+    {
+      "start_ms": 30200,
+      "end_ms": 32800,
+      "id": "e_021",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Her health fails more each day. The physicians are baffled.\"",
+      "speaker": "RUPERT",
+      "delivery": "Quiet, Sinister",
+      "source_lines": [
+        101,
+        103
+      ]
+    },
+    {
+      "start_ms": 32900,
+      "end_ms": 34400,
+      "id": "e_022",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"They call it a wasting of the lungs.\"",
+      "speaker": "RUPERT",
+      "delivery": "Gloating",
+      "source_lines": [
+        105,
+        107
+      ]
+    },
+    {
+      "start_ms": 34100,
+      "end_ms": 39200,
+      "id": "e_023",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up side profile of Catherine bringing the teacup to her lips, savoring his words with chilling detachment.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        109,
+        111
+      ]
+    },
+    {
+      "start_ms": 34200,
+      "end_ms": 36800,
+      "id": "e_024",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"How tragic. The slow, quiet decline.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Mock-Sympathetic, Cruel",
+      "source_lines": [
+        113,
+        115
+      ]
+    },
+    {
+      "start_ms": 36900,
+      "end_ms": 39100,
+      "id": "e_025",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"How much longer can the frail thing survive?\"",
+      "speaker": "CATHERINE",
+      "delivery": "Scheming",
+      "source_lines": [
+        117,
+        119
+      ]
+    },
+    {
+      "start_ms": 39300,
+      "end_ms": 42500,
+      "id": "e_026",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium profile of Rupert looking out the window, hands clasped behind him.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        121,
+        123
+      ]
+    },
+    {
+      "start_ms": 39400,
+      "end_ms": 42400,
+      "id": "e_027",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Not through the winter. I've ensured her quiet comfort.\"",
+      "speaker": "RUPERT",
+      "delivery": "Cold, Callous",
+      "source_lines": [
+        125,
+        127
+      ]
+    },
+    {
+      "start_ms": 42500,
+      "end_ms": 50000,
+      "id": "e_028",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up of Catherine turning her head toward the window, her lips curled in venomous disgust.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        129,
+        131
+      ]
+    },
+    {
+      "start_ms": 42600,
+      "end_ms": 44900,
+      "id": "e_029",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Good. The village is already whispering about her.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Vindictive",
+      "source_lines": [
+        133,
+        135
+      ]
+    },
+    {
+      "start_ms": 45000,
+      "end_ms": 48400,
+      "id": "e_030",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"The local peasants are like dogs, barking at every carriage that passes.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Contemptuous",
+      "source_lines": [
+        137,
+        139
+      ]
+    },
+    {
+      "start_ms": 48500,
+      "end_ms": 49800,
+      "id": "e_031",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"They disgust me.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Disgusted",
+      "source_lines": [
+        141,
+        143
+      ]
+    },
+    {
+      "start_ms": 50000,
+      "end_ms": 56500,
+      "id": "e_032",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium two-shot. Rupert stands over Catherine seated at the polished table, placing a gloved hand possessively near her shoulder.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        145,
+        147
+      ]
+    },
+    {
+      "start_ms": 50200,
+      "end_ms": 52500,
+      "id": "e_033",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"They are nothing. Dirt beneath our boots.\"",
+      "speaker": "RUPERT",
+      "delivery": "Dismissive, Arrogant",
+      "source_lines": [
+        149,
+        151
+      ]
+    },
+    {
+      "start_ms": 52800,
+      "end_ms": 56000,
+      "id": "e_034",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"They will learn their place when you wear the ducal crown.\"",
+      "speaker": "RUPERT",
+      "delivery": "Authoritative, Promising",
+      "source_lines": [
+        153,
+        155
+      ]
+    },
+    {
+      "start_ms": 56500,
+      "end_ms": 60300,
+      "id": "e_035",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Medium close-up tilting down on JULIANA kneeling in the straw beside a rustic wooden crate, sorting sprigs of dried lavender and sage into a woven basket. Her hands are bound in linen bandages from the recent fire.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        164,
+        166
+      ]
+    },
+    {
+      "start_ms": 60000,
+      "end_ms": 64500,
+      "id": "e_036",
+      "scene_id": "sc_003",
+      "type": "action",
+      "text": "The barn door opens, revealing daylight outside. SEAMUS, an older weathered villager in a waistcoat, carries a wooden bucket inside, his expression etched with deep sorrow and concern.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        168,
+        170
+      ]
+    },
+    {
+      "start_ms": 60500,
+      "end_ms": 62500,
+      "id": "e_037",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"Let me take that basket, Lady Juliana.\"",
+      "speaker": "SEAMUS",
+      "delivery": "Gentle, Concerned",
+      "source_lines": [
+        172,
+        174
+      ]
+    },
+    {
+      "start_ms": 62600,
+      "end_ms": 66600,
+      "id": "e_038",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"Your palms are still raw from the fire. You shouldn't be working in this freezing draft.\"",
+      "speaker": "SEAMUS",
+      "delivery": "Empathetic",
+      "source_lines": [
+        176,
+        178
+      ]
+    },
+    {
+      "start_ms": 64800,
+      "end_ms": 66800,
+      "id": "e_039",
+      "scene_id": "sc_003",
+      "type": "action",
+      "text": "Seamus reaches down to take the handle of the basket from her.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        180,
+        182
+      ]
+    },
+    {
+      "start_ms": 66800,
+      "end_ms": 70500,
+      "id": "e_040",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Close-up of Juliana looking up at Seamus, her smudged face fierce with unyielding determination as she holds firmly onto the basket.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        184,
+        186
+      ]
+    },
+    {
+      "start_ms": 66700,
+      "end_ms": 69100,
+      "id": "e_041",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"If I stop, Seamus, the lung fever in the valley wins.\"",
+      "speaker": "JULIANA",
+      "delivery": "Fierce, Resolute",
+      "source_lines": [
+        188,
+        190
+      ]
+    },
+    {
+      "start_ms": 69200,
+      "end_ms": 70500,
+      "id": "e_042",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"I do not yield to a cold draft.\"",
+      "speaker": "JULIANA",
+      "delivery": "Defiant",
+      "source_lines": [
+        192,
+        194
+      ]
+    },
+    {
+      "start_ms": 70500,
+      "end_ms": 76200,
+      "id": "e_043",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Close-up of Seamus, his face agonizingly strained with grief for her lost status.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        196,
+        198
+      ]
+    },
+    {
+      "start_ms": 70600,
+      "end_ms": 72300,
+      "id": "e_044",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"You are a viscount's daughter!\"",
+      "speaker": "SEAMUS",
+      "delivery": "Desperate, Grieving",
+      "source_lines": [
+        200,
+        202
+      ]
+    },
+    {
+      "start_ms": 72400,
+      "end_ms": 74200,
+      "id": "e_045",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"Sleeping on straw, sorting weeds!\"",
+      "speaker": "SEAMUS",
+      "delivery": "Pleading",
+      "source_lines": [
+        204,
+        206
+      ]
+    },
+    {
+      "start_ms": 74300,
+      "end_ms": 76200,
+      "id": "e_046",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"Let the village tend to itself for once!\"",
+      "speaker": "SEAMUS",
+      "delivery": "Frustrated",
+      "source_lines": [
+        208,
+        210
+      ]
+    },
+    {
+      "start_ms": 76200,
+      "end_ms": 81000,
+      "id": "e_047",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Medium close-up of Juliana, her jaw set with unwavering moral strength.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        212,
+        214
+      ]
+    },
+    {
+      "start_ms": 76300,
+      "end_ms": 79800,
+      "id": "e_048",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"The chapel is gone, Seamus. I am the only healer these people have left.\"",
+      "speaker": "JULIANA",
+      "delivery": "Passionate, Unflinching",
+      "source_lines": [
+        216,
+        218
+      ]
+    },
+    {
+      "start_ms": 79900,
+      "end_ms": 81000,
+      "id": "e_049",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"I keep the basket.\"",
+      "speaker": "JULIANA",
+      "delivery": "Unyielding",
+      "source_lines": [
+        220,
+        222
+      ]
+    },
+    {
+      "start_ms": 81000,
+      "end_ms": 88200,
+      "id": "e_050",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Medium two-shot of Juliana and Seamus standing facing each other in the barn, the lantern casting a warm amber glow between them.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        224,
+        226
+      ]
+    },
+    {
+      "start_ms": 82000,
+      "end_ms": 84400,
+      "id": "e_051",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"They have reduced you to a peasant.\"",
+      "speaker": "SEAMUS",
+      "delivery": "Saddened, Heartbroken",
+      "source_lines": [
+        228,
+        230
+      ]
+    },
+    {
+      "start_ms": 84800,
+      "end_ms": 86500,
+      "id": "e_052",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"They have reduced me to myself.\"",
+      "speaker": "JULIANA",
+      "delivery": "Proud, Indomitable",
+      "source_lines": [
+        232,
+        234
+      ]
+    },
+    {
+      "start_ms": 86600,
+      "end_ms": 88000,
+      "id": "e_053",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"And I am not finished.\"",
+      "speaker": "JULIANA",
+      "delivery": "Steely",
+      "source_lines": [
+        236,
+        238
+      ]
+    },
+    {
+      "start_ms": 88200,
+      "end_ms": 90000,
+      "id": "e_054",
+      "scene_id": "sc_004",
+      "type": "action",
+      "text": "Catherine's gloved hand sets her fine porcelain teacup down onto the silver tray with a delicate clatter.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        247,
+        249
+      ]
+    },
+    {
+      "start_ms": 88400,
+      "end_ms": 89400,
+      "id": "e_055",
+      "scene_id": "sc_004",
+      "type": "sound",
+      "text": "Sharp porcelain chime of teacup meeting saucer.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        251,
+        253
+      ]
+    },
+    {
+      "start_ms": 89800,
+      "end_ms": 94800,
+      "id": "e_056",
+      "scene_id": "sc_004",
+      "type": "camera",
+      "text": "Close-up of Catherine looking up, her face twisting into venomous arrogance.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        255,
+        257
+      ]
+    },
+    {
+      "start_ms": 89900,
+      "end_ms": 92400,
+      "id": "e_057",
+      "scene_id": "sc_004",
+      "type": "dialogue",
+      "text": "\"Let the peasants rot in their barns.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Cruel, Callous",
+      "source_lines": [
+        259,
+        261
+      ]
+    },
+    {
+      "start_ms": 92600,
+      "end_ms": 94500,
+      "id": "e_058",
+      "scene_id": "sc_004",
+      "type": "dialogue",
+      "text": "\"Let them pray to their weeds.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Mocking, Spiteful",
+      "source_lines": [
+        263,
+        265
+      ]
+    },
+    {
+      "start_ms": 94800,
+      "end_ms": 99200,
+      "id": "e_059",
+      "scene_id": "sc_004",
+      "type": "camera",
+      "text": "Medium shot as Rupert steps around the mahogany table and leans close into Catherine's ear, smiling seductively.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        267,
+        269
+      ]
+    },
+    {
+      "start_ms": 94900,
+      "end_ms": 97300,
+      "id": "e_060",
+      "scene_id": "sc_004",
+      "type": "dialogue",
+      "text": "\"You have no rival here, Catherine.\"",
+      "speaker": "RUPERT",
+      "delivery": "Intimate, Reassuring",
+      "source_lines": [
+        271,
+        273
+      ]
+    },
+    {
+      "start_ms": 97400,
+      "end_ms": 99100,
+      "id": "e_061",
+      "scene_id": "sc_004",
+      "type": "dialogue",
+      "text": "\"No one to stand in your way.\"",
+      "speaker": "RUPERT",
+      "delivery": "Fawning",
+      "source_lines": [
+        275,
+        277
+      ]
+    },
+    {
+      "start_ms": 99200,
+      "end_ms": 103800,
+      "id": "e_062",
+      "scene_id": "sc_004",
+      "type": "camera",
+      "text": "Close-up of Catherine looking into Rupert's eyes, her smile turning predatory and cold.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        279,
+        281
+      ]
+    },
+    {
+      "start_ms": 99300,
+      "end_ms": 101400,
+      "id": "e_063",
+      "scene_id": "sc_004",
+      "type": "dialogue",
+      "text": "\"Once the old Duchess is gone...\"",
+      "speaker": "CATHERINE",
+      "delivery": "Triumphant, Greedy",
+      "source_lines": [
+        283,
+        285
+      ]
+    },
+    {
+      "start_ms": 101500,
+      "end_ms": 103700,
+      "id": "e_064",
+      "scene_id": "sc_004",
+      "type": "dialogue",
+      "text": "\"...Ashbury will finally belong to us.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Possessive",
+      "source_lines": [
+        287,
+        289
+      ]
+    },
+    {
+      "start_ms": 103800,
+      "end_ms": 109000,
+      "id": "e_065",
+      "scene_id": "sc_004",
+      "type": "action",
+      "text": "Catherine rises from her chair in one regal motion and glides toward the towering window overlooking the vast estate grounds.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        291,
+        293
+      ]
+    },
+    {
+      "start_ms": 104000,
+      "end_ms": 109500,
+      "id": "e_066",
+      "scene_id": "sc_004",
+      "type": "camera",
+      "text": "Tracking medium shot following Catherine from behind as she walks gracefully to the window frame, the grey morning light outlining her aristocratic silhouette.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        295,
+        297
+      ]
+    },
+    {
+      "start_ms": 106800,
+      "end_ms": 109200,
+      "id": "e_067",
+      "scene_id": "sc_004",
+      "type": "dialogue",
+      "text": "\"This house will only bow to me.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Cold, Ruthless",
+      "source_lines": [
+        299,
+        301
+      ]
+    },
+    {
+      "start_ms": 109500,
+      "end_ms": 114750,
+      "id": "e_068",
+      "scene_id": "sc_004",
+      "type": "camera",
+      "text": "Tight close-up profile of Catherine gazing out the windowpane, her icy eyes burning with insatiable ambition as dramatic strings swell to a menacing cliffhanger hold.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        303,
+        305
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "start_ms": 0,
+      "end_ms": 39200
+    },
+    {
+      "start_ms": 39300,
+      "end_ms": 114750
+    }
+  ],
+  "warnings": [
+    "sc_002: incomplete source coverage; gaps are unavailable"
+  ]
+}

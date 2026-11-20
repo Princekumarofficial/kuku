@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_d566d29d2d4dcfb4",
+  "hook": {
+    "score_0_10": 7.5,
+    "evidence_refs": [
+      "EP32:E94",
+      "EP32:E95"
+    ],
+    "reason": "The clip opens within 0-2200ms on Juliana crying out her defiance, and her line 'Because I am right!' at 200-2400ms grabs attention immediately. The opening lacks any stated stakes, so the hook is strong on emotion but thin on context."
+  },
+  "cliffhanger": {
+    "score_0_10": 8.5,
+    "evidence_refs": [
+      "EP32:E116",
+      "EP32:E117"
+    ],
+    "reason": "In the final 3000ms, the glowing iron stops millimeters from Juliana's right eye (E116, 28400-31580ms), and the extreme close-up holds on her eye as the frame cuts to black (E117, 29200-31580ms). Nothing in the clip shows whether the iron touches her, so the tension is unresolved at the end.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Identities and relationship of Catherine and Juliana are never established",
+      "The reason for the imprisonment and chains is not explained",
+      "The 'title' Juliana refers to in E107 has no stated referent",
+      "'Because I am right!' in E95 has no stated subject or prior claim",
+      "The significance of the branding iron as a punishment or threat is only implied"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.5,
+    "reason": "Escalating dialogue, Catherine's rage, the glowing iron approaching Juliana's eye, and Juliana's defiant contempt build intense fear and tension throughout the clip."
+  },
+  "weaknesses": [
+    "A first-time viewer cannot tell who the characters are or why they are in conflict",
+    "Opening line 'Because I am right!' lacks a stated subject, weakening early clarity",
+    "The title and power dispute in the dialogue is not anchored to visible events",
+    "Cliffhanger depends on prior unexplained stakes for full impact",
+    "Several camera descriptions repeat the same tension beat, slowing the escalation in the middle section"
+  ],
+  "one_line_why_it_works": "Escalating defiance and rage culminate in a glowing iron stopping millimeters from Juliana's eye, cut to black before any outcome is shown."
+}

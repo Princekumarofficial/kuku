@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_f08dbd928e265d55",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP24:E39",
+      "EP24:E40",
+      "EP24:E41"
+    ],
+    "reason": "The opening shows a dark chamber, a stone hearth, and a noblewoman with a riding crop giving a curt command within the first 3000ms, which creates immediate tension and a power dynamic. The hook is strong but relies on an unexplained command rather than a clear question."
+  },
+  "cliffhanger": {
+    "score_0_10": 3.0,
+    "evidence_refs": [
+      "EP24:E61",
+      "EP24:E60"
+    ],
+    "reason": "The clip ends mid-task with Juliana still scrubbing and the noblewoman's cruel remark, which leaves the humiliation ongoing but does not set up a specific unanswered question or imminent event. It reads as an intense scene segment rather than a cliffhanger.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Identity and relationship of the noblewoman to Juliana and Prudence",
+      "Why Juliana is being punished and what the noblewoman means by 'what you are'",
+      "Juliana's social status and whether she is a servant",
+      "Prudence's role and the history behind the threat of 'the same punishment'",
+      "Whether the task is a normal chore or a punishment"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The cruel taunts, the threatened punishment, Prudence's terror, and Juliana's composed endurance produce strong feelings of injustice and dread."
+  },
+  "weaknesses": [
+    "Key characters and stakes are not established, so a first-time viewer cannot tell the power structure or why the punishment is happening.",
+    "The ending is a continuing humiliation without a hook into the next beat.",
+    "The noblewoman's line about what Juliana is is ambiguous without prior context.",
+    "Prudence's brief interaction is not clearly tied to a defined consequence."
+  ],
+  "one_line_why_it_works": "A cruel noblewoman forces a composed servant into degrading labor while a terrified bystander looks on, creating immediate emotional tension even without backstory."
+}

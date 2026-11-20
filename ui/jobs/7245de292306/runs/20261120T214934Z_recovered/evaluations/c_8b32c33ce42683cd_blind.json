@@ -1,0 +1,44 @@
+{
+  "candidate_id": "c_8b32c33ce42683cd",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP21:E60",
+      "EP21:E61",
+      "EP21:E64"
+    ],
+    "reason": "The opening 0-4000ms establishes an immediate tension: Prudence's trembling hands, a warm comforting gesture, and Prudence's bitter line about the wealthy at the grand manor who ignore them. The hook is clear but relies on unexplained social conflict."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP21:E73",
+      "EP21:E75",
+      "EP21:E76"
+    ],
+    "reason": "Prudence says the Dowager Duchess is fading from a strange, mysterious illness that no one can stop, and the clip ends with Juliana studying her late mother's herbal ledger while strings swell. The illness and the question of how to help remain unresolved at the end, though the ending leans on a musical cue more than a specific unanswered event.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Relationship between Prudence, Lady Juliana, and Toby is never stated",
+      "Identity and role of the Dowager Duchess and the grand manor are not explained",
+      "Why Juliana's hands are bandaged is not shown",
+      "Significance of the late mother's herbal ledger is not established",
+      "Prudence's earlier grievance against the wealthy household is unexplained"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Trembling hands, anger, grave whispering, startled concern, and the closing apprehension and resolve build clear emotional stakes, especially around the dying Duchess and Juliana's reaction."
+  },
+  "weaknesses": [
+    "Characters and their relationships are introduced without context for a first-time viewer",
+    "The Dowager Duchess appears only as a name and is not established",
+    "The mysterious illness is described but not shown or made concrete",
+    "The final resolve is conveyed mainly through a music cue rather than a stated next action",
+    "Toby's repeated sleeping shots add length without advancing the plot"
+  ],
+  "one_line_why_it_works": "Prudence's whispered revelation that a powerful woman is dying of a mysterious illness shifts Juliana from comfort to apprehension, and the closing ledger shot makes her resolve feel like a hook to the next step."
+}

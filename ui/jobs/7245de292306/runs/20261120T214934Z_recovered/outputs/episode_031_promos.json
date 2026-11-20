@@ -1,0 +1,95 @@
+{
+  "schema_version": "1.0",
+  "series_id": "series_001",
+  "scope": {
+    "type": "episode",
+    "episode_id": "ep_031"
+  },
+  "promos": [
+    {
+      "candidate_id": "c_1585fd4ff1dea994",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 118200,
+          "end_ms": 140400,
+          "episode_id": "ep_031"
+        }
+      ],
+      "duration_ms": 22200,
+      "hook": {
+        "description": "The clip opens immediately on a knowing smirk and a sharp challenge line, creating tension within the first 3.8 seconds.",
+        "evidence_refs": [
+          "EP31:E65",
+          "EP31:E66"
+        ]
+      },
+      "cliffhanger": {
+        "description": "The clip ends mid-conflict with Juliana chained and reaching for the book Catherine holds over the fire, and the outcome is not shown.",
+        "evidence_refs": [
+          "EP31:E77",
+          "EP31:E78"
+        ]
+      },
+      "why_it_works": "A sharp verbal reversal escalates quickly into a visceral threat against a grief-laden object, ending on an unresolved plea that drives viewer curiosity.",
+      "scores": {
+        "hook": 8.0,
+        "cliffhanger": 7.0,
+        "standalone": 5.0,
+        "emotion": 8.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 6.95
+      },
+      "warnings": [
+        "The motive for the kneeling demand is never established within the clip",
+        "The significance of the botanical book is only implied through one line of dialogue",
+        "Catherine's 'Enough!' lacks a clear trigger for a first-time viewer",
+        "Several action and camera descriptions are dense, which may slow comprehension",
+        "Spoilers not checked",
+        "Why Juliana is being made to kneel and what the power dynamic is",
+        "Who Juliana's mother is and why the botanical book matters",
+        "Where the subterranean chamber is and why Juliana is chained",
+        "The relationship between Juliana and Catherine",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 1,
+      "promo_id": "p_001"
+    }
+  ],
+  "construction": {
+    "opportunities": 4,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "DURATION_OUT_OF_RANGE": 806,
+      "PARTIAL_DIALOGUE": 156
+    }
+  },
+  "rejected_candidates": [
+    {
+      "candidate_id": "c_303520ec62e3b718",
+      "reasons": [
+        "ENDING_RESOLVED",
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_24fc050f7ad604da",
+      "reasons": [
+        "ENDING_RESOLVED",
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_c60fba4554a7e90f",
+      "reasons": [
+        "ENDING_RESOLVED",
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    }
+  ]
+}

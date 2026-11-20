@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_a23b28622ff8efaf",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP30:E22",
+      "EP30:E23",
+      "EP30:E33"
+    ],
+    "reason": "The opening line 'We stop hiding the prisoner.' within 0-3000ms signals a secret and conflict right away. The clip ends in the final 3000ms with Rupert's bewildered 'The law?', which reinforces the open question, though the opening premise is vague to a first-time viewer."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP30:E31",
+      "EP30:E32",
+      "EP30:E33"
+    ],
+    "reason": "The Elder Nobleman's plan 'We use the law to destroy her' is stated, but the clip ends on Rupert's question 'The law?' with no explanation of how it works, so the stakes are left unresolved. This is an open question rather than a resolved ending.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Identity of the prisoner and who 'her' refers to",
+      "Who Catherine is and her relationship to the prisoner",
+      "Why the nobles would condemn her and what the offence is",
+      "What 'the law' refers to and how it could be used",
+      "Who Rupert is and why he is bewildered"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 6.0,
+    "reason": "Icy confidence from the Elder Nobleman, Catherine's composed posture beside the hearth, and Rupert's bewilderment build tension and intrigue, but the emotional stakes are not yet personal to the viewer."
+  },
+  "weaknesses": [
+    "Pronoun 'her' and the prisoner are not identified, so the threat is abstract to a first-time viewer.",
+    "The plan is stated but its mechanism is withheld, leaving the payoff without grounding.",
+    "Catherine's question 'You have a solution?' is not clearly tied to what the prisoner faces.",
+    "Heavy reliance on camera and sound description without dialogue establishing relationships."
+  ],
+  "one_line_why_it_works": "A secret prisoner is revealed and a hostile plan to use the law is announced, ending on Rupert's bewildered question that makes the viewer want to know what happens next."
+}

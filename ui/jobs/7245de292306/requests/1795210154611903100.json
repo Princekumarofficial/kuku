@@ -1,0 +1,180 @@
+{
+  "stage": "candidate_discovery",
+  "system": "Find diverse promo opportunities, preferably 8-12 if supported. Return hook and unresolved ending anchors, not timestamps. A continuous clip must last 20-60 seconds with its hook in the first 3 seconds, understandable without prior context. Check the anchor timestamps: ending.end_ms minus hook.start_ms should be 20,000-60,000ms. Do not propose isolated 2-10 second moments. Both anchors and required context must fit in one supplied coverage interval. Ending anchors should precede resolution. Context refs must occur within the clip. Empty opportunities are valid when evidence is insufficient.",
+  "user": "EP=ep_033; timestamps are integer milliseconds\nSOURCE_SHA256=0012ba24a8fa997a1df93165c06c90dacf5bab6c76ceef791533e8747aec4ad6\nMETADATA ONLY (not on-screen evidence): {'logline': 'Under cruel coercion and threats to send her seven-year-old brother to the county gaol, a young maid is manipulated into giving false testimony framing Juliana for witchcraft.', 'continuity_notes': \"Following Catherine's dungeon interrogation of Juliana, the conspiracy against Juliana deepens as an aristocratic lord forces a testimony of witchcraft out of the young maid whose brother Juliana saved.\"}\nSOURCE WARNINGS=[]\nSCENE sc_001 0-174040 INT. STUDY – NIGHT\nEP33:E1 0-5200 CAMERA: Wide shot of a dimly lit, wood-paneled library study. An aristocratic lord in formal dark attire stands facing a young maid standing nervously by the open door.\nEP33:E2 2500-4800 LORD [Cold, Authoritative]: \"Your brother is breathing again.\"\nEP33:E3 4000-6500 ACTION: The young maid steps inside, bowing with a submissive curtsy, keeping her head low and hands clasped.\nEP33:E4 5200-8800 CAMERA: Medium close-up of the maid trembling as she raises her eyes hesitantly.\nEP33:E5 6500-8500 MAID [Meek, Hesitant]: \"Yes, my Lord.\"\nEP33:E6 8800-12000 CAMERA: Medium shot of the Lord standing beside his mahogany desk, looking down with cold, calculating scrutiny.\nEP33:E7 9500-11800 LORD [Probing]: \"And who saved him?\"\nEP33:E8 12000-14800 CAMERA: Close-up of the maid's anxious, innocent face.\nEP33:E9 13000-14500 MAID [Quiet, Truthful]: \"Lady Juliana.\"\nEP33:E10 14800-17800 CAMERA: Close-up of the Lord's hand slowly rotating the heavy gold signet ring on his pinky finger.\nEP33:E11 15500-17500 LORD [Measured, Demanding]: \"Tell me how.\"\nEP33:E12 17800-21000 CAMERA: Medium close-up of the maid nervously wringing her apron fabric.\nEP33:E13 19500-21000 MAID [Faltering]: \"She... she used herbs.\"\nEP33:E14 21000-23000 CAMERA: Close-up on the Lord leaning forward abruptly, his piercing gaze bearing down.\nEP33:E15 21200-22800 LORD [Sharp, Intimidating]: \"What herbs?\"\nEP33:E16 23000-26500 CAMERA: Close-up of the frightened maid looking down, shrinking back.\nEP33:E17 24500-26200 MAID [Whispering, Nervous]: \"I don't know.\"\nEP33:E18 26500-29200 CAMERA: Low-angle shot looking up at the imposing Lord towering above her.\nEP33:E19 27500-29000 LORD [Stern]: \"You watched her.\"\nEP33:E20 29200-32800 CAMERA: Close-up of the maid, tears beginning to glisten on her cheeks as she defends Juliana.\nEP33:E21 29800-32000 MAID [Tearful, Sincere]: \"I watched her save him.\"\nEP33:E22 32800-36500 CAMERA: Medium tracking shot of the Lord turning away slowly past the lamp-lit desk toward the rain-streaked window.\nEP33:E23 34000-36200 LORD [Coldly Dismissive]: \"That is not what I asked.\"\nEP33:E24 36500-40200 CAMERA: Medium two-shot framing the maid from behind as the Lord steps back toward her with commanding stillness.\nEP33:E25 37500-40000 LORD [Accusatory]: \"Did she use her mother's book?\"\nEP33:E26 40200-44200 CAMERA: Close-up of the maid trembling, tears spilling down her face.\nEP33:E27 42200-43600 MAID [Quietly Weeping]: \"Yes.\"\nEP33:E28 44200-49200 CAMERA: Close-up of the Lord's sinister, unyielding face.\nEP33:E29 44800-48800 LORD [Insistent, Cornering]: \"Did she prepare things no physician had prescribed?\"\nEP33:E30 49200-52500 CAMERA: Medium shot of the maid clutching her hands together tightly, overwhelmed with guilt.\nEP33:E31 50000-51600 MAID [Choked Sob]: \"Yes.\"\nEP33:E32 52500-56800 CAMERA: Close-up of the Lord's mouth curling into a sinister, predatory smile.\nEP33:E33 53000-56500 LORD [Sly, Sinister]: \"And did she perform anything unusual?\"\nEP33:E34 56800-59000 CAMERA: Close-up of the maid gasping, shaking her head vigorously in panic.\nEP33:E35 57400-58800 MAID [Desperate, Denying]: \"No!\"\nEP33:E36 59000-64200 CAMERA: Profile medium two-shot as the Lord looms inches from the maid's face.\nEP33:E37 59000-61000 LORD [Low, Menacing]: \"Think carefully.\"\nEP33:E38 61200-63500 LORD [Ruthless]: \"Your brother is still a pauper.\"\nEP33:E39 64200-68800 CAMERA: Extreme close-up of the Lord's cold eyes and hawkish profile speaking with chilling finality.\nEP33:E40 64400-68500 LORD [Threatening]: \"One word from me, and the county gaol will take him before sunrise.\"\nEP33:E41 68500-70000 ACTION: The maid gasps in sheer terror, her chest heaving as tears stream.\nEP33:E42 68800-73200 CAMERA: Close-up of the maid clutching her chest with trembling hands, crying desperately.\nEP33:E43 69500-73000 MAID [Begging, Heartbroken]: \"Please, my Lord... he is only seven!\"\nEP33:E44 73200-75500 CAMERA: Close-up of the Lord staring down without an ounce of pity.\nEP33:E45 73200-75000 LORD [Cold, Unwavering]: \"Then help him.\"\nEP33:E46 75500-79500 CAMERA: Close-up of the maid weeping profusely, cornered and helpless.\nEP33:E47 76800-79000 MAID [Crying, Shattered]: \"What do you want me to say?!\"\nEP33:E48 79500-84800 CAMERA: Wide shot of the study as the Lord stands calmly before the trembling servant.\nEP33:E49 79600-80500 LORD [Deceptive]: \"The truth.\"\nEP33:E50 81000-84500 LORD [Leading, Deliberate]: \"She drew something around the bed, did she not?\"\nEP33:E51 84800-89000 CAMERA: Close-up of the maid stammering through her tears.\nEP33:E52 85500-88800 MAID [Trembling, Reluctant]: \"She... placed dried herbs around him.\"\nEP33:E53 89000-94800 CAMERA: Medium close-up of the Lord standing right beside her shoulder, whispering in her ear like an insidious specter.\nEP33:E54 89000-90500 LORD [Hypnotic, Coercive]: \"Around him.\"\nEP33:E55 91000-92500 LORD [Coercive]: \"Like a circle?\"\nEP33:E56 93000-94500 MAID [Faint, Defeated]: \"Yes.\"\nEP33:E57 94800-98500 CAMERA: Close-up from behind the maid as the Lord leans close to her ear.\nEP33:E58 95000-98000 LORD [Whispering, Trap Snapping]: \"And she opened her mother's book...\"\nEP33:E59 98500-100800 CAMERA: Extreme close-up of the maid's tear-drenched eyes and quivering lips.\nEP33:E60 98500-100000 MAID [Sobbing]: \"Yes.\"\nEP33:E61 100800-104200 CAMERA: Close-up of the Lord delivering the final trap.\nEP33:E62 101000-104000 LORD [Sinister]: \"...and spoke words you could not understand.\"\nEP33:E63 104200-107500 CAMERA: Close-up of the maid gasping out in desperate agony.\nEP33:E64 104500-106500 MAID [Desperately Defending]: \"She was praying!\"\nEP33:E65 107500-111800 CAMERA: Close-up of the Lord grinning with sinister triumph.\nEP33:E66 108000-111500 LORD [Taunting]: \"Praying... or chanting?\"\nEP33:E67 111800-113800 CAMERA: Close-up of the maid breaking down completely.\nEP33:E68 112000-113500 MAID [Hysterically Sobbing]: \"I don't know!\"\nEP33:E69 113800-119500 CAMERA: Medium shot as the Lord paces slowly, pointing his finger with clinical, legal precision.\nEP33:E70 114000-116500 LORD [Calculating, Relentless]: \"You saw a woman draw a circle of herbs.\"\nEP33:E71 116800-119500 LORD [Relentless]: \"You saw her use a forbidden book.\"\nEP33:E72 119500-123500 CAMERA: Close-up profile of the Lord leaning in right in front of the sobbing maid.\nEP33:E73 119800-122800 LORD [Condemning]: \"You heard words you could not understand.\"\nEP33:E74 123500-126800 CAMERA: Extreme close-up of the Lord's mouth and calculating eyes as he pronounces the lethal word.\nEP33:E75 124500-126500 LORD [Deadly, Resolute]: \"That is witchcraft.\"\nEP33:E76 126800-131800 CAMERA: Medium two-shot as the maid steps forward, pleading passionately against his chest.\nEP33:E77 126800-131500 MAID [Crying Out, Desperate]: \"No! She saved Toby! She made him breathe again!\"\nEP33:E78 131800-134500 CAMERA: Close-up of the Lord calmly watching her futile resistance.\nEP33:E79 132000-134000 LORD [Cold, Final]: \"That will be your testimony.\"\nEP33:E80 134500-137800 CAMERA: Close-up of the maid's face frozen in horrified realization.\nEP33:E81 134500-137000 MAID [Gasping, Shocked]: \"My testimony?!\"\nEP33:E82 137800-140500 CAMERA: Close-up of the Lord delivering the ultimatum without blinking.\nEP33:E83 138000-140000 LORD [Unyielding]: \"Before the magistrate.\"\nEP33:E84 140500-144800 CAMERA: Close-up of the maid grabbing both sides of her head, screaming out in utter grief and guilt.\nEP33:E85 140500-144000 MAID [Wailing, Tormented]: \"I never said she was a witch!\"\nEP33:E86 144800-149200 CAMERA: Medium tracking shot of the Lord turning his back and walking back behind his desk.\nEP33:E87 145000-146500 LORD [Chillingly Detached]: \"You do not need to.\"\nEP33:E88 146800-149000 LORD [Chillingly Detached]: \"I have already written the story for you.\"\nEP33:E89 149200-152200 CAMERA: Close-up of the maid clutching her cheeks, crying in heartbreak.\nEP33:E90 149500-152000 MAID [Sobbing]: \"She saved my brother...\"\nEP33:E91 152200-156200 CAMERA: Close-up of the Lord turning back, resting one hand upon the desk with cold finality.\nEP33:E92 152500-156000 LORD [Inexorable]: \"And now... you will save your brother.\"\nEP33:E93 156200-159500 ACTION: The maid's knees buckle completely. She collapses forward onto the polished dark wood floor, groveling in total despair.\nEP33:E94 156200-159500 CAMERA: High angle looking down as the maid falls prostrate on the floor.\nEP33:E95 159000-161500 MAID [Weeping, Broken]: \"I am sorry, Lady Juliana...\"\nEP33:E96 159500-163800 CAMERA: Low-angle shot of the Lord looking down dismissively at the prostrate maid.\nEP33:E97 161800-164500 LORD [Cold, Merciless]: \"Save your tears for the trial.\"\nEP33:E98 163800-174040 CAMERA: Side medium shot of the maid kneeling crumpled on the floor in the dimly lit study, her face buried in both hands, weeping uncontrollably as the scene slowly fades into the dark silence.\nEP33:E99 164500-174040 ACTION: The heartbroken maid weeps silently in the shadow of the desk, consumed by guilt and powerlessness.\nAVAILABLE COVERAGE (milliseconds)=[{\"start_ms\": 0, \"end_ms\": 174040}]\nEPISODE ANALYSIS={\"episode_id\":\"ep_033\",\"summary\":\"On-screen evidence (EP33:E1 to EP33:E99) shows an unnamed aristocratic lord coercing a young maid in a study into agreeing that Lady Juliana used herbs and a mother's book and performed unusual acts. He threatens to send her seven-year-old brother Toby to the county gaol, then tells her she will testify to witchcraft before the magistrate. Uncertainty: Juliana, Toby and the lord are never shown on screen and are identified only through dialogue. The maid's agreements (EP33:E27, E31, E52, E56, E60, E68) are extracted under threat and leading questions, so the claims of herbs, a book and witchcraft are the lord's framing and are unverified. The maid's account that Juliana saved Toby (EP33:E9, E21, E77, E90) is her statement and is also unverified. Metadata was not used as evidence and does not establish events beyond the on-screen material. The scene fades out at EP33:E98 and EP33:E99 with no resolution of the trial or Toby's fate.\",\"characters\":[{\"name\":\"Unnamed Lord\",\"role\":\"Aristocratic lord who coerces the maid into false testimony against Juliana and threatens her brother\"},{\"name\":\"Unnamed young maid\",\"role\":\"Servant coerced into giving false testimony; her brother Toby is threatened with the county gaol\"},{\"name\":\"Lady Juliana\",\"role\":\"Referenced only, not on screen; accused of witchcraft by the lord and credited by the maid with saving Toby\"},{\"name\":\"Toby\",\"role\":\"Referenced only, not on screen; the maid's seven-year-old brother, threatened with the county gaol and reportedly saved by Juliana\"}],\"beats\":[{\"id\":\"b1\",\"kind\":\"setup\",\"event_refs\":[\"EP33:E1\",\"EP33:E2\",\"EP33:E3\",\"EP33:E4\",\"EP33:E5\",\"EP33:E6\",\"EP33:E7\",\"EP33:E8\",\"EP33:E9\",\"EP33:E10\",\"EP33:E11\"],\"description\":\"The lord confronts the maid in the study about her brother's recovery, asking who saved him and how, and she names Lady Juliana.\",\"intensity_0_10\":3.0},{\"id\":\"b2\",\"kind\":\"interrogation\",\"event_refs\":[\"EP33:E12\",\"EP33:E13\",\"EP33:E14\",\"EP33:E15\",\"EP33:E16\",\"EP33:E17\",\"EP33:E18\",\"EP33:E19\",\"EP33:E20\",\"EP33:E21\",\"EP33:E22\",\"EP33:E23\",\"EP33:E24\",\"EP33:E25\",\"EP33:E26\",\"EP33:E27\",\"EP33:E28\",\"EP33:E29\",\"EP33:E30\",\"EP33:E31\",\"EP33:E32\",\"EP33:E33\",\"EP33:E34\",\"EP33:E35\"],\"description\":\"The lord presses the maid about herbs, the mother's book and unusual acts; she gives answers that are partly denied, then agrees under pressure to some leading claims.\",\"intensity_0_10\":6.0},{\"id\":\"b3\",\"kind\":\"threat\",\"event_refs\":[\"EP33:E36\",\"EP33:E37\",\"EP33:E38\",\"EP33:E39\",\"EP33:E40\",\"EP33:E41\",\"EP33:E42\",\"EP33:E43\",\"EP33:E44\",\"EP33:E45\",\"EP33:E46\",\"EP33:E47\"],\"description\":\"The lord threatens to send the maid's seven-year-old brother to the county gaol, and she begs for mercy and asks what she must say.\",\"intensity_0_10\":8.0},{\"id\":\"b4\",\"kind\":\"coercion\",\"event_refs\":[\"EP33:E48\",\"EP33:E49\",\"EP33:E50\",\"EP33:E51\",\"EP33:E52\",\"EP33:E53\",\"EP33:E54\",\"EP33:E55\",\"EP33:E56\",\"EP33:E57\",\"EP33:E58\",\"EP33:E59\",\"EP33:E60\",\"EP33:E61\",\"EP33:E62\",\"EP33:E63\",\"EP33:E64\",\"EP33:E65\",\"EP33:E66\",\"EP33:E67\",\"EP33:E68\"],\"description\":\"The lord supplies the wording of the account, including a circle of herbs and a book spoken over the bed, and the maid repeats it in fragments while insisting Juliana was praying.\",\"intensity_0_10\":7.0},{\"id\":\"b5\",\"kind\":\"framing\",\"event_refs\":[\"EP33:E69\",\"EP33:E70\",\"EP33:E71\",\"EP33:E72\",\"EP33:E73\",\"EP33:E74\",\"EP33:E75\",\"EP33:E76\",\"EP33:E77\",\"EP33:E78\",\"EP33:E79\",\"EP33:E80\",\"EP33:E81\",\"EP33:E82\",\"EP33:E83\",\"EP33:E84\",\"EP33:E85\"],\"description\":\"The lord declares the account witchcraft and orders the maid to give it before the magistrate; she protests that Juliana saved Toby and is left horrified.\",\"intensity_0_10\":9.0},{\"id\":\"b6\",\"kind\":\"capitulation\",\"event_refs\":[\"EP33:E86\",\"EP33:E87\",\"EP33:E88\",\"EP33:E89\",\"EP33:E90\",\"EP33:E91\",\"EP33:E92\",\"EP33:E93\",\"EP33:E94\",\"EP33:E95\",\"EP33:E96\",\"EP33:E97\",\"EP33:E98\",\"EP33:E99\"],\"description\":\"The lord states the story is already written, and the maid collapses, apologises to Juliana and is dismissed; the scene fades with her weeping.\",\"intensity_0_10\":6.0}],\"revelations\":[{\"id\":\"r1\",\"event_refs\":[\"EP33:E79\",\"EP33:E83\",\"EP33:E87\",\"EP33:E88\"],\"claim\":\"The lord intends the maid to give a testimony of witchcraft against Juliana before the magistrate, and states he has already written the story for her.\",\"spoiler_significance_0_10\":8.0,\"creates_questions\":[\"Will the maid's false testimony be delivered before the magistrate?\",\"Will Juliana be charged with witchcraft on this testimony?\"]},{\"id\":\"r2\",\"event_refs\":[\"EP33:E9\",\"EP33:E21\",\"EP33:E77\",\"EP33:E90\"],\"claim\":\"According to the maid, Lady Juliana saved her brother Toby, and she maintains this account despite the lord's pressure; this is her claim, not independently shown.\",\"spoiler_significance_0_10\":4.0,\"creates_questions\":[\"Did Juliana actually save Toby, and how?\",\"Is Toby currently safe from the county gaol threat?\"]},{\"id\":\"r3\",\"event_refs\":[\"EP33:E31\",\"EP33:E52\",\"EP33:E56\",\"EP33:E60\",\"EP33:E68\"],\"claim\":\"The maid's agreement that Juliana used herbs, a mother's book and unusual acts was given under threat and leading questions, so these acts are the lord's framing and remain unverified.\",\"spoiler_significance_0_10\":6.0,\"creates_questions\":[\"Did Juliana use herbs or a book in any way that could be called witchcraft?\",\"What does the maid truly know about Juliana's actions?\"]}],\"unresolved_questions\":[{\"question\":\"Will the maid give the false testimony before the magistrate?\",\"introduced_by\":[\"EP33:E79\",\"EP33:E83\"]},{\"question\":\"Is Toby's safety guaranteed, or will the county gaol take him?\",\"introduced_by\":[\"EP33:E40\",\"EP33:E92\"]},{\"question\":\"Did Juliana use herbs, a mother's book or any ritual, and if so what were they?\",\"introduced_by\":[\"EP33:E13\",\"EP33:E25\",\"EP33:E52\",\"EP33:E58\"]},{\"question\":\"Who is the lord, and what is his motive against Juliana?\",\"introduced_by\":[\"EP33:E1\",\"EP33:E88\"]},{\"question\":\"What happens to Juliana if the witchcraft accusation is made?\",\"introduced_by\":[\"EP33:E75\",\"EP33:E97\"]}]}\nSERIES CONTEXT={\"series_id\":\"series_001\",\"premise\":\"Lady Juliana is publicly jilted at the altar when her fiance Gerald chooses her sister Clarissa, and her family rejects her. She marries a scarred, unnamed Bearded Man (later revealed on screen as Alexander, a presumed-dead soldier and Duke), and the couple is repeatedly targeted by antagonists. Juliana uses her late mother's herbal knowledge to heal the sick, which draws accusations of witchcraft and poisoning, while Alexander's return and claim to his ducal title set up a confrontation with the conspirators who hid his survival.\",\"arcs\":[{\"id\":\"arc_jilting_and_family_rejection\",\"description\":\"Juliana is jilted at the altar by Gerald, humiliated by her sister Clarissa and disowned by her family, which sets off the series' central betrayal.\",\"beat_refs\":[{\"episode_id\":\"ep_001\",\"beat_id\":\"B02\"},{\"episode_id\":\"ep_001\",\"beat_id\":\"B03\"},{\"episode_id\":\"ep_001\",\"beat_id\":\"B09\"},{\"episode_id\":\"ep_001\",\"beat_id\":\"B10\"},{\"episode_id\":\"ep_002\",\"beat_id\":\"b01\"},{\"episode_id\":\"ep_002\",\"beat_id\":\"b05\"},{\"episode_id\":\"ep_003\",\"beat_id\":\"b3\"},{\"episode_id\":\"ep_004\",\"beat_id\":\"B11\"}]},{\"id\":\"arc_exile_and_marriage_to_the_bearded_man\",\"description\":\"After the rejection, the unnamed Bearded Man intervenes, offers Juliana a ring and a vow, and the couple leaves the family behind to live in hardship in a cottage.\",\"beat_refs\":[{\"episode_id\":\"ep_003\",\"beat_id\":\"b9\"},{\"episode_id\":\"ep_004\",\"beat_id\":\"B8\"},{\"episode_id\":\"ep_004\",\"beat_id\":\"B9\"},{\"episode_id\":\"ep_005\",\"beat_id\":\"b1\"},{\"episode_id\":\"ep_005\",\"beat_id\":\"b3\"},{\"episode_id\":\"ep_006\",\"beat_id\":\"b2\"},{\"episode_id\":\"ep_006\",\"beat_id\":\"b8\"}]},{\"id\":\"arc_healing_and_poisoning_conspiracy\",\"description\":\"Juliana's herbal healing draws her into the household of the ailing Dowager Duchess, where she uncovers evidence of arsenic poisoning and is pulled into a dangerous conflict with Catherine and Rupert.\",\"beat_refs\":[{\"episode_id\":\"ep_009\",\"beat_id\":\"b02\"},{\"episode_id\":\"ep_022\",\"beat_id\":\"B6\"},{\"episode_id\":\"ep_023\",\"beat_id\":\"beat_2\"},{\"episode_id\":\"ep_023\",\"beat_id\":\"beat_6\"},{\"episode_id\":\"ep_024\",\"beat_id\":\"B7\"},{\"episode_id\":\"ep_025\",\"beat_id\":\"b5\"},{\"episode_id\":\"ep_026\",\"beat_id\":\"b6\"},{\"episode_id\":\"ep_028\",\"beat_id\":\"b4\"}]},{\"id\":\"arc_frame_up_and_imprisonment\",\"description\":\"Juliana and Alexander are framed with a stolen watch and with witchcraft and poisoning charges, leading to Juliana's arrest, torture and public trial.\",\"beat_refs\":[{\"episode_id\":\"ep_011\",\"beat_id\":\"b6\"},{\"episode_id\":\"ep_012\",\"beat_id\":\"B6\"},{\"episode_id\":\"ep_029\",\"beat_id\":\"b07\"},{\"episode_id\":\"ep_031\",\"beat_id\":\"b9\"},{\"episode_id\":\"ep_034\",\"beat_id\":\"B9\"}]},{\"id\":\"arc_alexander_return_and_reclamation\",\"description\":\"Alexander's survival is revealed after an ambush he was believed to have died in, and he moves to expose the conspirators who hid him, reclaim his title and rescue Juliana before her execution.\",\"beat_refs\":[{\"episode_id\":\"ep_035\",\"beat_id\":\"b7\"},{\"episode_id\":\"ep_036\",\"beat_id\":\"b8\"},{\"episode_id\":\"ep_039\",\"beat_id\":\"B5\"},{\"episode_id\":\"ep_042\",\"beat_id\":\"b11\"},{\"episode_id\":\"ep_045\",\"beat_id\":\"B6\"},{\"episode_id\":\"ep_046\",\"beat_id\":\"B2\"}]}],\"key_revelations\":[{\"episode_id\":\"ep_001\",\"revelation_id\":\"R01\",\"prerequisite_context\":[\"Gerald is holding the hand of the Lady in Gold Gown at the altar\",\"The Lady in Gold Gown states that Gerald is marrying her\"]},{\"episode_id\":\"ep_001\",\"revelation_id\":\"R02\",\"prerequisite_context\":[\"The Lady in Gold Gown knew of the betrayal in advance\",\"She says Gerald was never going to marry Juliana\"]},{\"episode_id\":\"ep_004\",\"revelation_id\":\"R4\",\"prerequisite_context\":[\"The priest pronounces the couple husband and wife in an off-screen voice\",\"The priest had earlier hesitated before proceeding\"]},{\"episode_id\":\"ep_011\",\"revelation_id\":\"r1\",\"prerequisite_context\":[\"Gerald accuses Alexander of stealing his gold pocket watch\",\"The Constable finds a gold pocket watch inside Alexander's coat\"]},{\"episode_id\":\"ep_023\",\"revelation_id\":\"rev_2\",\"prerequisite_context\":[\"Juliana's late mother's journal records toxic symptoms matching the Duchess's condition\",\"Juliana asserts that someone is poisoning the Duchess\"]},{\"episode_id\":\"ep_027\",\"revelation_id\":\"r1\",\"prerequisite_context\":[\"The Duchess says the ring bears the Ashbourne crest\",\"Juliana says her husband gave her the ring\"]},{\"episode_id\":\"ep_028\",\"revelation_id\":\"r3\",\"prerequisite_context\":[\"Catherine reads the herbarium inscription Juliana Ashcroft\",\"Catherine names her Lady Juliana Ashcroft\"]},{\"episode_id\":\"ep_035\",\"revelation_id\":\"r2\",\"prerequisite_context\":[\"Alexander says the ambush was ordered to erase him\",\"Alexander says someone wanted his mother to believe he was dead\"]},{\"episode_id\":\"ep_036\",\"revelation_id\":\"r7\",\"prerequisite_context\":[\"Juliana was arrested and accused of poisoning Alexander\",\"The mother reports that Juliana was condemned by a magistrate\"]},{\"episode_id\":\"ep_045\",\"revelation_id\":\"R1\",\"prerequisite_context\":[\"Alexander kneels before Juliana and unchains her\",\"Alexander identifies himself as Alexander Ashburton, the rightful Duke\"]}]}",
+  "schema": {
+    "$defs": {
+      "EpisodeOpportunity": {
+        "additionalProperties": false,
+        "properties": {
+          "scope": {
+            "const": "episode",
+            "title": "Scope",
+            "type": "string"
+          },
+          "local_id": {
+            "title": "Local Id",
+            "type": "string"
+          },
+          "episode_id": {
+            "title": "Episode Id",
+            "type": "string"
+          },
+          "concept": {
+            "title": "Concept",
+            "type": "string"
+          },
+          "hook_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Hook Refs",
+            "type": "array"
+          },
+          "ending_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Ending Refs",
+            "type": "array"
+          },
+          "context_refs": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Context Refs",
+            "type": "array"
+          },
+          "why_promising": {
+            "title": "Why Promising",
+            "type": "string"
+          }
+        },
+        "required": [
+          "scope",
+          "local_id",
+          "episode_id",
+          "concept",
+          "hook_refs",
+          "ending_refs",
+          "context_refs",
+          "why_promising"
+        ],
+        "title": "EpisodeOpportunity",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "opportunities": {
+        "items": {
+          "$ref": "#/$defs/EpisodeOpportunity"
+        },
+        "title": "Opportunities",
+        "type": "array"
+      }
+    },
+    "required": [
+      "opportunities"
+    ],
+    "title": "EpisodeDiscovery",
+    "type": "object"
+  },
+  "state": "complete",
+  "output": {
+    "opportunities": [
+      {
+        "scope": "episode",
+        "local_id": "opp_1",
+        "episode_id": "ep_033",
+        "concept": "The lord asks who saved the boy, and the maid names Lady Juliana while he pushes her to say how.",
+        "hook_refs": [
+          "EP33:E7"
+        ],
+        "ending_refs": [
+          "EP33:E40"
+        ],
+        "context_refs": [
+          "EP33:E9",
+          "EP33:E21",
+          "EP33:E25"
+        ],
+        "why_promising": "The opening hook is a direct, pressured question, and the clip builds through leading questions about Juliana to an unresolved threat against the maid's seven-year-old brother. The 59-second span stays within the coverage interval."
+      },
+      {
+        "scope": "episode",
+        "local_id": "opp_2",
+        "episode_id": "ep_033",
+        "concept": "The maid insists Juliana saved her brother, and the lord answers that she will give the testimony he has written.",
+        "hook_refs": [
+          "EP33:E21"
+        ],
+        "ending_refs": [
+          "EP33:E45"
+        ],
+        "context_refs": [
+          "EP33:E23",
+          "EP33:E25",
+          "EP33:E27"
+        ],
+        "why_promising": "The clip opens on the maid's defiant line, 'I watched her save him,' and runs through the coerced admissions to the lord's cold reply, 'Then help him.' It shows the tension between her loyalty and the threat, and it ends unresolved."
+      },
+      {
+        "scope": "episode",
+        "local_id": "opp_3",
+        "episode_id": "ep_033",
+        "concept": "The lord leads the maid to say Juliana drew a circle of herbs around the bed, and he pushes her to agree.",
+        "hook_refs": [
+          "EP33:E50"
+        ],
+        "ending_refs": [
+          "EP33:E79"
+        ],
+        "context_refs": [
+          "EP33:E52",
+          "EP33:E55",
+          "EP33:E56"
+        ],
+        "why_promising": "The leading question 'She drew something around the bed, did she not?' is a clear hook, and the clip escalates through the maid's reluctant agreement to the lord's declaration that this will be her testimony. The ending remains an open threat about the magistrate."
+      },
+      {
+        "scope": "episode",
+        "local_id": "opp_4",
+        "episode_id": "ep_033",
+        "concept": "The lord asks whether Juliana performed anything unusual, and the maid denies it before he insists that she was chanting.",
+        "hook_refs": [
+          "EP33:E33"
+        ],
+        "ending_refs": [
+          "EP33:E66"
+        ],
+        "context_refs": [
+          "EP33:E35",
+          "EP33:E62",
+          "EP33:E64"
+        ],
+        "why_promising": "The hook is a sinister, leading question that opens a sharp exchange. The maid's denial, her insistence that Juliana was praying, and the lord's taunt 'Praying... or chanting?' create a self-contained and unresolved moment."
+      },
+      {
+        "scope": "episode",
+        "local_id": "opp_5",
+        "episode_id": "ep_033",
+        "concept": "The lord declares the account witchcraft and orders the maid to repeat it before the magistrate, and she protests that Juliana saved her brother.",
+        "hook_refs": [
+          "EP33:E79"
+        ],
+        "ending_refs": [
+          "EP33:E92"
+        ],
+        "context_refs": [
+          "EP33:E83",
+          "EP33:E87",
+          "EP33:E88"
+        ],
+        "why_promising": "The hook 'That will be your testimony' is a strong opening line. The clip covers the magistrate ultimatum and the lord's claim that he has already written the story, and it ends on his demand, 'And now... you will save your brother,' which leaves the outcome unresolved."
+      }
+    ]
+  }
+}

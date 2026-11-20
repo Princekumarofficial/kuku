@@ -1,0 +1,45 @@
+{
+  "candidate_id": "c_1da504e8a9bd17cb",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP05:E31",
+      "EP05:E32",
+      "EP05:E34",
+      "EP05:E35"
+    ],
+    "reason": "The opening within 0-3000ms shows a violent seizure of a ledger, a book flung into the courtyard, and a mocking taunt, which creates immediate conflict and humiliation. The stakes are not explained, so the hook depends on tone rather than established context."
+  },
+  "cliffhanger": {
+    "score_0_10": 3.0,
+    "evidence_refs": [
+      "EP05:E46",
+      "EP05:E47"
+    ],
+    "reason": "The ending returns the ledger to Juliana through a warm exchange, so the immediate object conflict is resolved. Her line 'They destroyed it' adds a lingering question about the damage, but the clip does not show what remains unresolved, so the tension is weak.",
+    "unresolved_at_end": false
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Who Lady Ashcroft, Clarissa, and Gerald are and their relationship to Juliana",
+      "What the leather ledger is and why it matters to Juliana",
+      "Why Juliana is in a white bridal gown and what the wedding context is",
+      "Who the Mysterious Bearded Man is and why he helps her",
+      "What 'your mother's precious legacy' refers to",
+      "Whether 'They destroyed it' refers to the ledger's contents or its condition, since the book appears intact"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Juliana's tears, kneeling in the mud, and the cruel mockery from her relatives create strong sympathy and humiliation. The closing moment of quiet sincerity from the bearded man adds warmth, though it is undercut by the grief of her final line."
+  },
+  "weaknesses": [
+    "The ledger's significance is never established, which weakens the emotional payoff of its loss and recovery",
+    "The bearded man's identity and motive are unexplained, so his kindness lacks context",
+    "Juliana's line 'They destroyed it' conflicts with the visible intact book and is unclear",
+    "The clip ends on a resolved beat (book returned), so it does not create a strong cliffhanger",
+    "Dialogue about the mother's legacy is cut off from its background, which limits first-time viewer understanding"
+  ],
+  "one_line_why_it_works": "A visceral opening of humiliation and a grief-stricken kneeling heroine, followed by a gentle stranger's act of returning a treasured object, creates an immediate emotional arc even without full context."
+}

@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_30ae3b98455426af",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP23:E20",
+      "EP23:E22",
+      "EP23:E40"
+    ],
+    "reason": "Opens with a sharp refusal and quickly escalates to a claim that the Duchess's condition is not simple old age, then reveals 'Someone is poisoning her' within the clip. The opening 0-3000ms establishes conflict, though the stakes depend on context not shown."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP23:E51",
+      "EP23:E52",
+      "EP23:E49"
+    ],
+    "reason": "Ends mid-action with Juliana uncorking an apothecary bottle to treat the choking Duchess, and Prudence asks whether she can be saved. Whether the Duchess survives is left open, but the clip ends during treatment rather than on a dramatic reveal, so the suspense is moderate.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Identity and relationship of Lady Juliana, Prudence, and the Duchess",
+      "Who the mother referenced in the journal is and why her written words matter",
+      "Why Juliana's refusal at the start is directed at Prudence",
+      "Cause and suspects of the poisoning beyond the word arsenic"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Escalating panic from Prudence, the Duchess's sudden choking, and Juliana's shift to fury and urgency build tension effectively, with pleading tears at the end."
+  },
+  "weaknesses": [
+    "Clip depends heavily on unseen prior plot to explain stakes and characters",
+    "Timestamps overlap and the sequence of 'Mother' reveal is not explained",
+    "Discovery of a family connection in the journal is referenced without showing what it says",
+    "Ending is an action beat rather than a strong narrative hook"
+  ],
+  "one_line_why_it_works": "A tense escalation from refusal to a poisoning revelation and a sudden physical crisis gives a first-time viewer a clear urgent moment, though the lack of context limits full comprehension."
+}

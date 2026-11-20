@@ -1,0 +1,46 @@
+{
+  "candidate_id": "c_94444b1e6d2526d7",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP16:E45",
+      "EP16:E46",
+      "EP16:E63",
+      "EP16:E64"
+    ],
+    "reason": "The opening within 0-3000ms shows Juliana reeling in devastated disbelief at a betrayal, with 'Gerald...' spoken at 0-1200ms, which creates an immediate question. The final 3000ms carries a cello swell and a silent gaze between the leads, but the hook is weakened because the betrayal's cause is never explained."
+  },
+  "cliffhanger": {
+    "score_0_10": 5.0,
+    "evidence_refs": [
+      "EP16:E56",
+      "EP16:E57",
+      "EP16:E64"
+    ],
+    "reason": "The thugs flee and the immediate threat is resolved, so the clip's plot is not left hanging. Alexander's deflection about a soldier's forgotten past and the cello hold leave an emotional question open at the end, which gives a moderate unresolved feel without a clear plot cliffhanger.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Gerald is and what betrayal Juliana has just experienced",
+      "Why thugs are destroying the garden and who paid them",
+      "Who Alexander is and what his relationship to Juliana is",
+      "The significance of his scars and his military past",
+      "Why the garden is important to the characters",
+      "What 'the ruined garden' refers to in the story"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The clip builds tension through Juliana's shock, Alexander's blood-stained restraint, and a lingering romantic gaze backed by a swelling cello score, which generates a strong emotional pull even without context."
+  },
+  "weaknesses": [
+    "The betrayal by Gerald is introduced without any explanation, so the emotional stakes are hard to grasp.",
+    "The fight is resolved quickly and the thugs' motive is only hinted at.",
+    "Alexander's identity and his relationship with Juliana are never established, so the romantic beat feels abrupt.",
+    "The cello cue and the 'cliffhanger hold' label rely on music to create tension the visuals do not fully earn.",
+    "The final gaze is largely visual and undefined, so the emotional climax lacks a clear dramatic question."
+  ],
+  "one_line_why_it_works": "A sudden betrayal, a mysterious fighter's bloodied restraint, and a silent romantic gaze under a swelling score create emotional intrigue even for a viewer who knows nothing else."
+}

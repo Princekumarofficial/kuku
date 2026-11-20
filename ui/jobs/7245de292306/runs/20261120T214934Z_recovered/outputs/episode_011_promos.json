@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "series_id": "series_001",
+  "scope": {
+    "type": "episode",
+    "episode_id": "ep_011"
+  },
+  "promos": [
+    {
+      "candidate_id": "c_322e033996b84b69",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 14300,
+          "end_ms": 53600,
+          "episode_id": "ep_011"
+        }
+      ],
+      "duration_ms": 39300,
+      "hook": {
+        "description": "The clip opens mid-confrontation with Juliana's sharp gesture and her shouted order to 'Leave!', which signals immediate conflict within the first 3000ms.](...)",
+        "evidence_refs": [
+          "EP11:E13",
+          "EP11:E14"
+        ]
+      },
+      "cliffhanger": {
+        "description": "The clip ends with Alexander saying 'Let them.' while Juliana looks at him in panicked confusion. The search is not carried out and the theft accusation is not resolved, so the outcome is left open.",
+        "evidence_refs": [
+          "EP11:E46",
+          "EP11:E47"
+        ]
+      },
+      "why_it_works": "Quick escalating accusations and a defiant wife end on Alexander's calm 'Let them.', leaving an open and tense question about the search.",
+      "scores": {
+        "hook": 8.0,
+        "cliffhanger": 8.0,
+        "standalone": 5.0,
+        "emotion": 8.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 7.25
+      },
+      "warnings": [
+        "Viewer cannot tell whether Alexander is guilty or bluffing, which weakens the stakes of the final line",
+        "Several characters' motives are implied rather than stated, so the conflict is hard to follow without prior context",
+        "The dialogue-heavy sequence has many cuts in a short span, which may make the emotional beats feel rushed",
+        "Spoilers not checked",
+        "Relationship and history between Juliana, Alexander and Gerald beyond the spoken lines",
+        "What the cottage and the gold pocket watch mean and whether a theft occurred",
+        "Why Alexander reverses from threatening Gerald to saying 'Search it' and 'Let them'",
+        "Role and authority of the Constable and the legal basis for the search",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 1,
+      "promo_id": "p_001"
+    }
+  ],
+  "construction": {
+    "opportunities": 4,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "PARTIAL_DIALOGUE": 2180,
+      "DURATION_OUT_OF_RANGE": 3217
+    }
+  },
+  "rejected_candidates": [
+    {
+      "candidate_id": "c_30ca259ec7d8b287",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_1623b5859ec212b8",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_d04f318cb3a0f72a",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    }
+  ]
+}

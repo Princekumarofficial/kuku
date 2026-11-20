@@ -1,0 +1,890 @@
+[
+  {
+    "candidate_id": "c_4a97838d6279a23c",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 1800,
+        "end_ms": 60500,
+        "episode_id": "ep_041"
+      }
+    ],
+    "duration_ms": 58700,
+    "origin": "opp_1",
+    "clip_events": [
+      {
+        "ref": "EP41:E3",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1000,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Wait.\""
+      },
+      {
+        "ref": "EP41:E2",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2700,
+        "type": "action",
+        "speaker": null,
+        "text": "Catherine abruptly pulls away from Rupert and raises her white-gloved hand high, commanding silence from the congregation."
+      },
+      {
+        "ref": "EP41:E4",
+        "segment_index": 0,
+        "relative_start_ms": 2700,
+        "relative_end_ms": 6700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot tracking Catherine as she pivots toward the seated aristocracy, her veil floating gracefully behind her."
+      },
+      {
+        "ref": "EP41:E5",
+        "segment_index": 0,
+        "relative_start_ms": 3100,
+        "relative_end_ms": 6400,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Before I become Duchess of Ashburgh...\""
+      },
+      {
+        "ref": "EP41:E7",
+        "segment_index": 0,
+        "relative_start_ms": 6700,
+        "relative_end_ms": 10900,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"...I want everyone to see what happens to a woman who dares defy this family.\""
+      },
+      {
+        "ref": "EP41:E6",
+        "segment_index": 0,
+        "relative_start_ms": 6700,
+        "relative_end_ms": 11200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Catherine's face, her lips curling into a sadistic, triumphant sneer."
+      },
+      {
+        "ref": "EP41:E8",
+        "segment_index": 0,
+        "relative_start_ms": 11200,
+        "relative_end_ms": 13700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Two-shot profile of Rupert and Catherine. Rupert turns to her with mild caution."
+      },
+      {
+        "ref": "EP41:E9",
+        "segment_index": 0,
+        "relative_start_ms": 11400,
+        "relative_end_ms": 12200,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"Catherine...\""
+      },
+      {
+        "ref": "EP41:E10",
+        "segment_index": 0,
+        "relative_start_ms": 12200,
+        "relative_end_ms": 13500,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Bring her in.\""
+      },
+      {
+        "ref": "EP41:E11",
+        "segment_index": 0,
+        "relative_start_ms": 13700,
+        "relative_end_ms": 15700,
+        "type": "sound",
+        "speaker": null,
+        "text": "Heavy wooden creak of the cathedral double doors swinging open."
+      },
+      {
+        "ref": "EP41:E12",
+        "segment_index": 0,
+        "relative_start_ms": 13700,
+        "relative_end_ms": 18200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot from behind the altar down the aisle as the great church doors slowly open, revealing the silhouette of three figures against the daylight."
+      },
+      {
+        "ref": "EP41:E13",
+        "segment_index": 0,
+        "relative_start_ms": 15700,
+        "relative_end_ms": 18200,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana, dressed in a coarse drab prison dress with a numbered identification badge, is marched forward by two armed constables holding her by the arms."
+      },
+      {
+        "ref": "EP41:E14",
+        "segment_index": 0,
+        "relative_start_ms": 18200,
+        "relative_end_ms": 21000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of Juliana's scarred, dirtied wrists bound tight in heavy iron shackles."
+      },
+      {
+        "ref": "EP41:E15",
+        "segment_index": 0,
+        "relative_start_ms": 21000,
+        "relative_end_ms": 24200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Intense close-up of Juliana's bruised, dirt-streaked face. Her piercing blue eyes burn with fierce dignity despite her captive state."
+      },
+      {
+        "ref": "EP41:E16",
+        "segment_index": 0,
+        "relative_start_ms": 24200,
+        "relative_end_ms": 27000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Catherine standing beside the altar, watching Juliana's entrance with gloating satisfaction."
+      },
+      {
+        "ref": "EP41:E17",
+        "segment_index": 0,
+        "relative_start_ms": 25000,
+        "relative_end_ms": 26600,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"There she is.\""
+      },
+      {
+        "ref": "EP41:E18",
+        "segment_index": 0,
+        "relative_start_ms": 27000,
+        "relative_end_ms": 28200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium tracking shot of Juliana marching between the stern constables down the central aisle toward the altar."
+      },
+      {
+        "ref": "EP41:E19",
+        "segment_index": 0,
+        "relative_start_ms": 28200,
+        "relative_end_ms": 32200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of a seated aristocratic couple in the pews, whispering and sneering behind an ivory lace fan."
+      },
+      {
+        "ref": "EP41:E20",
+        "segment_index": 0,
+        "relative_start_ms": 28700,
+        "relative_end_ms": 29800,
+        "type": "dialogue",
+        "speaker": "NOBLEWOMAN",
+        "text": "\"Look at her.\""
+      },
+      {
+        "ref": "EP41:E21",
+        "segment_index": 0,
+        "relative_start_ms": 29900,
+        "relative_end_ms": 32000,
+        "type": "dialogue",
+        "speaker": "NOBLEMAN",
+        "text": "\"She actually came back to the chapel.\""
+      },
+      {
+        "ref": "EP41:E22",
+        "segment_index": 0,
+        "relative_start_ms": 32200,
+        "relative_end_ms": 35000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the noblewoman giggling with hand over mouth, glancing spitefully at the disgraced bride."
+      },
+      {
+        "ref": "EP41:E23",
+        "segment_index": 0,
+        "relative_start_ms": 33000,
+        "relative_end_ms": 35000,
+        "type": "dialogue",
+        "speaker": "NOBLEWOMAN",
+        "text": "\"Not as a bride this time.\""
+      },
+      {
+        "ref": "EP41:E24",
+        "segment_index": 0,
+        "relative_start_ms": 35000,
+        "relative_end_ms": 38000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of two senior aristocrats in the carved choir stalls, resting on their canes and nodding in smug agreement."
+      },
+      {
+        "ref": "EP41:E25",
+        "segment_index": 0,
+        "relative_start_ms": 38000,
+        "relative_end_ms": 42000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close profile of Juliana as she halts in the center aisle, lifting her chin proudly to face the sneering onlookers."
+      },
+      {
+        "ref": "EP41:E26",
+        "segment_index": 0,
+        "relative_start_ms": 39200,
+        "relative_end_ms": 42400,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Lady Juliana Ashcroft. Look around.\""
+      },
+      {
+        "ref": "EP41:E27",
+        "segment_index": 0,
+        "relative_start_ms": 42000,
+        "relative_end_ms": 46700,
+        "type": "camera",
+        "speaker": null,
+        "text": "High-angle wide shot showing Juliana flanked by guards in the center of the lavishly decorated nave, dwarfed by the grand cathedral."
+      },
+      {
+        "ref": "EP41:E28",
+        "segment_index": 0,
+        "relative_start_ms": 43200,
+        "relative_end_ms": 46200,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"This is the world you thought you belonged to.\""
+      },
+      {
+        "ref": "EP41:E29",
+        "segment_index": 0,
+        "relative_start_ms": 46700,
+        "relative_end_ms": 51000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle medium shot of Catherine gesturing broadly from the altar steps, looking down upon Juliana like an empress."
+      },
+      {
+        "ref": "EP41:E30",
+        "segment_index": 0,
+        "relative_start_ms": 46800,
+        "relative_end_ms": 50600,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"And now they can all see what you truly are.\""
+      },
+      {
+        "ref": "EP41:E31",
+        "segment_index": 0,
+        "relative_start_ms": 51000,
+        "relative_end_ms": 56000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana standing firmly between the guards, calmly meeting Catherine's venomous gaze."
+      },
+      {
+        "ref": "EP41:E32",
+        "segment_index": 0,
+        "relative_start_ms": 53000,
+        "relative_end_ms": 55700,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana looks around the cathedral at the sea of pompous faces, then raises her eyes straight back to Catherine with utter disdain."
+      },
+      {
+        "ref": "EP41:E33",
+        "segment_index": 0,
+        "relative_start_ms": 56000,
+        "relative_end_ms": 58700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up on Juliana's bruised, unshaken face."
+      },
+      {
+        "ref": "EP41:E34",
+        "segment_index": 0,
+        "relative_start_ms": 56200,
+        "relative_end_ms": 58700,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You needed an entire chapel to feel powerful over one chained woman?\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_d0a470d84e9dfdd0",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 39800,
+        "end_ms": 96090,
+        "episode_id": "ep_041"
+      }
+    ],
+    "duration_ms": 56290,
+    "origin": "opp_2",
+    "clip_events": [
+      {
+        "ref": "EP41:E25",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 4000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close profile of Juliana as she halts in the center aisle, lifting her chin proudly to face the sneering onlookers."
+      },
+      {
+        "ref": "EP41:E26",
+        "segment_index": 0,
+        "relative_start_ms": 1200,
+        "relative_end_ms": 4400,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Lady Juliana Ashcroft. Look around.\""
+      },
+      {
+        "ref": "EP41:E27",
+        "segment_index": 0,
+        "relative_start_ms": 4000,
+        "relative_end_ms": 8700,
+        "type": "camera",
+        "speaker": null,
+        "text": "High-angle wide shot showing Juliana flanked by guards in the center of the lavishly decorated nave, dwarfed by the grand cathedral."
+      },
+      {
+        "ref": "EP41:E28",
+        "segment_index": 0,
+        "relative_start_ms": 5200,
+        "relative_end_ms": 8200,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"This is the world you thought you belonged to.\""
+      },
+      {
+        "ref": "EP41:E29",
+        "segment_index": 0,
+        "relative_start_ms": 8700,
+        "relative_end_ms": 13000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle medium shot of Catherine gesturing broadly from the altar steps, looking down upon Juliana like an empress."
+      },
+      {
+        "ref": "EP41:E30",
+        "segment_index": 0,
+        "relative_start_ms": 8800,
+        "relative_end_ms": 12600,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"And now they can all see what you truly are.\""
+      },
+      {
+        "ref": "EP41:E31",
+        "segment_index": 0,
+        "relative_start_ms": 13000,
+        "relative_end_ms": 18000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana standing firmly between the guards, calmly meeting Catherine's venomous gaze."
+      },
+      {
+        "ref": "EP41:E32",
+        "segment_index": 0,
+        "relative_start_ms": 15000,
+        "relative_end_ms": 17700,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana looks around the cathedral at the sea of pompous faces, then raises her eyes straight back to Catherine with utter disdain."
+      },
+      {
+        "ref": "EP41:E33",
+        "segment_index": 0,
+        "relative_start_ms": 18000,
+        "relative_end_ms": 21000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up on Juliana's bruised, unshaken face."
+      },
+      {
+        "ref": "EP41:E34",
+        "segment_index": 0,
+        "relative_start_ms": 18200,
+        "relative_end_ms": 20700,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You needed an entire chapel to feel powerful over one chained woman?\""
+      },
+      {
+        "ref": "EP41:E35",
+        "segment_index": 0,
+        "relative_start_ms": 21000,
+        "relative_end_ms": 24200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Dramatic low-angle full shot looking up at Juliana, her posture straight, imposing, and regal despite the heavy chains."
+      },
+      {
+        "ref": "EP41:E36",
+        "segment_index": 0,
+        "relative_start_ms": 21200,
+        "relative_end_ms": 23700,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Still arrogant. Still standing.\""
+      },
+      {
+        "ref": "EP41:E37",
+        "segment_index": 0,
+        "relative_start_ms": 24200,
+        "relative_end_ms": 28700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Full shot of Catherine turning back to Rupert at the altar, dismissing Juliana's defiance as beneath her."
+      },
+      {
+        "ref": "EP41:E38",
+        "segment_index": 0,
+        "relative_start_ms": 24700,
+        "relative_end_ms": 25600,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Come.\""
+      },
+      {
+        "ref": "EP41:E39",
+        "segment_index": 0,
+        "relative_start_ms": 28700,
+        "relative_end_ms": 30700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Catherine's and Rupert's gloved hands clasping together over the velvet altar cushion."
+      },
+      {
+        "ref": "EP41:E41",
+        "segment_index": 0,
+        "relative_start_ms": 30700,
+        "relative_end_ms": 35000,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Soon, there will be nothing left between us and the Ashburgh title.\""
+      },
+      {
+        "ref": "EP41:E40",
+        "segment_index": 0,
+        "relative_start_ms": 30700,
+        "relative_end_ms": 35200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot of Catherine gazing up adoringly into Rupert's eyes, her tone intoxicatingly intimate."
+      },
+      {
+        "ref": "EP41:E42",
+        "segment_index": 0,
+        "relative_start_ms": 35200,
+        "relative_end_ms": 37700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Rupert's face breaking into a calculating, ambitious grin."
+      },
+      {
+        "ref": "EP41:E43",
+        "segment_index": 0,
+        "relative_start_ms": 36000,
+        "relative_end_ms": 37200,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"Nothing.\""
+      },
+      {
+        "ref": "EP41:E44",
+        "segment_index": 0,
+        "relative_start_ms": 37700,
+        "relative_end_ms": 40700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the elderly Priest opening the leather-bound liturgical book between Rupert and Catherine."
+      },
+      {
+        "ref": "EP41:E45",
+        "segment_index": 0,
+        "relative_start_ms": 38200,
+        "relative_end_ms": 39500,
+        "type": "dialogue",
+        "speaker": "PRIEST",
+        "text": "\"Shall we?\""
+      },
+      {
+        "ref": "EP41:E46",
+        "segment_index": 0,
+        "relative_start_ms": 40700,
+        "relative_end_ms": 42000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot centered down the aisle toward the massive closed entrance doors."
+      },
+      {
+        "ref": "EP41:E47",
+        "segment_index": 0,
+        "relative_start_ms": 41200,
+        "relative_end_ms": 45700,
+        "type": "sound",
+        "speaker": null,
+        "text": "Ear-splitting detonation, shattering stone, wood splintering violently into kindling, followed by terrified screams of the congregation."
+      },
+      {
+        "ref": "EP41:E48",
+        "segment_index": 0,
+        "relative_start_ms": 42000,
+        "relative_end_ms": 44200,
+        "type": "action",
+        "speaker": null,
+        "text": "A violent fireball bursts inward as the entire cathedral entrance explodes, blasting the massive double doors and masonry into flying shrapnel and billowing smoke."
+      },
+      {
+        "ref": "EP41:E49",
+        "segment_index": 0,
+        "relative_start_ms": 42000,
+        "relative_end_ms": 44700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Rapid series of panic shots: aristocratic guests ducking behind pews, covering their heads in terror, women shrieking as plaster rains down."
+      },
+      {
+        "ref": "EP41:E50",
+        "segment_index": 0,
+        "relative_start_ms": 44700,
+        "relative_end_ms": 48700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Catherine and Rupert at the altar. Catherine gasps in horror, clutching her veil as debris rains over her bridal gown while Rupert spins around in shock."
+      },
+      {
+        "ref": "EP41:E51",
+        "segment_index": 0,
+        "relative_start_ms": 48700,
+        "relative_end_ms": 52200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium wide shot of Juliana standing motionless in the middle of the aisle while thick smoke and dust billow from the demolished archway behind her."
+      },
+      {
+        "ref": "EP41:E52",
+        "segment_index": 0,
+        "relative_start_ms": 49200,
+        "relative_end_ms": 53700,
+        "type": "action",
+        "speaker": null,
+        "text": "Silhouetted armed figures emerge through the smoke and rubble of the breached doorway. Juliana slowly turns her head, glancing back toward the light."
+      },
+      {
+        "ref": "EP41:E53",
+        "segment_index": 0,
+        "relative_start_ms": 52200,
+        "relative_end_ms": 56290,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up pushing in on Juliana's bruised face. Her expression shifts from grim resolve into awe, breathless realization, and blooming hope as the orchestral score swells into an abrupt cliffhanger."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_5ec9503afbc5760d",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 68500,
+        "end_ms": 96090,
+        "episode_id": "ep_041"
+      }
+    ],
+    "duration_ms": 27590,
+    "origin": "opp_3",
+    "clip_events": [
+      {
+        "ref": "EP41:E39",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Catherine's and Rupert's gloved hands clasping together over the velvet altar cushion."
+      },
+      {
+        "ref": "EP41:E41",
+        "segment_index": 0,
+        "relative_start_ms": 2000,
+        "relative_end_ms": 6300,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Soon, there will be nothing left between us and the Ashburgh title.\""
+      },
+      {
+        "ref": "EP41:E40",
+        "segment_index": 0,
+        "relative_start_ms": 2000,
+        "relative_end_ms": 6500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot of Catherine gazing up adoringly into Rupert's eyes, her tone intoxicatingly intimate."
+      },
+      {
+        "ref": "EP41:E42",
+        "segment_index": 0,
+        "relative_start_ms": 6500,
+        "relative_end_ms": 9000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Rupert's face breaking into a calculating, ambitious grin."
+      },
+      {
+        "ref": "EP41:E43",
+        "segment_index": 0,
+        "relative_start_ms": 7300,
+        "relative_end_ms": 8500,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"Nothing.\""
+      },
+      {
+        "ref": "EP41:E44",
+        "segment_index": 0,
+        "relative_start_ms": 9000,
+        "relative_end_ms": 12000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the elderly Priest opening the leather-bound liturgical book between Rupert and Catherine."
+      },
+      {
+        "ref": "EP41:E45",
+        "segment_index": 0,
+        "relative_start_ms": 9500,
+        "relative_end_ms": 10800,
+        "type": "dialogue",
+        "speaker": "PRIEST",
+        "text": "\"Shall we?\""
+      },
+      {
+        "ref": "EP41:E46",
+        "segment_index": 0,
+        "relative_start_ms": 12000,
+        "relative_end_ms": 13300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot centered down the aisle toward the massive closed entrance doors."
+      },
+      {
+        "ref": "EP41:E47",
+        "segment_index": 0,
+        "relative_start_ms": 12500,
+        "relative_end_ms": 17000,
+        "type": "sound",
+        "speaker": null,
+        "text": "Ear-splitting detonation, shattering stone, wood splintering violently into kindling, followed by terrified screams of the congregation."
+      },
+      {
+        "ref": "EP41:E48",
+        "segment_index": 0,
+        "relative_start_ms": 13300,
+        "relative_end_ms": 15500,
+        "type": "action",
+        "speaker": null,
+        "text": "A violent fireball bursts inward as the entire cathedral entrance explodes, blasting the massive double doors and masonry into flying shrapnel and billowing smoke."
+      },
+      {
+        "ref": "EP41:E49",
+        "segment_index": 0,
+        "relative_start_ms": 13300,
+        "relative_end_ms": 16000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Rapid series of panic shots: aristocratic guests ducking behind pews, covering their heads in terror, women shrieking as plaster rains down."
+      },
+      {
+        "ref": "EP41:E50",
+        "segment_index": 0,
+        "relative_start_ms": 16000,
+        "relative_end_ms": 20000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Catherine and Rupert at the altar. Catherine gasps in horror, clutching her veil as debris rains over her bridal gown while Rupert spins around in shock."
+      },
+      {
+        "ref": "EP41:E51",
+        "segment_index": 0,
+        "relative_start_ms": 20000,
+        "relative_end_ms": 23500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium wide shot of Juliana standing motionless in the middle of the aisle while thick smoke and dust billow from the demolished archway behind her."
+      },
+      {
+        "ref": "EP41:E52",
+        "segment_index": 0,
+        "relative_start_ms": 20500,
+        "relative_end_ms": 25000,
+        "type": "action",
+        "speaker": null,
+        "text": "Silhouetted armed figures emerge through the smoke and rubble of the breached doorway. Juliana slowly turns her head, glancing back toward the light."
+      },
+      {
+        "ref": "EP41:E53",
+        "segment_index": 0,
+        "relative_start_ms": 23500,
+        "relative_end_ms": 27590,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up pushing in on Juliana's bruised face. Her expression shifts from grim resolve into awe, breathless realization, and blooming hope as the orchestral score swells into an abrupt cliffhanger."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_53709a05ce84ad76",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 12700,
+        "end_ms": 34000,
+        "episode_id": "ep_041"
+      }
+    ],
+    "duration_ms": 21300,
+    "origin": "recovery_b2",
+    "clip_events": [
+      {
+        "ref": "EP41:E6",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Catherine's face, her lips curling into a sadistic, triumphant sneer."
+      },
+      {
+        "ref": "EP41:E8",
+        "segment_index": 0,
+        "relative_start_ms": 300,
+        "relative_end_ms": 2800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Two-shot profile of Rupert and Catherine. Rupert turns to her with mild caution."
+      },
+      {
+        "ref": "EP41:E9",
+        "segment_index": 0,
+        "relative_start_ms": 500,
+        "relative_end_ms": 1300,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"Catherine...\""
+      },
+      {
+        "ref": "EP41:E10",
+        "segment_index": 0,
+        "relative_start_ms": 1300,
+        "relative_end_ms": 2600,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Bring her in.\""
+      },
+      {
+        "ref": "EP41:E11",
+        "segment_index": 0,
+        "relative_start_ms": 2800,
+        "relative_end_ms": 4800,
+        "type": "sound",
+        "speaker": null,
+        "text": "Heavy wooden creak of the cathedral double doors swinging open."
+      },
+      {
+        "ref": "EP41:E12",
+        "segment_index": 0,
+        "relative_start_ms": 2800,
+        "relative_end_ms": 7300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot from behind the altar down the aisle as the great church doors slowly open, revealing the silhouette of three figures against the daylight."
+      },
+      {
+        "ref": "EP41:E13",
+        "segment_index": 0,
+        "relative_start_ms": 4800,
+        "relative_end_ms": 7300,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana, dressed in a coarse drab prison dress with a numbered identification badge, is marched forward by two armed constables holding her by the arms."
+      },
+      {
+        "ref": "EP41:E14",
+        "segment_index": 0,
+        "relative_start_ms": 7300,
+        "relative_end_ms": 10100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of Juliana's scarred, dirtied wrists bound tight in heavy iron shackles."
+      },
+      {
+        "ref": "EP41:E15",
+        "segment_index": 0,
+        "relative_start_ms": 10100,
+        "relative_end_ms": 13300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Intense close-up of Juliana's bruised, dirt-streaked face. Her piercing blue eyes burn with fierce dignity despite her captive state."
+      },
+      {
+        "ref": "EP41:E16",
+        "segment_index": 0,
+        "relative_start_ms": 13300,
+        "relative_end_ms": 16100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Catherine standing beside the altar, watching Juliana's entrance with gloating satisfaction."
+      },
+      {
+        "ref": "EP41:E17",
+        "segment_index": 0,
+        "relative_start_ms": 14100,
+        "relative_end_ms": 15700,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"There she is.\""
+      },
+      {
+        "ref": "EP41:E18",
+        "segment_index": 0,
+        "relative_start_ms": 16100,
+        "relative_end_ms": 17300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium tracking shot of Juliana marching between the stern constables down the central aisle toward the altar."
+      },
+      {
+        "ref": "EP41:E19",
+        "segment_index": 0,
+        "relative_start_ms": 17300,
+        "relative_end_ms": 21300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of a seated aristocratic couple in the pews, whispering and sneering behind an ivory lace fan."
+      },
+      {
+        "ref": "EP41:E20",
+        "segment_index": 0,
+        "relative_start_ms": 17800,
+        "relative_end_ms": 18900,
+        "type": "dialogue",
+        "speaker": "NOBLEWOMAN",
+        "text": "\"Look at her.\""
+      },
+      {
+        "ref": "EP41:E21",
+        "segment_index": 0,
+        "relative_start_ms": 19000,
+        "relative_end_ms": 21100,
+        "type": "dialogue",
+        "speaker": "NOBLEMAN",
+        "text": "\"She actually came back to the chapel.\""
+      }
+    ]
+  }
+]

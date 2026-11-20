@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_8825b2e3a59164cf",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP37:E11",
+      "EP37:E13"
+    ],
+    "reason": "Opens within 0-3000ms on a tight close-up of venomous malice and a cruel sneer, signalling immediate villainy and conflict."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.5,
+    "evidence_refs": [
+      "EP37:E43",
+      "EP37:E44"
+    ],
+    "reason": "Ends in the final 3000ms with the nobleman asking 'To whom?' after Clarissa calls the execution a warning. The target of the warning is never revealed, so the question stays open at the cut.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Identity and role of Juliana and why her execution is planned",
+      "Who the Ashcrofts are and why they are singled out for invitations",
+      "Relationship between Catherine, Rupert and the wedding couple",
+      "Who the condemned are and what they did",
+      "Which family or person the warning is aimed at",
+      "Who Lady Clarissa and the nobleman are to each other and to the estate"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 6.5,
+    "reason": "Conveys strong malice, cruel delight and shock through close-ups and sneers, creating a dark, menacing tone, though the lack of stakes limits emotional investment for a first-time viewer."
+  },
+  "weaknesses": [
+    "Heavy reliance on unexplained names (Juliana, Ashcrofts, Ashbridge) that a first-time viewer cannot place",
+    "The letter's contents are conveyed only through characters' reactions, so the 'sentencing' and 'warning' lack concrete stakes",
+    "Multiple overlapping speakers and locations in a short span make the scene hard to track",
+    "Strong ending question, but the emotional payoff depends on knowing who the warning targets, which is absent from the clip"
+  ],
+  "one_line_why_it_works": "The clip builds menace quickly through villainous close-ups and ends on an unanswered 'To whom?' that makes the viewer want the next reveal."
+}

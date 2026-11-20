@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_ec6117177e5de0eb DURATION_MS=38200\nSEGMENT 1 (playback order)\nEP39:E36 0-1000 SOUND: Rhythmic, metallic snips of heavy shears cutting through thick hair.\nEP39:E37 0-1400 CAMERA: Medium shot as Alexander trims his beard at the jawline.\nEP39:E38 1400-6800 CAMERA: Medium shot framed in the mirror of Alexander now handsomely groomed, his trimmed beard framing his fierce, scarred features.\nEP39:E40 2200-3000 ALEXANDER: \"Enough hiding.\"\nEP39:E39 2200-6800 ACTION: Alexander lightly traces the jagged combat scar across his cheek, eyes burning with reclaimed power.\nEP39:E41 3200-5700 ALEXANDER: \"They buried Alexander Ashwin three years ago.\"\nEP39:E42 5800-7100 ALEXANDER: \"Today, he comes home.\"\nEP39:E43 6800-8700 CAMERA: Medium shot of Alexander lifting his royal navy-blue embroidered ducal coat from the wooden bench.\nEP39:E44 8700-12000 CAMERA: Wide tracking shot through double wooden barn doors opening outward onto a vast, snow-covered landscape as Alexander steps forward into the light.\nEP39:E45 8700-12000 ACTION: Alexander emerges in full ducal splendor—dressed in an immaculate navy tailcoat lined with gold embroidery, double-breasted brass buttons, and a crisp white cravat.\nEP39:E46 12000-15000 CAMERA: Extreme close-up of Alexander's hand adjusting the ornate golden lion crest pinned at his cravat.\nEP39:E47 15000-18000 CAMERA: Medium low-angle shot as a loyalist soldier drops down onto one knee before him in the snow.\nEP39:E48 16000-17400 LOYALIST: \"Your Grace.\"\nEP39:E49 18000-22700 CAMERA: Close-up profile of Alexander, his breath pluming in the winter cold, his eyes hardened like steel.\nEP39:E50 20700-22400 ALEXANDER: \"Secure the chapel.\"\nEP39:E51 22700-25400 CAMERA: Medium close-up of the soldier rising and snapping a crisp military salute.\nEP39:E52 24000-25400 LOYALIST: \"Yes, Your Grace.\"\nEP39:E53 25400-35200 CAMERA: Slow dramatic tracking shot moving backward in front of Alexander as he strides purposefully through the deep snow, the wooden chapel looming in the distance behind him.\nEP39:E54 25700-27400 ALEXANDER: \"No more hiding.\"\nEP39:E55 27700-30400 ALEXANDER: \"I am taking back my house.\"\nEP39:E56 30400-35200 ACTION: Alexander marches forward unstoppably, his long coat fluttering in the winter wind as his icy gaze locks forward.\nEP39:E58 35200-38200 ALEXANDER: \"And I am bringing my wife home.\"\nEP39:E57 35200-38200 CAMERA: Dramatic push-in close-up directly onto Alexander's scarred, fierce face as he speaks with absolute conviction.\nEP39:E59 38000-38200 ACTION: Alexander's eyes burn with furious determination as the screen cuts sharply to black.",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

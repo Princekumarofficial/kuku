@@ -1,0 +1,1214 @@
+[
+  {
+    "candidate_id": "c_86f12414ccaac16c",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 20400,
+        "end_ms": 63500,
+        "episode_id": "ep_003"
+      }
+    ],
+    "duration_ms": 43100,
+    "origin": "opp_1",
+    "clip_events": [
+      {
+        "ref": "EP03:E14",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Side medium shot of Gerald looking away impassively as the Lady in Gold Gown leans back against him."
+      },
+      {
+        "ref": "EP03:E16",
+        "segment_index": 0,
+        "relative_start_ms": 100,
+        "relative_end_ms": 2400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Lady in Gold Gown beaming triumphantly."
+      },
+      {
+        "ref": "EP03:E17",
+        "segment_index": 0,
+        "relative_start_ms": 200,
+        "relative_end_ms": 2100,
+        "type": "dialogue",
+        "speaker": "LADY IN GOLD GOWN",
+        "text": "\"Now it is mine.\""
+      },
+      {
+        "ref": "EP03:E18",
+        "segment_index": 0,
+        "relative_start_ms": 2400,
+        "relative_end_ms": 5400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle wide shot of an imperious Noble Matriarch in a lavish black velvet gown and jeweled tiara stepping forward."
+      },
+      {
+        "ref": "EP03:E19",
+        "segment_index": 0,
+        "relative_start_ms": 2700,
+        "relative_end_ms": 5100,
+        "type": "dialogue",
+        "speaker": "NOBLE MATRIARCH",
+        "text": "\"Enough, Juliana.\""
+      },
+      {
+        "ref": "EP03:E20",
+        "segment_index": 0,
+        "relative_start_ms": 5400,
+        "relative_end_ms": 7600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the Noble Matriarch glaring down with icy contempt."
+      },
+      {
+        "ref": "EP03:E21",
+        "segment_index": 0,
+        "relative_start_ms": 5500,
+        "relative_end_ms": 7600,
+        "type": "dialogue",
+        "speaker": "NOBLE MATRIARCH",
+        "text": "\"You have humiliated this family enough for one day.\""
+      },
+      {
+        "ref": "EP03:E22",
+        "segment_index": 0,
+        "relative_start_ms": 7600,
+        "relative_end_ms": 9900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana, tears shimmering in her eyes as betrayal strikes deep."
+      },
+      {
+        "ref": "EP03:E23",
+        "segment_index": 0,
+        "relative_start_ms": 9900,
+        "relative_end_ms": 15100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot on Juliana as she speaks out against her family's injustice."
+      },
+      {
+        "ref": "EP03:E24",
+        "segment_index": 0,
+        "relative_start_ms": 10000,
+        "relative_end_ms": 12800,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"I was humiliated by your family.\""
+      },
+      {
+        "ref": "EP03:E25",
+        "segment_index": 0,
+        "relative_start_ms": 12900,
+        "relative_end_ms": 15200,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"And my father said nothing.\""
+      },
+      {
+        "ref": "EP03:E26",
+        "segment_index": 0,
+        "relative_start_ms": 15100,
+        "relative_end_ms": 17800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up on the Noble Matriarch, completely unsympathetic."
+      },
+      {
+        "ref": "EP03:E27",
+        "segment_index": 0,
+        "relative_start_ms": 16100,
+        "relative_end_ms": 18000,
+        "type": "dialogue",
+        "speaker": "NOBLE MATRIARCH",
+        "text": "\"Your father has made his choice.\""
+      },
+      {
+        "ref": "EP03:E28",
+        "segment_index": 0,
+        "relative_start_ms": 17800,
+        "relative_end_ms": 20000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana's stricken, vulnerable face."
+      },
+      {
+        "ref": "EP03:E29",
+        "segment_index": 0,
+        "relative_start_ms": 18100,
+        "relative_end_ms": 20000,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"And what happens to me?\""
+      },
+      {
+        "ref": "EP03:E30",
+        "segment_index": 0,
+        "relative_start_ms": 20000,
+        "relative_end_ms": 21600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Noble Matriarch delivering her verdict."
+      },
+      {
+        "ref": "EP03:E31",
+        "segment_index": 0,
+        "relative_start_ms": 20100,
+        "relative_end_ms": 21500,
+        "type": "dialogue",
+        "speaker": "NOBLE MATRIARCH",
+        "text": "\"You leave.\""
+      },
+      {
+        "ref": "EP03:E32",
+        "segment_index": 0,
+        "relative_start_ms": 21600,
+        "relative_end_ms": 22900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana blinking in disbelief."
+      },
+      {
+        "ref": "EP03:E33",
+        "segment_index": 0,
+        "relative_start_ms": 21700,
+        "relative_end_ms": 22900,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Leave where?\""
+      },
+      {
+        "ref": "EP03:E34",
+        "segment_index": 0,
+        "relative_start_ms": 22900,
+        "relative_end_ms": 25500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the Noble Matriarch looking down her nose in disdain."
+      },
+      {
+        "ref": "EP03:E35",
+        "segment_index": 0,
+        "relative_start_ms": 23000,
+        "relative_end_ms": 25600,
+        "type": "dialogue",
+        "speaker": "NOBLE MATRIARCH",
+        "text": "\"Wherever a discarded daughter belongs.\""
+      },
+      {
+        "ref": "EP03:E36",
+        "segment_index": 0,
+        "relative_start_ms": 25500,
+        "relative_end_ms": 28400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle close-up focusing on Juliana's neck as her fingers desperately clutch the oval locket."
+      },
+      {
+        "ref": "EP03:E37",
+        "segment_index": 0,
+        "relative_start_ms": 26000,
+        "relative_end_ms": 28200,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"This is my mother's church.\""
+      },
+      {
+        "ref": "EP03:E38",
+        "segment_index": 0,
+        "relative_start_ms": 28400,
+        "relative_end_ms": 30800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana's face, teeth clenched in desperate defiance."
+      },
+      {
+        "ref": "EP03:E39",
+        "segment_index": 0,
+        "relative_start_ms": 28500,
+        "relative_end_ms": 30700,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"I have every right to stand here.\""
+      },
+      {
+        "ref": "EP03:E40",
+        "segment_index": 0,
+        "relative_start_ms": 30800,
+        "relative_end_ms": 32600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of the Noble Matriarch leaning in with vicious delight."
+      },
+      {
+        "ref": "EP03:E41",
+        "segment_index": 0,
+        "relative_start_ms": 30900,
+        "relative_end_ms": 32600,
+        "type": "dialogue",
+        "speaker": "NOBLE MATRIARCH",
+        "text": "\"Not anymore.\""
+      },
+      {
+        "ref": "EP03:E42",
+        "segment_index": 0,
+        "relative_start_ms": 32600,
+        "relative_end_ms": 35800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot on the Noble Matriarch gesturing expansively to the filled cathedral nave behind her."
+      },
+      {
+        "ref": "EP03:E43",
+        "segment_index": 0,
+        "relative_start_ms": 32900,
+        "relative_end_ms": 35800,
+        "type": "dialogue",
+        "speaker": "NOBLE MATRIARCH",
+        "text": "\"Your father has chosen his family...\""
+      },
+      {
+        "ref": "EP03:E44",
+        "segment_index": 0,
+        "relative_start_ms": 35800,
+        "relative_end_ms": 37800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up profile of the Noble Matriarch's piercing eyes glaring directly at Juliana."
+      },
+      {
+        "ref": "EP03:E45",
+        "segment_index": 0,
+        "relative_start_ms": 35900,
+        "relative_end_ms": 37800,
+        "type": "dialogue",
+        "speaker": "NOBLE MATRIARCH",
+        "text": "\"...and it isn't you.\""
+      },
+      {
+        "ref": "EP03:E46",
+        "segment_index": 0,
+        "relative_start_ms": 37800,
+        "relative_end_ms": 39400,
+        "type": "action",
+        "speaker": null,
+        "text": "The Noble Matriarch turns sharply toward the back of the chapel and barks an order."
+      },
+      {
+        "ref": "EP03:E47",
+        "segment_index": 0,
+        "relative_start_ms": 37900,
+        "relative_end_ms": 39600,
+        "type": "dialogue",
+        "speaker": "NOBLE MATRIARCH",
+        "text": "\"Guards! Remove her!\""
+      },
+      {
+        "ref": "EP03:E48",
+        "segment_index": 0,
+        "relative_start_ms": 39600,
+        "relative_end_ms": 41600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as two royal guards in red uniforms and bearskin caps step in behind Juliana and seize her arms."
+      },
+      {
+        "ref": "EP03:E49",
+        "segment_index": 0,
+        "relative_start_ms": 40100,
+        "relative_end_ms": 42100,
+        "type": "action",
+        "speaker": null,
+        "text": "The guards forcefully grab Juliana by both shoulders and drag her backwards."
+      },
+      {
+        "ref": "EP03:E50",
+        "segment_index": 0,
+        "relative_start_ms": 40200,
+        "relative_end_ms": 41900,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Let me go!\""
+      },
+      {
+        "ref": "EP03:E51",
+        "segment_index": 0,
+        "relative_start_ms": 41600,
+        "relative_end_ms": 42800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana's hand frantically grabbing the wooden rim of a pew, knuckles white with strain."
+      },
+      {
+        "ref": "EP03:E52",
+        "segment_index": 0,
+        "relative_start_ms": 42000,
+        "relative_end_ms": 43100,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Please! Someone!\""
+      },
+      {
+        "ref": "EP03:E53",
+        "segment_index": 0,
+        "relative_start_ms": 42600,
+        "relative_end_ms": 43100,
+        "type": "action",
+        "speaker": null,
+        "text": "The guards tear her grip away from the pew."
+      },
+      {
+        "ref": "EP03:E54",
+        "segment_index": 0,
+        "relative_start_ms": 42600,
+        "relative_end_ms": 43100,
+        "type": "sound",
+        "speaker": null,
+        "text": "Muffled scuffle, rustle of heavy silk and frantic gasps echoing off cathedral stone."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_79d97ae21e6f3f51",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 81000,
+        "end_ms": 127300,
+        "episode_id": "ep_003"
+      }
+    ],
+    "duration_ms": 46300,
+    "origin": "opp_2",
+    "clip_events": [
+      {
+        "ref": "EP03:E68",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 3000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on The Bearded Stranger's intense, scarred face."
+      },
+      {
+        "ref": "EP03:E69",
+        "segment_index": 0,
+        "relative_start_ms": 800,
+        "relative_end_ms": 2900,
+        "type": "dialogue",
+        "speaker": "THE BEARDED STRANGER",
+        "text": "\"...let her go.\""
+      },
+      {
+        "ref": "EP03:E70",
+        "segment_index": 0,
+        "relative_start_ms": 3000,
+        "relative_end_ms": 4500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium action shot as the guard charges toward The Bearded Stranger."
+      },
+      {
+        "ref": "EP03:E71",
+        "segment_index": 0,
+        "relative_start_ms": 3000,
+        "relative_end_ms": 4500,
+        "type": "action",
+        "speaker": null,
+        "text": "The Bearded Stranger effortlessly blocks the guard's strike and drives a devastating strike into him, dropping the armed guard instantly to the floor."
+      },
+      {
+        "ref": "EP03:E72",
+        "segment_index": 0,
+        "relative_start_ms": 3500,
+        "relative_end_ms": 4400,
+        "type": "sound",
+        "speaker": null,
+        "text": "A heavy, bone-rattling punch followed by the clatter and thud of the guard collapsing onto the stone floor."
+      },
+      {
+        "ref": "EP03:E73",
+        "segment_index": 0,
+        "relative_start_ms": 4500,
+        "relative_end_ms": 7100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Gerald turning frantically to the remaining guards and congregation, panicking."
+      },
+      {
+        "ref": "EP03:E74",
+        "segment_index": 0,
+        "relative_start_ms": 4600,
+        "relative_end_ms": 7000,
+        "type": "dialogue",
+        "speaker": "THE FORMER GROOM",
+        "text": "\"What are you waiting for?! He's only one man!\""
+      },
+      {
+        "ref": "EP03:E75",
+        "segment_index": 0,
+        "relative_start_ms": 7100,
+        "relative_end_ms": 8300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot on The Bearded Stranger standing unmoved over the fallen guard, turning his gaze toward Juliana."
+      },
+      {
+        "ref": "EP03:E76",
+        "segment_index": 0,
+        "relative_start_ms": 8300,
+        "relative_end_ms": 10700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Two-shot profile of The Bearded Stranger stepping up to Lady Juliana, who gazes up at him in stunned breathlessness."
+      },
+      {
+        "ref": "EP03:E77",
+        "segment_index": 0,
+        "relative_start_ms": 9400,
+        "relative_end_ms": 10600,
+        "type": "dialogue",
+        "speaker": "THE BEARDED STRANGER",
+        "text": "\"Are you hurt?\""
+      },
+      {
+        "ref": "EP03:E78",
+        "segment_index": 0,
+        "relative_start_ms": 10700,
+        "relative_end_ms": 13000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana's tear-streaked face as she shakes her head gently, overwhelmed with wonder."
+      },
+      {
+        "ref": "EP03:E79",
+        "segment_index": 0,
+        "relative_start_ms": 10800,
+        "relative_end_ms": 12600,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana softly shakes her head 'no', her wide blue eyes locked onto him."
+      },
+      {
+        "ref": "EP03:E80",
+        "segment_index": 0,
+        "relative_start_ms": 13000,
+        "relative_end_ms": 15500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up profile of The Bearded Stranger casting a sharp, menacing glance toward the other guard."
+      },
+      {
+        "ref": "EP03:E81",
+        "segment_index": 0,
+        "relative_start_ms": 13100,
+        "relative_end_ms": 15300,
+        "type": "dialogue",
+        "speaker": "THE BEARDED STRANGER",
+        "text": "\"Good. Then don't touch her again.\""
+      },
+      {
+        "ref": "EP03:E82",
+        "segment_index": 0,
+        "relative_start_ms": 15500,
+        "relative_end_ms": 17400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up on the Noble Matriarch shrieking in exasperation from the altar steps."
+      },
+      {
+        "ref": "EP03:E83",
+        "segment_index": 0,
+        "relative_start_ms": 15500,
+        "relative_end_ms": 17500,
+        "type": "dialogue",
+        "speaker": "NOBLE MATRIARCH",
+        "text": "\"You cannot interfere in a family matter!\""
+      },
+      {
+        "ref": "EP03:E84",
+        "segment_index": 0,
+        "relative_start_ms": 17400,
+        "relative_end_ms": 19800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana's elderly father looking down, gripping his hands nervously with profound guilt."
+      },
+      {
+        "ref": "EP03:E85",
+        "segment_index": 0,
+        "relative_start_ms": 17800,
+        "relative_end_ms": 19800,
+        "type": "dialogue",
+        "speaker": "THE BEARDED STRANGER",
+        "text": "\"I can...\""
+      },
+      {
+        "ref": "EP03:E86",
+        "segment_index": 0,
+        "relative_start_ms": 19800,
+        "relative_end_ms": 22000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of guests in the pews whispering and reacting in hushed shock."
+      },
+      {
+        "ref": "EP03:E87",
+        "segment_index": 0,
+        "relative_start_ms": 19800,
+        "relative_end_ms": 22800,
+        "type": "dialogue",
+        "speaker": "THE BEARDED STRANGER",
+        "text": "\"...when your family is dragging a defenseless woman from a church.\""
+      },
+      {
+        "ref": "EP03:E88",
+        "segment_index": 0,
+        "relative_start_ms": 22000,
+        "relative_end_ms": 24900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Two-shot profile of The Bearded Stranger and Lady Juliana framed against the illuminated stained-glass rose window."
+      },
+      {
+        "ref": "EP03:E89",
+        "segment_index": 0,
+        "relative_start_ms": 23200,
+        "relative_end_ms": 26400,
+        "type": "dialogue",
+        "speaker": "THE BEARDED STRANGER",
+        "text": "\"You shouldn't have to beg anybody...\""
+      },
+      {
+        "ref": "EP03:E90",
+        "segment_index": 0,
+        "relative_start_ms": 24900,
+        "relative_end_ms": 27800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana looking up into his eyes, moved to the core."
+      },
+      {
+        "ref": "EP03:E91",
+        "segment_index": 0,
+        "relative_start_ms": 26400,
+        "relative_end_ms": 28000,
+        "type": "dialogue",
+        "speaker": "THE BEARDED STRANGER",
+        "text": "\"...to remember your worth.\""
+      },
+      {
+        "ref": "EP03:E92",
+        "segment_index": 0,
+        "relative_start_ms": 27800,
+        "relative_end_ms": 29800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on The Bearded Stranger's rugged, bearded face looking down at her with tender reverence."
+      },
+      {
+        "ref": "EP03:E93",
+        "segment_index": 0,
+        "relative_start_ms": 29800,
+        "relative_end_ms": 31500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana, her lips parting in quiet astonishment."
+      },
+      {
+        "ref": "EP03:E94",
+        "segment_index": 0,
+        "relative_start_ms": 29900,
+        "relative_end_ms": 31500,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Why are you doing this?\""
+      },
+      {
+        "ref": "EP03:E95",
+        "segment_index": 0,
+        "relative_start_ms": 31500,
+        "relative_end_ms": 33200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on The Bearded Stranger, completely unfazed."
+      },
+      {
+        "ref": "EP03:E96",
+        "segment_index": 0,
+        "relative_start_ms": 31800,
+        "relative_end_ms": 33100,
+        "type": "dialogue",
+        "speaker": "THE BEARDED STRANGER",
+        "text": "\"Because I want to.\""
+      },
+      {
+        "ref": "EP03:E97",
+        "segment_index": 0,
+        "relative_start_ms": 33200,
+        "relative_end_ms": 35000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana's father wringing his gold ring, eyes heavy with regret."
+      },
+      {
+        "ref": "EP03:E98",
+        "segment_index": 0,
+        "relative_start_ms": 35000,
+        "relative_end_ms": 36900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot on The Bearded Stranger slipping his hand into his coat pocket."
+      },
+      {
+        "ref": "EP03:E99",
+        "segment_index": 0,
+        "relative_start_ms": 36900,
+        "relative_end_ms": 38200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana watching him with rapt, trembling anticipation."
+      },
+      {
+        "ref": "EP03:E100",
+        "segment_index": 0,
+        "relative_start_ms": 38200,
+        "relative_end_ms": 40000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of The Bearded Stranger's rugged fingers holding up a simple, polished silver band."
+      },
+      {
+        "ref": "EP03:E101",
+        "segment_index": 0,
+        "relative_start_ms": 38800,
+        "relative_end_ms": 41100,
+        "type": "dialogue",
+        "speaker": "THE BEARDED STRANGER",
+        "text": "\"You came here to become a wife.\""
+      },
+      {
+        "ref": "EP03:E102",
+        "segment_index": 0,
+        "relative_start_ms": 40000,
+        "relative_end_ms": 42200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot on The Bearded Stranger extending the ring toward Juliana."
+      },
+      {
+        "ref": "EP03:E103",
+        "segment_index": 0,
+        "relative_start_ms": 41500,
+        "relative_end_ms": 43200,
+        "type": "dialogue",
+        "speaker": "THE BEARDED STRANGER",
+        "text": "\"They took that from you.\""
+      },
+      {
+        "ref": "EP03:E104",
+        "segment_index": 0,
+        "relative_start_ms": 42200,
+        "relative_end_ms": 44100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Over-the-shoulder medium shot past The Bearded Stranger onto Gerald standing petrified and humiliated in the aisle."
+      },
+      {
+        "ref": "EP03:E105",
+        "segment_index": 0,
+        "relative_start_ms": 44100,
+        "relative_end_ms": 46300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up on The Bearded Stranger presenting the ring directly to Juliana."
+      },
+      {
+        "ref": "EP03:E106",
+        "segment_index": 0,
+        "relative_start_ms": 44300,
+        "relative_end_ms": 46300,
+        "type": "dialogue",
+        "speaker": "THE BEARDED STRANGER",
+        "text": "\"I am offering it back.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_c6632a6faca9e921",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 43400,
+        "end_ms": 76800,
+        "episode_id": "ep_003"
+      }
+    ],
+    "duration_ms": 33400,
+    "origin": "opp_3",
+    "clip_events": [
+      {
+        "ref": "EP03:E34",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the Noble Matriarch looking down her nose in disdain."
+      },
+      {
+        "ref": "EP03:E35",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2600,
+        "type": "dialogue",
+        "speaker": "NOBLE MATRIARCH",
+        "text": "\"Wherever a discarded daughter belongs.\""
+      },
+      {
+        "ref": "EP03:E36",
+        "segment_index": 0,
+        "relative_start_ms": 2500,
+        "relative_end_ms": 5400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle close-up focusing on Juliana's neck as her fingers desperately clutch the oval locket."
+      },
+      {
+        "ref": "EP03:E37",
+        "segment_index": 0,
+        "relative_start_ms": 3000,
+        "relative_end_ms": 5200,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"This is my mother's church.\""
+      },
+      {
+        "ref": "EP03:E38",
+        "segment_index": 0,
+        "relative_start_ms": 5400,
+        "relative_end_ms": 7800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana's face, teeth clenched in desperate defiance."
+      },
+      {
+        "ref": "EP03:E39",
+        "segment_index": 0,
+        "relative_start_ms": 5500,
+        "relative_end_ms": 7700,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"I have every right to stand here.\""
+      },
+      {
+        "ref": "EP03:E40",
+        "segment_index": 0,
+        "relative_start_ms": 7800,
+        "relative_end_ms": 9600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of the Noble Matriarch leaning in with vicious delight."
+      },
+      {
+        "ref": "EP03:E41",
+        "segment_index": 0,
+        "relative_start_ms": 7900,
+        "relative_end_ms": 9600,
+        "type": "dialogue",
+        "speaker": "NOBLE MATRIARCH",
+        "text": "\"Not anymore.\""
+      },
+      {
+        "ref": "EP03:E42",
+        "segment_index": 0,
+        "relative_start_ms": 9600,
+        "relative_end_ms": 12800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot on the Noble Matriarch gesturing expansively to the filled cathedral nave behind her."
+      },
+      {
+        "ref": "EP03:E43",
+        "segment_index": 0,
+        "relative_start_ms": 9900,
+        "relative_end_ms": 12800,
+        "type": "dialogue",
+        "speaker": "NOBLE MATRIARCH",
+        "text": "\"Your father has chosen his family...\""
+      },
+      {
+        "ref": "EP03:E44",
+        "segment_index": 0,
+        "relative_start_ms": 12800,
+        "relative_end_ms": 14800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up profile of the Noble Matriarch's piercing eyes glaring directly at Juliana."
+      },
+      {
+        "ref": "EP03:E45",
+        "segment_index": 0,
+        "relative_start_ms": 12900,
+        "relative_end_ms": 14800,
+        "type": "dialogue",
+        "speaker": "NOBLE MATRIARCH",
+        "text": "\"...and it isn't you.\""
+      },
+      {
+        "ref": "EP03:E46",
+        "segment_index": 0,
+        "relative_start_ms": 14800,
+        "relative_end_ms": 16400,
+        "type": "action",
+        "speaker": null,
+        "text": "The Noble Matriarch turns sharply toward the back of the chapel and barks an order."
+      },
+      {
+        "ref": "EP03:E47",
+        "segment_index": 0,
+        "relative_start_ms": 14900,
+        "relative_end_ms": 16600,
+        "type": "dialogue",
+        "speaker": "NOBLE MATRIARCH",
+        "text": "\"Guards! Remove her!\""
+      },
+      {
+        "ref": "EP03:E48",
+        "segment_index": 0,
+        "relative_start_ms": 16600,
+        "relative_end_ms": 18600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as two royal guards in red uniforms and bearskin caps step in behind Juliana and seize her arms."
+      },
+      {
+        "ref": "EP03:E49",
+        "segment_index": 0,
+        "relative_start_ms": 17100,
+        "relative_end_ms": 19100,
+        "type": "action",
+        "speaker": null,
+        "text": "The guards forcefully grab Juliana by both shoulders and drag her backwards."
+      },
+      {
+        "ref": "EP03:E50",
+        "segment_index": 0,
+        "relative_start_ms": 17200,
+        "relative_end_ms": 18900,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Let me go!\""
+      },
+      {
+        "ref": "EP03:E51",
+        "segment_index": 0,
+        "relative_start_ms": 18600,
+        "relative_end_ms": 19800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana's hand frantically grabbing the wooden rim of a pew, knuckles white with strain."
+      },
+      {
+        "ref": "EP03:E52",
+        "segment_index": 0,
+        "relative_start_ms": 19000,
+        "relative_end_ms": 20100,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Please! Someone!\""
+      },
+      {
+        "ref": "EP03:E53",
+        "segment_index": 0,
+        "relative_start_ms": 19600,
+        "relative_end_ms": 21100,
+        "type": "action",
+        "speaker": null,
+        "text": "The guards tear her grip away from the pew."
+      },
+      {
+        "ref": "EP03:E54",
+        "segment_index": 0,
+        "relative_start_ms": 19600,
+        "relative_end_ms": 21100,
+        "type": "sound",
+        "speaker": null,
+        "text": "Muffled scuffle, rustle of heavy silk and frantic gasps echoing off cathedral stone."
+      },
+      {
+        "ref": "EP03:E55",
+        "segment_index": 0,
+        "relative_start_ms": 21100,
+        "relative_end_ms": 22600,
+        "type": "camera",
+        "speaker": null,
+        "text": "High wide shot down the vaulted cathedral aisle showing the entire congregation watching in stunned silence as the guards drag Juliana."
+      },
+      {
+        "ref": "EP03:E56",
+        "segment_index": 0,
+        "relative_start_ms": 22600,
+        "relative_end_ms": 24700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide eye-level shot looking down the petal-strewn marble aisle. A tall, rugged man in a worn dark trench coat—The Bearded Stranger—emerges into the center of the nave."
+      },
+      {
+        "ref": "EP03:E57",
+        "segment_index": 0,
+        "relative_start_ms": 22600,
+        "relative_end_ms": 24700,
+        "type": "action",
+        "speaker": null,
+        "text": "The Bearded Stranger steps deliberately into the aisle, his heavy boots echoing."
+      },
+      {
+        "ref": "EP03:E58",
+        "segment_index": 0,
+        "relative_start_ms": 24700,
+        "relative_end_ms": 27100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on the Noble Matriarch freezing in utter shock and outrage."
+      },
+      {
+        "ref": "EP03:E59",
+        "segment_index": 0,
+        "relative_start_ms": 26500,
+        "relative_end_ms": 28700,
+        "type": "dialogue",
+        "speaker": "THE BEARDED STRANGER",
+        "text": "\"Take your hands off her.\""
+      },
+      {
+        "ref": "EP03:E60",
+        "segment_index": 0,
+        "relative_start_ms": 27100,
+        "relative_end_ms": 29400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium tracking shot front-on as The Bearded Stranger marches down the flower-strewn aisle with resolute purpose."
+      },
+      {
+        "ref": "EP03:E61",
+        "segment_index": 0,
+        "relative_start_ms": 29400,
+        "relative_end_ms": 31700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot on the Noble Matriarch stepping forward on the altar steps, furiously pointing a finger at him."
+      },
+      {
+        "ref": "EP03:E62",
+        "segment_index": 0,
+        "relative_start_ms": 29600,
+        "relative_end_ms": 33400,
+        "type": "dialogue",
+        "speaker": "NOBLE MATRIARCH",
+        "text": "\"And who are you to give orders in my family's chapel?!\""
+      },
+      {
+        "ref": "EP03:E63",
+        "segment_index": 0,
+        "relative_start_ms": 31700,
+        "relative_end_ms": 33400,
+        "type": "camera",
+        "speaker": null,
+        "text": "High wide shot of the magnificent vaulted hall as The Bearded Stranger walks steadily forward, dwarfing the aisle."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_86ac2a989212de7c",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 119800,
+        "end_ms": 145750,
+        "episode_id": "ep_003"
+      }
+    ],
+    "duration_ms": 25950,
+    "origin": "opp_4",
+    "clip_events": [
+      {
+        "ref": "EP03:E100",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of The Bearded Stranger's rugged fingers holding up a simple, polished silver band."
+      },
+      {
+        "ref": "EP03:E101",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2300,
+        "type": "dialogue",
+        "speaker": "THE BEARDED STRANGER",
+        "text": "\"You came here to become a wife.\""
+      },
+      {
+        "ref": "EP03:E102",
+        "segment_index": 0,
+        "relative_start_ms": 1200,
+        "relative_end_ms": 3400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot on The Bearded Stranger extending the ring toward Juliana."
+      },
+      {
+        "ref": "EP03:E103",
+        "segment_index": 0,
+        "relative_start_ms": 2700,
+        "relative_end_ms": 4400,
+        "type": "dialogue",
+        "speaker": "THE BEARDED STRANGER",
+        "text": "\"They took that from you.\""
+      },
+      {
+        "ref": "EP03:E104",
+        "segment_index": 0,
+        "relative_start_ms": 3400,
+        "relative_end_ms": 5300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Over-the-shoulder medium shot past The Bearded Stranger onto Gerald standing petrified and humiliated in the aisle."
+      },
+      {
+        "ref": "EP03:E105",
+        "segment_index": 0,
+        "relative_start_ms": 5300,
+        "relative_end_ms": 7600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up on The Bearded Stranger presenting the ring directly to Juliana."
+      },
+      {
+        "ref": "EP03:E106",
+        "segment_index": 0,
+        "relative_start_ms": 5500,
+        "relative_end_ms": 7500,
+        "type": "dialogue",
+        "speaker": "THE BEARDED STRANGER",
+        "text": "\"I am offering it back.\""
+      },
+      {
+        "ref": "EP03:E107",
+        "segment_index": 0,
+        "relative_start_ms": 7600,
+        "relative_end_ms": 10400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana glancing down at the ring, breathless and overwhelmed."
+      },
+      {
+        "ref": "EP03:E108",
+        "segment_index": 0,
+        "relative_start_ms": 7900,
+        "relative_end_ms": 10100,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"You don't even know me.\""
+      },
+      {
+        "ref": "EP03:E109",
+        "segment_index": 0,
+        "relative_start_ms": 10400,
+        "relative_end_ms": 12900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on The Bearded Stranger's warm, piercing gaze."
+      },
+      {
+        "ref": "EP03:E110",
+        "segment_index": 0,
+        "relative_start_ms": 10600,
+        "relative_end_ms": 12200,
+        "type": "dialogue",
+        "speaker": "THE BEARDED STRANGER",
+        "text": "\"I know enough.\""
+      },
+      {
+        "ref": "EP03:E111",
+        "segment_index": 0,
+        "relative_start_ms": 12900,
+        "relative_end_ms": 15700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Full wide profile shot as The Bearded Stranger slowly and respectfully drops onto one knee before Lady Juliana."
+      },
+      {
+        "ref": "EP03:E112",
+        "segment_index": 0,
+        "relative_start_ms": 13400,
+        "relative_end_ms": 15700,
+        "type": "action",
+        "speaker": null,
+        "text": "The Bearded Stranger sinks to one knee on the cathedral aisle, offering the silver ring up to Juliana."
+      },
+      {
+        "ref": "EP03:E113",
+        "segment_index": 0,
+        "relative_start_ms": 15000,
+        "relative_end_ms": 16400,
+        "type": "sound",
+        "speaker": null,
+        "text": "A collective, stunned gasp rippling across the entire congregation."
+      },
+      {
+        "ref": "EP03:E114",
+        "segment_index": 0,
+        "relative_start_ms": 15700,
+        "relative_end_ms": 17500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the Noble Matriarch, Gerald, and the Lady in Gold Gown frozen in sheer, jaw-dropped bewilderment."
+      },
+      {
+        "ref": "EP03:E115",
+        "segment_index": 0,
+        "relative_start_ms": 17500,
+        "relative_end_ms": 20700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle medium close-up of The Bearded Stranger on his knee, holding the silver ring high with steady dignity."
+      },
+      {
+        "ref": "EP03:E116",
+        "segment_index": 0,
+        "relative_start_ms": 17700,
+        "relative_end_ms": 20500,
+        "type": "dialogue",
+        "speaker": "THE BEARDED STRANGER",
+        "text": "\"Lady Juliana... accept my hand.\""
+      },
+      {
+        "ref": "EP03:E117",
+        "segment_index": 0,
+        "relative_start_ms": 20700,
+        "relative_end_ms": 25950,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana looking down at him, fresh tears trailing down her flushed cheeks as a soft, trembling smile of hope touches her lips into a slow fade."
+      },
+      {
+        "ref": "EP03:E118",
+        "segment_index": 0,
+        "relative_start_ms": 20700,
+        "relative_end_ms": 25950,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana gazes down at her rugged savior, overcome with emotion as the swelling score holds on the cliffhanger."
+      }
+    ]
+  }
+]

@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_79d97ae21e6f3f51 DURATION_MS=46300\nSEGMENT 1 (playback order)\nEP03:E68 0-3000 CAMERA: Close-up on The Bearded Stranger's intense, scarred face.\nEP03:E69 800-2900 THE BEARDED STRANGER: \"...let her go.\"\nEP03:E70 3000-4500 CAMERA: Medium action shot as the guard charges toward The Bearded Stranger.\nEP03:E71 3000-4500 ACTION: The Bearded Stranger effortlessly blocks the guard's strike and drives a devastating strike into him, dropping the armed guard instantly to the floor.\nEP03:E72 3500-4400 SOUND: A heavy, bone-rattling punch followed by the clatter and thud of the guard collapsing onto the stone floor.\nEP03:E73 4500-7100 CAMERA: Medium close-up of Gerald turning frantically to the remaining guards and congregation, panicking.\nEP03:E74 4600-7000 THE FORMER GROOM: \"What are you waiting for?! He's only one man!\"\nEP03:E75 7100-8300 CAMERA: Medium shot on The Bearded Stranger standing unmoved over the fallen guard, turning his gaze toward Juliana.\nEP03:E76 8300-10700 CAMERA: Two-shot profile of The Bearded Stranger stepping up to Lady Juliana, who gazes up at him in stunned breathlessness.\nEP03:E77 9400-10600 THE BEARDED STRANGER: \"Are you hurt?\"\nEP03:E78 10700-13000 CAMERA: Close-up on Juliana's tear-streaked face as she shakes her head gently, overwhelmed with wonder.\nEP03:E79 10800-12600 ACTION: Juliana softly shakes her head 'no', her wide blue eyes locked onto him.\nEP03:E80 13000-15500 CAMERA: Close-up profile of The Bearded Stranger casting a sharp, menacing glance toward the other guard.\nEP03:E81 13100-15300 THE BEARDED STRANGER: \"Good. Then don't touch her again.\"\nEP03:E82 15500-17400 CAMERA: Medium close-up on the Noble Matriarch shrieking in exasperation from the altar steps.\nEP03:E83 15500-17500 NOBLE MATRIARCH: \"You cannot interfere in a family matter!\"\nEP03:E84 17400-19800 CAMERA: Close-up of Juliana's elderly father looking down, gripping his hands nervously with profound guilt.\nEP03:E85 17800-19800 THE BEARDED STRANGER: \"I can...\"\nEP03:E86 19800-22000 CAMERA: Medium shot of guests in the pews whispering and reacting in hushed shock.\nEP03:E87 19800-22800 THE BEARDED STRANGER: \"...when your family is dragging a defenseless woman from a church.\"\nEP03:E88 22000-24900 CAMERA: Two-shot profile of The Bearded Stranger and Lady Juliana framed against the illuminated stained-glass rose window.\nEP03:E89 23200-26400 THE BEARDED STRANGER: \"You shouldn't have to beg anybody...\"\nEP03:E90 24900-27800 CAMERA: Close-up on Juliana looking up into his eyes, moved to the core.\nEP03:E91 26400-28000 THE BEARDED STRANGER: \"...to remember your worth.\"\nEP03:E92 27800-29800 CAMERA: Close-up on The Bearded Stranger's rugged, bearded face looking down at her with tender reverence.\nEP03:E93 29800-31500 CAMERA: Close-up on Juliana, her lips parting in quiet astonishment.\nEP03:E94 29900-31500 LADY JULIANA: \"Why are you doing this?\"\nEP03:E95 31500-33200 CAMERA: Close-up on The Bearded Stranger, completely unfazed.\nEP03:E96 31800-33100 THE BEARDED STRANGER: \"Because I want to.\"\nEP03:E97 33200-35000 CAMERA: Close-up on Juliana's father wringing his gold ring, eyes heavy with regret.\nEP03:E98 35000-36900 CAMERA: Medium shot on The Bearded Stranger slipping his hand into his coat pocket.\nEP03:E99 36900-38200 CAMERA: Close-up of Juliana watching him with rapt, trembling anticipation.\nEP03:E100 38200-40000 CAMERA: Extreme close-up of The Bearded Stranger's rugged fingers holding up a simple, polished silver band.\nEP03:E101 38800-41100 THE BEARDED STRANGER: \"You came here to become a wife.\"\nEP03:E102 40000-42200 CAMERA: Medium shot on The Bearded Stranger extending the ring toward Juliana.\nEP03:E103 41500-43200 THE BEARDED STRANGER: \"They took that from you.\"\nEP03:E104 42200-44100 CAMERA: Over-the-shoulder medium shot past The Bearded Stranger onto Gerald standing petrified and humiliated in the aisle.\nEP03:E105 44100-46300 CAMERA: Medium close-up on The Bearded Stranger presenting the ring directly to Juliana.\nEP03:E106 44300-46300 THE BEARDED STRANGER: \"I am offering it back.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "series_id": "series_001",
+  "scope": {
+    "type": "episode",
+    "episode_id": "ep_008"
+  },
+  "promos": [
+    {
+      "candidate_id": "c_db715e4c90fc52bc",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 8500,
+          "end_ms": 36900,
+          "episode_id": "ep_008"
+        }
+      ],
+      "duration_ms": 28400,
+      "hook": {
+        "description": "The clip opens with Alexander quietly setting down a bundle of white herbal flowers beside an open book, and Juliana's immediate reply 'Yarrow.' gives a small, intriguing start. The opening is calm rather than attention-grabbing, though, and the intrigue builds gradually.",
+        "evidence_refs": [
+          "EP08:E8",
+          "EP08:E9",
+          "EP08:E11"
+        ]
+      },
+      "cliffhanger": {
+        "description": "The clip ends with Alexander stopping Juliana's hand and saying 'Not yet.', followed by her puzzled 'Not yet?'. The meaning of 'Not yet' is left open, so the question hangs at the final frame. The tension is mild and personal rather than a high-stakes cliffhanger.",
+        "evidence_refs": [
+          "EP08:E28",
+          "EP08:E29",
+          "EP08:E30",
+          "EP08:E31"
+        ]
+      },
+      "why_it_works": "A quiet, intimate exchange about healing knowledge and a guarded man's refusal ends on an open 'Not yet?' that makes a first-time viewer curious about what comes next.",
+      "scores": {
+        "hook": 6.0,
+        "cliffhanger": 5.0,
+        "standalone": 5.0,
+        "emotion": 6.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 5.45
+      },
+      "warnings": [
+        "Relationship and stakes are not established within the clip, limiting viewer investment",
+        "The 'Not yet' exchange is ambiguous and could be read as either romantic or merely teasing",
+        "Slow pacing of medium shots and close-ups with limited action",
+        "Little visible conflict or urgency to drive the viewer forward",
+        "Spoilers not checked",
+        "Who Alexander and Juliana are and how they know each other",
+        "Why Alexander's hair and beard matter to Juliana and why he refuses to have them trimmed yet",
+        "What the open book is and why the herbs matter in this setting",
+        "The earlier events that give Alexander's scar and soldier past their significance",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 1,
+      "promo_id": "p_001"
+    }
+  ],
+  "construction": {
+    "opportunities": 3,
+    "candidates": 4,
+    "rejected_windows_by_reason": {}
+  },
+  "rejected_candidates": [
+    {
+      "candidate_id": "c_da381f17285521c5",
+      "reasons": [
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_7034309997af5a9b",
+      "reasons": [
+        "ENDING_RESOLVED",
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_fdce87bfe0ebafe7",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    }
+  ]
+}

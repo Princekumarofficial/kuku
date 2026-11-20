@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_9a8b7b8b2963bb09",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP33:E46",
+      "EP33:E48",
+      "EP33:E49"
+    ],
+    "reason": "The clip opens within 0-3000ms with a weeping, cornered maid and a calm Lord demanding 'The truth.' The power imbalance and immediate interrogation create tension from the first seconds."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP33:E78",
+      "EP33:E79"
+    ],
+    "reason": "In the final 3000ms the Lord calmly declares 'That will be your testimony' while the maid resists. The accusation is framed as leading to a lethal charge, so the outcome is left open. The clip ends on a threat rather than a resolution, though the stakes are only implied from the clip itself.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who the Lord and the maid are and their relationship",
+      "Who Toby is and what happened to him",
+      "The nature of the 'mother's book' and what the maid did before this scene",
+      "The legal or social setting that makes a witchcraft testimony dangerous",
+      "Whether the maid's claim that she saved Toby is true or what 'breathe again' refers to"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "The maid's escalating despair, sobbing, and pleading against a calm, menacing Lord create strong distress and dread throughout the clip."
+  },
+  "weaknesses": [
+    "Stakes and the legal framework are not established, so the threat of the accusation is hard to grasp for a first-time viewer",
+    "Several references (Toby, the mother's book, the herbs) are introduced without explanation",
+    "The clip relies on the Lord's leading questions, which may feel repetitive to a newcomer",
+    "The unresolved ending depends on implied consequences rather than shown ones"
+  ],
+  "one_line_why_it_works": "A calm, precise interrogator steadily traps a terrified witness into a witchcraft accusation, and the clip closes on her futile plea against a chilling 'That will be your testimony.'"
+}

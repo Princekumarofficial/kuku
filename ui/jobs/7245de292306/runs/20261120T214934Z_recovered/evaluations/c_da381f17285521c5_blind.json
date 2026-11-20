@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_da381f17285521c5",
+  "hook": {
+    "score_0_10": 5.0,
+    "evidence_refs": [
+      "EP08:E8",
+      "EP08:E9",
+      "EP08:E11"
+    ],
+    "reason": "The opening shows a quiet domestic moment with a man setting herbal bundles beside a book and a woman saying Yarrow, which sparks mild curiosity but no strong immediate stakes."
+  },
+  "cliffhanger": {
+    "score_0_10": 4.0,
+    "evidence_refs": [
+      "EP08:E29",
+      "EP08:E31"
+    ],
+    "reason": "The clip ends on Juliana asking Not yet? after Alexander's Not yet, leaving a small unanswered question, but it reads as a light romantic beat rather than a high-stakes unresolved plot cliffhanger.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Alexander and Juliana are and their relationship",
+      "Why Alexander's hair and beard matter to Juliana",
+      "What Not yet refers to and what is being withheld",
+      "The significance of the soldier references and his scar",
+      "The setting and purpose of the healing herbs and the open book"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 5.0,
+    "reason": "The exchange builds gentle warmth and mild tension through guarded reticence, a knowing half-smile, and an affectionate gesture caught by his firm hand."
+  },
+  "weaknesses": [
+    "Viewer has no context for the characters or their history, so the stakes are unclear",
+    "The Not yet exchange is ambiguous and may read as a minor beat rather than a hook",
+    "Dialogue about yarrow and healing has limited tension without prior setup",
+    "The hook relies on a slow, quiet opening with little immediate conflict"
+  ],
+  "one_line_why_it_works": "A restrained exchange of guarded knowledge and an affectionate gesture ends on the ambiguous question Not yet?, which invites curiosity about what is being withheld."
+}

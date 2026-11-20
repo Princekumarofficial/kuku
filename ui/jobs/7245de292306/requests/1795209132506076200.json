@@ -1,0 +1,184 @@
+{
+  "stage": "episode_analysis",
+  "system": "Analyze narrative beats, characters, revelations and unresolved questions. Only event text is on-screen evidence; metadata may describe unseen events. Use supplied EPxx:Ex aliases. Report uncertainty in the summary. A revelation's significance is not its spoiler damage.",
+  "user": "EP=ep_003; timestamps are integer milliseconds\nSOURCE_SHA256=2a1df4c96f178a4784aef81dd6fe82e3a9d226d2443fe98629cfbc0c95dc14df\nMETADATA ONLY (not on-screen evidence): {'logline': \"Banished from her mother's chapel and seized by guards at her family's command, Juliana is rescued by an imposing, scarred stranger who intervenes with lethal grace—and drops to one knee with a proposal that shocks high society.\", 'continuity_notes': \"Follows directly from Episode 2's confrontation at the altar, where Juliana publicly exposed Gerald's dishonor before the entire aristocratic congregation.\"}\nSOURCE WARNINGS=[]\nSCENE sc_001 0-22800 INT. CATHEDRAL NAVE – DAY\nEP03:E1 0-3500 CAMERA: Medium shot on Lady Juliana standing abandoned near the altar in her white gown, clutching her mother's medallion to her chest.\nEP03:E2 2100-4200 LADY IN GOLD GOWN [Mocking, Spiteful]: \"Look at you...\"\nEP03:E3 3500-6100 CAMERA: Medium shot on the Lady in Gold Gown, smiling smugly in her gold gown beside Gerald.\nEP03:E4 3600-8200 LADY IN GOLD GOWN [Gloating, Scornful]: \"...still clinging to that little locket as if it can make you worthy of a place here.\"\nEP03:E5 6100-8500 CAMERA: Close-up profile of Juliana's hand tightly clutching the jeweled silver locket against her breast, tears welling in her eyes.\nEP03:E6 8500-11100 CAMERA: Medium close-up on Juliana looking across at her sister with wounded pride.\nEP03:E7 8800-10800 LADY JULIANA [Hurt, Bitter]: \"You stole my wedding.\"\nEP03:E8 11100-13600 CAMERA: Medium two-shot of Gerald and the Lady in Gold Gown standing together at the front of the nave.\nEP03:E9 11200-13400 LADY JULIANA [Defiant]: \"Don't pretend you've earned anything.\"\nEP03:E10 13600-16400 CAMERA: Close-up of the Lady in Gold Gown smirking derisively.\nEP03:E11 13800-16300 LADY IN GOLD GOWN [Smug, Malicious]: \"I didn't steal what was never truly yours.\"\nEP03:E12 16400-18600 CAMERA: Close-up on Juliana's trembling lips, refusing to break down.\nEP03:E13 16600-18400 LADY JULIANA [Trembling, Resolute]: \"This was my wedding.\"\nEP03:E14 18600-20500 CAMERA: Side medium shot of Gerald looking away impassively as the Lady in Gold Gown leans back against him.\nEP03:E15 18700-20400 LADY IN GOLD GOWN [Taunting, Cruel]: \"It was supposed to be.\"\nEP03:E16 20500-22800 CAMERA: Close-up of the Lady in Gold Gown beaming triumphantly.\nEP03:E17 20600-22500 LADY IN GOLD GOWN [Vindictive]: \"Now it is mine.\"\nSCENE sc_002 22800-64500 INT. CATHEDRAL – CONTINUOUS\nEP03:E18 22800-25800 CAMERA: Low-angle wide shot of an imperious Noble Matriarch in a lavish black velvet gown and jeweled tiara stepping forward.\nEP03:E19 23100-25500 NOBLE MATRIARCH [Harsh, Authoritative]: \"Enough, Juliana.\"\nEP03:E20 25800-28000 CAMERA: Medium close-up of the Noble Matriarch glaring down with icy contempt.\nEP03:E21 25900-28000 NOBLE MATRIARCH [Cold, Disgusted]: \"You have humiliated this family enough for one day.\"\nEP03:E22 28000-30300 CAMERA: Close-up on Juliana, tears shimmering in her eyes as betrayal strikes deep.\nEP03:E23 30300-35500 CAMERA: Medium shot on Juliana as she speaks out against her family's injustice.\nEP03:E24 30400-33200 LADY JULIANA [Pained, Betrayed]: \"I was humiliated by your family.\"\nEP03:E25 33300-35600 LADY JULIANA [Accusing]: \"And my father said nothing.\"\nEP03:E26 35500-38200 CAMERA: Medium close-up on the Noble Matriarch, completely unsympathetic.\nEP03:E27 36500-38400 NOBLE MATRIARCH [Brutal, Dismissive]: \"Your father has made his choice.\"\nEP03:E28 38200-40400 CAMERA: Close-up on Juliana's stricken, vulnerable face.\nEP03:E29 38500-40400 LADY JULIANA [Choked, Vulnerable]: \"And what happens to me?\"\nEP03:E30 40400-42000 CAMERA: Close-up of the Noble Matriarch delivering her verdict.\nEP03:E31 40500-41900 NOBLE MATRIARCH [Cold, Heartless]: \"You leave.\"\nEP03:E32 42000-43300 CAMERA: Close-up on Juliana blinking in disbelief.\nEP03:E33 42100-43300 LADY JULIANA [Disbelieving]: \"Leave where?\"\nEP03:E34 43300-45900 CAMERA: Medium shot of the Noble Matriarch looking down her nose in disdain.\nEP03:E35 43400-46000 NOBLE MATRIARCH [Cruel, Scornful]: \"Wherever a discarded daughter belongs.\"\nEP03:E36 45900-48800 CAMERA: Low-angle close-up focusing on Juliana's neck as her fingers desperately clutch the oval locket.\nEP03:E37 46400-48600 LADY JULIANA [Fierce, Choked]: \"This is my mother's church.\"\nEP03:E38 48800-51200 CAMERA: Close-up on Juliana's face, teeth clenched in desperate defiance.\nEP03:E39 48900-51100 LADY JULIANA [Defiant, Firm]: \"I have every right to stand here.\"\nEP03:E40 51200-53000 CAMERA: Tight close-up of the Noble Matriarch leaning in with vicious delight.\nEP03:E41 51300-53000 NOBLE MATRIARCH [Venomous]: \"Not anymore.\"\nEP03:E42 53000-56200 CAMERA: Medium shot on the Noble Matriarch gesturing expansively to the filled cathedral nave behind her.\nEP03:E43 53300-56200 NOBLE MATRIARCH [Stern, Final]: \"Your father has chosen his family...\"\nEP03:E44 56200-58200 CAMERA: Close-up profile of the Noble Matriarch's piercing eyes glaring directly at Juliana.\nEP03:E45 56300-58200 NOBLE MATRIARCH [Coldly Severing]: \"...and it isn't you.\"\nEP03:E46 58200-59800 ACTION: The Noble Matriarch turns sharply toward the back of the chapel and barks an order.\nEP03:E47 58300-60000 NOBLE MATRIARCH [Shouting, Imperious]: \"Guards! Remove her!\"\nEP03:E48 60000-62000 CAMERA: Medium shot as two royal guards in red uniforms and bearskin caps step in behind Juliana and seize her arms.\nEP03:E49 60500-62500 ACTION: The guards forcefully grab Juliana by both shoulders and drag her backwards.\nEP03:E50 60600-62300 LADY JULIANA [Screaming, Resisting]: \"Let me go!\"\nEP03:E51 62000-63200 CAMERA: Close-up of Juliana's hand frantically grabbing the wooden rim of a pew, knuckles white with strain.\nEP03:E52 62400-63500 LADY JULIANA [Desperate, Begging]: \"Please! Someone!\"\nEP03:E53 63000-64500 ACTION: The guards tear her grip away from the pew.\nEP03:E54 63000-64500 SOUND: Muffled scuffle, rustle of heavy silk and frantic gasps echoing off cathedral stone.\nSCENE sc_003 64500-145750 INT. CATHEDRAL AISLE – CONTINUOUS\nEP03:E55 64500-66000 CAMERA: High wide shot down the vaulted cathedral aisle showing the entire congregation watching in stunned silence as the guards drag Juliana.\nEP03:E56 66000-68100 CAMERA: Wide eye-level shot looking down the petal-strewn marble aisle. A tall, rugged man in a worn dark trench coat—The Bearded Stranger—emerges into the center of the nave.\nEP03:E57 66000-68100 ACTION: The Bearded Stranger steps deliberately into the aisle, his heavy boots echoing.\nEP03:E58 68100-70500 CAMERA: Close-up on the Noble Matriarch freezing in utter shock and outrage.\nEP03:E59 69900-72100 THE BEARDED STRANGER [Low, Thunderous, Imposing]: \"Take your hands off her.\"\nEP03:E60 70500-72800 CAMERA: Medium tracking shot front-on as The Bearded Stranger marches down the flower-strewn aisle with resolute purpose.\nEP03:E61 72800-75100 CAMERA: Medium shot on the Noble Matriarch stepping forward on the altar steps, furiously pointing a finger at him.\nEP03:E62 73000-76800 NOBLE MATRIARCH [Indignant, Screeching]: \"And who are you to give orders in my family's chapel?!\"\nEP03:E63 75100-77000 CAMERA: High wide shot of the magnificent vaulted hall as The Bearded Stranger walks steadily forward, dwarfing the aisle.\nEP03:E64 77000-79000 CAMERA: Medium shot on the lead royal guard squaring his shoulders, barring the stranger's advance while Juliana stands behind him.\nEP03:E65 77200-78900 ROYAL GUARD [Aggressive, Threatening]: \"Stand aside, stranger!\"\nEP03:E66 79000-81000 CAMERA: Medium close-up profile on The Bearded Stranger, eyes burning with quiet, lethal resolve.\nEP03:E67 79300-80900 THE BEARDED STRANGER [Quiet, Deadly]: \"I said...\"\nEP03:E68 81000-84000 CAMERA: Close-up on The Bearded Stranger's intense, scarred face.\nEP03:E69 81800-83900 THE BEARDED STRANGER [Dangerous, Uncompromising]: \"...let her go.\"\nEP03:E70 84000-85500 CAMERA: Medium action shot as the guard charges toward The Bearded Stranger.\nEP03:E71 84000-85500 ACTION: The Bearded Stranger effortlessly blocks the guard's strike and drives a devastating strike into him, dropping the armed guard instantly to the floor.\nEP03:E72 84500-85400 SOUND: A heavy, bone-rattling punch followed by the clatter and thud of the guard collapsing onto the stone floor.\nEP03:E73 85500-88100 CAMERA: Medium close-up of Gerald turning frantically to the remaining guards and congregation, panicking.\nEP03:E74 85600-88000 THE FORMER GROOM [Frantic, Shouting]: \"What are you waiting for?! He's only one man!\"\nEP03:E75 88100-89300 CAMERA: Medium shot on The Bearded Stranger standing unmoved over the fallen guard, turning his gaze toward Juliana.\nEP03:E76 89300-91700 CAMERA: Two-shot profile of The Bearded Stranger stepping up to Lady Juliana, who gazes up at him in stunned breathlessness.\nEP03:E77 90400-91600 THE BEARDED STRANGER [Gentle, Protective]: \"Are you hurt?\"\nEP03:E78 91700-94000 CAMERA: Close-up on Juliana's tear-streaked face as she shakes her head gently, overwhelmed with wonder.\nEP03:E79 91800-93600 ACTION: Juliana softly shakes her head 'no', her wide blue eyes locked onto him.\nEP03:E80 94000-96500 CAMERA: Close-up profile of The Bearded Stranger casting a sharp, menacing glance toward the other guard.\nEP03:E81 94100-96300 THE BEARDED STRANGER [Firm, Menacing]: \"Good. Then don't touch her again.\"\nEP03:E82 96500-98400 CAMERA: Medium close-up on the Noble Matriarch shrieking in exasperation from the altar steps.\nEP03:E83 96500-98500 NOBLE MATRIARCH [Furious, Hysterical]: \"You cannot interfere in a family matter!\"\nEP03:E84 98400-100800 CAMERA: Close-up of Juliana's elderly father looking down, gripping his hands nervously with profound guilt.\nEP03:E85 98800-100800 THE BEARDED STRANGER [O.S.) (Deep, Resonant]: \"I can...\"\nEP03:E86 100800-103000 CAMERA: Medium shot of guests in the pews whispering and reacting in hushed shock.\nEP03:E87 100800-103800 THE BEARDED STRANGER [O.S.) (Stern, Accusing]: \"...when your family is dragging a defenseless woman from a church.\"\nEP03:E88 103000-105900 CAMERA: Two-shot profile of The Bearded Stranger and Lady Juliana framed against the illuminated stained-glass rose window.\nEP03:E89 104200-107400 THE BEARDED STRANGER [Solemn, Gentle]: \"You shouldn't have to beg anybody...\"\nEP03:E90 105900-108800 CAMERA: Close-up on Juliana looking up into his eyes, moved to the core.\nEP03:E91 107400-109000 THE BEARDED STRANGER [O.S.) (Affirming, Sincere]: \"...to remember your worth.\"\nEP03:E92 108800-110800 CAMERA: Close-up on The Bearded Stranger's rugged, bearded face looking down at her with tender reverence.\nEP03:E93 110800-112500 CAMERA: Close-up on Juliana, her lips parting in quiet astonishment.\nEP03:E94 110900-112500 LADY JULIANA [Whispering, Bewildered]: \"Why are you doing this?\"\nEP03:E95 112500-114200 CAMERA: Close-up on The Bearded Stranger, completely unfazed.\nEP03:E96 112800-114100 THE BEARDED STRANGER [Simple, Certain]: \"Because I want to.\"\nEP03:E97 114200-116000 CAMERA: Close-up on Juliana's father wringing his gold ring, eyes heavy with regret.\nEP03:E98 116000-117900 CAMERA: Medium shot on The Bearded Stranger slipping his hand into his coat pocket.\nEP03:E99 117900-119200 CAMERA: Close-up of Juliana watching him with rapt, trembling anticipation.\nEP03:E100 119200-121000 CAMERA: Extreme close-up of The Bearded Stranger's rugged fingers holding up a simple, polished silver band.\nEP03:E101 119800-122100 THE BEARDED STRANGER [O.S.) (Honorable, Earnest]: \"You came here to become a wife.\"\nEP03:E102 121000-123200 CAMERA: Medium shot on The Bearded Stranger extending the ring toward Juliana.\nEP03:E103 122500-124200 THE BEARDED STRANGER [Quiet, Resolute]: \"They took that from you.\"\nEP03:E104 123200-125100 CAMERA: Over-the-shoulder medium shot past The Bearded Stranger onto Gerald standing petrified and humiliated in the aisle.\nEP03:E105 125100-127400 CAMERA: Medium close-up on The Bearded Stranger presenting the ring directly to Juliana.\nEP03:E106 125300-127300 THE BEARDED STRANGER [Earnest, Sincere]: \"I am offering it back.\"\nEP03:E107 127400-130200 CAMERA: Close-up on Juliana glancing down at the ring, breathless and overwhelmed.\nEP03:E108 127700-129900 LADY JULIANA [Soft, Hesitant]: \"You don't even know me.\"\nEP03:E109 130200-132700 CAMERA: Close-up on The Bearded Stranger's warm, piercing gaze.\nEP03:E110 130400-132000 THE BEARDED STRANGER [Quiet, Steady]: \"I know enough.\"\nEP03:E111 132700-135500 CAMERA: Full wide profile shot as The Bearded Stranger slowly and respectfully drops onto one knee before Lady Juliana.\nEP03:E112 133200-135500 ACTION: The Bearded Stranger sinks to one knee on the cathedral aisle, offering the silver ring up to Juliana.\nEP03:E113 134800-136200 SOUND: A collective, stunned gasp rippling across the entire congregation.\nEP03:E114 135500-137300 CAMERA: Medium shot of the Noble Matriarch, Gerald, and the Lady in Gold Gown frozen in sheer, jaw-dropped bewilderment.\nEP03:E115 137300-140500 CAMERA: Low-angle medium close-up of The Bearded Stranger on his knee, holding the silver ring high with steady dignity.\nEP03:E116 137500-140300 THE BEARDED STRANGER [Solemn, Devoted]: \"Lady Juliana... accept my hand.\"\nEP03:E117 140500-145750 CAMERA: Close-up on Juliana looking down at him, fresh tears trailing down her flushed cheeks as a soft, trembling smile of hope touches her lips into a slow fade.\nEP03:E118 140500-145750 ACTION: Juliana gazes down at her rugged savior, overcome with emotion as the swelling score holds on the cliffhanger.",
+  "schema": {
+    "$defs": {
+      "Beat": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "kind": {
+            "title": "Kind",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "description": {
+            "title": "Description",
+            "type": "string"
+          },
+          "intensity_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Intensity 0 10",
+            "type": "number"
+          }
+        },
+        "required": [
+          "id",
+          "kind",
+          "event_refs",
+          "description",
+          "intensity_0_10"
+        ],
+        "title": "Beat",
+        "type": "object"
+      },
+      "Character": {
+        "additionalProperties": false,
+        "properties": {
+          "name": {
+            "title": "Name",
+            "type": "string"
+          },
+          "role": {
+            "title": "Role",
+            "type": "string"
+          }
+        },
+        "required": [
+          "name",
+          "role"
+        ],
+        "title": "Character",
+        "type": "object"
+      },
+      "Question": {
+        "additionalProperties": false,
+        "properties": {
+          "question": {
+            "title": "Question",
+            "type": "string"
+          },
+          "introduced_by": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Introduced By",
+            "type": "array"
+          }
+        },
+        "required": [
+          "question",
+          "introduced_by"
+        ],
+        "title": "Question",
+        "type": "object"
+      },
+      "Revelation": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "claim": {
+            "title": "Claim",
+            "type": "string"
+          },
+          "spoiler_significance_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Spoiler Significance 0 10",
+            "type": "number"
+          },
+          "creates_questions": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Creates Questions",
+            "type": "array"
+          }
+        },
+        "required": [
+          "id",
+          "event_refs",
+          "claim",
+          "spoiler_significance_0_10",
+          "creates_questions"
+        ],
+        "title": "Revelation",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "episode_id": {
+        "title": "Episode Id",
+        "type": "string"
+      },
+      "summary": {
+        "title": "Summary",
+        "type": "string"
+      },
+      "characters": {
+        "items": {
+          "$ref": "#/$defs/Character"
+        },
+        "title": "Characters",
+        "type": "array"
+      },
+      "beats": {
+        "items": {
+          "$ref": "#/$defs/Beat"
+        },
+        "title": "Beats",
+        "type": "array"
+      },
+      "revelations": {
+        "items": {
+          "$ref": "#/$defs/Revelation"
+        },
+        "title": "Revelations",
+        "type": "array"
+      },
+      "unresolved_questions": {
+        "items": {
+          "$ref": "#/$defs/Question"
+        },
+        "title": "Unresolved Questions",
+        "type": "array"
+      }
+    },
+    "required": [
+      "episode_id",
+      "summary",
+      "characters",
+      "beats",
+      "revelations",
+      "unresolved_questions"
+    ],
+    "title": "EpisodeAnalysis",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

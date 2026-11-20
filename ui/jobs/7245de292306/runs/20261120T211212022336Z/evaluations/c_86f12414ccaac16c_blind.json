@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c_86f12414ccaac16c",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP03:E16",
+      "EP03:E17"
+    ],
+    "reason": "The opening starts within 0-3000ms with a triumphant close-up and the line 'Now it is mine,' which signals a power shift. A first-time viewer cannot tell what 'it' refers to, so the hook raises a question without a clear stake."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP03:E52",
+      "EP03:E53"
+    ],
+    "reason": "In the final 3000ms, Juliana is being dragged away and pleads 'Please! Someone!' while gripping a pew. The clip ends before her removal or fate is shown, so the situation is unresolved.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Juliana is and her relationship to the Noble Matriarch and Gerald",
+      "What 'it' refers to in the opening line and why the Lady in Gold Gown claims it",
+      "Why Juliana is being expelled and what the family conflict is",
+      "The significance of the oval locket and her mother's church",
+      "The identity and role of Gerald and the Lady in Gold Gown"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Juliana's tears, defiance, and pleading, combined with the Matriarch's cold contempt and the guards seizing her, produce strong feelings of betrayal and distress."
+  },
+  "weaknesses": [
+    "Key characters and their relationships are not established within the clip",
+    "The referent of 'it' in the opening line is unclear",
+    "The stakes of the family dispute are not explained",
+    "The clip depends on unseen earlier events for its emotional weight"
+  ],
+  "one_line_why_it_works": "A public humiliation escalates to a forced removal and ends on Juliana's desperate plea, leaving her fate open."
+}

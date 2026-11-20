@@ -1,0 +1,219 @@
+{
+  "episode_id": "ep_012",
+  "summary": "Episode 12 is set in a cottage interior (sc_001, 0-87210 ms). The Constable tries to arrest Alexander for theft over a pocket watch. Juliana disputes the watch's presence, Gerald and Clarissa press the accusation, and Clarissa then sets Juliana a dangerous task under threat to Alexander's life. The episode ends on Juliana's defiant acceptance. Uncertainty: the logline and continuity notes are metadata only and were excluded from evidence. The watch, the ring, and the Ashworth Manor garden are all unverified claims. Whether the watch was planted is not established on screen. Clarissa's offer to withdraw charges and her gallows threat are spoken claims. The speaker tag on EP12:E22 is malformed, and EP12:E53 through EP12:E55 leave the meaning of 'the garden' unclear. The sibling relationship between Juliana and Clarissa rests on a single spoken line, and Gerald's relation to Clarissa is not stated.",
+  "characters": [
+    {
+      "name": "The Constable",
+      "role": "Officer attempting to arrest Alexander for theft and backing Gerald's claim about the watch"
+    },
+    {
+      "name": "Alexander",
+      "role": "Accused veteran with a scarred brow, Juliana's husband, who denies taking the watch"
+    },
+    {
+      "name": "Juliana",
+      "role": "Alexander's wife who defends him, is called sister by Clarissa, and accepts Clarissa's dangerous task"
+    },
+    {
+      "name": "Gerald",
+      "role": "Antagonist who accuses Alexander and mocks Juliana, carrying a riding crop"
+    },
+    {
+      "name": "Clarissa",
+      "role": "Antagonist who taunts Juliana, sets the ring retrieval ultimatum, and threatens Alexander's hanging"
+    }
+  ],
+  "beats": [
+    {
+      "id": "B1",
+      "kind": "inciting_confrontation",
+      "event_refs": [
+        "EP12:E1",
+        "EP12:E2"
+      ],
+      "description": "The Constable raises handcuffs and announces Alexander's arrest for theft.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "B2",
+      "kind": "defiant_intervention",
+      "event_refs": [
+        "EP12:E3",
+        "EP12:E4",
+        "EP12:E5"
+      ],
+      "description": "Juliana steps between Alexander and the Constable and denies the watch was in his coat.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "B3",
+      "kind": "accusation_escalation",
+      "event_refs": [
+        "EP12:E6",
+        "EP12:E7",
+        "EP12:E8",
+        "EP12:E9",
+        "EP12:E10",
+        "EP12:E11"
+      ],
+      "description": "The Constable insists he found the watch. Juliana says someone planted it. Gerald enters and claims the watch is proof.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "B4",
+      "kind": "denial_and_counteraccusation",
+      "event_refs": [
+        "EP12:E12",
+        "EP12:E13",
+        "EP12:E14",
+        "EP12:E15",
+        "EP12:E16",
+        "EP12:E17"
+      ],
+      "description": "Alexander denies touching the property. Gerald asks why Juliana's husband should not explain. Juliana accuses Gerald of planting the watch.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "B5",
+      "kind": "taunt_and_bargain",
+      "event_refs": [
+        "EP12:E18",
+        "EP12:E19",
+        "EP12:E20",
+        "EP12:E21",
+        "EP12:E22",
+        "EP12:E23",
+        "EP12:E24",
+        "EP12:E25",
+        "EP12:E26",
+        "EP12:E27",
+        "EP12:E28",
+        "EP12:E29",
+        "EP12:E30",
+        "EP12:E31",
+        "EP12:E32"
+      ],
+      "description": "Clarissa taunts Juliana and Alexander. Juliana asks Clarissa's price, and Clarissa offers a way out and says she wants to see Juliana crawl.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "B6",
+      "kind": "ultimatum",
+      "event_refs": [
+        "EP12:E33",
+        "EP12:E34",
+        "EP12:E35",
+        "EP12:E36",
+        "EP12:E37",
+        "EP12:E38",
+        "EP12:E39",
+        "EP12:E40",
+        "EP12:E41",
+        "EP12:E42",
+        "EP12:E43",
+        "EP12:E44",
+        "EP12:E45"
+      ],
+      "description": "Clarissa claims her ring is in frozen blackthorn at Ashworth Manor and orders Juliana to retrieve it by hand. She offers to withdraw charges if Juliana complies, and whispers that Alexander will hang if she fails or refuses.",
+      "intensity_0_10": 9.0
+    },
+    {
+      "id": "B7",
+      "kind": "plea_and_resolve",
+      "event_refs": [
+        "EP12:E46",
+        "EP12:E47",
+        "EP12:E48",
+        "EP12:E49",
+        "EP12:E50",
+        "EP12:E51",
+        "EP12:E52",
+        "EP12:E53",
+        "EP12:E54",
+        "EP12:E55"
+      ],
+      "description": "Alexander pleads with Juliana not to accept. Juliana refuses to let them take him, turns to Clarissa, and asks where the garden is. The scene freezes on her defiance.",
+      "intensity_0_10": 8.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "R1",
+      "event_refs": [
+        "EP12:E19",
+        "EP12:E22",
+        "EP12:E26"
+      ],
+      "claim": "Clarissa addresses Juliana as her sister, which is the only on-screen basis for their sibling relationship.",
+      "spoiler_significance_0_10": 4.0,
+      "creates_questions": [
+        "What is the history between Juliana and Clarissa?"
+      ]
+    },
+    {
+      "id": "R2",
+      "event_refs": [
+        "EP12:E34",
+        "EP12:E36"
+      ],
+      "claim": "Clarissa says her emerald signet ring fell into frozen blackthorn at Ashworth Manor, and the thorns have grown over it. This is a spoken claim, not verified on screen.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "Is the ring really at Ashworth Manor?",
+        "Why did Clarissa lose the ring there?"
+      ]
+    },
+    {
+      "id": "R3",
+      "event_refs": [
+        "EP12:E43",
+        "EP12:E45"
+      ],
+      "claim": "Clarissa says she will withdraw the charges if Juliana retrieves the ring, and that Alexander will hang if Juliana fails or refuses. These are spoken offers and threats, not confirmed on screen.",
+      "spoiler_significance_0_10": 5.0,
+      "creates_questions": [
+        "Will Clarissa keep her word about withdrawing the charges?",
+        "Will Juliana complete the retrieval in time?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "Was the pocket watch planted in Alexander's coat, and if so by whom?",
+      "introduced_by": [
+        "EP12:E5",
+        "EP12:E9",
+        "EP12:E11",
+        "EP12:E15",
+        "EP12:E17"
+      ]
+    },
+    {
+      "question": "Is the emerald signet ring actually in the blackthorn briars at Ashworth Manor?",
+      "introduced_by": [
+        "EP12:E34",
+        "EP12:E36"
+      ]
+    },
+    {
+      "question": "Will Juliana retrieve the ring, and will the charges against Alexander be withdrawn?",
+      "introduced_by": [
+        "EP12:E39",
+        "EP12:E43"
+      ]
+    },
+    {
+      "question": "What does Juliana mean by asking where the garden is, and how does it connect to the ring?",
+      "introduced_by": [
+        "EP12:E54"
+      ]
+    },
+    {
+      "question": "What is the relationship between Juliana and Clarissa, and how does Gerald connect to Clarissa?",
+      "introduced_by": [
+        "EP12:E19",
+        "EP12:E26"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,913 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "ep_008",
+  "episode_number": 8,
+  "metadata": {
+    "logline": "As Juliana inspects her late mother's weathered herbal grimoire, Alexander bonds with her over rustic medicinal knowledge and war-worn memories, gently altering her perception of what true wealth means.",
+    "continuity_notes": "Picks up after Episode 7, where Alexander chased off Gerald and the mocking aristocratic visitors; quiet and intimacy now return inside the woodland cottage as evening approaches."
+  },
+  "source": {
+    "file": "007_episode-008-Episode 1671710.txt",
+    "sha256": "e2482244be533ae60b42cae3032208cf0bede3b2427639797a6323995dafeccb",
+    "complete": true
+  },
+  "scenes": [
+    {
+      "start_ms": 0,
+      "end_ms": 78000,
+      "id": "sc_001",
+      "heading": "INT. WOODLAND COTTAGE – DAY"
+    }
+  ],
+  "events": [
+    {
+      "start_ms": 0,
+      "end_ms": 3200,
+      "id": "e_001",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Juliana seated at a rustic wooden table beside a daylight-lit window, gently touching an aged leather-bound book.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        14,
+        16
+      ]
+    },
+    {
+      "start_ms": 0,
+      "end_ms": 3200,
+      "id": "e_002",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana delicately runs her fingertips across the embossed leather cover of the worn botanical volume, noticing its weathered state.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        18,
+        20
+      ]
+    },
+    {
+      "start_ms": 200,
+      "end_ms": 3200,
+      "id": "e_003",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Some of the pages are ruined. Careful.\"",
+      "speaker": "JULIANA",
+      "delivery": "Gentle, Somber",
+      "source_lines": [
+        22,
+        24
+      ]
+    },
+    {
+      "start_ms": 3200,
+      "end_ms": 5100,
+      "id": "e_004",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on Juliana's hands carefully unlatching the metal clasp on the leather book.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        26,
+        28
+      ]
+    },
+    {
+      "start_ms": 3400,
+      "end_ms": 4500,
+      "id": "e_005",
+      "scene_id": "sc_001",
+      "type": "sound",
+      "text": "Soft metallic click of the book clasp loosening.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        30,
+        32
+      ]
+    },
+    {
+      "start_ms": 5100,
+      "end_ms": 7800,
+      "id": "e_006",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Juliana tenderly opening the cover and turning the brittle parchment pages.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        34,
+        36
+      ]
+    },
+    {
+      "start_ms": 5100,
+      "end_ms": 7800,
+      "id": "e_007",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Mother spent years writing this.\"",
+      "speaker": "JULIANA",
+      "delivery": "Reflective, Reverent",
+      "source_lines": [
+        38,
+        40
+      ]
+    },
+    {
+      "start_ms": 7800,
+      "end_ms": 10500,
+      "id": "e_008",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot as Alexander enters the dim room behind Juliana, quietly stepping up to the rustic table.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        42,
+        44
+      ]
+    },
+    {
+      "start_ms": 8500,
+      "end_ms": 10500,
+      "id": "e_009",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Alexander gently sets down a fresh bundle of small white herbal flowers tied with twine beside the open book.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        46,
+        48
+      ]
+    },
+    {
+      "start_ms": 10500,
+      "end_ms": 11900,
+      "id": "e_010",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle medium close-up of Juliana looking up toward Alexander in pleasant surprise.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        50,
+        52
+      ]
+    },
+    {
+      "start_ms": 10500,
+      "end_ms": 11800,
+      "id": "e_011",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Yarrow.\"",
+      "speaker": "JULIANA",
+      "delivery": "Curious, Recognizing",
+      "source_lines": [
+        54,
+        56
+      ]
+    },
+    {
+      "start_ms": 11900,
+      "end_ms": 15000,
+      "id": "e_012",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Alexander looking down at her, the firelight catching the rugged scar across his face.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        58,
+        60
+      ]
+    },
+    {
+      "start_ms": 12000,
+      "end_ms": 14600,
+      "id": "e_013",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Good for wounds. Fever, too.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Calm, Knowledgeable",
+      "source_lines": [
+        62,
+        64
+      ]
+    },
+    {
+      "start_ms": 15000,
+      "end_ms": 16300,
+      "id": "e_014",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Juliana looking up at him with genuine curiosity.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        66,
+        68
+      ]
+    },
+    {
+      "start_ms": 15100,
+      "end_ms": 16100,
+      "id": "e_015",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"How do you know that?\"",
+      "speaker": "JULIANA",
+      "delivery": "Inquiring, Soft",
+      "source_lines": [
+        70,
+        72
+      ]
+    },
+    {
+      "start_ms": 16300,
+      "end_ms": 19300,
+      "id": "e_016",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Alexander speaking in a steady, measured tone.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        74,
+        76
+      ]
+    },
+    {
+      "start_ms": 16300,
+      "end_ms": 18900,
+      "id": "e_017",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Soldiers learn quickly which plants keep a man alive.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Somber, Matter-of-Fact",
+      "source_lines": [
+        78,
+        80
+      ]
+    },
+    {
+      "start_ms": 19300,
+      "end_ms": 21500,
+      "id": "e_018",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Insert shot of Juliana's hands gently arranging several tied bundles of dried yarrow sprigs on the tabletop.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        82,
+        84
+      ]
+    },
+    {
+      "start_ms": 19400,
+      "end_ms": 21800,
+      "id": "e_019",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You know more about healing than you let on.\"",
+      "speaker": "JULIANA",
+      "delivery": "Observant, Lightly Teasing",
+      "source_lines": [
+        86,
+        88
+      ]
+    },
+    {
+      "start_ms": 21500,
+      "end_ms": 24300,
+      "id": "e_020",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Alexander, bathed in warm hearth embers, offering a subtle, knowing half-smile.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        90,
+        92
+      ]
+    },
+    {
+      "start_ms": 22800,
+      "end_ms": 24200,
+      "id": "e_021",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Enough to survive.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Quiet, Gritty",
+      "source_lines": [
+        94,
+        96
+      ]
+    },
+    {
+      "start_ms": 24300,
+      "end_ms": 26500,
+      "id": "e_022",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Juliana setting down a bunch of flowers and looking intently at his rugged visage.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        98,
+        100
+      ]
+    },
+    {
+      "start_ms": 25000,
+      "end_ms": 26800,
+      "id": "e_023",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Your hair and beard...\"",
+      "speaker": "JULIANA",
+      "delivery": "Hesitant, Soft",
+      "source_lines": [
+        102,
+        104
+      ]
+    },
+    {
+      "start_ms": 26500,
+      "end_ms": 28100,
+      "id": "e_024",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Alexander standing tall over her, looking down patiently.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        106,
+        108
+      ]
+    },
+    {
+      "start_ms": 28100,
+      "end_ms": 31900,
+      "id": "e_025",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium two-shot as Juliana rises from her stool to stand close in front of him, reaching an affectionate hand toward his temple.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        110,
+        112
+      ]
+    },
+    {
+      "start_ms": 30100,
+      "end_ms": 31900,
+      "id": "e_026",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I could trim them for you.\"",
+      "speaker": "JULIANA",
+      "delivery": "Gentle, Tender",
+      "source_lines": [
+        114,
+        116
+      ]
+    },
+    {
+      "start_ms": 31900,
+      "end_ms": 33200,
+      "id": "e_027",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Alexander's large, rough hand firmly but gently catching Juliana's wrist in midair.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        118,
+        120
+      ]
+    },
+    {
+      "start_ms": 33200,
+      "end_ms": 35500,
+      "id": "e_028",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium two-shot profile of Alexander holding her wrist, his piercing gaze locked onto hers.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        122,
+        124
+      ]
+    },
+    {
+      "start_ms": 33200,
+      "end_ms": 34500,
+      "id": "e_029",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Not yet.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Firm, Low",
+      "source_lines": [
+        126,
+        128
+      ]
+    },
+    {
+      "start_ms": 35500,
+      "end_ms": 37300,
+      "id": "e_030",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana looking into his eyes, her brow lightly furrowed in bemused question.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        130,
+        132
+      ]
+    },
+    {
+      "start_ms": 35800,
+      "end_ms": 36900,
+      "id": "e_031",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Not yet?\"",
+      "speaker": "JULIANA",
+      "delivery": "Puzzled, Curious",
+      "source_lines": [
+        134,
+        136
+      ]
+    },
+    {
+      "start_ms": 37300,
+      "end_ms": 39600,
+      "id": "e_032",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Alexander, still maintaining his gentle hold on her arm.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        138,
+        140
+      ]
+    },
+    {
+      "start_ms": 37700,
+      "end_ms": 38900,
+      "id": "e_033",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Let them grow.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Grounded, Steady",
+      "source_lines": [
+        142,
+        144
+      ]
+    },
+    {
+      "start_ms": 39600,
+      "end_ms": 42300,
+      "id": "e_034",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana smiling with playful warmth.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        146,
+        148
+      ]
+    },
+    {
+      "start_ms": 39900,
+      "end_ms": 42000,
+      "id": "e_035",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You prefer looking like a forest hermit?\"",
+      "speaker": "JULIANA",
+      "delivery": "Playful, Amused",
+      "source_lines": [
+        150,
+        152
+      ]
+    },
+    {
+      "start_ms": 42300,
+      "end_ms": 44900,
+      "id": "e_036",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Intimate two-shot as Alexander slowly lowers her hand, his expression softening.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        154,
+        156
+      ]
+    },
+    {
+      "start_ms": 43700,
+      "end_ms": 44900,
+      "id": "e_037",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"It has advantages.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Dry, Droll",
+      "source_lines": [
+        158,
+        160
+      ]
+    },
+    {
+      "start_ms": 44900,
+      "end_ms": 46900,
+      "id": "e_038",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Juliana chuckling quietly as she steps back toward the table.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        162,
+        164
+      ]
+    },
+    {
+      "start_ms": 45500,
+      "end_ms": 46800,
+      "id": "e_039",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Very well.\"",
+      "speaker": "JULIANA",
+      "delivery": "Fond, Resigned",
+      "source_lines": [
+        166,
+        168
+      ]
+    },
+    {
+      "start_ms": 46900,
+      "end_ms": 48000,
+      "id": "e_040",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Alexander watching her with deep, affectionate attention.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        170,
+        172
+      ]
+    },
+    {
+      "start_ms": 48000,
+      "end_ms": 50000,
+      "id": "e_041",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana grinning with sparkling eyes.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        174,
+        176
+      ]
+    },
+    {
+      "start_ms": 48100,
+      "end_ms": 49600,
+      "id": "e_042",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"But one day, I am trimming that beard.\"",
+      "speaker": "JULIANA",
+      "delivery": "Teasing, Determined",
+      "source_lines": [
+        178,
+        180
+      ]
+    },
+    {
+      "start_ms": 50000,
+      "end_ms": 51300,
+      "id": "e_043",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Alexander lowering his head slightly with a faint smirk.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        182,
+        184
+      ]
+    },
+    {
+      "start_ms": 50100,
+      "end_ms": 51200,
+      "id": "e_044",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"We'll see.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Low, Amused",
+      "source_lines": [
+        186,
+        188
+      ]
+    },
+    {
+      "start_ms": 51300,
+      "end_ms": 53300,
+      "id": "e_045",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium two-shot of both sitting back down at the table together, Alexander turning a brittle page of the herb book.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        190,
+        192
+      ]
+    },
+    {
+      "start_ms": 53300,
+      "end_ms": 57100,
+      "id": "e_046",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up insert of Alexander's weathered finger pointing directly at a delicate botanical illustration of a flowering stem.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        194,
+        196
+      ]
+    },
+    {
+      "start_ms": 53300,
+      "end_ms": 57000,
+      "id": "e_047",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"That one grows near the northern stream. Crushed leaves ease swelling.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Instructional, Calm",
+      "source_lines": [
+        198,
+        200
+      ]
+    },
+    {
+      "start_ms": 57100,
+      "end_ms": 59800,
+      "id": "e_048",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Wide side-profile two-shot of Juliana and Alexander seated across from each other at the rustic table, the stone fireplace roaring warmly behind them.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        202,
+        204
+      ]
+    },
+    {
+      "start_ms": 58700,
+      "end_ms": 60200,
+      "id": "e_049",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"My mother wrote the same thing.\"",
+      "speaker": "JULIANA",
+      "delivery": "Soft, Nostalgic",
+      "source_lines": [
+        206,
+        208
+      ]
+    },
+    {
+      "start_ms": 59800,
+      "end_ms": 63000,
+      "id": "e_050",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana looking across at his battle-marked features with empathy.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        210,
+        212
+      ]
+    },
+    {
+      "start_ms": 60500,
+      "end_ms": 62800,
+      "id": "e_051",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"And the scars... were they from the war?\"",
+      "speaker": "JULIANA",
+      "delivery": "Hesitant, Compassionate",
+      "source_lines": [
+        214,
+        216
+      ]
+    },
+    {
+      "start_ms": 63000,
+      "end_ms": 64300,
+      "id": "e_052",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Alexander looking downward, memories clouding his eyes.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        218,
+        220
+      ]
+    },
+    {
+      "start_ms": 63200,
+      "end_ms": 64200,
+      "id": "e_053",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Some were.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Quiet, Subdued",
+      "source_lines": [
+        222,
+        224
+      ]
+    },
+    {
+      "start_ms": 64300,
+      "end_ms": 66500,
+      "id": "e_054",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana, her eyes filled with gentle understanding.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        226,
+        228
+      ]
+    },
+    {
+      "start_ms": 64900,
+      "end_ms": 66300,
+      "id": "e_055",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"It must have been terrible.\"",
+      "speaker": "JULIANA",
+      "delivery": "Tender, Aching",
+      "source_lines": [
+        230,
+        232
+      ]
+    },
+    {
+      "start_ms": 66500,
+      "end_ms": 68500,
+      "id": "e_056",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Alexander lifting his gaze, heavy with past battles.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        234,
+        236
+      ]
+    },
+    {
+      "start_ms": 66700,
+      "end_ms": 67600,
+      "id": "e_057",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"It was.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Heavy, Somber",
+      "source_lines": [
+        238,
+        240
+      ]
+    },
+    {
+      "start_ms": 68500,
+      "end_ms": 70900,
+      "id": "e_058",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium two-shot of Juliana smiling tenderly at him across the open book.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        242,
+        244
+      ]
+    },
+    {
+      "start_ms": 69000,
+      "end_ms": 72100,
+      "id": "e_059",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I thought losing wealth meant losing everything.\"",
+      "speaker": "JULIANA",
+      "delivery": "Reflective, Vulnerable",
+      "source_lines": [
+        246,
+        248
+      ]
+    },
+    {
+      "start_ms": 70900,
+      "end_ms": 73200,
+      "id": "e_060",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Wide shot framing the warm silhouette of the two companions sitting peacefully beside the blazing stone hearth.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        250,
+        252
+      ]
+    },
+    {
+      "start_ms": 73200,
+      "end_ms": 78000,
+      "id": "e_061",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Extreme close-up of Juliana's radiant face illuminated by firelight, a peaceful, contented smile spreading across her lips as she looks at him until the shot gently fades out.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        254,
+        256
+      ]
+    },
+    {
+      "start_ms": 73200,
+      "end_ms": 75300,
+      "id": "e_062",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Perhaps I was wrong.\"",
+      "speaker": "JULIANA",
+      "delivery": "Quiet, Transformed",
+      "source_lines": [
+        258,
+        260
+      ]
+    },
+    {
+      "start_ms": 75300,
+      "end_ms": 78000,
+      "id": "e_063",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana maintains her warm, peaceful gaze across the table as soft firelight flickers over her face into fade out.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        262,
+        264
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "start_ms": 0,
+      "end_ms": 78000
+    }
+  ],
+  "warnings": []
+}

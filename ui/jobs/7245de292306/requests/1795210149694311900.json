@@ -1,0 +1,154 @@
+{
+  "stage": "candidate_discovery",
+  "system": "Find diverse promo opportunities, preferably 8-12 if supported. Return hook and unresolved ending anchors, not timestamps. A continuous clip must last 20-60 seconds with its hook in the first 3 seconds, understandable without prior context. Check the anchor timestamps: ending.end_ms minus hook.start_ms should be 20,000-60,000ms. Do not propose isolated 2-10 second moments. Both anchors and required context must fit in one supplied coverage interval. Ending anchors should precede resolution. Context refs must occur within the clip. Empty opportunities are valid when evidence is insufficient.",
+  "user": "EP=ep_020; timestamps are integer milliseconds\nSOURCE_SHA256=e6389a016e5aa432efca70d3bb2d64ec859200ad0e6aad207fa63a616ce12fa8\nMETADATA ONLY (not on-screen evidence): {'logline': 'Inside the opulent Ashbury estate, the treacherous Rupert and Catherine plot to seize the ducal title as the Dowager Duchess slowly withers, while in an icy barn, Juliana defiantly prepares remedies to save the fever-stricken villagers.', 'continuity_notes': \"Follows Episode 19's night in the barn; as Alexander begins his clandestine fight to reclaim his birthright, Juliana tends to the suffering village while Rupert and Catherine celebrate their anticipated ascension to the ducal throne.\"}\nSOURCE WARNINGS=['sc_002: incomplete source coverage; gaps are unavailable']\nSCENE sc_001 0-2800 EXT. ASHBURY MANOR – DAY\nEP20:E1 0-2800 CAMERA: Low-angle establishing shot tilting up toward the imposing, grand stone facade of Ashbury Manor against a cold, overcast morning sky, frost dusting the pristine lawn.\nSCENE sc_002 2800-56500 INT. ASHBURY MANOR - DRAWING ROOM – CONTINUOUS\nEP20:E2 2800-6800 CAMERA: Medium wide shot of the lavish drawing room. CATHERINE, dressed in an ornate lilac regency gown and white satin gloves, gracefully pours hot tea from an ornate silver teapot, while RUPERT stands elegantly by the tall window.\nEP20:E3 2900-4400 CATHERINE [Smug, Prim]: \"Two lumps of sugar, Rupert?\"\nEP20:E4 4600-7800 CATHERINE [Taunting, Silkily]: \"Or has your sudden climb to power sweetened your taste already?\"\nEP20:E5 6900-9500 CAMERA: Close-up of Catherine stirring her tea with a silver spoon, lifting her gaze with a haughty smirk.\nEP20:E6 8200-10800 RUPERT [Flirtatious, Sly]: \"Only if it sweetens your disposition, Catherine.\"\nEP20:E7 9600-15200 CAMERA: Medium shot tracking Rupert as he steps forward from the hearth, adjusting his dark leather gloves with an air of absolute triumph.\nEP20:E8 10900-12700 RUPERT [Boastful, Confident]: \"The estate is practically ours.\"\nEP20:E9 12800-15100 RUPERT [Smug]: \"The succession papers are being finalized as we speak.\"\nEP20:E10 15200-20000 CAMERA: Medium close-up of Catherine raising the porcelain teacup to her lips, her expression turning sharp and dismissive.\nEP20:E11 15400-18700 CATHERINE [Cold, Haughty]: \"'Practically' is a word for beggars. I do not marry a practical Duke.\"\nEP20:E12 18800-20100 CATHERINE [Stern, Ambitious]: \"I marry the Lord of Ashbury.\"\nEP20:E13 20000-25500 CAMERA: Medium shot of Rupert striding toward the tea table, leaning forward with predatory conviction.\nEP20:E14 20100-21200 RUPERT [Reassuring, Firm]: \"And so you shall.\"\nEP20:E15 21300-24200 RUPERT [Dark, Conspiratorial]: \"Once my cousin Alexander's death is formally sealed by the Crown...\"\nEP20:E16 24300-25400 RUPERT [Decisive]: \"...the title is mine.\"\nEP20:E17 25500-30200 CAMERA: Close-up of Catherine lowering her teacup, her icy blue eyes narrowing in calculated concern.\nEP20:E18 25500-28200 CATHERINE [Wary, Inquiring]: \"And what of the Dowager? The old woman still breathes.\"\nEP20:E19 28300-30200 CATHERINE [Disdainful]: \"Her shadow still hangs over this house.\"\nEP20:E20 30200-34000 CAMERA: Tight close-up of Rupert's face as a sinister grin spreads across his features.\nEP20:E21 30200-32800 RUPERT [Quiet, Sinister]: \"Her health fails more each day. The physicians are baffled.\"\nEP20:E22 32900-34400 RUPERT [Gloating]: \"They call it a wasting of the lungs.\"\nEP20:E23 34100-39200 CAMERA: Close-up side profile of Catherine bringing the teacup to her lips, savoring his words with chilling detachment.\nEP20:E24 34200-36800 CATHERINE [Mock-Sympathetic, Cruel]: \"How tragic. The slow, quiet decline.\"\nEP20:E25 36900-39100 CATHERINE [Scheming]: \"How much longer can the frail thing survive?\"\nEP20:E26 39300-42500 CAMERA: Medium profile of Rupert looking out the window, hands clasped behind him.\nEP20:E27 39400-42400 RUPERT [Cold, Callous]: \"Not through the winter. I've ensured her quiet comfort.\"\nEP20:E28 42500-50000 CAMERA: Close-up of Catherine turning her head toward the window, her lips curled in venomous disgust.\nEP20:E29 42600-44900 CATHERINE [Vindictive]: \"Good. The village is already whispering about her.\"\nEP20:E30 45000-48400 CATHERINE [Contemptuous]: \"The local peasants are like dogs, barking at every carriage that passes.\"\nEP20:E31 48500-49800 CATHERINE [Disgusted]: \"They disgust me.\"\nEP20:E32 50000-56500 CAMERA: Medium two-shot. Rupert stands over Catherine seated at the polished table, placing a gloved hand possessively near her shoulder.\nEP20:E33 50200-52500 RUPERT [Dismissive, Arrogant]: \"They are nothing. Dirt beneath our boots.\"\nEP20:E34 52800-56000 RUPERT [Authoritative, Promising]: \"They will learn their place when you wear the ducal crown.\"\nSCENE sc_003 56500-88200 INT. ABANDONED BARN – DAY\nEP20:E35 56500-60300 CAMERA: Medium close-up tilting down on JULIANA kneeling in the straw beside a rustic wooden crate, sorting sprigs of dried lavender and sage into a woven basket. Her hands are bound in linen bandages from the recent fire.\nEP20:E36 60000-64500 ACTION: The barn door opens, revealing daylight outside. SEAMUS, an older weathered villager in a waistcoat, carries a wooden bucket inside, his expression etched with deep sorrow and concern.\nEP20:E37 60500-62500 SEAMUS [Gentle, Concerned]: \"Let me take that basket, Lady Juliana.\"\nEP20:E38 62600-66600 SEAMUS [Empathetic]: \"Your palms are still raw from the fire. You shouldn't be working in this freezing draft.\"\nEP20:E39 64800-66800 ACTION: Seamus reaches down to take the handle of the basket from her.\nEP20:E40 66800-70500 CAMERA: Close-up of Juliana looking up at Seamus, her smudged face fierce with unyielding determination as she holds firmly onto the basket.\nEP20:E41 66700-69100 JULIANA [Fierce, Resolute]: \"If I stop, Seamus, the lung fever in the valley wins.\"\nEP20:E42 69200-70500 JULIANA [Defiant]: \"I do not yield to a cold draft.\"\nEP20:E43 70500-76200 CAMERA: Close-up of Seamus, his face agonizingly strained with grief for her lost status.\nEP20:E44 70600-72300 SEAMUS [Desperate, Grieving]: \"You are a viscount's daughter!\"\nEP20:E45 72400-74200 SEAMUS [Pleading]: \"Sleeping on straw, sorting weeds!\"\nEP20:E46 74300-76200 SEAMUS [Frustrated]: \"Let the village tend to itself for once!\"\nEP20:E47 76200-81000 CAMERA: Medium close-up of Juliana, her jaw set with unwavering moral strength.\nEP20:E48 76300-79800 JULIANA [Passionate, Unflinching]: \"The chapel is gone, Seamus. I am the only healer these people have left.\"\nEP20:E49 79900-81000 JULIANA [Unyielding]: \"I keep the basket.\"\nEP20:E50 81000-88200 CAMERA: Medium two-shot of Juliana and Seamus standing facing each other in the barn, the lantern casting a warm amber glow between them.\nEP20:E51 82000-84400 SEAMUS [Saddened, Heartbroken]: \"They have reduced you to a peasant.\"\nEP20:E52 84800-86500 JULIANA [Proud, Indomitable]: \"They have reduced me to myself.\"\nEP20:E53 86600-88000 JULIANA [Steely]: \"And I am not finished.\"\nSCENE sc_004 88200-114750 INT. ASHBURY MANOR - DRAWING ROOM – CONTINUOUS\nEP20:E54 88200-90000 ACTION: Catherine's gloved hand sets her fine porcelain teacup down onto the silver tray with a delicate clatter.\nEP20:E55 88400-89400 SOUND: Sharp porcelain chime of teacup meeting saucer.\nEP20:E56 89800-94800 CAMERA: Close-up of Catherine looking up, her face twisting into venomous arrogance.\nEP20:E57 89900-92400 CATHERINE [Cruel, Callous]: \"Let the peasants rot in their barns.\"\nEP20:E58 92600-94500 CATHERINE [Mocking, Spiteful]: \"Let them pray to their weeds.\"\nEP20:E59 94800-99200 CAMERA: Medium shot as Rupert steps around the mahogany table and leans close into Catherine's ear, smiling seductively.\nEP20:E60 94900-97300 RUPERT [Intimate, Reassuring]: \"You have no rival here, Catherine.\"\nEP20:E61 97400-99100 RUPERT [Fawning]: \"No one to stand in your way.\"\nEP20:E62 99200-103800 CAMERA: Close-up of Catherine looking into Rupert's eyes, her smile turning predatory and cold.\nEP20:E63 99300-101400 CATHERINE [Triumphant, Greedy]: \"Once the old Duchess is gone...\"\nEP20:E64 101500-103700 CATHERINE [Possessive]: \"...Ashbury will finally belong to us.\"\nEP20:E65 103800-109000 ACTION: Catherine rises from her chair in one regal motion and glides toward the towering window overlooking the vast estate grounds.\nEP20:E66 104000-109500 CAMERA: Tracking medium shot following Catherine from behind as she walks gracefully to the window frame, the grey morning light outlining her aristocratic silhouette.\nEP20:E67 106800-109200 CATHERINE [Cold, Ruthless]: \"This house will only bow to me.\"\nEP20:E68 109500-114750 CAMERA: Tight close-up profile of Catherine gazing out the windowpane, her icy eyes burning with insatiable ambition as dramatic strings swell to a menacing cliffhanger hold.\nAVAILABLE COVERAGE (milliseconds)=[{\"start_ms\": 0, \"end_ms\": 39200}, {\"start_ms\": 39300, \"end_ms\": 114750}]\nEPISODE ANALYSIS={\"episode_id\":\"ep_020\",\"summary\":\"On-screen evidence covers the Ashbury Manor drawing room (EP20:E1-E34, E54-E68) and an abandoned barn (EP20:E35-E53). Catherine and Rupert scheme to take the ducal title after Alexander's death is sealed by the Crown, and Rupert describes the Dowager's decline as engineered, though the dialogue does not confirm any act. Juliana refuses Seamus's pleas to stop working while the lung fever spreads through the valley. Source warning sc_002 notes incomplete coverage with unavailable gaps, so the sequence between events may be missing. The Dowager and Alexander appear only in dialogue, not on screen, and the metadata's references to Alexander's fight and the village's remedies are unseen and not treated as evidence. Motives and outcomes remain uncertain.\",\"characters\":[{\"name\":\"Catherine\",\"role\":\"Antagonist; scheming aspirant to the ducal title, dismissive of villagers (EP20:E2-E68)\"},{\"name\":\"Rupert\",\"role\":\"Antagonist; cousin plotting to take the title after Alexander's death is sealed, implies the Dowager's decline is engineered (EP20:E2-E61)\"},{\"name\":\"Juliana\",\"role\":\"Viscount's daughter now working as the village's healer in the barn; defiant protagonist (EP20:E35-E53)\"},{\"name\":\"Seamus\",\"role\":\"Older weathered villager who urges Juliana to rest and mourns her lost status (EP20:E36-E53)\"}],\"beats\":[{\"id\":\"b1\",\"kind\":\"setup\",\"event_refs\":[\"EP20:E1\",\"EP20:E2\",\"EP20:E3\",\"EP20:E4\"],\"description\":\"Establishing shots of Ashbury Manor and the drawing room, where Catherine and Rupert trade barbed remarks over tea.\",\"intensity_0_10\":3.0},{\"id\":\"b2\",\"kind\":\"plan_revealed\",\"event_refs\":[\"EP20:E13\",\"EP20:E14\",\"EP20:E15\",\"EP20:E16\"],\"description\":\"Rupert states that the title will be his once Alexander's death is formally sealed by the Crown.\",\"intensity_0_10\":7.0},{\"id\":\"b3\",\"kind\":\"conspiracy\",\"event_refs\":[\"EP20:E18\",\"EP20:E19\",\"EP20:E21\",\"EP20:E22\",\"EP20:E27\"],\"description\":\"Catherine questions the Dowager's survival; Rupert says her health fails and claims he has ensured her quiet comfort, leaving his actions ambiguous.\",\"intensity_0_10\":7.0},{\"id\":\"b4\",\"kind\":\"class_contempt\",\"event_refs\":[\"EP20:E29\",\"EP20:E30\",\"EP20:E31\",\"EP20:E33\",\"EP20:E34\"],\"description\":\"Catherine and Rupert dismiss the villagers as beneath them and promise they will learn their place.\",\"intensity_0_10\":5.0},{\"id\":\"b5\",\"kind\":\"confrontation\",\"event_refs\":[\"EP20:E36\",\"EP20:E37\",\"EP20:E38\",\"EP20:E41\",\"EP20:E44\",\"EP20:E48\",\"EP20:E49\"],\"description\":\"In the barn, Seamus urges Juliana to rest; she refuses, citing the lung fever and the loss of the chapel.\",\"intensity_0_10\":6.0},{\"id\":\"b6\",\"kind\":\"reaffirmation\",\"event_refs\":[\"EP20:E51\",\"EP20:E52\",\"EP20:E53\"],\"description\":\"Seamus says she has been reduced to a peasant; Juliana replies that she has been reduced to herself and is not finished.\",\"intensity_0_10\":5.0},{\"id\":\"b7\",\"kind\":\"ambition_escalation\",\"event_refs\":[\"EP20:E57\",\"EP20:E60\",\"EP20:E63\",\"EP20:E64\",\"EP20:E67\"],\"description\":\"Catherine dismisses the peasants, and she and Rupert plan for Ashbury to belong to them once the Duchess is gone.\",\"intensity_0_10\":6.0},{\"id\":\"b8\",\"kind\":\"cliffhanger\",\"event_refs\":[\"EP20:E68\"],\"description\":\"Catherine gazes from the window with burning ambition as the score swells to a menacing hold.\",\"intensity_0_10\":6.0}],\"revelations\":[{\"id\":\"r1\",\"event_refs\":[\"EP20:E15\",\"EP20:E16\"],\"claim\":\"Rupert intends to claim the title once Alexander's death is formally sealed by the Crown.\",\"spoiler_significance_0_10\":8.0,\"creates_questions\":[\"q1\",\"q2\"]},{\"id\":\"r2\",\"event_refs\":[\"EP20:E21\",\"EP20:E22\",\"EP20:E27\"],\"claim\":\"Rupert says the Dowager's decline is ongoing and that he has ensured her quiet comfort, which may imply deliberate harm.\",\"spoiler_significance_0_10\":7.0,\"creates_questions\":[\"q3\"]},{\"id\":\"r3\",\"event_refs\":[\"EP20:E41\",\"EP20:E48\"],\"claim\":\"Juliana is the only healer left in the village after the chapel was lost, and lung fever is spreading in the valley.\",\"spoiler_significance_0_10\":4.0,\"creates_questions\":[\"q4\"]}],\"unresolved_questions\":[{\"question\":\"q1: Will Rupert's claim to the title succeed, and is Alexander's death confirmed?\",\"introduced_by\":[\"EP20:E15\",\"EP20:E16\"]},{\"question\":\"q2: Will the Crown formally seal Alexander's death?\",\"introduced_by\":[\"EP20:E15\"]},{\"question\":\"q3: Did Rupert cause the Dowager's decline, and is she still alive?\",\"introduced_by\":[\"EP20:E18\",\"EP20:E21\",\"EP20:E27\"]},{\"question\":\"q4: Can Juliana's remedies stop the lung fever in the valley?\",\"introduced_by\":[\"EP20:E41\",\"EP20:E48\"]}]}\nSERIES CONTEXT={\"series_id\":\"series_001\",\"premise\":\"Lady Juliana is publicly jilted at the altar when her fiance Gerald chooses her sister Clarissa, and her family rejects her. She marries a scarred, unnamed Bearded Man (later revealed on screen as Alexander, a presumed-dead soldier and Duke), and the couple is repeatedly targeted by antagonists. Juliana uses her late mother's herbal knowledge to heal the sick, which draws accusations of witchcraft and poisoning, while Alexander's return and claim to his ducal title set up a confrontation with the conspirators who hid his survival.\",\"arcs\":[{\"id\":\"arc_jilting_and_family_rejection\",\"description\":\"Juliana is jilted at the altar by Gerald, humiliated by her sister Clarissa and disowned by her family, which sets off the series' central betrayal.\",\"beat_refs\":[{\"episode_id\":\"ep_001\",\"beat_id\":\"B02\"},{\"episode_id\":\"ep_001\",\"beat_id\":\"B03\"},{\"episode_id\":\"ep_001\",\"beat_id\":\"B09\"},{\"episode_id\":\"ep_001\",\"beat_id\":\"B10\"},{\"episode_id\":\"ep_002\",\"beat_id\":\"b01\"},{\"episode_id\":\"ep_002\",\"beat_id\":\"b05\"},{\"episode_id\":\"ep_003\",\"beat_id\":\"b3\"},{\"episode_id\":\"ep_004\",\"beat_id\":\"B11\"}]},{\"id\":\"arc_exile_and_marriage_to_the_bearded_man\",\"description\":\"After the rejection, the unnamed Bearded Man intervenes, offers Juliana a ring and a vow, and the couple leaves the family behind to live in hardship in a cottage.\",\"beat_refs\":[{\"episode_id\":\"ep_003\",\"beat_id\":\"b9\"},{\"episode_id\":\"ep_004\",\"beat_id\":\"B8\"},{\"episode_id\":\"ep_004\",\"beat_id\":\"B9\"},{\"episode_id\":\"ep_005\",\"beat_id\":\"b1\"},{\"episode_id\":\"ep_005\",\"beat_id\":\"b3\"},{\"episode_id\":\"ep_006\",\"beat_id\":\"b2\"},{\"episode_id\":\"ep_006\",\"beat_id\":\"b8\"}]},{\"id\":\"arc_healing_and_poisoning_conspiracy\",\"description\":\"Juliana's herbal healing draws her into the household of the ailing Dowager Duchess, where she uncovers evidence of arsenic poisoning and is pulled into a dangerous conflict with Catherine and Rupert.\",\"beat_refs\":[{\"episode_id\":\"ep_009\",\"beat_id\":\"b02\"},{\"episode_id\":\"ep_022\",\"beat_id\":\"B6\"},{\"episode_id\":\"ep_023\",\"beat_id\":\"beat_2\"},{\"episode_id\":\"ep_023\",\"beat_id\":\"beat_6\"},{\"episode_id\":\"ep_024\",\"beat_id\":\"B7\"},{\"episode_id\":\"ep_025\",\"beat_id\":\"b5\"},{\"episode_id\":\"ep_026\",\"beat_id\":\"b6\"},{\"episode_id\":\"ep_028\",\"beat_id\":\"b4\"}]},{\"id\":\"arc_frame_up_and_imprisonment\",\"description\":\"Juliana and Alexander are framed with a stolen watch and with witchcraft and poisoning charges, leading to Juliana's arrest, torture and public trial.\",\"beat_refs\":[{\"episode_id\":\"ep_011\",\"beat_id\":\"b6\"},{\"episode_id\":\"ep_012\",\"beat_id\":\"B6\"},{\"episode_id\":\"ep_029\",\"beat_id\":\"b07\"},{\"episode_id\":\"ep_031\",\"beat_id\":\"b9\"},{\"episode_id\":\"ep_034\",\"beat_id\":\"B9\"}]},{\"id\":\"arc_alexander_return_and_reclamation\",\"description\":\"Alexander's survival is revealed after an ambush he was believed to have died in, and he moves to expose the conspirators who hid him, reclaim his title and rescue Juliana before her execution.\",\"beat_refs\":[{\"episode_id\":\"ep_035\",\"beat_id\":\"b7\"},{\"episode_id\":\"ep_036\",\"beat_id\":\"b8\"},{\"episode_id\":\"ep_039\",\"beat_id\":\"B5\"},{\"episode_id\":\"ep_042\",\"beat_id\":\"b11\"},{\"episode_id\":\"ep_045\",\"beat_id\":\"B6\"},{\"episode_id\":\"ep_046\",\"beat_id\":\"B2\"}]}],\"key_revelations\":[{\"episode_id\":\"ep_001\",\"revelation_id\":\"R01\",\"prerequisite_context\":[\"Gerald is holding the hand of the Lady in Gold Gown at the altar\",\"The Lady in Gold Gown states that Gerald is marrying her\"]},{\"episode_id\":\"ep_001\",\"revelation_id\":\"R02\",\"prerequisite_context\":[\"The Lady in Gold Gown knew of the betrayal in advance\",\"She says Gerald was never going to marry Juliana\"]},{\"episode_id\":\"ep_004\",\"revelation_id\":\"R4\",\"prerequisite_context\":[\"The priest pronounces the couple husband and wife in an off-screen voice\",\"The priest had earlier hesitated before proceeding\"]},{\"episode_id\":\"ep_011\",\"revelation_id\":\"r1\",\"prerequisite_context\":[\"Gerald accuses Alexander of stealing his gold pocket watch\",\"The Constable finds a gold pocket watch inside Alexander's coat\"]},{\"episode_id\":\"ep_023\",\"revelation_id\":\"rev_2\",\"prerequisite_context\":[\"Juliana's late mother's journal records toxic symptoms matching the Duchess's condition\",\"Juliana asserts that someone is poisoning the Duchess\"]},{\"episode_id\":\"ep_027\",\"revelation_id\":\"r1\",\"prerequisite_context\":[\"The Duchess says the ring bears the Ashbourne crest\",\"Juliana says her husband gave her the ring\"]},{\"episode_id\":\"ep_028\",\"revelation_id\":\"r3\",\"prerequisite_context\":[\"Catherine reads the herbarium inscription Juliana Ashcroft\",\"Catherine names her Lady Juliana Ashcroft\"]},{\"episode_id\":\"ep_035\",\"revelation_id\":\"r2\",\"prerequisite_context\":[\"Alexander says the ambush was ordered to erase him\",\"Alexander says someone wanted his mother to believe he was dead\"]},{\"episode_id\":\"ep_036\",\"revelation_id\":\"r7\",\"prerequisite_context\":[\"Juliana was arrested and accused of poisoning Alexander\",\"The mother reports that Juliana was condemned by a magistrate\"]},{\"episode_id\":\"ep_045\",\"revelation_id\":\"R1\",\"prerequisite_context\":[\"Alexander kneels before Juliana and unchains her\",\"Alexander identifies himself as Alexander Ashburton, the rightful Duke\"]}]}",
+  "schema": {
+    "$defs": {
+      "EpisodeOpportunity": {
+        "additionalProperties": false,
+        "properties": {
+          "scope": {
+            "const": "episode",
+            "title": "Scope",
+            "type": "string"
+          },
+          "local_id": {
+            "title": "Local Id",
+            "type": "string"
+          },
+          "episode_id": {
+            "title": "Episode Id",
+            "type": "string"
+          },
+          "concept": {
+            "title": "Concept",
+            "type": "string"
+          },
+          "hook_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Hook Refs",
+            "type": "array"
+          },
+          "ending_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Ending Refs",
+            "type": "array"
+          },
+          "context_refs": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Context Refs",
+            "type": "array"
+          },
+          "why_promising": {
+            "title": "Why Promising",
+            "type": "string"
+          }
+        },
+        "required": [
+          "scope",
+          "local_id",
+          "episode_id",
+          "concept",
+          "hook_refs",
+          "ending_refs",
+          "context_refs",
+          "why_promising"
+        ],
+        "title": "EpisodeOpportunity",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "opportunities": {
+        "items": {
+          "$ref": "#/$defs/EpisodeOpportunity"
+        },
+        "title": "Opportunities",
+        "type": "array"
+      }
+    },
+    "required": [
+      "opportunities"
+    ],
+    "title": "EpisodeDiscovery",
+    "type": "object"
+  },
+  "state": "complete",
+  "output": {
+    "opportunities": [
+      {
+        "scope": "episode",
+        "local_id": "ep020_opp1",
+        "episode_id": "ep_020",
+        "concept": "Catherine's sharp taunt over tea leads into Rupert's claim that the title will be his once Alexander's death is sealed.",
+        "hook_refs": [
+          "EP20:E4"
+        ],
+        "ending_refs": [
+          "EP20:E16"
+        ],
+        "context_refs": [
+          "EP20:E3"
+        ],
+        "why_promising": "The hook is a pointed taunt that lands within the first seconds. The ending line 'the title is mine' is a open-ended claim whose outcome is unresolved (q1, q2). The span from hook start 4600ms to ending end 25400ms is 20800ms and sits inside coverage 0-39200."
+      },
+      {
+        "scope": "episode",
+        "local_id": "ep020_opp2",
+        "episode_id": "ep_020",
+        "concept": "Catherine rejects a merely 'practical' Duke, and the pair's talk of the Dowager's decline ends on an unresolved question.",
+        "hook_refs": [
+          "EP20:E11"
+        ],
+        "ending_refs": [
+          "EP20:E25"
+        ],
+        "context_refs": [
+          "EP20:E9"
+        ],
+        "why_promising": "The hook is a self-contained, cutting line that works as a clip opener. The ending asks how much longer the frail Dowager can survive, which leaves the conspiracy open (q3). The span from hook 15400ms to ending end 39100ms is 23700ms, and the whole clip stays inside coverage 0-39200. Context E9 falls within the clip, which starts at 12800ms."
+      },
+      {
+        "scope": "episode",
+        "local_id": "ep020_opp3",
+        "episode_id": "ep_020",
+        "concept": "In the barn, Juliana refuses to stop working while lung fever spreads through the valley, and closes on her defiant 'not finished' line.",
+        "hook_refs": [
+          "EP20:E41"
+        ],
+        "ending_refs": [
+          "EP20:E53"
+        ],
+        "context_refs": [
+          "EP20:E39"
+        ],
+        "why_promising": "The hook states the stakes directly and is understandable once Seamus reaches for the basket. The ending 'And I am not finished' is an open defiant beat that leaves her remedies unproven (q4). The span from hook 66700ms to ending end 88000ms is 21300ms, and the whole span sits inside coverage 39300-114750."
+      },
+      {
+        "scope": "episode",
+        "local_id": "ep020_opp4",
+        "episode_id": "ep_020",
+        "concept": "Catherine's cruel dismissal of the peasants leads into the pair's plan for Ashbury, ending on a menacing cliffhanger hold at the window.",
+        "hook_refs": [
+          "EP20:E57"
+        ],
+        "ending_refs": [
+          "EP20:E68"
+        ],
+        "context_refs": [
+          "EP20:E55"
+        ],
+        "why_promising": "The hook is a cruel, quotable line that stands alone. The ending is a menacing cliffhanger hold on Catherine's ambition, which is unresolved. The span from hook 89900ms to ending end 114750ms is 24850ms and falls inside coverage 39300-114750. Context E55 falls within the clip, which starts at 88200ms."
+      }
+    ]
+  }
+}

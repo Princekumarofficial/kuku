@@ -1,0 +1,228 @@
+{
+  "episode_id": "ep_037",
+  "summary": "Episode ep_037 (EP37) spans four scenes: the conspirators Rupert and Catherine dispatch wedding invitations at Ashbridge Manor; Lady Clarissa and her husband read the invitation, which pairs the wedding with Juliana's execution as a warning; Juliana endures the dungeon and refuses to surrender; Clarissa and her husband discuss the execution in the parlor and the episode ends on a cello sting. Uncertainty: all claims rest only on on-screen event text EP37:E1 to EP37:E79. The metadata logline and continuity notes are not on-screen evidence and were not used for beats, characters or revelations, although they mention Alexander's vow to return in two days, which no event text shows. The second page of the invitation is shown only as being unfolded and read, so its full content is not visible. The speaker tag for Rupert reads 'BLOND NOBLEMAN [Rupert)' with a malformed bracket; identity is taken from the camera description. The nobleman and the butler are unnamed. The Ashcrofts are named only as invitation targets. Timestamps are integer milliseconds.",
+  "characters": [
+    {
+      "name": "Rupert",
+      "role": "Blond nobleman and co-conspirator orchestrating the transfer of Ashbridge"
+    },
+    {
+      "name": "Catherine",
+      "role": "Co-conspirator who becomes Lady Catherine Ashbridge through the wedding"
+    },
+    {
+      "name": "Juliana",
+      "role": "Imprisoned woman in the Ashbridge dungeon, scheduled for public execution, who refuses to surrender"
+    },
+    {
+      "name": "Lady Clarissa",
+      "role": "Noblewoman invitee who relishes the execution and frames it as a warning to women"
+    },
+    {
+      "name": "Nobleman",
+      "role": "Clarissa's dark-haired husband, unnamed, who reads the invitation and questions the execution"
+    },
+    {
+      "name": "Butler",
+      "role": "Servant who delivers the invitation tray at the noble manor, unnamed"
+    }
+  ],
+  "beats": [
+    {
+      "id": "b1",
+      "kind": "setup",
+      "event_refs": [
+        "EP37:E1",
+        "EP37:E2",
+        "EP37:E3",
+        "EP37:E4",
+        "EP37:E5",
+        "EP37:E6",
+        "EP37:E7",
+        "EP37:E8",
+        "EP37:E9",
+        "EP37:E10",
+        "EP37:E11",
+        "EP37:E12",
+        "EP37:E13",
+        "EP37:E14",
+        "EP37:E15",
+        "EP37:E16",
+        "EP37:E17",
+        "EP37:E18",
+        "EP37:E19",
+        "EP37:E20"
+      ],
+      "description": "Rupert and Catherine prepare wedding invitations, state the goal of the transfer of Ashbridge, link the wedding to Juliana's execution, and order the invitations sent, especially to the Ashcrofts.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b2",
+      "kind": "reveal",
+      "event_refs": [
+        "EP37:E21",
+        "EP37:E22",
+        "EP37:E23",
+        "EP37:E24",
+        "EP37:E25",
+        "EP37:E26",
+        "EP37:E27",
+        "EP37:E28",
+        "EP37:E29",
+        "EP37:E30",
+        "EP37:E31",
+        "EP37:E32",
+        "EP37:E33",
+        "EP37:E34",
+        "EP37:E35",
+        "EP37:E36",
+        "EP37:E37",
+        "EP37:E38",
+        "EP37:E39",
+        "EP37:E40",
+        "EP37:E41",
+        "EP37:E42",
+        "EP37:E43",
+        "EP37:E44",
+        "EP37:E45",
+        "EP37:E46",
+        "EP37:E47",
+        "EP37:E48"
+      ],
+      "description": "Clarissa receives the invitation, and the second page reveals a public execution after the wedding. Clarissa frames it as a warning to women who rise above their place and gloats that the families will watch.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b3",
+      "kind": "confrontation",
+      "event_refs": [
+        "EP37:E49",
+        "EP37:E50",
+        "EP37:E51",
+        "EP37:E52",
+        "EP37:E53",
+        "EP37:E54",
+        "EP37:E55",
+        "EP37:E56",
+        "EP37:E57",
+        "EP37:E58",
+        "EP37:E59",
+        "EP37:E60",
+        "EP37:E61",
+        "EP37:E62",
+        "EP37:E63"
+      ],
+      "description": "Juliana, starved and shackled in the dungeon, refuses the foul bowl and declares defiance: they will not make her beg or surrender, and they cannot take who she is.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b4",
+      "kind": "escalation",
+      "event_refs": [
+        "EP37:E64",
+        "EP37:E65",
+        "EP37:E66",
+        "EP37:E67",
+        "EP37:E68",
+        "EP37:E69",
+        "EP37:E70",
+        "EP37:E71",
+        "EP37:E72",
+        "EP37:E73",
+        "EP37:E74",
+        "EP37:E75",
+        "EP37:E76",
+        "EP37:E77",
+        "EP37:E78",
+        "EP37:E79"
+      ],
+      "description": "That night Clarissa and her husband discuss whether Juliana will be executed. Clarissa bitterly denounces Juliana's marriage and healing and vows the county will watch her pay. The open execution clause and an ominous cello sting close the episode on a cliffhanger.",
+      "intensity_0_10": 6.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "r1",
+      "event_refs": [
+        "EP37:E14",
+        "EP37:E36"
+      ],
+      "claim": "Juliana's execution is scheduled to follow the wedding ceremony.",
+      "spoiler_significance_0_10": 8.0,
+      "creates_questions": [
+        "Will Juliana's execution actually take place as scheduled?"
+      ]
+    },
+    {
+      "id": "r2",
+      "event_refs": [
+        "EP37:E8",
+        "EP37:E10"
+      ],
+      "claim": "The wedding is a means to transfer ownership of Ashbridge to the conspirators.",
+      "spoiler_significance_0_10": 7.0,
+      "creates_questions": [
+        "Can the conspirators actually complete the transfer of Ashbridge after the ceremony?"
+      ]
+    },
+    {
+      "id": "r3",
+      "event_refs": [
+        "EP37:E42",
+        "EP37:E46"
+      ],
+      "claim": "The public execution is meant as a warning to every woman who tries to rise above her assigned place.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "Who else is targeted by this warning?"
+      ]
+    },
+    {
+      "id": "r4",
+      "event_refs": [
+        "EP37:E74"
+      ],
+      "claim": "Juliana married a man considered a nobody, worked as a healer for peasants and challenged people above her.",
+      "spoiler_significance_0_10": 4.0,
+      "creates_questions": [
+        "Who is the nobody Juliana married and what was her challenge to those above her?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "Will Juliana be executed after the wedding, and will the execution go ahead?",
+      "introduced_by": [
+        "EP37:E14",
+        "EP37:E65",
+        "EP37:E67"
+      ]
+    },
+    {
+      "question": "Who is the woman Rupert says tried to stop the conspirators, beyond Juliana?",
+      "introduced_by": [
+        "EP37:E12"
+      ]
+    },
+    {
+      "question": "Will the Ashcrofts and other families attend the wedding and execution?",
+      "introduced_by": [
+        "EP37:E20",
+        "EP37:E38"
+      ]
+    },
+    {
+      "question": "What is the full content of the second page of the invitation?",
+      "introduced_by": [
+        "EP37:E31",
+        "EP37:E34"
+      ]
+    },
+    {
+      "question": "What does the open execution clause say, and who wrote it?",
+      "introduced_by": [
+        "EP37:E78"
+      ]
+    }
+  ]
+}

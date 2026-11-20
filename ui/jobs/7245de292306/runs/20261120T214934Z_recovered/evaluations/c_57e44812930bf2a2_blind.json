@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_57e44812930bf2a2",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP45:E58",
+      "EP45:E57"
+    ],
+    "reason": "The clip opens within 0-1700ms with a loud, echoing thud and a wide tracking shot of massive cathedral doors slamming open into daylight and mist. The sudden violent entrance creates immediate tension."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP45:E67",
+      "EP45:E70"
+    ],
+    "reason": "The clip ends with the High Priest declaring 'You are not Alexander Ashburton's lawful wife' while a Crown officer approaches with a drawn sword and Alexander shields Juliana. No outcome is shown, so the confrontation is unresolved at the end.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Identity and background of Alexander and Juliana beyond the title 'Duchess of Ashburton'",
+      "Meaning of 'Crown marriage license' and why the ceremony is considered invalid",
+      "Significance of the royal proclamation and red wax seals",
+      "Why the congregation is expected to bow and what the ceremony's stakes are",
+      "Role and authority of the High Priest and the Crown officer in this society",
+      "Whether the 'Catholic Bishop' in E59 is the same figure as the 'High Priest' in later lines"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The sudden entrance, the public accusation against the couple, the drawn sword and Alexander's protective posture create strong tension, shock and a sense of threatened love, even without full context."
+  },
+  "weaknesses": [
+    "Characters are named without introduction, so a first-time viewer cannot tell who they are or why they matter.",
+    "The 'Crown marriage license' and 'Royal Matrimonial Register' legal stakes are asserted but not explained.",
+    "The figure is labeled both 'Catholic Bishop' and 'High Priest', which is confusing.",
+    "The line 'No one will bow yet!' lacks referent and context.",
+    "Stakes of the sword threat are unclear because the officer's intent is not shown beyond approaching."
+  ],
+  "one_line_why_it_works": "A violent, cinematic entrance followed by a public legal accusation against a couple, ending with a drawn sword, creates immediate dramatic tension even though the backstory is not explained."
+}

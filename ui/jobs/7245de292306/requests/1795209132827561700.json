@@ -1,0 +1,184 @@
+{
+  "stage": "episode_analysis",
+  "system": "Analyze narrative beats, characters, revelations and unresolved questions. Only event text is on-screen evidence; metadata may describe unseen events. Use supplied EPxx:Ex aliases. Report uncertainty in the summary. A revelation's significance is not its spoiler damage.",
+  "user": "EP=ep_042; timestamps are integer milliseconds\nSOURCE_SHA256=338a2e4416e23ccbdd35fce7a7bef8fe67e442cb023bacc55ae9a3f512aca696\nMETADATA ONLY (not on-screen evidence): {'logline': 'Emerging from the smoke of the shattered cathedral gates in full ducal regalia, Alexander confronts Rupert, wins the loyalty of the royal guards, and is proclaimed the rightful Duke of Ashburn by his weeping mother.', 'continuity_notes': \"Directly follows Episode 41 where Alexander's forces breached the cathedral entrance; Alexander now steps through the ruins, halting the wedding and unmasking Rupert's illegitimate reign.\"}\nSOURCE WARNINGS=['sc_001: incomplete source coverage; gaps are unavailable']\nSCENE sc_001 0-77800 INT. CATHEDRAL – CONTINUOUS\nEP42:E1 0-10500 CAMERA: Low-angle shot through drifting smoke and rubble across the stone floor, tilting up as polished boots step over splintered wood, revealing an imposing nobleman in a gold-embroidered navy coat.\nEP42:E2 1000-10500 ACTION: Alexander strides deliberately through the pulverized cathedral doorway. Dressed in the regal ducal coat with gold braided cuffs and a lion crest, his scarred face is set with cold, unyielding authority.\nEP42:E3 11200-12600 BLOND NOBLEMAN [Shocked, Trembling]: \"Who are you?\"\nEP42:E4 12800-14600 ALEXANDER [Low, Resonant]: \"You already know.\"\nEP42:E5 14600-16600 CAMERA: Close-up on Juliana, her manacled hands clutching at her smock as tears well in her eyes.\nEP42:E6 15000-16400 JULIANA [Breathless, Tearful Whisper]: \"Alexander...\"\nEP42:E7 16600-17900 CAMERA: Close-up on Alexander, his gaze softening momentarily toward her.\nEP42:E8 16800-17900 ALEXANDER [Gentle, Reassuring]: \"Juliana.\"\nEP42:E9 17900-21500 CAMERA: Medium shot of Rupert descending the altar steps, furiously pointing toward Alexander.\nEP42:E10 18000-21200 BLOND NOBLEMAN [Furious, Hysterical]: \"Guards! Arrest this imposter!\"\nEP42:E11 21500-23400 CAMERA: Medium shot of the royal guardsman standing rigidly in red uniform and bearskin cap, resting his white-gloved hand on his sabre.\nEP42:E12 22000-23400 ROYAL GUARD [Stoic, Defiant]: \"We will not.\"\nEP42:E13 23400-26500 CAMERA: Close-up on Rupert, veins bulging in his neck as his composure shatters.\nEP42:E14 23500-25200 BLOND NOBLEMAN [Screaming, Outraged]: \"I said arrest him!\"\nEP42:E15 25500-26500 BLOND NOBLEMAN [Desperate, Unhinged]: \"Why?!\"\nEP42:E16 26500-28800 CAMERA: Close-up on the Royal Guard holding his upright blade with unwavering conviction.\nEP42:E17 26700-28800 ROYAL GUARD [Firm, Reverent]: \"Because we know who he is.\"\nEP42:E18 28800-30400 CAMERA: Medium shot of Catherine clutching her father's arm, her bridal bouquet drooping as panic seizes her face.\nEP42:E19 29000-30300 CATHERINE [Trembling, Apprehensive]: \"Rupert...\"\nEP42:E20 30400-33800 CAMERA: Medium close-up of Rupert gripping the edge of a pew for balance, his eyes wild with terror.\nEP42:E21 30500-33800 BLOND NOBLEMAN [Denial, Shaken]: \"You cannot be him. Alexander died!\"\nEP42:E22 33800-39900 CAMERA: Wide tracking shot behind Alexander as he advances down the center aisle, silhouetted against the ruins of the cathedral nave.\nEP42:E23 34000-39800 ALEXANDER [Cold, Commanding]: \"And yet, here I stand. That is the lie you built your life upon.\"\nEP42:E24 39900-44800 CAMERA: Medium shot of an elderly silver-haired woman in simple ivory robes stepping into the aisle, her hands outstretched in trembling awe.\nEP42:E25 40200-42500 ALEXANDER'S MOTHER [Choked with Tears]: \"Alexander...\"\nEP42:E26 44800-48000 ACTION: Alexander halts his march as his mother reaches him, placing her frail hands gently upon his chest.\nEP42:E27 48000-49000 ALEXANDER [Soft, Reverent]: \"Mother.\"\nEP42:E28 49000-54000 ACTION: His mother gently cradles Alexander's scarred cheek, tears streaming down her face as guests in the background watch in stunned silence.\nEP42:E29 49200-53800 ALEXANDER'S MOTHER [Overcome, Loving]: \"Look at you... my beautiful boy.\"\nEP42:E30 54000-63500 CAMERA: Medium two-shot framed down the ruined nave between Alexander and his mother.\nEP42:E31 54000-61800 ALEXANDER'S MOTHER [Tearful, Proud]: \"I saw you again... but seeing you like this... I see my son as he was always meant to be.\"\nEP42:E32 62000-64000 ALEXANDER [Tender, Resolute]: \"I have come home, Mother.\"\nEP42:E33 64000-72500 ACTION: Alexander's mother turns toward the gathered nobility and guards, raising her chin and pointing proudly toward Alexander.\nEP42:E34 64200-72400 ALEXANDER'S MOTHER [Ringing, Authoritative]: \"Let everyone hear me! This is my son... Alexander Ashburn. The rightful Duke of Ashburn!\"\nEP42:E35 72500-73800 CAMERA: Medium shot of Rupert cowering on the altar steps beside Catherine and her father, utterly defeated.\nEP42:E36 73800-77800 CAMERA: Tight close-up on Alexander, his hand resting on the hilt of his sabre as his eyes burn with fierce, cold retribution.\nEP42:E37 73800-77500 ALEXANDER [Grim, Vengeful]: \"And now, Rupert... we settle what you stole.\"",
+  "schema": {
+    "$defs": {
+      "Beat": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "kind": {
+            "title": "Kind",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "description": {
+            "title": "Description",
+            "type": "string"
+          },
+          "intensity_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Intensity 0 10",
+            "type": "number"
+          }
+        },
+        "required": [
+          "id",
+          "kind",
+          "event_refs",
+          "description",
+          "intensity_0_10"
+        ],
+        "title": "Beat",
+        "type": "object"
+      },
+      "Character": {
+        "additionalProperties": false,
+        "properties": {
+          "name": {
+            "title": "Name",
+            "type": "string"
+          },
+          "role": {
+            "title": "Role",
+            "type": "string"
+          }
+        },
+        "required": [
+          "name",
+          "role"
+        ],
+        "title": "Character",
+        "type": "object"
+      },
+      "Question": {
+        "additionalProperties": false,
+        "properties": {
+          "question": {
+            "title": "Question",
+            "type": "string"
+          },
+          "introduced_by": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Introduced By",
+            "type": "array"
+          }
+        },
+        "required": [
+          "question",
+          "introduced_by"
+        ],
+        "title": "Question",
+        "type": "object"
+      },
+      "Revelation": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "claim": {
+            "title": "Claim",
+            "type": "string"
+          },
+          "spoiler_significance_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Spoiler Significance 0 10",
+            "type": "number"
+          },
+          "creates_questions": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Creates Questions",
+            "type": "array"
+          }
+        },
+        "required": [
+          "id",
+          "event_refs",
+          "claim",
+          "spoiler_significance_0_10",
+          "creates_questions"
+        ],
+        "title": "Revelation",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "episode_id": {
+        "title": "Episode Id",
+        "type": "string"
+      },
+      "summary": {
+        "title": "Summary",
+        "type": "string"
+      },
+      "characters": {
+        "items": {
+          "$ref": "#/$defs/Character"
+        },
+        "title": "Characters",
+        "type": "array"
+      },
+      "beats": {
+        "items": {
+          "$ref": "#/$defs/Beat"
+        },
+        "title": "Beats",
+        "type": "array"
+      },
+      "revelations": {
+        "items": {
+          "$ref": "#/$defs/Revelation"
+        },
+        "title": "Revelations",
+        "type": "array"
+      },
+      "unresolved_questions": {
+        "items": {
+          "$ref": "#/$defs/Question"
+        },
+        "title": "Unresolved Questions",
+        "type": "array"
+      }
+    },
+    "required": [
+      "episode_id",
+      "summary",
+      "characters",
+      "beats",
+      "revelations",
+      "unresolved_questions"
+    ],
+    "title": "EpisodeAnalysis",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

@@ -1,0 +1,184 @@
+{
+  "stage": "episode_analysis",
+  "system": "Analyze narrative beats, characters, revelations and unresolved questions. Only event text is on-screen evidence; metadata may describe unseen events. Use supplied EPxx:Ex aliases. Report uncertainty in the summary. A revelation's significance is not its spoiler damage.",
+  "user": "EP=ep_008; timestamps are integer milliseconds\nSOURCE_SHA256=e2482244be533ae60b42cae3032208cf0bede3b2427639797a6323995dafeccb\nMETADATA ONLY (not on-screen evidence): {'logline': \"As Juliana inspects her late mother's weathered herbal grimoire, Alexander bonds with her over rustic medicinal knowledge and war-worn memories, gently altering her perception of what true wealth means.\", 'continuity_notes': 'Picks up after Episode 7, where Alexander chased off Gerald and the mocking aristocratic visitors; quiet and intimacy now return inside the woodland cottage as evening approaches.'}\nSOURCE WARNINGS=[]\nSCENE sc_001 0-78000 INT. WOODLAND COTTAGE – DAY\nEP08:E1 0-3200 CAMERA: Medium close-up of Juliana seated at a rustic wooden table beside a daylight-lit window, gently touching an aged leather-bound book.\nEP08:E2 0-3200 ACTION: Juliana delicately runs her fingertips across the embossed leather cover of the worn botanical volume, noticing its weathered state.\nEP08:E3 200-3200 JULIANA [Gentle, Somber]: \"Some of the pages are ruined. Careful.\"\nEP08:E4 3200-5100 CAMERA: Close-up on Juliana's hands carefully unlatching the metal clasp on the leather book.\nEP08:E5 3400-4500 SOUND: Soft metallic click of the book clasp loosening.\nEP08:E6 5100-7800 CAMERA: Medium close-up of Juliana tenderly opening the cover and turning the brittle parchment pages.\nEP08:E7 5100-7800 JULIANA [Reflective, Reverent]: \"Mother spent years writing this.\"\nEP08:E8 7800-10500 CAMERA: Medium shot as Alexander enters the dim room behind Juliana, quietly stepping up to the rustic table.\nEP08:E9 8500-10500 ACTION: Alexander gently sets down a fresh bundle of small white herbal flowers tied with twine beside the open book.\nEP08:E10 10500-11900 CAMERA: Low-angle medium close-up of Juliana looking up toward Alexander in pleasant surprise.\nEP08:E11 10500-11800 JULIANA [Curious, Recognizing]: \"Yarrow.\"\nEP08:E12 11900-15000 CAMERA: Close-up of Alexander looking down at her, the firelight catching the rugged scar across his face.\nEP08:E13 12000-14600 ALEXANDER [Calm, Knowledgeable]: \"Good for wounds. Fever, too.\"\nEP08:E14 15000-16300 CAMERA: Medium close-up of Juliana looking up at him with genuine curiosity.\nEP08:E15 15100-16100 JULIANA [Inquiring, Soft]: \"How do you know that?\"\nEP08:E16 16300-19300 CAMERA: Close-up of Alexander speaking in a steady, measured tone.\nEP08:E17 16300-18900 ALEXANDER [Somber, Matter-of-Fact]: \"Soldiers learn quickly which plants keep a man alive.\"\nEP08:E18 19300-21500 CAMERA: Insert shot of Juliana's hands gently arranging several tied bundles of dried yarrow sprigs on the tabletop.\nEP08:E19 19400-21800 JULIANA [Observant, Lightly Teasing]: \"You know more about healing than you let on.\"\nEP08:E20 21500-24300 CAMERA: Close-up of Alexander, bathed in warm hearth embers, offering a subtle, knowing half-smile.\nEP08:E21 22800-24200 ALEXANDER [Quiet, Gritty]: \"Enough to survive.\"\nEP08:E22 24300-26500 CAMERA: Medium close-up of Juliana setting down a bunch of flowers and looking intently at his rugged visage.\nEP08:E23 25000-26800 JULIANA [Hesitant, Soft]: \"Your hair and beard...\"\nEP08:E24 26500-28100 CAMERA: Medium shot of Alexander standing tall over her, looking down patiently.\nEP08:E25 28100-31900 CAMERA: Medium two-shot as Juliana rises from her stool to stand close in front of him, reaching an affectionate hand toward his temple.\nEP08:E26 30100-31900 JULIANA [Gentle, Tender]: \"I could trim them for you.\"\nEP08:E27 31900-33200 CAMERA: Close-up of Alexander's large, rough hand firmly but gently catching Juliana's wrist in midair.\nEP08:E28 33200-35500 CAMERA: Medium two-shot profile of Alexander holding her wrist, his piercing gaze locked onto hers.\nEP08:E29 33200-34500 ALEXANDER [Firm, Low]: \"Not yet.\"\nEP08:E30 35500-37300 CAMERA: Close-up of Juliana looking into his eyes, her brow lightly furrowed in bemused question.\nEP08:E31 35800-36900 JULIANA [Puzzled, Curious]: \"Not yet?\"\nEP08:E32 37300-39600 CAMERA: Close-up of Alexander, still maintaining his gentle hold on her arm.\nEP08:E33 37700-38900 ALEXANDER [Grounded, Steady]: \"Let them grow.\"\nEP08:E34 39600-42300 CAMERA: Close-up of Juliana smiling with playful warmth.\nEP08:E35 39900-42000 JULIANA [Playful, Amused]: \"You prefer looking like a forest hermit?\"\nEP08:E36 42300-44900 CAMERA: Intimate two-shot as Alexander slowly lowers her hand, his expression softening.\nEP08:E37 43700-44900 ALEXANDER [Dry, Droll]: \"It has advantages.\"\nEP08:E38 44900-46900 CAMERA: Medium shot of Juliana chuckling quietly as she steps back toward the table.\nEP08:E39 45500-46800 JULIANA [Fond, Resigned]: \"Very well.\"\nEP08:E40 46900-48000 CAMERA: Close-up of Alexander watching her with deep, affectionate attention.\nEP08:E41 48000-50000 CAMERA: Close-up of Juliana grinning with sparkling eyes.\nEP08:E42 48100-49600 JULIANA [Teasing, Determined]: \"But one day, I am trimming that beard.\"\nEP08:E43 50000-51300 CAMERA: Close-up of Alexander lowering his head slightly with a faint smirk.\nEP08:E44 50100-51200 ALEXANDER [Low, Amused]: \"We'll see.\"\nEP08:E45 51300-53300 CAMERA: Medium two-shot of both sitting back down at the table together, Alexander turning a brittle page of the herb book.\nEP08:E46 53300-57100 CAMERA: Close-up insert of Alexander's weathered finger pointing directly at a delicate botanical illustration of a flowering stem.\nEP08:E47 53300-57000 ALEXANDER [Instructional, Calm]: \"That one grows near the northern stream. Crushed leaves ease swelling.\"\nEP08:E48 57100-59800 CAMERA: Wide side-profile two-shot of Juliana and Alexander seated across from each other at the rustic table, the stone fireplace roaring warmly behind them.\nEP08:E49 58700-60200 JULIANA [Soft, Nostalgic]: \"My mother wrote the same thing.\"\nEP08:E50 59800-63000 CAMERA: Close-up of Juliana looking across at his battle-marked features with empathy.\nEP08:E51 60500-62800 JULIANA [Hesitant, Compassionate]: \"And the scars... were they from the war?\"\nEP08:E52 63000-64300 CAMERA: Close-up of Alexander looking downward, memories clouding his eyes.\nEP08:E53 63200-64200 ALEXANDER [Quiet, Subdued]: \"Some were.\"\nEP08:E54 64300-66500 CAMERA: Close-up of Juliana, her eyes filled with gentle understanding.\nEP08:E55 64900-66300 JULIANA [Tender, Aching]: \"It must have been terrible.\"\nEP08:E56 66500-68500 CAMERA: Close-up of Alexander lifting his gaze, heavy with past battles.\nEP08:E57 66700-67600 ALEXANDER [Heavy, Somber]: \"It was.\"\nEP08:E58 68500-70900 CAMERA: Medium two-shot of Juliana smiling tenderly at him across the open book.\nEP08:E59 69000-72100 JULIANA [Reflective, Vulnerable]: \"I thought losing wealth meant losing everything.\"\nEP08:E60 70900-73200 CAMERA: Wide shot framing the warm silhouette of the two companions sitting peacefully beside the blazing stone hearth.\nEP08:E61 73200-78000 CAMERA: Extreme close-up of Juliana's radiant face illuminated by firelight, a peaceful, contented smile spreading across her lips as she looks at him until the shot gently fades out.\nEP08:E62 73200-75300 JULIANA [Quiet, Transformed]: \"Perhaps I was wrong.\"\nEP08:E63 75300-78000 ACTION: Juliana maintains her warm, peaceful gaze across the table as soft firelight flickers over her face into fade out.",
+  "schema": {
+    "$defs": {
+      "Beat": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "kind": {
+            "title": "Kind",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "description": {
+            "title": "Description",
+            "type": "string"
+          },
+          "intensity_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Intensity 0 10",
+            "type": "number"
+          }
+        },
+        "required": [
+          "id",
+          "kind",
+          "event_refs",
+          "description",
+          "intensity_0_10"
+        ],
+        "title": "Beat",
+        "type": "object"
+      },
+      "Character": {
+        "additionalProperties": false,
+        "properties": {
+          "name": {
+            "title": "Name",
+            "type": "string"
+          },
+          "role": {
+            "title": "Role",
+            "type": "string"
+          }
+        },
+        "required": [
+          "name",
+          "role"
+        ],
+        "title": "Character",
+        "type": "object"
+      },
+      "Question": {
+        "additionalProperties": false,
+        "properties": {
+          "question": {
+            "title": "Question",
+            "type": "string"
+          },
+          "introduced_by": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Introduced By",
+            "type": "array"
+          }
+        },
+        "required": [
+          "question",
+          "introduced_by"
+        ],
+        "title": "Question",
+        "type": "object"
+      },
+      "Revelation": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "claim": {
+            "title": "Claim",
+            "type": "string"
+          },
+          "spoiler_significance_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Spoiler Significance 0 10",
+            "type": "number"
+          },
+          "creates_questions": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Creates Questions",
+            "type": "array"
+          }
+        },
+        "required": [
+          "id",
+          "event_refs",
+          "claim",
+          "spoiler_significance_0_10",
+          "creates_questions"
+        ],
+        "title": "Revelation",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "episode_id": {
+        "title": "Episode Id",
+        "type": "string"
+      },
+      "summary": {
+        "title": "Summary",
+        "type": "string"
+      },
+      "characters": {
+        "items": {
+          "$ref": "#/$defs/Character"
+        },
+        "title": "Characters",
+        "type": "array"
+      },
+      "beats": {
+        "items": {
+          "$ref": "#/$defs/Beat"
+        },
+        "title": "Beats",
+        "type": "array"
+      },
+      "revelations": {
+        "items": {
+          "$ref": "#/$defs/Revelation"
+        },
+        "title": "Revelations",
+        "type": "array"
+      },
+      "unresolved_questions": {
+        "items": {
+          "$ref": "#/$defs/Question"
+        },
+        "title": "Unresolved Questions",
+        "type": "array"
+      }
+    },
+    "required": [
+      "episode_id",
+      "summary",
+      "characters",
+      "beats",
+      "revelations",
+      "unresolved_questions"
+    ],
+    "title": "EpisodeAnalysis",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

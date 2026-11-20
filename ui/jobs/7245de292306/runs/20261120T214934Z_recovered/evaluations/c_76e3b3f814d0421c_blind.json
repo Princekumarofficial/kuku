@@ -1,0 +1,45 @@
+{
+  "candidate_id": "c_76e3b3f814d0421c",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP44:E8",
+      "EP44:E7"
+    ],
+    "reason": "The opening within 0-3000ms establishes tension through a constable's flat claim 'I have more than enough' and a red-ribboned, Crown-sealed dossier. The stakes are clear, but the dossier's purpose is unexplained, so the hook depends on curiosity rather than context."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP44:E36",
+      "EP44:E37"
+    ],
+    "reason": "The final 3000ms end on Alexander's flat 'You were never my Duchess.' after Catherine's 'You don't remember?' and 'I was supposed to be your Duchess!'. The question of why he does not remember, the dossier's contents, and Rupert's fate all remain open, so the clip does not resolve. The confrontation itself is intense but the open threads drive the unresolved rating.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Identity and history of Alexander, including why he is a duke and why Catherine believed him dead",
+      "Why Catherine says she mourned and waited for him for three years",
+      "What the Crown's dossier contains and why it matters",
+      "Who Rupert is and his relationship to Catherine and Alexander",
+      "Who Lord Sterling is and his role in the events",
+      "What Alexander is supposed to remember and why he does not",
+      "Who the blond nobleman addressing 'Catherine!' and 'Do something!' is"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Catherine's grief, tears, trembling hand and the rejected touch give strong, visible emotional stakes. Alexander's detachment creates a sharp contrast, and her 'I was supposed to be your Duchess!' conveys betrayal. The emotion is clear even without full context."
+  },
+  "weaknesses": [
+    "Heavy reliance on unexplained names and events makes the scene hard to follow for a first-time viewer",
+    "The dossier is introduced and never explained, so its role in the conflict is unclear",
+    "Rupert's situation is shown but his stake in the confrontation is never stated",
+    "Several segments have overlapping timestamps (e.g., E9 and E10, E11 and E12), making the sequence of actions hard to pin down",
+    "Alexander's amnesia is implied through dialogue alone, without establishing what he has forgotten",
+    "Ending is emotionally strong but leaves the central conflict unexplained, which may frustrate viewers who want resolution"
+  ],
+  "one_line_why_it_works": "A tense courtroom-style standoff gives way to a raw emotional confrontation in which a jilted bride's grief collides with a man who seems to have forgotten her, and the clip ends on a line that leaves the conflict open."
+}

@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_da374667ed694c0d",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP36:E63",
+      "EP36:E64",
+      "EP36:E66"
+    ],
+    "reason": "The clip opens inside a sudden, shocked confrontation, and the accusation that Rupert and Catherine accused her of poisoning him lands within the first 3000ms, so a viewer is pulled in quickly. The hook is weakened because the people and stakes are not yet explained."
+  },
+  "cliffhanger": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP36:E83",
+      "EP36:E85"
+    ],
+    "reason": "The clip ends on a death sentence with Alexander's reaction cut off after a denial. The outcome of the execution is not shown, so the ending is unresolved rather than an intense but resolved scene.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Juliana is and her relationship to Alexander",
+      "What the poisoning accusation refers to and whether Alexander was poisoned",
+      "Who Rupert and Catherine are",
+      "What the kangaroo court was and why Juliana was called a witch",
+      "Why Alexander's face is scarred",
+      "What the magistrate's ruling means legally and whether any appeal exists"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 9.0,
+    "reason": "Grief, shock, fury and terror escalate steadily through the clip, and the mother's breakdown and the execution sentence carry strong emotional weight even for a viewer without context."
+  },
+  "weaknesses": [
+    "Key characters and their relationships are never introduced, so the viewer cannot tell who matters to whom.",
+    "Much of the plot is delivered through the mother's exposition, which feels like backstory dumped in dialogue.",
+    "The stakes are clear emotionally but the accusation and trial history are opaque to a first-time viewer.",
+    "Alexander's reaction to the execution sentence is cut short, so the emotional payoff of the final beat is limited."
+  ],
+  "one_line_why_it_works": "It moves from shock to fury to a death sentence in quick, escalating beats, so the viewer feels the urgency even without knowing the backstory."
+}

@@ -1,0 +1,861 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "ep_007",
+  "episode_number": 7,
+  "metadata": {
+    "logline": "When Gerald and his spiteful companion arrive at the woodland cottage to mock Juliana's fallen status, her stoic new husband returns from the forest to silently send them fleeing.",
+    "continuity_notes": "Follows Episode 6, where Juliana found refuge and warmth beside the hearth with her mysterious husband; morning brings unwelcome visitors from her former life to their humble doorstep."
+  },
+  "source": {
+    "file": "006_episode-007-Episode 1671709.txt",
+    "sha256": "d6125d1e308e9ea7993e1e22a4452e1f940bc384a13b621acdb5b3709bf96494",
+    "complete": false
+  },
+  "scenes": [
+    {
+      "start_ms": 0,
+      "end_ms": 69500,
+      "id": "sc_001",
+      "heading": "EXT. WOODLAND COTTAGE - DAY"
+    },
+    {
+      "start_ms": 69500,
+      "end_ms": 75500,
+      "id": "sc_002",
+      "heading": "EXT. FOREST PATH - CONTINUOUS"
+    },
+    {
+      "start_ms": 75500,
+      "end_ms": 116000,
+      "id": "sc_003",
+      "heading": "EXT. WOODLAND COTTAGE - CONTINUOUS"
+    }
+  ],
+  "events": [
+    {
+      "start_ms": 0,
+      "end_ms": 4800,
+      "id": "e_001",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Juliana kneeling on the cold, damp ground outside the stone cottage, pulling weeds from the dirt with her bare hands.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        14,
+        16
+      ]
+    },
+    {
+      "start_ms": 0,
+      "end_ms": 4800,
+      "id": "e_002",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana, dressed in her simple grey long-sleeved gown, works tirelessly with soil caked beneath her fingernails.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        18,
+        20
+      ]
+    },
+    {
+      "start_ms": 4800,
+      "end_ms": 11800,
+      "id": "e_003",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle tracking shot as an ornate black-and-gold carriage with crest emblazoned on the door rolls to a stop on the muddy path outside the gate.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        22,
+        24
+      ]
+    },
+    {
+      "start_ms": 5000,
+      "end_ms": 11500,
+      "id": "e_004",
+      "scene_id": "sc_001",
+      "type": "sound",
+      "text": "Heavy carriage wheels grinding in mud, horse snorts, and rhythmic hoofbeats halting.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        26,
+        28
+      ]
+    },
+    {
+      "start_ms": 11800,
+      "end_ms": 15000,
+      "id": "e_005",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot as Aristocratic Woman steps out of the carriage into the misty air, shielding herself under an intricate lace parasol in an elegant lavender gown.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        30,
+        32
+      ]
+    },
+    {
+      "start_ms": 15000,
+      "end_ms": 19500,
+      "id": "e_006",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Gerald steps down from the carriage behind her, looking immaculate in a high-collared navy frock coat, white waistcoat, and dark cravat.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        34,
+        36
+      ]
+    },
+    {
+      "start_ms": 19500,
+      "end_ms": 21000,
+      "id": "e_007",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Aristocratic Woman smirks cruelly as she surveys the humble stone cottage.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        38,
+        40
+      ]
+    },
+    {
+      "start_ms": 21000,
+      "end_ms": 24000,
+      "id": "e_008",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana rinses the heavy mud from her hands in a cold rainwater puddle and rises to her feet, holding her head high.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        42,
+        44
+      ]
+    },
+    {
+      "start_ms": 22000,
+      "end_ms": 24500,
+      "id": "e_009",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"This is where you live now?\"",
+      "speaker": "ARISTOCRATIC WOMAN",
+      "delivery": "Mocking, Condescending",
+      "source_lines": [
+        46,
+        48
+      ]
+    },
+    {
+      "start_ms": 24500,
+      "end_ms": 29800,
+      "id": "e_010",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Gerald standing beside Aristocratic Woman, sneering disdainfully.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        50,
+        52
+      ]
+    },
+    {
+      "start_ms": 25000,
+      "end_ms": 29800,
+      "id": "e_011",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"A fitting home for a woman who threw away everything for a penniless soldier.\"",
+      "speaker": "GERALD",
+      "delivery": "Arrogant, Scornful",
+      "source_lines": [
+        54,
+        56
+      ]
+    },
+    {
+      "start_ms": 29800,
+      "end_ms": 32800,
+      "id": "e_012",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Juliana, defiant and unflinching despite her soiled dress and damp hair.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        58,
+        60
+      ]
+    },
+    {
+      "start_ms": 30000,
+      "end_ms": 32600,
+      "id": "e_013",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You came all this way just to insult my home?\"",
+      "speaker": "JULIANA",
+      "delivery": "Sharp, Unintimidated",
+      "source_lines": [
+        62,
+        64
+      ]
+    },
+    {
+      "start_ms": 32800,
+      "end_ms": 37500,
+      "id": "e_014",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Aristocratic Woman erupting into high-pitched, malicious laughter beneath her parasol.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        66,
+        68
+      ]
+    },
+    {
+      "start_ms": 33200,
+      "end_ms": 37800,
+      "id": "e_015",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Home? Look at your hands, Juliana.\"",
+      "speaker": "ARISTOCRATIC WOMAN",
+      "delivery": "Gloating, Mocking",
+      "source_lines": [
+        70,
+        72
+      ]
+    },
+    {
+      "start_ms": 37800,
+      "end_ms": 39800,
+      "id": "e_016",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana's mud-stained palms held open against her apron.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        74,
+        76
+      ]
+    },
+    {
+      "start_ms": 38200,
+      "end_ms": 39800,
+      "id": "e_017",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You look like a servant.\"",
+      "speaker": "ARISTOCRATIC WOMAN",
+      "delivery": "O.S.) (Cruel",
+      "source_lines": [
+        78,
+        80
+      ]
+    },
+    {
+      "start_ms": 39800,
+      "end_ms": 41000,
+      "id": "e_018",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Gerald's smug expression watching Juliana.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        82,
+        84
+      ]
+    },
+    {
+      "start_ms": 41000,
+      "end_ms": 45000,
+      "id": "e_019",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Juliana lifting her chin with unwavering dignity.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        86,
+        88
+      ]
+    },
+    {
+      "start_ms": 41200,
+      "end_ms": 44800,
+      "id": "e_020",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I work with my hands. There is no shame in that.\"",
+      "speaker": "JULIANA",
+      "delivery": "Proud, Resolute",
+      "source_lines": [
+        90,
+        92
+      ]
+    },
+    {
+      "start_ms": 45000,
+      "end_ms": 47000,
+      "id": "e_021",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on Gerald's tightening jaw.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        94,
+        96
+      ]
+    },
+    {
+      "start_ms": 45200,
+      "end_ms": 46800,
+      "id": "e_022",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You were born a lady.\"",
+      "speaker": "GERALD",
+      "delivery": "Biting, Condescending",
+      "source_lines": [
+        98,
+        100
+      ]
+    },
+    {
+      "start_ms": 47000,
+      "end_ms": 50800,
+      "id": "e_023",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on Juliana's clear blue eyes, shining with unbroken pride.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        102,
+        104
+      ]
+    },
+    {
+      "start_ms": 48800,
+      "end_ms": 50400,
+      "id": "e_024",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"And I remain one.\"",
+      "speaker": "JULIANA",
+      "delivery": "Firm, Unapologetic",
+      "source_lines": [
+        106,
+        108
+      ]
+    },
+    {
+      "start_ms": 50800,
+      "end_ms": 54800,
+      "id": "e_025",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Wide shot framing Juliana facing off against Gerald and Aristocratic Woman in the bleak courtyard.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        110,
+        112
+      ]
+    },
+    {
+      "start_ms": 51500,
+      "end_ms": 54600,
+      "id": "e_026",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You chose that scarred beggar over a life of comfort.\"",
+      "speaker": "GERALD",
+      "delivery": "Bitter, Sneering",
+      "source_lines": [
+        114,
+        116
+      ]
+    },
+    {
+      "start_ms": 54800,
+      "end_ms": 61500,
+      "id": "e_027",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Two-shot profile of Juliana looking straight into Gerald's eyes without flinching.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        118,
+        120
+      ]
+    },
+    {
+      "start_ms": 57800,
+      "end_ms": 61000,
+      "id": "e_028",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I chose a man who stood beside me when you walked away.\"",
+      "speaker": "JULIANA",
+      "delivery": "Passionate, Defiant",
+      "source_lines": [
+        122,
+        124
+      ]
+    },
+    {
+      "start_ms": 61500,
+      "end_ms": 65200,
+      "id": "e_029",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Intense close-up of Juliana dismissing him with utter contempt.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        126,
+        128
+      ]
+    },
+    {
+      "start_ms": 61800,
+      "end_ms": 64800,
+      "id": "e_030",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You have no authority here. Leave.\"",
+      "speaker": "JULIANA",
+      "delivery": "Cold, Commanding",
+      "source_lines": [
+        130,
+        132
+      ]
+    },
+    {
+      "start_ms": 65200,
+      "end_ms": 69500,
+      "id": "e_031",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Gerald lunging forward, aggressively pointing his finger into Juliana's face.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        134,
+        136
+      ]
+    },
+    {
+      "start_ms": 65600,
+      "end_ms": 68500,
+      "id": "e_032",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I have enough influence to make a beggar disappear.\"",
+      "speaker": "GERALD",
+      "delivery": "Furious, Threatening",
+      "source_lines": [
+        138,
+        140
+      ]
+    },
+    {
+      "start_ms": 68600,
+      "end_ms": 69500,
+      "id": "e_033",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"And your husband?\"",
+      "speaker": "GERALD",
+      "delivery": "Spiteful, Boastful",
+      "source_lines": [
+        142,
+        144
+      ]
+    },
+    {
+      "start_ms": 69500,
+      "end_ms": 74000,
+      "id": "e_034",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Wide shot down a dark, fog-drenched forest path. A towering, shadowed figure walks steadily forward through the mist.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        153,
+        155
+      ]
+    },
+    {
+      "start_ms": 69500,
+      "end_ms": 71200,
+      "id": "e_035",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Where is that beggar husband?\"",
+      "speaker": "GERALD",
+      "delivery": "V.O.) (Snarl",
+      "source_lines": [
+        157,
+        159
+      ]
+    },
+    {
+      "start_ms": 70000,
+      "end_ms": 75500,
+      "id": "e_036",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "The Scarred Bearded Man marches purposefully toward the cottage, carrying a heavy bundle of chopped firewood bound tightly with hemp cord.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        161,
+        163
+      ]
+    },
+    {
+      "start_ms": 74000,
+      "end_ms": 75500,
+      "id": "e_037",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium tracking shot pushing in on the Scarred Bearded Man's stern, rugged face as he approaches the gate.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        165,
+        167
+      ]
+    },
+    {
+      "start_ms": 75500,
+      "end_ms": 78500,
+      "id": "e_038",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Low shot of the Scarred Bearded Man bending down and dropping the bundle of logs by the stone wall.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        176,
+        178
+      ]
+    },
+    {
+      "start_ms": 76200,
+      "end_ms": 77500,
+      "id": "e_039",
+      "scene_id": "sc_003",
+      "type": "sound",
+      "text": "A dull, heavy thud of timber striking the mud.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        180,
+        182
+      ]
+    },
+    {
+      "start_ms": 78500,
+      "end_ms": 81000,
+      "id": "e_040",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Medium full shot as the Scarred Bearded Man straightens to his full imposing height and steps directly toward Gerald.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        184,
+        186
+      ]
+    },
+    {
+      "start_ms": 81000,
+      "end_ms": 83500,
+      "id": "e_041",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Two-shot framing the Scarred Bearded Man towering menacingly over Gerald, staring down at him with unyielding intensity.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        188,
+        190
+      ]
+    },
+    {
+      "start_ms": 81500,
+      "end_ms": 84000,
+      "id": "e_042",
+      "scene_id": "sc_003",
+      "type": "action",
+      "text": "Gerald freezes, his arrogant bravado instantly vanishing as cold dread overtakes his face.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        192,
+        194
+      ]
+    },
+    {
+      "start_ms": 83500,
+      "end_ms": 88000,
+      "id": "e_043",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Low-angle close-up of Gerald looking up in sheer terror, his adam's apple bobbing nervously.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        196,
+        198
+      ]
+    },
+    {
+      "start_ms": 86500,
+      "end_ms": 88500,
+      "id": "e_044",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"Gerald, don't let him frighten you.\"",
+      "speaker": "ARISTOCRATIC WOMAN",
+      "delivery": "O.S.) (Urgent, Annoyed",
+      "source_lines": [
+        200,
+        202
+      ]
+    },
+    {
+      "start_ms": 88600,
+      "end_ms": 90000,
+      "id": "e_045",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"What are you staring at?\"",
+      "speaker": "GERALD",
+      "delivery": "Trembling, Trying to Save Face",
+      "source_lines": [
+        204,
+        206
+      ]
+    },
+    {
+      "start_ms": 90000,
+      "end_ms": 91500,
+      "id": "e_046",
+      "scene_id": "sc_003",
+      "type": "action",
+      "text": "Gerald rapidly turns on his heel toward the carriage, unwilling to face another second of the silent glare.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        208,
+        210
+      ]
+    },
+    {
+      "start_ms": 90100,
+      "end_ms": 91400,
+      "id": "e_047",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"We are leaving.\"",
+      "speaker": "GERALD",
+      "delivery": "Nervous, Hurried",
+      "source_lines": [
+        212,
+        214
+      ]
+    },
+    {
+      "start_ms": 91500,
+      "end_ms": 93800,
+      "id": "e_048",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Medium shot of Aristocratic Woman, shocked and indignant as Gerald flees past her.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        216,
+        218
+      ]
+    },
+    {
+      "start_ms": 92000,
+      "end_ms": 93800,
+      "id": "e_049",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"Leaving? Gerald!\"",
+      "speaker": "ARISTOCRATIC WOMAN",
+      "delivery": "Outraged, Flustered",
+      "source_lines": [
+        220,
+        222
+      ]
+    },
+    {
+      "start_ms": 93800,
+      "end_ms": 96500,
+      "id": "e_050",
+      "scene_id": "sc_003",
+      "type": "action",
+      "text": "Aristocratic Woman scrambles back into the carriage, hiking up her gown in a fluster before slamming the door shut.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        224,
+        226
+      ]
+    },
+    {
+      "start_ms": 95000,
+      "end_ms": 96000,
+      "id": "e_051",
+      "scene_id": "sc_003",
+      "type": "sound",
+      "text": "Carriage door slamming shut.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        228,
+        230
+      ]
+    },
+    {
+      "start_ms": 96000,
+      "end_ms": 99000,
+      "id": "e_052",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Wide shot of the carriage rapidly jolting forward and disappearing down the misty road away from the cottage.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        232,
+        234
+      ]
+    },
+    {
+      "start_ms": 99000,
+      "end_ms": 103500,
+      "id": "e_053",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Medium profile two-shot of Juliana turning toward the Scarred Bearded Man, her eyes gleaming with genuine admiration.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        236,
+        238
+      ]
+    },
+    {
+      "start_ms": 100800,
+      "end_ms": 103200,
+      "id": "e_054",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"You didn't say a word.\"",
+      "speaker": "JULIANA",
+      "delivery": "Impressed, Softly Amused",
+      "source_lines": [
+        240,
+        242
+      ]
+    },
+    {
+      "start_ms": 103500,
+      "end_ms": 107500,
+      "id": "e_055",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Close-up on the Scarred Bearded Man looking down at her, his rugged features softening with quiet affection.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        244,
+        246
+      ]
+    },
+    {
+      "start_ms": 106000,
+      "end_ms": 107800,
+      "id": "e_056",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"I didn't need to.\"",
+      "speaker": "SCARRED BEARDED MAN",
+      "delivery": "Low, Gentle, Confident",
+      "source_lines": [
+        248,
+        250
+      ]
+    },
+    {
+      "start_ms": 107500,
+      "end_ms": 111500,
+      "id": "e_057",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Medium shot as the Scarred Bearded Man stoops down, scoops up the heavy bundle of firewood in one arm, and walks calmly past Juliana toward their door.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        252,
+        254
+      ]
+    },
+    {
+      "start_ms": 111500,
+      "end_ms": 116000,
+      "id": "e_058",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Close-up of Juliana looking after him, a radiant and grateful smile blooming across her face as the scene fades out.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        256,
+        258
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "start_ms": 0,
+      "end_ms": 88500
+    },
+    {
+      "start_ms": 88600,
+      "end_ms": 116000
+    }
+  ],
+  "warnings": [
+    "sc_003: incomplete source coverage; gaps are unavailable"
+  ]
+}

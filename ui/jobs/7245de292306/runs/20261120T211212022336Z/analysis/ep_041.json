@@ -1,0 +1,210 @@
+{
+  "episode_id": "ep_041",
+  "summary": "Episode ep_041 (EP41, scene sc_001, 0-96090 ms) is built from on-screen events EP41:E1 to EP41:E53. Catherine halts Rupert's wedding to publicly humiliate Juliana Ashcroft, who is marched in chained (E13-E14, E26). The episode ends on a breach of the cathedral entrance (E47-E48) and an armed group emerging from the smoke (E52). Uncertainty: the explosion's cause and the armed figures' identity, allegiance and purpose are not shown on-screen, and the logline's attribution to Alexander is metadata only, so it is not treated as evidence. The continuity note about Episode 40 is also unverified. Speaker labels with unmatched brackets (e.g. 'O.S.)') are reported as supplied. Characters are named only as shown in event text; roles are inferred from on-screen actions.",
+  "characters": [
+    {
+      "name": "Catherine",
+      "role": "Bride at the wedding; antagonist who orders Juliana's public humiliation (EP41:E2-E10, E16-E17, E26-E30)"
+    },
+    {
+      "name": "Rupert",
+      "role": "Groom at the altar with Catherine; reacts with caution and then ambition (EP41:E8, E39-E42)"
+    },
+    {
+      "name": "Juliana Ashcroft",
+      "role": "Chained prisoner brought before the congregation; defiant protagonist (EP41:E13-E15, E25, E34)"
+    },
+    {
+      "name": "Blond Nobleman",
+      "role": "Aristocrat who questions Catherine and speaks with quiet triumph (EP41:E9, E43)"
+    },
+    {
+      "name": "Noblewoman",
+      "role": "Aristocrat who mocks Juliana from the pews (EP41:E20, E22-E23)"
+    },
+    {
+      "name": "Nobleman",
+      "role": "Aristocrat who mocks Juliana from the pews (EP41:E21)"
+    },
+    {
+      "name": "Priest",
+      "role": "Officiant at the altar (EP41:E44-E45)"
+    },
+    {
+      "name": "Constables",
+      "role": "Armed guards escorting Juliana (EP41:E13, E18, E27, E31)"
+    }
+  ],
+  "beats": [
+    {
+      "id": "b1",
+      "kind": "confrontation",
+      "event_refs": [
+        "EP41:E1",
+        "EP41:E2",
+        "EP41:E3",
+        "EP41:E4",
+        "EP41:E5",
+        "EP41:E6",
+        "EP41:E7",
+        "EP41:E8",
+        "EP41:E9",
+        "EP41:E10"
+      ],
+      "description": "Catherine halts the ceremony and announces a public punishment, ordering Juliana brought in.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b2",
+      "kind": "reveal",
+      "event_refs": [
+        "EP41:E11",
+        "EP41:E12",
+        "EP41:E13",
+        "EP41:E14",
+        "EP41:E15",
+        "EP41:E16",
+        "EP41:E17",
+        "EP41:E18"
+      ],
+      "description": "The cathedral doors open and Juliana is marched in, shackled and in a prison dress, to Catherine's gloating welcome.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b3",
+      "kind": "humiliation",
+      "event_refs": [
+        "EP41:E19",
+        "EP41:E20",
+        "EP41:E21",
+        "EP41:E22",
+        "EP41:E23",
+        "EP41:E24",
+        "EP41:E25",
+        "EP41:E26",
+        "EP41:E27",
+        "EP41:E28",
+        "EP41:E29",
+        "EP41:E30",
+        "EP41:E31",
+        "EP41:E32",
+        "EP41:E33",
+        "EP41:E34",
+        "EP41:E35",
+        "EP41:E36",
+        "EP41:E37",
+        "EP41:E38"
+      ],
+      "description": "Aristocrats mock Juliana and Catherine berates her, but Juliana answers with open defiance and Catherine dismisses her.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b4",
+      "kind": "tension",
+      "event_refs": [
+        "EP41:E39",
+        "EP41:E40",
+        "EP41:E41",
+        "EP41:E42",
+        "EP41:E43",
+        "EP41:E44",
+        "EP41:E45"
+      ],
+      "description": "Catherine and Rupert share an ambitious exchange over the Ashburgh title, and the Priest prepares to begin the rite.",
+      "intensity_0_10": 4.0
+    },
+    {
+      "id": "b5",
+      "kind": "attack",
+      "event_refs": [
+        "EP41:E46",
+        "EP41:E47",
+        "EP41:E48",
+        "EP41:E49",
+        "EP41:E50",
+        "EP41:E51"
+      ],
+      "description": "The cathedral entrance explodes, filling the nave with smoke, debris and panic while Catherine and Rupert are shocked and Juliana stands unmoved.",
+      "intensity_0_10": 9.0
+    },
+    {
+      "id": "b6",
+      "kind": "cliffhanger",
+      "event_refs": [
+        "EP41:E52",
+        "EP41:E53"
+      ],
+      "description": "Armed silhouettes emerge from the breach and Juliana turns toward them, her expression shifting to hope as the episode cuts out.",
+      "intensity_0_10": 8.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "r1",
+      "event_refs": [
+        "EP41:E26"
+      ],
+      "claim": "The prisoner is identified on-screen as Lady Juliana Ashcroft.",
+      "spoiler_significance_0_10": 3.0,
+      "creates_questions": [
+        "Why is Lady Juliana Ashcroft being punished by Catherine's family?"
+      ]
+    },
+    {
+      "id": "r2",
+      "event_refs": [
+        "EP41:E7",
+        "EP41:E34"
+      ],
+      "claim": "Catherine presents Juliana's punishment as a warning to any woman who defies the family, and Juliana is treated as a defiant prisoner.",
+      "spoiler_significance_0_10": 4.0,
+      "creates_questions": [
+        "What act of defiance led to Juliana's imprisonment?"
+      ]
+    },
+    {
+      "id": "r3",
+      "event_refs": [
+        "EP41:E47",
+        "EP41:E48",
+        "EP41:E52"
+      ],
+      "claim": "An armed group breaches the cathedral entrance by force during the ceremony.",
+      "spoiler_significance_0_10": 8.0,
+      "creates_questions": [
+        "Who are the armed figures and what are their intentions?",
+        "What caused the explosion?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "Who are the armed figures who breach the cathedral entrance, and are they allies of Juliana?",
+      "introduced_by": [
+        "EP41:E52",
+        "EP41:E53"
+      ]
+    },
+    {
+      "question": "What caused the explosion at the cathedral entrance?",
+      "introduced_by": [
+        "EP41:E47",
+        "EP41:E48"
+      ]
+    },
+    {
+      "question": "What defiance led to Juliana Ashcroft's imprisonment and public humiliation?",
+      "introduced_by": [
+        "EP41:E7",
+        "EP41:E34"
+      ]
+    },
+    {
+      "question": "What is the Ashburgh title and how will Catherine and Rupert eliminate what stands between them and it?",
+      "introduced_by": [
+        "EP41:E41",
+        "EP41:E43"
+      ]
+    }
+  ]
+}

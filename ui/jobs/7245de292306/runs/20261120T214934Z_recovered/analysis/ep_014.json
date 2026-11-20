@@ -1,0 +1,219 @@
+{
+  "episode_id": "ep_014",
+  "summary": "Episode ep_014 (EP14) shows Juliana retrieving the emerald signet ring from blackthorns, trading it to a Police Constable for Alexander's release, then taking him home to bandage her hands in a cottage. The on-screen events do not establish who 'they' are, what was promised, why Alexander was shackled, or what the ring means. The closing vow and bucket of blood imply a threat, but the source doesn't name it. Metadata (logline and continuity note about Episode 13's cliffhanger) was not treated as on-screen evidence and is unverified here. Timestamps are taken from the supplied event ranges in integer milliseconds.",
+  "characters": [
+    {
+      "name": "Juliana",
+      "role": "Protagonist who recovers the ring at great physical cost and secures Alexander's release"
+    },
+    {
+      "name": "Alexander",
+      "role": "Juliana's husband, shackled and then freed; protective and vengeful by the end"
+    },
+    {
+      "name": "Police Constable",
+      "role": "Guard who takes the ring and unlocks Alexander's cuffs; affiliation unclear"
+    }
+  ],
+  "beats": [
+    {
+      "id": "B1",
+      "kind": "discovery",
+      "event_refs": [
+        "EP14:E1",
+        "EP14:E2",
+        "EP14:E3",
+        "EP14:E4",
+        "EP14:E5"
+      ],
+      "description": "Juliana pulls the emerald ring from the thorns and steps out, injured, announcing she found it.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "B2",
+      "kind": "exchange",
+      "event_refs": [
+        "EP14:E6",
+        "EP14:E7",
+        "EP14:E8"
+      ],
+      "description": "Juliana demands her husband's release and hands the ring to the Constable.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "B3",
+      "kind": "release",
+      "event_refs": [
+        "EP14:E9",
+        "EP14:E10",
+        "EP14:E11",
+        "EP14:E12"
+      ],
+      "description": "The Constable removes Alexander's iron cuffs and Alexander rushes to Juliana.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "B4",
+      "kind": "emotional_reunion",
+      "event_refs": [
+        "EP14:E13",
+        "EP14:E14",
+        "EP14:E15",
+        "EP14:E16",
+        "EP14:E17",
+        "EP14:E18",
+        "EP14:E19"
+      ],
+      "description": "Alexander inspects Juliana's wounds in anguish; she says the cost was what 'they' promised.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "B5",
+      "kind": "departure",
+      "event_refs": [
+        "EP14:E20",
+        "EP14:E21",
+        "EP14:E22",
+        "EP14:E23",
+        "EP14:E24",
+        "EP14:E25"
+      ],
+      "description": "Juliana asks to go home and Alexander carries her away from the estate.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "B6",
+      "kind": "arrival",
+      "event_refs": [
+        "EP14:E26",
+        "EP14:E27"
+      ],
+      "description": "The couple reaches an isolated stone cottage under stormy skies.",
+      "intensity_0_10": 2.0
+    },
+    {
+      "id": "B7",
+      "kind": "tender_care",
+      "event_refs": [
+        "EP14:E28",
+        "EP14:E29",
+        "EP14:E30",
+        "EP14:E31",
+        "EP14:E32",
+        "EP14:E33",
+        "EP14:E34",
+        "EP14:E35",
+        "EP14:E36",
+        "EP14:E37",
+        "EP14:E38",
+        "EP14:E39"
+      ],
+      "description": "Alexander bandages Juliana's hands by the fire; they exchange apologies and reassurance.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "B8",
+      "kind": "reassurance",
+      "event_refs": [
+        "EP14:E40",
+        "EP14:E41",
+        "EP14:E42",
+        "EP14:E43",
+        "EP14:E44",
+        "EP14:E45"
+      ],
+      "description": "Alexander wraps Juliana in a blanket; she says she took his place and he is doing it better.",
+      "intensity_0_10": 4.0
+    },
+    {
+      "id": "B9",
+      "kind": "vow",
+      "event_refs": [
+        "EP14:E46",
+        "EP14:E47",
+        "EP14:E48",
+        "EP14:E49",
+        "EP14:E50",
+        "EP14:E51"
+      ],
+      "description": "Alexander vows no one will hurt her again for protecting him, and his fist clenches as the scene cuts to black.",
+      "intensity_0_10": 8.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "R1",
+      "event_refs": [
+        "EP14:E19",
+        "EP14:E17"
+      ],
+      "claim": "Juliana's injuries were part of an arrangement with unnamed parties ('they') who made promises.",
+      "spoiler_significance_0_10": 5.0,
+      "creates_questions": [
+        "Who are 'they' and what did they promise?"
+      ]
+    },
+    {
+      "id": "R2",
+      "event_refs": [
+        "EP14:E42",
+        "EP14:E43"
+      ],
+      "claim": "Juliana implies she took Alexander's place in some ordeal, and Alexander is now doing that role better.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "What was the place Juliana took for Alexander?",
+        "Why did the ordeal require someone to stand in for him?"
+      ]
+    },
+    {
+      "id": "R3",
+      "event_refs": [
+        "EP14:E47",
+        "EP14:E50"
+      ],
+      "claim": "Alexander's vow suggests Juliana was endangered because she protected him, and he intends to retaliate.",
+      "spoiler_significance_0_10": 5.0,
+      "creates_questions": [
+        "Who threatened Juliana for protecting Alexander?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "Who are 'they', and what did they promise Juliana?",
+      "introduced_by": [
+        "EP14:E19"
+      ]
+    },
+    {
+      "question": "Why was Alexander shackled, and why was he released?",
+      "introduced_by": [
+        "EP14:E7",
+        "EP14:E9"
+      ]
+    },
+    {
+      "question": "What is the significance of the emerald signet ring?",
+      "introduced_by": [
+        "EP14:E2",
+        "EP14:E6",
+        "EP14:E8"
+      ]
+    },
+    {
+      "question": "What place did Juliana take for Alexander?",
+      "introduced_by": [
+        "EP14:E42",
+        "EP14:E43"
+      ]
+    },
+    {
+      "question": "Who will Alexander's vow of vengeance target?",
+      "introduced_by": [
+        "EP14:E47",
+        "EP14:E50"
+      ]
+    }
+  ]
+}

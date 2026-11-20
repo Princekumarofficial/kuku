@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_bc6c54d96d0b664c DURATION_MS=22480\nSEGMENT 1 (playback order)\nEP13:E63 0-600 CAMERA: Medium close-up of Alexander struggling against the Constable, his face twisted in grief and rage.\nEP13:E65 600-6600 CAMERA: Close-up of Juliana lying on her stomach among the thorns, bleeding cuts running down her forehead, cheeks, and bare arms.\nEP13:E66 1800-6100 JULIANA: \"Please, ring... you have to be here.\"\nEP13:E67 6600-10100 ACTION: Her blood-smeared index finger brushes against a solid metallic object half-buried in the frozen dirt beneath a thorny branch.\nEP13:E68 6600-10600 CAMERA: Extreme close-up macro shot of an ornate antique gold ring set with a massive, radiant emerald resting in the frosted soil.\nEP13:E69 10600-12600 CAMERA: Close-up of Juliana's wide, disbelieving blue eyes as breath catches in her throat.\nEP13:E70 12600-15600 ACTION: Juliana reaches out her torn, bloodied hand and wraps her fingers tightly around the emerald ring.\nEP13:E71 12600-15600 CAMERA: Extreme close-up of her bloody hand closing around the emerald signet ring.\nEP13:E72 15600-16600 CAMERA: Close-up of Juliana grimacing in fierce triumph and intense pain as thorns catch her knuckles.\nEP13:E73 16600-17600 CAMERA: Brief cut to Alexander staring into the briar patch in suspended terror.\nEP13:E74 17600-20800 CAMERA: Close-up on Juliana's sweat- and frost-streaked face as she grinds her teeth, tears pooling in her eyes, fighting through the blinding pain.\nEP13:E75 20800-22480 CAMERA: Macro close-up holding on Juliana's bloodied fist firmly gripping the emerald ring against the frozen ground as the episode cuts to black.",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

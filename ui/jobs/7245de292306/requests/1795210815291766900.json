@@ -1,0 +1,203 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_da381f17285521c5 DURATION_MS=29100\nSEGMENT 1 (playback order)\nEP08:E8 0-2700 CAMERA: Medium shot as Alexander enters the dim room behind Juliana, quietly stepping up to the rustic table.\nEP08:E9 700-2700 ACTION: Alexander gently sets down a fresh bundle of small white herbal flowers tied with twine beside the open book.\nEP08:E11 2700-4000 JULIANA: \"Yarrow.\"\nEP08:E10 2700-4100 CAMERA: Low-angle medium close-up of Juliana looking up toward Alexander in pleasant surprise.\nEP08:E12 4100-7200 CAMERA: Close-up of Alexander looking down at her, the firelight catching the rugged scar across his face.\nEP08:E13 4200-6800 ALEXANDER: \"Good for wounds. Fever, too.\"\nEP08:E14 7200-8500 CAMERA: Medium close-up of Juliana looking up at him with genuine curiosity.\nEP08:E15 7300-8300 JULIANA: \"How do you know that?\"\nEP08:E17 8500-11100 ALEXANDER: \"Soldiers learn quickly which plants keep a man alive.\"\nEP08:E16 8500-11500 CAMERA: Close-up of Alexander speaking in a steady, measured tone.\nEP08:E18 11500-13700 CAMERA: Insert shot of Juliana's hands gently arranging several tied bundles of dried yarrow sprigs on the tabletop.\nEP08:E19 11600-14000 JULIANA: \"You know more about healing than you let on.\"\nEP08:E20 13700-16500 CAMERA: Close-up of Alexander, bathed in warm hearth embers, offering a subtle, knowing half-smile.\nEP08:E21 15000-16400 ALEXANDER: \"Enough to survive.\"\nEP08:E22 16500-18700 CAMERA: Medium close-up of Juliana setting down a bunch of flowers and looking intently at his rugged visage.\nEP08:E23 17200-19000 JULIANA: \"Your hair and beard...\"\nEP08:E24 18700-20300 CAMERA: Medium shot of Alexander standing tall over her, looking down patiently.\nEP08:E25 20300-24100 CAMERA: Medium two-shot as Juliana rises from her stool to stand close in front of him, reaching an affectionate hand toward his temple.\nEP08:E26 22300-24100 JULIANA: \"I could trim them for you.\"\nEP08:E27 24100-25400 CAMERA: Close-up of Alexander's large, rough hand firmly but gently catching Juliana's wrist in midair.\nEP08:E29 25400-26700 ALEXANDER: \"Not yet.\"\nEP08:E28 25400-27700 CAMERA: Medium two-shot profile of Alexander holding her wrist, his piercing gaze locked onto hers.\nEP08:E30 27700-29100 CAMERA: Close-up of Juliana looking into his eyes, her brow lightly furrowed in bemused question.\nEP08:E31 28000-29100 JULIANA: \"Not yet?\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "complete",
+  "output": {
+    "candidate_id": "c_da381f17285521c5",
+    "hook": {
+      "score_0_10": 5.0,
+      "evidence_refs": [
+        "EP08:E8",
+        "EP08:E9",
+        "EP08:E11"
+      ],
+      "reason": "The opening shows a quiet domestic moment with a man setting herbal bundles beside a book and a woman saying Yarrow, which sparks mild curiosity but no strong immediate stakes."
+    },
+    "cliffhanger": {
+      "score_0_10": 4.0,
+      "evidence_refs": [
+        "EP08:E29",
+        "EP08:E31"
+      ],
+      "reason": "The clip ends on Juliana asking Not yet? after Alexander's Not yet, leaving a small unanswered question, but it reads as a light romantic beat rather than a high-stakes unresolved plot cliffhanger.",
+      "unresolved_at_end": true
+    },
+    "standalone": {
+      "score_0_10": 4.0,
+      "missing_context": [
+        "Who Alexander and Juliana are and their relationship",
+        "Why Alexander's hair and beard matter to Juliana",
+        "What Not yet refers to and what is being withheld",
+        "The significance of the soldier references and his scar",
+        "The setting and purpose of the healing herbs and the open book"
+      ]
+    },
+    "emotion": {
+      "score_0_10": 5.0,
+      "reason": "The exchange builds gentle warmth and mild tension through guarded reticence, a knowing half-smile, and an affectionate gesture caught by his firm hand."
+    },
+    "weaknesses": [
+      "Viewer has no context for the characters or their history, so the stakes are unclear",
+      "The Not yet exchange is ambiguous and may read as a minor beat rather than a hook",
+      "Dialogue about yarrow and healing has limited tension without prior setup",
+      "The hook relies on a slow, quiet opening with little immediate conflict"
+    ],
+    "one_line_why_it_works": "A restrained exchange of guarded knowledge and an affectionate gesture ends on the ambiguous question Not yet?, which invites curiosity about what is being withheld."
+  }
+}

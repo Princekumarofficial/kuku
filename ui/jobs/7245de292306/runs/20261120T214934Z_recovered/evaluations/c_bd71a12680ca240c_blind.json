@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c_bd71a12680ca240c",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP28:E11",
+      "EP28:E13"
+    ],
+    "reason": "Opens within 0-3000ms in an accusation with a secret medicine and a poisoner label, which creates immediate tension for a first-time viewer.)"
+  },
+  "cliffhanger": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP28:E35",
+      "EP28:E36"
+    ],
+    "reason": "The Duchess's line 'They have been—' is cut off and she collapses coughing, leaving the accusation and her condition unresolved at the end.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Relationship between Catherine, Juliana, Rupert and the Duchess",
+      "Identity and role of the blond nobleman and the guard",
+      "What the secret medicine is and who it was given to",
+      "Why Juliana is accused of poisoning and what the fever refers to",
+      "What the Duchess is accusing Rupert and Catherine of knowing"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Escalating fury, fear, relief and accusation are conveyed through close-ups, glaring, tears and a violent collapse, producing strong tension."
+  },
+  "weaknesses": [
+    "Heavy reliance on unnamed or unexplained characters makes the clip hard to follow alone",
+    "The poisoning premise is asserted without establishing the medicine or the fever's cause",
+    "Dialogue at 1 point is cut off ('They have been—'), which may read as abrupt rather than deliberately built",
+    "Several camera cues are dense in a short span, weakening clarity for a first-time viewer"
+  ],
+  "one_line_why_it_works": "A sudden accusation of poisoning escalates into the Duchess's dying-breath reveal, which is cut off mid-sentence and leaves the central mystery open."
+}

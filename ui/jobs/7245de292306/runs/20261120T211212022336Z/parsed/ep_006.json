@@ -1,0 +1,1395 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "ep_006",
+  "episode_number": 6,
+  "metadata": {
+    "logline": "Seeking shelter from the cold rain, Juliana arrives at her new husband's modest woodland cottage and discovers an unexpected sense of peace beside the hearth.",
+    "continuity_notes": "Picks up immediately from Episode 5, as Juliana and her mysterious new husband leave the Ashcroft estate behind and venture out into the rainy countryside."
+  },
+  "source": {
+    "file": "005_episode-006-Episode 1671708.txt",
+    "sha256": "11131c5019b2c7021f376b17cfd99d6c876b8594da0ea4fe5abffda6f4db19de",
+    "complete": true
+  },
+  "scenes": [
+    {
+      "start_ms": 0,
+      "end_ms": 33700,
+      "id": "sc_001",
+      "heading": "EXT. WOODLAND PATH – NIGHT"
+    },
+    {
+      "start_ms": 33700,
+      "end_ms": 115000,
+      "id": "sc_002",
+      "heading": "INT. WOODEN CABIN – CONTINUOUS"
+    }
+  ],
+  "events": [
+    {
+      "start_ms": 0,
+      "end_ms": 2300,
+      "id": "e_001",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium full tracking shot of Juliana and the Mysterious Bearded Man trudging along a muddy, rain-soaked path in the dark woods.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        14,
+        16
+      ]
+    },
+    {
+      "start_ms": 0,
+      "end_ms": 3400,
+      "id": "e_002",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana lifts the hem of her white satin wedding gown to keep it out of the pooling mud, shivering under her dark hooded cloak.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        18,
+        20
+      ]
+    },
+    {
+      "start_ms": 2300,
+      "end_ms": 3500,
+      "id": "e_003",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on Juliana's wet hand clutching her muddy dress.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        22,
+        24
+      ]
+    },
+    {
+      "start_ms": 2300,
+      "end_ms": 6500,
+      "id": "e_004",
+      "scene_id": "sc_001",
+      "type": "sound",
+      "text": "Heavy rain pouring through dense tree canopies with steady footfalls on wet earth.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        26,
+        28
+      ]
+    },
+    {
+      "start_ms": 3500,
+      "end_ms": 4200,
+      "id": "e_005",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Upward shot through the dripping, silhouetted branches into the stormy night sky.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        30,
+        32
+      ]
+    },
+    {
+      "start_ms": 4200,
+      "end_ms": 7100,
+      "id": "e_006",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium two-shot framing Juliana and the Mysterious Bearded Man as they pause in the misty woods.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        34,
+        36
+      ]
+    },
+    {
+      "start_ms": 4500,
+      "end_ms": 7100,
+      "id": "e_007",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana turns back toward him, water glistening on her face and hair.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        38,
+        40
+      ]
+    },
+    {
+      "start_ms": 7100,
+      "end_ms": 9900,
+      "id": "e_008",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on the Mysterious Bearded Man, his dark hair soaked and rain running down the scars on his cheek.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        42,
+        44
+      ]
+    },
+    {
+      "start_ms": 7200,
+      "end_ms": 9850,
+      "id": "e_009",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I know this is not the life you came from.\"",
+      "speaker": "MYSTERIOUS BEARDED MAN",
+      "delivery": "Solemn, Gentle",
+      "source_lines": [
+        46,
+        48
+      ]
+    },
+    {
+      "start_ms": 9900,
+      "end_ms": 14900,
+      "id": "e_010",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on Juliana looking up into the rain, exhaling a soft breath of resignation.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        50,
+        52
+      ]
+    },
+    {
+      "start_ms": 10100,
+      "end_ms": 11200,
+      "id": "e_011",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"No.\"",
+      "speaker": "JULIANA",
+      "delivery": "Quiet, Melancholic",
+      "source_lines": [
+        54,
+        56
+      ]
+    },
+    {
+      "start_ms": 11300,
+      "end_ms": 13000,
+      "id": "e_012",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana looks upward into the canopy, gathering herself with a faint nod.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        58,
+        60
+      ]
+    },
+    {
+      "start_ms": 13400,
+      "end_ms": 14600,
+      "id": "e_013",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"It isn't.\"",
+      "speaker": "JULIANA",
+      "delivery": "Resigned, Soft",
+      "source_lines": [
+        62,
+        64
+      ]
+    },
+    {
+      "start_ms": 14900,
+      "end_ms": 17200,
+      "id": "e_014",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of the Mysterious Bearded Man, gazing down at her with quiet remorse.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        66,
+        68
+      ]
+    },
+    {
+      "start_ms": 15200,
+      "end_ms": 18200,
+      "id": "e_015",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You should not have had to walk through this rain tonight.\"",
+      "speaker": "MYSTERIOUS BEARDED MAN",
+      "delivery": "Guilt-ridden",
+      "source_lines": [
+        70,
+        72
+      ]
+    },
+    {
+      "start_ms": 17200,
+      "end_ms": 18300,
+      "id": "e_016",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on Juliana's bodice and mother's pendant as she gathers her cloak closer.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        74,
+        76
+      ]
+    },
+    {
+      "start_ms": 18300,
+      "end_ms": 21000,
+      "id": "e_017",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana's face, offering a wistful, comforting smile.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        78,
+        80
+      ]
+    },
+    {
+      "start_ms": 18500,
+      "end_ms": 20900,
+      "id": "e_018",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I suppose the day was already ruined.\"",
+      "speaker": "JULIANA",
+      "delivery": "Faintly Ironic, Resilient",
+      "source_lines": [
+        82,
+        84
+      ]
+    },
+    {
+      "start_ms": 21000,
+      "end_ms": 24000,
+      "id": "e_019",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Extreme close-up on the Mysterious Bearded Man's piercing eyes, touched by her lack of bitterness.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        86,
+        88
+      ]
+    },
+    {
+      "start_ms": 24000,
+      "end_ms": 26100,
+      "id": "e_020",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Wide establishing shot through tree branches showing a secluded, rustic stone cottage nestled among the misty trees.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        90,
+        92
+      ]
+    },
+    {
+      "start_ms": 24500,
+      "end_ms": 26100,
+      "id": "e_021",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "They walk forward toward the cottage emerging from the dark woods.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        94,
+        96
+      ]
+    },
+    {
+      "start_ms": 26100,
+      "end_ms": 27900,
+      "id": "e_022",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up on Juliana's face, wide-eyed with realization.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        98,
+        100
+      ]
+    },
+    {
+      "start_ms": 26500,
+      "end_ms": 27700,
+      "id": "e_023",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"That is it?\"",
+      "speaker": "JULIANA",
+      "delivery": "Surprised, Hesitant",
+      "source_lines": [
+        102,
+        104
+      ]
+    },
+    {
+      "start_ms": 27900,
+      "end_ms": 29200,
+      "id": "e_024",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up on the Mysterious Bearded Man.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        106,
+        108
+      ]
+    },
+    {
+      "start_ms": 28100,
+      "end_ms": 29000,
+      "id": "e_025",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Yes.\"",
+      "speaker": "MYSTERIOUS BEARDED MAN",
+      "delivery": "Low",
+      "source_lines": [
+        110,
+        112
+      ]
+    },
+    {
+      "start_ms": 29200,
+      "end_ms": 30100,
+      "id": "e_026",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Upward shot of rain pelting through the thick treetops.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        114,
+        116
+      ]
+    },
+    {
+      "start_ms": 29200,
+      "end_ms": 30500,
+      "id": "e_027",
+      "scene_id": "sc_001",
+      "type": "sound",
+      "text": "Sudden distant rumble of thunder echoing across the forest.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        118,
+        120
+      ]
+    },
+    {
+      "start_ms": 30100,
+      "end_ms": 33000,
+      "id": "e_028",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot as Juliana hikes her skirt and begins walking briskly toward the cottage door.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        122,
+        124
+      ]
+    },
+    {
+      "start_ms": 30150,
+      "end_ms": 33150,
+      "id": "e_029",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"At least no one there will be waiting to humiliate me.\"",
+      "speaker": "JULIANA",
+      "delivery": "Determined, Defiant",
+      "source_lines": [
+        126,
+        128
+      ]
+    },
+    {
+      "start_ms": 33000,
+      "end_ms": 33700,
+      "id": "e_030",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the Mysterious Bearded Man watching her march ahead, his expression solemn and deeply reflective.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        130,
+        132
+      ]
+    },
+    {
+      "start_ms": 33700,
+      "end_ms": 36700,
+      "id": "e_031",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "The heavy wooden cottage door creaks open. Juliana steps across the threshold into the dark, barren room.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        141,
+        143
+      ]
+    },
+    {
+      "start_ms": 33800,
+      "end_ms": 36500,
+      "id": "e_032",
+      "scene_id": "sc_002",
+      "type": "sound",
+      "text": "Door hinges groaning open followed by the hollow thump of footsteps on wet wood floorboards.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        145,
+        147
+      ]
+    },
+    {
+      "start_ms": 36700,
+      "end_ms": 37700,
+      "id": "e_033",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up overhead shot of a wooden bucket catching raindrops dripping steadily from a leak in the ceiling.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        149,
+        151
+      ]
+    },
+    {
+      "start_ms": 36700,
+      "end_ms": 40000,
+      "id": "e_034",
+      "scene_id": "sc_002",
+      "type": "sound",
+      "text": "Rhythmic water drips plinking into the metal-rimmed wooden bucket.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        153,
+        155
+      ]
+    },
+    {
+      "start_ms": 37700,
+      "end_ms": 40000,
+      "id": "e_035",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium wide shot past the drip bucket as the Mysterious Bearded Man closes the door behind them.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        157,
+        159
+      ]
+    },
+    {
+      "start_ms": 40000,
+      "end_ms": 42000,
+      "id": "e_036",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium close-up of the Mysterious Bearded Man standing in the dim light by the door.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        161,
+        163
+      ]
+    },
+    {
+      "start_ms": 40700,
+      "end_ms": 41900,
+      "id": "e_037",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"I am sorry.\"",
+      "speaker": "MYSTERIOUS BEARDED MAN",
+      "delivery": "Humble, Apologetic",
+      "source_lines": [
+        165,
+        167
+      ]
+    },
+    {
+      "start_ms": 42000,
+      "end_ms": 43300,
+      "id": "e_038",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium shot of Juliana gazing around the rustic interior, taking in the sparse surroundings.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        169,
+        171
+      ]
+    },
+    {
+      "start_ms": 43300,
+      "end_ms": 46400,
+      "id": "e_039",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium close-up of the Mysterious Bearded Man looking at her with somber honesty.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        173,
+        175
+      ]
+    },
+    {
+      "start_ms": 43600,
+      "end_ms": 45000,
+      "id": "e_040",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"You came from comfort.\"",
+      "speaker": "MYSTERIOUS BEARDED MAN",
+      "delivery": "Grave, Sincere",
+      "source_lines": [
+        177,
+        179
+      ]
+    },
+    {
+      "start_ms": 45100,
+      "end_ms": 47300,
+      "id": "e_041",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"This is all I can give you now.\"",
+      "speaker": "MYSTERIOUS BEARDED MAN",
+      "delivery": "Grave, Sincere",
+      "source_lines": [
+        181,
+        183
+      ]
+    },
+    {
+      "start_ms": 46400,
+      "end_ms": 48800,
+      "id": "e_042",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium shot of Juliana undoing the ribbon tie of her black cloak and letting it slide off her shoulders.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        185,
+        187
+      ]
+    },
+    {
+      "start_ms": 46600,
+      "end_ms": 49000,
+      "id": "e_043",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "Juliana removes her dark cloak, revealing her damp white bridal dress underneath.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        189,
+        191
+      ]
+    },
+    {
+      "start_ms": 48800,
+      "end_ms": 51100,
+      "id": "e_044",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up of Juliana's hand pressing against the cold, condensation-fogged windowpane.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        193,
+        195
+      ]
+    },
+    {
+      "start_ms": 51100,
+      "end_ms": 54800,
+      "id": "e_045",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Side profile shot of Juliana looking out the rain-streaked window into the quiet forest.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        197,
+        199
+      ]
+    },
+    {
+      "start_ms": 51300,
+      "end_ms": 52700,
+      "id": "e_046",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"It is quiet.\"",
+      "speaker": "JULIANA",
+      "delivery": "Gentle, Peaceful",
+      "source_lines": [
+        201,
+        203
+      ]
+    },
+    {
+      "start_ms": 53300,
+      "end_ms": 54600,
+      "id": "e_047",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Very quiet.\"",
+      "speaker": "JULIANA",
+      "delivery": "Gentle, Peaceful",
+      "source_lines": [
+        205,
+        207
+      ]
+    },
+    {
+      "start_ms": 54800,
+      "end_ms": 56200,
+      "id": "e_048",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Over-the-shoulder shot from behind Juliana looking at the Mysterious Bearded Man watching her attentively.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        209,
+        211
+      ]
+    },
+    {
+      "start_ms": 56200,
+      "end_ms": 58200,
+      "id": "e_049",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium close-up of Juliana turning back toward him, a soft, genuine smile illuminating her face.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        213,
+        215
+      ]
+    },
+    {
+      "start_ms": 56400,
+      "end_ms": 58000,
+      "id": "e_050",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"I think I like that.\"",
+      "speaker": "JULIANA",
+      "delivery": "Earnest, Content",
+      "source_lines": [
+        217,
+        219
+      ]
+    },
+    {
+      "start_ms": 58200,
+      "end_ms": 59800,
+      "id": "e_051",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up of the Mysterious Bearded Man, slightly surprised by her reaction.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        221,
+        223
+      ]
+    },
+    {
+      "start_ms": 58400,
+      "end_ms": 60000,
+      "id": "e_052",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"You are not disappointed?\"",
+      "speaker": "MYSTERIOUS BEARDED MAN",
+      "delivery": "Incredulous",
+      "source_lines": [
+        225,
+        227
+      ]
+    },
+    {
+      "start_ms": 59800,
+      "end_ms": 61300,
+      "id": "e_053",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium close-up of Juliana meeting his gaze honestly.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        229,
+        231
+      ]
+    },
+    {
+      "start_ms": 60300,
+      "end_ms": 61300,
+      "id": "e_054",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"I am.\"",
+      "speaker": "JULIANA",
+      "delivery": "Direct, Soft",
+      "source_lines": [
+        233,
+        235
+      ]
+    },
+    {
+      "start_ms": 61300,
+      "end_ms": 64100,
+      "id": "e_055",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Over-the-shoulder shot behind Juliana as the Mysterious Bearded Man listens intently.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        237,
+        239
+      ]
+    },
+    {
+      "start_ms": 61900,
+      "end_ms": 64100,
+      "id": "e_056",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"But not because of you.\"",
+      "speaker": "JULIANA",
+      "delivery": "Warm, Reassuring",
+      "source_lines": [
+        241,
+        243
+      ]
+    },
+    {
+      "start_ms": 64100,
+      "end_ms": 66600,
+      "id": "e_057",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium shot as Juliana grabs a rag from the rustic wooden table and begins briskly scrubbing the damp surface.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        245,
+        247
+      ]
+    },
+    {
+      "start_ms": 64300,
+      "end_ms": 66800,
+      "id": "e_058",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"If this is our home, I want it clean.\"",
+      "speaker": "JULIANA",
+      "delivery": "Determined, Practical",
+      "source_lines": [
+        249,
+        251
+      ]
+    },
+    {
+      "start_ms": 66600,
+      "end_ms": 67800,
+      "id": "e_059",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium shot of the Mysterious Bearded Man stepping forward to intervene gently.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        253,
+        255
+      ]
+    },
+    {
+      "start_ms": 66700,
+      "end_ms": 68700,
+      "id": "e_060",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"You don't have to do that tonight.\"",
+      "speaker": "MYSTERIOUS BEARDED MAN",
+      "delivery": "Caring, Tender",
+      "source_lines": [
+        257,
+        259
+      ]
+    },
+    {
+      "start_ms": 67800,
+      "end_ms": 69500,
+      "id": "e_061",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up on Juliana's hands vigorously scrubbing grime from the wooden tabletop.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        261,
+        263
+      ]
+    },
+    {
+      "start_ms": 69500,
+      "end_ms": 72100,
+      "id": "e_062",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up of Juliana's face, her voice catching with raw, suppressed emotion as she scrubs.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        265,
+        267
+      ]
+    },
+    {
+      "start_ms": 70100,
+      "end_ms": 73200,
+      "id": "e_063",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"If I stop now, I will think about everything I lost.\"",
+      "speaker": "JULIANA",
+      "delivery": "Vulnerable, Trembling",
+      "source_lines": [
+        269,
+        271
+      ]
+    },
+    {
+      "start_ms": 72100,
+      "end_ms": 74300,
+      "id": "e_064",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Full shot of the Mysterious Bearded Man standing motionless, his gaze filled with empathy and understanding.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        273,
+        275
+      ]
+    },
+    {
+      "start_ms": 74300,
+      "end_ms": 76800,
+      "id": "e_065",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "Instead of stopping her, the Mysterious Bearded Man kneels beside the table and begins inspecting and adjusting the wobbly table leg to help.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        277,
+        279
+      ]
+    },
+    {
+      "start_ms": 74300,
+      "end_ms": 76800,
+      "id": "e_066",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium low shot of the Mysterious Bearded Man kneeling beside Juliana as she wipes the table.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        281,
+        283
+      ]
+    },
+    {
+      "start_ms": 76800,
+      "end_ms": 77800,
+      "id": "e_067",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "Juliana picks up a straw broom and sweeps the stone floor in front of the stone hearth.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        285,
+        287
+      ]
+    },
+    {
+      "start_ms": 76800,
+      "end_ms": 77800,
+      "id": "e_068",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Wide shot of Juliana sweeping dust toward the large stone fireplace.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        289,
+        291
+      ]
+    },
+    {
+      "start_ms": 77800,
+      "end_ms": 81000,
+      "id": "e_069",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "The Mysterious Bearded Man carries a heavy wooden log across the room and places it onto the iron grate in the hearth.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        293,
+        295
+      ]
+    },
+    {
+      "start_ms": 77800,
+      "end_ms": 81000,
+      "id": "e_070",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Tracking shot following the Mysterious Bearded Man as he sets the firewood into the stone fireplace.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        297,
+        299
+      ]
+    },
+    {
+      "start_ms": 81000,
+      "end_ms": 83800,
+      "id": "e_071",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "He strikes flint and steel together over dry kindling, igniting bright sparks that catch into a flickering flame.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        301,
+        303
+      ]
+    },
+    {
+      "start_ms": 81000,
+      "end_ms": 83800,
+      "id": "e_072",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Extreme close-up on hands striking flint, sparks showering onto the twigs and catching fire.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        305,
+        307
+      ]
+    },
+    {
+      "start_ms": 83800,
+      "end_ms": 85000,
+      "id": "e_073",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium close-up of vibrant orange flames rapidly spreading across the dry logs, crackling warmly.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        309,
+        311
+      ]
+    },
+    {
+      "start_ms": 83800,
+      "end_ms": 90000,
+      "id": "e_074",
+      "scene_id": "sc_002",
+      "type": "sound",
+      "text": "Crisp crackling and snapping of dry wood catching fire in the hearth.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        313,
+        315
+      ]
+    },
+    {
+      "start_ms": 85000,
+      "end_ms": 87500,
+      "id": "e_075",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium shot of Juliana standing by the table, broom resting against her hip, bathed in the amber firelight.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        317,
+        319
+      ]
+    },
+    {
+      "start_ms": 87500,
+      "end_ms": 89800,
+      "id": "e_076",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "The Mysterious Bearded Man stands up from the hearth, dusting his hands on his coat.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        321,
+        323
+      ]
+    },
+    {
+      "start_ms": 87500,
+      "end_ms": 89800,
+      "id": "e_077",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium shot of the Mysterious Bearded Man rising before the blazing fireplace.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        325,
+        327
+      ]
+    },
+    {
+      "start_ms": 89000,
+      "end_ms": 89800,
+      "id": "e_078",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"There.\"",
+      "speaker": "MYSTERIOUS BEARDED MAN",
+      "delivery": "Relieved",
+      "source_lines": [
+        329,
+        331
+      ]
+    },
+    {
+      "start_ms": 89800,
+      "end_ms": 91700,
+      "id": "e_079",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up of Juliana looking at him with radiant gratitude and a gentle smile.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        333,
+        335
+      ]
+    },
+    {
+      "start_ms": 91700,
+      "end_ms": 93800,
+      "id": "e_080",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium close-up of the Mysterious Bearded Man gesturing faintly to the modest room.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        337,
+        339
+      ]
+    },
+    {
+      "start_ms": 92100,
+      "end_ms": 93600,
+      "id": "e_081",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"It is not much.\"",
+      "speaker": "MYSTERIOUS BEARDED MAN",
+      "delivery": "Quiet, Modest",
+      "source_lines": [
+        341,
+        343
+      ]
+    },
+    {
+      "start_ms": 93800,
+      "end_ms": 95800,
+      "id": "e_082",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium shot of Juliana kneeling on the stone floor before the blazing hearth, wrapping her dark cloak around her shoulders.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        345,
+        347
+      ]
+    },
+    {
+      "start_ms": 94200,
+      "end_ms": 96200,
+      "id": "e_083",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"It is enough for tonight.\"",
+      "speaker": "JULIANA",
+      "delivery": "Soft, Comforted",
+      "source_lines": [
+        349,
+        351
+      ]
+    },
+    {
+      "start_ms": 95800,
+      "end_ms": 98200,
+      "id": "e_084",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Wide shot framing the roaring hearth fire between them as the Mysterious Bearded Man crouches down beside her on the stone floor.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        353,
+        355
+      ]
+    },
+    {
+      "start_ms": 98200,
+      "end_ms": 101000,
+      "id": "e_085",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up of Juliana pulling her cloak tighter, her face glowing warmly in the firelight.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        357,
+        359
+      ]
+    },
+    {
+      "start_ms": 98400,
+      "end_ms": 100400,
+      "id": "e_086",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"I lost my home today.\"",
+      "speaker": "JULIANA",
+      "delivery": "V.O.) (Reflective, Vulnerable",
+      "source_lines": [
+        361,
+        363
+      ]
+    },
+    {
+      "start_ms": 100600,
+      "end_ms": 101800,
+      "id": "e_087",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"My family.\"",
+      "speaker": "JULIANA",
+      "delivery": "V.O.) (Reflective, Vulnerable",
+      "source_lines": [
+        365,
+        367
+      ]
+    },
+    {
+      "start_ms": 101000,
+      "end_ms": 103000,
+      "id": "e_088",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up of the glowing embers and dancing flames inside the fireplace.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        369,
+        371
+      ]
+    },
+    {
+      "start_ms": 102000,
+      "end_ms": 104800,
+      "id": "e_089",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Everything I thought my life would be.\"",
+      "speaker": "JULIANA",
+      "delivery": "V.O.) (Reflective, Vulnerable",
+      "source_lines": [
+        373,
+        375
+      ]
+    },
+    {
+      "start_ms": 103000,
+      "end_ms": 104300,
+      "id": "e_090",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up on the Mysterious Bearded Man's scarred, work-worn hands resting quietly on his knees.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        377,
+        379
+      ]
+    },
+    {
+      "start_ms": 104300,
+      "end_ms": 106000,
+      "id": "e_091",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium close-up of Juliana looking down into the flames, a peaceful serenity washing over her features.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        381,
+        383
+      ]
+    },
+    {
+      "start_ms": 105000,
+      "end_ms": 106000,
+      "id": "e_092",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"And yet...\"",
+      "speaker": "JULIANA",
+      "delivery": "V.O.) (Gentle, Surprised",
+      "source_lines": [
+        385,
+        387
+      ]
+    },
+    {
+      "start_ms": 106000,
+      "end_ms": 109000,
+      "id": "e_093",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Extreme close-up on the Mysterious Bearded Man's profile, his scarred cheek illuminated by the amber glow as he watches over her protectively.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        389,
+        391
+      ]
+    },
+    {
+      "start_ms": 106200,
+      "end_ms": 109000,
+      "id": "e_094",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Sitting here with him, I don't feel afraid.\"",
+      "speaker": "JULIANA",
+      "delivery": "V.O.) (Tender, Safe",
+      "source_lines": [
+        393,
+        395
+      ]
+    },
+    {
+      "start_ms": 109000,
+      "end_ms": 111500,
+      "id": "e_095",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up on Juliana looking up into the room with quiet hope in her blue eyes.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        397,
+        399
+      ]
+    },
+    {
+      "start_ms": 111500,
+      "end_ms": 115000,
+      "id": "e_096",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up on the crackling flames and glowing embers of the fireplace, slowly fading to black as the music swells warmly.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        401,
+        403
+      ]
+    },
+    {
+      "start_ms": 111500,
+      "end_ms": 115000,
+      "id": "e_097",
+      "scene_id": "sc_002",
+      "type": "sound",
+      "text": "Warm hearth crackles blending with gentle string music fading out.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        405,
+        407
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "start_ms": 0,
+      "end_ms": 115000
+    }
+  ],
+  "warnings": []
+}

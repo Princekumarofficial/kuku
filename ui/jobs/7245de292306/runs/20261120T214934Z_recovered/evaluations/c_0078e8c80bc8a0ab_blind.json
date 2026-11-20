@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_0078e8c80bc8a0ab",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP44:E32",
+      "EP44:E33"
+    ],
+    "reason": "The clip opens within 0-2200ms on Catherine, visibly hurt by a rejection, asking \"You don't remember?\" This raises an immediate question, though the cause of the hurt is not established in the clip."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP44:E52",
+      "EP44:E54",
+      "EP44:E53"
+    ],
+    "reason": "In the final 3000ms, Alexander walks away from Catherine toward Juliana, who is in chains, and Catherine reacts with \"Her?!\" while looking horrified and bewildered. The reveal of who Alexander chose is left open, with no resolution of Catherine's confrontation or Juliana's situation shown in the clip.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Identity and history of Rupert, who is held under guard",
+      "Who Juliana is and why she is in chains",
+      "What Alexander does not remember and what the Duke role means",
+      "Why Catherine believes she was supposed to be the Duchess",
+      "The setting and why the cathedral is in rubble",
+      "What Alexander's doubt about Catherine's love refers to"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Catherine's escalating distress, from \"I was supposed to be your Duchess!\" through \"But I loved you!\" to \"I loved you before all this!\", is conveyed through tearful close-ups and gasping, and Alexander's cold rejection heightens the sense of heartbreak."
+  },
+  "weaknesses": [
+    "Heavy reliance on unexplained names and references such as Rupert, Juliana, the Duke, and the Duchess",
+    "The emotional confrontation is strong but its stakes are unclear to a first-time viewer",
+    "The final reveal of Juliana lands without setup, so its impact depends on context not shown",
+    "Dialogue about remembering and the Duke the Catherine loved is ambiguous without prior events"
+  ],
+  "one_line_why_it_works": "A rejected woman's escalating plea collapses into a shocking final reveal of the new woman Alexander chooses, leaving the viewer with an open question about who Juliana is and what comes next."
+}

@@ -1,0 +1,55 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "ep30_opp_01",
+      "episode_id": "ep_030",
+      "concept": "A nobleman confronts Rupert about a hidden prisoner, pins him with his cane, and vows to stop hiding her, leaving the plan unrevealed.",
+      "hook_refs": [
+        "EP30:E7"
+      ],
+      "ending_refs": [
+        "EP30:E23"
+      ],
+      "context_refs": [
+        "EP30:E9",
+        "EP30:E11"
+      ],
+      "why_promising": "The hook line names the cellar secret and opens on a confrontation. Clip runs 8800-47300ms (38500ms) and ends on the unresolved line 'We stop hiding the prisoner.'"
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep30_opp_02",
+      "episode_id": "ep_030",
+      "concept": "Catherine and the nobleman plot to convert the prisoner's secret into a capital witchcraft charge, ending on the threat of the gallows.",
+      "hook_refs": [
+        "EP30:E45"
+      ],
+      "ending_refs": [
+        "EP30:E67"
+      ],
+      "context_refs": [
+        "EP30:E47",
+        "EP30:E49"
+      ],
+      "why_promising": "The hook 'Witchcraft is a capital charge' states the stakes directly. Clip runs 89000-143500ms (54500ms) and ends on the unresolved 'She becomes a witch,' with the trial still pending."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep30_opp_03",
+      "episode_id": "ep_030",
+      "concept": "Catherine gleefully anticipates the prisoner's hanging, followed by the arrest warrant and a cliffhanger image of the chained prisoner.",
+      "hook_refs": [
+        "EP30:E63"
+      ],
+      "ending_refs": [
+        "EP30:E71"
+      ],
+      "context_refs": [
+        "EP30:E67",
+        "EP30:E70"
+      ],
+      "why_promising": "The hook announces a public hanging with a clear emotional charge. Clip runs 125500-151210ms (25710ms) and ends on the cut to black with the prisoner shown chained, leaving her fate unresolved."
+    }
+  ]
+}

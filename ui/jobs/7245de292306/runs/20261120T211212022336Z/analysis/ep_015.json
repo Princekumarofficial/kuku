@@ -1,0 +1,265 @@
+{
+  "episode_id": "ep_015",
+  "summary": "Episode ep_015 (event aliases EP15) covers a night raid on Juliana's herbal garden in sc_001 (0-86000 ms). Three thugs destroy planters and uproot chamomile, Juliana confronts them, is shoved to the ground and bleeds through her bandages, and Alexander arrives to stand between her and the thugs, ending on a cliffhanger. Analysis is based only on the on-screen event text. The supplied metadata (logline and continuity notes) is not on-screen evidence and was excluded, so it does not establish any fact here. Alexander is never named by a speaker except Juliana's whispered 'Alexander...' (EP15:E48), and his prior relationship with Juliana is not shown on screen. The 'veteran' label comes only from a thug's taunt (EP15:E53) and is unverified. Whether the thugs have an employer, and the cause of Juliana's injuries beyond the shove, are not shown.",
+  "characters": [
+    {
+      "name": "Juliana",
+      "role": "Protagonist and gardener who tends the herbs in the garden; bandaged hands; confronts the thugs and is knocked down."
+    },
+    {
+      "name": "Alexander",
+      "role": "Arriving protector who charges in from the mist and places himself between Juliana and the thugs; named on screen only through Juliana's line at EP15:E48."
+    },
+    {
+      "name": "Thug with Cap",
+      "role": "Antagonist who mocks Juliana, shoves her to the ground, and challenges Alexander."
+    },
+    {
+      "name": "Bald Thug",
+      "role": "Antagonist who tramples the flowers and mocks Juliana's grief."
+    },
+    {
+      "name": "Tall Thug",
+      "role": "Antagonist who wields a heavy wooden club and mocks the garden and Juliana."
+    }
+  ],
+  "beats": [
+    {
+      "id": "b1",
+      "kind": "setup",
+      "event_refs": [
+        "EP15:E1",
+        "EP15:E2"
+      ],
+      "description": "Three armed thugs move through the moonlit herbal garden.",
+      "intensity_0_10": 4.0
+    },
+    {
+      "id": "b2",
+      "kind": "escalation",
+      "event_refs": [
+        "EP15:E3",
+        "EP15:E4",
+        "EP15:E5",
+        "EP15:E6",
+        "EP15:E7"
+      ],
+      "description": "The thugs smash a planter box and rip up chamomile by the roots.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b3",
+      "kind": "confrontation",
+      "event_refs": [
+        "EP15:E8",
+        "EP15:E9",
+        "EP15:E10",
+        "EP15:E11",
+        "EP15:E12"
+      ],
+      "description": "Juliana bursts from the cottage, demands they stop, and is dismissed with a mocking reply.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "b4",
+      "kind": "humiliation",
+      "event_refs": [
+        "EP15:E13",
+        "EP15:E14",
+        "EP15:E15",
+        "EP15:E16",
+        "EP15:E17",
+        "EP15:E18",
+        "EP15:E19",
+        "EP15:E20"
+      ],
+      "description": "The bald thug tramples the flowers and Juliana kneels in the mud, pleading.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b5",
+      "kind": "mockery",
+      "event_refs": [
+        "EP15:E21",
+        "EP15:E22",
+        "EP15:E23",
+        "EP15:E24",
+        "EP15:E25",
+        "EP15:E26",
+        "EP15:E27",
+        "EP15:E28",
+        "EP15:E29"
+      ],
+      "description": "The thugs laugh at Juliana, and she rises and asserts her right to the garden.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b6",
+      "kind": "violence",
+      "event_refs": [
+        "EP15:E30",
+        "EP15:E31",
+        "EP15:E32",
+        "EP15:E33",
+        "EP15:E34",
+        "EP15:E35",
+        "EP15:E36",
+        "EP15:E37"
+      ],
+      "description": "The Thug with Cap shoves Juliana to the stone path, and she falls and bleeds through her bandages.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "b7",
+      "kind": "grief",
+      "event_refs": [
+        "EP15:E38",
+        "EP15:E39",
+        "EP15:E40",
+        "EP15:E41"
+      ],
+      "description": "Juliana grieves over the plants while the thugs laugh at her.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b8",
+      "kind": "peak_threat",
+      "event_refs": [
+        "EP15:E42",
+        "EP15:E43",
+        "EP15:E44"
+      ],
+      "description": "The Tall Thug raises his club over the remaining herbs as Juliana screams for him to stop, and footsteps approach.",
+      "intensity_0_10": 9.0
+    },
+    {
+      "id": "b9",
+      "kind": "intrusion",
+      "event_refs": [
+        "EP15:E45",
+        "EP15:E46",
+        "EP15:E47",
+        "EP15:E48",
+        "EP15:E49",
+        "EP15:E50",
+        "EP15:E51"
+      ],
+      "description": "Alexander charges out of the mist and positions himself between Juliana and the thugs.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "b10",
+      "kind": "cliffhanger",
+      "event_refs": [
+        "EP15:E52",
+        "EP15:E53",
+        "EP15:E54",
+        "EP15:E55"
+      ],
+      "description": "The thugs regroup and challenge Alexander, and a tense cello swell cuts to black as violence seems imminent.",
+      "intensity_0_10": 8.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "r1",
+      "event_refs": [
+        "EP15:E12",
+        "EP15:E29"
+      ],
+      "claim": "The thugs are clearing the garden, and Juliana says it is her home and that they have no right to destroy it.",
+      "spoiler_significance_0_10": 3.0,
+      "creates_questions": [
+        "Who ordered the thugs to clear the garden?",
+        "Why do the thugs target this garden?"
+      ]
+    },
+    {
+      "id": "r2",
+      "event_refs": [
+        "EP15:E14",
+        "EP15:E20",
+        "EP15:E22"
+      ],
+      "claim": "The herbs are medicinal and took months to grow, and the Tall Thug calls them filth.",
+      "spoiler_significance_0_10": 4.0,
+      "creates_questions": [
+        "What is the purpose of the medicinal herbs?"
+      ]
+    },
+    {
+      "id": "r3",
+      "event_refs": [
+        "EP15:E9",
+        "EP15:E37"
+      ],
+      "claim": "Juliana's hands are bandaged and bleeding through the gauze as she crawls on the path.",
+      "spoiler_significance_0_10": 5.0,
+      "creates_questions": [
+        "How were Juliana's hands injured?"
+      ]
+    },
+    {
+      "id": "r4",
+      "event_refs": [
+        "EP15:E39"
+      ],
+      "claim": "Juliana's grief implies the plants belonged to her mother, though no speaker states this outright.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "What is the history between Juliana and her mother's garden?"
+      ]
+    },
+    {
+      "id": "r5",
+      "event_refs": [
+        "EP15:E48",
+        "EP15:E53"
+      ],
+      "claim": "Juliana recognizes the arriving man as Alexander, and the Thug with Cap calls him a veteran.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "What is Alexander's relationship with Juliana?",
+        "Is Alexander a veteran, and what is his background?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "Will Alexander and the thugs fight, and what will the outcome be?",
+      "introduced_by": [
+        "EP15:E53",
+        "EP15:E54",
+        "EP15:E55"
+      ]
+    },
+    {
+      "question": "Who sent the thugs to clear the garden?",
+      "introduced_by": [
+        "EP15:E12",
+        "EP15:E29"
+      ]
+    },
+    {
+      "question": "How and when were Juliana's hands injured?",
+      "introduced_by": [
+        "EP15:E9",
+        "EP15:E37"
+      ]
+    },
+    {
+      "question": "What is Alexander's relationship to Juliana, and is he a veteran?",
+      "introduced_by": [
+        "EP15:E48",
+        "EP15:E53"
+      ]
+    },
+    {
+      "question": "Whose plants were these, and what is their significance to Juliana?",
+      "introduced_by": [
+        "EP15:E39",
+        "EP15:E14"
+      ]
+    }
+  ]
+}

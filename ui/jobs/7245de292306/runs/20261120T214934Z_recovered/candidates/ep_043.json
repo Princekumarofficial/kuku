@@ -1,0 +1,845 @@
+[
+  {
+    "candidate_id": "c_cba682b15fa60ec5",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 0,
+        "end_ms": 28000,
+        "episode_id": "ep_043"
+      }
+    ],
+    "duration_ms": 28000,
+    "origin": "opp_01",
+    "clip_events": [
+      {
+        "ref": "EP43:E1",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 3800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up on Rupert Ashburn standing before the altar, trembling with mounting panic and rage."
+      },
+      {
+        "ref": "EP43:E2",
+        "segment_index": 0,
+        "relative_start_ms": 600,
+        "relative_end_ms": 2400,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"You're lying!\""
+      },
+      {
+        "ref": "EP43:E3",
+        "segment_index": 0,
+        "relative_start_ms": 2400,
+        "relative_end_ms": 3900,
+        "type": "action",
+        "speaker": null,
+        "text": "Rupert lunges forward, his facial features contorting in venomous desperation."
+      },
+      {
+        "ref": "EP43:E4",
+        "segment_index": 0,
+        "relative_start_ms": 3800,
+        "relative_end_ms": 8000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tracking shot swinging around Rupert as he turns toward the royal guards stationed along the aisle, pointing furiously down the center of the hall."
+      },
+      {
+        "ref": "EP43:E5",
+        "segment_index": 0,
+        "relative_start_ms": 3900,
+        "relative_end_ms": 7400,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"This man is an imposter! Arrest him!\""
+      },
+      {
+        "ref": "EP43:E6",
+        "segment_index": 0,
+        "relative_start_ms": 8000,
+        "relative_end_ms": 10500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide symmetrical shot framing Alexander Ashburn standing immovable in the center of the cathedral, flanking lines of red-coated guards on both sides."
+      },
+      {
+        "ref": "EP43:E7",
+        "segment_index": 0,
+        "relative_start_ms": 8200,
+        "relative_end_ms": 10500,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander stands completely composed in his dark embroidered aristocratic coat, staring Rupert down with unyielding authority."
+      },
+      {
+        "ref": "EP43:E9",
+        "segment_index": 0,
+        "relative_start_ms": 10500,
+        "relative_end_ms": 13200,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"I said arrest him!\""
+      },
+      {
+        "ref": "EP43:E8",
+        "segment_index": 0,
+        "relative_start_ms": 10500,
+        "relative_end_ms": 13500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up on Rupert's furious face, veins bulging at his temples."
+      },
+      {
+        "ref": "EP43:E10",
+        "segment_index": 0,
+        "relative_start_ms": 13500,
+        "relative_end_ms": 16200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot on the Royal Guard Captain in ceremonial bearskin uniform standing steadfast."
+      },
+      {
+        "ref": "EP43:E11",
+        "segment_index": 0,
+        "relative_start_ms": 13800,
+        "relative_end_ms": 16000,
+        "type": "action",
+        "speaker": null,
+        "text": "The Guard Captain brings his ceremonial sword upright to attention, his expression stern and resolute."
+      },
+      {
+        "ref": "EP43:E12",
+        "segment_index": 0,
+        "relative_start_ms": 14200,
+        "relative_end_ms": 15800,
+        "type": "dialogue",
+        "speaker": "ROYAL GUARD",
+        "text": "\"We will not.\""
+      },
+      {
+        "ref": "EP43:E13",
+        "segment_index": 0,
+        "relative_start_ms": 16200,
+        "relative_end_ms": 17800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle shot looking down along the polished stone floor as the guard's sword tip grounds firmly between Rupert and the guards."
+      },
+      {
+        "ref": "EP43:E14",
+        "segment_index": 0,
+        "relative_start_ms": 16200,
+        "relative_end_ms": 18000,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"I am Lord Rupert Ashburn!\""
+      },
+      {
+        "ref": "EP43:E15",
+        "segment_index": 0,
+        "relative_start_ms": 17800,
+        "relative_end_ms": 19200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up on Rupert thumping his chest in indignant disbelief."
+      },
+      {
+        "ref": "EP43:E16",
+        "segment_index": 0,
+        "relative_start_ms": 18100,
+        "relative_end_ms": 19000,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"Your Duke!\""
+      },
+      {
+        "ref": "EP43:E19",
+        "segment_index": 0,
+        "relative_start_ms": 19200,
+        "relative_end_ms": 21500,
+        "type": "dialogue",
+        "speaker": "ROYAL GUARD",
+        "text": "\"No. He is your Duke.\""
+      },
+      {
+        "ref": "EP43:E18",
+        "segment_index": 0,
+        "relative_start_ms": 19200,
+        "relative_end_ms": 21600,
+        "type": "action",
+        "speaker": null,
+        "text": "The Guard Captain snaps a crisp salute toward Alexander."
+      },
+      {
+        "ref": "EP43:E17",
+        "segment_index": 0,
+        "relative_start_ms": 19200,
+        "relative_end_ms": 21800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot framing the Guard Captain and Alexander in profile."
+      },
+      {
+        "ref": "EP43:E20",
+        "segment_index": 0,
+        "relative_start_ms": 21800,
+        "relative_end_ms": 24000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot on Catherine in her bridal gown and Lord Henry Sterling seated in the front pew, both frozen in stunned shock."
+      },
+      {
+        "ref": "EP43:E21",
+        "segment_index": 0,
+        "relative_start_ms": 22000,
+        "relative_end_ms": 24000,
+        "type": "action",
+        "speaker": null,
+        "text": "Lord Sterling clutches his gold-headed walking cane tightly, his jaw clenching as tension spreads through the church."
+      },
+      {
+        "ref": "EP43:E22",
+        "segment_index": 0,
+        "relative_start_ms": 24000,
+        "relative_end_ms": 26000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot on Rupert spinning toward the gathered congregation, his hands flailing."
+      },
+      {
+        "ref": "EP43:E23",
+        "segment_index": 0,
+        "relative_start_ms": 24100,
+        "relative_end_ms": 25800,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"You have all been deceived!\""
+      },
+      {
+        "ref": "EP43:E24",
+        "segment_index": 0,
+        "relative_start_ms": 26000,
+        "relative_end_ms": 28000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up on Alexander, commanding and icy."
+      },
+      {
+        "ref": "EP43:E25",
+        "segment_index": 0,
+        "relative_start_ms": 26100,
+        "relative_end_ms": 28000,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Then let the Crown decide.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_5206c6d06005f9c7",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 25800,
+        "end_ms": 54400,
+        "episode_id": "ep_043"
+      }
+    ],
+    "duration_ms": 28600,
+    "origin": "opp_02",
+    "clip_events": [
+      {
+        "ref": "EP43:E22",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot on Rupert spinning toward the gathered congregation, his hands flailing."
+      },
+      {
+        "ref": "EP43:E24",
+        "segment_index": 0,
+        "relative_start_ms": 200,
+        "relative_end_ms": 2200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up on Alexander, commanding and icy."
+      },
+      {
+        "ref": "EP43:E25",
+        "segment_index": 0,
+        "relative_start_ms": 300,
+        "relative_end_ms": 2200,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Then let the Crown decide.\""
+      },
+      {
+        "ref": "EP43:E26",
+        "segment_index": 0,
+        "relative_start_ms": 2200,
+        "relative_end_ms": 4200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Alexander's hands holding an official War Office document bundle sealed with red wax and ribbon."
+      },
+      {
+        "ref": "EP43:E27",
+        "segment_index": 0,
+        "relative_start_ms": 2400,
+        "relative_end_ms": 4200,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander brings forth the dossier stamped \"WAR OFFICE - TOP SECRET\" with the royal crest."
+      },
+      {
+        "ref": "EP43:E29",
+        "segment_index": 0,
+        "relative_start_ms": 4200,
+        "relative_end_ms": 7600,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"These were delivered to me under the seal of the Crown.\""
+      },
+      {
+        "ref": "EP43:E28",
+        "segment_index": 0,
+        "relative_start_ms": 4200,
+        "relative_end_ms": 8000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Alexander holding up the sealed parcel before the room."
+      },
+      {
+        "ref": "EP43:E30",
+        "segment_index": 0,
+        "relative_start_ms": 7700,
+        "relative_end_ms": 8700,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Read the first.\""
+      },
+      {
+        "ref": "EP43:E31",
+        "segment_index": 0,
+        "relative_start_ms": 8000,
+        "relative_end_ms": 9200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Lord Sterling looking sideways, his face pale with rising dread."
+      },
+      {
+        "ref": "EP43:E32",
+        "segment_index": 0,
+        "relative_start_ms": 9200,
+        "relative_end_ms": 11200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Two-shot of Alexander handing the dossier to a Crown Military Magistrate wearing white gloves and a high-collared black uniform."
+      },
+      {
+        "ref": "EP43:E33",
+        "segment_index": 0,
+        "relative_start_ms": 9400,
+        "relative_end_ms": 11200,
+        "type": "action",
+        "speaker": null,
+        "text": "The Crown Official receives the dossier solemnly with both hands."
+      },
+      {
+        "ref": "EP43:E34",
+        "segment_index": 0,
+        "relative_start_ms": 11200,
+        "relative_end_ms": 17000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up on the Crown Official opening the binder and reading aloud."
+      },
+      {
+        "ref": "EP43:E35",
+        "segment_index": 0,
+        "relative_start_ms": 11400,
+        "relative_end_ms": 12800,
+        "type": "sound",
+        "speaker": null,
+        "text": "Crisp sound of parchment turning."
+      },
+      {
+        "ref": "EP43:E36",
+        "segment_index": 0,
+        "relative_start_ms": 12000,
+        "relative_end_ms": 16700,
+        "type": "dialogue",
+        "speaker": "CROWN OFFICIAL",
+        "text": "\"Military Intelligence Report, Iberian front, three years ago.\""
+      },
+      {
+        "ref": "EP43:E37",
+        "segment_index": 0,
+        "relative_start_ms": 17000,
+        "relative_end_ms": 18100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Rupert staring wide-eyed, completely petrified."
+      },
+      {
+        "ref": "EP43:E38",
+        "segment_index": 0,
+        "relative_start_ms": 18100,
+        "relative_end_ms": 22000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up on the Crown Official continuing the official reading."
+      },
+      {
+        "ref": "EP43:E39",
+        "segment_index": 0,
+        "relative_start_ms": 18200,
+        "relative_end_ms": 21600,
+        "type": "dialogue",
+        "speaker": "CROWN OFFICIAL",
+        "text": "\"Duke Alexander Ashburn's unit was ambushed after his location was compromised.\""
+      },
+      {
+        "ref": "EP43:E40",
+        "segment_index": 0,
+        "relative_start_ms": 22000,
+        "relative_end_ms": 25000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Frontal medium shot of the Crown Official turning a page as the congregation listens in breathless silence."
+      },
+      {
+        "ref": "EP43:E41",
+        "segment_index": 0,
+        "relative_start_ms": 22000,
+        "relative_end_ms": 25000,
+        "type": "dialogue",
+        "speaker": "CROWN OFFICIAL",
+        "text": "\"The report identifies the leak as deliberate.\""
+      },
+      {
+        "ref": "EP43:E42",
+        "segment_index": 0,
+        "relative_start_ms": 25000,
+        "relative_end_ms": 28600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot across the rubble of the cathedral floor showing Rupert crumbling in fear against the choir railing."
+      },
+      {
+        "ref": "EP43:E43",
+        "segment_index": 0,
+        "relative_start_ms": 25200,
+        "relative_end_ms": 28600,
+        "type": "dialogue",
+        "speaker": "CROWN OFFICIAL",
+        "text": "\"Information regarding the Duke's position was transmitted through British channels.\""
+      },
+      {
+        "ref": "EP43:E44",
+        "segment_index": 0,
+        "relative_start_ms": 26000,
+        "relative_end_ms": 28600,
+        "type": "action",
+        "speaker": null,
+        "text": "Rupert staggers backward, his knees buckling as he leans his weight heavily on the stone balustrade."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_dd824cbfee62a14e",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 35000,
+        "end_ms": 62500,
+        "episode_id": "ep_043"
+      }
+    ],
+    "duration_ms": 27500,
+    "origin": "opp_03",
+    "clip_events": [
+      {
+        "ref": "EP43:E32",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Two-shot of Alexander handing the dossier to a Crown Military Magistrate wearing white gloves and a high-collared black uniform."
+      },
+      {
+        "ref": "EP43:E33",
+        "segment_index": 0,
+        "relative_start_ms": 200,
+        "relative_end_ms": 2000,
+        "type": "action",
+        "speaker": null,
+        "text": "The Crown Official receives the dossier solemnly with both hands."
+      },
+      {
+        "ref": "EP43:E34",
+        "segment_index": 0,
+        "relative_start_ms": 2000,
+        "relative_end_ms": 7800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up on the Crown Official opening the binder and reading aloud."
+      },
+      {
+        "ref": "EP43:E35",
+        "segment_index": 0,
+        "relative_start_ms": 2200,
+        "relative_end_ms": 3600,
+        "type": "sound",
+        "speaker": null,
+        "text": "Crisp sound of parchment turning."
+      },
+      {
+        "ref": "EP43:E36",
+        "segment_index": 0,
+        "relative_start_ms": 2800,
+        "relative_end_ms": 7500,
+        "type": "dialogue",
+        "speaker": "CROWN OFFICIAL",
+        "text": "\"Military Intelligence Report, Iberian front, three years ago.\""
+      },
+      {
+        "ref": "EP43:E37",
+        "segment_index": 0,
+        "relative_start_ms": 7800,
+        "relative_end_ms": 8900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Rupert staring wide-eyed, completely petrified."
+      },
+      {
+        "ref": "EP43:E38",
+        "segment_index": 0,
+        "relative_start_ms": 8900,
+        "relative_end_ms": 12800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up on the Crown Official continuing the official reading."
+      },
+      {
+        "ref": "EP43:E39",
+        "segment_index": 0,
+        "relative_start_ms": 9000,
+        "relative_end_ms": 12400,
+        "type": "dialogue",
+        "speaker": "CROWN OFFICIAL",
+        "text": "\"Duke Alexander Ashburn's unit was ambushed after his location was compromised.\""
+      },
+      {
+        "ref": "EP43:E40",
+        "segment_index": 0,
+        "relative_start_ms": 12800,
+        "relative_end_ms": 15800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Frontal medium shot of the Crown Official turning a page as the congregation listens in breathless silence."
+      },
+      {
+        "ref": "EP43:E41",
+        "segment_index": 0,
+        "relative_start_ms": 12800,
+        "relative_end_ms": 15800,
+        "type": "dialogue",
+        "speaker": "CROWN OFFICIAL",
+        "text": "\"The report identifies the leak as deliberate.\""
+      },
+      {
+        "ref": "EP43:E42",
+        "segment_index": 0,
+        "relative_start_ms": 15800,
+        "relative_end_ms": 19800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot across the rubble of the cathedral floor showing Rupert crumbling in fear against the choir railing."
+      },
+      {
+        "ref": "EP43:E43",
+        "segment_index": 0,
+        "relative_start_ms": 16000,
+        "relative_end_ms": 19400,
+        "type": "dialogue",
+        "speaker": "CROWN OFFICIAL",
+        "text": "\"Information regarding the Duke's position was transmitted through British channels.\""
+      },
+      {
+        "ref": "EP43:E44",
+        "segment_index": 0,
+        "relative_start_ms": 16800,
+        "relative_end_ms": 19800,
+        "type": "action",
+        "speaker": null,
+        "text": "Rupert staggers backward, his knees buckling as he leans his weight heavily on the stone balustrade."
+      },
+      {
+        "ref": "EP43:E45",
+        "segment_index": 0,
+        "relative_start_ms": 19800,
+        "relative_end_ms": 22000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Rupert clinging to the stone pillar, his breath shallow and terrified."
+      },
+      {
+        "ref": "EP43:E46",
+        "segment_index": 0,
+        "relative_start_ms": 20000,
+        "relative_end_ms": 21500,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"No...\""
+      },
+      {
+        "ref": "EP43:E47",
+        "segment_index": 0,
+        "relative_start_ms": 22000,
+        "relative_end_ms": 25000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot on Alexander stepping forward, thrusting the secondary dossier forward."
+      },
+      {
+        "ref": "EP43:E48",
+        "segment_index": 0,
+        "relative_start_ms": 23500,
+        "relative_end_ms": 25000,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Read the names.\""
+      },
+      {
+        "ref": "EP43:E49",
+        "segment_index": 0,
+        "relative_start_ms": 25000,
+        "relative_end_ms": 27500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up on the Crown Official reading the concluding section."
+      },
+      {
+        "ref": "EP43:E50",
+        "segment_index": 0,
+        "relative_start_ms": 25600,
+        "relative_end_ms": 27500,
+        "type": "dialogue",
+        "speaker": "CROWN OFFICIAL",
+        "text": "\"Lord Henry Sterling.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_b2303a2e34352c2b",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 56500,
+        "end_ms": 81000,
+        "episode_id": "ep_043"
+      }
+    ],
+    "duration_ms": 24500,
+    "origin": "opp_04",
+    "clip_events": [
+      {
+        "ref": "EP43:E45",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Rupert clinging to the stone pillar, his breath shallow and terrified."
+      },
+      {
+        "ref": "EP43:E47",
+        "segment_index": 0,
+        "relative_start_ms": 500,
+        "relative_end_ms": 3500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot on Alexander stepping forward, thrusting the secondary dossier forward."
+      },
+      {
+        "ref": "EP43:E48",
+        "segment_index": 0,
+        "relative_start_ms": 2000,
+        "relative_end_ms": 3500,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Read the names.\""
+      },
+      {
+        "ref": "EP43:E49",
+        "segment_index": 0,
+        "relative_start_ms": 3500,
+        "relative_end_ms": 6500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up on the Crown Official reading the concluding section."
+      },
+      {
+        "ref": "EP43:E50",
+        "segment_index": 0,
+        "relative_start_ms": 4100,
+        "relative_end_ms": 6000,
+        "type": "dialogue",
+        "speaker": "CROWN OFFICIAL",
+        "text": "\"Lord Henry Sterling.\""
+      },
+      {
+        "ref": "EP43:E51",
+        "segment_index": 0,
+        "relative_start_ms": 6500,
+        "relative_end_ms": 8000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Quick pan to Lord Sterling stiffening in his pew, then the Crown Official."
+      },
+      {
+        "ref": "EP43:E52",
+        "segment_index": 0,
+        "relative_start_ms": 6600,
+        "relative_end_ms": 7700,
+        "type": "dialogue",
+        "speaker": "CROWN OFFICIAL",
+        "text": "\"Rupert Ashburn.\""
+      },
+      {
+        "ref": "EP43:E53",
+        "segment_index": 0,
+        "relative_start_ms": 8000,
+        "relative_end_ms": 9500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up on Rupert's horrified eyes darting in sheer terror."
+      },
+      {
+        "ref": "EP43:E54",
+        "segment_index": 0,
+        "relative_start_ms": 9500,
+        "relative_end_ms": 12300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on the Dowager Duchess covering her mouth in agonizing disbelief."
+      },
+      {
+        "ref": "EP43:E55",
+        "segment_index": 0,
+        "relative_start_ms": 10000,
+        "relative_end_ms": 11500,
+        "type": "dialogue",
+        "speaker": "DOWAGER DUCHESS",
+        "text": "\"My God...\""
+      },
+      {
+        "ref": "EP43:E56",
+        "segment_index": 0,
+        "relative_start_ms": 12300,
+        "relative_end_ms": 14700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle shot on Alexander towering over the fallen Rupert."
+      },
+      {
+        "ref": "EP43:E57",
+        "segment_index": 0,
+        "relative_start_ms": 12500,
+        "relative_end_ms": 14800,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"You sold my men to the enemy.\""
+      },
+      {
+        "ref": "EP43:E58",
+        "segment_index": 0,
+        "relative_start_ms": 14700,
+        "relative_end_ms": 16200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Rupert waving his hands defensively, hyperventilating."
+      },
+      {
+        "ref": "EP43:E59",
+        "segment_index": 0,
+        "relative_start_ms": 14900,
+        "relative_end_ms": 16200,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"I didn't!\""
+      },
+      {
+        "ref": "EP43:E60",
+        "segment_index": 0,
+        "relative_start_ms": 16200,
+        "relative_end_ms": 18300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle tracking push-in on Alexander raising the red-ribboned war document toward the cathedral arches."
+      },
+      {
+        "ref": "EP43:E61",
+        "segment_index": 0,
+        "relative_start_ms": 16300,
+        "relative_end_ms": 18700,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"And when you believed I was dead...\""
+      },
+      {
+        "ref": "EP43:E62",
+        "segment_index": 0,
+        "relative_start_ms": 18300,
+        "relative_end_ms": 19500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Quick reaction shot on Rupert gasping on the steps."
+      },
+      {
+        "ref": "EP43:E63",
+        "segment_index": 0,
+        "relative_start_ms": 19500,
+        "relative_end_ms": 21300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up on Alexander's scarred, furious face."
+      },
+      {
+        "ref": "EP43:E64",
+        "segment_index": 0,
+        "relative_start_ms": 19600,
+        "relative_end_ms": 21100,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"You took my title.\""
+      },
+      {
+        "ref": "EP43:E65",
+        "segment_index": 0,
+        "relative_start_ms": 21300,
+        "relative_end_ms": 24500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up on the Crown Official's gloved thumb cracking the red wax seal open."
+      },
+      {
+        "ref": "EP43:E66",
+        "segment_index": 0,
+        "relative_start_ms": 21500,
+        "relative_end_ms": 22900,
+        "type": "sound",
+        "speaker": null,
+        "text": "Brittle snap of breaking sealing wax."
+      }
+    ]
+  }
+]

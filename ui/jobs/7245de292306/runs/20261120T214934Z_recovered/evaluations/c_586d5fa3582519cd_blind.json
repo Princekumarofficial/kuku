@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_586d5fa3582519cd",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP49:E33",
+      "EP49:E36"
+    ],
+    "reason": "The opening within 0-3000ms establishes confrontation: Father Thomas demands Catherine state her needs plainly (E33 starts at 400ms), and her raised fingers and ruthless-looking stare in the candlelight add tension (E36). The hook is strong, but its stakes are unclear to a first-time viewer."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP49:E38",
+      "EP49:E39"
+    ],
+    "reason": "The clip ends in the final 3000ms with Father Thomas reacting to Catherine's demand and asking whether she wants eyes inside the council chamber (E39). No answer is given, so the exchange is left open, though the question is the only unresolved thread.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Catherine is and her relationship to Father Thomas",
+      "What 'the hearing' is and why it matters",
+      "Who or what 'her' refers to in the council discussion",
+      "What the council is deciding and who the witnesses are",
+      "Why Catherine's terms are dangerous or significant",
+      "What Father Thomas can actually do about her demands"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 6.0,
+    "reason": "The clip conveys impatience, resolve, ruthless intent, and the audacity of Catherine's demands through close-ups and tense dialogue. The emotional stakes remain abstract because the viewer lacks the background to feel invested in the outcome."
+  },
+  "weaknesses": [
+    "Stakes and background are not established within the clip",
+    "Characters and council context are introduced without explanation",
+    "The purpose of the hearing and the threat to 'her' are unclear",
+    "Father Thomas's response is cut off before any decision is made"
+  ],
+  "one_line_why_it_works": "Catherine's escalating, precise demands set against Father Thomas's shocked impatience create a tense power standoff that ends on a pointed question."
+}

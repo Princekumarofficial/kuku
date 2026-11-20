@@ -1,0 +1,326 @@
+{
+  "episode_id": "ep_028",
+  "summary": "Episode ep_028 (EP28) shows Juliana seized in the Duchess's bedchamber after a herbarium falls from her pocket and is stepped on by Catherine. Catherine accuses her of poisoning. The Dowager Duchess rises weakly, declares Juliana innocent and says she was poisoned and that Rupert and Catherine knew. The Duchess then collapses, and Juliana is dragged away. Catherine seizes Juliana's locket, reads the herbarium's inscription 'Juliana Ashcroft', exposes Juliana's past, and orders her taken to the wet cells beneath the south tower. Uncertainty: the on-screen evidence never shows the poisoning, the poison, or any antidote. Whether Juliana is guilty is never shown. The Blond Nobleman is never named on screen; his identity as Rupert is inferred from the Duchess's address to Rupert and the scene staging, not stated directly. The guard is unnamed. The metadata logline and continuity note (including the claim that Episode 27 precedes this and the mention of Rupert's order to seize Juliana) are not on-screen evidence and were not used for any event claims. Event timestamps are taken from the supplied scene record and the scene runs 0-138500 ms.",
+  "characters": [
+    {
+      "name": "Juliana",
+      "role": "Accused maid; on screen revealed as Lady Juliana Ashcroft, daughter of a disgraced family, and claims to have discovered the poison"
+    },
+    {
+      "name": "Catherine",
+      "role": "Antagonist who frames Juliana, seizes her locket and herbarium, and reveals her identity"
+    },
+    {
+      "name": "Rupert",
+      "role": "Nobleman, likely the Blond Nobleman (identity inferred, not directly named on screen); son of the Dowager Duchess; orders Juliana seized and dragged away"
+    },
+    {
+      "name": "Dowager Duchess",
+      "role": "Bedridden matriarch who defends Juliana, claims she was poisoned, and accuses Rupert and Catherine of knowing"
+    },
+    {
+      "name": "Guard",
+      "role": "Unnamed armed guard who restrains Juliana"
+    }
+  ],
+  "beats": [
+    {
+      "id": "b1",
+      "kind": "escalation",
+      "event_refs": [
+        "EP28:E1",
+        "EP28:E2",
+        "EP28:E3",
+        "EP28:E4",
+        "EP28:E5"
+      ],
+      "description": "Guard drags Juliana toward the doorway; the herbarium falls from her pocket and Catherine deliberately steps on it.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b2",
+      "kind": "accusation",
+      "event_refs": [
+        "EP28:E6",
+        "EP28:E7",
+        "EP28:E8",
+        "EP28:E9",
+        "EP28:E10",
+        "EP28:E11",
+        "EP28:E12",
+        "EP28:E13"
+      ],
+      "description": "Catherine mocks Juliana and accuses her of being a poisoner with herbs and a secret medicine.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b3",
+      "kind": "defiance",
+      "event_refs": [
+        "EP28:E14",
+        "EP28:E15",
+        "EP28:E16",
+        "EP28:E17",
+        "EP28:E18"
+      ],
+      "description": "Juliana denies poisoning the Duchess; the Blond Nobleman threatens to extract the truth.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b4",
+      "kind": "reversal",
+      "event_refs": [
+        "EP28:E19",
+        "EP28:E20",
+        "EP28:E21",
+        "EP28:E22",
+        "EP28:E23",
+        "EP28:E24",
+        "EP28:E25"
+      ],
+      "description": "The Dowager Duchess wakes, calls Rupert to stop, and declares Juliana innocent and that she saved her.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "b5",
+      "kind": "revelation",
+      "event_refs": [
+        "EP28:E28",
+        "EP28:E29",
+        "EP28:E30",
+        "EP28:E31",
+        "EP28:E32",
+        "EP28:E33",
+        "EP28:E34"
+      ],
+      "description": "The Duchess claims she was poisoned and accuses Rupert and Catherine of knowing.",
+      "intensity_0_10": 9.0
+    },
+    {
+      "id": "b6",
+      "kind": "collapse",
+      "event_refs": [
+        "EP28:E35",
+        "EP28:E36",
+        "EP28:E37",
+        "EP28:E38",
+        "EP28:E39"
+      ],
+      "description": "The Duchess collapses and coughs violently; Juliana tries to reach her but is restrained.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "b7",
+      "kind": "dismissal",
+      "event_refs": [
+        "EP28:E40",
+        "EP28:E41",
+        "EP28:E42",
+        "EP28:E43",
+        "EP28:E44",
+        "EP28:E45",
+        "EP28:E46"
+      ],
+      "description": "Rupert and the Blond Nobleman dismiss the Duchess as mentally damaged by poison.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b8",
+      "kind": "order",
+      "event_refs": [
+        "EP28:E47",
+        "EP28:E48",
+        "EP28:E49",
+        "EP28:E50",
+        "EP28:E51"
+      ],
+      "description": "Catherine and Rupert move to remove Juliana, ordering her taken away before she poisons the house.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b9",
+      "kind": "humiliation",
+      "event_refs": [
+        "EP28:E52",
+        "EP28:E53",
+        "EP28:E54",
+        "EP28:E55",
+        "EP28:E56",
+        "EP28:E57",
+        "EP28:E58",
+        "EP28:E59",
+        "EP28:E60",
+        "EP28:E61",
+        "EP28:E62",
+        "EP28:E63",
+        "EP28:E64"
+      ],
+      "description": "Catherine rips the silver locket from Juliana's neck and flings it across the corridor floor while Juliana cries out.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "b10",
+      "kind": "exposure",
+      "event_refs": [
+        "EP28:E65",
+        "EP28:E66",
+        "EP28:E67",
+        "EP28:E68",
+        "EP28:E69",
+        "EP28:E70",
+        "EP28:E71",
+        "EP28:E72",
+        "EP28:E73"
+      ],
+      "description": "Catherine picks up the herbarium, reads the inscription 'Juliana Ashcroft', and names her Lady Juliana Ashcroft.",
+      "intensity_0_10": 9.0
+    },
+    {
+      "id": "b11",
+      "kind": "humiliation",
+      "event_refs": [
+        "EP28:E74",
+        "EP28:E75",
+        "EP28:E76",
+        "EP28:E77",
+        "EP28:E78",
+        "EP28:E79",
+        "EP28:E80",
+        "EP28:E81",
+        "EP28:E82",
+        "EP28:E83",
+        "EP28:E84",
+        "EP28:E85"
+      ],
+      "description": "Catherine taunts Juliana about her disgraced past and marriage to a penniless war veteran; Juliana protests.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "b12",
+      "kind": "cliffhanger",
+      "event_refs": [
+        "EP28:E86",
+        "EP28:E87",
+        "EP28:E88",
+        "EP28:E89",
+        "EP28:E90",
+        "EP28:E91",
+        "EP28:E92",
+        "EP28:E93",
+        "EP28:E94",
+        "EP28:E95",
+        "EP28:E96"
+      ],
+      "description": "Juliana is ordered to the wet cells beneath the south tower; Catherine holds the herbarium threatening the gallows, and the scene cuts to black.",
+      "intensity_0_10": 9.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "r1",
+      "event_refs": [
+        "EP28:E33",
+        "EP28:E34",
+        "EP28:E35"
+      ],
+      "claim": "The Dowager Duchess claims Catherine knew about the poisoning.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "Did Catherine know about and cause the poisoning?",
+        "What was Duchess about to say with 'They have been—'?"
+      ]
+    },
+    {
+      "id": "r2",
+      "event_refs": [
+        "EP28:E29",
+        "EP28:E30",
+        "EP28:E31",
+        "EP28:E32"
+      ],
+      "claim": "The Dowager Duchess states she was poisoned and that Rupert knew.",
+      "spoiler_significance_0_10": 8.0,
+      "creates_questions": [
+        "Who poisoned the Duchess?",
+        "Did Rupert knowingly allow or cause the poisoning?"
+      ]
+    },
+    {
+      "id": "r3",
+      "event_refs": [
+        "EP28:E69",
+        "EP28:E73"
+      ],
+      "claim": "The herbarium inscription reads 'Juliana Ashcroft' and Catherine names her Lady Juliana Ashcroft.",
+      "spoiler_significance_0_10": 8.0,
+      "creates_questions": [
+        "What is the Ashcroft family's history and why was Juliana disgraced?",
+        "Did Juliana's mother write the herbarium?"
+      ]
+    },
+    {
+      "id": "r4",
+      "event_refs": [
+        "EP28:E79",
+        "EP28:E80"
+      ],
+      "claim": "Catherine claims Juliana married a penniless war veteran and was thrown out of her family home.",
+      "spoiler_significance_0_10": 5.0,
+      "creates_questions": [
+        "Who is Juliana's husband and where is he?",
+        "Is Catherine's account of Juliana's disgrace accurate?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "Was the Duchess poisoned, and if so by whom and with what substance?",
+      "introduced_by": [
+        "EP28:E31",
+        "EP28:E34"
+      ]
+    },
+    {
+      "question": "Did Rupert know about the poisoning, and what is his role?",
+      "introduced_by": [
+        "EP28:E32",
+        "EP28:E30"
+      ]
+    },
+    {
+      "question": "What was Catherine about to reveal with 'They have been—'?",
+      "introduced_by": [
+        "EP28:E35"
+      ]
+    },
+    {
+      "question": "Does Juliana have a genuine medicinal role, or are the herbs and medicine evidence of guilt?",
+      "introduced_by": [
+        "EP28:E10",
+        "EP28:E11",
+        "EP28:E15"
+      ]
+    },
+    {
+      "question": "Will the Duchess survive her collapse?",
+      "introduced_by": [
+        "EP28:E36"
+      ]
+    },
+    {
+      "question": "Who is Juliana's husband, and what happened to her family after her disgrace?",
+      "introduced_by": [
+        "EP28:E79",
+        "EP28:E82"
+      ]
+    },
+    {
+      "question": "Will the herbarium and locket be recovered, and what will the magistrate do with the herbarium's contents?",
+      "introduced_by": [
+        "EP28:E90",
+        "EP28:E94",
+        "EP28:E95"
+      ]
+    }
+  ]
+}

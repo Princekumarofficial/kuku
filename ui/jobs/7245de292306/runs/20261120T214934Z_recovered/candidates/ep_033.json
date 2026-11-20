@@ -1,0 +1,1259 @@
+[
+  {
+    "candidate_id": "c_7f471350496dfc7e",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 8500,
+        "end_ms": 68500,
+        "episode_id": "ep_033"
+      }
+    ],
+    "duration_ms": 60000,
+    "origin": "opp_1",
+    "clip_events": [
+      {
+        "ref": "EP33:E4",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the maid trembling as she raises her eyes hesitantly."
+      },
+      {
+        "ref": "EP33:E6",
+        "segment_index": 0,
+        "relative_start_ms": 300,
+        "relative_end_ms": 3500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the Lord standing beside his mahogany desk, looking down with cold, calculating scrutiny."
+      },
+      {
+        "ref": "EP33:E7",
+        "segment_index": 0,
+        "relative_start_ms": 1000,
+        "relative_end_ms": 3300,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"And who saved him?\""
+      },
+      {
+        "ref": "EP33:E8",
+        "segment_index": 0,
+        "relative_start_ms": 3500,
+        "relative_end_ms": 6300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the maid's anxious, innocent face."
+      },
+      {
+        "ref": "EP33:E9",
+        "segment_index": 0,
+        "relative_start_ms": 4500,
+        "relative_end_ms": 6000,
+        "type": "dialogue",
+        "speaker": "MAID",
+        "text": "\"Lady Juliana.\""
+      },
+      {
+        "ref": "EP33:E10",
+        "segment_index": 0,
+        "relative_start_ms": 6300,
+        "relative_end_ms": 9300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Lord's hand slowly rotating the heavy gold signet ring on his pinky finger."
+      },
+      {
+        "ref": "EP33:E11",
+        "segment_index": 0,
+        "relative_start_ms": 7000,
+        "relative_end_ms": 9000,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"Tell me how.\""
+      },
+      {
+        "ref": "EP33:E12",
+        "segment_index": 0,
+        "relative_start_ms": 9300,
+        "relative_end_ms": 12500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the maid nervously wringing her apron fabric."
+      },
+      {
+        "ref": "EP33:E13",
+        "segment_index": 0,
+        "relative_start_ms": 11000,
+        "relative_end_ms": 12500,
+        "type": "dialogue",
+        "speaker": "MAID",
+        "text": "\"She... she used herbs.\""
+      },
+      {
+        "ref": "EP33:E14",
+        "segment_index": 0,
+        "relative_start_ms": 12500,
+        "relative_end_ms": 14500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on the Lord leaning forward abruptly, his piercing gaze bearing down."
+      },
+      {
+        "ref": "EP33:E15",
+        "segment_index": 0,
+        "relative_start_ms": 12700,
+        "relative_end_ms": 14300,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"What herbs?\""
+      },
+      {
+        "ref": "EP33:E16",
+        "segment_index": 0,
+        "relative_start_ms": 14500,
+        "relative_end_ms": 18000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the frightened maid looking down, shrinking back."
+      },
+      {
+        "ref": "EP33:E17",
+        "segment_index": 0,
+        "relative_start_ms": 16000,
+        "relative_end_ms": 17700,
+        "type": "dialogue",
+        "speaker": "MAID",
+        "text": "\"I don't know.\""
+      },
+      {
+        "ref": "EP33:E18",
+        "segment_index": 0,
+        "relative_start_ms": 18000,
+        "relative_end_ms": 20700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle shot looking up at the imposing Lord towering above her."
+      },
+      {
+        "ref": "EP33:E19",
+        "segment_index": 0,
+        "relative_start_ms": 19000,
+        "relative_end_ms": 20500,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"You watched her.\""
+      },
+      {
+        "ref": "EP33:E20",
+        "segment_index": 0,
+        "relative_start_ms": 20700,
+        "relative_end_ms": 24300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the maid, tears beginning to glisten on her cheeks as she defends Juliana."
+      },
+      {
+        "ref": "EP33:E21",
+        "segment_index": 0,
+        "relative_start_ms": 21300,
+        "relative_end_ms": 23500,
+        "type": "dialogue",
+        "speaker": "MAID",
+        "text": "\"I watched her save him.\""
+      },
+      {
+        "ref": "EP33:E22",
+        "segment_index": 0,
+        "relative_start_ms": 24300,
+        "relative_end_ms": 28000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium tracking shot of the Lord turning away slowly past the lamp-lit desk toward the rain-streaked window."
+      },
+      {
+        "ref": "EP33:E23",
+        "segment_index": 0,
+        "relative_start_ms": 25500,
+        "relative_end_ms": 27700,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"That is not what I asked.\""
+      },
+      {
+        "ref": "EP33:E24",
+        "segment_index": 0,
+        "relative_start_ms": 28000,
+        "relative_end_ms": 31700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot framing the maid from behind as the Lord steps back toward her with commanding stillness."
+      },
+      {
+        "ref": "EP33:E25",
+        "segment_index": 0,
+        "relative_start_ms": 29000,
+        "relative_end_ms": 31500,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"Did she use her mother's book?\""
+      },
+      {
+        "ref": "EP33:E26",
+        "segment_index": 0,
+        "relative_start_ms": 31700,
+        "relative_end_ms": 35700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the maid trembling, tears spilling down her face."
+      },
+      {
+        "ref": "EP33:E27",
+        "segment_index": 0,
+        "relative_start_ms": 33700,
+        "relative_end_ms": 35100,
+        "type": "dialogue",
+        "speaker": "MAID",
+        "text": "\"Yes.\""
+      },
+      {
+        "ref": "EP33:E28",
+        "segment_index": 0,
+        "relative_start_ms": 35700,
+        "relative_end_ms": 40700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Lord's sinister, unyielding face."
+      },
+      {
+        "ref": "EP33:E29",
+        "segment_index": 0,
+        "relative_start_ms": 36300,
+        "relative_end_ms": 40300,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"Did she prepare things no physician had prescribed?\""
+      },
+      {
+        "ref": "EP33:E30",
+        "segment_index": 0,
+        "relative_start_ms": 40700,
+        "relative_end_ms": 44000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the maid clutching her hands together tightly, overwhelmed with guilt."
+      },
+      {
+        "ref": "EP33:E31",
+        "segment_index": 0,
+        "relative_start_ms": 41500,
+        "relative_end_ms": 43100,
+        "type": "dialogue",
+        "speaker": "MAID",
+        "text": "\"Yes.\""
+      },
+      {
+        "ref": "EP33:E32",
+        "segment_index": 0,
+        "relative_start_ms": 44000,
+        "relative_end_ms": 48300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Lord's mouth curling into a sinister, predatory smile."
+      },
+      {
+        "ref": "EP33:E33",
+        "segment_index": 0,
+        "relative_start_ms": 44500,
+        "relative_end_ms": 48000,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"And did she perform anything unusual?\""
+      },
+      {
+        "ref": "EP33:E34",
+        "segment_index": 0,
+        "relative_start_ms": 48300,
+        "relative_end_ms": 50500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the maid gasping, shaking her head vigorously in panic."
+      },
+      {
+        "ref": "EP33:E35",
+        "segment_index": 0,
+        "relative_start_ms": 48900,
+        "relative_end_ms": 50300,
+        "type": "dialogue",
+        "speaker": "MAID",
+        "text": "\"No!\""
+      },
+      {
+        "ref": "EP33:E37",
+        "segment_index": 0,
+        "relative_start_ms": 50500,
+        "relative_end_ms": 52500,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"Think carefully.\""
+      },
+      {
+        "ref": "EP33:E36",
+        "segment_index": 0,
+        "relative_start_ms": 50500,
+        "relative_end_ms": 55700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Profile medium two-shot as the Lord looms inches from the maid's face."
+      },
+      {
+        "ref": "EP33:E38",
+        "segment_index": 0,
+        "relative_start_ms": 52700,
+        "relative_end_ms": 55000,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"Your brother is still a pauper.\""
+      },
+      {
+        "ref": "EP33:E39",
+        "segment_index": 0,
+        "relative_start_ms": 55700,
+        "relative_end_ms": 60000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of the Lord's cold eyes and hawkish profile speaking with chilling finality."
+      },
+      {
+        "ref": "EP33:E40",
+        "segment_index": 0,
+        "relative_start_ms": 55900,
+        "relative_end_ms": 60000,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"One word from me, and the county gaol will take him before sunrise.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_07c164e116382120",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 27500,
+        "end_ms": 75000,
+        "episode_id": "ep_033"
+      }
+    ],
+    "duration_ms": 47500,
+    "origin": "opp_2",
+    "clip_events": [
+      {
+        "ref": "EP33:E18",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle shot looking up at the imposing Lord towering above her."
+      },
+      {
+        "ref": "EP33:E19",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1500,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"You watched her.\""
+      },
+      {
+        "ref": "EP33:E20",
+        "segment_index": 0,
+        "relative_start_ms": 1700,
+        "relative_end_ms": 5300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the maid, tears beginning to glisten on her cheeks as she defends Juliana."
+      },
+      {
+        "ref": "EP33:E21",
+        "segment_index": 0,
+        "relative_start_ms": 2300,
+        "relative_end_ms": 4500,
+        "type": "dialogue",
+        "speaker": "MAID",
+        "text": "\"I watched her save him.\""
+      },
+      {
+        "ref": "EP33:E22",
+        "segment_index": 0,
+        "relative_start_ms": 5300,
+        "relative_end_ms": 9000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium tracking shot of the Lord turning away slowly past the lamp-lit desk toward the rain-streaked window."
+      },
+      {
+        "ref": "EP33:E23",
+        "segment_index": 0,
+        "relative_start_ms": 6500,
+        "relative_end_ms": 8700,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"That is not what I asked.\""
+      },
+      {
+        "ref": "EP33:E24",
+        "segment_index": 0,
+        "relative_start_ms": 9000,
+        "relative_end_ms": 12700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot framing the maid from behind as the Lord steps back toward her with commanding stillness."
+      },
+      {
+        "ref": "EP33:E25",
+        "segment_index": 0,
+        "relative_start_ms": 10000,
+        "relative_end_ms": 12500,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"Did she use her mother's book?\""
+      },
+      {
+        "ref": "EP33:E26",
+        "segment_index": 0,
+        "relative_start_ms": 12700,
+        "relative_end_ms": 16700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the maid trembling, tears spilling down her face."
+      },
+      {
+        "ref": "EP33:E27",
+        "segment_index": 0,
+        "relative_start_ms": 14700,
+        "relative_end_ms": 16100,
+        "type": "dialogue",
+        "speaker": "MAID",
+        "text": "\"Yes.\""
+      },
+      {
+        "ref": "EP33:E28",
+        "segment_index": 0,
+        "relative_start_ms": 16700,
+        "relative_end_ms": 21700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Lord's sinister, unyielding face."
+      },
+      {
+        "ref": "EP33:E29",
+        "segment_index": 0,
+        "relative_start_ms": 17300,
+        "relative_end_ms": 21300,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"Did she prepare things no physician had prescribed?\""
+      },
+      {
+        "ref": "EP33:E30",
+        "segment_index": 0,
+        "relative_start_ms": 21700,
+        "relative_end_ms": 25000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the maid clutching her hands together tightly, overwhelmed with guilt."
+      },
+      {
+        "ref": "EP33:E31",
+        "segment_index": 0,
+        "relative_start_ms": 22500,
+        "relative_end_ms": 24100,
+        "type": "dialogue",
+        "speaker": "MAID",
+        "text": "\"Yes.\""
+      },
+      {
+        "ref": "EP33:E32",
+        "segment_index": 0,
+        "relative_start_ms": 25000,
+        "relative_end_ms": 29300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Lord's mouth curling into a sinister, predatory smile."
+      },
+      {
+        "ref": "EP33:E33",
+        "segment_index": 0,
+        "relative_start_ms": 25500,
+        "relative_end_ms": 29000,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"And did she perform anything unusual?\""
+      },
+      {
+        "ref": "EP33:E34",
+        "segment_index": 0,
+        "relative_start_ms": 29300,
+        "relative_end_ms": 31500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the maid gasping, shaking her head vigorously in panic."
+      },
+      {
+        "ref": "EP33:E35",
+        "segment_index": 0,
+        "relative_start_ms": 29900,
+        "relative_end_ms": 31300,
+        "type": "dialogue",
+        "speaker": "MAID",
+        "text": "\"No!\""
+      },
+      {
+        "ref": "EP33:E37",
+        "segment_index": 0,
+        "relative_start_ms": 31500,
+        "relative_end_ms": 33500,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"Think carefully.\""
+      },
+      {
+        "ref": "EP33:E36",
+        "segment_index": 0,
+        "relative_start_ms": 31500,
+        "relative_end_ms": 36700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Profile medium two-shot as the Lord looms inches from the maid's face."
+      },
+      {
+        "ref": "EP33:E38",
+        "segment_index": 0,
+        "relative_start_ms": 33700,
+        "relative_end_ms": 36000,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"Your brother is still a pauper.\""
+      },
+      {
+        "ref": "EP33:E39",
+        "segment_index": 0,
+        "relative_start_ms": 36700,
+        "relative_end_ms": 41300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of the Lord's cold eyes and hawkish profile speaking with chilling finality."
+      },
+      {
+        "ref": "EP33:E40",
+        "segment_index": 0,
+        "relative_start_ms": 36900,
+        "relative_end_ms": 41000,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"One word from me, and the county gaol will take him before sunrise.\""
+      },
+      {
+        "ref": "EP33:E41",
+        "segment_index": 0,
+        "relative_start_ms": 41000,
+        "relative_end_ms": 42500,
+        "type": "action",
+        "speaker": null,
+        "text": "The maid gasps in sheer terror, her chest heaving as tears stream."
+      },
+      {
+        "ref": "EP33:E42",
+        "segment_index": 0,
+        "relative_start_ms": 41300,
+        "relative_end_ms": 45700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the maid clutching her chest with trembling hands, crying desperately."
+      },
+      {
+        "ref": "EP33:E43",
+        "segment_index": 0,
+        "relative_start_ms": 42000,
+        "relative_end_ms": 45500,
+        "type": "dialogue",
+        "speaker": "MAID",
+        "text": "\"Please, my Lord... he is only seven!\""
+      },
+      {
+        "ref": "EP33:E45",
+        "segment_index": 0,
+        "relative_start_ms": 45700,
+        "relative_end_ms": 47500,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"Then help him.\""
+      },
+      {
+        "ref": "EP33:E44",
+        "segment_index": 0,
+        "relative_start_ms": 45700,
+        "relative_end_ms": 47500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Lord staring down without an ounce of pity."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_9a8b7b8b2963bb09",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 79000,
+        "end_ms": 134000,
+        "episode_id": "ep_033"
+      }
+    ],
+    "duration_ms": 55000,
+    "origin": "opp_3",
+    "clip_events": [
+      {
+        "ref": "EP33:E46",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the maid weeping profusely, cornered and helpless."
+      },
+      {
+        "ref": "EP33:E48",
+        "segment_index": 0,
+        "relative_start_ms": 500,
+        "relative_end_ms": 5800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot of the study as the Lord stands calmly before the trembling servant."
+      },
+      {
+        "ref": "EP33:E49",
+        "segment_index": 0,
+        "relative_start_ms": 600,
+        "relative_end_ms": 1500,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"The truth.\""
+      },
+      {
+        "ref": "EP33:E50",
+        "segment_index": 0,
+        "relative_start_ms": 2000,
+        "relative_end_ms": 5500,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"She drew something around the bed, did she not?\""
+      },
+      {
+        "ref": "EP33:E51",
+        "segment_index": 0,
+        "relative_start_ms": 5800,
+        "relative_end_ms": 10000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the maid stammering through her tears."
+      },
+      {
+        "ref": "EP33:E52",
+        "segment_index": 0,
+        "relative_start_ms": 6500,
+        "relative_end_ms": 9800,
+        "type": "dialogue",
+        "speaker": "MAID",
+        "text": "\"She... placed dried herbs around him.\""
+      },
+      {
+        "ref": "EP33:E54",
+        "segment_index": 0,
+        "relative_start_ms": 10000,
+        "relative_end_ms": 11500,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"Around him.\""
+      },
+      {
+        "ref": "EP33:E53",
+        "segment_index": 0,
+        "relative_start_ms": 10000,
+        "relative_end_ms": 15800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the Lord standing right beside her shoulder, whispering in her ear like an insidious specter."
+      },
+      {
+        "ref": "EP33:E55",
+        "segment_index": 0,
+        "relative_start_ms": 12000,
+        "relative_end_ms": 13500,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"Like a circle?\""
+      },
+      {
+        "ref": "EP33:E56",
+        "segment_index": 0,
+        "relative_start_ms": 14000,
+        "relative_end_ms": 15500,
+        "type": "dialogue",
+        "speaker": "MAID",
+        "text": "\"Yes.\""
+      },
+      {
+        "ref": "EP33:E57",
+        "segment_index": 0,
+        "relative_start_ms": 15800,
+        "relative_end_ms": 19500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up from behind the maid as the Lord leans close to her ear."
+      },
+      {
+        "ref": "EP33:E58",
+        "segment_index": 0,
+        "relative_start_ms": 16000,
+        "relative_end_ms": 19000,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"And she opened her mother's book...\""
+      },
+      {
+        "ref": "EP33:E60",
+        "segment_index": 0,
+        "relative_start_ms": 19500,
+        "relative_end_ms": 21000,
+        "type": "dialogue",
+        "speaker": "MAID",
+        "text": "\"Yes.\""
+      },
+      {
+        "ref": "EP33:E59",
+        "segment_index": 0,
+        "relative_start_ms": 19500,
+        "relative_end_ms": 21800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of the maid's tear-drenched eyes and quivering lips."
+      },
+      {
+        "ref": "EP33:E61",
+        "segment_index": 0,
+        "relative_start_ms": 21800,
+        "relative_end_ms": 25200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Lord delivering the final trap."
+      },
+      {
+        "ref": "EP33:E62",
+        "segment_index": 0,
+        "relative_start_ms": 22000,
+        "relative_end_ms": 25000,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"...and spoke words you could not understand.\""
+      },
+      {
+        "ref": "EP33:E63",
+        "segment_index": 0,
+        "relative_start_ms": 25200,
+        "relative_end_ms": 28500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the maid gasping out in desperate agony."
+      },
+      {
+        "ref": "EP33:E64",
+        "segment_index": 0,
+        "relative_start_ms": 25500,
+        "relative_end_ms": 27500,
+        "type": "dialogue",
+        "speaker": "MAID",
+        "text": "\"She was praying!\""
+      },
+      {
+        "ref": "EP33:E65",
+        "segment_index": 0,
+        "relative_start_ms": 28500,
+        "relative_end_ms": 32800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Lord grinning with sinister triumph."
+      },
+      {
+        "ref": "EP33:E66",
+        "segment_index": 0,
+        "relative_start_ms": 29000,
+        "relative_end_ms": 32500,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"Praying... or chanting?\""
+      },
+      {
+        "ref": "EP33:E67",
+        "segment_index": 0,
+        "relative_start_ms": 32800,
+        "relative_end_ms": 34800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the maid breaking down completely."
+      },
+      {
+        "ref": "EP33:E68",
+        "segment_index": 0,
+        "relative_start_ms": 33000,
+        "relative_end_ms": 34500,
+        "type": "dialogue",
+        "speaker": "MAID",
+        "text": "\"I don't know!\""
+      },
+      {
+        "ref": "EP33:E69",
+        "segment_index": 0,
+        "relative_start_ms": 34800,
+        "relative_end_ms": 40500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as the Lord paces slowly, pointing his finger with clinical, legal precision."
+      },
+      {
+        "ref": "EP33:E70",
+        "segment_index": 0,
+        "relative_start_ms": 35000,
+        "relative_end_ms": 37500,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"You saw a woman draw a circle of herbs.\""
+      },
+      {
+        "ref": "EP33:E71",
+        "segment_index": 0,
+        "relative_start_ms": 37800,
+        "relative_end_ms": 40500,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"You saw her use a forbidden book.\""
+      },
+      {
+        "ref": "EP33:E72",
+        "segment_index": 0,
+        "relative_start_ms": 40500,
+        "relative_end_ms": 44500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up profile of the Lord leaning in right in front of the sobbing maid."
+      },
+      {
+        "ref": "EP33:E73",
+        "segment_index": 0,
+        "relative_start_ms": 40800,
+        "relative_end_ms": 43800,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"You heard words you could not understand.\""
+      },
+      {
+        "ref": "EP33:E74",
+        "segment_index": 0,
+        "relative_start_ms": 44500,
+        "relative_end_ms": 47800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of the Lord's mouth and calculating eyes as he pronounces the lethal word."
+      },
+      {
+        "ref": "EP33:E75",
+        "segment_index": 0,
+        "relative_start_ms": 45500,
+        "relative_end_ms": 47500,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"That is witchcraft.\""
+      },
+      {
+        "ref": "EP33:E77",
+        "segment_index": 0,
+        "relative_start_ms": 47800,
+        "relative_end_ms": 52500,
+        "type": "dialogue",
+        "speaker": "MAID",
+        "text": "\"No! She saved Toby! She made him breathe again!\""
+      },
+      {
+        "ref": "EP33:E76",
+        "segment_index": 0,
+        "relative_start_ms": 47800,
+        "relative_end_ms": 52800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot as the maid steps forward, pleading passionately against his chest."
+      },
+      {
+        "ref": "EP33:E78",
+        "segment_index": 0,
+        "relative_start_ms": 52800,
+        "relative_end_ms": 55000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Lord calmly watching her futile resistance."
+      },
+      {
+        "ref": "EP33:E79",
+        "segment_index": 0,
+        "relative_start_ms": 53000,
+        "relative_end_ms": 55000,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"That will be your testimony.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_ffee80337a1cebc1",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 51600,
+        "end_ms": 111500,
+        "episode_id": "ep_033"
+      }
+    ],
+    "duration_ms": 59900,
+    "origin": "opp_4",
+    "clip_events": [
+      {
+        "ref": "EP33:E30",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the maid clutching her hands together tightly, overwhelmed with guilt."
+      },
+      {
+        "ref": "EP33:E32",
+        "segment_index": 0,
+        "relative_start_ms": 900,
+        "relative_end_ms": 5200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Lord's mouth curling into a sinister, predatory smile."
+      },
+      {
+        "ref": "EP33:E33",
+        "segment_index": 0,
+        "relative_start_ms": 1400,
+        "relative_end_ms": 4900,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"And did she perform anything unusual?\""
+      },
+      {
+        "ref": "EP33:E34",
+        "segment_index": 0,
+        "relative_start_ms": 5200,
+        "relative_end_ms": 7400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the maid gasping, shaking her head vigorously in panic."
+      },
+      {
+        "ref": "EP33:E35",
+        "segment_index": 0,
+        "relative_start_ms": 5800,
+        "relative_end_ms": 7200,
+        "type": "dialogue",
+        "speaker": "MAID",
+        "text": "\"No!\""
+      },
+      {
+        "ref": "EP33:E37",
+        "segment_index": 0,
+        "relative_start_ms": 7400,
+        "relative_end_ms": 9400,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"Think carefully.\""
+      },
+      {
+        "ref": "EP33:E36",
+        "segment_index": 0,
+        "relative_start_ms": 7400,
+        "relative_end_ms": 12600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Profile medium two-shot as the Lord looms inches from the maid's face."
+      },
+      {
+        "ref": "EP33:E38",
+        "segment_index": 0,
+        "relative_start_ms": 9600,
+        "relative_end_ms": 11900,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"Your brother is still a pauper.\""
+      },
+      {
+        "ref": "EP33:E39",
+        "segment_index": 0,
+        "relative_start_ms": 12600,
+        "relative_end_ms": 17200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of the Lord's cold eyes and hawkish profile speaking with chilling finality."
+      },
+      {
+        "ref": "EP33:E40",
+        "segment_index": 0,
+        "relative_start_ms": 12800,
+        "relative_end_ms": 16900,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"One word from me, and the county gaol will take him before sunrise.\""
+      },
+      {
+        "ref": "EP33:E41",
+        "segment_index": 0,
+        "relative_start_ms": 16900,
+        "relative_end_ms": 18400,
+        "type": "action",
+        "speaker": null,
+        "text": "The maid gasps in sheer terror, her chest heaving as tears stream."
+      },
+      {
+        "ref": "EP33:E42",
+        "segment_index": 0,
+        "relative_start_ms": 17200,
+        "relative_end_ms": 21600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the maid clutching her chest with trembling hands, crying desperately."
+      },
+      {
+        "ref": "EP33:E43",
+        "segment_index": 0,
+        "relative_start_ms": 17900,
+        "relative_end_ms": 21400,
+        "type": "dialogue",
+        "speaker": "MAID",
+        "text": "\"Please, my Lord... he is only seven!\""
+      },
+      {
+        "ref": "EP33:E45",
+        "segment_index": 0,
+        "relative_start_ms": 21600,
+        "relative_end_ms": 23400,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"Then help him.\""
+      },
+      {
+        "ref": "EP33:E44",
+        "segment_index": 0,
+        "relative_start_ms": 21600,
+        "relative_end_ms": 23900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Lord staring down without an ounce of pity."
+      },
+      {
+        "ref": "EP33:E46",
+        "segment_index": 0,
+        "relative_start_ms": 23900,
+        "relative_end_ms": 27900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the maid weeping profusely, cornered and helpless."
+      },
+      {
+        "ref": "EP33:E47",
+        "segment_index": 0,
+        "relative_start_ms": 25200,
+        "relative_end_ms": 27400,
+        "type": "dialogue",
+        "speaker": "MAID",
+        "text": "\"What do you want me to say?!\""
+      },
+      {
+        "ref": "EP33:E48",
+        "segment_index": 0,
+        "relative_start_ms": 27900,
+        "relative_end_ms": 33200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot of the study as the Lord stands calmly before the trembling servant."
+      },
+      {
+        "ref": "EP33:E49",
+        "segment_index": 0,
+        "relative_start_ms": 28000,
+        "relative_end_ms": 28900,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"The truth.\""
+      },
+      {
+        "ref": "EP33:E50",
+        "segment_index": 0,
+        "relative_start_ms": 29400,
+        "relative_end_ms": 32900,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"She drew something around the bed, did she not?\""
+      },
+      {
+        "ref": "EP33:E51",
+        "segment_index": 0,
+        "relative_start_ms": 33200,
+        "relative_end_ms": 37400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the maid stammering through her tears."
+      },
+      {
+        "ref": "EP33:E52",
+        "segment_index": 0,
+        "relative_start_ms": 33900,
+        "relative_end_ms": 37200,
+        "type": "dialogue",
+        "speaker": "MAID",
+        "text": "\"She... placed dried herbs around him.\""
+      },
+      {
+        "ref": "EP33:E54",
+        "segment_index": 0,
+        "relative_start_ms": 37400,
+        "relative_end_ms": 38900,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"Around him.\""
+      },
+      {
+        "ref": "EP33:E53",
+        "segment_index": 0,
+        "relative_start_ms": 37400,
+        "relative_end_ms": 43200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the Lord standing right beside her shoulder, whispering in her ear like an insidious specter."
+      },
+      {
+        "ref": "EP33:E55",
+        "segment_index": 0,
+        "relative_start_ms": 39400,
+        "relative_end_ms": 40900,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"Like a circle?\""
+      },
+      {
+        "ref": "EP33:E56",
+        "segment_index": 0,
+        "relative_start_ms": 41400,
+        "relative_end_ms": 42900,
+        "type": "dialogue",
+        "speaker": "MAID",
+        "text": "\"Yes.\""
+      },
+      {
+        "ref": "EP33:E57",
+        "segment_index": 0,
+        "relative_start_ms": 43200,
+        "relative_end_ms": 46900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up from behind the maid as the Lord leans close to her ear."
+      },
+      {
+        "ref": "EP33:E58",
+        "segment_index": 0,
+        "relative_start_ms": 43400,
+        "relative_end_ms": 46400,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"And she opened her mother's book...\""
+      },
+      {
+        "ref": "EP33:E60",
+        "segment_index": 0,
+        "relative_start_ms": 46900,
+        "relative_end_ms": 48400,
+        "type": "dialogue",
+        "speaker": "MAID",
+        "text": "\"Yes.\""
+      },
+      {
+        "ref": "EP33:E59",
+        "segment_index": 0,
+        "relative_start_ms": 46900,
+        "relative_end_ms": 49200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of the maid's tear-drenched eyes and quivering lips."
+      },
+      {
+        "ref": "EP33:E61",
+        "segment_index": 0,
+        "relative_start_ms": 49200,
+        "relative_end_ms": 52600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Lord delivering the final trap."
+      },
+      {
+        "ref": "EP33:E62",
+        "segment_index": 0,
+        "relative_start_ms": 49400,
+        "relative_end_ms": 52400,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"...and spoke words you could not understand.\""
+      },
+      {
+        "ref": "EP33:E63",
+        "segment_index": 0,
+        "relative_start_ms": 52600,
+        "relative_end_ms": 55900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the maid gasping out in desperate agony."
+      },
+      {
+        "ref": "EP33:E64",
+        "segment_index": 0,
+        "relative_start_ms": 52900,
+        "relative_end_ms": 54900,
+        "type": "dialogue",
+        "speaker": "MAID",
+        "text": "\"She was praying!\""
+      },
+      {
+        "ref": "EP33:E65",
+        "segment_index": 0,
+        "relative_start_ms": 55900,
+        "relative_end_ms": 59900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Lord grinning with sinister triumph."
+      },
+      {
+        "ref": "EP33:E66",
+        "segment_index": 0,
+        "relative_start_ms": 56400,
+        "relative_end_ms": 59900,
+        "type": "dialogue",
+        "speaker": "LORD",
+        "text": "\"Praying... or chanting?\""
+      }
+    ]
+  }
+]

@@ -1,0 +1,180 @@
+{
+  "stage": "candidate_discovery",
+  "system": "Find diverse promo opportunities, preferably 8-12 if supported. Return hook and unresolved ending anchors, not timestamps. A continuous clip must last 20-60 seconds with its hook in the first 3 seconds, understandable without prior context. Check the anchor timestamps: ending.end_ms minus hook.start_ms should be 20,000-60,000ms. Do not propose isolated 2-10 second moments. Both anchors and required context must fit in one supplied coverage interval. Ending anchors should precede resolution. Context refs must occur within the clip. Empty opportunities are valid when evidence is insufficient.",
+  "user": "EP=ep_044; timestamps are integer milliseconds\nSOURCE_SHA256=d6578a980e20d1c89412d7828db835a3076dbe6b8555a2d0cdb7b54ad747e256\nMETADATA ONLY (not on-screen evidence): {'logline': 'As Lord Sterling and Rupert are apprehended by the Crown, Catherine pleads with Alexander for their past love, only to be coldly rejected as he walks toward his chained bride, Juliana.', 'continuity_notes': \"Picks up immediately from Episode 43's cliffhanger at the church side exit; Lord Sterling's escape is blocked by the Police Constable, leading into the downfall of the conspirators.\"}\nSOURCE WARNINGS=[]\nSCENE sc_001 0-13800 INT. RUINED CATHEDRAL - SIDE ENTRANCE – DAY\nEP44:E1 0-3200 CAMERA: Low-angle shot framing the towering stone archway as a stern Police Constable steps through the heavy open doors, blocking Lord Sterling's path.\nEP44:E2 0-3200 ACTION: The Police Constable strides firmly down the steps and halts right in front of Lord Sterling, holding his ground.\nEP44:E3 3200-8600 CAMERA: Medium two-shot of the Police Constable towering over Lord Sterling.\nEP44:E4 3300-8200 POLICE CONSTABLE [Authoritative, Stern]: \"Lord Henry Sterling, you are under arrest by order of the Crown.\"\nEP44:E5 8600-11400 CAMERA: Close-up on Lord Sterling's trembling, indignant face.\nEP44:E6 9100-11200 LORD STERLING [Snarls, Outraged]: \"You have no authority!\"\nEP44:E7 11400-13800 CAMERA: Close-up on the Constable's black-gloved hands holding out a thick, red-ribboned dossier stamped with the Crown's royal wax seal.\nEP44:E8 11400-13200 POLICE CONSTABLE [Cold, Definite]: \"I have more than enough.\"\nSCENE sc_002 13800-70500 INT. RUINED CATHEDRAL - ALTAR & NAVE – CONTINUOUS\nEP44:E9 13800-16400 CAMERA: Wide shot of the ruined nave littered with rubble as royal redcoat guards surround the aisle, forcing Rupert down onto his knees.\nEP44:E10 14000-16400 ACTION: A royal redcoat guard firmly forces Rupert down into the stone dust.\nEP44:E11 14000-16800 BLOND NOBLEMAN [Frantic, Shouting]: \"Get your hands off me! Catherine!\"\nEP44:E12 16400-19400 CAMERA: Close-up on Rupert struggling fiercely against the white-gloved grip of the guard pinning his shoulder.\nEP44:E13 17400-19300 BLOND NOBLEMAN [Desperate, Screaming]: \"Do something!\"\nEP44:E14 19400-22000 CAMERA: Medium close-up on Catherine beneath her bridal veil, looking downward in conflicted silence.\nEP44:E15 21800-24400 ACTION: Catherine's satin-gloved hand clenches tightly into a trembling fist against the folds of her ornate gown.\nEP44:E16 22000-24400 CAMERA: Close-up on Catherine's gloved hand tightening into a fist.\nEP44:E17 24400-27800 CAMERA: Wide shot as Catherine gathers her heavy train and steps away from Rupert, walking toward Alexander who stands watching her stoically.\nEP44:E18 25200-28000 CATHERINE [Shaken, Tearful]: \"Alexander... I thought you had died.\"\nEP44:E19 27800-31200 CAMERA: Close-up on Catherine's face, tears glistening in her eyes as grief breaks through her composure.\nEP44:E20 28400-31000 CATHERINE [Choked, Weeping]: \"Do you know what this did to me?\"\nEP44:E21 31200-32400 CAMERA: Medium shot on Alexander standing tall in his ducal coat, his gaze utterly detached.\nEP44:E22 31200-32400 CATHERINE [O.S.) (Pleading]: \"I mourned you.\"\nEP44:E23 32400-34000 CAMERA: Profile close-up of Catherine as a tear slips down her cheek.\nEP44:E24 32400-34000 CATHERINE [Vulnerable, Trembling]: \"I waited for you.\"\nEP44:E25 34000-35800 CAMERA: Medium shot of Catherine standing in the center of the aisle before the seated congregation.\nEP44:E26 34200-38800 CATHERINE [Heartbroken]: \"For three years, I believed the man I loved was buried somewhere across the sea.\"\nEP44:E27 35800-38800 CAMERA: Tracking two-shot over Alexander's shoulder as Catherine approaches him pleadingly.\nEP44:E28 38800-41200 CAMERA: Close profile two-shot as Catherine gently reaches her gloved hand up to Alexander's bearded cheek.\nEP44:E29 38900-41200 CATHERINE [Whispering, Longing]: \"I never stopped loving you.\"\nEP44:E30 41200-42800 ACTION: Alexander abruptly pulls his face back, refusing her touch and leaving her hand suspended in mid-air.\nEP44:E31 41200-42800 CAMERA: Close-up on Catherine's empty gloved hand trembling in the empty space between them.\nEP44:E32 42800-46400 CAMERA: Close-up on Catherine lowering her hand, stunned and deeply hurt by his rejection.\nEP44:E33 44200-46400 CATHERINE [Breathless, Hurt]: \"You don't remember?\"\nEP44:E34 46400-49000 CAMERA: High-angle shot looking down at Catherine in the foreground, with Rupert held under guard in the background.\nEP44:E35 46600-48800 CATHERINE [Desperate, Demanding]: \"I was supposed to be your Duchess!\"\nEP44:E36 49000-51000 CAMERA: Medium two-shot of Catherine and Alexander confronting each other.\nEP44:E37 49200-51000 ALEXANDER [Cold, Implacable]: \"You were never my Duchess.\"\nEP44:E38 51000-53000 CAMERA: Extreme close-up on Catherine's tearful face.\nEP44:E39 51100-52800 CATHERINE [Sobbing, Pleading]: \"But I loved you!\"\nEP44:E40 53000-55600 CAMERA: Medium close-up on Alexander, his scarred jaw set firm.\nEP44:E41 53000-55500 ALEXANDER [Scornful, Biting]: \"You loved the Duke you thought you would marry.\"\nEP44:E42 55600-59000 CAMERA: Close-up on Catherine, gasping in protest.\nEP44:E43 56200-58200 CATHERINE [Defiant, Pained]: \"No!\"\nEP44:E44 59000-62400 CAMERA: Medium shot as Catherine clutches her chest, pouring her heart out.\nEP44:E45 59800-62400 CATHERINE [Passionate, Crying]: \"I loved you before all this!\"\nEP44:E46 62400-63800 CAMERA: Close-up on Alexander tilting his head slightly, his gaze piercing through her.\nEP44:E47 62500-63400 ALEXANDER [Skeptical, Cutting]: \"Did you?\"\nEP44:E48 63800-65000 CAMERA: Close-up on Catherine, rendered speechless by his doubt.\nEP44:E49 65000-67800 CAMERA: Tilt-up shot starting from heavy iron chains resting on the wooden floor up to the shackled wrists of Juliana dressed in her rustic grey gown.\nEP44:E50 67800-69600 CAMERA: Wide shot from behind Catherine as Alexander turns his back on her and walks resolutely down the rubble-strewn aisle toward Juliana standing in chains at the doorway.\nEP44:E51 68000-69600 ACTION: Alexander walks away from Catherine toward Juliana, who waits solemnly by the cathedral entrance.\nEP44:E52 69600-70100 CAMERA: Medium close-up on Juliana looking down at her chained hands, lifting her gaze gently.\nEP44:E53 70100-70500 CAMERA: Extreme close-up on Catherine's horrified, bewildered expression as she realizes who Alexander chose.\nEP44:E54 70100-70400 CATHERINE [Gasping, Incredulous]: \"Her?!\"\nAVAILABLE COVERAGE (milliseconds)=[{\"start_ms\": 0, \"end_ms\": 70500}]\nEPISODE ANALYSIS={\"episode_id\":\"ep_044\",\"summary\":\"Based only on on-screen event text (EP44:E1 to EP44:E54, scene sc_001 and sc_002, integer millisecond timestamps 0 to 70500): a Police Constable arrests Lord Henry Sterling under Crown order, and redcoat guards force Rupert (named only in camera text) to his knees. Catherine pleads with Alexander, who rejects her touch and her claims, then walks toward the chained Juliana. The metadata logline and continuity notes (Sterling's escape blocked, Rupert and Sterling apprehended, picking up from Episode 43) are not on-screen evidence and are not verified here. Uncertainty: the scene does not show whether Sterling attempts escape, Rupert's fate, Alexander's title beyond the ducal coat, or why Alexander seems to have forgotten Catherine. The speaker tag at EP44:E22 is malformed in the source and is read as Catherine.\",\"characters\":[{\"name\":\"Police Constable\",\"role\":\"Crown officer who arrests Lord Sterling and presents a sealed dossier\"},{\"name\":\"Lord Henry Sterling\",\"role\":\"Noble arrested by the Crown, indignant and defiant\"},{\"name\":\"Rupert (Blond Nobleman)\",\"role\":\"Noble forced to his knees by guards, pleading for Catherine to act\"},{\"name\":\"Catherine\",\"role\":\"Bride-to-be who pleads with Alexander about their past love\"},{\"name\":\"Alexander\",\"role\":\"Duke in a ducal coat who coldly rejects Catherine and turns to Juliana\"},{\"name\":\"Juliana\",\"role\":\"Chained woman in a rustic grey gown waiting at the cathedral entrance\"},{\"name\":\"Royal redcoat guard\",\"role\":\"Crown guard restraining Rupert\"}],\"beats\":[{\"id\":\"b1\",\"kind\":\"arrest\",\"event_refs\":[\"EP44:E1\",\"EP44:E2\",\"EP44:E3\",\"EP44:E4\"],\"description\":\"Police Constable blocks Lord Sterling at the side entrance and announces his arrest by order of the Crown.\",\"intensity_0_10\":6.0},{\"id\":\"b2\",\"kind\":\"defiance\",\"event_refs\":[\"EP44:E5\",\"EP44:E6\",\"EP44:E7\",\"EP44:E8\"],\"description\":\"Sterling protests he has no authority; the Constable produces a royal-sealed dossier and asserts he has enough.\",\"intensity_0_10\":6.0},{\"id\":\"b3\",\"kind\":\"restraint\",\"event_refs\":[\"EP44:E9\",\"EP44:E10\",\"EP44:E11\",\"EP44:E12\",\"EP44:E13\"],\"description\":\"Guards force Rupert down in the nave while he struggles and calls for Catherine to do something.\",\"intensity_0_10\":7.0},{\"id\":\"b4\",\"kind\":\"inner_conflict\",\"event_refs\":[\"EP44:E14\",\"EP44:E15\",\"EP44:E16\"],\"description\":\"Catherine stands in silence beneath her veil and clenches a gloved fist.\",\"intensity_0_10\":5.0},{\"id\":\"b5\",\"kind\":\"plea\",\"event_refs\":[\"EP44:E17\",\"EP44:E18\",\"EP44:E19\",\"EP44:E20\",\"EP44:E21\",\"EP44:E22\",\"EP44:E23\",\"EP44:E24\",\"EP44:E25\",\"EP44:E26\",\"EP44:E27\",\"EP44:E28\",\"EP44:E29\"],\"description\":\"Catherine walks to Alexander, tearfully says she mourned and waited for him, and reaches to touch his cheek saying she never stopped loving him.\",\"intensity_0_10\":7.0},{\"id\":\"b6\",\"kind\":\"rejection\",\"event_refs\":[\"EP44:E30\",\"EP44:E31\",\"EP44:E32\",\"EP44:E33\"],\"description\":\"Alexander pulls away from her touch, leaving her hand suspended; she is stunned and asks whether he remembers.\",\"intensity_0_10\":8.0},{\"id\":\"b7\",\"kind\":\"confrontation\",\"event_refs\":[\"EP44:E34\",\"EP44:E35\",\"EP44:E36\",\"EP44:E37\",\"EP44:E38\",\"EP44:E39\"],\"description\":\"Catherine insists she was meant to be his Duchess; Alexander coldly replies she was never his Duchess.\",\"intensity_0_10\":7.0},{\"id\":\"b8\",\"kind\":\"cutting_rebuke\",\"event_refs\":[\"EP44:E40\",\"EP44:E41\",\"EP44:E42\",\"EP44:E43\",\"EP44:E44\",\"EP44:E45\",\"EP44:E46\",\"EP44:E47\",\"EP44:E48\"],\"description\":\"Alexander says she loved the Duke she thought she would marry; Catherine protests she loved him before all this, and he doubts her.\",\"intensity_0_10\":8.0},{\"id\":\"b9\",\"kind\":\"reveal_choice\",\"event_refs\":[\"EP44:E49\",\"EP44:E50\",\"EP44:E51\",\"EP44:E52\",\"EP44:E53\",\"EP44:E54\"],\"description\":\"The camera reveals Juliana in chains; Alexander turns his back on Catherine and walks toward her, and Catherine gasps at who he chose.\",\"intensity_0_10\":9.0}],\"revelations\":[{\"id\":\"r1\",\"event_refs\":[\"EP44:E18\",\"EP44:E26\"],\"claim\":\"Catherine says she believed Alexander had died and that the man she loved was buried across the sea for three years.\",\"spoiler_significance_0_10\":5.0,\"creates_questions\":[\"Where was Alexander during those three years, and why was he believed dead?\"]},{\"id\":\"r2\",\"event_refs\":[\"EP44:E33\",\"EP44:E30\"],\"claim\":\"Catherine asks whether Alexander remembers her after he pulls away; the scene does not confirm whether he has lost memory.\",\"spoiler_significance_0_10\":6.0,\"creates_questions\":[\"Does Alexander remember Catherine, and is his rejection driven by memory loss or by choice?\"]},{\"id\":\"r3\",\"event_refs\":[\"EP44:E37\",\"EP44:E41\"],\"claim\":\"Alexander states Catherine was never his Duchess and that she loved the Duke she thought she would marry, not him.\",\"spoiler_significance_0_10\":6.0,\"creates_questions\":[\"What was the Duke-marriage arrangement between Catherine and Alexander, and what changed?\"]},{\"id\":\"r4\",\"event_refs\":[\"EP44:E53\",\"EP44:E54\",\"EP44:E49\"],\"claim\":\"Alexander walks toward the chained Juliana, and Catherine reacts in shock to his choice.\",\"spoiler_significance_0_10\":7.0,\"creates_questions\":[\"Why is Juliana chained, and what is her relationship to Alexander?\"]}],\"unresolved_questions\":[{\"question\":\"Does Alexander remember Catherine, and why did he appear to be away for three years?\",\"introduced_by\":[\"EP44:E18\",\"EP44:E26\",\"EP44:E33\"]},{\"question\":\"Why is Juliana in chains, and what role does she play in Alexander's choice?\",\"introduced_by\":[\"EP44:E49\",\"EP44:E50\",\"EP44:E54\"]},{\"question\":\"What is the legal basis for the arrests of Lord Sterling and Rupert, and what happens to them next?\",\"introduced_by\":[\"EP44:E4\",\"EP44:E7\",\"EP44:E8\",\"EP44:E13\"]},{\"question\":\"What is Alexander's title and standing, and how does it relate to the Duke Catherine thought she would marry?\",\"introduced_by\":[\"EP44:E21\",\"EP44:E37\",\"EP44:E41\"]}]}\nSERIES CONTEXT={\"series_id\":\"series_001\",\"premise\":\"Lady Juliana is publicly jilted at the altar when her fiance Gerald chooses her sister Clarissa, and her family rejects her. She marries a scarred, unnamed Bearded Man (later revealed on screen as Alexander, a presumed-dead soldier and Duke), and the couple is repeatedly targeted by antagonists. Juliana uses her late mother's herbal knowledge to heal the sick, which draws accusations of witchcraft and poisoning, while Alexander's return and claim to his ducal title set up a confrontation with the conspirators who hid his survival.\",\"arcs\":[{\"id\":\"arc_jilting_and_family_rejection\",\"description\":\"Juliana is jilted at the altar by Gerald, humiliated by her sister Clarissa and disowned by her family, which sets off the series' central betrayal.\",\"beat_refs\":[{\"episode_id\":\"ep_001\",\"beat_id\":\"B02\"},{\"episode_id\":\"ep_001\",\"beat_id\":\"B03\"},{\"episode_id\":\"ep_001\",\"beat_id\":\"B09\"},{\"episode_id\":\"ep_001\",\"beat_id\":\"B10\"},{\"episode_id\":\"ep_002\",\"beat_id\":\"b01\"},{\"episode_id\":\"ep_002\",\"beat_id\":\"b05\"},{\"episode_id\":\"ep_003\",\"beat_id\":\"b3\"},{\"episode_id\":\"ep_004\",\"beat_id\":\"B11\"}]},{\"id\":\"arc_exile_and_marriage_to_the_bearded_man\",\"description\":\"After the rejection, the unnamed Bearded Man intervenes, offers Juliana a ring and a vow, and the couple leaves the family behind to live in hardship in a cottage.\",\"beat_refs\":[{\"episode_id\":\"ep_003\",\"beat_id\":\"b9\"},{\"episode_id\":\"ep_004\",\"beat_id\":\"B8\"},{\"episode_id\":\"ep_004\",\"beat_id\":\"B9\"},{\"episode_id\":\"ep_005\",\"beat_id\":\"b1\"},{\"episode_id\":\"ep_005\",\"beat_id\":\"b3\"},{\"episode_id\":\"ep_006\",\"beat_id\":\"b2\"},{\"episode_id\":\"ep_006\",\"beat_id\":\"b8\"}]},{\"id\":\"arc_healing_and_poisoning_conspiracy\",\"description\":\"Juliana's herbal healing draws her into the household of the ailing Dowager Duchess, where she uncovers evidence of arsenic poisoning and is pulled into a dangerous conflict with Catherine and Rupert.\",\"beat_refs\":[{\"episode_id\":\"ep_009\",\"beat_id\":\"b02\"},{\"episode_id\":\"ep_022\",\"beat_id\":\"B6\"},{\"episode_id\":\"ep_023\",\"beat_id\":\"beat_2\"},{\"episode_id\":\"ep_023\",\"beat_id\":\"beat_6\"},{\"episode_id\":\"ep_024\",\"beat_id\":\"B7\"},{\"episode_id\":\"ep_025\",\"beat_id\":\"b5\"},{\"episode_id\":\"ep_026\",\"beat_id\":\"b6\"},{\"episode_id\":\"ep_028\",\"beat_id\":\"b4\"}]},{\"id\":\"arc_frame_up_and_imprisonment\",\"description\":\"Juliana and Alexander are framed with a stolen watch and with witchcraft and poisoning charges, leading to Juliana's arrest, torture and public trial.\",\"beat_refs\":[{\"episode_id\":\"ep_011\",\"beat_id\":\"b6\"},{\"episode_id\":\"ep_012\",\"beat_id\":\"B6\"},{\"episode_id\":\"ep_029\",\"beat_id\":\"b07\"},{\"episode_id\":\"ep_031\",\"beat_id\":\"b9\"},{\"episode_id\":\"ep_034\",\"beat_id\":\"B9\"}]},{\"id\":\"arc_alexander_return_and_reclamation\",\"description\":\"Alexander's survival is revealed after an ambush he was believed to have died in, and he moves to expose the conspirators who hid him, reclaim his title and rescue Juliana before her execution.\",\"beat_refs\":[{\"episode_id\":\"ep_035\",\"beat_id\":\"b7\"},{\"episode_id\":\"ep_036\",\"beat_id\":\"b8\"},{\"episode_id\":\"ep_039\",\"beat_id\":\"B5\"},{\"episode_id\":\"ep_042\",\"beat_id\":\"b11\"},{\"episode_id\":\"ep_045\",\"beat_id\":\"B6\"},{\"episode_id\":\"ep_046\",\"beat_id\":\"B2\"}]}],\"key_revelations\":[{\"episode_id\":\"ep_001\",\"revelation_id\":\"R01\",\"prerequisite_context\":[\"Gerald is holding the hand of the Lady in Gold Gown at the altar\",\"The Lady in Gold Gown states that Gerald is marrying her\"]},{\"episode_id\":\"ep_001\",\"revelation_id\":\"R02\",\"prerequisite_context\":[\"The Lady in Gold Gown knew of the betrayal in advance\",\"She says Gerald was never going to marry Juliana\"]},{\"episode_id\":\"ep_004\",\"revelation_id\":\"R4\",\"prerequisite_context\":[\"The priest pronounces the couple husband and wife in an off-screen voice\",\"The priest had earlier hesitated before proceeding\"]},{\"episode_id\":\"ep_011\",\"revelation_id\":\"r1\",\"prerequisite_context\":[\"Gerald accuses Alexander of stealing his gold pocket watch\",\"The Constable finds a gold pocket watch inside Alexander's coat\"]},{\"episode_id\":\"ep_023\",\"revelation_id\":\"rev_2\",\"prerequisite_context\":[\"Juliana's late mother's journal records toxic symptoms matching the Duchess's condition\",\"Juliana asserts that someone is poisoning the Duchess\"]},{\"episode_id\":\"ep_027\",\"revelation_id\":\"r1\",\"prerequisite_context\":[\"The Duchess says the ring bears the Ashbourne crest\",\"Juliana says her husband gave her the ring\"]},{\"episode_id\":\"ep_028\",\"revelation_id\":\"r3\",\"prerequisite_context\":[\"Catherine reads the herbarium inscription Juliana Ashcroft\",\"Catherine names her Lady Juliana Ashcroft\"]},{\"episode_id\":\"ep_035\",\"revelation_id\":\"r2\",\"prerequisite_context\":[\"Alexander says the ambush was ordered to erase him\",\"Alexander says someone wanted his mother to believe he was dead\"]},{\"episode_id\":\"ep_036\",\"revelation_id\":\"r7\",\"prerequisite_context\":[\"Juliana was arrested and accused of poisoning Alexander\",\"The mother reports that Juliana was condemned by a magistrate\"]},{\"episode_id\":\"ep_045\",\"revelation_id\":\"R1\",\"prerequisite_context\":[\"Alexander kneels before Juliana and unchains her\",\"Alexander identifies himself as Alexander Ashburton, the rightful Duke\"]}]}",
+  "schema": {
+    "$defs": {
+      "EpisodeOpportunity": {
+        "additionalProperties": false,
+        "properties": {
+          "scope": {
+            "const": "episode",
+            "title": "Scope",
+            "type": "string"
+          },
+          "local_id": {
+            "title": "Local Id",
+            "type": "string"
+          },
+          "episode_id": {
+            "title": "Episode Id",
+            "type": "string"
+          },
+          "concept": {
+            "title": "Concept",
+            "type": "string"
+          },
+          "hook_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Hook Refs",
+            "type": "array"
+          },
+          "ending_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Ending Refs",
+            "type": "array"
+          },
+          "context_refs": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Context Refs",
+            "type": "array"
+          },
+          "why_promising": {
+            "title": "Why Promising",
+            "type": "string"
+          }
+        },
+        "required": [
+          "scope",
+          "local_id",
+          "episode_id",
+          "concept",
+          "hook_refs",
+          "ending_refs",
+          "context_refs",
+          "why_promising"
+        ],
+        "title": "EpisodeOpportunity",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "opportunities": {
+        "items": {
+          "$ref": "#/$defs/EpisodeOpportunity"
+        },
+        "title": "Opportunities",
+        "type": "array"
+      }
+    },
+    "required": [
+      "opportunities"
+    ],
+    "title": "EpisodeDiscovery",
+    "type": "object"
+  },
+  "state": "complete",
+  "output": {
+    "opportunities": [
+      {
+        "scope": "episode",
+        "local_id": "opp_01",
+        "episode_id": "ep_044",
+        "concept": "Police Constable arrests Lord Sterling; Catherine's plea to Alexander is rejected",
+        "hook_refs": [
+          "EP44:E4"
+        ],
+        "ending_refs": [
+          "EP44:E37"
+        ],
+        "context_refs": [
+          "EP44:E5",
+          "EP44:E6",
+          "EP44:E7",
+          "EP44:E8"
+        ],
+        "why_promising": "Opens directly on the Crown's arrest order and builds through Sterling's defiance to Alexander's cold rejection of Catherine, ending on the unresolved line 'You were never my Duchess.'"
+      },
+      {
+        "scope": "episode",
+        "local_id": "opp_02",
+        "episode_id": "ep_044",
+        "concept": "Catherine's emotional plea to Alexander, who pulls away from her touch",
+        "hook_refs": [
+          "EP44:E18"
+        ],
+        "ending_refs": [
+          "EP44:E41"
+        ],
+        "context_refs": [
+          "EP44:E19",
+          "EP44:E20",
+          "EP44:E29",
+          "EP44:E30"
+        ],
+        "why_promising": "Opens on Catherine's shaken line 'I thought you had died' and escalates through her tearful claims to Alexander's cutting reply that she loved the Duke she thought she would marry."
+      },
+      {
+        "scope": "episode",
+        "local_id": "opp_03",
+        "episode_id": "ep_044",
+        "concept": "Catherine confronts Alexander over being his Duchess, ending on the reveal of Juliana",
+        "hook_refs": [
+          "EP44:E35"
+        ],
+        "ending_refs": [
+          "EP44:E54"
+        ],
+        "context_refs": [
+          "EP44:E49",
+          "EP44:E50",
+          "EP44:E51"
+        ],
+        "why_promising": "Opens on the direct claim 'I was supposed to be your Duchess!' and runs through Alexander's rebuke to Catherine's gasp at the chained Juliana, leaving the choice unresolved."
+      },
+      {
+        "scope": "episode",
+        "local_id": "opp_04",
+        "episode_id": "ep_044",
+        "concept": "Rupert forced to his knees by guards while Catherine stays silent",
+        "hook_refs": [
+          "EP44:E11"
+        ],
+        "ending_refs": [
+          "EP44:E37"
+        ],
+        "context_refs": [
+          "EP44:E10",
+          "EP44:E13"
+        ],
+        "why_promising": "Opens on Rupert's frantic shout to Catherine while being pinned, building through Catherine's silent conflict to Alexander's cold rejection."
+      },
+      {
+        "scope": "episode",
+        "local_id": "opp_05",
+        "episode_id": "ep_044",
+        "concept": "Catherine declares she never stopped loving Alexander, then is rejected and shocked by Juliana's reveal",
+        "hook_refs": [
+          "EP44:E29"
+        ],
+        "ending_refs": [
+          "EP44:E54"
+        ],
+        "context_refs": [
+          "EP44:E30",
+          "EP44:E33"
+        ],
+        "why_promising": "Opens on Catherine's whispered confession and moves through Alexander's rejection to the shock of seeing whom he walks toward, a strong emotional arc with an open ending."
+      }
+    ]
+  }
+}

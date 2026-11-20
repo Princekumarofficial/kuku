@@ -1,0 +1,1016 @@
+[
+  {
+    "candidate_id": "c_d3038e669a203350",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 4500,
+        "end_ms": 60600,
+        "episode_id": "ep_012"
+      }
+    ],
+    "duration_ms": 56100,
+    "origin": "opp_01",
+    "clip_events": [
+      {
+        "ref": "EP12:E1",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the Constable raising a set of heavy iron handcuffs, addressing Alexander sternly in front of the stone hearth."
+      },
+      {
+        "ref": "EP12:E3",
+        "segment_index": 0,
+        "relative_start_ms": 100,
+        "relative_end_ms": 4600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana swiftly moving in front of Alexander, placing herself defiantly between him and the Constable's outstretched handcuffs."
+      },
+      {
+        "ref": "EP12:E4",
+        "segment_index": 0,
+        "relative_start_ms": 300,
+        "relative_end_ms": 1500,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana steps firmly forward, shielding Alexander with her body."
+      },
+      {
+        "ref": "EP12:E5",
+        "segment_index": 0,
+        "relative_start_ms": 1200,
+        "relative_end_ms": 4300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"No! That watch was not in his coat!\""
+      },
+      {
+        "ref": "EP12:E6",
+        "segment_index": 0,
+        "relative_start_ms": 4600,
+        "relative_end_ms": 7300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Constable narrowing his eyes coldly at Juliana."
+      },
+      {
+        "ref": "EP12:E7",
+        "segment_index": 0,
+        "relative_start_ms": 5500,
+        "relative_end_ms": 7200,
+        "type": "dialogue",
+        "speaker": "CONSTABLE",
+        "text": "\"I found it there myself.\""
+      },
+      {
+        "ref": "EP12:E8",
+        "segment_index": 0,
+        "relative_start_ms": 7300,
+        "relative_end_ms": 9400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana glaring back with unwavering conviction."
+      },
+      {
+        "ref": "EP12:E9",
+        "segment_index": 0,
+        "relative_start_ms": 7800,
+        "relative_end_ms": 9400,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Then someone put it there!\""
+      },
+      {
+        "ref": "EP12:E10",
+        "segment_index": 0,
+        "relative_start_ms": 9400,
+        "relative_end_ms": 16300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium full shot of Gerald framed in the open cottage doorway holding his riding crop, stepping inside with a patronizing, gloating grin."
+      },
+      {
+        "ref": "EP12:E11",
+        "segment_index": 0,
+        "relative_start_ms": 9800,
+        "relative_end_ms": 16100,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"The proof is in his coat, Juliana. A valuable pocket watch doesn't just walk into a beggar's pocket.\""
+      },
+      {
+        "ref": "EP12:E12",
+        "segment_index": 0,
+        "relative_start_ms": 16300,
+        "relative_end_ms": 19200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander, his scarred brow furrowed in dark, quiet defiance."
+      },
+      {
+        "ref": "EP12:E13",
+        "segment_index": 0,
+        "relative_start_ms": 17100,
+        "relative_end_ms": 19100,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"I have never touched your property.\""
+      },
+      {
+        "ref": "EP12:E15",
+        "segment_index": 0,
+        "relative_start_ms": 19200,
+        "relative_end_ms": 22300,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"Then perhaps your wife should explain why it was found in your coat.\""
+      },
+      {
+        "ref": "EP12:E14",
+        "segment_index": 0,
+        "relative_start_ms": 19200,
+        "relative_end_ms": 22400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Gerald pointing his riding crop toward them, with Clarissa hovering behind him in her violet silk gown."
+      },
+      {
+        "ref": "EP12:E17",
+        "segment_index": 0,
+        "relative_start_ms": 22300,
+        "relative_end_ms": 23400,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You planted it!\""
+      },
+      {
+        "ref": "EP12:E16",
+        "segment_index": 0,
+        "relative_start_ms": 22300,
+        "relative_end_ms": 23500,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana lunges a step forward, jabbing an accusing finger toward Gerald."
+      },
+      {
+        "ref": "EP12:E18",
+        "segment_index": 0,
+        "relative_start_ms": 23500,
+        "relative_end_ms": 25300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Clarissa gliding past Gerald, a venomous, amused smile playing upon her lips."
+      },
+      {
+        "ref": "EP12:E19",
+        "segment_index": 0,
+        "relative_start_ms": 23600,
+        "relative_end_ms": 25500,
+        "type": "dialogue",
+        "speaker": "CLARISSA",
+        "text": "\"Oh, dear sister...\""
+      },
+      {
+        "ref": "EP12:E20",
+        "segment_index": 0,
+        "relative_start_ms": 25300,
+        "relative_end_ms": 26500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight shot of Alexander's hand clenching into a tight, trembling fist against the glow of the roaring fireplace."
+      },
+      {
+        "ref": "EP12:E22",
+        "segment_index": 0,
+        "relative_start_ms": 25500,
+        "relative_end_ms": 27900,
+        "type": "dialogue",
+        "speaker": "CLARISSA",
+        "text": "\"...still defending your broken scrap of a man?\""
+      },
+      {
+        "ref": "EP12:E21",
+        "segment_index": 0,
+        "relative_start_ms": 26500,
+        "relative_end_ms": 27900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander glaring daggers at Clarissa."
+      },
+      {
+        "ref": "EP12:E24",
+        "segment_index": 0,
+        "relative_start_ms": 27900,
+        "relative_end_ms": 30700,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Name your price, Clarissa. I know you.\""
+      },
+      {
+        "ref": "EP12:E23",
+        "segment_index": 0,
+        "relative_start_ms": 27900,
+        "relative_end_ms": 30800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana, her eyes narrowing with sharp perception."
+      },
+      {
+        "ref": "EP12:E25",
+        "segment_index": 0,
+        "relative_start_ms": 30800,
+        "relative_end_ms": 35500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Clarissa smiling with vicious delight."
+      },
+      {
+        "ref": "EP12:E26",
+        "segment_index": 0,
+        "relative_start_ms": 30900,
+        "relative_end_ms": 35500,
+        "type": "dialogue",
+        "speaker": "CLARISSA",
+        "text": "\"You always were clever, Juliana. Always searching for some way to escape.\""
+      },
+      {
+        "ref": "EP12:E27",
+        "segment_index": 0,
+        "relative_start_ms": 35500,
+        "relative_end_ms": 37300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight shot of Clarissa smoothing her long purple evening glove along her wrist."
+      },
+      {
+        "ref": "EP12:E28",
+        "segment_index": 0,
+        "relative_start_ms": 35600,
+        "relative_end_ms": 37000,
+        "type": "dialogue",
+        "speaker": "CLARISSA",
+        "text": "\"Perhaps I can give you one.\""
+      },
+      {
+        "ref": "EP12:E29",
+        "segment_index": 0,
+        "relative_start_ms": 37300,
+        "relative_end_ms": 39200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana watching her with cautious skepticism."
+      },
+      {
+        "ref": "EP12:E30",
+        "segment_index": 0,
+        "relative_start_ms": 37700,
+        "relative_end_ms": 39000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"What do you want?\""
+      },
+      {
+        "ref": "EP12:E31",
+        "segment_index": 0,
+        "relative_start_ms": 39200,
+        "relative_end_ms": 42100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot of Clarissa in the foreground, turning slowly to face Juliana."
+      },
+      {
+        "ref": "EP12:E32",
+        "segment_index": 0,
+        "relative_start_ms": 39500,
+        "relative_end_ms": 41900,
+        "type": "dialogue",
+        "speaker": "CLARISSA",
+        "text": "\"I want to see you crawl, sister.\""
+      },
+      {
+        "ref": "EP12:E33",
+        "segment_index": 0,
+        "relative_start_ms": 42100,
+        "relative_end_ms": 47900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up profile tracking shot of Clarissa pacing slowly as she spins her sadistic tale."
+      },
+      {
+        "ref": "EP12:E34",
+        "segment_index": 0,
+        "relative_start_ms": 42200,
+        "relative_end_ms": 47800,
+        "type": "dialogue",
+        "speaker": "CLARISSA",
+        "text": "\"My emerald signet ring fell deep into the frozen blackthorn briars at Ashworth Manor. The thorns have grown over it...\""
+      },
+      {
+        "ref": "EP12:E36",
+        "segment_index": 0,
+        "relative_start_ms": 47900,
+        "relative_end_ms": 52200,
+        "type": "dialogue",
+        "speaker": "CLARISSA",
+        "text": "\"...sharp as steel. The ground is frozen, like pure ice.\""
+      },
+      {
+        "ref": "EP12:E35",
+        "segment_index": 0,
+        "relative_start_ms": 47900,
+        "relative_end_ms": 52300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Clarissa flexing her gloved fingers theatrically in front of her face."
+      },
+      {
+        "ref": "EP12:E37",
+        "segment_index": 0,
+        "relative_start_ms": 52300,
+        "relative_end_ms": 53500,
+        "type": "action",
+        "speaker": null,
+        "text": "Gerald bursts into a loud, mocking laugh beside the stony Constable."
+      },
+      {
+        "ref": "EP12:E38",
+        "segment_index": 0,
+        "relative_start_ms": 52300,
+        "relative_end_ms": 56100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot of Clarissa stepping closer to Juliana, peering down into her eyes with a predatory smile."
+      },
+      {
+        "ref": "EP12:E39",
+        "segment_index": 0,
+        "relative_start_ms": 52800,
+        "relative_end_ms": 56100,
+        "type": "dialogue",
+        "speaker": "CLARISSA",
+        "text": "\"You will retrieve it with your bare hands before the magistrate arrives.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_a1d935791837c211",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 43700,
+        "end_ms": 84700,
+        "episode_id": "ep_012"
+      }
+    ],
+    "duration_ms": 41000,
+    "origin": "opp_02",
+    "clip_events": [
+      {
+        "ref": "EP12:E31",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot of Clarissa in the foreground, turning slowly to face Juliana."
+      },
+      {
+        "ref": "EP12:E32",
+        "segment_index": 0,
+        "relative_start_ms": 300,
+        "relative_end_ms": 2700,
+        "type": "dialogue",
+        "speaker": "CLARISSA",
+        "text": "\"I want to see you crawl, sister.\""
+      },
+      {
+        "ref": "EP12:E33",
+        "segment_index": 0,
+        "relative_start_ms": 2900,
+        "relative_end_ms": 8700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up profile tracking shot of Clarissa pacing slowly as she spins her sadistic tale."
+      },
+      {
+        "ref": "EP12:E34",
+        "segment_index": 0,
+        "relative_start_ms": 3000,
+        "relative_end_ms": 8600,
+        "type": "dialogue",
+        "speaker": "CLARISSA",
+        "text": "\"My emerald signet ring fell deep into the frozen blackthorn briars at Ashworth Manor. The thorns have grown over it...\""
+      },
+      {
+        "ref": "EP12:E36",
+        "segment_index": 0,
+        "relative_start_ms": 8700,
+        "relative_end_ms": 13000,
+        "type": "dialogue",
+        "speaker": "CLARISSA",
+        "text": "\"...sharp as steel. The ground is frozen, like pure ice.\""
+      },
+      {
+        "ref": "EP12:E35",
+        "segment_index": 0,
+        "relative_start_ms": 8700,
+        "relative_end_ms": 13100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Clarissa flexing her gloved fingers theatrically in front of her face."
+      },
+      {
+        "ref": "EP12:E37",
+        "segment_index": 0,
+        "relative_start_ms": 13100,
+        "relative_end_ms": 14300,
+        "type": "action",
+        "speaker": null,
+        "text": "Gerald bursts into a loud, mocking laugh beside the stony Constable."
+      },
+      {
+        "ref": "EP12:E38",
+        "segment_index": 0,
+        "relative_start_ms": 13100,
+        "relative_end_ms": 17100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot of Clarissa stepping closer to Juliana, peering down into her eyes with a predatory smile."
+      },
+      {
+        "ref": "EP12:E39",
+        "segment_index": 0,
+        "relative_start_ms": 13600,
+        "relative_end_ms": 16900,
+        "type": "dialogue",
+        "speaker": "CLARISSA",
+        "text": "\"You will retrieve it with your bare hands before the magistrate arrives.\""
+      },
+      {
+        "ref": "EP12:E41",
+        "segment_index": 0,
+        "relative_start_ms": 17100,
+        "relative_end_ms": 19400,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"A lady's hands will be shredded to ribbons!\""
+      },
+      {
+        "ref": "EP12:E40",
+        "segment_index": 0,
+        "relative_start_ms": 17100,
+        "relative_end_ms": 19500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Gerald tapping his whip against his palm and laughing heartily beside the Constable."
+      },
+      {
+        "ref": "EP12:E42",
+        "segment_index": 0,
+        "relative_start_ms": 19500,
+        "relative_end_ms": 21500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium three-shot of Clarissa stepping behind Juliana, as Alexander watches helplessly with dark fury."
+      },
+      {
+        "ref": "EP12:E43",
+        "segment_index": 0,
+        "relative_start_ms": 19600,
+        "relative_end_ms": 21400,
+        "type": "dialogue",
+        "speaker": "CLARISSA",
+        "text": "\"Do it, and we withdraw the charges.\""
+      },
+      {
+        "ref": "EP12:E44",
+        "segment_index": 0,
+        "relative_start_ms": 21500,
+        "relative_end_ms": 25800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of Clarissa's mouth leaning directly into Juliana's ear, whispering venomously."
+      },
+      {
+        "ref": "EP12:E45",
+        "segment_index": 0,
+        "relative_start_ms": 21700,
+        "relative_end_ms": 25500,
+        "type": "dialogue",
+        "speaker": "CLARISSA",
+        "text": "\"Fail, or refuse, and your husband hangs from the gallows.\""
+      },
+      {
+        "ref": "EP12:E46",
+        "segment_index": 0,
+        "relative_start_ms": 25800,
+        "relative_end_ms": 30300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Alexander stepping up beside Juliana, tenderly placing his large hand on her shoulder."
+      },
+      {
+        "ref": "EP12:E47",
+        "segment_index": 0,
+        "relative_start_ms": 25900,
+        "relative_end_ms": 27500,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander rests his scarred hand reassuringly on Juliana's shoulder, leaning in toward her."
+      },
+      {
+        "ref": "EP12:E48",
+        "segment_index": 0,
+        "relative_start_ms": 26100,
+        "relative_end_ms": 30100,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Juliana, no. Do not let them hurt you. I can handle the law.\""
+      },
+      {
+        "ref": "EP12:E49",
+        "segment_index": 0,
+        "relative_start_ms": 30300,
+        "relative_end_ms": 38100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana, her eyes glistening with unshed tears, her hand gripping the fabric over her heart in agony and resolve."
+      },
+      {
+        "ref": "EP12:E50",
+        "segment_index": 0,
+        "relative_start_ms": 30500,
+        "relative_end_ms": 32300,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana clutches the front of her rustic grey dress, her breathing trembling."
+      },
+      {
+        "ref": "EP12:E51",
+        "segment_index": 0,
+        "relative_start_ms": 31600,
+        "relative_end_ms": 34500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I am not letting them take you.\""
+      },
+      {
+        "ref": "EP12:E52",
+        "segment_index": 0,
+        "relative_start_ms": 37800,
+        "relative_end_ms": 39300,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana turns her head sharply back toward Clarissa, her expression hardening with fierce resolution."
+      },
+      {
+        "ref": "EP12:E53",
+        "segment_index": 0,
+        "relative_start_ms": 38100,
+        "relative_end_ms": 41000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Over-the-shoulder shot past Clarissa onto Juliana's determined face, holding on her fierce, defiant stare as the tension peaks."
+      },
+      {
+        "ref": "EP12:E54",
+        "segment_index": 0,
+        "relative_start_ms": 39100,
+        "relative_end_ms": 41000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Tell me where the garden is.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_22982f99753bff7a",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 26800,
+        "end_ms": 69200,
+        "episode_id": "ep_012"
+      }
+    ],
+    "duration_ms": 42400,
+    "origin": "opp_03",
+    "clip_events": [
+      {
+        "ref": "EP12:E14",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Gerald pointing his riding crop toward them, with Clarissa hovering behind him in her violet silk gown."
+      },
+      {
+        "ref": "EP12:E17",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1100,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You planted it!\""
+      },
+      {
+        "ref": "EP12:E16",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1200,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana lunges a step forward, jabbing an accusing finger toward Gerald."
+      },
+      {
+        "ref": "EP12:E18",
+        "segment_index": 0,
+        "relative_start_ms": 1200,
+        "relative_end_ms": 3000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Clarissa gliding past Gerald, a venomous, amused smile playing upon her lips."
+      },
+      {
+        "ref": "EP12:E19",
+        "segment_index": 0,
+        "relative_start_ms": 1300,
+        "relative_end_ms": 3200,
+        "type": "dialogue",
+        "speaker": "CLARISSA",
+        "text": "\"Oh, dear sister...\""
+      },
+      {
+        "ref": "EP12:E20",
+        "segment_index": 0,
+        "relative_start_ms": 3000,
+        "relative_end_ms": 4200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight shot of Alexander's hand clenching into a tight, trembling fist against the glow of the roaring fireplace."
+      },
+      {
+        "ref": "EP12:E22",
+        "segment_index": 0,
+        "relative_start_ms": 3200,
+        "relative_end_ms": 5600,
+        "type": "dialogue",
+        "speaker": "CLARISSA",
+        "text": "\"...still defending your broken scrap of a man?\""
+      },
+      {
+        "ref": "EP12:E21",
+        "segment_index": 0,
+        "relative_start_ms": 4200,
+        "relative_end_ms": 5600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander glaring daggers at Clarissa."
+      },
+      {
+        "ref": "EP12:E24",
+        "segment_index": 0,
+        "relative_start_ms": 5600,
+        "relative_end_ms": 8400,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Name your price, Clarissa. I know you.\""
+      },
+      {
+        "ref": "EP12:E23",
+        "segment_index": 0,
+        "relative_start_ms": 5600,
+        "relative_end_ms": 8500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana, her eyes narrowing with sharp perception."
+      },
+      {
+        "ref": "EP12:E25",
+        "segment_index": 0,
+        "relative_start_ms": 8500,
+        "relative_end_ms": 13200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Clarissa smiling with vicious delight."
+      },
+      {
+        "ref": "EP12:E26",
+        "segment_index": 0,
+        "relative_start_ms": 8600,
+        "relative_end_ms": 13200,
+        "type": "dialogue",
+        "speaker": "CLARISSA",
+        "text": "\"You always were clever, Juliana. Always searching for some way to escape.\""
+      },
+      {
+        "ref": "EP12:E27",
+        "segment_index": 0,
+        "relative_start_ms": 13200,
+        "relative_end_ms": 15000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight shot of Clarissa smoothing her long purple evening glove along her wrist."
+      },
+      {
+        "ref": "EP12:E28",
+        "segment_index": 0,
+        "relative_start_ms": 13300,
+        "relative_end_ms": 14700,
+        "type": "dialogue",
+        "speaker": "CLARISSA",
+        "text": "\"Perhaps I can give you one.\""
+      },
+      {
+        "ref": "EP12:E29",
+        "segment_index": 0,
+        "relative_start_ms": 15000,
+        "relative_end_ms": 16900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana watching her with cautious skepticism."
+      },
+      {
+        "ref": "EP12:E30",
+        "segment_index": 0,
+        "relative_start_ms": 15400,
+        "relative_end_ms": 16700,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"What do you want?\""
+      },
+      {
+        "ref": "EP12:E31",
+        "segment_index": 0,
+        "relative_start_ms": 16900,
+        "relative_end_ms": 19800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot of Clarissa in the foreground, turning slowly to face Juliana."
+      },
+      {
+        "ref": "EP12:E32",
+        "segment_index": 0,
+        "relative_start_ms": 17200,
+        "relative_end_ms": 19600,
+        "type": "dialogue",
+        "speaker": "CLARISSA",
+        "text": "\"I want to see you crawl, sister.\""
+      },
+      {
+        "ref": "EP12:E33",
+        "segment_index": 0,
+        "relative_start_ms": 19800,
+        "relative_end_ms": 25600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up profile tracking shot of Clarissa pacing slowly as she spins her sadistic tale."
+      },
+      {
+        "ref": "EP12:E34",
+        "segment_index": 0,
+        "relative_start_ms": 19900,
+        "relative_end_ms": 25500,
+        "type": "dialogue",
+        "speaker": "CLARISSA",
+        "text": "\"My emerald signet ring fell deep into the frozen blackthorn briars at Ashworth Manor. The thorns have grown over it...\""
+      },
+      {
+        "ref": "EP12:E36",
+        "segment_index": 0,
+        "relative_start_ms": 25600,
+        "relative_end_ms": 29900,
+        "type": "dialogue",
+        "speaker": "CLARISSA",
+        "text": "\"...sharp as steel. The ground is frozen, like pure ice.\""
+      },
+      {
+        "ref": "EP12:E35",
+        "segment_index": 0,
+        "relative_start_ms": 25600,
+        "relative_end_ms": 30000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Clarissa flexing her gloved fingers theatrically in front of her face."
+      },
+      {
+        "ref": "EP12:E37",
+        "segment_index": 0,
+        "relative_start_ms": 30000,
+        "relative_end_ms": 31200,
+        "type": "action",
+        "speaker": null,
+        "text": "Gerald bursts into a loud, mocking laugh beside the stony Constable."
+      },
+      {
+        "ref": "EP12:E38",
+        "segment_index": 0,
+        "relative_start_ms": 30000,
+        "relative_end_ms": 34000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot of Clarissa stepping closer to Juliana, peering down into her eyes with a predatory smile."
+      },
+      {
+        "ref": "EP12:E39",
+        "segment_index": 0,
+        "relative_start_ms": 30500,
+        "relative_end_ms": 33800,
+        "type": "dialogue",
+        "speaker": "CLARISSA",
+        "text": "\"You will retrieve it with your bare hands before the magistrate arrives.\""
+      },
+      {
+        "ref": "EP12:E41",
+        "segment_index": 0,
+        "relative_start_ms": 34000,
+        "relative_end_ms": 36300,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"A lady's hands will be shredded to ribbons!\""
+      },
+      {
+        "ref": "EP12:E40",
+        "segment_index": 0,
+        "relative_start_ms": 34000,
+        "relative_end_ms": 36400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Gerald tapping his whip against his palm and laughing heartily beside the Constable."
+      },
+      {
+        "ref": "EP12:E42",
+        "segment_index": 0,
+        "relative_start_ms": 36400,
+        "relative_end_ms": 38400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium three-shot of Clarissa stepping behind Juliana, as Alexander watches helplessly with dark fury."
+      },
+      {
+        "ref": "EP12:E43",
+        "segment_index": 0,
+        "relative_start_ms": 36500,
+        "relative_end_ms": 38300,
+        "type": "dialogue",
+        "speaker": "CLARISSA",
+        "text": "\"Do it, and we withdraw the charges.\""
+      },
+      {
+        "ref": "EP12:E44",
+        "segment_index": 0,
+        "relative_start_ms": 38400,
+        "relative_end_ms": 42400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of Clarissa's mouth leaning directly into Juliana's ear, whispering venomously."
+      },
+      {
+        "ref": "EP12:E45",
+        "segment_index": 0,
+        "relative_start_ms": 38600,
+        "relative_end_ms": 42400,
+        "type": "dialogue",
+        "speaker": "CLARISSA",
+        "text": "\"Fail, or refuse, and your husband hangs from the gallows.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_d0bd79a1f00ede17",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 43700,
+        "end_ms": 65200,
+        "episode_id": "ep_012"
+      }
+    ],
+    "duration_ms": 21500,
+    "origin": "recovery_B6",
+    "clip_events": [
+      {
+        "ref": "EP12:E31",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot of Clarissa in the foreground, turning slowly to face Juliana."
+      },
+      {
+        "ref": "EP12:E32",
+        "segment_index": 0,
+        "relative_start_ms": 300,
+        "relative_end_ms": 2700,
+        "type": "dialogue",
+        "speaker": "CLARISSA",
+        "text": "\"I want to see you crawl, sister.\""
+      },
+      {
+        "ref": "EP12:E33",
+        "segment_index": 0,
+        "relative_start_ms": 2900,
+        "relative_end_ms": 8700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up profile tracking shot of Clarissa pacing slowly as she spins her sadistic tale."
+      },
+      {
+        "ref": "EP12:E34",
+        "segment_index": 0,
+        "relative_start_ms": 3000,
+        "relative_end_ms": 8600,
+        "type": "dialogue",
+        "speaker": "CLARISSA",
+        "text": "\"My emerald signet ring fell deep into the frozen blackthorn briars at Ashworth Manor. The thorns have grown over it...\""
+      },
+      {
+        "ref": "EP12:E36",
+        "segment_index": 0,
+        "relative_start_ms": 8700,
+        "relative_end_ms": 13000,
+        "type": "dialogue",
+        "speaker": "CLARISSA",
+        "text": "\"...sharp as steel. The ground is frozen, like pure ice.\""
+      },
+      {
+        "ref": "EP12:E35",
+        "segment_index": 0,
+        "relative_start_ms": 8700,
+        "relative_end_ms": 13100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Clarissa flexing her gloved fingers theatrically in front of her face."
+      },
+      {
+        "ref": "EP12:E37",
+        "segment_index": 0,
+        "relative_start_ms": 13100,
+        "relative_end_ms": 14300,
+        "type": "action",
+        "speaker": null,
+        "text": "Gerald bursts into a loud, mocking laugh beside the stony Constable."
+      },
+      {
+        "ref": "EP12:E38",
+        "segment_index": 0,
+        "relative_start_ms": 13100,
+        "relative_end_ms": 17100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot of Clarissa stepping closer to Juliana, peering down into her eyes with a predatory smile."
+      },
+      {
+        "ref": "EP12:E39",
+        "segment_index": 0,
+        "relative_start_ms": 13600,
+        "relative_end_ms": 16900,
+        "type": "dialogue",
+        "speaker": "CLARISSA",
+        "text": "\"You will retrieve it with your bare hands before the magistrate arrives.\""
+      },
+      {
+        "ref": "EP12:E41",
+        "segment_index": 0,
+        "relative_start_ms": 17100,
+        "relative_end_ms": 19400,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"A lady's hands will be shredded to ribbons!\""
+      },
+      {
+        "ref": "EP12:E40",
+        "segment_index": 0,
+        "relative_start_ms": 17100,
+        "relative_end_ms": 19500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Gerald tapping his whip against his palm and laughing heartily beside the Constable."
+      },
+      {
+        "ref": "EP12:E42",
+        "segment_index": 0,
+        "relative_start_ms": 19500,
+        "relative_end_ms": 21500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium three-shot of Clarissa stepping behind Juliana, as Alexander watches helplessly with dark fury."
+      },
+      {
+        "ref": "EP12:E43",
+        "segment_index": 0,
+        "relative_start_ms": 19600,
+        "relative_end_ms": 21400,
+        "type": "dialogue",
+        "speaker": "CLARISSA",
+        "text": "\"Do it, and we withdraw the charges.\""
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c_08cefcd5985ef1d5",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP04:E84",
+      "EP04:E85"
+    ],
+    "reason": "The clip opens on the priest declaring \"husband and wife!\" over a swelling dramatic chord, which signals a major moment right away. The gap between a wedding pronouncement and Gerald's immediate rage creates immediate tension, though a first-time viewer has no stakes yet."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP04:E102",
+      "EP04:E103"
+    ],
+    "reason": "The clip ends with the Mysterious Bearded Man reaching out to Juliana and saying \"Come, Lady Juliana.\" Juliana has been formally disowned and has not yet answered him, so her choice is left open. The ending is unresolved, but the stakes are only partly established for a viewer with no prior context.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Gerald, Juliana, Lady Ashcroft, Lord Ashcroft and the Mysterious Bearded Man are and how they relate to each other",
+      "Why Juliana's marriage is scandalous and what her husband's status is",
+      "What Ashcroft Manor is and why Juliana being disowned matters",
+      "Who the Mysterious Bearded Man is and why he offers to take her away",
+      "Why Gerald calls her husband a \"penniless nobody\""
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Rage, cold malice, humiliation and Juliana's tears held back with pride build a strong emotional arc within the clip. Her defiance and the final outstretched hand make the emotions feel intense and charged."
+  },
+  "weaknesses": [
+    "Viewer lacks the relationships and backstory needed to understand the family conflict",
+    "The stakes of disownment are stated but not explained",
+    "The Bearded Man's identity and intent are unclear, so his offer lacks weight",
+    "The clip depends on dialogue-heavy exchanges with little visual context beyond the cathedral setting"
+  ],
+  "one_line_why_it_works": "A wedding turns into a public family rejection, and the clip ends on a stranger's offer that leaves Juliana's choice open."
+}

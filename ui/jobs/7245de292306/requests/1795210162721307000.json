@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_8825b2e3a59164cf DURATION_MS=51200\nSEGMENT 1 (playback order)\nEP37:E11 0-200 CAMERA: Intense close-up of Rupert leaning in slightly, his eyes narrowing with venomous malice.\nEP37:E13 200-3500 CAMERA: Tight close-up of Catherine as a cruel sneer twists her lips.\nEP37:E14 800-3400 CATHERINE: \"Juliana's execution comes after the wedding.\"\nEP37:E15 3500-7000 CAMERA: Wide shot framing the two conspirators beneath the towering archways of the estate.\nEP37:E16 3600-6800 CATHERINE: \"Perfect timing. It will be a feast for our guests.\"\nEP37:E17 7000-9500 CAMERA: Medium close-up of Rupert turning his gaze toward the grand entrance.\nEP37:E18 7200-9200 BLOND NOBLEMAN: \"Send the invitations.\"\nEP37:E19 9500-11500 CAMERA: Close-up of Catherine looking sideways with narrowed eyes.\nEP37:E20 9800-11500 CATHERINE: \"Especially to the Ashcrofts.\"\nEP37:E21 11500-14000 CAMERA: Wide tracking shot down a palatial marble hall as a butler carries a silver tray toward double doors.\nEP37:E22 14000-16800 CAMERA: Medium shot inside an opulent drawing room with a roaring fireplace. Lady Clarissa sits gracefully in an emerald satin gown as the butler presents the tray.\nEP37:E23 14000-16800 BUTLER: \"Lady Clarissa, an invitation from Ashbridge Manor.\"\nEP37:E24 16500-21000 ACTION: Clarissa takes the cream envelope, breaks the red wax seal with her gloved thumbs, and slides out the heavy card.\nEP37:E25 21000-23800 CAMERA: Close-up of Clarissa's face lighting up with malicious excitement, the warm hearth flickering in the background.\nEP37:E26 21500-23500 LADY CLARISSA: \"Catherine's wedding.\"\nEP37:E27 23800-26500 CAMERA: Medium two-shot as her dark-haired husband steps up behind her chair, crossing his arms.\nEP37:E28 24000-26200 NOBLEMAN: \"So it is finally official.\"\nEP37:E29 26500-30000 CAMERA: Close-up of Clarissa smiling down at the calligraphy.\nEP37:E30 27000-29800 LADY CLARISSA: \"Lady Catherine Ashbridge.\"\nEP37:E31 30000-33000 CAMERA: Medium shot as Clarissa unfolds the second page attached to the invitation, her expression shifting to intrigue.\nEP37:E32 31000-33200 LADY CLARISSA: \"And after the ceremony...\"\nEP37:E33 33200-34200 NOBLEMAN: \"What?\"\nEP37:E34 33800-35500 ACTION: Clarissa hands the letter upward to him. He takes it and looks down at the bold heading.\nEP37:E35 35500-39000 CAMERA: Close-up of the nobleman reading, his eyes widening in shock before breaking into a grin.\nEP37:E36 35800-38800 NOBLEMAN: \"The sentencing of the condemned.\"\nEP37:E37 39000-42500 CAMERA: Close-up of Clarissa turning back to the fire, laughing softly with dark delight.\nEP37:E38 39800-42500 LADY CLARISSA: \"They want the families to witness it.\"\nEP37:E39 42500-46000 CAMERA: Medium shot of the nobleman holding the invitation, chuckling at the audacity.\nEP37:E40 43500-45800 NOBLEMAN: \"A public execution after a wedding.\"\nEP37:E41 46000-49500 CAMERA: Medium profile shot of Clarissa gazing back at him over her shoulder.\nEP37:E42 46500-49200 LADY CLARISSA: \"Not just an execution. A warning.\"\nEP37:E43 49500-51200 CAMERA: Close-up of the nobleman's stern face, leaning down.\nEP37:E44 50000-51200 NOBLEMAN: \"To whom?\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

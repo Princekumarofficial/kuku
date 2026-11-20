@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_7f471350496dfc7e DURATION_MS=60000\nSEGMENT 1 (playback order)\nEP33:E4 0-300 CAMERA: Medium close-up of the maid trembling as she raises her eyes hesitantly.\nEP33:E6 300-3500 CAMERA: Medium shot of the Lord standing beside his mahogany desk, looking down with cold, calculating scrutiny.\nEP33:E7 1000-3300 LORD: \"And who saved him?\"\nEP33:E8 3500-6300 CAMERA: Close-up of the maid's anxious, innocent face.\nEP33:E9 4500-6000 MAID: \"Lady Juliana.\"\nEP33:E10 6300-9300 CAMERA: Close-up of the Lord's hand slowly rotating the heavy gold signet ring on his pinky finger.\nEP33:E11 7000-9000 LORD: \"Tell me how.\"\nEP33:E12 9300-12500 CAMERA: Medium close-up of the maid nervously wringing her apron fabric.\nEP33:E13 11000-12500 MAID: \"She... she used herbs.\"\nEP33:E14 12500-14500 CAMERA: Close-up on the Lord leaning forward abruptly, his piercing gaze bearing down.\nEP33:E15 12700-14300 LORD: \"What herbs?\"\nEP33:E16 14500-18000 CAMERA: Close-up of the frightened maid looking down, shrinking back.\nEP33:E17 16000-17700 MAID: \"I don't know.\"\nEP33:E18 18000-20700 CAMERA: Low-angle shot looking up at the imposing Lord towering above her.\nEP33:E19 19000-20500 LORD: \"You watched her.\"\nEP33:E20 20700-24300 CAMERA: Close-up of the maid, tears beginning to glisten on her cheeks as she defends Juliana.\nEP33:E21 21300-23500 MAID: \"I watched her save him.\"\nEP33:E22 24300-28000 CAMERA: Medium tracking shot of the Lord turning away slowly past the lamp-lit desk toward the rain-streaked window.\nEP33:E23 25500-27700 LORD: \"That is not what I asked.\"\nEP33:E24 28000-31700 CAMERA: Medium two-shot framing the maid from behind as the Lord steps back toward her with commanding stillness.\nEP33:E25 29000-31500 LORD: \"Did she use her mother's book?\"\nEP33:E26 31700-35700 CAMERA: Close-up of the maid trembling, tears spilling down her face.\nEP33:E27 33700-35100 MAID: \"Yes.\"\nEP33:E28 35700-40700 CAMERA: Close-up of the Lord's sinister, unyielding face.\nEP33:E29 36300-40300 LORD: \"Did she prepare things no physician had prescribed?\"\nEP33:E30 40700-44000 CAMERA: Medium shot of the maid clutching her hands together tightly, overwhelmed with guilt.\nEP33:E31 41500-43100 MAID: \"Yes.\"\nEP33:E32 44000-48300 CAMERA: Close-up of the Lord's mouth curling into a sinister, predatory smile.\nEP33:E33 44500-48000 LORD: \"And did she perform anything unusual?\"\nEP33:E34 48300-50500 CAMERA: Close-up of the maid gasping, shaking her head vigorously in panic.\nEP33:E35 48900-50300 MAID: \"No!\"\nEP33:E37 50500-52500 LORD: \"Think carefully.\"\nEP33:E36 50500-55700 CAMERA: Profile medium two-shot as the Lord looms inches from the maid's face.\nEP33:E38 52700-55000 LORD: \"Your brother is still a pauper.\"\nEP33:E39 55700-60000 CAMERA: Extreme close-up of the Lord's cold eyes and hawkish profile speaking with chilling finality.\nEP33:E40 55900-60000 LORD: \"One word from me, and the county gaol will take him before sunrise.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

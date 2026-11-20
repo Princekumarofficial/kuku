@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_43e985d45b573b5b",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP50:E6",
+      "EP50:E8",
+      "EP50:E9"
+    ],
+    "reason": "The clip opens immediately on intimate tension between two characters in bed, and Catherine's line 'Then let's stop pretending this was only appetite' suggests a hidden history that hooks curiosity within the first seconds."
+  },
+  "cliffhanger": {
+    "score_0_10": 5.0,
+    "evidence_refs": [
+      "EP50:E23",
+      "EP50:E22"
+    ],
+    "reason": "The bargain is struck with 'Done', so the immediate scene is resolved, but the closing line 'this ends when the hearing does' introduces an unexplained future hearing whose outcome is open.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Father Thomas and Catherine are to each other and their relationship history",
+      "What the 'hearing' is and why it matters",
+      "What the 'west territory' and tax collection arrangement represent",
+      "Why absolution is being bargained for and what the earlier 'appetite' refers to",
+      "Whether Catherine's earlier 'stop pretending' line refers to a prior event"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 6.0,
+    "reason": "Tension, intimacy, and the shifting power dynamic between the characters create a charged mood, though without context the stakes feel abstract."
+  },
+  "weaknesses": [
+    "Plot stakes such as the hearing and the territory are unexplained for a first-time viewer",
+    "The bargain's meaning and the characters' motivations are not established",
+    "The ending resolves the deal, so the cliffhanger depends on an unexplained future event",
+    "Dialogue references prior events that the clip does not show"
+  ],
+  "one_line_why_it_works": "Sharp, intimate dialogue and a transactional twist on absolution create immediate curiosity about a hidden history and an uncertain future."
+}

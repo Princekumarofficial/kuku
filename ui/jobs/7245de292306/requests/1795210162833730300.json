@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_d038d3f2df46b782 DURATION_MS=41000\nSEGMENT 1 (playback order)\nEP40:E17 0-1000 ACTION: Lady Harrington lets out a soft, amused laugh as they reach the heavy wooden cathedral doors.\nEP40:E18 1000-7300 CAMERA: Dramatic tracking shot following Lord and Lady Harrington from behind as they stride down the candlelit aisle of the cathedral toward their reserved pew.\nEP40:E19 1200-5800 LADY HARRINGTON: \"She stands beneath God's watch and still gets exactly what she deserves.\"\nEP40:E20 7300-9000 ACTION: Lord and Lady Harrington slide gracefully into the polished wooden pew, smoothing their garments.\nEP40:E21 7300-12000 CAMERA: Medium profile shot of the couple seated in the pew, looking toward the grand altar.\nEP40:E22 8800-10800 LADY HARRINGTON: \"We have an excellent view.\"\nEP40:E23 10900-12000 LORD HARRINGTON: \"Of the wedding?\"\nEP40:E24 12000-16600 CAMERA: Close-up two-shot as Lady Harrington turns her head toward Lord Harrington with a dark, knowing smirk.\nEP40:E25 12100-15100 LADY HARRINGTON: \"And everything that comes after it.\"\nEP40:E26 16600-22600 CAMERA: Medium shot of Rupert, the Blond Nobleman, standing before the altar draped in floral garlands. He wears an ornate silver-embroidered black formal coat and nervously adjusts his pristine white gloves.\nEP40:E27 17600-20000 BLOND NOBLEMAN: \"Everything must go perfectly.\"\nEP40:E28 20000-22600 ACTION: Rupert smooths the lapels of his coat, checking his posture as he waits for the bride.\nEP40:E29 22600-25000 CAMERA: Medium shot up on the stone balcony overlooking the nave, where an elder conspirator nobleman in black gloves stands gripping a cane.\nEP40:E30 25000-30600 CAMERA: High-angle wide shot looking down from the balcony across the entire cathedral filled with guests, candles lining the central aisle, and royal guards standing at attention.\nEP40:E31 30600-36300 CAMERA: Medium shot on the balcony as a Royal Guard in red uniform and tall bearskin hat steps up and bows respectfully to the elder nobleman.\nEP40:E32 31800-33600 ELDER NOBLEMAN: \"All entrances are covered?\"\nEP40:E33 33700-35000 ROYAL GUARD: \"Every one, my Lord.\"\nEP40:E34 35100-36100 ELDER NOBLEMAN: \"Good.\"\nEP40:E35 36300-41000 CAMERA: Over-the-shoulder shot from behind the elder nobleman, his gloved hand resting on the stone balustrade, looking down upon the altar and seated aristocrats.\nEP40:E36 36600-41000 ELDER NOBLEMAN: \"By sunset, Ashburgh will have its new Duke and Duchess.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

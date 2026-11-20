@@ -1,0 +1,638 @@
+[
+  {
+    "candidate_id": "c_5b5362525e113931",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 2800,
+        "end_ms": 25400,
+        "episode_id": "ep_020"
+      }
+    ],
+    "duration_ms": 22600,
+    "origin": "ep020_opp1",
+    "clip_events": [
+      {
+        "ref": "EP20:E2",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 4000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium wide shot of the lavish drawing room. CATHERINE, dressed in an ornate lilac regency gown and white satin gloves, gracefully pours hot tea from an ornate silver teapot, while RUPERT stands elegantly by the tall window."
+      },
+      {
+        "ref": "EP20:E3",
+        "segment_index": 0,
+        "relative_start_ms": 100,
+        "relative_end_ms": 1600,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Two lumps of sugar, Rupert?\""
+      },
+      {
+        "ref": "EP20:E4",
+        "segment_index": 0,
+        "relative_start_ms": 1800,
+        "relative_end_ms": 5000,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Or has your sudden climb to power sweetened your taste already?\""
+      },
+      {
+        "ref": "EP20:E5",
+        "segment_index": 0,
+        "relative_start_ms": 4100,
+        "relative_end_ms": 6700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Catherine stirring her tea with a silver spoon, lifting her gaze with a haughty smirk."
+      },
+      {
+        "ref": "EP20:E6",
+        "segment_index": 0,
+        "relative_start_ms": 5400,
+        "relative_end_ms": 8000,
+        "type": "dialogue",
+        "speaker": "RUPERT",
+        "text": "\"Only if it sweetens your disposition, Catherine.\""
+      },
+      {
+        "ref": "EP20:E7",
+        "segment_index": 0,
+        "relative_start_ms": 6800,
+        "relative_end_ms": 12400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot tracking Rupert as he steps forward from the hearth, adjusting his dark leather gloves with an air of absolute triumph."
+      },
+      {
+        "ref": "EP20:E8",
+        "segment_index": 0,
+        "relative_start_ms": 8100,
+        "relative_end_ms": 9900,
+        "type": "dialogue",
+        "speaker": "RUPERT",
+        "text": "\"The estate is practically ours.\""
+      },
+      {
+        "ref": "EP20:E9",
+        "segment_index": 0,
+        "relative_start_ms": 10000,
+        "relative_end_ms": 12300,
+        "type": "dialogue",
+        "speaker": "RUPERT",
+        "text": "\"The succession papers are being finalized as we speak.\""
+      },
+      {
+        "ref": "EP20:E10",
+        "segment_index": 0,
+        "relative_start_ms": 12400,
+        "relative_end_ms": 17200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Catherine raising the porcelain teacup to her lips, her expression turning sharp and dismissive."
+      },
+      {
+        "ref": "EP20:E11",
+        "segment_index": 0,
+        "relative_start_ms": 12600,
+        "relative_end_ms": 15900,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"'Practically' is a word for beggars. I do not marry a practical Duke.\""
+      },
+      {
+        "ref": "EP20:E12",
+        "segment_index": 0,
+        "relative_start_ms": 16000,
+        "relative_end_ms": 17300,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"I marry the Lord of Ashbury.\""
+      },
+      {
+        "ref": "EP20:E13",
+        "segment_index": 0,
+        "relative_start_ms": 17200,
+        "relative_end_ms": 22600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Rupert striding toward the tea table, leaning forward with predatory conviction."
+      },
+      {
+        "ref": "EP20:E14",
+        "segment_index": 0,
+        "relative_start_ms": 17300,
+        "relative_end_ms": 18400,
+        "type": "dialogue",
+        "speaker": "RUPERT",
+        "text": "\"And so you shall.\""
+      },
+      {
+        "ref": "EP20:E15",
+        "segment_index": 0,
+        "relative_start_ms": 18500,
+        "relative_end_ms": 21400,
+        "type": "dialogue",
+        "speaker": "RUPERT",
+        "text": "\"Once my cousin Alexander's death is formally sealed by the Crown...\""
+      },
+      {
+        "ref": "EP20:E16",
+        "segment_index": 0,
+        "relative_start_ms": 21500,
+        "relative_end_ms": 22600,
+        "type": "dialogue",
+        "speaker": "RUPERT",
+        "text": "\"...the title is mine.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_39085fc4fef39a0a",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 12700,
+        "end_ms": 39100,
+        "episode_id": "ep_020"
+      }
+    ],
+    "duration_ms": 26400,
+    "origin": "ep020_opp2",
+    "clip_events": [
+      {
+        "ref": "EP20:E7",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot tracking Rupert as he steps forward from the hearth, adjusting his dark leather gloves with an air of absolute triumph."
+      },
+      {
+        "ref": "EP20:E9",
+        "segment_index": 0,
+        "relative_start_ms": 100,
+        "relative_end_ms": 2400,
+        "type": "dialogue",
+        "speaker": "RUPERT",
+        "text": "\"The succession papers are being finalized as we speak.\""
+      },
+      {
+        "ref": "EP20:E10",
+        "segment_index": 0,
+        "relative_start_ms": 2500,
+        "relative_end_ms": 7300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Catherine raising the porcelain teacup to her lips, her expression turning sharp and dismissive."
+      },
+      {
+        "ref": "EP20:E11",
+        "segment_index": 0,
+        "relative_start_ms": 2700,
+        "relative_end_ms": 6000,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"'Practically' is a word for beggars. I do not marry a practical Duke.\""
+      },
+      {
+        "ref": "EP20:E12",
+        "segment_index": 0,
+        "relative_start_ms": 6100,
+        "relative_end_ms": 7400,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"I marry the Lord of Ashbury.\""
+      },
+      {
+        "ref": "EP20:E13",
+        "segment_index": 0,
+        "relative_start_ms": 7300,
+        "relative_end_ms": 12800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Rupert striding toward the tea table, leaning forward with predatory conviction."
+      },
+      {
+        "ref": "EP20:E14",
+        "segment_index": 0,
+        "relative_start_ms": 7400,
+        "relative_end_ms": 8500,
+        "type": "dialogue",
+        "speaker": "RUPERT",
+        "text": "\"And so you shall.\""
+      },
+      {
+        "ref": "EP20:E15",
+        "segment_index": 0,
+        "relative_start_ms": 8600,
+        "relative_end_ms": 11500,
+        "type": "dialogue",
+        "speaker": "RUPERT",
+        "text": "\"Once my cousin Alexander's death is formally sealed by the Crown...\""
+      },
+      {
+        "ref": "EP20:E16",
+        "segment_index": 0,
+        "relative_start_ms": 11600,
+        "relative_end_ms": 12700,
+        "type": "dialogue",
+        "speaker": "RUPERT",
+        "text": "\"...the title is mine.\""
+      },
+      {
+        "ref": "EP20:E18",
+        "segment_index": 0,
+        "relative_start_ms": 12800,
+        "relative_end_ms": 15500,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"And what of the Dowager? The old woman still breathes.\""
+      },
+      {
+        "ref": "EP20:E17",
+        "segment_index": 0,
+        "relative_start_ms": 12800,
+        "relative_end_ms": 17500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Catherine lowering her teacup, her icy blue eyes narrowing in calculated concern."
+      },
+      {
+        "ref": "EP20:E19",
+        "segment_index": 0,
+        "relative_start_ms": 15600,
+        "relative_end_ms": 17500,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Her shadow still hangs over this house.\""
+      },
+      {
+        "ref": "EP20:E21",
+        "segment_index": 0,
+        "relative_start_ms": 17500,
+        "relative_end_ms": 20100,
+        "type": "dialogue",
+        "speaker": "RUPERT",
+        "text": "\"Her health fails more each day. The physicians are baffled.\""
+      },
+      {
+        "ref": "EP20:E20",
+        "segment_index": 0,
+        "relative_start_ms": 17500,
+        "relative_end_ms": 21300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of Rupert's face as a sinister grin spreads across his features."
+      },
+      {
+        "ref": "EP20:E22",
+        "segment_index": 0,
+        "relative_start_ms": 20200,
+        "relative_end_ms": 21700,
+        "type": "dialogue",
+        "speaker": "RUPERT",
+        "text": "\"They call it a wasting of the lungs.\""
+      },
+      {
+        "ref": "EP20:E23",
+        "segment_index": 0,
+        "relative_start_ms": 21400,
+        "relative_end_ms": 26400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up side profile of Catherine bringing the teacup to her lips, savoring his words with chilling detachment."
+      },
+      {
+        "ref": "EP20:E24",
+        "segment_index": 0,
+        "relative_start_ms": 21500,
+        "relative_end_ms": 24100,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"How tragic. The slow, quiet decline.\""
+      },
+      {
+        "ref": "EP20:E25",
+        "segment_index": 0,
+        "relative_start_ms": 24200,
+        "relative_end_ms": 26400,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"How much longer can the frail thing survive?\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_7f1e6384cab156b0",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 88000,
+        "end_ms": 114750,
+        "episode_id": "ep_020"
+      }
+    ],
+    "duration_ms": 26750,
+    "origin": "ep020_opp4",
+    "clip_events": [
+      {
+        "ref": "EP20:E50",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot of Juliana and Seamus standing facing each other in the barn, the lantern casting a warm amber glow between them."
+      },
+      {
+        "ref": "EP20:E54",
+        "segment_index": 0,
+        "relative_start_ms": 200,
+        "relative_end_ms": 2000,
+        "type": "action",
+        "speaker": null,
+        "text": "Catherine's gloved hand sets her fine porcelain teacup down onto the silver tray with a delicate clatter."
+      },
+      {
+        "ref": "EP20:E55",
+        "segment_index": 0,
+        "relative_start_ms": 400,
+        "relative_end_ms": 1400,
+        "type": "sound",
+        "speaker": null,
+        "text": "Sharp porcelain chime of teacup meeting saucer."
+      },
+      {
+        "ref": "EP20:E56",
+        "segment_index": 0,
+        "relative_start_ms": 1800,
+        "relative_end_ms": 6800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Catherine looking up, her face twisting into venomous arrogance."
+      },
+      {
+        "ref": "EP20:E57",
+        "segment_index": 0,
+        "relative_start_ms": 1900,
+        "relative_end_ms": 4400,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Let the peasants rot in their barns.\""
+      },
+      {
+        "ref": "EP20:E58",
+        "segment_index": 0,
+        "relative_start_ms": 4600,
+        "relative_end_ms": 6500,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Let them pray to their weeds.\""
+      },
+      {
+        "ref": "EP20:E59",
+        "segment_index": 0,
+        "relative_start_ms": 6800,
+        "relative_end_ms": 11200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as Rupert steps around the mahogany table and leans close into Catherine's ear, smiling seductively."
+      },
+      {
+        "ref": "EP20:E60",
+        "segment_index": 0,
+        "relative_start_ms": 6900,
+        "relative_end_ms": 9300,
+        "type": "dialogue",
+        "speaker": "RUPERT",
+        "text": "\"You have no rival here, Catherine.\""
+      },
+      {
+        "ref": "EP20:E61",
+        "segment_index": 0,
+        "relative_start_ms": 9400,
+        "relative_end_ms": 11100,
+        "type": "dialogue",
+        "speaker": "RUPERT",
+        "text": "\"No one to stand in your way.\""
+      },
+      {
+        "ref": "EP20:E62",
+        "segment_index": 0,
+        "relative_start_ms": 11200,
+        "relative_end_ms": 15800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Catherine looking into Rupert's eyes, her smile turning predatory and cold."
+      },
+      {
+        "ref": "EP20:E63",
+        "segment_index": 0,
+        "relative_start_ms": 11300,
+        "relative_end_ms": 13400,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Once the old Duchess is gone...\""
+      },
+      {
+        "ref": "EP20:E64",
+        "segment_index": 0,
+        "relative_start_ms": 13500,
+        "relative_end_ms": 15700,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"...Ashbury will finally belong to us.\""
+      },
+      {
+        "ref": "EP20:E65",
+        "segment_index": 0,
+        "relative_start_ms": 15800,
+        "relative_end_ms": 21000,
+        "type": "action",
+        "speaker": null,
+        "text": "Catherine rises from her chair in one regal motion and glides toward the towering window overlooking the vast estate grounds."
+      },
+      {
+        "ref": "EP20:E66",
+        "segment_index": 0,
+        "relative_start_ms": 16000,
+        "relative_end_ms": 21500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tracking medium shot following Catherine from behind as she walks gracefully to the window frame, the grey morning light outlining her aristocratic silhouette."
+      },
+      {
+        "ref": "EP20:E67",
+        "segment_index": 0,
+        "relative_start_ms": 18800,
+        "relative_end_ms": 21200,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"This house will only bow to me.\""
+      },
+      {
+        "ref": "EP20:E68",
+        "segment_index": 0,
+        "relative_start_ms": 21500,
+        "relative_end_ms": 26750,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up profile of Catherine gazing out the windowpane, her icy eyes burning with insatiable ambition as dramatic strings swell to a menacing cliffhanger hold."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_779446e63c3d681f",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 18700,
+        "end_ms": 39200,
+        "episode_id": "ep_020"
+      }
+    ],
+    "duration_ms": 20500,
+    "origin": "recovery_b2",
+    "clip_events": [
+      {
+        "ref": "EP20:E10",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Catherine raising the porcelain teacup to her lips, her expression turning sharp and dismissive."
+      },
+      {
+        "ref": "EP20:E12",
+        "segment_index": 0,
+        "relative_start_ms": 100,
+        "relative_end_ms": 1400,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"I marry the Lord of Ashbury.\""
+      },
+      {
+        "ref": "EP20:E13",
+        "segment_index": 0,
+        "relative_start_ms": 1300,
+        "relative_end_ms": 6800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Rupert striding toward the tea table, leaning forward with predatory conviction."
+      },
+      {
+        "ref": "EP20:E14",
+        "segment_index": 0,
+        "relative_start_ms": 1400,
+        "relative_end_ms": 2500,
+        "type": "dialogue",
+        "speaker": "RUPERT",
+        "text": "\"And so you shall.\""
+      },
+      {
+        "ref": "EP20:E15",
+        "segment_index": 0,
+        "relative_start_ms": 2600,
+        "relative_end_ms": 5500,
+        "type": "dialogue",
+        "speaker": "RUPERT",
+        "text": "\"Once my cousin Alexander's death is formally sealed by the Crown...\""
+      },
+      {
+        "ref": "EP20:E16",
+        "segment_index": 0,
+        "relative_start_ms": 5600,
+        "relative_end_ms": 6700,
+        "type": "dialogue",
+        "speaker": "RUPERT",
+        "text": "\"...the title is mine.\""
+      },
+      {
+        "ref": "EP20:E18",
+        "segment_index": 0,
+        "relative_start_ms": 6800,
+        "relative_end_ms": 9500,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"And what of the Dowager? The old woman still breathes.\""
+      },
+      {
+        "ref": "EP20:E17",
+        "segment_index": 0,
+        "relative_start_ms": 6800,
+        "relative_end_ms": 11500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Catherine lowering her teacup, her icy blue eyes narrowing in calculated concern."
+      },
+      {
+        "ref": "EP20:E19",
+        "segment_index": 0,
+        "relative_start_ms": 9600,
+        "relative_end_ms": 11500,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Her shadow still hangs over this house.\""
+      },
+      {
+        "ref": "EP20:E21",
+        "segment_index": 0,
+        "relative_start_ms": 11500,
+        "relative_end_ms": 14100,
+        "type": "dialogue",
+        "speaker": "RUPERT",
+        "text": "\"Her health fails more each day. The physicians are baffled.\""
+      },
+      {
+        "ref": "EP20:E20",
+        "segment_index": 0,
+        "relative_start_ms": 11500,
+        "relative_end_ms": 15300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of Rupert's face as a sinister grin spreads across his features."
+      },
+      {
+        "ref": "EP20:E22",
+        "segment_index": 0,
+        "relative_start_ms": 14200,
+        "relative_end_ms": 15700,
+        "type": "dialogue",
+        "speaker": "RUPERT",
+        "text": "\"They call it a wasting of the lungs.\""
+      },
+      {
+        "ref": "EP20:E23",
+        "segment_index": 0,
+        "relative_start_ms": 15400,
+        "relative_end_ms": 20500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up side profile of Catherine bringing the teacup to her lips, savoring his words with chilling detachment."
+      },
+      {
+        "ref": "EP20:E24",
+        "segment_index": 0,
+        "relative_start_ms": 15500,
+        "relative_end_ms": 18100,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"How tragic. The slow, quiet decline.\""
+      },
+      {
+        "ref": "EP20:E25",
+        "segment_index": 0,
+        "relative_start_ms": 18200,
+        "relative_end_ms": 20400,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"How much longer can the frail thing survive?\""
+      }
+    ]
+  }
+]

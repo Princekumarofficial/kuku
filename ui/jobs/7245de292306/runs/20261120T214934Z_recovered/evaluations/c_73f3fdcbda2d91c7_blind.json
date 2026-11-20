@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_73f3fdcbda2d91c7",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP45:E13",
+      "EP45:E17",
+      "EP45:E19"
+    ],
+    "reason": "The opening is an intimate close-up with a trembling touch and a ducal mantle being draped over Juliana, and the line 'You're the Duke?' within the first 3000ms raises an immediate question. The opening lacks the surrounding situation, so the pull is moderate."
+  },
+  "cliffhanger": {
+    "score_0_10": 2.0,
+    "evidence_refs": [
+      "EP45:E53"
+    ],
+    "reason": "The clip ends on Alexander's declaration that Juliana is his lawful wife and Duchess, which resolves the immediate confrontation. Catherine's reaction and the crowd's response are not shown as an open threat, so this is an intense but resolved ending rather than a cliffhanger.",
+    "unresolved_at_end": false
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Who Catherine is and her relationship to Alexander",
+      "The nature of the wedding and why Catherine is in a disheveled wedding gown at the altar",
+      "What the poisoning and torture accusations refer to, including who the mother is",
+      "Why Alexander's title was hidden and what 'nobody' and 'nothing' mean in Juliana's past",
+      "Juliana's background and why she is in a rustic gown",
+      "What 'Wife?!' means for Catherine and the congregation"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Tears of awe, tender face-cradling, forehead-to-forehead intimacy, furious accusation, and a triumphant public proclamation create strong, shifting emotional swings even without full context."
+  },
+  "weaknesses": [
+    "Opens mid-scene with no establishing context for the setting or relationships",
+    "Heavy reliance on unexplained names and titles such as Catherine, the Crown, and the Duke of Ashburton",
+    "The accusations of poisoning and torture are stated without any shown context, so their weight is hard to feel",
+    "Catherine's arc and reaction are cut short, so the emotional payoff of the confrontation is partly lost",
+    "The rapid sequence of several declarations makes it dense for a first-time viewer"
+  ],
+  "one_line_why_it_works": "A revelation of identity and an public accusation are delivered in quick succession with strong close-up emotion, ending on a clear triumphant declaration that feels complete for a standalone clip."
+}

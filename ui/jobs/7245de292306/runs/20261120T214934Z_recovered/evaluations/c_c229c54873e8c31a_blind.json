@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_c229c54873e8c31a",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP46:E7",
+      "EP46:E8"
+    ],
+    "reason": "Opens within 0-3000ms on a tense officiated scene: armed guards, a wax seal, and the High Priest declaring the sanctuary under immediate Crown control. The threat is clear even without backstory."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP46:E31",
+      "EP46:E32"
+    ],
+    "reason": "The final 3000ms reveal that Alexander was recorded as already dead, shown alongside the proclamation pushed toward the camera. The clip ends before any response or consequence, so the stakes stay open. It is not a resolved ending.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Alexander and Juliana are and their relationship before this scene",
+      "What the hedge ceremony and the unrecorded marriage signify",
+      "Why the Duke of Ashburton's identity matters and what the title change means",
+      "The content and authority of the War Office document and the Crown license",
+      "Why Alexander was thought dead and what the Crown register implies",
+      "Why the congregation is silent and what the guards' role is"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Sustained confrontation, defiant body language, and Juliana's hurt and defiance create strong tension. The emotional stakes are clear even though the backstory is not."
+  },
+  "weaknesses": [
+    "Heavy exposition in rapid dialogue with little visual grounding of the backstory",
+    "Viewer cannot tell what legal or social consequence the proclamation carries",
+    "The reveal about Alexander being dead lacks setup, so its impact depends on unseen context",
+    "Several long dialogue lines are delivered over static shots, slowing pacing"
+  ],
+  "one_line_why_it_works": "A tense public confrontation builds to a sharp reveal at the end, leaving the viewer with an open question about Alexander's status and the Crown's next move."
+}

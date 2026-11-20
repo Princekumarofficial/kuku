@@ -1,0 +1,204 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_c6c77a33627ff6ec DURATION_MS=28000\nSEGMENT 1 (playback order)\nEP02:E1 0-300 CAMERA: Medium low-angle shot on Gerald at the altar steps, looking down dismissively, while Clarissa in her shimmering gold gown stands behind him gloating.\nEP02:E3 300-2100 CAMERA: Medium close-up on Juliana trembling in disbelief, her hands clasped tightly to her chest.\nEP02:E4 300-2100 ACTION: Juliana gasps softly in heartbreak, her eyes wide and brimming with tears.\nEP02:E5 2100-4100 CAMERA: Medium shot returning to Gerald, sneering down at Juliana.\nEP02:E6 2200-4000 THE FORMER GROOM: \"You are far too plain...\"\nEP02:E7 4100-7000 CAMERA: Close-up on Juliana's tear-streaked face, crushed under his biting words.\nEP02:E8 4300-7000 THE FORMER GROOM: \"...far too silent...\"\nEP02:E9 7000-9500 CAMERA: Medium shot on Gerald turning slightly toward Clarissa as she smiles admiringly at him.\nEP02:E10 7100-9500 THE FORMER GROOM: \"...and completely beneath the future I deserve.\"\nEP02:E11 9500-13300 CAMERA: Wide shot down the aisle as Juliana takes an agonizing step forward toward the altar, extending a trembling hand.\nEP02:E12 9900-13000 LADY JULIANA: \"Gerald... Look at me.\"\nEP02:E13 13300-15500 CAMERA: Close-up on Gerald's cold, merciless face staring ahead unblinkingly.\nEP02:E14 15500-18200 CAMERA: Tight insert on Juliana's hand clutching the heirloom amethyst pendant resting against her gown.\nEP02:E15 15700-18100 LADY JULIANA: \"You gave me your word before both our families.\"\nEP02:E16 18200-21300 CAMERA: Medium two-shot of Gerald and Clarissa standing side by side before the priest.\nEP02:E17 18400-21200 THE FORMER GROOM: \"Promises change when a better choice appears.\"\nEP02:E18 21300-25100 CAMERA: Medium close-up on Juliana clutching her chest, her voice quivering with disbelief.\nEP02:E19 21500-24900 LADY JULIANA: \"A better choice? Is that what she is?\"\nEP02:E20 25100-28000 CAMERA: Wide shot from behind Juliana looking up the altar stairs at Gerald with Clarissa linked to his arm.\nEP02:E21 25300-28000 THE FORMER GROOM: \"She is what I should have chosen from the beginning.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "complete",
+  "output": {
+    "candidate_id": "c_c6c77a33627ff6ec",
+    "hook": {
+      "score_0_10": 7.0,
+      "evidence_refs": [
+        "EP02:E1",
+        "EP02:E3",
+        "EP02:E4",
+        "EP02:E6"
+      ],
+      "reason": "The clip opens within 0-300ms on Gerald looking down dismissively while Clarissa gloats, and Juliana's trembling disbelief follows at 300-2100ms. The first insult lands at 2200ms, so the opening establishes a public humiliation at an altar quickly."
+    },
+    "cliffhanger": {
+      "score_0_10": 6.0,
+      "evidence_refs": [
+        "EP02:E20",
+        "EP02:E21",
+        "EP02:E19"
+      ],
+      "reason": "The final 3000ms show Gerald turning away with Clarissa on his arm and declaring she is the choice he should have made, while Juliana's question 'Is that what she is?' goes unanswered. Juliana's response and the outcome of the confrontation are left open, though the scene's emotional conflict is strongly stated rather than a suspenseful hook.",
+      "unresolved_at_end": true
+    },
+    "standalone": {
+      "score_0_10": 5.0,
+      "missing_context": [
+        "Who Juliana, Gerald, and Clarissa are to each other beyond the labels 'Former Groom' and 'Lady Juliana'",
+        "What the 'word' Gerald gave before both families refers to",
+        "Why the wedding is being interrupted or what happened before this moment",
+        "The significance of the heirloom amethyst pendant"
+      ]
+    },
+    "emotion": {
+      "score_0_10": 8.0,
+      "reason": "Juliana's heartbreak, tears, and trembling hands are shown alongside Gerald's cruel insults and Clarissa's gloating, creating strong sympathy and anger without needing prior context."
+    },
+    "weaknesses": [
+      "Relationships and backstory are not established, so a first-time viewer cannot tell why the betrayal matters beyond the immediate humiliation",
+      "The 'Former Groom' label is used before the viewer knows he was ever her groom",
+      "The pendant is shown with emphasis but its meaning is not explained",
+      "The ending is a declaration rather than a suspenseful unanswered event, so the cliffhanger is moderate"
+    ],
+    "one_line_why_it_works": "A public wedding betrayal is shown with clear emotional stakes, cruel dialogue, and a final line that leaves Juliana's reaction hanging."
+  }
+}

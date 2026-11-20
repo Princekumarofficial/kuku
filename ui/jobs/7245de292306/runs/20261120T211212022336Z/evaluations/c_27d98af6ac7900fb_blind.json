@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_27d98af6ac7900fb",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP15:E40",
+      "EP15:E41",
+      "EP15:E43"
+    ],
+    "reason": "The opening starts within 0-3000ms with three thugs mocking a kneeling woman, the bald thug's line 'Crying over weeds!' and Juliana's 'Stop!' create immediate tension and an urgent question about what happens next."
+  },
+  "cliffhanger": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP15:E54",
+      "EP15:E55"
+    ],
+    "reason": "The clip ends in the final 3000ms with the Thug with Cap regrouped and gripping his club, Juliana's breath hitching as violence hangs on a knife's edge, and a cello swell cutting off abruptly. No fight outcome is shown, so the situation is unresolved at the end.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Who Juliana is and why she is kneeling among herbs",
+      "Who Alexander is and his relationship to Juliana",
+      "Why the thugs are attacking her and what the herbs mean",
+      "The meaning of the thug's taunt 'veteran' and any backstory it implies",
+      "Why Juliana's reaction shifts to relief at Alexander's arrival"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Mockery, a sudden threat with a raised club, a rescuer charging through mist with visible rage, and Juliana's shift from shock to relief followed by anxious suspense produce strong emotional swings and a tense ending."
+  },
+  "weaknesses": [
+    "Several characters and motives are introduced without context, so a first-time viewer cannot tell who is who or why the conflict matters",
+    "The rescue and standoff are clear, but the stakes beyond the immediate threat are not established",
+    "The 'veteran' reference implies backstory that is not shown in the clip",
+    "Timing overlaps (for example E42 and E43, E45 and E46) make the exact sequence of beats slightly harder to follow"
+  ],
+  "one_line_why_it_works": "A cruel mockery and a raised club are followed by a dramatic rescue, and the clip ends on a suspended standoff that leaves the outcome open."
+}

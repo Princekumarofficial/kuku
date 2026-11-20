@@ -1,0 +1,169 @@
+{
+  "episode_id": "ep_050",
+  "summary": "On-screen evidence covers two scenes. In sc_001 (EP50:E1-E32), Catherine and Father Thomas, in bed, negotiate: she asks for his price, and he demands control of the west territory's tax collection routed through his office, presented as discretion rather than absolution; they agree it will hold 'for as long as' the hearing lasts. In sc_002 (EP50:E33-E40), Agnes walks a manor corridor, looks through a door, and sees the two in an intimate embrace before stumbling away. Uncertainty: the on-screen dialogue names only 'Father Thomas' and 'Catherine'; the shirtless priest in EP50:E36 is not named on screen, so his identity rests on continuity with sc_001. Agnes's role, what she intends to do, and the nature of the 'lethal secret' (EP50:E40) are not shown. The supplied metadata (logline, continuity notes) is not on-screen evidence and was not used for any claim here; it describes unseen events such as a prior episode and a 'political extortion' framing that this episode does not show explicitly.",
+  "characters": [
+    {
+      "name": "Catherine",
+      "role": "Noblewoman in an intimate relationship with Father Thomas; initiates the price negotiation (EP50:E11) and seeks his silence."
+    },
+    {
+      "name": "Father Thomas",
+      "role": "Priest in a secret intimate relationship with Catherine; demands control of the west territory's tax collection as the price of discretion (EP50:E13, E17)."
+    },
+    {
+      "name": "Agnes",
+      "role": "Unexpected witness who discovers Catherine and the priest together (EP50:E36); her allegiance and intentions are not shown."
+    }
+  ],
+  "beats": [
+    {
+      "id": "b1",
+      "kind": "intimacy_setup",
+      "event_refs": [
+        "EP50:E1",
+        "EP50:E2",
+        "EP50:E3",
+        "EP50:E4",
+        "EP50:E5",
+        "EP50:E6",
+        "EP50:E7",
+        "EP50:E8",
+        "EP50:E9"
+      ],
+      "description": "Catherine and Father Thomas lie together in bed; their banter turns to a demand for honesty about their attraction.",
+      "intensity_0_10": 3.0
+    },
+    {
+      "id": "b2",
+      "kind": "negotiation",
+      "event_refs": [
+        "EP50:E10",
+        "EP50:E11",
+        "EP50:E12",
+        "EP50:E13",
+        "EP50:E14",
+        "EP50:E15",
+        "EP50:E16",
+        "EP50:E17"
+      ],
+      "description": "Catherine asks for his price; Father Thomas demands control of west territory tax collection routed through his office, and Catherine calls it a fortune rather than absolution.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b3",
+      "kind": "agreement",
+      "event_refs": [
+        "EP50:E18",
+        "EP50:E19",
+        "EP50:E20",
+        "EP50:E21",
+        "EP50:E22",
+        "EP50:E23",
+        "EP50:E24",
+        "EP50:E25"
+      ],
+      "description": "Catherine accepts the terms with a conditional phrasing ('Unsupervised. In your hands alone.'); Father Thomas agrees the arrangement holds 'for as long as it holds', and Catherine frames it as ending when the hearing does.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b4",
+      "kind": "intimacy_escalation",
+      "event_refs": [
+        "EP50:E26",
+        "EP50:E27",
+        "EP50:E28",
+        "EP50:E29",
+        "EP50:E30",
+        "EP50:E31",
+        "EP50:E32"
+      ],
+      "description": "The pair draw closer, referencing unused rooms and a taste for more than discretion, and embrace intimately.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "b5",
+      "kind": "discovery",
+      "event_refs": [
+        "EP50:E33",
+        "EP50:E34",
+        "EP50:E35",
+        "EP50:E36",
+        "EP50:E37",
+        "EP50:E38",
+        "EP50:E39",
+        "EP50:E40"
+      ],
+      "description": "Agnes walks the corridor, looks through a door, and sees Catherine and the shirtless priest embracing; she reacts in terror and retreats into the shadows.",
+      "intensity_0_10": 8.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "r1",
+      "event_refs": [
+        "EP50:E13",
+        "EP50:E17"
+      ],
+      "claim": "Father Thomas demands control of the west territory's tax collection, routed through his office, in exchange for discretion.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "Will Father Thomas's control of the west territory's tax collection be exposed or challenged?",
+        "What is the 'hearing' that Catherine and Father Thomas expect to end their arrangement?"
+      ]
+    },
+    {
+      "id": "r2",
+      "event_refs": [
+        "EP50:E23",
+        "EP50:E21"
+      ],
+      "claim": "Catherine and Father Thomas believe their arrangement holds only until a hearing concludes.",
+      "spoiler_significance_0_10": 4.0,
+      "creates_questions": [
+        "What is the hearing, and when will it take place?"
+      ]
+    },
+    {
+      "id": "r3",
+      "event_refs": [
+        "EP50:E36",
+        "EP50:E40"
+      ],
+      "claim": "Agnes has witnessed Catherine and the shirtless priest in an intimate embrace and is horrified by what she has discovered.",
+      "spoiler_significance_0_10": 8.0,
+      "creates_questions": [
+        "What will Agnes do with what she witnessed?",
+        "Does Agnes's knowledge threaten the tax arrangement and the hearing?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "What is the hearing, and how does it relate to the arrangement between Catherine and Father Thomas?",
+      "introduced_by": [
+        "EP50:E23",
+        "EP50:E21"
+      ]
+    },
+    {
+      "question": "What will Agnes do now that she has witnessed Catherine and the priest together?",
+      "introduced_by": [
+        "EP50:E36",
+        "EP50:E40"
+      ]
+    },
+    {
+      "question": "Will Father Thomas's demanded control of the west territory's tax collection go ahead?",
+      "introduced_by": [
+        "EP50:E13",
+        "EP50:E17"
+      ]
+    },
+    {
+      "question": "What is the 'lethal secret' Agnes has uncovered, and who would be endangered by it?",
+      "introduced_by": [
+        "EP50:E40"
+      ]
+    }
+  ]
+}

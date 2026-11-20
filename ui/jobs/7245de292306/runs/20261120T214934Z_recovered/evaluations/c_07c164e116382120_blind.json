@@ -1,0 +1,45 @@
+{
+  "candidate_id": "c_07c164e116382120",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP33:E19",
+      "EP33:E18",
+      "EP33:E44",
+      "EP33:E45"
+    ],
+    "reason": "The opening line 'You watched her.' within 0-1500ms, delivered over a low-angle shot of the Lord, creates immediate accusatory tension. The ending evidence in the final 3000ms, 'Then help him.' with a pitiless close-up, lands a sharp reversal, though the referent of 'him' is unclear to a first-time viewer."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP33:E43",
+      "EP33:E45",
+      "EP33:E44"
+    ],
+    "reason": "The clip ends with the maid's plea 'he is only seven!' answered by the Lord's ambiguous 'Then help him.' while he stares without pity. The threat of the county gaol for the brother is left unresolved, so the outcome of the confrontation is open at the clip's end.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Identity and relationship of the Lord and the maid",
+      "Who Juliana is and what she did to 'him'",
+      "What 'her mother's book' and the unprescribed preparations refer to",
+      "Who the brother is and why he is a pauper or threatened with gaol",
+      "What the Lord is demanding the maid admit or do",
+      "Meaning of 'Then help him' relative to the threat"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "The maid's tears, trembling, guilt and terror combined with the Lord's sinister smile and chilling threats produce strong fear, guilt and dread for a viewer."
+  },
+  "weaknesses": [
+    "Heavy reliance on unexplained references (Juliana, the mother's book, the brother) limits comprehension for a first-time viewer",
+    "The final line 'Then help him.' is ambiguous and may read as either mercy or menace without context",
+    "Pacing of repeated one-word answers and interrogation beats may feel repetitive",
+    "No establishing context for the setting or stakes beyond the immediate interrogation"
+  ],
+  "one_line_why_it_works": "A tense interrogation escalates from accusation to a threat against a child's future, and the Lord's cold 'Then help him' leaves the maid's fate hanging without resolution."
+}

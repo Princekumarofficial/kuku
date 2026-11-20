@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c_d0bd79a1f00ede17",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP12:E32",
+      "EP12:E33"
+    ],
+    "reason": "Opens within 0-3000ms with a cruel, direct line 'I want to see you crawl, sister.' that signals immediate conflict and menace, though the speaker and listener roles are only partly clear to a first-time viewer."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP12:E43",
+      "EP12:E42"
+    ],
+    "reason": "The clip ends within the final 3000ms on a conditional demand, 'Do it, and we withdraw the charges,' with Juliana's response not shown and Alexander watching helplessly, so the situation is unresolved at the cut. The stakes are open, though the threat is partly deferred rather than a sharp reveal.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Juliana is and why she is being charged is not established",
+      "The charges and the magistrate's role are referenced without explanation",
+      "Alexander's relationship to Juliana and the stakes for him are unclear",
+      "Why the emerald signet ring matters and whose it is is not explained",
+      "The Constable's and Gerald's roles in the accusation are unclear"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Cruel taunting, predatory framing, mocking laughter and a helpless onlooker create strong tension and dread, though the emotional stakes rely on context the viewer lacks."
+  },
+  "weaknesses": [
+    "Clip relies on unstated prior events to explain the accusation and charges",
+    "Speaker of the opening line and the target of the threat are not clearly identified for a new viewer",
+    "Dangerous instruction is delivered as dialogue with little visual anchoring of stakes beyond the gloved-finger gesture",
+    "Gerald's mocking laugh and the Constable's stony presence are noted but their significance is unclear"
+  ],
+  "one_line_why_it_works": "A cruel opening taunt escalates into a conditional, dangerous bargain that leaves Juliana's answer and Alexander's fate hanging at the cut."
+}

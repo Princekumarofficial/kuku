@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_fdce87bfe0ebafe7",
+  "hook": {
+    "score_0_10": 5.0,
+    "evidence_refs": [
+      "EP08:E4",
+      "EP08:E6",
+      "EP08:E7"
+    ],
+    "reason": "Opens on a quiet close-up of a clasp being unlatched, then Juliana says her mother spent years writing the book, which suggests a personal backstory. The opening is gentle rather than urgent, so the pull is moderate."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP08:E23",
+      "EP08:E24"
+    ],
+    "reason": "The clip ends mid-line with Juliana saying 'Your hair and beard...' and Alexander looking down patiently, so the remark is left unfinished. This is an open question rather than a resolved ending, but the stakes are small.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Who Juliana's mother is and why she wrote the book",
+      "What the book contains and why it matters",
+      "Who Alexander is and his relationship to Juliana",
+      "Why yarrow is significant beyond the dialogue about healing",
+      "What Alexander's scar and hair/beard remark refers to",
+      "The setting and the circumstances of the meeting"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 4.0,
+    "reason": "Tone is calm and mildly intimate, with curiosity, a hint of admiration, and a knowing half-smile. Little emotional stakes are shown, so the feeling stays low-intensity."
+  },
+  "weaknesses": [
+    "Relies on unexplained prior context for the book, the mother, and the characters' relationship",
+    "Stakes are not established within the clip",
+    "The unfinished line may read as a cut-off rather than deliberate suspense to a first-time viewer",
+    "Long stretches of slow, static shots reduce pacing and tension"
+  ],
+  "one_line_why_it_works": "A quiet, curious exchange about healing knowledge ends on an unfinished remark, which invites the viewer to wonder what Juliana noticed about Alexander."
+}

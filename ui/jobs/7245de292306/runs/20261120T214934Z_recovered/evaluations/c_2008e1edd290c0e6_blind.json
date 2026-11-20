@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c_2008e1edd290c0e6",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP29:E12",
+      "EP29:E13",
+      "EP29:E14"
+    ],
+    "reason": "The clip opens on a worn botanical book held up by Catherine, and her dismissive line about a 'little book of weeds' within the first second sets up a clear contrast. The open accusation and Juliana's defiance follow quickly."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP29:E24",
+      "EP29:E25",
+      "EP29:E26"
+    ],
+    "reason": "In the final seconds Juliana insists Catherine is lying and Catherine answers that she knows what she needs 'him' to believe. The threatened witchcraft accusation and the outcome for Juliana are not resolved within the clip, so the ending leaves a pending threat.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Identity and relationship of Catherine, Juliana, and the magistrate ('him') are not established",
+      "Whose 'mother' owned the herbarium and why it matters is not explained",
+      "Why Juliana is held by guards and what charge or prior event led to this confrontation is not shown",
+      "The witchcraft accusation's stakes and legal consequences are not explained"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Juliana's fierce defiance contrasts with Catherine's condescension and malicious confidence, creating clear tension and an uneasy sense of threat for the viewer."
+  },
+  "weaknesses": [
+    "Narrative stakes and characters are not introduced, so the conflict depends on unexplained context",
+    "The witchcraft accusation is stated but its consequences are not shown",
+    "Catherine's motive is implied but not clarified within the clip"
+  ],
+  "one_line_why_it_works": "A sharp contrast between a condescending antagonist and a defiant captive, ending on a menacing line that promises a looming threat against Juliana."
+}

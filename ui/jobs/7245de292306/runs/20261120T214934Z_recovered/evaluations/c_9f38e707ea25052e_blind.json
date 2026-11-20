@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c_9f38e707ea25052e",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP17:E18",
+      "EP17:E19"
+    ],
+    "reason": "The opening close-up of Juliana's wavering voice and the question \"Even if there were ten of them?\" create immediate tension within the first 3000ms, though the threat is not explained."
+  },
+  "cliffhanger": {
+    "score_0_10": 3.0,
+    "evidence_refs": [
+      "EP17:E31",
+      "EP17:E32",
+      "EP17:E33"
+    ],
+    "reason": "The final 3000ms show a quiet tending scene that is largely resolved. The line \"You were bleeding last night\" hints at an earlier event but does not pose a suspenseful unresolved question.",
+    "unresolved_at_end": false
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Identity and relationship of Juliana and Alexander",
+      "Who the \"ten of them\" are and what threat they pose",
+      "Why Juliana's hands are bandaged and what happened last night",
+      "Setting and stakes behind the muddy garden confrontation"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The tearful close-up, trembling hands, and Alexander's fierce promise convey strong emotional intensity, though the shift to the calm cottage scene lowers the tension at the end."
+  },
+  "weaknesses": [
+    "The threat is never identified, so the stakes of the opening line are unclear to a new viewer.",
+    "The ending shifts to a calm domestic scene, reducing momentum and cliffhanger potential.",
+    "The \"last night\" reference depends on events outside the clip.",
+    "Dialogue such as \"I just did\" relies on the unseen preceding exchange for full meaning."
+  ],
+  "one_line_why_it_works": "A tearful, emotionally charged exchange of devotion and defiance, followed by tender physical closeness, creates a strong emotional pull even without full context."
+}

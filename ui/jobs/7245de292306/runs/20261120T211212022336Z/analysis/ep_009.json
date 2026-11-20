@@ -1,0 +1,345 @@
+{
+  "episode_id": "ep_009",
+  "summary": "Episode 9 (ep_009) covers scenes sc_001 (0-83800 ms, woodland cottage) and sc_002 (83800-115500 ms, lord's study). Source warning: sc_001 has incomplete source coverage and its gaps are unavailable, so the sequence between recorded events may be missing material. Only on-screen event text is treated as evidence. Metadata (logline and continuity notes) is not on-screen evidence and is not used for claims. Juliana treats the feverish boy with herbs; on-screen, his breathing deepens and his mother says the fever is breaking, but the remedy's medical efficacy is not verified. The mother vows to tell the village, and Alexander warns of gossip. In sc_002, the Former Groom reports a rumor of a war veteran with a scar like the late Duke's, and the Blond Nobleman reacts with alarm and dread. Who the rumored veteran is, and whether he connects to any character, remains unconfirmed. Dialogue attributions and character roles are inferred only from on-screen labels and actions; Alexander's role is not stated on screen.",
+  "characters": [
+    {
+      "name": "Juliana",
+      "role": "Healer who treats the sick boy with her mother's herbal grimoire remedies in the woodland cottage"
+    },
+    {
+      "name": "Alexander",
+      "role": "Companion in the cottage who opens the door and warns Juliana about gossip; exact relationship not stated on screen"
+    },
+    {
+      "name": "Peasant Mother",
+      "role": "Distraught mother who brings her feverish son to Juliana for help and vows to spread word of her deed"
+    },
+    {
+      "name": "Blond Nobleman",
+      "role": "Aloof lord in the study who dismisses the rumor and is shaken by it"
+    },
+    {
+      "name": "The Former Groom",
+      "role": "Servant who brings the rumor about a war veteran to the Blond Nobleman"
+    }
+  ],
+  "beats": [
+    {
+      "id": "b01",
+      "kind": "setup",
+      "event_refs": [
+        "EP09:E1",
+        "EP09:E2"
+      ],
+      "description": "Juliana grinds herbs by candlelight beside her open herbal grimoire at the cottage table.",
+      "intensity_0_10": 2.0
+    },
+    {
+      "id": "b02",
+      "kind": "inciting_incident",
+      "event_refs": [
+        "EP09:E3",
+        "EP09:E4",
+        "EP09:E5",
+        "EP09:E6",
+        "EP09:E7"
+      ],
+      "description": "Frantic pounding at the door; Juliana looks up in alarm and Alexander opens the door into the rain.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b03",
+      "kind": "arrival",
+      "event_refs": [
+        "EP09:E8",
+        "EP09:E9"
+      ],
+      "description": "A soaked, distraught peasant mother enters carrying her feverish child and asks for the herbal woman.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b04",
+      "kind": "initial_assessment",
+      "event_refs": [
+        "EP09:E10",
+        "EP09:E11",
+        "EP09:E12",
+        "EP09:E13",
+        "EP09:E14",
+        "EP09:E15",
+        "EP09:E16",
+        "EP09:E17",
+        "EP09:E18",
+        "EP09:E19"
+      ],
+      "description": "Juliana lays the boy on the table, checks his fever and breathing, and asks how long he has been ill; the mother says since yesterday morning.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "b05",
+      "kind": "research",
+      "event_refs": [
+        "EP09:E20",
+        "EP09:E21",
+        "EP09:E22",
+        "EP09:E23",
+        "EP09:E24"
+      ],
+      "description": "Juliana consults the grimoire, identifies Feverfew and states the remedy needs chamomile and willow bark.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "b06",
+      "kind": "doubt_and_commitment",
+      "event_refs": [
+        "EP09:E25",
+        "EP09:E26",
+        "EP09:E27",
+        "EP09:E28"
+      ],
+      "description": "Alexander questions her certainty; Juliana answers with resolute conviction.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "b07",
+      "kind": "preparation",
+      "event_refs": [
+        "EP09:E29",
+        "EP09:E30",
+        "EP09:E31",
+        "EP09:E32",
+        "EP09:E33",
+        "EP09:E34"
+      ],
+      "description": "Juliana gathers herbs and asks for hot water; Alexander fetches a kettle and pours water into the mortar as the mother pleads.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b08",
+      "kind": "treatment",
+      "event_refs": [
+        "EP09:E35",
+        "EP09:E36",
+        "EP09:E37",
+        "EP09:E38"
+      ],
+      "description": "Juliana comforts the mother and gives the boy the herbal brew; he swallows and coughs weakly.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b09",
+      "kind": "tense_wait",
+      "event_refs": [
+        "EP09:E39",
+        "EP09:E40",
+        "EP09:E41",
+        "EP09:E42",
+        "EP09:E43",
+        "EP09:E44"
+      ],
+      "description": "The mother despairs that the remedy is not working; Juliana asks her to wait while monitoring the pulse.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b10",
+      "kind": "turning_point",
+      "event_refs": [
+        "EP09:E45",
+        "EP09:E46",
+        "EP09:E47"
+      ],
+      "description": "The boy's breathing deepens and sweat forms on his forehead; the mother says the fever is breaking.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b11",
+      "kind": "resolution_and_gratitude",
+      "event_refs": [
+        "EP09:E48",
+        "EP09:E49",
+        "EP09:E50",
+        "EP09:E51",
+        "EP09:E52",
+        "EP09:E53"
+      ],
+      "description": "Juliana exhales with relief; the mother thanks her and Juliana modestly credits the herbs and asks that the boy rest.",
+      "intensity_0_10": 4.0
+    },
+    {
+      "id": "b12",
+      "kind": "departure_and_vow",
+      "event_refs": [
+        "EP09:E54",
+        "EP09:E55",
+        "EP09:E56",
+        "EP09:E57"
+      ],
+      "description": "The mother leaves into the rain, vowing the village will remember Juliana; Alexander shuts the door.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "b13",
+      "kind": "warning",
+      "event_refs": [
+        "EP09:E58",
+        "EP09:E59",
+        "EP09:E60",
+        "EP09:E61",
+        "EP09:E62",
+        "EP09:E63"
+      ],
+      "description": "Alexander warns that gossip about Juliana may spread; Juliana defiantly values the child's life over gossip, and Alexander cautions that gossip can become dangerous.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b14",
+      "kind": "commitment",
+      "event_refs": [
+        "EP09:E64",
+        "EP09:E65"
+      ],
+      "description": "Juliana steps in front of Alexander and says they will face the consequences together.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b15",
+      "kind": "scene_shift",
+      "event_refs": [
+        "EP09:E66",
+        "EP09:E67",
+        "EP09:E68"
+      ],
+      "description": "In the lord's study, the Blond Nobleman reads by the fire as the soaked Former Groom enters and halts behind his chair.",
+      "intensity_0_10": 3.0
+    },
+    {
+      "id": "b16",
+      "kind": "rumor_report",
+      "event_refs": [
+        "EP09:E69",
+        "EP09:E70",
+        "EP09:E71",
+        "EP09:E72",
+        "EP09:E73",
+        "EP09:E74",
+        "EP09:E75"
+      ],
+      "description": "The Former Groom reports a rumor about a war veteran who may resemble the late Duke.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b17",
+      "kind": "dismissal_then_alarm",
+      "event_refs": [
+        "EP09:E76",
+        "EP09:E77",
+        "EP09:E78",
+        "EP09:E79",
+        "EP09:E80",
+        "EP09:E81"
+      ],
+      "description": "The Blond Nobleman dismisses the rumor as ghost stories; after the Former Groom describes a Duke-like scar, he turns sharply and demands where.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b18",
+      "kind": "evasion",
+      "event_refs": [
+        "EP09:E82",
+        "EP09:E83",
+        "EP09:E84",
+        "EP09:E85",
+        "EP09:E86"
+      ],
+      "description": "The Former Groom says no one is certain of the location; the Blond Nobleman masks his panic with disdain and the Former Groom leaves.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "b19",
+      "kind": "dread",
+      "event_refs": [
+        "EP09:E87",
+        "EP09:E88",
+        "EP09:E89"
+      ],
+      "description": "Alone, the Blond Nobleman whispers 'Impossible' and stares into the fire in mounting dread until the screen cuts to black.",
+      "intensity_0_10": 8.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "r01",
+      "event_refs": [
+        "EP09:E47",
+        "EP09:E48",
+        "EP09:E50",
+        "EP09:E52"
+      ],
+      "claim": "On-screen, the boy's breathing deepens and his mother says the fever is breaking after Juliana's herbal treatment; the medical efficacy of the remedy is not verified.",
+      "spoiler_significance_0_10": 2.0,
+      "creates_questions": [
+        "Will the village spread word of Juliana's healing and reach the Blond Nobleman?"
+      ]
+    },
+    {
+      "id": "r02",
+      "event_refs": [
+        "EP09:E75",
+        "EP09:E79"
+      ],
+      "claim": "A rumor claims a war veteran is in the area who resembles the late Duke and has the same scar the Duke carried after the war; the rumor's truth is unconfirmed.",
+      "spoiler_significance_0_10": 7.0,
+      "creates_questions": [
+        "Who is the war veteran described in the rumor, and where is he?",
+        "Is the rumored veteran connected to any character in the cottage?"
+      ]
+    },
+    {
+      "id": "r03",
+      "event_refs": [
+        "EP09:E80",
+        "EP09:E81",
+        "EP09:E88"
+      ],
+      "claim": "The Blond Nobleman reacts with sudden alarm to the rumor and whispers that it is impossible.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "Why does the rumor frighten the Blond Nobleman?",
+        "What connection does the Blond Nobleman have to the late Duke?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "Will village gossip about Juliana's healing spread and reach the Blond Nobleman?",
+      "introduced_by": [
+        "EP09:E56",
+        "EP09:E59",
+        "EP09:E63"
+      ]
+    },
+    {
+      "question": "Who is the war veteran with the Duke's scar, and where is he?",
+      "introduced_by": [
+        "EP09:E75",
+        "EP09:E79",
+        "EP09:E83"
+      ]
+    },
+    {
+      "question": "Why does the Blond Nobleman react with 'Impossible' and dread to the rumor?",
+      "introduced_by": [
+        "EP09:E75",
+        "EP09:E88"
+      ]
+    },
+    {
+      "question": "Why is Alexander troubled by the risk of gossip, and what is his relationship to Juliana?",
+      "introduced_by": [
+        "EP09:E58",
+        "EP09:E59",
+        "EP09:E63"
+      ]
+    }
+  ]
+}

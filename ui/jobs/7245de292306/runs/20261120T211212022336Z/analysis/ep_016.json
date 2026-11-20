@@ -1,0 +1,257 @@
+{
+  "episode_id": "ep_016",
+  "summary": "Analysis of EP16 (ep_016) based only on on-screen event text E1-E64 within scene sc_001 (0-83190 ms). Metadata (logline, continuity notes) was not used as evidence. The Episode 15 cliffhanger is referenced only in metadata and is unverified here. Gerald Harrington is never seen on screen; his involvement rests solely on the Thug with Cap's accusation at EP16:E44 and is unconfirmed, so calling him the mastermind is unverified. The thugs' motive is only partly stated (EP16:E49 says they were paid to destroy the garden). Alexander's background is hinted at (EP16:E57) but not explained. Timestamps are integer milliseconds as supplied. Scene-level events are limited to the 0-83190 ms span.",
+  "characters": [
+    {
+      "name": "Alexander",
+      "role": "Protagonist; scarred, combat-trained man who defends Juliana and interrogates the thugs; hints of a soldier's past"
+    },
+    {
+      "name": "Juliana",
+      "role": "Garden owner and Alexander's love interest; injured hands; witnesses the attack and the betrayal"
+    },
+    {
+      "name": "Thug with Cap",
+      "role": "Leader of the hired thugs; attacks Alexander and names Gerald Harrington as the payer under duress"
+    },
+    {
+      "name": "Bald Thug",
+      "role": "Hired thug who charges Alexander and is thrown into the fence"
+    },
+    {
+      "name": "Third Thug",
+      "role": "Hired thug who attacks with a blunt rod and is knocked to the ground"
+    },
+    {
+      "name": "Gerald Harrington",
+      "role": "Alleged employer named by the Thug with Cap; not seen on screen; involvement unverified"
+    }
+  ],
+  "beats": [
+    {
+      "id": "B1",
+      "kind": "standoff",
+      "event_refs": [
+        "EP16:E1",
+        "EP16:E2",
+        "EP16:E3",
+        "EP16:E4",
+        "EP16:E5",
+        "EP16:E6",
+        "EP16:E7",
+        "EP16:E8"
+      ],
+      "description": "Alexander blocks the thugs from reaching Juliana; the Thug with Cap issues threats and demands Alexander move aside.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "B2",
+      "kind": "attack_and_counter",
+      "event_refs": [
+        "EP16:E9",
+        "EP16:E10",
+        "EP16:E11",
+        "EP16:E12",
+        "EP16:E13",
+        "EP16:E14",
+        "EP16:E15",
+        "EP16:E16"
+      ],
+      "description": "Juliana is frightened and Alexander tells her to stay behind him; the Thug with Cap lunges and Alexander catches the weapon bare-handed and wrenches it away.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "B3",
+      "kind": "takedown",
+      "event_refs": [
+        "EP16:E17",
+        "EP16:E18",
+        "EP16:E19"
+      ],
+      "description": "Alexander strikes the Thug with Cap across the chest and slams him into the muddy ground; Juliana watches in astonishment.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "B4",
+      "kind": "takedown",
+      "event_refs": [
+        "EP16:E20",
+        "EP16:E21",
+        "EP16:E22"
+      ],
+      "description": "The Bald Thug charges and Alexander seizes him by the neck and hurls him across the garden path into the fence.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "B5",
+      "kind": "takedown",
+      "event_refs": [
+        "EP16:E23",
+        "EP16:E24",
+        "EP16:E25",
+        "EP16:E26",
+        "EP16:E27"
+      ],
+      "description": "The Third Thug lunges with a rod; Alexander deflects, counter-strikes and drops him, leaving all three thugs groaning in the mud.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "B6",
+      "kind": "emotional_check_in",
+      "event_refs": [
+        "EP16:E28",
+        "EP16:E29",
+        "EP16:E30",
+        "EP16:E31",
+        "EP16:E32",
+        "EP16:E33"
+      ],
+      "description": "Juliana, in tears of relief, looks up at Alexander; he softens and asks if she is hurt, and she says only her hands are injured.",
+      "intensity_0_10": 4.0
+    },
+    {
+      "id": "B7",
+      "kind": "interrogation_reveal",
+      "event_refs": [
+        "EP16:E34",
+        "EP16:E35",
+        "EP16:E36",
+        "EP16:E37",
+        "EP16:E38",
+        "EP16:E39",
+        "EP16:E40",
+        "EP16:E41",
+        "EP16:E42",
+        "EP16:E43",
+        "EP16:E44"
+      ],
+      "description": "Alexander lifts the Thug with Cap against the wall and demands who sent him; under threat of strangulation the thug names Gerald Harrington as the payer.",
+      "intensity_0_10": 9.0
+    },
+    {
+      "id": "B8",
+      "kind": "emotional_reaction",
+      "event_refs": [
+        "EP16:E45",
+        "EP16:E46"
+      ],
+      "description": "Juliana reels in devastated disbelief at the name Gerald.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "B9",
+      "kind": "retreat_and_clarification",
+      "event_refs": [
+        "EP16:E47",
+        "EP16:E48",
+        "EP16:E49"
+      ],
+      "description": "Alexander releases the thug, who flees into the woods with his limping accomplices, shouting that they were only paid to destroy the garden.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "B10",
+      "kind": "aftermath_bond",
+      "event_refs": [
+        "EP16:E50",
+        "EP16:E51",
+        "EP16:E52",
+        "EP16:E53",
+        "EP16:E54",
+        "EP16:E55",
+        "EP16:E56",
+        "EP16:E57",
+        "EP16:E58",
+        "EP16:E59",
+        "EP16:E60"
+      ],
+      "description": "Alexander's knuckles bleed and he shows no pain; Juliana admires his fighting, he hints at a soldier's painful past, and she reaches toward his injured hand.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "B11",
+      "kind": "romantic_cliffhanger",
+      "event_refs": [
+        "EP16:E61",
+        "EP16:E62",
+        "EP16:E63",
+        "EP16:E64"
+      ],
+      "description": "Alexander and Juliana stand face-to-face in the moonlit garden; he answers quietly that he is not hurt, they share a lingering gaze, and a cello swell closes the scene on a hold.",
+      "intensity_0_10": 6.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "R1",
+      "event_refs": [
+        "EP16:E44"
+      ],
+      "claim": "The Thug with Cap says Gerald Harrington paid the thugs; this is an unverified accusation made under duress.",
+      "spoiler_significance_0_10": 8.0,
+      "creates_questions": [
+        "Is Gerald Harrington actually behind the attack?",
+        "Did Harrington order the attack directly or through intermediaries?"
+      ]
+    },
+    {
+      "id": "R2",
+      "event_refs": [
+        "EP16:E49"
+      ],
+      "claim": "The Thug with Cap says the thugs were only paid to destroy the garden.",
+      "spoiler_significance_0_10": 5.0,
+      "creates_questions": [
+        "Why would someone want Juliana's medicinal garden destroyed?",
+        "Was the attack meant to harm Juliana or only her property?"
+      ]
+    },
+    {
+      "id": "R3",
+      "event_refs": [
+        "EP16:E57"
+      ],
+      "claim": "Alexander hints that as a soldier he learned things he wishes he could forget, suggesting a traumatic military past.",
+      "spoiler_significance_0_10": 4.0,
+      "creates_questions": [
+        "What did Alexander experience as a soldier?",
+        "Why is Alexander's combat training so advanced?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "Is Gerald Harrington truly the mastermind behind the attack?",
+      "introduced_by": [
+        "EP16:E44"
+      ]
+    },
+    {
+      "question": "Who else, if anyone, ordered the attack on the garden?",
+      "introduced_by": [
+        "EP16:E36",
+        "EP16:E40",
+        "EP16:E44"
+      ]
+    },
+    {
+      "question": "Why was the medicinal garden targeted?",
+      "introduced_by": [
+        "EP16:E49"
+      ]
+    },
+    {
+      "question": "What is Alexander's past as a soldier and why is he hiding it?",
+      "introduced_by": [
+        "EP16:E57"
+      ]
+    },
+    {
+      "question": "Will Alexander and Juliana's emerging bond develop, and what does it mean for her safety?",
+      "introduced_by": [
+        "EP16:E63",
+        "EP16:E64"
+      ]
+    }
+  ]
+}

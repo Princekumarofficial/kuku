@@ -1,0 +1,208 @@
+{
+  "episode_id": "ep_024",
+  "summary": "Single-scene-pair excerpt from EP24 (0-92000 ms) on screen: a haughty, unnamed noblewoman catches Juliana and Prudence in the Dowager Duchess's bedchamber, where the Duchess lies gasping. Juliana hides a glass remedy vial in her apron (EP24:E12-E13), defies the noblewoman, is struck with a riding crop (EP24:E24-E26), and is sent to scrub the soot-filled manor hearth (EP24:E37-E48). Prudence's plea is silenced by a crop threat (EP24:E49-E56). Juliana, alone, touches a hidden remedy journal and vial and vows to return and that the healer cannot be stopped (EP24:E64-E69). Uncertainties: the noblewoman is never named on screen and her identity and relation to the household are unconfirmed; Juliana is labelled Lady Juliana in speaker tags while she calls herself a maid, and the speaker tag on E63 and E66 and E69 is malformed as V.O.) so its exact form is uncertain; the scene header and the hearth location are taken as given; the metadata logline and continuity notes (including a claimed Episode 23 cliffhanger and the claim that the antidote finishes the cure) are not on-screen evidence and are not relied on, so whether the Duchess is cured or survives is unresolved on screen.",
+  "characters": [
+    {
+      "name": "Lady Juliana",
+      "role": "Hired winter cleaner and secret healer who hides an antidote and remedy journal; defiant toward the noblewoman and struck with a riding crop"
+    },
+    {
+      "name": "Prudence",
+      "role": "Fellow maid who pleads for Juliana and is threatened into silence"
+    },
+    {
+      "name": "Noblewoman (unnamed on screen)",
+      "role": "Haughty antagonist who catches Juliana, strikes her and sentences her to scrub the hearth"
+    },
+    {
+      "name": "Dowager Duchess",
+      "role": "Gravely ill patient lying unconscious and gasping in the bedchamber"
+    }
+  ],
+  "beats": [
+    {
+      "id": "B1",
+      "kind": "confrontation",
+      "event_refs": [
+        "EP24:E1",
+        "EP24:E2",
+        "EP24:E3",
+        "EP24:E4",
+        "EP24:E5",
+        "EP24:E6",
+        "EP24:E7",
+        "EP24:E8",
+        "EP24:E9",
+        "EP24:E10"
+      ],
+      "description": "The door opens on the bedchamber; the noblewoman enters with a riding crop and demands who Juliana is and who permitted her entry.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "B2",
+      "kind": "concealment",
+      "event_refs": [
+        "EP24:E11",
+        "EP24:E12",
+        "EP24:E13",
+        "EP24:E14"
+      ],
+      "description": "While the Duchess gasps on the pillows, Juliana secretly slips a small glass remedy vial into her apron pocket.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "B3",
+      "kind": "defiance_and_punishment",
+      "event_refs": [
+        "EP24:E15",
+        "EP24:E16",
+        "EP24:E17",
+        "EP24:E18",
+        "EP24:E19",
+        "EP24:E20",
+        "EP24:E21",
+        "EP24:E22",
+        "EP24:E23",
+        "EP24:E24",
+        "EP24:E25",
+        "EP24:E26",
+        "EP24:E27",
+        "EP24:E28",
+        "EP24:E29",
+        "EP24:E30",
+        "EP24:E31",
+        "EP24:E32",
+        "EP24:E33",
+        "EP24:E34",
+        "EP24:E35",
+        "EP24:E36"
+      ],
+      "description": "Juliana states the Duchess is suffering and refuses to let her suffer; the noblewoman strikes her with the crop and demeans her, and Juliana submits with Yes, my lady.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "B4",
+      "kind": "sentence",
+      "event_refs": [
+        "EP24:E37",
+        "EP24:E38",
+        "EP24:E39",
+        "EP24:E40",
+        "EP24:E41",
+        "EP24:E42",
+        "EP24:E43",
+        "EP24:E44",
+        "EP24:E45",
+        "EP24:E46",
+        "EP24:E47",
+        "EP24:E48"
+      ],
+      "description": "The noblewoman leads Juliana and Prudence to a sooty hearth room, orders Every stone cleaned, and Juliana kneels before the fireplace.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "B5",
+      "kind": "intervention_and_threat",
+      "event_refs": [
+        "EP24:E49",
+        "EP24:E50",
+        "EP24:E51",
+        "EP24:E52",
+        "EP24:E53",
+        "EP24:E54",
+        "EP24:E55",
+        "EP24:E56"
+      ],
+      "description": "Prudence steps forward in distress; the noblewoman jabs the crop toward her face and threatens her, and Prudence submits.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "B6",
+      "kind": "labor_and_mockery",
+      "event_refs": [
+        "EP24:E57",
+        "EP24:E58",
+        "EP24:E59",
+        "EP24:E60",
+        "EP24:E61",
+        "EP24:E62"
+      ],
+      "description": "Juliana scrubs the hearth while the noblewoman watches and mocks clever servants.",
+      "intensity_0_10": 4.0
+    },
+    {
+      "id": "B7",
+      "kind": "private_resolve",
+      "event_refs": [
+        "EP24:E63",
+        "EP24:E64",
+        "EP24:E65",
+        "EP24:E66",
+        "EP24:E67",
+        "EP24:E68",
+        "EP24:E69"
+      ],
+      "description": "Juliana, out of sight of her tormentor, feels the hidden remedy journal and antidote vial in her pocket, vows to appear ignorant, and declares she will return and that the healer cannot be stopped.",
+      "intensity_0_10": 8.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "R1",
+      "event_refs": [
+        "EP24:E12",
+        "EP24:E13",
+        "EP24:E64",
+        "EP24:E65"
+      ],
+      "claim": "Juliana secretly carries a remedy vial and a remedy journal in her apron pocket while she is posing as an ignorant maid.",
+      "spoiler_significance_0_10": 7.0,
+      "creates_questions": [
+        "Will Juliana use the hidden antidote on the Duchess?",
+        "What does the remedy journal contain and whose is it?"
+      ]
+    },
+    {
+      "id": "R2",
+      "event_refs": [
+        "EP24:E69"
+      ],
+      "claim": "Juliana presents herself as a healer who intends to return.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "What healing role does Juliana intend to play and how will she return to the bedchamber?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "Who is the noblewoman and what is her authority in the household?",
+      "introduced_by": [
+        "EP24:E3",
+        "EP24:E10"
+      ]
+    },
+    {
+      "question": "Will the Dowager Duchess survive, and will the hidden antidote be administered?",
+      "introduced_by": [
+        "EP24:E11",
+        "EP24:E12",
+        "EP24:E64"
+      ]
+    },
+    {
+      "question": "What is the healing significance of the remedy journal and is Juliana truly a trained healer?",
+      "introduced_by": [
+        "EP24:E64",
+        "EP24:E69"
+      ]
+    },
+    {
+      "question": "Will Juliana's hidden identity be exposed to the noblewoman?",
+      "introduced_by": [
+        "EP24:E63",
+        "EP24:E66"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_72c50696b7fb496e DURATION_MS=28600\nSEGMENT 1 (playback order)\nEP47:E25 700-2000 CAMERA: Wide establishing shot of the rain-drenched cobblestone courtyard surrounded by imposing Gothic arches.\nEP47:E27 2000-5000 LADY ASHBOURNE: \"You dare show your face in Ashbourne courtyard?\"\nEP47:E26 2000-5200 CAMERA: Medium shot of Lady Ashbourne leaning heavily on her walking cane, glaring down at Catherine who kneels in the mud.\nEP47:E28 5200-8700 CAMERA: High-angle shot looking down at Catherine in her disheveled burgundy gown, clutching her skirts and weeping profusely.\nEP47:E29 5700-8600 CATHERINE: \"I have nowhere to go, Your Grace.\"\nEP47:E31 8700-12000 CATHERINE: \"London closed its doors! My family disowned me!\"\nEP47:E30 8700-12200 CAMERA: Low-angle shot tracking Catherine clutching her chest in agony.\nEP47:E32 12200-16700 CAMERA: Medium close-up of Lady Ashbourne, her gloved hand resting on her cane as she delivers her cold judgment.\nEP47:E33 12400-16400 LADY ASHBOURNE: \"She aided the poison in my veins. Cast her into the road.\"\nEP47:E34 16700-20000 CAMERA: Medium shot of Vaughn drawing his baton, ready to seize Catherine from behind.\nEP47:E35 17000-20000 VAUGHN: \"One command, Your Grace, and I drag her past the gates.\"\nEP47:E36 20000-24000 CAMERA: Wide shot as Alexander strides purposefully into the courtyard alongside Juliana, his coat billowing behind him.\nEP47:E37 20400-23700 ALEXANDER: \"Do it, Vaughn! Throw her past the estate perimeter!\"\nEP47:E38 24000-27000 CAMERA: Close-up of Catherine collapsed on the wet stones, looking up with tear-streaked panic.\nEP47:E39 24000-27000 CATHERINE: \"Please, Alexander! Have mercy!\"\nEP47:E40 27000-28600 CAMERA: Medium shot of Juliana raising her right hand firmly to halt the guard.\nEP47:E41 27400-28600 JULIANA: \"Stop.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

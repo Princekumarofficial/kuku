@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_b7bbfbd889e79c9b",
+  "hook": {
+    "score_0_10": 5.0,
+    "evidence_refs": [
+      "EP35:E11",
+      "EP35:E12"
+    ],
+    "reason": "The opening shows a shivering woman at a frosted door with a line of dialogue, \"This must be the place,\" which creates a mild question about where she is and why she came. The hook is quiet and depends on a viewer wanting to know what happens inside, rather than on a strong immediate tension."
+  },
+  "cliffhanger": {
+    "score_0_10": 4.0,
+    "evidence_refs": [
+      "EP35:E21",
+      "EP35:E22"
+    ],
+    "reason": "The clip ends on the mother's name being called and Alexander's shocked \"Mother?\", which leaves his reaction open. The emotional question of recognition is answered, though, and the clip does not show any new threat or unanswered event beyond the reunion itself, so this is only a weak cliffhanger.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Why Alexander's mother has traveled to this cabin in freezing conditions",
+      "Who Alexander is to the viewer and why his scarred face and tactical map matter",
+      "What the tactical map represents and why Alexander was alarmed",
+      "Whether the cabin is safe or a hostile location",
+      "The history between Alexander and his mother that gives the reunion its weight"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The mother's tear-streaked face, trembling chin, and her call of \"Alexander!\" followed by his crumbling expression create a clear emotional reunion beat. The emotion is strong, though it relies on reading expressions because the dialogue is sparse."
+  },
+  "weaknesses": [
+    "The opening cold-arrival setup is slow and spends a lot of time on physical detail before any story information appears.",
+    "No plot context explains the mother's journey or Alexander's situation, so the reunion carries less meaning for a first-time viewer.",
+    "The tactical map and alarm moment are introduced without explanation.",
+    "Sparse dialogue means most meaning is conveyed through expression and sound rather than clear stakes.",
+    "The ending reads as an emotional reveal rather than a tense unresolved threat."
+  ],
+  "one_line_why_it_works": "The clip builds a quiet, cold arrival into a clear emotional reunion, with tears and a shocked \"Mother?\" creating a strong human moment even without full story context."
+}

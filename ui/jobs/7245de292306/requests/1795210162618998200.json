@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_07c164e116382120 DURATION_MS=47500\nSEGMENT 1 (playback order)\nEP33:E18 0-1700 CAMERA: Low-angle shot looking up at the imposing Lord towering above her.\nEP33:E19 0-1500 LORD: \"You watched her.\"\nEP33:E20 1700-5300 CAMERA: Close-up of the maid, tears beginning to glisten on her cheeks as she defends Juliana.\nEP33:E21 2300-4500 MAID: \"I watched her save him.\"\nEP33:E22 5300-9000 CAMERA: Medium tracking shot of the Lord turning away slowly past the lamp-lit desk toward the rain-streaked window.\nEP33:E23 6500-8700 LORD: \"That is not what I asked.\"\nEP33:E24 9000-12700 CAMERA: Medium two-shot framing the maid from behind as the Lord steps back toward her with commanding stillness.\nEP33:E25 10000-12500 LORD: \"Did she use her mother's book?\"\nEP33:E26 12700-16700 CAMERA: Close-up of the maid trembling, tears spilling down her face.\nEP33:E27 14700-16100 MAID: \"Yes.\"\nEP33:E28 16700-21700 CAMERA: Close-up of the Lord's sinister, unyielding face.\nEP33:E29 17300-21300 LORD: \"Did she prepare things no physician had prescribed?\"\nEP33:E30 21700-25000 CAMERA: Medium shot of the maid clutching her hands together tightly, overwhelmed with guilt.\nEP33:E31 22500-24100 MAID: \"Yes.\"\nEP33:E32 25000-29300 CAMERA: Close-up of the Lord's mouth curling into a sinister, predatory smile.\nEP33:E33 25500-29000 LORD: \"And did she perform anything unusual?\"\nEP33:E34 29300-31500 CAMERA: Close-up of the maid gasping, shaking her head vigorously in panic.\nEP33:E35 29900-31300 MAID: \"No!\"\nEP33:E37 31500-33500 LORD: \"Think carefully.\"\nEP33:E36 31500-36700 CAMERA: Profile medium two-shot as the Lord looms inches from the maid's face.\nEP33:E38 33700-36000 LORD: \"Your brother is still a pauper.\"\nEP33:E39 36700-41300 CAMERA: Extreme close-up of the Lord's cold eyes and hawkish profile speaking with chilling finality.\nEP33:E40 36900-41000 LORD: \"One word from me, and the county gaol will take him before sunrise.\"\nEP33:E41 41000-42500 ACTION: The maid gasps in sheer terror, her chest heaving as tears stream.\nEP33:E42 41300-45700 CAMERA: Close-up of the maid clutching her chest with trembling hands, crying desperately.\nEP33:E43 42000-45500 MAID: \"Please, my Lord... he is only seven!\"\nEP33:E45 45700-47500 LORD: \"Then help him.\"\nEP33:E44 45700-47500 CAMERA: Close-up of the Lord staring down without an ounce of pity.",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

@@ -1,0 +1,160 @@
+{
+  "episode_id": "ep_021",
+  "summary": "Episode EP21 (ep_021) shows on screen Lady Juliana treating village boy Toby for a chest fever with her mother's herbal remedies after Prudence pleads for help, then Prudence hints at a mysterious illness afflicting the Dowager Duchess at the manor. Uncertainty: the source carries the warning 'sc_001: incomplete source coverage; gaps are unavailable', so unseen events may exist between timestamps. The apothecary, manor doctor, and Dowager Duchess are referenced but never shown; their claims rest only on Prudence's dialogue and are unverified. The Dowager Duchess illness, the apothecary's refusal, and Juliana's motives are not confirmed on screen. Metadata was not used as evidence, so the Catherine and Rupert plot and the cottage-fire backstory are excluded. Some speaker annotations (E40 'V.O.)', E70 'O.S.') are irregular and their intent is unclear.",
+  "characters": [
+    {
+      "name": "Lady Juliana",
+      "role": "Village healer and protagonist who uses her late mother's herbal ledger to treat Toby"
+    },
+    {
+      "name": "Prudence",
+      "role": "Village girl whose younger brother Toby is ill; pleads for help and reveals the Dowager Duchess's supposed illness"
+    },
+    {
+      "name": "Toby",
+      "role": "Seven-year-old village boy with a severe chest fever; treated by Juliana and recovers on screen"
+    }
+  ],
+  "beats": [
+    {
+      "id": "B1",
+      "kind": "setup",
+      "event_refs": [
+        "EP21:E1",
+        "EP21:E2"
+      ],
+      "description": "Lady Juliana, bandaged and exhausted, tends a straw pallet in the barn.",
+      "intensity_0_10": 2.0
+    },
+    {
+      "id": "B2",
+      "kind": "inciting_incident",
+      "event_refs": [
+        "EP21:E3",
+        "EP21:E4",
+        "EP21:E5"
+      ],
+      "description": "Prudence bursts into the barn saying Toby is dying.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "B3",
+      "kind": "obstacle",
+      "event_refs": [
+        "EP21:E12",
+        "EP21:E14",
+        "EP21:E16",
+        "EP21:E18",
+        "EP21:E19"
+      ],
+      "description": "Prudence reports the apothecary and manor doctor refused treatment; Juliana notes she has no clinic and her cottage is ashes.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "B4",
+      "kind": "escalation",
+      "event_refs": [
+        "EP21:E20",
+        "EP21:E22",
+        "EP21:E23",
+        "EP21:E25"
+      ],
+      "description": "Prudence kneels pleading; Juliana rises, takes her herbal ledger, and leads the way out.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "B5",
+      "kind": "climax",
+      "event_refs": [
+        "EP21:E30",
+        "EP21:E41",
+        "EP21:E43",
+        "EP21:E48",
+        "EP21:E50",
+        "EP21:E51"
+      ],
+      "description": "Juliana prepares the herbal steam and treats Toby; his wheezing eases into sleep.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "B6",
+      "kind": "resolution",
+      "event_refs": [
+        "EP21:E52",
+        "EP21:E53",
+        "EP21:E56",
+        "EP21:E62"
+      ],
+      "description": "Prudence is relieved; Juliana gives dosing instructions and declines payment.",
+      "intensity_0_10": 4.0
+    },
+    {
+      "id": "B7",
+      "kind": "hook",
+      "event_refs": [
+        "EP21:E64",
+        "EP21:E68",
+        "EP21:E70",
+        "EP21:E72",
+        "EP21:E73",
+        "EP21:E75",
+        "EP21:E76"
+      ],
+      "description": "Prudence claims the Dowager Duchess is dying of a strange illness; Juliana looks at her ledger in apprehension and resolve.",
+      "intensity_0_10": 9.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "R1",
+      "event_refs": [
+        "EP21:E70",
+        "EP21:E71",
+        "EP21:E72",
+        "EP21:E73"
+      ],
+      "claim": "Prudence asserts the Dowager Duchess is dying from a strange, mysterious illness inside the manor. This is unverified hearsay shown only in dialogue.",
+      "spoiler_significance_0_10": 8.0,
+      "creates_questions": [
+        "What illness is affecting the Dowager Duchess?",
+        "Is Prudence's claim about the Dowager Duchess accurate?"
+      ]
+    },
+    {
+      "id": "R2",
+      "event_refs": [
+        "EP21:E14",
+        "EP21:E16"
+      ],
+      "claim": "Prudence reports that the apothecary and manor doctor refused to treat Toby because the family had no silver. This is unverified dialogue, not shown on screen.",
+      "spoiler_significance_0_10": 4.0,
+      "creates_questions": [
+        "Will the manor's refusal to treat villagers affect others?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "What is the nature of the Dowager Duchess's illness, and is Prudence's claim true?",
+      "introduced_by": [
+        "EP21:E70",
+        "EP21:E72",
+        "EP21:E73"
+      ]
+    },
+    {
+      "question": "Will Toby's recovery hold after the coltsfoot dosing Juliana prescribed?",
+      "introduced_by": [
+        "EP21:E50",
+        "EP21:E56"
+      ]
+    },
+    {
+      "question": "What will Lady Juliana do after her realization at the ledger?",
+      "introduced_by": [
+        "EP21:E75",
+        "EP21:E76"
+      ]
+    }
+  ]
+}

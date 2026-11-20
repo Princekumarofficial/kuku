@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_a6cd278531d9e2c9 DURATION_MS=23700\nSEGMENT 1 (playback order)\nEP32:E92 0-200 CAMERA: Close-up of Catherine's crazed, gasping face.\nEP32:E94 0-2200 CAMERA: Close-up of Juliana crying out her defiance.\nEP32:E95 200-2400 JULIANA: \"Because I am right!\"\nEP32:E96 2200-5700 CAMERA: Low-angle tracking shot of the red-hot branding tip trailing across the wet dungeon floor, steaming.\nEP32:E97 2600-6000 JULIANA: \"You want everyone to believe you are powerful.\"\nEP32:E98 5700-9000 CAMERA: Medium shot of Juliana sitting under the cold skylight bars, her posture majestic despite her imprisonment.\nEP32:E99 6200-8800 JULIANA: \"You want everyone to fear you.\"\nEP32:E100 9000-12000 CAMERA: Medium shot of Juliana looking directly at Catherine, gestures restrained by the heavy iron chains.\nEP32:E101 9200-11200 JULIANA: \"But look at you.\"\nEP32:E102 12000-15700 CAMERA: Close-up of Juliana, her eyes burning with fiery contempt.\nEP32:E103 12200-15800 JULIANA: \"You have to threaten a chained woman to feel powerful!\"\nEP32:E104 15700-17600 CAMERA: Close-up of Catherine trembling with uncontrollable rage, teeth bared.\nEP32:E105 15800-17400 CATHERINE: \"You insolent—!\"\nEP32:E107 17600-19500 JULIANA: \"You may have the title you have always wanted...\"\nEP32:E106 17600-19600 CAMERA: Medium shot of Catherine gripping the glowing tongs as Juliana continues speaking over her.\nEP32:E108 19600-23700 CAMERA: Close-up of Juliana delivering the final emotional blow.\nEP32:E109 19600-23700 JULIANA: \"...but you will never have the courage to earn what you demand from everyone else.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

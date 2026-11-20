@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_205050aba48891c3",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP42:E10",
+      "EP42:E12",
+      "EP42:E13"
+    ],
+    "reason": "The clip opens within 0-3000ms with a nobleman ordering guards to arrest an imposter, and a guard refuses. The immediate open conflict and Rupert's shattering composure grab attention quickly."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP42:E36",
+      "EP42:E37"
+    ],
+    "reason": "The clip ends with Alexander promising to settle what Rupert stole, with his hand on his sabre. The confrontation is set up but not played out, so the final beat is unresolved. The stakes are hinted at but not shown, and the ending is a suspenseful setup rather than a resolved scene.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Who Rupert is and his relationship to the throne or the wedding",
+      "Who Alexander is and why he was believed dead",
+      "What Rupert stole and what 'settle' will mean",
+      "Significance of the Duke of Ashburn title and the claim of rightful succession",
+      "Why the royal guard refuses to arrest Alexander and what they know",
+      "Identity and role of Catherine and her father"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "The mother's tearful reunion with her scarred son, the nobles' stunned silence, Rupert's terror and defeat, and Alexander's cold retribution create strong emotional swings within a short runtime."
+  },
+  "weaknesses": [
+    "Key backstory is never established, so the imposter accusation and the reunion rely on the viewer guessing the stakes",
+    "Rupert's wrongdoing is asserted ('what you stole') but never shown",
+    "The clip is heavily dependent on dialogue for context that a first-time viewer cannot verify",
+    "Pacing of the mother's reunion lingers while the central conflict is left unresolved"
+  ],
+  "one_line_why_it_works": "A fast-escalating public confrontation, a dramatic reunion, and a defiant closing threat make the clip compelling even without full context."
+}

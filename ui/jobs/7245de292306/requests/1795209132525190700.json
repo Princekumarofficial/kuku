@@ -1,0 +1,184 @@
+{
+  "stage": "episode_analysis",
+  "system": "Analyze narrative beats, characters, revelations and unresolved questions. Only event text is on-screen evidence; metadata may describe unseen events. Use supplied EPxx:Ex aliases. Report uncertainty in the summary. A revelation's significance is not its spoiler damage.",
+  "user": "EP=ep_006; timestamps are integer milliseconds\nSOURCE_SHA256=11131c5019b2c7021f376b17cfd99d6c876b8594da0ea4fe5abffda6f4db19de\nMETADATA ONLY (not on-screen evidence): {'logline': \"Seeking shelter from the cold rain, Juliana arrives at her new husband's modest woodland cottage and discovers an unexpected sense of peace beside the hearth.\", 'continuity_notes': 'Picks up immediately from Episode 5, as Juliana and her mysterious new husband leave the Ashcroft estate behind and venture out into the rainy countryside.'}\nSOURCE WARNINGS=[]\nSCENE sc_001 0-33700 EXT. WOODLAND PATH – NIGHT\nEP06:E1 0-2300 CAMERA: Medium full tracking shot of Juliana and the Mysterious Bearded Man trudging along a muddy, rain-soaked path in the dark woods.\nEP06:E2 0-3400 ACTION: Juliana lifts the hem of her white satin wedding gown to keep it out of the pooling mud, shivering under her dark hooded cloak.\nEP06:E3 2300-3500 CAMERA: Close-up on Juliana's wet hand clutching her muddy dress.\nEP06:E4 2300-6500 SOUND: Heavy rain pouring through dense tree canopies with steady footfalls on wet earth.\nEP06:E5 3500-4200 CAMERA: Upward shot through the dripping, silhouetted branches into the stormy night sky.\nEP06:E6 4200-7100 CAMERA: Medium two-shot framing Juliana and the Mysterious Bearded Man as they pause in the misty woods.\nEP06:E7 4500-7100 ACTION: Juliana turns back toward him, water glistening on her face and hair.\nEP06:E8 7100-9900 CAMERA: Close-up on the Mysterious Bearded Man, his dark hair soaked and rain running down the scars on his cheek.\nEP06:E9 7200-9850 MYSTERIOUS BEARDED MAN [Solemn, Gentle]: \"I know this is not the life you came from.\"\nEP06:E10 9900-14900 CAMERA: Close-up on Juliana looking up into the rain, exhaling a soft breath of resignation.\nEP06:E11 10100-11200 JULIANA [Quiet, Melancholic]: \"No.\"\nEP06:E12 11300-13000 ACTION: Juliana looks upward into the canopy, gathering herself with a faint nod.\nEP06:E13 13400-14600 JULIANA [Resigned, Soft]: \"It isn't.\"\nEP06:E14 14900-17200 CAMERA: Medium close-up of the Mysterious Bearded Man, gazing down at her with quiet remorse.\nEP06:E15 15200-18200 MYSTERIOUS BEARDED MAN [Guilt-ridden]: \"You should not have had to walk through this rain tonight.\"\nEP06:E16 17200-18300 CAMERA: Close-up on Juliana's bodice and mother's pendant as she gathers her cloak closer.\nEP06:E17 18300-21000 CAMERA: Close-up of Juliana's face, offering a wistful, comforting smile.\nEP06:E18 18500-20900 JULIANA [Faintly Ironic, Resilient]: \"I suppose the day was already ruined.\"\nEP06:E19 21000-24000 CAMERA: Extreme close-up on the Mysterious Bearded Man's piercing eyes, touched by her lack of bitterness.\nEP06:E20 24000-26100 CAMERA: Wide establishing shot through tree branches showing a secluded, rustic stone cottage nestled among the misty trees.\nEP06:E21 24500-26100 ACTION: They walk forward toward the cottage emerging from the dark woods.\nEP06:E22 26100-27900 CAMERA: Medium close-up on Juliana's face, wide-eyed with realization.\nEP06:E23 26500-27700 JULIANA [Surprised, Hesitant]: \"That is it?\"\nEP06:E24 27900-29200 CAMERA: Medium close-up on the Mysterious Bearded Man.\nEP06:E25 28100-29000 MYSTERIOUS BEARDED MAN [Low]: \"Yes.\"\nEP06:E26 29200-30100 CAMERA: Upward shot of rain pelting through the thick treetops.\nEP06:E27 29200-30500 SOUND: Sudden distant rumble of thunder echoing across the forest.\nEP06:E28 30100-33000 CAMERA: Medium shot as Juliana hikes her skirt and begins walking briskly toward the cottage door.\nEP06:E29 30150-33150 JULIANA [Determined, Defiant]: \"At least no one there will be waiting to humiliate me.\"\nEP06:E30 33000-33700 CAMERA: Close-up of the Mysterious Bearded Man watching her march ahead, his expression solemn and deeply reflective.\nSCENE sc_002 33700-115000 INT. WOODEN CABIN – CONTINUOUS\nEP06:E31 33700-36700 ACTION: The heavy wooden cottage door creaks open. Juliana steps across the threshold into the dark, barren room.\nEP06:E32 33800-36500 SOUND: Door hinges groaning open followed by the hollow thump of footsteps on wet wood floorboards.\nEP06:E33 36700-37700 CAMERA: Close-up overhead shot of a wooden bucket catching raindrops dripping steadily from a leak in the ceiling.\nEP06:E34 36700-40000 SOUND: Rhythmic water drips plinking into the metal-rimmed wooden bucket.\nEP06:E35 37700-40000 CAMERA: Medium wide shot past the drip bucket as the Mysterious Bearded Man closes the door behind them.\nEP06:E36 40000-42000 CAMERA: Medium close-up of the Mysterious Bearded Man standing in the dim light by the door.\nEP06:E37 40700-41900 MYSTERIOUS BEARDED MAN [Humble, Apologetic]: \"I am sorry.\"\nEP06:E38 42000-43300 CAMERA: Medium shot of Juliana gazing around the rustic interior, taking in the sparse surroundings.\nEP06:E39 43300-46400 CAMERA: Medium close-up of the Mysterious Bearded Man looking at her with somber honesty.\nEP06:E40 43600-45000 MYSTERIOUS BEARDED MAN [Grave, Sincere]: \"You came from comfort.\"\nEP06:E41 45100-47300 MYSTERIOUS BEARDED MAN [Grave, Sincere]: \"This is all I can give you now.\"\nEP06:E42 46400-48800 CAMERA: Medium shot of Juliana undoing the ribbon tie of her black cloak and letting it slide off her shoulders.\nEP06:E43 46600-49000 ACTION: Juliana removes her dark cloak, revealing her damp white bridal dress underneath.\nEP06:E44 48800-51100 CAMERA: Close-up of Juliana's hand pressing against the cold, condensation-fogged windowpane.\nEP06:E45 51100-54800 CAMERA: Side profile shot of Juliana looking out the rain-streaked window into the quiet forest.\nEP06:E46 51300-52700 JULIANA [Gentle, Peaceful]: \"It is quiet.\"\nEP06:E47 53300-54600 JULIANA [Gentle, Peaceful]: \"Very quiet.\"\nEP06:E48 54800-56200 CAMERA: Over-the-shoulder shot from behind Juliana looking at the Mysterious Bearded Man watching her attentively.\nEP06:E49 56200-58200 CAMERA: Medium close-up of Juliana turning back toward him, a soft, genuine smile illuminating her face.\nEP06:E50 56400-58000 JULIANA [Earnest, Content]: \"I think I like that.\"\nEP06:E51 58200-59800 CAMERA: Close-up of the Mysterious Bearded Man, slightly surprised by her reaction.\nEP06:E52 58400-60000 MYSTERIOUS BEARDED MAN [Incredulous]: \"You are not disappointed?\"\nEP06:E53 59800-61300 CAMERA: Medium close-up of Juliana meeting his gaze honestly.\nEP06:E54 60300-61300 JULIANA [Direct, Soft]: \"I am.\"\nEP06:E55 61300-64100 CAMERA: Over-the-shoulder shot behind Juliana as the Mysterious Bearded Man listens intently.\nEP06:E56 61900-64100 JULIANA [Warm, Reassuring]: \"But not because of you.\"\nEP06:E57 64100-66600 CAMERA: Medium shot as Juliana grabs a rag from the rustic wooden table and begins briskly scrubbing the damp surface.\nEP06:E58 64300-66800 JULIANA [Determined, Practical]: \"If this is our home, I want it clean.\"\nEP06:E59 66600-67800 CAMERA: Medium shot of the Mysterious Bearded Man stepping forward to intervene gently.\nEP06:E60 66700-68700 MYSTERIOUS BEARDED MAN [Caring, Tender]: \"You don't have to do that tonight.\"\nEP06:E61 67800-69500 CAMERA: Close-up on Juliana's hands vigorously scrubbing grime from the wooden tabletop.\nEP06:E62 69500-72100 CAMERA: Close-up of Juliana's face, her voice catching with raw, suppressed emotion as she scrubs.\nEP06:E63 70100-73200 JULIANA [Vulnerable, Trembling]: \"If I stop now, I will think about everything I lost.\"\nEP06:E64 72100-74300 CAMERA: Full shot of the Mysterious Bearded Man standing motionless, his gaze filled with empathy and understanding.\nEP06:E65 74300-76800 ACTION: Instead of stopping her, the Mysterious Bearded Man kneels beside the table and begins inspecting and adjusting the wobbly table leg to help.\nEP06:E66 74300-76800 CAMERA: Medium low shot of the Mysterious Bearded Man kneeling beside Juliana as she wipes the table.\nEP06:E67 76800-77800 ACTION: Juliana picks up a straw broom and sweeps the stone floor in front of the stone hearth.\nEP06:E68 76800-77800 CAMERA: Wide shot of Juliana sweeping dust toward the large stone fireplace.\nEP06:E69 77800-81000 ACTION: The Mysterious Bearded Man carries a heavy wooden log across the room and places it onto the iron grate in the hearth.\nEP06:E70 77800-81000 CAMERA: Tracking shot following the Mysterious Bearded Man as he sets the firewood into the stone fireplace.\nEP06:E71 81000-83800 ACTION: He strikes flint and steel together over dry kindling, igniting bright sparks that catch into a flickering flame.\nEP06:E72 81000-83800 CAMERA: Extreme close-up on hands striking flint, sparks showering onto the twigs and catching fire.\nEP06:E73 83800-85000 CAMERA: Medium close-up of vibrant orange flames rapidly spreading across the dry logs, crackling warmly.\nEP06:E74 83800-90000 SOUND: Crisp crackling and snapping of dry wood catching fire in the hearth.\nEP06:E75 85000-87500 CAMERA: Medium shot of Juliana standing by the table, broom resting against her hip, bathed in the amber firelight.\nEP06:E76 87500-89800 ACTION: The Mysterious Bearded Man stands up from the hearth, dusting his hands on his coat.\nEP06:E77 87500-89800 CAMERA: Medium shot of the Mysterious Bearded Man rising before the blazing fireplace.\nEP06:E78 89000-89800 MYSTERIOUS BEARDED MAN [Relieved]: \"There.\"\nEP06:E79 89800-91700 CAMERA: Close-up of Juliana looking at him with radiant gratitude and a gentle smile.\nEP06:E80 91700-93800 CAMERA: Medium close-up of the Mysterious Bearded Man gesturing faintly to the modest room.\nEP06:E81 92100-93600 MYSTERIOUS BEARDED MAN [Quiet, Modest]: \"It is not much.\"\nEP06:E82 93800-95800 CAMERA: Medium shot of Juliana kneeling on the stone floor before the blazing hearth, wrapping her dark cloak around her shoulders.\nEP06:E83 94200-96200 JULIANA [Soft, Comforted]: \"It is enough for tonight.\"\nEP06:E84 95800-98200 CAMERA: Wide shot framing the roaring hearth fire between them as the Mysterious Bearded Man crouches down beside her on the stone floor.\nEP06:E85 98200-101000 CAMERA: Close-up of Juliana pulling her cloak tighter, her face glowing warmly in the firelight.\nEP06:E86 98400-100400 JULIANA [V.O.) (Reflective, Vulnerable]: \"I lost my home today.\"\nEP06:E87 100600-101800 JULIANA [V.O.) (Reflective, Vulnerable]: \"My family.\"\nEP06:E88 101000-103000 CAMERA: Close-up of the glowing embers and dancing flames inside the fireplace.\nEP06:E89 102000-104800 JULIANA [V.O.) (Reflective, Vulnerable]: \"Everything I thought my life would be.\"\nEP06:E90 103000-104300 CAMERA: Close-up on the Mysterious Bearded Man's scarred, work-worn hands resting quietly on his knees.\nEP06:E91 104300-106000 CAMERA: Medium close-up of Juliana looking down into the flames, a peaceful serenity washing over her features.\nEP06:E92 105000-106000 JULIANA [V.O.) (Gentle, Surprised]: \"And yet...\"\nEP06:E93 106000-109000 CAMERA: Extreme close-up on the Mysterious Bearded Man's profile, his scarred cheek illuminated by the amber glow as he watches over her protectively.\nEP06:E94 106200-109000 JULIANA [V.O.) (Tender, Safe]: \"Sitting here with him, I don't feel afraid.\"\nEP06:E95 109000-111500 CAMERA: Close-up on Juliana looking up into the room with quiet hope in her blue eyes.\nEP06:E96 111500-115000 CAMERA: Close-up on the crackling flames and glowing embers of the fireplace, slowly fading to black as the music swells warmly.\nEP06:E97 111500-115000 SOUND: Warm hearth crackles blending with gentle string music fading out.",
+  "schema": {
+    "$defs": {
+      "Beat": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "kind": {
+            "title": "Kind",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "description": {
+            "title": "Description",
+            "type": "string"
+          },
+          "intensity_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Intensity 0 10",
+            "type": "number"
+          }
+        },
+        "required": [
+          "id",
+          "kind",
+          "event_refs",
+          "description",
+          "intensity_0_10"
+        ],
+        "title": "Beat",
+        "type": "object"
+      },
+      "Character": {
+        "additionalProperties": false,
+        "properties": {
+          "name": {
+            "title": "Name",
+            "type": "string"
+          },
+          "role": {
+            "title": "Role",
+            "type": "string"
+          }
+        },
+        "required": [
+          "name",
+          "role"
+        ],
+        "title": "Character",
+        "type": "object"
+      },
+      "Question": {
+        "additionalProperties": false,
+        "properties": {
+          "question": {
+            "title": "Question",
+            "type": "string"
+          },
+          "introduced_by": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Introduced By",
+            "type": "array"
+          }
+        },
+        "required": [
+          "question",
+          "introduced_by"
+        ],
+        "title": "Question",
+        "type": "object"
+      },
+      "Revelation": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "claim": {
+            "title": "Claim",
+            "type": "string"
+          },
+          "spoiler_significance_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Spoiler Significance 0 10",
+            "type": "number"
+          },
+          "creates_questions": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Creates Questions",
+            "type": "array"
+          }
+        },
+        "required": [
+          "id",
+          "event_refs",
+          "claim",
+          "spoiler_significance_0_10",
+          "creates_questions"
+        ],
+        "title": "Revelation",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "episode_id": {
+        "title": "Episode Id",
+        "type": "string"
+      },
+      "summary": {
+        "title": "Summary",
+        "type": "string"
+      },
+      "characters": {
+        "items": {
+          "$ref": "#/$defs/Character"
+        },
+        "title": "Characters",
+        "type": "array"
+      },
+      "beats": {
+        "items": {
+          "$ref": "#/$defs/Beat"
+        },
+        "title": "Beats",
+        "type": "array"
+      },
+      "revelations": {
+        "items": {
+          "$ref": "#/$defs/Revelation"
+        },
+        "title": "Revelations",
+        "type": "array"
+      },
+      "unresolved_questions": {
+        "items": {
+          "$ref": "#/$defs/Question"
+        },
+        "title": "Unresolved Questions",
+        "type": "array"
+      }
+    },
+    "required": [
+      "episode_id",
+      "summary",
+      "characters",
+      "beats",
+      "revelations",
+      "unresolved_questions"
+    ],
+    "title": "EpisodeAnalysis",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

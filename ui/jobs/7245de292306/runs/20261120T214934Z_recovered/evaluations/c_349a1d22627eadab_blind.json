@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_349a1d22627eadab",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP30:E60",
+      "EP30:E62",
+      "EP30:E63"
+    ],
+    "reason": "The opening 3 seconds show Catherine beaming with venomous glee, and her line within 600-8100ms states that a girl will hang as the town cheers. That is a strong, immediate threat, but the stakes depend on unexplained characters."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP30:E70",
+      "EP30:E71",
+      "EP30:E67"
+    ],
+    "reason": "The clip ends with Juliana chained in a flooded cell, shivering and fearful, then cuts abruptly to black. The Elder Nobleman's line that she becomes a witch tomorrow leaves her fate unresolved, so this is not an intense but resolved ending.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Juliana is and why she is imprisoned",
+      "The accusation against the witch and her daughter",
+      "Who Catherine, Rupert and the Elder Nobleman are to each other",
+      "What the arrest warrant and the trial are for",
+      "Why the town is gathering to cheer an execution"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Catherine's venomous glee, the predatory Elder Nobleman, the somber orchestral swell and Juliana's trembling dread and fragile hope build a bleak, tense mood."
+  },
+  "weaknesses": [
+    "Relationships and motives are not established, so the threat lacks personal weight for a first-time viewer",
+    "The line about the witch's disgraced daughter is the only identity clue for Juliana and is not clearly tied to her",
+    "Much of the middle is static camera setup rather than clear dramatic action",
+    "The final cut to black happens mid-tension with no clear question the viewer is left holding beyond survival"
+  ],
+  "one_line_why_it_works": "A venomous opening threat of execution flows into a dark, chained-prisoner image and cuts to black before Juliana's fate is revealed."
+}

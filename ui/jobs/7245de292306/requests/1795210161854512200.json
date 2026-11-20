@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_e47e00c2153ba51d DURATION_MS=22500\nSEGMENT 1 (playback order)\nEP07:E36 0-1500 ACTION: The Scarred Bearded Man marches purposefully toward the cottage, carrying a heavy bundle of chopped firewood bound tightly with hemp cord.\nEP07:E37 0-1500 CAMERA: Medium tracking shot pushing in on the Scarred Bearded Man's stern, rugged face as he approaches the gate.\nEP07:E38 1500-4500 CAMERA: Low shot of the Scarred Bearded Man bending down and dropping the bundle of logs by the stone wall.\nEP07:E39 2200-3500 SOUND: A dull, heavy thud of timber striking the mud.\nEP07:E40 4500-7000 CAMERA: Medium full shot as the Scarred Bearded Man straightens to his full imposing height and steps directly toward Gerald.\nEP07:E41 7000-9500 CAMERA: Two-shot framing the Scarred Bearded Man towering menacingly over Gerald, staring down at him with unyielding intensity.\nEP07:E42 7500-10000 ACTION: Gerald freezes, his arrogant bravado instantly vanishing as cold dread overtakes his face.\nEP07:E43 9500-14000 CAMERA: Low-angle close-up of Gerald looking up in sheer terror, his adam's apple bobbing nervously.\nEP07:E44 12500-14500 ARISTOCRATIC WOMAN: \"Gerald, don't let him frighten you.\"\nEP07:E45 14600-16000 GERALD: \"What are you staring at?\"\nEP07:E46 16000-17500 ACTION: Gerald rapidly turns on his heel toward the carriage, unwilling to face another second of the silent glare.\nEP07:E47 16100-17400 GERALD: \"We are leaving.\"\nEP07:E48 17500-19800 CAMERA: Medium shot of Aristocratic Woman, shocked and indignant as Gerald flees past her.\nEP07:E49 18000-19800 ARISTOCRATIC WOMAN: \"Leaving? Gerald!\"\nEP07:E50 19800-22500 ACTION: Aristocratic Woman scrambles back into the carriage, hiking up her gown in a fluster before slamming the door shut.\nEP07:E51 21000-22000 SOUND: Carriage door slamming shut.\nEP07:E52 22000-22500 CAMERA: Wide shot of the carriage rapidly jolting forward and disappearing down the misty road away from the cottage.",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_80b86072e41514e4",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP50:E16",
+      "EP50:E18",
+      "EP50:E19"
+    ],
+    "reason": "The clip opens within 0-3000ms with an intimate two-shot and a charged close-up, and Catherine's line 'Unsupervised. In your hands alone.' adds immediate tension. The opening is strong, but it begins mid-exchange with no setup for who these characters are or what the stakes are."
+  },
+  "cliffhanger": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP50:E38",
+      "EP50:E39",
+      "EP50:E40"
+    ],
+    "reason": "In the final 3000ms, Agnes discovers the couple and is left stumbling back in horror before an abrupt cut to black. Her reaction is not resolved, and the consequences of being seen are left open. This is an unresolved ending rather than a resolved one.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Father Thomas, Catherine, and Agnes are and how they relate to each other",
+      "What the 'hearing' is and what the stakes are",
+      "The meaning of 'the dawn in your bedchamber' and the history implied by 'again'",
+      "Why Agnes's discovery is 'lethal' and who she might tell or threaten"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The clip builds sustained sensual tension and then shifts to shock and terror on Agnes's face, with a strong sense of dread from the sudden discovery."
+  },
+  "weaknesses": [
+    "Starts mid-scene with no orientation, so early dialogue and relationships are unclear to a first-time viewer",
+    "The middle section is long and largely repetitive in its sensual build before the plot turn",
+    "Agnes's reveal arrives abruptly after a long romantic sequence",
+    "Stakes such as the 'hearing' and the 'lethal secret' are asserted but not established within the clip",
+    "References such as 'the dawn in your bedchamber' imply prior events that the clip does not show"
+  ],
+  "one_line_why_it_works": "Charged dialogue and an escalating intimate scene give way to an abrupt, unresolved discovery that leaves the viewer anxious about what Agnes will do next."
+}

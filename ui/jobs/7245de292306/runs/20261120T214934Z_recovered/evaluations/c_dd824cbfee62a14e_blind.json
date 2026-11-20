@@ -1,0 +1,48 @@
+{
+  "candidate_id": "c_dd824cbfee62a14e",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP43:E32",
+      "EP43:E36",
+      "EP43:E50"
+    ],
+    "reason": "The clip opens immediately with a formal dossier handover and an accusation of a military intelligence report starting at 2800ms, which creates instant tension. The final name reveal at 25600ms falls within the last 3000ms, so the ending also carries a hook-like pull."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP43:E48",
+      "EP43:E49",
+      "EP43:E50"
+    ],
+    "reason": "The clip ends on the spoken name Lord Henry Sterling as the report's concluding section is read. No consequence, verdict, or reaction to that name is shown, so the situation is left open.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Duke Alexander Ashburn is and his relationship to the other characters",
+      "Who Rupert is and why his reaction matters",
+      "The role and authority of the Crown Military Magistrate or Crown Official",
+      "What the cathedral gathering is and why the congregation is present",
+      "What the Iberian front operation and the leak refer to",
+      "What the 'British channels' accusation implies",
+      "Who the blond nobleman is and why 'No...' is significant",
+      "What the secondary dossier contains and why the names matter",
+      "Who Lord Henry Sterling is and his link to the accusation"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "The clip builds strong dread through a silent congregation, Rupert's visible terror, the blond nobleman's whispered 'No...', and the escalating accusations of a deliberate leak. The ending name reveal heightens the emotional stakes."
+  },
+  "weaknesses": [
+    "A first-time viewer cannot tell who Lord Henry Sterling is or why the name matters",
+    "Rupert's reaction is clear but his connection to the accusations is unexplained",
+    "Character names and titles are introduced without enough context",
+    "The reading of the report is somewhat expository and relies on the viewer inferring stakes",
+    "The clip ends before any reaction to the final name is shown"
+  ],
+  "one_line_why_it_works": "A formal reading of a damning intelligence report, paired with a visibly terrified listener and a final name reveal, creates strong suspense even without full background."
+}

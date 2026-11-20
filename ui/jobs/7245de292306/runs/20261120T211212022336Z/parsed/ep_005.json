@@ -1,0 +1,913 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "ep_005",
+  "episode_number": 5,
+  "metadata": {
+    "logline": "Formally disowned and stripped of her inheritance, Juliana is publicly humiliated when her stepmother throws her late mother's treasured ledger into the mud, but her rugged new husband defends her dignity and guides her away from her callous family.",
+    "continuity_notes": "Follows directly from Episode 4's ending where Juliana and the Mysterious Bearded Man walked out of the chapel doors into the daylight after completing their wedding vows."
+  },
+  "source": {
+    "file": "004_episode-005-Episode 1671707.txt",
+    "sha256": "0dc648aeee02b1eebdd200144e70386f1dd101e820f96e3a5da65b527a43c9db",
+    "complete": false
+  },
+  "scenes": [
+    {
+      "start_ms": 0,
+      "end_ms": 110500,
+      "id": "sc_001",
+      "heading": "EXT. CATHEDRAL STEPS – DAY"
+    }
+  ],
+  "events": [
+    {
+      "start_ms": 0,
+      "end_ms": 2500,
+      "id": "e_001",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on Lady Juliana's hands clutching an ancient, brass-bound leather ledger against the skirt of her white wedding gown as she walks.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        14,
+        16
+      ]
+    },
+    {
+      "start_ms": 0,
+      "end_ms": 2500,
+      "id": "e_002",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana grips the heirloom ledger tightly against her waist, her posture resolute despite the tension.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        18,
+        20
+      ]
+    },
+    {
+      "start_ms": 2500,
+      "end_ms": 6000,
+      "id": "e_003",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Wide shot tracking Juliana and the Mysterious Bearded Man descending the grand stone steps of the cathedral courtyard. Behind them, Lord Ashcroft emerges from the vaulted doorway leaning on his cane.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        22,
+        24
+      ]
+    },
+    {
+      "start_ms": 4200,
+      "end_ms": 5800,
+      "id": "e_004",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Miss Ashcroft.\"",
+      "speaker": "LORD ASHCROFT",
+      "delivery": "Stern, Commanding",
+      "source_lines": [
+        26,
+        28
+      ]
+    },
+    {
+      "start_ms": 5500,
+      "end_ms": 6600,
+      "id": "e_005",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana and the Mysterious Bearded Man pause on the stone steps, turning slightly back toward Lord Ashcroft.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        30,
+        32
+      ]
+    },
+    {
+      "start_ms": 6600,
+      "end_ms": 10500,
+      "id": "e_006",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Lord Ashcroft, his weathered face rigid with aristocratic pride and disgust.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        34,
+        36
+      ]
+    },
+    {
+      "start_ms": 6800,
+      "end_ms": 10400,
+      "id": "e_007",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You will not leave this church carrying the Ashcroft name.\"",
+      "speaker": "LORD ASHCROFT",
+      "delivery": "Cold, Condemnatory",
+      "source_lines": [
+        38,
+        40
+      ]
+    },
+    {
+      "start_ms": 10500,
+      "end_ms": 15800,
+      "id": "e_008",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Juliana looking up at her father. Her hand rises to touch the amethyst heirloom pendant resting at her throat.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        42,
+        44
+      ]
+    },
+    {
+      "start_ms": 11700,
+      "end_ms": 15500,
+      "id": "e_009",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"The vows are spoken, Father. I am his wife now.\"",
+      "speaker": "JULIANA",
+      "delivery": "Defiant, Steadfast",
+      "source_lines": [
+        46,
+        48
+      ]
+    },
+    {
+      "start_ms": 15800,
+      "end_ms": 20800,
+      "id": "e_010",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Lord Ashcroft standing rigid outside the chapel archway, unforgiving and unyielding.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        50,
+        52
+      ]
+    },
+    {
+      "start_ms": 16000,
+      "end_ms": 18000,
+      "id": "e_011",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Then leave as his wife.\"",
+      "speaker": "LORD ASHCROFT",
+      "delivery": "Harsh, Final",
+      "source_lines": [
+        54,
+        56
+      ]
+    },
+    {
+      "start_ms": 18500,
+      "end_ms": 20800,
+      "id": "e_012",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You leave as no daughter of mine.\"",
+      "speaker": "LORD ASHCROFT",
+      "delivery": "Harsh, Final",
+      "source_lines": [
+        58,
+        60
+      ]
+    },
+    {
+      "start_ms": 20800,
+      "end_ms": 25000,
+      "id": "e_013",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle shot tracking Lord Ashcroft's polished black boots as he slowly descends the stone steps toward them.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        62,
+        64
+      ]
+    },
+    {
+      "start_ms": 21000,
+      "end_ms": 23000,
+      "id": "e_014",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Your dowry is revoked.\"",
+      "speaker": "LORD ASHCROFT",
+      "delivery": "O.S. / Continues",
+      "source_lines": [
+        66,
+        68
+      ]
+    },
+    {
+      "start_ms": 23100,
+      "end_ms": 25100,
+      "id": "e_015",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Your inheritance is revoked.\"",
+      "speaker": "LORD ASHCROFT",
+      "delivery": "O.S. / Continues",
+      "source_lines": [
+        70,
+        72
+      ]
+    },
+    {
+      "start_ms": 25000,
+      "end_ms": 29000,
+      "id": "e_016",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana, her eyes wide with shock and heartbreak as she holds the ledger close against her chest.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        74,
+        76
+      ]
+    },
+    {
+      "start_ms": 25400,
+      "end_ms": 28900,
+      "id": "e_017",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"From this moment, you are dead to the Ashcroft family.\"",
+      "speaker": "LORD ASHCROFT",
+      "delivery": "O.S. / Continues",
+      "source_lines": [
+        78,
+        80
+      ]
+    },
+    {
+      "start_ms": 29500,
+      "end_ms": 33400,
+      "id": "e_018",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You truly mean it? You are my father!\"",
+      "speaker": "JULIANA",
+      "delivery": "Shaking, Tearful",
+      "source_lines": [
+        82,
+        84
+      ]
+    },
+    {
+      "start_ms": 33500,
+      "end_ms": 36500,
+      "id": "e_019",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the Mysterious Bearded Man, observing Lord Ashcroft with an unblinking, quietly threatening stare.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        86,
+        88
+      ]
+    },
+    {
+      "start_ms": 33800,
+      "end_ms": 36800,
+      "id": "e_020",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"And you have chosen to become a stranger.\"",
+      "speaker": "LORD ASHCROFT",
+      "delivery": "O.S.",
+      "source_lines": [
+        90,
+        92
+      ]
+    },
+    {
+      "start_ms": 36500,
+      "end_ms": 41500,
+      "id": "e_021",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Profile medium two-shot of Juliana and Lord Ashcroft standing face-to-face against the backdrop of the towering gothic facade.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        94,
+        96
+      ]
+    },
+    {
+      "start_ms": 37600,
+      "end_ms": 41500,
+      "id": "e_022",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"No, Father. You chose that long before today.\"",
+      "speaker": "JULIANA",
+      "delivery": "Quietly Resolute",
+      "source_lines": [
+        98,
+        100
+      ]
+    },
+    {
+      "start_ms": 41500,
+      "end_ms": 46000,
+      "id": "e_023",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Lady Ashcroft, resplendent in navy velvet and jewels, stepping forward with a smirk of malicious authority.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        102,
+        104
+      ]
+    },
+    {
+      "start_ms": 42500,
+      "end_ms": 44200,
+      "id": "e_024",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Enough sentiment.\"",
+      "speaker": "LADY ASHCROFT",
+      "delivery": "Sharply Dismissive",
+      "source_lines": [
+        106,
+        108
+      ]
+    },
+    {
+      "start_ms": 44300,
+      "end_ms": 45800,
+      "id": "e_025",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"And the ledger...\"",
+      "speaker": "LADY ASHCROFT",
+      "delivery": "Cold, Demanding",
+      "source_lines": [
+        110,
+        112
+      ]
+    },
+    {
+      "start_ms": 46000,
+      "end_ms": 48800,
+      "id": "e_026",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot as Lady Ashcroft approaches Juliana menacingly.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        114,
+        116
+      ]
+    },
+    {
+      "start_ms": 46800,
+      "end_ms": 48800,
+      "id": "e_027",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"...that belongs to this family.\"",
+      "speaker": "LADY ASHCROFT",
+      "delivery": "Venomous",
+      "source_lines": [
+        118,
+        120
+      ]
+    },
+    {
+      "start_ms": 49000,
+      "end_ms": 51800,
+      "id": "e_028",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"It belonged to my mother! It is all I have left of her.\"",
+      "speaker": "JULIANA",
+      "delivery": "Alarmed, Protective",
+      "source_lines": [
+        122,
+        124
+      ]
+    },
+    {
+      "start_ms": 51800,
+      "end_ms": 54000,
+      "id": "e_029",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Lady Ashcroft laying a jeweled hand firmly on the bound book.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        126,
+        128
+      ]
+    },
+    {
+      "start_ms": 52000,
+      "end_ms": 54000,
+      "id": "e_030",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Then you should have guarded it better.\"",
+      "speaker": "LADY ASHCROFT",
+      "delivery": "Cruel",
+      "source_lines": [
+        130,
+        132
+      ]
+    },
+    {
+      "start_ms": 54000,
+      "end_ms": 57800,
+      "id": "e_031",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on the ledger as Lady Ashcroft violently wrenches it out of Juliana's grip.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        134,
+        136
+      ]
+    },
+    {
+      "start_ms": 54500,
+      "end_ms": 57500,
+      "id": "e_032",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Lady Ashcroft snatches the heavy book away and flings it disdainfully into the rain-soaked courtyard.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        138,
+        140
+      ]
+    },
+    {
+      "start_ms": 55500,
+      "end_ms": 56800,
+      "id": "e_033",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Barbara, don't!\"",
+      "speaker": "JULIANA",
+      "delivery": "Screaming, Desperate",
+      "source_lines": [
+        142,
+        144
+      ]
+    },
+    {
+      "start_ms": 57000,
+      "end_ms": 58200,
+      "id": "e_034",
+      "scene_id": "sc_001",
+      "type": "sound",
+      "text": "A heavy wet slap as the leather-bound book crashes into the puddle-slicked stone pavement.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        146,
+        148
+      ]
+    },
+    {
+      "start_ms": 57800,
+      "end_ms": 63000,
+      "id": "e_035",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Clarissa and Gerald standing together on the cathedral steps. Clarissa clasps a gloved hand to her mouth in mock shock before bursting into gleeful laughter.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        150,
+        152
+      ]
+    },
+    {
+      "start_ms": 59000,
+      "end_ms": 62500,
+      "id": "e_036",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Even your mother's precious legacy has been cast into the dirt!\"",
+      "speaker": "CLARISSA",
+      "delivery": "Gleeful, Mocking",
+      "source_lines": [
+        154,
+        156
+      ]
+    },
+    {
+      "start_ms": 62400,
+      "end_ms": 64600,
+      "id": "e_037",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Perhaps that is where it belongs.\"",
+      "speaker": "GERALD",
+      "delivery": "Smug, Cruel",
+      "source_lines": [
+        158,
+        160
+      ]
+    },
+    {
+      "start_ms": 63000,
+      "end_ms": 66500,
+      "id": "e_038",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana looking down at the ground, tears streaming down her pale cheeks.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        162,
+        164
+      ]
+    },
+    {
+      "start_ms": 65500,
+      "end_ms": 68500,
+      "id": "e_039",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana drops to her knees onto the wet courtyard pavement, oblivious to the dirt soaking through her white bridal gown.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        166,
+        168
+      ]
+    },
+    {
+      "start_ms": 66500,
+      "end_ms": 69000,
+      "id": "e_040",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle close-up of Juliana's trembling hand reaching toward the leather ledger resting in the puddle.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        170,
+        172
+      ]
+    },
+    {
+      "start_ms": 69000,
+      "end_ms": 72500,
+      "id": "e_041",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Wide shot of Juliana kneeling on the damp ground as the tall Mysterious Bearded Man strides purposefully into frame toward her.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        174,
+        176
+      ]
+    },
+    {
+      "start_ms": 70500,
+      "end_ms": 74500,
+      "id": "e_042",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "The Mysterious Bearded Man bends his knees and kneels down beside Juliana, extending his scarred hand to retrieve the fallen ledger.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        178,
+        180
+      ]
+    },
+    {
+      "start_ms": 74500,
+      "end_ms": 76000,
+      "id": "e_043",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of his large, weathered hands gently lifting the wet, embossed leather book from the ground.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        182,
+        184
+      ]
+    },
+    {
+      "start_ms": 76000,
+      "end_ms": 80000,
+      "id": "e_044",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium two-shot as he holds out the retrieved ledger and places it into Juliana's trembling hands.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        186,
+        188
+      ]
+    },
+    {
+      "start_ms": 77800,
+      "end_ms": 79000,
+      "id": "e_045",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Here you go.\"",
+      "speaker": "MYSTERIOUS BEARDED MAN",
+      "delivery": "Low, Gentle",
+      "source_lines": [
+        190,
+        192
+      ]
+    },
+    {
+      "start_ms": 80000,
+      "end_ms": 85500,
+      "id": "e_046",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the Mysterious Bearded Man looking warmly down at Juliana, his rugged face full of quiet sincerity.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        194,
+        196
+      ]
+    },
+    {
+      "start_ms": 80500,
+      "end_ms": 82000,
+      "id": "e_047",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"They destroyed it.\"",
+      "speaker": "JULIANA",
+      "delivery": "Choked, Weeping",
+      "source_lines": [
+        198,
+        200
+      ]
+    },
+    {
+      "start_ms": 82500,
+      "end_ms": 85400,
+      "id": "e_048",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"They dirtied it. That is not the same thing.\"",
+      "speaker": "MYSTERIOUS BEARDED MAN",
+      "delivery": "Calm, Grounded",
+      "source_lines": [
+        202,
+        204
+      ]
+    },
+    {
+      "start_ms": 85500,
+      "end_ms": 91000,
+      "id": "e_049",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium two-shot of Juliana pressing the soiled book tightly against her chest, weeping softly.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        206,
+        208
+      ]
+    },
+    {
+      "start_ms": 86500,
+      "end_ms": 87800,
+      "id": "e_050",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"It was my mother's.\"",
+      "speaker": "JULIANA",
+      "delivery": "Broken",
+      "source_lines": [
+        210,
+        212
+      ]
+    },
+    {
+      "start_ms": 87900,
+      "end_ms": 89000,
+      "id": "e_051",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Then keep it.\"",
+      "speaker": "MYSTERIOUS BEARDED MAN",
+      "delivery": "Gentle, Protective",
+      "source_lines": [
+        214,
+        216
+      ]
+    },
+    {
+      "start_ms": 88500,
+      "end_ms": 91000,
+      "id": "e_052",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "The Mysterious Bearded Man reaches out with both hands, clasping his strong hands tenderly over hers and the book.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        218,
+        220
+      ]
+    },
+    {
+      "start_ms": 89400,
+      "end_ms": 91000,
+      "id": "e_053",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Let them keep everything else.\"",
+      "speaker": "MYSTERIOUS BEARDED MAN",
+      "delivery": "Firm, Comforting",
+      "source_lines": [
+        222,
+        224
+      ]
+    },
+    {
+      "start_ms": 91000,
+      "end_ms": 96500,
+      "id": "e_054",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle shot of Gerald standing high on the stone steps, grinning arrogantly as he points an accusatory finger down at them.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        226,
+        228
+      ]
+    },
+    {
+      "start_ms": 91500,
+      "end_ms": 92800,
+      "id": "e_055",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Look at you.\"",
+      "speaker": "GERALD",
+      "delivery": "Mocking, Arrogant",
+      "source_lines": [
+        230,
+        232
+      ]
+    },
+    {
+      "start_ms": 93000,
+      "end_ms": 96500,
+      "id": "e_056",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"A noblewoman reduced to a beggar's wife!\"",
+      "speaker": "GERALD",
+      "delivery": "Scornful, Spiteful",
+      "source_lines": [
+        234,
+        236
+      ]
+    },
+    {
+      "start_ms": 96500,
+      "end_ms": 101500,
+      "id": "e_057",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Over-the-shoulder shot behind the Mysterious Bearded Man looking up toward Gerald on the stairs. Gerald's arrogant grin slowly wavers.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        238,
+        240
+      ]
+    },
+    {
+      "start_ms": 98000,
+      "end_ms": 100800,
+      "id": "e_058",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Choose your next words carefully.\"",
+      "speaker": "MYSTERIOUS BEARDED MAN",
+      "delivery": "Low, Lethally Cold",
+      "source_lines": [
+        242,
+        244
+      ]
+    },
+    {
+      "start_ms": 101500,
+      "end_ms": 105500,
+      "id": "e_059",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Extreme close-up of the Mysterious Bearded Man's scarred hand completely covering and protecting Juliana's hands where they clasp the book.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        246,
+        248
+      ]
+    },
+    {
+      "start_ms": 104200,
+      "end_ms": 105200,
+      "id": "e_060",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Come.\"",
+      "speaker": "MYSTERIOUS BEARDED MAN",
+      "delivery": "Soft, Reassuring",
+      "source_lines": [
+        250,
+        252
+      ]
+    },
+    {
+      "start_ms": 105500,
+      "end_ms": 110500,
+      "id": "e_061",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "High wide shot from above the courtyard archway. Juliana, holding her mother's book, and the Mysterious Bearded Man, holding her hand firmly, walk together down the wet cobblestone path and through the towering iron gates into the misty rain, leaving her former family behind as the screen fades out.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        254,
+        256
+      ]
+    },
+    {
+      "start_ms": 106000,
+      "end_ms": 110500,
+      "id": "e_062",
+      "scene_id": "sc_001",
+      "type": "sound",
+      "text": "Rain gently pattering on cobblestones beneath a sweeping, melancholic orchestral swell that slowly fades to black.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        258,
+        260
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "start_ms": 0,
+      "end_ms": 29000
+    },
+    {
+      "start_ms": 29500,
+      "end_ms": 33400
+    },
+    {
+      "start_ms": 33500,
+      "end_ms": 48800
+    },
+    {
+      "start_ms": 49000,
+      "end_ms": 110500
+    }
+  ],
+  "warnings": [
+    "sc_001: incomplete source coverage; gaps are unavailable"
+  ]
+}

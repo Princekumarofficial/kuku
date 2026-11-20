@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c_7f471350496dfc7e",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP33:E7"
+    ],
+    "reason": "The opening question, asked by a menacing Lord while the maid trembles, creates immediate tension and an open question about who saved someone and why it matters."
+  },
+  "cliffhanger": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP33:E39",
+      "EP33:E40"
+    ],
+    "reason": "The clip ends on an unresolved threat against the maid's brother, with the maid's interrogation about Juliana's methods still open and no outcome shown.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Who Lady Juliana is and what her relationship to the maid or the Lord is",
+      "What the 'him' who was saved refers to and what his illness or condition was",
+      "What 'her mother's book' and the herbs are and why they matter",
+      "Why the Lord is interrogating the maid and what he is trying to prove",
+      "Who the maid's brother is and why he is a 'pauper' relevant to the threat",
+      "What the county gaol threat implies legally or dramatically"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Fear, guilt and menace are clearly conveyed through trembling, tears, and the Lord's sinister, predatory demeanour, building to a threat against a family member."
+  },
+  "weaknesses": [
+    "Core stakes and characters are not introduced, so a first-time viewer cannot tell what is at risk beyond the threat to the brother",
+    "Many terms (herbs, mother's book, physician's prescriptions) are referenced without explanation",
+    "The maid's answers are repeated and the interrogation is somewhat generic in structure without clear new information",
+    "Dense shot-by-shot camera labels in the source make the rhythm feel fragmented for a standalone viewer"
+  ],
+  "one_line_why_it_works": "A menacing Lord pressures a terrified maid through escalating questions and ends on a threat to her brother, leaving the outcome unresolved and the emotional tension high."
+}

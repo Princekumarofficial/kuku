@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_7f1e6384cab156b0 DURATION_MS=26750\nSEGMENT 1 (playback order)\nEP20:E50 0-200 CAMERA: Medium two-shot of Juliana and Seamus standing facing each other in the barn, the lantern casting a warm amber glow between them.\nEP20:E54 200-2000 ACTION: Catherine's gloved hand sets her fine porcelain teacup down onto the silver tray with a delicate clatter.\nEP20:E55 400-1400 SOUND: Sharp porcelain chime of teacup meeting saucer.\nEP20:E56 1800-6800 CAMERA: Close-up of Catherine looking up, her face twisting into venomous arrogance.\nEP20:E57 1900-4400 CATHERINE: \"Let the peasants rot in their barns.\"\nEP20:E58 4600-6500 CATHERINE: \"Let them pray to their weeds.\"\nEP20:E59 6800-11200 CAMERA: Medium shot as Rupert steps around the mahogany table and leans close into Catherine's ear, smiling seductively.\nEP20:E60 6900-9300 RUPERT: \"You have no rival here, Catherine.\"\nEP20:E61 9400-11100 RUPERT: \"No one to stand in your way.\"\nEP20:E62 11200-15800 CAMERA: Close-up of Catherine looking into Rupert's eyes, her smile turning predatory and cold.\nEP20:E63 11300-13400 CATHERINE: \"Once the old Duchess is gone...\"\nEP20:E64 13500-15700 CATHERINE: \"...Ashbury will finally belong to us.\"\nEP20:E65 15800-21000 ACTION: Catherine rises from her chair in one regal motion and glides toward the towering window overlooking the vast estate grounds.\nEP20:E66 16000-21500 CAMERA: Tracking medium shot following Catherine from behind as she walks gracefully to the window frame, the grey morning light outlining her aristocratic silhouette.\nEP20:E67 18800-21200 CATHERINE: \"This house will only bow to me.\"\nEP20:E68 21500-26750 CAMERA: Tight close-up profile of Catherine gazing out the windowpane, her icy eyes burning with insatiable ambition as dramatic strings swell to a menacing cliffhanger hold.",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

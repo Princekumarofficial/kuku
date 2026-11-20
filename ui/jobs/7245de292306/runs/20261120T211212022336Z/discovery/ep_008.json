@@ -1,0 +1,55 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "ep08_opp_01",
+      "episode_id": "ep_008",
+      "concept": "Juliana identifies yarrow and Alexander explains its healing uses and soldier survival knowledge, then he refuses her offer to trim his hair and beard with Not yet, leaving the moment unresolved.",
+      "hook_refs": [
+        "EP08:E11",
+        "EP08:E13"
+      ],
+      "ending_refs": [
+        "EP08:E31"
+      ],
+      "context_refs": [
+        "EP08:E13",
+        "EP08:E17"
+      ],
+      "why_promising": "Clip runs 10500-36900 ms (26.4 s) and opens on a clear, self-contained yarrow exchange. The soldier-knowledge line and the Not yet? question create a curiosity loop that ends before Alexander answers with Let them grow."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep08_opp_02",
+      "episode_id": "ep_008",
+      "concept": "Juliana's playful push to trim Alexander's beard ends on a tease: he refuses to commit and says we'll see.",
+      "hook_refs": [
+        "EP08:E23"
+      ],
+      "ending_refs": [
+        "EP08:E44"
+      ],
+      "context_refs": [
+        "EP08:E26",
+        "EP08:E29"
+      ],
+      "why_promising": "Clip runs 22500-51200 ms (28.7 s) with the hook in its first 2.5 s. The beard offer and Not yet give enough within the clip for the hook to stand alone, and the ending line We'll see is an open, light-hearted cliffhanger."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep08_opp_03",
+      "episode_id": "ep_008",
+      "concept": "Juliana opens her late mother's worn herbal book and says her mother spent years writing it, then turns to the beard exchange and cuts off mid-line at Your hair and beard...",
+      "hook_refs": [
+        "EP08:E7"
+      ],
+      "ending_refs": [
+        "EP08:E23"
+      ],
+      "context_refs": [
+        "EP08:E6"
+      ],
+      "why_promising": "Clip runs 5100-26800 ms (21.7 s). The hook opens on the book being turned, which gives the mother-writing line its meaning, and the clip ends on an unfinished line that prompts the viewer to continue."
+    }
+  ]
+}

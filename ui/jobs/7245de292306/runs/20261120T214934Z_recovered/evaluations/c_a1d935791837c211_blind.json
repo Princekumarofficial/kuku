@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_a1d935791837c211",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP12:E32",
+      "EP12:E31",
+      "EP12:E54"
+    ],
+    "reason": "The clip opens within the first 3 seconds with a cruel, direct line, 'I want to see you crawl, sister.', over a tense two-shot. It closes with Juliana's defiant question, which gives the hook a strong start and end."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP12:E53",
+      "EP12:E54"
+    ],
+    "reason": "The clip ends with Juliana's fierce stare and the unanswered demand 'Tell me where the garden is.' Nothing in the clip resolves where the garden is or whether she will comply, so the question stays open at the cut.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Identity and relationship of Clarissa, Juliana, Alexander and Gerald beyond the 'sister' address",
+      "Who the Constable and magistrate are and why the magistrate's arrival matters",
+      "What charges are being withdrawn and why Alexander's husband role puts him at risk of the gallows",
+      "Why Juliana must retrieve the emerald signet ring and whose ring it is",
+      "The connection between the blackthorn briars at Ashworth Manor and the garden Juliana asks about",
+      "Why Alexander says 'I can handle the law'"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "The clip builds dread through Clarissa's venomous threats, Gerald's mocking laughter, and Juliana's trembling breath and tearful resolve. Its fierce, defiant close carries strong emotional tension."
+  },
+  "weaknesses": [
+    "Heavy unexplained plot references (ring, Ashworth Manor, magistrate, charges, gallows) reduce comprehension for a first-time viewer",
+    "The garden in the final line is introduced without setup; the ring was lost in briars, not a garden, so the link is unclear",
+    "The final demand arrives abruptly after Juliana's resolve, so the shift to her question feels underexplained",
+    "Several characters, such as the Constable, are present but given no clear role"
+  ],
+  "one_line_why_it_works": "A cruel ultimatum that threatens a husband's life builds to Juliana's defiant reversal and ends on an open question about the garden, leaving the viewer wanting the answer."
+}

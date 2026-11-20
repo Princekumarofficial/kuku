@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_ea6e461239fbd658 DURATION_MS=40270\nSEGMENT 1 (playback order)\nEP37:E62 0-300 CAMERA: Tight close-up of Juliana's iron-shackled hand reaching out and gripping the massive iron ring anchored into the dungeon pillar with crushing determination.\nEP37:E64 300-3800 CAMERA: Medium two-shot in the dimly lit parlor, illuminated by the warm glow of the fireplace. Clarissa now wears a deep blue velvet gown, reclining in an armchair beside the nobleman.\nEP37:E65 1000-3600 NOBLEMAN: \"Do you think she'll actually be executed?\"\nEP37:E66 3800-8300 CAMERA: Close-up of Clarissa giving a slight, dismissive scoff before turning to him with cold certainty.\nEP37:E67 4300-8000 LADY CLARISSA: \"After what she has been accused of? Of course.\"\nEP37:E68 8300-10800 CAMERA: Medium close-up of the nobleman looking down pensively at the open execution clause on the table.\nEP37:E69 8600-10300 NOBLEMAN: \"She was always stubborn.\"\nEP37:E70 10800-16300 CAMERA: Close-up on Clarissa's face hardening with bitter resentment.\nEP37:E71 11300-15800 LADY CLARISSA: \"That was her greatest mistake. She could have accepted what happened. She could have disappeared quietly.\"\nEP37:E72 16300-19800 ACTION: Clarissa rises from her armchair holding a cut crystal glass filled with dark red wine, pacing toward the fireplace.\nEP37:E73 16300-25300 CAMERA: Medium tracking shot showing Clarissa standing tall beside her husband, her posture regal and vindictive.\nEP37:E74 17800-24800 LADY CLARISSA: \"Instead she married a nobody, played healer to peasants, challenged people above her. And now the whole county will watch her pay for it.\"\nEP37:E75 25300-31300 CAMERA: Tight close-up on Clarissa's face glowing in the firelight. Her lips curl into a merciless smile as she lifts the crystal glass to her mouth and drinks.\nEP37:E76 26300-30300 LADY CLARISSA: \"Let them see what happens when a woman forgets her place.\"\nEP37:E77 29300-31800 ACTION: Clarissa takes a slow sip of the red wine, her eyes gleaming with dark relish.\nEP37:E78 31300-40270 CAMERA: Slow push-in on the dark polished tabletop where the open invitation lies beside the wax seal. The bold Gothic lettering \"EXECUTION CLAUSE\" sits beneath the gold crest, while the fire dances reflected on the mahogany.\nEP37:E79 31800-40270 SOUND: A deep, ominous cello rumble builds alongside the crackle of the fireplace into an unresolved, tension-filled cliffhanger sting before fading out.",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

@@ -1,0 +1,68 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "ep29_opp01",
+      "episode_id": "ep_029",
+      "concept": "Catherine threatens to burn the herbarium and calls it witchcraft",
+      "hook_refs": [
+        "EP29:E13"
+      ],
+      "ending_refs": [
+        "EP29:E26"
+      ],
+      "context_refs": [
+        "EP29:E12"
+      ],
+      "why_promising": "Opens on Catherine's mocking line about the herbarium within the first second of the clip, then builds to her unresolved claim that she knows exactly what 'him' needs to believe, which raises an open question."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep29_opp02",
+      "episode_id": "ep_029",
+      "concept": "Catherine vows to burn the herbarium and threatens Juliana with the rope",
+      "hook_refs": [
+        "EP29:E30"
+      ],
+      "ending_refs": [
+        "EP29:E44"
+      ],
+      "context_refs": [
+        "EP29:E28"
+      ],
+      "why_promising": "Starts with Juliana's plea not to destroy the book, moves to Catherine's chilling threat to burn it and hang Juliana, and ends on Juliana's defiant claim that her husband will find her, leaving the outcome unresolved."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep29_opp03",
+      "episode_id": "ep_029",
+      "concept": "Juliana begs Catherine to spare her dead mother's book",
+      "hook_refs": [
+        "EP29:E7"
+      ],
+      "ending_refs": [
+        "EP29:E22"
+      ],
+      "context_refs": [
+        "EP29:E6"
+      ],
+      "why_promising": "Opens on Juliana's desperate plea about her mother's legacy and runs through Catherine's dismissal to her icy warning that the magistrate will call the book witchcraft, a self-contained emotional arc with an open threat."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep29_opp04",
+      "episode_id": "ep_029",
+      "concept": "Juliana claims she saved the Duchess and Catherine dismisses her",
+      "hook_refs": [
+        "EP29:E36"
+      ],
+      "ending_refs": [
+        "EP29:E48"
+      ],
+      "context_refs": [
+        "EP29:E40"
+      ],
+      "why_promising": "Opens on Juliana's accusation that Catherine acts because she saved the Duchess, includes Catherine's cast-out jab, and ends on the unresolved mockery of a penniless veteran's chances against Ashbrook."
+    }
+  ]
+}

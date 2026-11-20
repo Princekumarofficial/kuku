@@ -1,0 +1,40 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "opp_1",
+      "episode_id": "ep_035",
+      "concept": "Elderly mother's arrival at the cabin builds to a reunion cliffhanger that ends on Alexander's unanswered 'Mother?'",
+      "hook_refs": [
+        "EP35:E12"
+      ],
+      "ending_refs": [
+        "EP35:E22"
+      ],
+      "context_refs": [
+        "EP35:E13",
+        "EP35:E15",
+        "EP35:E17"
+      ],
+      "why_promising": "The clip opens on her line 'This must be the place' at the cabin door and runs through the door opening and Alexander's shocked recognition, ending on his disbelieving 'Mother?' (about 23 seconds). The reunion is unresolved at the cut."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_2",
+      "episode_id": "ep_035",
+      "concept": "Alexander reveals someone wanted his mother to believe he was dead, and the ambush was ordered to erase him, ending on the claim that the men behind it rule Ashwood",
+      "hook_refs": [
+        "EP35:E59"
+      ],
+      "ending_refs": [
+        "EP35:E70"
+      ],
+      "context_refs": [
+        "EP35:E64",
+        "EP35:E66",
+        "EP35:E67"
+      ],
+      "why_promising": "The clip opens on the line 'Because someone wanted you to believe I was dead' and builds through the ambush being ordered and Alexander being erased, ending on the Ashwood rulers claim with the mother's dread left unresolved (about 24 seconds)."
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_ba4503fd4f1cb104 DURATION_MS=32200\nSEGMENT 1 (playback order)\nEP47:E50 500-3800 CAMERA: Close-up of Catherine's face turning from despair to offended shock.\nEP47:E51 1000-3800 CATHERINE: \"You want me? As a guest?\"\nEP47:E52 3800-6200 CAMERA: Close-up of Juliana staring straight into Catherine's eyes without blinking.\nEP47:E53 4200-6000 JULIANA: \"As a scullery maid.\"\nEP47:E54 6200-9800 CAMERA: Medium shot of Catherine recoiling in disgust, looking around at the gathered estate retainers.\nEP47:E55 6500-9500 CATHERINE: \"You expect me to scrub floors before these commoners?\"\nEP47:E56 9800-13500 CAMERA: Dramatic profile two-shot of Juliana standing inches away from Catherine, dominating the confrontation.\nEP47:E57 10200-13500 JULIANA: \"You will scrub the floors you walked on as an impostor.\"\nEP47:E58 13500-16500 CAMERA: Juliana extends the ring of iron keys outward in her fist.\nEP47:E59 13800-16500 JULIANA: \"You will scrub the manor hearths at dawn.\"\nEP47:E60 16500-19500 CAMERA: Close profile two-shot of the two women locked in an intense psychological battle.\nEP47:E61 16800-19500 JULIANA: \"You will scour the kitchen grease until midnight.\"\nEP47:E62 19500-23500 CAMERA: Juliana presents the rough hemp apron and heavy keys right to Catherine's face.\nEP47:E63 19800-23500 JULIANA: \"One complaint from the housekeeper, and you are cast out with nothing.\"\nEP47:E64 23500-26800 CAMERA: Close-up of Catherine's trembling lips, humiliated tears spilling down her heavily made-up cheeks.\nEP47:E65 24200-26600 CATHERINE: \"You humiliate me.\"\nEP47:E66 26800-32200 CAMERA: Medium shot of both women standing beneath the cathedral vaulting of the hall.\nEP47:E67 27200-32200 JULIANA: \"I offer you bread and honest labor. Take the apron, or leave the county.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

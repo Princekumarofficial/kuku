@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_fd28d4156f907332 DURATION_MS=31600\nSEGMENT 1 (playback order)\nEP24:E9 0-400 CAMERA: Medium shot of the noblewoman, her chin tilted up in icy condescension.\nEP24:E11 400-2400 CAMERA: Close-up of the frail Dowager Duchess lying pale and unconscious against the white pillows, gasping weakly for air.\nEP24:E12 2400-4100 ACTION: Behind her grey skirt, Juliana quickly slips the small glass remedy vial into her apron pocket with her charcoal-dusted fingers.\nEP24:E13 2400-4400 CAMERA: Close-up on Juliana's hand swiftly concealing the medicine bottle.\nEP24:E15 4400-5800 LADY JULIANA: \"I heard her. I thought Her Grace needed help.\"\nEP24:E14 4400-6100 CAMERA: Medium shot of Juliana facing the noblewoman, maintaining a calm, protective facade.\nEP24:E17 6100-10100 NOBLEWOMAN: \"You thought? A new maid thinks she knows better than the physicians?\"\nEP24:E16 6100-10400 CAMERA: Two-shot framing the noblewoman looking down at Juliana, bursting into mocking laughter.\nEP24:E18 10400-12400 CAMERA: Close-up of Juliana's resolute expression, her eyes flashing with righteous urgency.\nEP24:E19 10600-12200 LADY JULIANA: \"She is suffering.\"\nEP24:E20 12400-14400 CAMERA: Tight close-up of the noblewoman's face twisting into a malicious sneer.\nEP24:E21 12600-14400 NOBLEWOMAN: \"Then let her suffer.\"\nEP24:E22 14400-16400 CAMERA: Close-up of Juliana recoiling slightly in shock at the blatant cruelty.\nEP24:E23 14600-16100 LADY JULIANA: \"I cannot do that.\"\nEP24:E24 16100-18100 ACTION: The noblewoman suddenly rears back her riding crop and strikes Juliana violently across the torso.\nEP24:E25 16400-17400 SOUND: A sharp, stinging whip crack as the riding crop makes harsh contact.\nEP24:E26 17400-20100 ACTION: Juliana gasps in pain, clutching her stomach and bending over as she absorbs the brutal strike.\nEP24:E27 17400-20400 CAMERA: Medium shot of Juliana hunched over in pain, clutching her abdomen.\nEP24:E28 18600-20400 NOBLEWOMAN: \"You are a maid.\"\nEP24:E29 20400-22400 CAMERA: Low-angle shot looking past the bedpost toward the Duchess, whose trembling hand reaches out limply.\nEP24:E30 20600-22400 NOBLEWOMAN: \"Not a physician. Not a lady.\"\nEP24:E31 22400-26600 CAMERA: Dramatic low-angle wide shot of the noblewoman standing imperiously over the doubled-over Juliana.\nEP24:E32 22600-26400 NOBLEWOMAN: \"And certainly not a woman whose opinion matters.\"\nEP24:E33 26600-29100 CAMERA: Close-up of Juliana looking down, enduring the humiliation while stifling her breath.\nEP24:E34 26800-28400 LADY JULIANA: \"Yes, my lady.\"\nEP24:E36 29100-31600 NOBLEWOMAN: \"Good. Perhaps we can teach you your place.\"\nEP24:E35 29100-31600 CAMERA: Medium shot of the noblewoman turning the crop in her white-gloved hands with smug satisfaction.",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

@@ -1,0 +1,746 @@
+[
+  {
+    "candidate_id": "c_c229c54873e8c31a",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 11000,
+        "end_ms": 58000,
+        "episode_id": "ep_046"
+      }
+    ],
+    "duration_ms": 47000,
+    "origin": "ep046_opp01",
+    "clip_events": [
+      {
+        "ref": "EP46:E7",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the High Priest holding up a wax-sealed document before his chest, flanked by two armed guards."
+      },
+      {
+        "ref": "EP46:E8",
+        "segment_index": 0,
+        "relative_start_ms": 500,
+        "relative_end_ms": 5800,
+        "type": "dialogue",
+        "speaker": "HIGH PRIEST",
+        "text": "\"By Royal command, this sanctuary is placed under immediate Crown scesion.\""
+      },
+      {
+        "ref": "EP46:E9",
+        "segment_index": 0,
+        "relative_start_ms": 2800,
+        "relative_end_ms": 6200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the High Priest's fingers breaking the crimson wax seal and string on the war office envelope."
+      },
+      {
+        "ref": "EP46:E10",
+        "segment_index": 0,
+        "relative_start_ms": 4000,
+        "relative_end_ms": 5800,
+        "type": "sound",
+        "speaker": null,
+        "text": "Crisp tear of wax and parchment string snapping open."
+      },
+      {
+        "ref": "EP46:E11",
+        "segment_index": 0,
+        "relative_start_ms": 6200,
+        "relative_end_ms": 9500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle medium shot of the High Priest opening the yellowed War Office document."
+      },
+      {
+        "ref": "EP46:E12",
+        "segment_index": 0,
+        "relative_start_ms": 6300,
+        "relative_end_ms": 9400,
+        "type": "dialogue",
+        "speaker": "HIGH PRIEST",
+        "text": "\"None shall leave until every witness is accounted for.\""
+      },
+      {
+        "ref": "EP46:E13",
+        "segment_index": 0,
+        "relative_start_ms": 9500,
+        "relative_end_ms": 11800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot of Alexander and Juliana standing defiant at the altar as congregation members watch in silence."
+      },
+      {
+        "ref": "EP46:E14",
+        "segment_index": 0,
+        "relative_start_ms": 9600,
+        "relative_end_ms": 11800,
+        "type": "dialogue",
+        "speaker": "HIGH PRIEST",
+        "text": "\"You married this woman as a nameless beggar...\""
+      },
+      {
+        "ref": "EP46:E15",
+        "segment_index": 0,
+        "relative_start_ms": 11800,
+        "relative_end_ms": 15800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the High Priest holding the decree, his gaze burning with disdain."
+      },
+      {
+        "ref": "EP46:E16",
+        "segment_index": 0,
+        "relative_start_ms": 11900,
+        "relative_end_ms": 15500,
+        "type": "dialogue",
+        "speaker": "HIGH PRIEST",
+        "text": "\"...in a hedge ceremony no clerk in England ever recorded.\""
+      },
+      {
+        "ref": "EP46:E17",
+        "segment_index": 0,
+        "relative_start_ms": 15800,
+        "relative_end_ms": 19500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Full shot of the High Priest brandishing the letter aloft in the center of the chapel nave."
+      },
+      {
+        "ref": "EP46:E18",
+        "segment_index": 0,
+        "relative_start_ms": 15800,
+        "relative_end_ms": 20800,
+        "type": "dialogue",
+        "speaker": "HIGH PRIEST",
+        "text": "\"Three years later, the beggar is revealed to be a Duke. The marriage does not rise with him.\""
+      },
+      {
+        "ref": "EP46:E19",
+        "segment_index": 0,
+        "relative_start_ms": 19500,
+        "relative_end_ms": 23200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Alexander turning toward Juliana, placing a protective hand on her arm."
+      },
+      {
+        "ref": "EP46:E20",
+        "segment_index": 0,
+        "relative_start_ms": 21500,
+        "relative_end_ms": 23500,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana places her hand over Alexander's as he steps forward to shield her."
+      },
+      {
+        "ref": "EP46:E21",
+        "segment_index": 0,
+        "relative_start_ms": 23200,
+        "relative_end_ms": 26000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander, his scarred face hardening with unwavering conviction."
+      },
+      {
+        "ref": "EP46:E22",
+        "segment_index": 0,
+        "relative_start_ms": 23300,
+        "relative_end_ms": 25700,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"She married the man... not the title.\""
+      },
+      {
+        "ref": "EP46:E23",
+        "segment_index": 0,
+        "relative_start_ms": 26000,
+        "relative_end_ms": 31800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle shot looking up at the High Priest as he raises the parchment toward the vaulted ceiling."
+      },
+      {
+        "ref": "EP46:E24",
+        "segment_index": 0,
+        "relative_start_ms": 26300,
+        "relative_end_ms": 31500,
+        "type": "dialogue",
+        "speaker": "HIGH PRIEST",
+        "text": "\"The church married a vagrant to a ruined lady. It never married the Duke of Ashburton to anyone.\""
+      },
+      {
+        "ref": "EP46:E25",
+        "segment_index": 0,
+        "relative_start_ms": 31800,
+        "relative_end_ms": 36000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the High Priest lowering the document, raising a single finger in admonishment."
+      },
+      {
+        "ref": "EP46:E26",
+        "segment_index": 0,
+        "relative_start_ms": 31800,
+        "relative_end_ms": 36000,
+        "type": "dialogue",
+        "speaker": "HIGH PRIEST",
+        "text": "\"No Crown license was sought, because no one thought to ask leave for a Duke to marry.\""
+      },
+      {
+        "ref": "EP46:E27",
+        "segment_index": 0,
+        "relative_start_ms": 36000,
+        "relative_end_ms": 38000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Two-shot of Juliana and Alexander listening intently, Juliana's eyes flashing with hurt and defiance."
+      },
+      {
+        "ref": "EP46:E28",
+        "segment_index": 0,
+        "relative_start_ms": 36100,
+        "relative_end_ms": 38000,
+        "type": "dialogue",
+        "speaker": "HIGH PRIEST",
+        "text": "\"No licensed clergyman presided...\""
+      },
+      {
+        "ref": "EP46:E29",
+        "segment_index": 0,
+        "relative_start_ms": 38000,
+        "relative_end_ms": 41200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the High Priest glaring intently."
+      },
+      {
+        "ref": "EP46:E30",
+        "segment_index": 0,
+        "relative_start_ms": 38000,
+        "relative_end_ms": 41200,
+        "type": "dialogue",
+        "speaker": "HIGH PRIEST",
+        "text": "\"...because a frightened village priest has no authority to bind a peer.\""
+      },
+      {
+        "ref": "EP46:E32",
+        "segment_index": 0,
+        "relative_start_ms": 41200,
+        "relative_end_ms": 47000,
+        "type": "dialogue",
+        "speaker": "HIGH PRIEST",
+        "text": "\"And no clerk in London ever entered your name in the Royal register, because as far as the Crown knew, Alexander Ashburton was already dead.\""
+      },
+      {
+        "ref": "EP46:E31",
+        "segment_index": 0,
+        "relative_start_ms": 41200,
+        "relative_end_ms": 47000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot pushing into a close-up as the High Priest thrusts the royal War Office proclamation directly into the camera."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_7f9ceb1d70f1ca0b",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 58000,
+        "end_ms": 85500,
+        "episode_id": "ep_046"
+      }
+    ],
+    "duration_ms": 27500,
+    "origin": "ep046_opp02",
+    "clip_events": [
+      {
+        "ref": "EP46:E31",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot pushing into a close-up as the High Priest thrusts the royal War Office proclamation directly into the camera."
+      },
+      {
+        "ref": "EP46:E33",
+        "segment_index": 0,
+        "relative_start_ms": 200,
+        "relative_end_ms": 4800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana lifting her chin, tearful yet burning with righteous fury."
+      },
+      {
+        "ref": "EP46:E34",
+        "segment_index": 0,
+        "relative_start_ms": 500,
+        "relative_end_ms": 4500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I didn't ask this church for permission to survive, Father.\""
+      },
+      {
+        "ref": "EP46:E35",
+        "segment_index": 0,
+        "relative_start_ms": 4800,
+        "relative_end_ms": 7800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot of Juliana standing proudly beside Alexander."
+      },
+      {
+        "ref": "EP46:E36",
+        "segment_index": 0,
+        "relative_start_ms": 4900,
+        "relative_end_ms": 7500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I won't ask it for permission to love.\""
+      },
+      {
+        "ref": "EP46:E37",
+        "segment_index": 0,
+        "relative_start_ms": 7800,
+        "relative_end_ms": 13000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the High Priest looking down, a sinister, condescending smirk gracing his lips."
+      },
+      {
+        "ref": "EP46:E38",
+        "segment_index": 0,
+        "relative_start_ms": 8800,
+        "relative_end_ms": 12500,
+        "type": "dialogue",
+        "speaker": "HIGH PRIEST",
+        "text": "\"Love doesn't make a Duchess, girl. Paper does.\""
+      },
+      {
+        "ref": "EP46:E39",
+        "segment_index": 0,
+        "relative_start_ms": 13000,
+        "relative_end_ms": 18800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Slow push-in medium close-up on Juliana, her voice trembling with intense indignation."
+      },
+      {
+        "ref": "EP46:E40",
+        "segment_index": 0,
+        "relative_start_ms": 13400,
+        "relative_end_ms": 16300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Then look at this floor honestly, for once.\""
+      },
+      {
+        "ref": "EP46:E41",
+        "segment_index": 0,
+        "relative_start_ms": 16400,
+        "relative_end_ms": 18600,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"A church called me unworthy.\""
+      },
+      {
+        "ref": "EP46:E42",
+        "segment_index": 0,
+        "relative_start_ms": 18800,
+        "relative_end_ms": 20000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Quick cut to the High Priest maintaining a smug, impenetrable stare."
+      },
+      {
+        "ref": "EP46:E43",
+        "segment_index": 0,
+        "relative_start_ms": 18800,
+        "relative_end_ms": 20000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"A church chained me.\""
+      },
+      {
+        "ref": "EP46:E44",
+        "segment_index": 0,
+        "relative_start_ms": 20000,
+        "relative_end_ms": 27500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up on Juliana's face as she shouts at the priest."
+      },
+      {
+        "ref": "EP46:E45",
+        "segment_index": 0,
+        "relative_start_ms": 20100,
+        "relative_end_ms": 23000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Now a church calls my marriage a lie!\""
+      },
+      {
+        "ref": "EP46:E46",
+        "segment_index": 0,
+        "relative_start_ms": 23100,
+        "relative_end_ms": 27500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"God married us, Father! You are just angry no one asked you first!\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_6303b16c81b3d238",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 100400,
+        "end_ms": 138500,
+        "episode_id": "ep_046"
+      }
+    ],
+    "duration_ms": 38100,
+    "origin": "ep046_opp03",
+    "clip_events": [
+      {
+        "ref": "EP46:E54",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot of the High Priest waving the letter overhead before the congregation."
+      },
+      {
+        "ref": "EP46:E56",
+        "segment_index": 0,
+        "relative_start_ms": 100,
+        "relative_end_ms": 1400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Catherine listening eagerly."
+      },
+      {
+        "ref": "EP46:E58",
+        "segment_index": 0,
+        "relative_start_ms": 1400,
+        "relative_end_ms": 6100,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"A Duke's marriage is judged by the Crown's peerage court, not by a parish priest's seal.\""
+      },
+      {
+        "ref": "EP46:E57",
+        "segment_index": 0,
+        "relative_start_ms": 1400,
+        "relative_end_ms": 6400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Profile medium shot of Alexander confronting the High Priest face-to-face at the foot of the altar."
+      },
+      {
+        "ref": "EP46:E59",
+        "segment_index": 0,
+        "relative_start_ms": 6400,
+        "relative_end_ms": 11400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle two-shot of the High Priest staring up into Alexander's imposing frame."
+      },
+      {
+        "ref": "EP46:E60",
+        "segment_index": 0,
+        "relative_start_ms": 6600,
+        "relative_end_ms": 11100,
+        "type": "dialogue",
+        "speaker": "HIGH PRIEST",
+        "text": "\"The High Religious Council rules on matters of holy matrimony. That includes yours.\""
+      },
+      {
+        "ref": "EP46:E61",
+        "segment_index": 0,
+        "relative_start_ms": 11400,
+        "relative_end_ms": 18100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Alexander glaring with icy authority."
+      },
+      {
+        "ref": "EP46:E62",
+        "segment_index": 0,
+        "relative_start_ms": 11600,
+        "relative_end_ms": 17800,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Then let it prove that in ten days, before witnesses. Not with six halberds pointed at me in my own chapel.\""
+      },
+      {
+        "ref": "EP46:E63",
+        "segment_index": 0,
+        "relative_start_ms": 18100,
+        "relative_end_ms": 23600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide profile two-shot of the High Priest and Alexander locked in an intense standoff before the altar."
+      },
+      {
+        "ref": "EP46:E64",
+        "segment_index": 0,
+        "relative_start_ms": 18400,
+        "relative_end_ms": 23200,
+        "type": "dialogue",
+        "speaker": "HIGH PRIEST",
+        "text": "\"Ten days. And if the council rules against you, this county watches you lose her twice.\""
+      },
+      {
+        "ref": "EP46:E65",
+        "segment_index": 0,
+        "relative_start_ms": 23600,
+        "relative_end_ms": 26100,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"I'll take that wager over your decree.\""
+      },
+      {
+        "ref": "EP46:E66",
+        "segment_index": 0,
+        "relative_start_ms": 26100,
+        "relative_end_ms": 26800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Quick reaction shot of the elderly woman in the pew gripping her beads in distress."
+      },
+      {
+        "ref": "EP46:E68",
+        "segment_index": 0,
+        "relative_start_ms": 26800,
+        "relative_end_ms": 32800,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Lower them! Or explain to the Crown why its own bailiffs raised iron on the Duke it just confirmed!\""
+      },
+      {
+        "ref": "EP46:E67",
+        "segment_index": 0,
+        "relative_start_ms": 26800,
+        "relative_end_ms": 33100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot from behind the guards as they surround Alexander and Juliana, halberds and swords pointed inches from Alexander's chest."
+      },
+      {
+        "ref": "EP46:E69",
+        "segment_index": 0,
+        "relative_start_ms": 33100,
+        "relative_end_ms": 38100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the High Priest extending his hand toward the guards, commanding them to stand down."
+      },
+      {
+        "ref": "EP46:E70",
+        "segment_index": 0,
+        "relative_start_ms": 33600,
+        "relative_end_ms": 35600,
+        "type": "action",
+        "speaker": null,
+        "text": "The guards slowly lower their weapon points away from the Duke."
+      },
+      {
+        "ref": "EP46:E71",
+        "segment_index": 0,
+        "relative_start_ms": 33800,
+        "relative_end_ms": 38100,
+        "type": "dialogue",
+        "speaker": "HIGH PRIEST",
+        "text": "\"Ten days, Duke. Choose your witnesses well.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_f632d2f70718a188",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 89000,
+        "end_ms": 126500,
+        "episode_id": "ep_046"
+      }
+    ],
+    "duration_ms": 37500,
+    "origin": "ep046_opp04",
+    "clip_events": [
+      {
+        "ref": "EP46:E47",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Catherine leaning against a stone archway, whispering with venomous mockery."
+      },
+      {
+        "ref": "EP46:E49",
+        "segment_index": 0,
+        "relative_start_ms": 200,
+        "relative_end_ms": 3500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the High Priest pressing the document against his chest, his eyes darkening with anger."
+      },
+      {
+        "ref": "EP46:E50",
+        "segment_index": 0,
+        "relative_start_ms": 300,
+        "relative_end_ms": 3400,
+        "type": "dialogue",
+        "speaker": "HIGH PRIEST",
+        "text": "\"Careful, girl. You mistake my patience for weakness.\""
+      },
+      {
+        "ref": "EP46:E52",
+        "segment_index": 0,
+        "relative_start_ms": 3200,
+        "relative_end_ms": 7200,
+        "type": "dialogue",
+        "speaker": "HIGH PRIEST",
+        "text": "\"God did not marry you. A frightened parishioner did, without leave, without license, without the Crown's blessing!\""
+      },
+      {
+        "ref": "EP46:E51",
+        "segment_index": 0,
+        "relative_start_ms": 3500,
+        "relative_end_ms": 7000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle shot of the High Priest stepping up the altar steps toward them."
+      },
+      {
+        "ref": "EP46:E53",
+        "segment_index": 0,
+        "relative_start_ms": 7000,
+        "relative_end_ms": 7800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Brief insert of Catherine smirking as she watches from the side."
+      },
+      {
+        "ref": "EP46:E55",
+        "segment_index": 0,
+        "relative_start_ms": 7800,
+        "relative_end_ms": 11400,
+        "type": "dialogue",
+        "speaker": "HIGH PRIEST",
+        "text": "\"And I have the power to undo in one hearing what took you three years to steal!\""
+      },
+      {
+        "ref": "EP46:E54",
+        "segment_index": 0,
+        "relative_start_ms": 7800,
+        "relative_end_ms": 11500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot of the High Priest waving the letter overhead before the congregation."
+      },
+      {
+        "ref": "EP46:E56",
+        "segment_index": 0,
+        "relative_start_ms": 11500,
+        "relative_end_ms": 12800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Catherine listening eagerly."
+      },
+      {
+        "ref": "EP46:E58",
+        "segment_index": 0,
+        "relative_start_ms": 12800,
+        "relative_end_ms": 17500,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"A Duke's marriage is judged by the Crown's peerage court, not by a parish priest's seal.\""
+      },
+      {
+        "ref": "EP46:E57",
+        "segment_index": 0,
+        "relative_start_ms": 12800,
+        "relative_end_ms": 17800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Profile medium shot of Alexander confronting the High Priest face-to-face at the foot of the altar."
+      },
+      {
+        "ref": "EP46:E59",
+        "segment_index": 0,
+        "relative_start_ms": 17800,
+        "relative_end_ms": 22800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle two-shot of the High Priest staring up into Alexander's imposing frame."
+      },
+      {
+        "ref": "EP46:E60",
+        "segment_index": 0,
+        "relative_start_ms": 18000,
+        "relative_end_ms": 22500,
+        "type": "dialogue",
+        "speaker": "HIGH PRIEST",
+        "text": "\"The High Religious Council rules on matters of holy matrimony. That includes yours.\""
+      },
+      {
+        "ref": "EP46:E61",
+        "segment_index": 0,
+        "relative_start_ms": 22800,
+        "relative_end_ms": 29500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Alexander glaring with icy authority."
+      },
+      {
+        "ref": "EP46:E62",
+        "segment_index": 0,
+        "relative_start_ms": 23000,
+        "relative_end_ms": 29200,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Then let it prove that in ten days, before witnesses. Not with six halberds pointed at me in my own chapel.\""
+      },
+      {
+        "ref": "EP46:E63",
+        "segment_index": 0,
+        "relative_start_ms": 29500,
+        "relative_end_ms": 35000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide profile two-shot of the High Priest and Alexander locked in an intense standoff before the altar."
+      },
+      {
+        "ref": "EP46:E64",
+        "segment_index": 0,
+        "relative_start_ms": 29800,
+        "relative_end_ms": 34600,
+        "type": "dialogue",
+        "speaker": "HIGH PRIEST",
+        "text": "\"Ten days. And if the council rules against you, this county watches you lose her twice.\""
+      },
+      {
+        "ref": "EP46:E65",
+        "segment_index": 0,
+        "relative_start_ms": 35000,
+        "relative_end_ms": 37500,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"I'll take that wager over your decree.\""
+      }
+    ]
+  }
+]

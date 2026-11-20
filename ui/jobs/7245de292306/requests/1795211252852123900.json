@@ -1,0 +1,205 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_027e8e52f36304eb DURATION_MS=43800\nSEGMENT 1 (playback order)\nEP17:E34 0-2500 CAMERA: Medium close-up showing Alexander gazing down at her, his expression softening with unspoken affection as he gently takes hold of her wrist.\nEP17:E35 0-1300 ALEXANDER: \"So were you.\"\nEP17:E36 2500-5500 CAMERA: Close-up of Juliana looking up into his eyes, a faint, tender smile gracing her lips.\nEP17:E37 3000-5500 JULIANA: \"You make it very difficult to argue with you.\"\nEP17:E38 5500-8000 CAMERA: Close-up of Alexander ducking his chin, a subtle, bashful smile fleetingly touching his scarred face.\nEP17:E39 7500-10000 ACTION: Juliana returns the damp cloth to the ceramic basin, her expression turning somber and reflective.\nEP17:E40 8000-12500 CAMERA: Medium close-up of Juliana looking up at him, her vulnerability resurfacing in the warm amber glow.\nEP17:E41 10500-12000 JULIANA: \"I was frightened.\"\nEP17:E42 12500-14500 CAMERA: Close-up of Alexander, his brow furrowing with sudden concern.\nEP17:E43 12800-13800 ALEXANDER: \"Of them?\"\nEP17:E44 14500-17500 CAMERA: Close-up of Juliana gazing directly into his eyes, her heart laid bare.\nEP17:E45 14800-16200 JULIANA: \"Of losing you.\"\nEP17:E46 17500-20000 CAMERA: Close-up of Alexander visibly moved, his gaze softening with profound emotion.\nEP17:E47 20000-27500 CAMERA: Medium shot as Alexander stands and pulls Juliana gently to her feet against his broad chest.\nEP17:E48 20000-27500 ACTION: Juliana rests her cheek against Alexander's chest, closing her eyes as his strong arms wrap around her shoulders, holding her safe against his frame.\nEP17:E49 27500-32000 CAMERA: Close-up on their faces nestled together in the firelight, Alexander resting his bearded chin against her hair.\nEP17:E50 31000-35000 ACTION: Juliana nestles deeper into his coat, listening intently to the rapid thudding beneath his chest.\nEP17:E51 32500-34000 JULIANA: \"Your heart is racing.\"\nEP17:E52 34500-37500 CAMERA: Close-up of Alexander tilting his head down toward her, a tender smile breaking through his rugged beard.\nEP17:E53 35200-36500 ALEXANDER: \"So is yours.\"\nEP17:E54 37500-41500 CAMERA: Medium shot framing the couple embraced in front of the roaring, glowing fireplace.\nEP17:E55 40500-43800 ACTION: Juliana slowly raises her hand, gently twirling a lock of Alexander's long, unruly dark hair between her fingers.\nEP17:E56 41500-43800 CAMERA: Close-up of her delicate fingers running through his thick strands of hair.\nEP17:E57 42000-43800 JULIANA: \"This is becoming impossible.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "complete",
+  "output": {
+    "candidate_id": "c_027e8e52f36304eb",
+    "hook": {
+      "score_0_10": 5.0,
+      "evidence_refs": [
+        "EP17:E34",
+        "EP17:E35",
+        "EP17:E55",
+        "EP17:E57"
+      ],
+      "reason": "The opening (E34, E35) shows a tender gesture and a short reply, which draws attention but does not state a stakes question. The final stretch (E55, E57) ends on a playful line that gives a light pull, but the clip gives a new viewer little reason to keep watching beyond the affection on screen."
+    },
+    "cliffhanger": {
+      "score_0_10": 2.0,
+      "evidence_refs": [
+        "EP17:E57"
+      ],
+      "reason": "The ending line 'This is becoming impossible' is ambiguous but comes after an affectionate, resolved beat and does not set up a pending event or danger. The emotional exchange closes on comfort, so the ending reads as resolved rather than suspended.",
+      "unresolved_at_end": false
+    },
+    "standalone": {
+      "score_0_10": 3.0,
+      "missing_context": [
+        "Identity and relationship history of Alexander and Juliana",
+        "Referent of 'So were you' (E35) since the preceding line is absent",
+        "Referent of 'Of them?' (E43) and who 'them' are",
+        "Cause of Juliana's fear and the earlier stakes implied by losing him",
+        "Meaning of 'This is becoming impossible' (E57)",
+        "Setting and why the fireplace scene matters beyond the couple's embrace"
+      ]
+    },
+    "emotion": {
+      "score_0_10": 7.0,
+      "reason": "The exchange moves from tenderness (E36, E38) to vulnerability ('I was frightened', E41; 'Of losing you', E45) and then to a warm, shared embrace (E48, E50-E53). The emotional arc is clear and sincere for a viewer, even without context."
+    },
+    "weaknesses": [
+      "Opening lines lack prior context, so the 'So were you' reply lands without a referent",
+      "The concern about 'them' (E43) is raised and never clarified within the clip",
+      "The ending is affectionate and resolved, offering no forward pull",
+      "Several close-up and camera-description beats are repetitive, slowing pacing",
+      "No information about who the characters are or what is at stake"
+    ],
+    "one_line_why_it_works": "The clip builds a sincere emotional exchange from tender teasing to vulnerable confession and a warm physical embrace, which a viewer can feel without knowing the backstory."
+  }
+}

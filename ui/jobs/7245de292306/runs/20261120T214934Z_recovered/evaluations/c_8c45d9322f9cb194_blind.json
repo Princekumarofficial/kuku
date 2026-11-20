@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c_8c45d9322f9cb194",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP14:E35",
+      "EP14:E47"
+    ],
+    "reason": "The opening shows intimate care of wounds, which raises curiosity, but the first three seconds have no spoken stakes. The clip's final line about no one hurting her again is the strongest emotional beat, though it lands late and depends on context the viewer lacks."
+  },
+  "cliffhanger": {
+    "score_0_10": 2.0,
+    "evidence_refs": [
+      "EP14:E46",
+      "EP14:E47"
+    ],
+    "reason": "The clip closes on an affectionate embrace and a reassuring promise, which reads as a resolved emotional moment rather than an open question. No event is set up to continue beyond the final frame.",
+    "unresolved_at_end": false
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Juliana and Alexander are and how they relate",
+      "Why Juliana is wounded and what injury caused the lacerations",
+      "What 'taken my place' and 'protecting me' refer to",
+      "What happened before the clip that makes Alexander's apology meaningful",
+      "Why Juliana is exhausted and what the stakes were"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Tearful remorse, reassurance, and a tender embrace create a clear warm and protective emotional tone that a viewer can feel without knowing the backstory."
+  },
+  "weaknesses": [
+    "Relies on unexplained prior events, so the stakes of the wounds and the 'taking my place' dialogue are unclear",
+    "No visible threat or conflict in the clip itself to drive tension",
+    "The ending is gentle and resolved, offering no forward pull",
+    "The hook opens on a quiet, low-information close-up rather than an immediate question or conflict"
+  ],
+  "one_line_why_it_works": "Tender physical care and reassuring dialogue convey a clear emotional bond of remorse and protection, even though the backstory is missing."
+}

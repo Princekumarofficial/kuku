@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c_6303b16c81b3d238",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP46:E54",
+      "EP46:E58"
+    ],
+    "reason": "The opening shows a High Priest waving a letter before a congregation, and the first spoken line (E58) immediately sets a legal dispute over a Duke's marriage. A first-time viewer is pulled in by the confrontation, though the stakes are only partly explained."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP46:E64",
+      "EP46:E71"
+    ],
+    "reason": "The guards lower their weapons (E70), so the immediate danger ends, but the High Priest's closing line sets a ten-day deadline and a threat of losing the marriage (E64, E71). The outcome of that deadline stays open at the clip's end.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Catherine, Juliana, and the elderly woman are and how they relate to Alexander",
+      "What the letter says and why the High Priest's seal matters",
+      "What the Crown's peerage court is and what marriage is being disputed",
+      "Why the council's ruling and the ten-day wager matter to Alexander",
+      "Why the bailiffs or guards were sent and who gave the order"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The clip builds tension through a face-to-face standoff, halberds pointed at the Duke, a stern wager, and a threatening closing line. The emotional stakes for Catherine and Juliana are implied rather than fully shown."
+  },
+  "weaknesses": [
+    "Key relationships and backstory are not established, so the stakes depend on unexplained references such as 'lose her twice' and 'in my own chapel'",
+    "The letter in the opening is shown but its content is never revealed",
+    "The guards' sudden compliance after the High Priest's command is abrupt and not fully motivated",
+    "Catherine's reaction is shown only briefly, weakening the emotional payoff for a new viewer"
+  ],
+  "one_line_why_it_works": "A tense legal and physical standoff at the altar ends on a ticking ten-day threat that a first-time viewer is left wanting to see resolved."
+}

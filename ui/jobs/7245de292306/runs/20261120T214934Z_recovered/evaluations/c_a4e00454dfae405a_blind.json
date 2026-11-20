@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c_a4e00454dfae405a",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP10:E3",
+      "EP10:E5",
+      "EP10:E4"
+    ],
+    "reason": "The door banging open at 2100-3300ms and Alexander framed in the threshold with a blood-soaked chest at 2600-4200ms create immediate tension within the opening seconds."
+  },
+  "cliffhanger": {
+    "score_0_10": 3.0,
+    "evidence_refs": [
+      "EP10:E24",
+      "EP10:E23"
+    ],
+    "reason": "The clip ends mid-confrontation with Juliana demanding he remove his shirt and Alexander's wound still unseen, so the stakes are open, but the stalemate is a minor pause rather than a major unresolved threat.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Who Alexander is and his relationship to Juliana",
+      "Why Alexander is bleeding and the severity of the wound",
+      "What the tenant fields reference means",
+      "Why the cottage scene matters to any larger plot"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 6.0,
+    "reason": "Shock, terror, and then stubborn defiance between the two characters convey strong emotional tension, though the viewer lacks the background to feel deeply invested."
+  },
+  "weaknesses": [
+    "Alexander's identity and relationship to Juliana are never established",
+    "Stakes of the injury are ambiguous since he claims it is a scratch while visibly bleeding",
+    "The ending is a tense pause rather than a strong cliffhanger",
+    "Dialogue alone does not explain why the confrontation matters"
+  ],
+  "one_line_why_it_works": "A sudden bloody entrance followed by a defiant standoff over an injury creates immediate curiosity about the wound and the relationship between the two characters."
+}

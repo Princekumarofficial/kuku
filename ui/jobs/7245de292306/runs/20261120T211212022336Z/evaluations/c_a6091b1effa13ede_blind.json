@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_a6091b1effa13ede",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP17:E20",
+      "EP17:E21",
+      "EP17:E23"
+    ],
+    "reason": "Opens within 0-3000ms with a dramatic vow line and a tracking shot toward Juliana, which creates immediate tension. The emotional pull is strong but depends on the unexplained threat behind the vow."
+  },
+  "cliffhanger": {
+    "score_0_10": 4.0,
+    "evidence_refs": [
+      "EP17:E43",
+      "EP17:E45"
+    ],
+    "reason": "The clip ends on a confession, 'Of losing you.', which resolves the emotional beat. The reference to 'them' in 'Of them?' is never explained, so a thread stays open, but the ending is not a plot cliffhanger.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Identity and nature of the threat referred to as 'them'",
+      "Why Juliana's hands are bandaged and what caused the injuries",
+      "Meaning of 'no one will hurt you again' and what happened before this scene",
+      "Why Alexander's knuckles are wounded and what happened 'last night'",
+      "Setting and relationship between the characters"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Intimate close-ups, trembling hands, tears, and the slow confession 'Of losing you' build real emotional intensity and vulnerability even without prior context."
+  },
+  "weaknesses": [
+    "Lacks any established stakes, so the vow and fear feel generic to a first-time viewer",
+    "The 'them' thread is raised but not explained, which may frustrate rather than hook",
+    "Several beats are visually and emotionally slow (washing a cut, returning a cloth), diluting pacing",
+    "Dialogue references events ('last night', 'them') that a first-time viewer cannot place"
+  ],
+  "one_line_why_it_works": "Intense, intimate close-ups and a vulnerable final confession create strong emotional tension that invites viewers to wonder what threatens these characters."
+}

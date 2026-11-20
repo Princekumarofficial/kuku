@@ -1,0 +1,44 @@
+{
+  "candidate_id": "c_5fd693cb18637eea",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP22:E57",
+      "EP22:E58",
+      "EP22:E60",
+      "EP22:E80"
+    ],
+    "reason": "Opens within 0-3000ms with Juliana's awed line and a dramatic portrait push-in, then Prudence's urgent whisper suggests secrecy. The final-3000ms evidence (E80) shows the Duchess choking with a poison realization, which creates a strong question, though the opening itself is not a direct hook."
+  },
+  "cliffhanger": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP22:E79",
+      "EP22:E80"
+    ],
+    "reason": "The clip ends mid-crisis: the Duchess is choking and Juliana's question 'Who has been treating you?' goes unanswered, with abrupt suspenseful music. Nothing resolves within the clip, so it counts as unresolved rather than merely intense.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Identity and relationship of Lady Juliana, Prudence, and the Dowager Duchess",
+      "Who the Duke and Duchess in the portrait are and why the gallery matters",
+      "Why the secluded West Wing and locked bedchamber are secret",
+      "Purpose of the wooden bucket Juliana sets down",
+      "Who the suspected treating person is and why poison is suspected",
+      "Basis for the poison conclusion beyond the camera description"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Tension builds through whispering, a trembling hand, a muffled lock click, labored breathing, and a sudden convulsion, ending on a terrified close-up. Emotional stakes are clear even without backstory."
+  },
+  "weaknesses": [
+    "Early context is thin; a first-time viewer cannot tell who the characters are or what the stakes are beyond the crisis",
+    "Poison is asserted through camera and action description rather than clearly grounded in dialogue",
+    "The wooden bucket and the 'herbalist instincts' detail are introduced without explanation",
+    "Slow setup through the gallery and corridor delays the central conflict for roughly the first 14 seconds"
+  ],
+  "one_line_why_it_works": "A tense, escalating medical-mystery sequence ends on an unanswered question while a dying woman chokes, which makes viewers want to know who is poisoning her."
+}

@@ -1,0 +1,257 @@
+{
+  "episode_id": "ep_032",
+  "summary": "Episode 32 (SHA256 e35aeb60acdaeebbbee43d680bf3c910d1b48a08c7c141a727cc0b8649b15b53, timestamps in integer milliseconds) is analyzed from one scene, sc_001, covering on-screen events EP32:E1 to EP32:E117. Juliana is chained in a dungeon cell while Catherine burns or threatens her mother's botanical ledger and finally holds a branding iron near Juliana's right eye, ending on a cliffhanger. Uncertainty: the extent of the book's destruction is not clearly shown, and the final frame does not show whether the iron touches her. Gerald, Clarissa, the husband Juliana names, and her mother are referenced in dialogue but never appear on screen, so their roles are inferred from speech only. The logline and continuity note in the metadata (including the Episode 31 cliffhanger) are not on-screen evidence and are not used for any beat or revelation; the continuity note is unverified here. Revelations describe claims made by characters, not confirmed facts.",
+  "characters": [
+    {
+      "name": "Juliana",
+      "role": "Captive protagonist, chained in the dungeon; defiant and articulate; mother taught her herbal knowledge per her own words"
+    },
+    {
+      "name": "Catherine",
+      "role": "Antagonist and captor; wields the branding iron and poker; furious and cruel toward Juliana"
+    },
+    {
+      "name": "Gerald",
+      "role": "Referenced only (not on screen); Juliana's former husband who left her according to her account"
+    },
+    {
+      "name": "Clarissa",
+      "role": "Referenced only (not on screen); named by Juliana in connection with Gerald"
+    },
+    {
+      "name": "Juliana's husband (unnamed)",
+      "role": "Referenced only (not on screen); Juliana calls him her husband, Catherine calls him a soldier and a nobody"
+    },
+    {
+      "name": "Juliana's mother",
+      "role": "Referenced only (not on screen); taught Juliana herbal knowledge; her ledger is being burned"
+    },
+    {
+      "name": "Guards",
+      "role": "Unnamed; stationed at the iron doorway and standing behind Catherine on screen"
+    }
+  ],
+  "beats": [
+    {
+      "id": "B1",
+      "kind": "inciting_escalation",
+      "event_refs": [
+        "EP32:E1",
+        "EP32:E2",
+        "EP32:E3"
+      ],
+      "description": "Catherine holds a glowing branding tip against the open botanical ledger, which sizzles while Juliana weeps.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "B2",
+      "kind": "threat",
+      "event_refs": [
+        "EP32:E8",
+        "EP32:E10",
+        "EP32:E13",
+        "EP32:E14"
+      ],
+      "description": "Catherine taunts Juliana about her brave face and says Juliana must say goodbye to her mother as she swings the flaming iron upward.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "B3",
+      "kind": "turning_point",
+      "event_refs": [
+        "EP32:E15",
+        "EP32:E16",
+        "EP32:E17",
+        "EP32:E18"
+      ],
+      "description": "Juliana's despair turns to cold resolve; she looks up at Catherine and defiantly orders her to burn it.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "B4",
+      "kind": "reversal",
+      "event_refs": [
+        "EP32:E19",
+        "EP32:E20",
+        "EP32:E22",
+        "EP32:E24",
+        "EP32:E27"
+      ],
+      "description": "Catherine is startled by the defiance; Juliana orders the whole ledger burned and declares that her mother's teachings cannot be destroyed.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "B5",
+      "kind": "verbal_confrontation",
+      "event_refs": [
+        "EP32:E29",
+        "EP32:E31",
+        "EP32:E34",
+        "EP32:E36"
+      ],
+      "description": "Catherine accuses Juliana of thinking herself better; Juliana calmly replies that Catherine's cruelty does that for her and says she knows what she is.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "B6",
+      "kind": "disclosure",
+      "event_refs": [
+        "EP32:E40",
+        "EP32:E42",
+        "EP32:E44",
+        "EP32:E46",
+        "EP32:E48"
+      ],
+      "description": "Catherine calls Juliana a disgraced woman; Juliana says she survived and speaks of Gerald leaving her and his measure of women by wealth and name.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "B7",
+      "kind": "reversal",
+      "event_refs": [
+        "EP32:E51",
+        "EP32:E53",
+        "EP32:E55",
+        "EP32:E57"
+      ],
+      "description": "Juliana says Gerald can have Clarissa and that he lost her; Catherine screams that she was rejected, and Juliana replies that she was freed and found a man who never asked her worth.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "B8",
+      "kind": "disclosure",
+      "event_refs": [
+        "EP32:E60",
+        "EP32:E62",
+        "EP32:E64",
+        "EP32:E66",
+        "EP32:E68"
+      ],
+      "description": "Catherine dismisses Juliana's soldier; Juliana names him her husband and says he showed her more love than Catherine's world did.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "B9",
+      "kind": "confrontation",
+      "event_refs": [
+        "EP32:E70",
+        "EP32:E72",
+        "EP32:E74",
+        "EP32:E77",
+        "EP32:E79",
+        "EP32:E81",
+        "EP32:E84"
+      ],
+      "description": "Catherine says Juliana knows nothing of her world; Juliana lists beauty, money, family and a perfect name, and says Catherine's world values people who never embarrass those beside them.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "B10",
+      "kind": "breaking_point",
+      "event_refs": [
+        "EP32:E86",
+        "EP32:E89",
+        "EP32:E90",
+        "EP32:E91",
+        "EP32:E93",
+        "EP32:E95"
+      ],
+      "description": "Juliana says Catherine has never learned to make anyone love her; Catherine snaps, raises the poker and screams for silence, and Juliana declares she is right.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "B11",
+      "kind": "climax_and_cliffhanger",
+      "event_refs": [
+        "EP32:E97",
+        "EP32:E101",
+        "EP32:E103",
+        "EP32:E109",
+        "EP32:E111",
+        "EP32:E112",
+        "EP32:E114",
+        "EP32:E115",
+        "EP32:E116",
+        "EP32:E117"
+      ],
+      "description": "Juliana mocks Catherine's need to threaten a chained woman; Catherine raises the iron, vows to see how brave Juliana is when it touches her skin, and thrusts it to a stop millimeters from Juliana's right eye as the frame cuts to black.",
+      "intensity_0_10": 10.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "R1",
+      "event_refs": [
+        "EP32:E44",
+        "EP32:E46",
+        "EP32:E51",
+        "EP32:E53"
+      ],
+      "claim": "Juliana states that Gerald left her and that this was the best thing he ever did for her; she says he wanted a wife who would bring wealth and family name, and that he lost her (Juliana's assertion, unverified on screen).",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "What exactly happened between Juliana and Gerald, and why did he leave?",
+        "Is Clarissa connected to Gerald's departure?"
+      ]
+    },
+    {
+      "id": "R2",
+      "event_refs": [
+        "EP32:E60",
+        "EP32:E62",
+        "EP32:E64",
+        "EP32:E66"
+      ],
+      "claim": "Juliana says she has a husband whom she loves; Catherine dismisses him as a soldier and a nobody (claims only, the husband is not shown).",
+      "spoiler_significance_0_10": 7.0,
+      "creates_questions": [
+        "Who is Juliana's husband and what is his relationship to Catherine's world?",
+        "How will Catherine react to Juliana's remarriage?"
+      ]
+    },
+    {
+      "id": "R3",
+      "event_refs": [
+        "EP32:E27",
+        "EP32:E29"
+      ],
+      "claim": "Juliana says her mother taught her herbal knowledge that cannot be destroyed, and Catherine calls this knowledge a few herbs.",
+      "spoiler_significance_0_10": 4.0,
+      "creates_questions": [
+        "What knowledge did Juliana's mother pass on, and how much of the ledger survives?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "Will the branding iron touch Juliana's right eye, and does she survive the cliffhanger?",
+      "introduced_by": [
+        "EP32:E116",
+        "EP32:E117"
+      ]
+    },
+    {
+      "question": "Who is Juliana's husband, and is he the soldier Catherine mocks?",
+      "introduced_by": [
+        "EP32:E60",
+        "EP32:E62",
+        "EP32:E64"
+      ]
+    },
+    {
+      "question": "How much of the botanical ledger is destroyed, and what remains of the mother's teachings?",
+      "introduced_by": [
+        "EP32:E1",
+        "EP32:E2",
+        "EP32:E22"
+      ]
+    },
+    {
+      "question": "What happened between Juliana and Gerald, and who is Clarissa?",
+      "introduced_by": [
+        "EP32:E44",
+        "EP32:E51"
+      ]
+    }
+  ]
+}

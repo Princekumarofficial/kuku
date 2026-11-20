@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_d0ce6f11cf86ed8a",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP47:E1",
+      "EP47:E3",
+      "EP47:E2"
+    ],
+    "reason": "The opening starts within 0-3000ms on a candle and dark window, then at 1800ms Catherine's line that Rupert is rotting in the undercroft cells and that she intends to stay on the estate gives an immediate, intriguing claim with menace."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP47:E13",
+      "EP47:E14"
+    ],
+    "reason": "In the final 3000ms Juliana asks what happens if they strip Alexander's title because of her, and the clip ends on that unanswered question. The stakes are left open, though the question is emotional rather than a clear plot event, so the cliffhanger is moderate.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Identity and role of Rupert and why he is in the undercroft cells",
+      "Who Alexander, Juliana, and Father Thomas are and how they relate to Catherine",
+      "Meaning of the High Council, the marriage registry, and the threat to Alexander's title",
+      "Who the conspirator is and what Catherine's plan involves",
+      "Why Catherine must remain inside the walls and what 'the rest' refers to"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 6.0,
+    "reason": "Catherine's cold determination and the conspirator's scheming create tension, and Juliana's tearful guilt in the closing seconds adds a clear emotional beat, though the viewer has no personal investment in these characters yet."
+  },
+  "weaknesses": [
+    "Characters and stakes are introduced without enough context for a first-time viewer",
+    "Rupert, Alexander, Juliana, and the conspirator are not identified, so the conflict is hard to follow",
+    "The ending is an emotional question rather than a concrete plot cliffhanger",
+    "Dialogue alternates between conspiracy and romance without a clear throughline",
+    "The conspirator's identity and motive are unexplained"
+  ],
+  "one_line_why_it_works": "A sinister opening line about a imprisoned man and a plotting wife builds intrigue, and the clip closes on Juliana's tearful question about the cost to Alexander, which leaves the stakes open."
+}

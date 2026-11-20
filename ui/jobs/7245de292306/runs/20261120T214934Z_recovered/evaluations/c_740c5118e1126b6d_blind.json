@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_740c5118e1126b6d",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP50:E10",
+      "EP50:E11",
+      "EP50:E17"
+    ],
+    "reason": "The opening line \"Name your price.\" within the first 3000ms creates an immediate transactional tension, and the closing line echoes it, so the hook is clear but the stakes are only partly explained for a first-time viewer."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP50:E16",
+      "EP50:E17"
+    ],
+    "reason": "The clip ends with Thomas's offer standing and Catherine's response not shown, so the negotiation is left open; the cliffhanger is moderate because the clip gives no indication of what happens next.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Who Catherine and Father Thomas are to each other and why they are in bed together",
+      "What \"absolution\" refers to and what Catherine needs forgiven",
+      "What the west territory is and why tax collection through his office matters",
+      "Why discretion is being bought and what it protects",
+      "Whether Catherine accepts or rejects the offer"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 6.0,
+    "reason": "Catherine's disbelief at \"That's a fortune\" and Thomas's resolute tone create visible tension and moral friction between the two characters."
+  },
+  "weaknesses": [
+    "Key terms such as absolution, discretion and the west territory are unexplained for a viewer who knows only this clip",
+    "The power dynamic and motivations behind the bargain are not established",
+    "The ending lacks a decisive moment, so the tension may read as a pause rather than a hook",
+    "The intimate setting is used without clarifying the relationship, which may confuse the viewer"
+  ],
+  "one_line_why_it_works": "A tense bedside bargain escalates from \"Name your price\" to a resolute counteroffer, leaving the viewer curious about what Thomas is really buying and whether Catherine will accept."
+}

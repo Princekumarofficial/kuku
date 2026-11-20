@@ -1,0 +1,203 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_8482e1a66953db13 DURATION_MS=34000\nSEGMENT 1 (playback order)\nEP14:E30 0-500 SOUND: Crackling flames and wood popping in the open fireplace.\nEP14:E31 0-3500 CAMERA: Intimate over-the-shoulder close-up looking up into Juliana's face from Alexander's perspective.\nEP14:E32 200-2800 ALEXANDER: \"You could have lost your hands.\"\nEP14:E33 3500-8500 CAMERA: Extreme close-up on Juliana's glistening eyes and trembling lips, firelight reflecting softly across her face.\nEP14:E34 4800-7000 JULIANA: \"But I didn't lose you.\"\nEP14:E35 8500-11500 CAMERA: Close-up on Alexander's scarred, weathered fingers wrapping the cloth tightly yet gently around her lacerations.\nEP14:E37 11500-13000 ALEXANDER: \"I'm sorry.\"\nEP14:E36 11500-13500 CAMERA: Close-up on Alexander looking up at her with profound remorse and affection.\nEP14:E39 13500-15500 JULIANA: \"You didn't hurt me.\"\nEP14:E38 13500-16500 CAMERA: Close-up on Juliana smiling faintly through her tears, shaking her head.\nEP14:E40 16500-19000 CAMERA: Side profile close-up of Alexander lowering his head solemnly in front of her.\nEP14:E42 19000-20400 JULIANA: \"You have taken my place today.\"\nEP14:E41 19000-23500 CAMERA: Medium two-shot as Alexander gently drapes a heavy warm woolen blanket across Juliana's lap and around her shoulders.\nEP14:E43 20500-22800 JULIANA: \"And you are doing it better than me.\"\nEP14:E44 23500-29000 CAMERA: Medium shot as Juliana rests her cheek against Alexander's chest; he embraces her tightly against him, cradling her head under his chin.\nEP14:E45 24000-29000 ACTION: Juliana closes her eyes in exhausted relief, sinking into Alexander's warmth as his broad arm encloses her safely.\nEP14:E46 29000-34000 CAMERA: Tight close-up of Alexander holding Juliana against his bearded cheek, kissing the crown of her head before gently cradling her jaw in his scarred hand.\nEP14:E47 29500-34000 ALEXANDER: \"No one will ever hurt you for protecting me again.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "complete",
+  "output": {
+    "candidate_id": "c_8482e1a66953db13",
+    "hook": {
+      "score_0_10": 6.0,
+      "evidence_refs": [
+        "EP14:E30",
+        "EP14:E31",
+        "EP14:E32",
+        "EP14:E47"
+      ],
+      "reason": "The opening within 0-3000ms pairs crackling fire with an intimate close-up and the line \"You could have lost your hands,\" which raises immediate stakes. The final-window line \"No one will ever hurt you for protecting me again\" (29500-34000) closes the clip without a new hook, so the hook is moderate."
+    },
+    "cliffhanger": {
+      "score_0_10": 1.0,
+      "evidence_refs": [
+        "EP14:E47"
+      ],
+      "reason": "The clip ends on a reassuring line of safety and an embrace (E46-E47), so the tension is resolved rather than left open.",
+      "unresolved_at_end": false
+    },
+    "standalone": {
+      "score_0_10": 3.0,
+      "missing_context": [
+        "Who Juliana and Alexander are and their relationship",
+        "Why Juliana's hands were at risk and what caused her lacerations",
+        "What \"You have taken my place today\" refers to",
+        "What Alexander was protecting Juliana from, and who might hurt her",
+        "The events that led to the apology and the exchange about protecting"
+      ]
+    },
+    "emotion": {
+      "score_0_10": 8.0,
+      "reason": "Tears, trembling lips, the remorseful apology, a gentle bandaging, and an embrace with a kiss on the head produce strong tenderness and relief, though the emotion rests on unexplained stakes."
+    },
+    "weaknesses": [
+      "Stakes for the injury are never established, so the opening line lacks grounding for a first-time viewer",
+      "The dialogue references 'taking my place' and 'protecting' without explanation",
+      "The ending is a resolved, reassuring moment and offers no unresolved tension",
+      "The clip relies on visual intimacy more than on self-contained narrative clarity"
+    ],
+    "one_line_why_it_works": "Strong close-ups, firelight, and a tender bandaging-and-embrace sequence create an emotional, intimate moment that stands on its visual warmth even without context."
+  }
+}

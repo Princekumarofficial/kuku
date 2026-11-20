@@ -1,0 +1,71 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "ep006_opp_01",
+      "episode_id": "ep_006",
+      "concept": "Clip from the rain-soaked walk: the man admits she did not come from this life, and she answers with resigned composure, ending on her defiant vow that no one there will humiliate her.",
+      "hook_refs": [
+        "EP06:E9"
+      ],
+      "ending_refs": [
+        "EP06:E29"
+      ],
+      "context_refs": [
+        "EP06:E15",
+        "EP06:E18"
+      ],
+      "why_promising": "The hook opens on an emotionally loaded line within 3 seconds, the clip runs about 26 seconds, and the ending leaves the humiliation unexplained."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep006_opp_02",
+      "episode_id": "ep_006",
+      "concept": "Clip from the cabin threshold: the man apologizes and says this is all he can give her, then Juliana admits she is disappointed but not because of him, and scrubs the table while her voice breaks.",
+      "hook_refs": [
+        "EP06:E40"
+      ],
+      "ending_refs": [
+        "EP06:E63"
+      ],
+      "context_refs": [
+        "EP06:E41",
+        "EP06:E58"
+      ],
+      "why_promising": "The hook is a direct, provocative line about her former comfort, and the ending is an unresolved line about everything she lost, about 30 seconds apart."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep006_opp_03",
+      "episode_id": "ep_006",
+      "concept": "Clip from the hearth: Juliana's voice breaks as she scrubs the table, then she reflects by the fire on losing her home and family, ending on the unresolved line 'And yet...'.",
+      "hook_refs": [
+        "EP06:E63"
+      ],
+      "ending_refs": [
+        "EP06:E92"
+      ],
+      "context_refs": [
+        "EP06:E86",
+        "EP06:E87"
+      ],
+      "why_promising": "The hook states raw loss within 3 seconds, and the ending is an open-ended cliffhanger that makes viewers want the rest of her reflection."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep006_opp_04",
+      "episode_id": "ep_006",
+      "concept": "Clip from the approach to the cottage: Juliana says the day was already ruined, then the cottage appears and she asks if that is it, ending on the man admitting this is all he can give her.",
+      "hook_refs": [
+        "EP06:E18"
+      ],
+      "ending_refs": [
+        "EP06:E41"
+      ],
+      "context_refs": [
+        "EP06:E40"
+      ],
+      "why_promising": "The hook is a wry, unexplained remark about a ruined day, and the ending is a pointed admission that leaves her circumstances open."
+    }
+  ]
+}

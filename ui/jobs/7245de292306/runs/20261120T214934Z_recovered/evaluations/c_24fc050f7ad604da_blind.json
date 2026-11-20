@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_24fc050f7ad604da",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP31:E22",
+      "EP31:E23"
+    ],
+    "reason": "The opening within 0-3000ms establishes immediate confrontation and a defiant, provocative line from Juliana. The stakes are clear even without context, though the visual of chained feet only appears later."
+  },
+  "cliffhanger": {
+    "score_0_10": 3.0,
+    "evidence_refs": [
+      "EP31:E55",
+      "EP31:E56"
+    ],
+    "reason": "The clip ends on a closed, self-contained verbal exchange where Juliana gets the last word. The iron poker threat is left hanging, but no new event or question is introduced, so the ending reads as a resolved exchange rather than a cliffhanger.",
+    "unresolved_at_end": false
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Gerald and Clarisse/Clarissa are and what the altar incident was",
+      "Inconsistent naming of Clarisse and Clarissa",
+      "Why Juliana is chained in a dungeon with iron manacles",
+      "Relationship between Juliana and Catherine",
+      "Meaning of the insults beggar and scarred nobody",
+      "Whether the red-hot iron will be used"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The scene carries strong tension through humiliation, defiance and dignity, with Juliana's composure contrasting with Catherine's cruelty and the threatening heated iron."
+  },
+  "weaknesses": [
+    "Key backstory (Gerald, altar, Clarisse) is referenced without any setup, so a first-time viewer cannot follow the stakes.",
+    "Clarisse and Clarissa appear as spellings of the same name, which is confusing.",
+    "The dungeon, chains and poker threat are shown without explanation of who holds power or why.",
+    "The ending is a verbal exchange rather than a suspenseful hook, so the cliffhanger is weak.",
+    "Much of the clip is extended dialogue between two characters with limited visual variation."
+  ],
+  "one_line_why_it_works": "Juliana's composed, defiant retorts against Catherine's cruelty create a strong emotional confrontation that stands on its own through its tension and final sharp exchange."
+}

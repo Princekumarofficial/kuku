@@ -1,0 +1,206 @@
+{
+  "episode_id": "ep_030",
+  "summary": "Episode 30 (EP30) per on-screen events E1-E71: an unnamed Elder Nobleman confronts Rupert about a prisoner in his cellar, then he, Rupert and Catherine plan to manufacture a witchcraft charge and a magistrate hearing for the next day. The episode closes on Juliana chained in the subterranean wet cells. Uncertainties: the Elder Nobleman is never named on screen; Juliana is not named in the confrontation, which refers only to 'the Ashcroft girl' (E9), so linking her to Juliana is an inference from the closing scene (E70) and the plan's target (E61-E67). The Duchess's poisoning and the Dowager's status are asserted only in dialogue and remain unverified. The supplied logline and continuity notes are metadata and were not used as evidence; they describe unseen events.",
+  "characters": [
+    {
+      "name": "Elder Nobleman",
+      "role": "Unnamed elder nobleman who devises the plan to frame the prisoner with witchcraft and drives the conspiracy"
+    },
+    {
+      "name": "Rupert",
+      "role": "Household figure who keeps the prisoner hidden in the cellar and agrees to write the arrest warrant"
+    },
+    {
+      "name": "Catherine",
+      "role": "Noblewoman who approves the plan and gleefully anticipates Juliana's execution"
+    },
+    {
+      "name": "Juliana",
+      "role": "Prisoner shown chained in the subterranean wet cells at episode end; identity linked to 'the Ashcroft girl' by inference"
+    }
+  ],
+  "beats": [
+    {
+      "id": "B1",
+      "kind": "confrontation",
+      "event_refs": [
+        "EP30:E1",
+        "EP30:E2",
+        "EP30:E3",
+        "EP30:E4",
+        "EP30:E5",
+        "EP30:E6",
+        "EP30:E7",
+        "EP30:E8",
+        "EP30:E9",
+        "EP30:E10",
+        "EP30:E11",
+        "EP30:E12",
+        "EP30:E13",
+        "EP30:E14",
+        "EP30:E15",
+        "EP30:E16",
+        "EP30:E17",
+        "EP30:E18",
+        "EP30:E19",
+        "EP30:E20",
+        "EP30:E21",
+        "EP30:E22",
+        "EP30:E23"
+      ],
+      "description": "The Elder Nobleman confronts Rupert in the corridor about a hidden prisoner that servants suspect, pins him with his cane, and announces they will stop hiding the prisoner.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "B2",
+      "kind": "conspiracy_plan",
+      "event_refs": [
+        "EP30:E24",
+        "EP30:E25",
+        "EP30:E26",
+        "EP30:E27",
+        "EP30:E28",
+        "EP30:E29",
+        "EP30:E30",
+        "EP30:E31",
+        "EP30:E32",
+        "EP30:E33",
+        "EP30:E34",
+        "EP30:E35",
+        "EP30:E36",
+        "EP30:E37",
+        "EP30:E38",
+        "EP30:E39",
+        "EP30:E40",
+        "EP30:E41",
+        "EP30:E42",
+        "EP30:E43",
+        "EP30:E44",
+        "EP30:E45",
+        "EP30:E46",
+        "EP30:E47",
+        "EP30:E48",
+        "EP30:E49",
+        "EP30:E50",
+        "EP30:E51",
+        "EP30:E52",
+        "EP30:E53",
+        "EP30:E54",
+        "EP30:E55",
+        "EP30:E56",
+        "EP30:E57",
+        "EP30:E58",
+        "EP30:E59",
+        "EP30:E60",
+        "EP30:E61",
+        "EP30:E62",
+        "EP30:E63",
+        "EP30:E64",
+        "EP30:E65",
+        "EP30:E66",
+        "EP30:E67"
+      ],
+      "description": "In the library the three plot a witchcraft charge and a magistrate hearing for the next day, with Catherine approving and Rupert agreeing to write the warrant.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "B3",
+      "kind": "cliffhanger_image",
+      "event_refs": [
+        "EP30:E68",
+        "EP30:E69",
+        "EP30:E70",
+        "EP30:E71"
+      ],
+      "description": "The scene cuts to the flooded subterranean wet cells, where Juliana is shown chained and shivering against a wall, and the frame cuts to black.",
+      "intensity_0_10": 6.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "R1",
+      "event_refs": [
+        "EP30:E7",
+        "EP30:E9",
+        "EP30:E11",
+        "EP30:E13"
+      ],
+      "claim": "Rupert has a prisoner hidden in his cellar, described as 'the Ashcroft girl', and servants suspect her presence; the prisoner is said to know the Duchess was poisoned.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "Who is the Ashcroft girl and is she Juliana?",
+        "Who poisoned the Duchess?"
+      ]
+    },
+    {
+      "id": "R2",
+      "event_refs": [
+        "EP30:E31",
+        "EP30:E39",
+        "EP30:E43",
+        "EP30:E49",
+        "EP30:E67"
+      ],
+      "claim": "The Elder Nobleman plans to fabricate a witchcraft charge and a magistrate hearing against the prisoner, with the aim of having her executed.",
+      "spoiler_significance_0_10": 9.0,
+      "creates_questions": [
+        "Will the magistrate hearing take place as planned?",
+        "Will the prisoner be hanged?"
+      ]
+    },
+    {
+      "id": "R3",
+      "event_refs": [
+        "EP30:E55",
+        "EP30:E57"
+      ],
+      "claim": "The Dowager is dismissed as weak and confused, and the Elder Nobleman states no magistrate will trust her accusations against the household.",
+      "spoiler_significance_0_10": 5.0,
+      "creates_questions": [
+        "What accusations has the Dowager made?"
+      ]
+    },
+    {
+      "id": "R4",
+      "event_refs": [
+        "EP30:E68",
+        "EP30:E70"
+      ],
+      "claim": "The prisoner is held in the subterranean wet cells, shown chained by the wrists.",
+      "spoiler_significance_0_10": 4.0,
+      "creates_questions": [
+        "Will the prisoner escape the cells before the hearing?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "Will Juliana be brought before the magistrate tomorrow and executed?",
+      "introduced_by": [
+        "EP30:E61",
+        "EP30:E63",
+        "EP30:E67"
+      ]
+    },
+    {
+      "question": "Who poisoned the Duchess, and was the prisoner involved?",
+      "introduced_by": [
+        "EP30:E13"
+      ]
+    },
+    {
+      "question": "Is the Ashcroft girl in the cellar the same person as Juliana?",
+      "introduced_by": [
+        "EP30:E9",
+        "EP30:E70"
+      ]
+    },
+    {
+      "question": "What accusations has the Dowager made, and will they be heard?",
+      "introduced_by": [
+        "EP30:E55",
+        "EP30:E57"
+      ]
+    }
+  ]
+}

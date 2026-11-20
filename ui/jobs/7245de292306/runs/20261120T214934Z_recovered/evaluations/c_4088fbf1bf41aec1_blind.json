@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_4088fbf1bf41aec1",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP23:E27",
+      "EP23:E30",
+      "EP23:E40"
+    ],
+    "reason": "The clip opens within 0-3000ms with a close-up of Juliana stunned by written words and a direct question from Prudence at 800-2000ms, which creates immediate tension. The final reveal at 19000-21500ms, 'Someone is poisoning her,' lands within the closing window and gives a strong payoff line."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP23:E39",
+      "EP23:E40"
+    ],
+    "reason": "The clip ends on a reveal that poisoning is occurring, but the identity of the poisoner, the cause, and the consequences are all left open. Juliana's closed journal and direct stare at Prudence suggest further action, so the scene does not feel resolved.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who the Duchess is and her relationship to Juliana and Prudence",
+      "What the leather journal contains and whose handwriting the mother's written words are in",
+      "What the matching symptoms refer to and what illness is being described",
+      "Who 'her' refers to in 'Someone is poisoning her'",
+      "The setting and prior events that make the candle and bedside scene significant"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Prudence's terrified and disbelieving expressions and Juliana's certain delivery build dread and shock. The emotional stakes are clear from the reactions even without background knowledge."
+  },
+  "weaknesses": [
+    "Characters and the Duchess are introduced without any identifying context for a first-time viewer",
+    "The symptoms are listed without explanation, so the medical or dramatic stakes are hard to grasp",
+    "Juliana's reveal is strong, but the clip does not establish who the victim is beyond the pronoun 'her'",
+    "Timeline entries overlap (E31 with E32, E39 with E40), making the sequence harder to follow",
+    "Prudence's question 'What are you saying?' is answered quickly, leaving the reveal's implications under-explained"
+  ],
+  "one_line_why_it_works": "A tense, escalating scene of hushed dread builds to a sharp reveal, 'Someone is poisoning her,' that leaves the viewer wanting to know who is responsible."
+}

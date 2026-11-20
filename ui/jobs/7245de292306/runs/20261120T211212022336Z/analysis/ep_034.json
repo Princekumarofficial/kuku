@@ -1,0 +1,271 @@
+{
+  "episode_id": "ep_034",
+  "summary": "Scene sc_001 (0-190000 ms, INT. COURTROOM, DAY) shows Lady Juliana Ashcroft tried for witchcraft, unlawful healing and poisoning. The Judge questions her about a burned grimoire and her remedies; she denies possessing it as a practice of forbidden arts, admits healing the sick, and refuses to renounce. The maid Prudence testifies, first affirming she served beside the accused and then, in tears, describing herbs placed around her brother's bed and unintelligible words. The Lord pushes the ritual charge, and two spectators (a townsman and an elderly woman) claim illness after Juliana's mixtures. Juliana admits administering the remedies without a licensed physician, saying no physician would help and so she helped. The Judge offers a chance to renounce, which she refuses, and warns that refusal may be treated as proof of knowing witchcraft. The scene ends with the Judge standing to pronounce judgment on Juliana; the verdict and sentence are not heard on screen, and the clip ends on the raised hand before fading to black. Uncertainty: the source warning states incomplete coverage with unavailable gaps, so events outside sc_001 may be missing. Metadata (logline and continuity notes) is not on-screen evidence and was not used for facts; it describes coercion and a direct transition from an unseen study scene, which cannot be verified here. Testimony claims (illnesses, ritual, markings) are accusations voiced in court and are not established as fact by this scene.",
+  "characters": [
+    {
+      "name": "Lady Juliana Ashcroft",
+      "role": "Accused; defiant herbalist standing in the prisoner's dock, admits healing and administering remedies"
+    },
+    {
+      "name": "Judge",
+      "role": "Elderly presiding judge who questions witnesses and the accused and delivers judgment"
+    },
+    {
+      "name": "Prudence",
+      "role": "Young maid and key witness; gives testimony under visible distress"
+    },
+    {
+      "name": "Lord",
+      "role": "Aristocrat in the courtroom who presses the ritual and poisoning charges against Juliana"
+    },
+    {
+      "name": "Townsman",
+      "role": "Gallery witness claiming his wife became violently ill after taking Juliana's mixture"
+    },
+    {
+      "name": "Old Woman",
+      "role": "Spectator witness claiming her daughter was sick for three days after Juliana's herbal preparation"
+    }
+  ],
+  "beats": [
+    {
+      "id": "B1",
+      "kind": "charge",
+      "event_refs": [
+        "EP34:E1",
+        "EP34:E2"
+      ],
+      "description": "Establishing shot of the courtroom and the Judge reads the charges of witchcraft, unlawful healing and poisoning against Lady Juliana.",
+      "intensity_0_10": 4.0
+    },
+    {
+      "id": "B2",
+      "kind": "evidence_and_denial",
+      "event_refs": [
+        "EP34:E4",
+        "EP34:E6",
+        "EP34:E8",
+        "EP34:E10",
+        "EP34:E12"
+      ],
+      "description": "The burned grimoire is displayed; Juliana denies possessing the book and denies using its remedies.",
+      "intensity_0_10": 4.0
+    },
+    {
+      "id": "B3",
+      "kind": "admission_and_outburst",
+      "event_refs": [
+        "EP34:E15",
+        "EP34:E17",
+        "EP34:E18",
+        "EP34:E19",
+        "EP34:E20",
+        "EP34:E21"
+      ],
+      "description": "Judge presses for admission of forbidden arts; Juliana says she admitted healing the sick, and the Judge slams the gavel and orders silence.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "B4",
+      "kind": "witness_testimony",
+      "event_refs": [
+        "EP34:E22",
+        "EP34:E23",
+        "EP34:E26",
+        "EP34:E28",
+        "EP34:E30",
+        "EP34:E32",
+        "EP34:E35",
+        "EP34:E37",
+        "EP34:E39",
+        "EP34:E41",
+        "EP34:E43",
+        "EP34:E45"
+      ],
+      "description": "Prudence confirms she served beside the accused, says she witnessed treatments after Juliana says Tell the truth, then testifies about herbs around her brother's bed and unintelligible words while weeping.",
+      "intensity_0_10": 9.0
+    },
+    {
+      "id": "B5",
+      "kind": "ritual_accusation_and_protest",
+      "event_refs": [
+        "EP34:E46",
+        "EP34:E47",
+        "EP34:E48",
+        "EP34:E50",
+        "EP34:E51",
+        "EP34:E52",
+        "EP34:E53",
+        "EP34:E54"
+      ],
+      "description": "The Lord claims the witness confirmed a ritual; Juliana protests It was not a ritual and the Judge repeatedly strikes the gavel and silences her.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "B6",
+      "kind": "further_witnesses",
+      "event_refs": [
+        "EP34:E55",
+        "EP34:E56",
+        "EP34:E58",
+        "EP34:E60",
+        "EP34:E62",
+        "EP34:E63",
+        "EP34:E64",
+        "EP34:E66",
+        "EP34:E69"
+      ],
+      "description": "The Lord calls more witnesses; a townsman and an elderly woman claim illness after Juliana's mixtures, and the Lord calls it poisoning.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "B7",
+      "kind": "defiance_and_admission_of_treatment",
+      "event_refs": [
+        "EP34:E71",
+        "EP34:E73",
+        "EP34:E75",
+        "EP34:E77",
+        "EP34:E79",
+        "EP34:E81",
+        "EP34:E83",
+        "EP34:E85",
+        "EP34:E87",
+        "EP34:E89"
+      ],
+      "description": "Juliana challenges the Lord on the witnesses' illnesses, insists herbs are medicine, admits she administered them without a physician, and says she helped those no physician would treat; the Lord calls her unrepentant.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "B8",
+      "kind": "renunciation_offer_and_refusal",
+      "event_refs": [
+        "EP34:E91",
+        "EP34:E93",
+        "EP34:E94",
+        "EP34:E96",
+        "EP34:E98",
+        "EP34:E100",
+        "EP34:E102"
+      ],
+      "description": "The Judge offers Juliana a way to save herself by renouncing her practices; she refuses and says I have when told to think carefully, and accepts that refusal may be treated as proof of knowing witchcraft.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "B9",
+      "kind": "emotional_climax_and_pending_judgment",
+      "event_refs": [
+        "EP34:E103",
+        "EP34:E104",
+        "EP34:E106",
+        "EP34:E107",
+        "EP34:E108",
+        "EP34:E111",
+        "EP34:E112",
+        "EP34:E114",
+        "EP34:E116"
+      ],
+      "description": "Prudence sobs into her apron while Juliana urges the court not to fear healing; the Judge silences the room, stands, begins Lady Juliana Ashcroft and raises a hand, and the verdict is not shown before fade to black.",
+      "intensity_0_10": 9.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "R1",
+      "event_refs": [
+        "EP34:E81",
+        "EP34:E83",
+        "EP34:E85",
+        "EP34:E87"
+      ],
+      "claim": "Lady Juliana admits she administered herbal remedies to people without a licensed physician's approval, because no physician would help them.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "Was the administration of remedies to the sick legally permitted in this setting?",
+        "Who were the people she treated and what were their conditions?"
+      ]
+    },
+    {
+      "id": "R2",
+      "event_refs": [
+        "EP34:E17"
+      ],
+      "claim": "Lady Juliana states she healed the sick, which the court treats as an admission of forbidden arts.",
+      "spoiler_significance_0_10": 4.0,
+      "creates_questions": [
+        "What counts as forbidden arts under the court's charge?"
+      ]
+    },
+    {
+      "id": "R3",
+      "event_refs": [
+        "EP34:E41",
+        "EP34:E45"
+      ],
+      "claim": "Prudence testifies that Juliana placed herbs around her brother's bed and that she spoke words Prudence could not understand.",
+      "spoiler_significance_0_10": 7.0,
+      "creates_questions": [
+        "Was Prudence's testimony given freely or under pressure?",
+        "What was the brother's condition and did the herbs have any effect?"
+      ]
+    },
+    {
+      "id": "R4",
+      "event_refs": [
+        "EP34:E58",
+        "EP34:E62",
+        "EP34:E64"
+      ],
+      "claim": "A townsman's wife and an elderly woman's daughter both claim illness after taking Juliana's mixtures or preparations.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "Is there any evidence linking the illnesses to Juliana's remedies beyond these claims?",
+        "Were the witnesses coached before testifying?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "What is the verdict and sentence for Lady Juliana Ashcroft?",
+      "introduced_by": [
+        "EP34:E114",
+        "EP34:E116"
+      ]
+    },
+    {
+      "question": "Was Prudence's testimony coerced or freely given, and is her account of the brother's bed and the spoken words true?",
+      "introduced_by": [
+        "EP34:E30",
+        "EP34:E32",
+        "EP34:E41",
+        "EP34:E45"
+      ]
+    },
+    {
+      "question": "Did Juliana's remedies actually cause the illnesses claimed by the townsman and the elderly woman?",
+      "introduced_by": [
+        "EP34:E58",
+        "EP34:E62",
+        "EP34:E64",
+        "EP34:E71",
+        "EP34:E73"
+      ]
+    },
+    {
+      "question": "Is the burned grimoire connected to the remedies, and did Juliana ever possess it?",
+      "introduced_by": [
+        "EP34:E4",
+        "EP34:E6",
+        "EP34:E8"
+      ]
+    },
+    {
+      "question": "What is the Lord's relationship to the case and what is his motive for pressing the charges?",
+      "introduced_by": [
+        "EP34:E13",
+        "EP34:E46",
+        "EP34:E89"
+      ]
+    }
+  ]
+}

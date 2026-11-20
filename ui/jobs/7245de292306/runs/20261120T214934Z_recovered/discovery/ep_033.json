@@ -1,0 +1,94 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "opp_1",
+      "episode_id": "ep_033",
+      "concept": "The lord asks who saved the boy, and the maid names Lady Juliana while he pushes her to say how.",
+      "hook_refs": [
+        "EP33:E7"
+      ],
+      "ending_refs": [
+        "EP33:E40"
+      ],
+      "context_refs": [
+        "EP33:E9",
+        "EP33:E21",
+        "EP33:E25"
+      ],
+      "why_promising": "The opening hook is a direct, pressured question, and the clip builds through leading questions about Juliana to an unresolved threat against the maid's seven-year-old brother. The 59-second span stays within the coverage interval."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_2",
+      "episode_id": "ep_033",
+      "concept": "The maid insists Juliana saved her brother, and the lord answers that she will give the testimony he has written.",
+      "hook_refs": [
+        "EP33:E21"
+      ],
+      "ending_refs": [
+        "EP33:E45"
+      ],
+      "context_refs": [
+        "EP33:E23",
+        "EP33:E25",
+        "EP33:E27"
+      ],
+      "why_promising": "The clip opens on the maid's defiant line, 'I watched her save him,' and runs through the coerced admissions to the lord's cold reply, 'Then help him.' It shows the tension between her loyalty and the threat, and it ends unresolved."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_3",
+      "episode_id": "ep_033",
+      "concept": "The lord leads the maid to say Juliana drew a circle of herbs around the bed, and he pushes her to agree.",
+      "hook_refs": [
+        "EP33:E50"
+      ],
+      "ending_refs": [
+        "EP33:E79"
+      ],
+      "context_refs": [
+        "EP33:E52",
+        "EP33:E55",
+        "EP33:E56"
+      ],
+      "why_promising": "The leading question 'She drew something around the bed, did she not?' is a clear hook, and the clip escalates through the maid's reluctant agreement to the lord's declaration that this will be her testimony. The ending remains an open threat about the magistrate."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_4",
+      "episode_id": "ep_033",
+      "concept": "The lord asks whether Juliana performed anything unusual, and the maid denies it before he insists that she was chanting.",
+      "hook_refs": [
+        "EP33:E33"
+      ],
+      "ending_refs": [
+        "EP33:E66"
+      ],
+      "context_refs": [
+        "EP33:E35",
+        "EP33:E62",
+        "EP33:E64"
+      ],
+      "why_promising": "The hook is a sinister, leading question that opens a sharp exchange. The maid's denial, her insistence that Juliana was praying, and the lord's taunt 'Praying... or chanting?' create a self-contained and unresolved moment."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_5",
+      "episode_id": "ep_033",
+      "concept": "The lord declares the account witchcraft and orders the maid to repeat it before the magistrate, and she protests that Juliana saved her brother.",
+      "hook_refs": [
+        "EP33:E79"
+      ],
+      "ending_refs": [
+        "EP33:E92"
+      ],
+      "context_refs": [
+        "EP33:E83",
+        "EP33:E87",
+        "EP33:E88"
+      ],
+      "why_promising": "The hook 'That will be your testimony' is a strong opening line. The clip covers the magistrate ultimatum and the lord's claim that he has already written the story, and it ends on his demand, 'And now... you will save your brother,' which leaves the outcome unresolved."
+    }
+  ]
+}

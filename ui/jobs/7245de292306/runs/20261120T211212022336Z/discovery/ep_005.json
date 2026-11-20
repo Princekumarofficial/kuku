@@ -1,0 +1,75 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "opp_1",
+      "episode_id": "ep_005",
+      "concept": "Lord Ashcroft disowns Juliana on the cathedral steps, revoking her dowry and inheritance and declaring her dead to the family.",
+      "hook_refs": [
+        "EP05:E7"
+      ],
+      "ending_refs": [
+        "EP05:E17"
+      ],
+      "context_refs": [
+        "EP05:E9",
+        "EP05:E11"
+      ],
+      "why_promising": "The hook is a self-contained, condemnatory line that needs no prior context. The clip ends on the unresolved declaration that she is dead to the family, and Juliana's shocked reply is left pending. Clip length is about 22.1 seconds and sits within coverage 0-29000."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_2",
+      "episode_id": "ep_005",
+      "concept": "Lady Ashcroft wrenches the mother's ledger from Juliana and flings it into the rain-soaked courtyard, where Clarissa and Gerald mock her.",
+      "hook_refs": [
+        "EP05:E36"
+      ],
+      "ending_refs": [
+        "EP05:E47"
+      ],
+      "context_refs": [
+        "EP05:E35",
+        "EP05:E37",
+        "EP05:E38"
+      ],
+      "why_promising": "The hook is Clarissa's mocking line about the mother's legacy being cast into the dirt, which is clear without earlier context. The clip ends on Juliana's broken 'They destroyed it' before the Bearded Man responds, so the humiliation stays unresolved. Clip length is about 24.2 seconds and sits within coverage 49000-110500."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_3",
+      "episode_id": "ep_005",
+      "concept": "Lady Ashcroft wrenches the ledger out of Juliana's grip and throws it into the courtyard, and Juliana cries out for it.",
+      "hook_refs": [
+        "EP05:E31"
+      ],
+      "ending_refs": [
+        "EP05:E42"
+      ],
+      "context_refs": [
+        "EP05:E30",
+        "EP05:E33"
+      ],
+      "why_promising": "The hook is a clear physical act of seizure that opens the clip two seconds in. The clip ends as the Bearded Man moves to retrieve the fallen ledger, leaving the outcome open. The clip is about 22.5 seconds and sits within coverage 49000-110500."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_4",
+      "episode_id": "ep_005",
+      "concept": "The Bearded Man tells Juliana the family dirtied the mother's ledger rather than destroying it, then warns Gerald to choose his words carefully.",
+      "hook_refs": [
+        "EP05:E48"
+      ],
+      "ending_refs": [
+        "EP05:E59"
+      ],
+      "context_refs": [
+        "EP05:E47",
+        "EP05:E53",
+        "EP05:E56",
+        "EP05:E58"
+      ],
+      "why_promising": "The hook is the Bearded Man's clear reply, 'They dirtied it. That is not the same thing,' which lands strongly after Juliana's 'They destroyed it.' The clip ends on his scarred hand shielding hers on the book, before the couple departs. It is about 25 seconds long and sits within coverage 49000-110500."
+    }
+  ]
+}

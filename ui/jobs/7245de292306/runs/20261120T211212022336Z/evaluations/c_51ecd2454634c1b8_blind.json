@@ -1,0 +1,44 @@
+{
+  "candidate_id": "c_51ecd2454634c1b8",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP05:E4",
+      "EP05:E5",
+      "EP05:E17"
+    ],
+    "reason": "The opening within 0-3000ms has a direct address, Lord Ashcroft saying Miss Ashcroft, plus a pause on the steps that signals confrontation. The final 3000ms carries the sharpest declaration, dead to the Ashcroft family, so the clip opens and closes on conflict."
+  },
+  "cliffhanger": {
+    "score_0_10": 5.0,
+    "evidence_refs": [
+      "EP05:E16",
+      "EP05:E17"
+    ],
+    "reason": "Juliana is left in shock holding the ledger after the father's final pronouncement, so her next move is open. The disownment itself is stated as final, which limits how much is left hanging, so the score stays moderate.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Identity and role of the Mysterious Bearded Man is never established",
+      "Why the marriage is opposed and what the vows mean for the family",
+      "Significance of the amethyst heirloom pendant",
+      "Why the ledger matters and what it contains",
+      "What the dowry and inheritance represent",
+      "Whether the church setting or the wedding is the first event of this story"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "The father's rigid disgust, Juliana's touching of the pendant, and her wide-eyed heartbreak as she holds the ledger create strong emotional pressure. The repeated revocations and the disownment build a painful escalation."
+  },
+  "weaknesses": [
+    "The Mysterious Bearded Man is labeled mysterious but never speaks or reacts beyond pausing, so he carries no visible stakes",
+    "The ledger appears only at the end with no setup, so its weight is unclear to a new viewer",
+    "The pendant is touched but its importance is never shown",
+    "Stakes of the marriage are asserted rather than shown, so the conflict relies on tone alone",
+    "The ending delivers a final verdict, which reduces the sense of an open question about what happens next"
+  ],
+  "one_line_why_it_works": "A father's public disownment of his daughter delivers a clear emotional rupture with a strong opening confrontation and a painful closing reaction, even though the context behind the conflict is missing."
+}

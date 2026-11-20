@@ -1,0 +1,94 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "opp_01",
+      "episode_id": "ep_043",
+      "concept": "Rupert panics and orders Alexander's arrest, but the Royal Guard Captain refuses and salutes Alexander as the true Duke, ending on Alexander calling for the Crown to decide.",
+      "hook_refs": [
+        "EP43:E2"
+      ],
+      "ending_refs": [
+        "EP43:E25"
+      ],
+      "context_refs": [
+        "EP43:E5",
+        "EP43:E12",
+        "EP43:E19"
+      ],
+      "why_promising": "A confrontational opening line leads to a visible loyalty reversal among the guards, and the clip closes on an open challenge that invites the viewer to see the Crown's evidence."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_02",
+      "episode_id": "ep_043",
+      "concept": "Alexander produces a sealed War Office dossier and the Crown Official reads that the ambush was caused by a deliberate leak through British channels.",
+      "hook_refs": [
+        "EP43:E27"
+      ],
+      "ending_refs": [
+        "EP43:E43"
+      ],
+      "context_refs": [
+        "EP43:E26",
+        "EP43:E29",
+        "EP43:E39",
+        "EP43:E41"
+      ],
+      "why_promising": "Sealed-document intrigue escalates into an unresolved accusation of treachery that leaves the identity of the leaker open."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_03",
+      "episode_id": "ep_043",
+      "concept": "The Crown Official reads the report aloud and names Lord Henry Sterling as a conspirator, with the Dowager Duchess reacting in disbelief.",
+      "hook_refs": [
+        "EP43:E36"
+      ],
+      "ending_refs": [
+        "EP43:E50"
+      ],
+      "context_refs": [
+        "EP43:E39",
+        "EP43:E41"
+      ],
+      "why_promising": "A formal reading builds to a named accusation, with an open cliffhanger on the second conspirator's name and the congregation's reaction."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_04",
+      "episode_id": "ep_043",
+      "concept": "Alexander demands the names and the Crown Official names Sterling and Rupert, after which Alexander moves to seal and expose the conspiracy.",
+      "hook_refs": [
+        "EP43:E48"
+      ],
+      "ending_refs": [
+        "EP43:E65"
+      ],
+      "context_refs": [
+        "EP43:E47",
+        "EP43:E50",
+        "EP43:E52"
+      ],
+      "why_promising": "A short demand for names pays off in a damning reveal that ends on the cracking of the Crown seal, which leaves the contents of the dossier unrevealed."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_05",
+      "episode_id": "ep_043",
+      "concept": "Rupert demands the guards arrest Alexander, and Alexander stands composed while the Guard Captain sets his sword down and refuses to obey.",
+      "hook_refs": [
+        "EP43:E9"
+      ],
+      "ending_refs": [
+        "EP43:E30"
+      ],
+      "context_refs": [
+        "EP43:E12",
+        "EP43:E19",
+        "EP43:E25"
+      ],
+      "why_promising": "A rising standoff between a frantic accuser and an unmoving Duke, ending on Alexander's order to read the first dossier."
+    }
+  ]
+}

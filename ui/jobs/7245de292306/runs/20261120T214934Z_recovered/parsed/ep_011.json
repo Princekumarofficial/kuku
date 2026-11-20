@@ -1,0 +1,1238 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "ep_011",
+  "episode_number": 11,
+  "metadata": {
+    "logline": "Gerald and Clarissa arrive at the cottage with an armed constable accusing Alexander of grand theft, culminating in a devastating planted discovery that threatens to tear the newlyweds apart.",
+    "continuity_notes": "Picks up immediately after the intimate moment between Juliana and Alexander in Episode 10, interrupted by the ominous arrival of an aristocratic carriage carrying Gerald."
+  },
+  "source": {
+    "file": "010_episode-011-Episode 1671713.txt",
+    "sha256": "839ae70b822b9ae862ea9b0625a372d2a03660757d6556cd2dc1251d876654de",
+    "complete": false
+  },
+  "scenes": [
+    {
+      "start_ms": 0,
+      "end_ms": 54000,
+      "id": "sc_001",
+      "heading": "EXT. COTTAGE GROUNDS – DAY"
+    },
+    {
+      "start_ms": 54000,
+      "end_ms": 112750,
+      "id": "sc_002",
+      "heading": "INT. COTTAGE – CONTINUOUS"
+    }
+  ],
+  "events": [
+    {
+      "start_ms": 0,
+      "end_ms": 2000,
+      "id": "e_001",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle tracking shot of heavy carriage wheels churning violently through the muddy, waterlogged track.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        14,
+        16
+      ]
+    },
+    {
+      "start_ms": 0,
+      "end_ms": 2000,
+      "id": "e_002",
+      "scene_id": "sc_001",
+      "type": "sound",
+      "text": "Squelch of mud and the grinding rattle of carriage wheels under heavy rain.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        18,
+        20
+      ]
+    },
+    {
+      "start_ms": 2000,
+      "end_ms": 4000,
+      "id": "e_003",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium two-shot of Juliana and Alexander standing outside the rustic stone cottage, watching the incoming carriage with tense apprehension.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        22,
+        24
+      ]
+    },
+    {
+      "start_ms": 2000,
+      "end_ms": 4000,
+      "id": "e_004",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana wrings a damp rag in her hands, her face etched with rising dread, while Alexander stands guard beside her.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        26,
+        28
+      ]
+    },
+    {
+      "start_ms": 4000,
+      "end_ms": 6500,
+      "id": "e_005",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Tight shot tilting up as polished black boots step down directly into the muck, revealing Gerald clad in an opulent burgundy double-breasted coat.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        30,
+        32
+      ]
+    },
+    {
+      "start_ms": 5500,
+      "end_ms": 7000,
+      "id": "e_006",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Gerald buttons his coat, smug self-satisfaction radiating from his expression.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        34,
+        36
+      ]
+    },
+    {
+      "start_ms": 7000,
+      "end_ms": 8200,
+      "id": "e_007",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of a uniformed Constable descending from the carriage, firmly gripping a wooden truncheon.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        38,
+        40
+      ]
+    },
+    {
+      "start_ms": 8200,
+      "end_ms": 10800,
+      "id": "e_008",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium tracking shot as Juliana steps defensively toward Gerald, her face full of shock and anger.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        42,
+        44
+      ]
+    },
+    {
+      "start_ms": 8300,
+      "end_ms": 10700,
+      "id": "e_009",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Gerald? What are you doing here?\"",
+      "speaker": "JULIANA",
+      "delivery": "Startled, Indignant",
+      "source_lines": [
+        46,
+        48
+      ]
+    },
+    {
+      "start_ms": 10800,
+      "end_ms": 13000,
+      "id": "e_010",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Wide two-shot across the puddle-strewn ground between Gerald and Juliana against the misty landscape.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        50,
+        52
+      ]
+    },
+    {
+      "start_ms": 11100,
+      "end_ms": 13200,
+      "id": "e_011",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I came for something that belongs to me.\"",
+      "speaker": "GERALD",
+      "delivery": "Arrogant, Smooth",
+      "source_lines": [
+        54,
+        56
+      ]
+    },
+    {
+      "start_ms": 13000,
+      "end_ms": 14300,
+      "id": "e_012",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Clarissa peering from the carriage window in her violet silk gown, a venomous, triumphant smile curling her lips.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        58,
+        60
+      ]
+    },
+    {
+      "start_ms": 14300,
+      "end_ms": 16800,
+      "id": "e_013",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana, her anger flaring as she gestures sharply.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        62,
+        64
+      ]
+    },
+    {
+      "start_ms": 14400,
+      "end_ms": 16700,
+      "id": "e_014",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You have already taken enough from me. Leave!\"",
+      "speaker": "JULIANA",
+      "delivery": "Furious, Defiant",
+      "source_lines": [
+        66,
+        68
+      ]
+    },
+    {
+      "start_ms": 16800,
+      "end_ms": 18500,
+      "id": "e_015",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Gerald pointing an accusatory finger, his composure snapping into hostile anger.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        70,
+        72
+      ]
+    },
+    {
+      "start_ms": 16800,
+      "end_ms": 18700,
+      "id": "e_016",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Your husband stole my gold pocket watch!\"",
+      "speaker": "GERALD",
+      "delivery": "Aggressive, Snarl",
+      "source_lines": [
+        74,
+        76
+      ]
+    },
+    {
+      "start_ms": 18500,
+      "end_ms": 20000,
+      "id": "e_017",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana recoiling in utter disbelief.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        78,
+        80
+      ]
+    },
+    {
+      "start_ms": 19000,
+      "end_ms": 20000,
+      "id": "e_018",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"What? When?\"",
+      "speaker": "JULIANA",
+      "delivery": "Incredulous, Gasping",
+      "source_lines": [
+        82,
+        84
+      ]
+    },
+    {
+      "start_ms": 20000,
+      "end_ms": 22000,
+      "id": "e_019",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Gerald narrowing his eyes vindictively.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        86,
+        88
+      ]
+    },
+    {
+      "start_ms": 20900,
+      "end_ms": 22300,
+      "id": "e_020",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"The last time I came here.\"",
+      "speaker": "GERALD",
+      "delivery": "Cold, Certain",
+      "source_lines": [
+        90,
+        92
+      ]
+    },
+    {
+      "start_ms": 22000,
+      "end_ms": 24600,
+      "id": "e_021",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Juliana scoffing, stepping forward as Alexander stands motionless behind her.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        94,
+        96
+      ]
+    },
+    {
+      "start_ms": 23000,
+      "end_ms": 24800,
+      "id": "e_022",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You never even entered the cottage!\"",
+      "speaker": "JULIANA",
+      "delivery": "Contemptuous, Outraged",
+      "source_lines": [
+        98,
+        100
+      ]
+    },
+    {
+      "start_ms": 24600,
+      "end_ms": 26900,
+      "id": "e_023",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Gerald smirking with condescending amusement.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        102,
+        104
+      ]
+    },
+    {
+      "start_ms": 25200,
+      "end_ms": 27000,
+      "id": "e_024",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Then you should have nothing to fear from a search.\"",
+      "speaker": "GERALD",
+      "delivery": "Smug, Threatening",
+      "source_lines": [
+        106,
+        108
+      ]
+    },
+    {
+      "start_ms": 26900,
+      "end_ms": 28900,
+      "id": "e_025",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Three-shot of Alexander, Juliana, and Gerald in the bleak drizzle.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        110,
+        112
+      ]
+    },
+    {
+      "start_ms": 27300,
+      "end_ms": 29000,
+      "id": "e_026",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Alexander would never steal from you.\"",
+      "speaker": "JULIANA",
+      "delivery": "Adamant, Protective",
+      "source_lines": [
+        114,
+        116
+      ]
+    },
+    {
+      "start_ms": 28900,
+      "end_ms": 32400,
+      "id": "e_027",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle shot of Gerald throwing his head back in arrogant, mocking laughter.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        118,
+        120
+      ]
+    },
+    {
+      "start_ms": 29300,
+      "end_ms": 32800,
+      "id": "e_028",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Of course you would defend him. You married a beggar!\"",
+      "speaker": "GERALD",
+      "delivery": "Mocking, Spiteful",
+      "source_lines": [
+        122,
+        124
+      ]
+    },
+    {
+      "start_ms": 32400,
+      "end_ms": 34900,
+      "id": "e_029",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Alexander stepping past Juliana, his gaze murderous and jaw rigid.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        126,
+        128
+      ]
+    },
+    {
+      "start_ms": 33000,
+      "end_ms": 34900,
+      "id": "e_030",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Choose your next words carefully.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Low, Menacing",
+      "source_lines": [
+        130,
+        132
+      ]
+    },
+    {
+      "start_ms": 34900,
+      "end_ms": 37000,
+      "id": "e_031",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Gerald pointing back toward the approaching Constable, feigning alarm.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        134,
+        136
+      ]
+    },
+    {
+      "start_ms": 35100,
+      "end_ms": 37100,
+      "id": "e_032",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You hear that? He threatens me again!\"",
+      "speaker": "GERALD",
+      "delivery": "Shouting, Dramatic",
+      "source_lines": [
+        138,
+        140
+      ]
+    },
+    {
+      "start_ms": 37000,
+      "end_ms": 39100,
+      "id": "e_033",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of the Constable marching into frame between them, holding his truncheon horizontally.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        142,
+        144
+      ]
+    },
+    {
+      "start_ms": 37400,
+      "end_ms": 39200,
+      "id": "e_034",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I have received a complaint of theft.\"",
+      "speaker": "CONSTABLE",
+      "delivery": "Authoritative, Stern",
+      "source_lines": [
+        146,
+        148
+      ]
+    },
+    {
+      "start_ms": 39100,
+      "end_ms": 41000,
+      "id": "e_035",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Extreme close-up of Juliana, defiant and resolute.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        150,
+        152
+      ]
+    },
+    {
+      "start_ms": 39700,
+      "end_ms": 41100,
+      "id": "e_036",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"A complaint is not proof.\"",
+      "speaker": "JULIANA",
+      "delivery": "Fierce",
+      "source_lines": [
+        154,
+        156
+      ]
+    },
+    {
+      "start_ms": 41000,
+      "end_ms": 43300,
+      "id": "e_037",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the Constable gesturing with his truncheon toward the cottage door.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        158,
+        160
+      ]
+    },
+    {
+      "start_ms": 41400,
+      "end_ms": 43300,
+      "id": "e_038",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Then a search will settle the matter.\"",
+      "speaker": "CONSTABLE",
+      "delivery": "Cold, Procedural",
+      "source_lines": [
+        162,
+        164
+      ]
+    },
+    {
+      "start_ms": 43300,
+      "end_ms": 46000,
+      "id": "e_039",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Juliana backing up to the doorway, spreading her arms wide to block the entrance.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        166,
+        168
+      ]
+    },
+    {
+      "start_ms": 43500,
+      "end_ms": 46300,
+      "id": "e_040",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You cannot simply invade our home because this man makes an accusation!\"",
+      "speaker": "JULIANA",
+      "delivery": "Desperate, Shouting",
+      "source_lines": [
+        170,
+        172
+      ]
+    },
+    {
+      "start_ms": 46000,
+      "end_ms": 47800,
+      "id": "e_041",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Gerald crossing his arms smugly.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        174,
+        176
+      ]
+    },
+    {
+      "start_ms": 46800,
+      "end_ms": 48300,
+      "id": "e_042",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"If he has nothing to hide...\"",
+      "speaker": "GERALD",
+      "delivery": "Taunting",
+      "source_lines": [
+        178,
+        180
+      ]
+    },
+    {
+      "start_ms": 47800,
+      "end_ms": 50800,
+      "id": "e_043",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Extreme close-up push-in on Alexander's scarred face, his eyes smoldering with lethal restraint.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        182,
+        184
+      ]
+    },
+    {
+      "start_ms": 48400,
+      "end_ms": 50000,
+      "id": "e_044",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"...let the constable search.\"",
+      "speaker": "GERALD",
+      "delivery": "O.S.) (Smug",
+      "source_lines": [
+        186,
+        188
+      ]
+    },
+    {
+      "start_ms": 50100,
+      "end_ms": 51000,
+      "id": "e_045",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Search it.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Dark, Grated",
+      "source_lines": [
+        190,
+        192
+      ]
+    },
+    {
+      "start_ms": 50800,
+      "end_ms": 53600,
+      "id": "e_046",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium two-shot of Juliana looking up at Alexander in panicked confusion.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        194,
+        196
+      ]
+    },
+    {
+      "start_ms": 52800,
+      "end_ms": 53600,
+      "id": "e_047",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Let them.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Resigned, Calm",
+      "source_lines": [
+        198,
+        200
+      ]
+    },
+    {
+      "start_ms": 54000,
+      "end_ms": 56000,
+      "id": "e_048",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium shot looking out the doorway as Juliana steps aside and the Constable barges past into the dimly lit cottage.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        209,
+        211
+      ]
+    },
+    {
+      "start_ms": 54500,
+      "end_ms": 56500,
+      "id": "e_049",
+      "scene_id": "sc_002",
+      "type": "sound",
+      "text": "Heavy thud of boots entering wooden floorboards, followed by forceful banging of furniture.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        213,
+        215
+      ]
+    },
+    {
+      "start_ms": 56000,
+      "end_ms": 58000,
+      "id": "e_050",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "The Constable begins violently overturning crates and dumping contents across the floor.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        217,
+        219
+      ]
+    },
+    {
+      "start_ms": 58000,
+      "end_ms": 60000,
+      "id": "e_051",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium low-angle shot of Juliana dropping to her knees, frantically trying to salvage bundles of dried herbs scattering across the boards.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        221,
+        223
+      ]
+    },
+    {
+      "start_ms": 58000,
+      "end_ms": 60100,
+      "id": "e_052",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Stop! Those are my mother's medicines!\"",
+      "speaker": "JULIANA",
+      "delivery": "Distressed, Pleading",
+      "source_lines": [
+        225,
+        227
+      ]
+    },
+    {
+      "start_ms": 60000,
+      "end_ms": 61800,
+      "id": "e_053",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "The Constable aggressively pulls folded bed linens from a shelf and hurls them onto the damp floor.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        229,
+        231
+      ]
+    },
+    {
+      "start_ms": 61800,
+      "end_ms": 63500,
+      "id": "e_054",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Low-angle close-up of Juliana crawling on the floor, looking up with tears streaming down her cheeks.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        233,
+        235
+      ]
+    },
+    {
+      "start_ms": 61800,
+      "end_ms": 63800,
+      "id": "e_055",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Please! There is nothing here!\"",
+      "speaker": "JULIANA",
+      "delivery": "Crying, Desperate",
+      "source_lines": [
+        237,
+        239
+      ]
+    },
+    {
+      "start_ms": 63500,
+      "end_ms": 65500,
+      "id": "e_056",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up of the Constable's hands flipping open a small wooden keepsake box on a work table.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        241,
+        243
+      ]
+    },
+    {
+      "start_ms": 63900,
+      "end_ms": 65700,
+      "id": "e_057",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Then you have nothing to fear.\"",
+      "speaker": "CONSTABLE",
+      "delivery": "Cold, Indifferent",
+      "source_lines": [
+        245,
+        247
+      ]
+    },
+    {
+      "start_ms": 65500,
+      "end_ms": 67400,
+      "id": "e_058",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Low-angle close-up of Juliana clutching the fallen linens to her chest, her voice breaking.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        249,
+        251
+      ]
+    },
+    {
+      "start_ms": 66000,
+      "end_ms": 67500,
+      "id": "e_059",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Those are all I have left!\"",
+      "speaker": "JULIANA",
+      "delivery": "Heartbroken, Sobbing",
+      "source_lines": [
+        253,
+        255
+      ]
+    },
+    {
+      "start_ms": 67400,
+      "end_ms": 71500,
+      "id": "e_060",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium shot of Gerald leaning casually against the cottage doorframe, looking around with contemptuous disgust.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        257,
+        259
+      ]
+    },
+    {
+      "start_ms": 67500,
+      "end_ms": 71600,
+      "id": "e_061",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Stand aside. Look at this place. A perfect hiding hole for a thief.\"",
+      "speaker": "GERALD",
+      "delivery": "Cruel, Condescending",
+      "source_lines": [
+        261,
+        263
+      ]
+    },
+    {
+      "start_ms": 71500,
+      "end_ms": 74800,
+      "id": "e_062",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium shot of Juliana rising to her feet, clutching the folded cloth, her face contorting with rage.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        265,
+        267
+      ]
+    },
+    {
+      "start_ms": 72100,
+      "end_ms": 75000,
+      "id": "e_063",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"You planted this accusation because you cannot bear that I am happy without you!\"",
+      "speaker": "JULIANA",
+      "delivery": "Furious, Accusatory",
+      "source_lines": [
+        269,
+        271
+      ]
+    },
+    {
+      "start_ms": 74800,
+      "end_ms": 76800,
+      "id": "e_064",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Tight close-up of Gerald's face chilling into a cold sneer.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        273,
+        275
+      ]
+    },
+    {
+      "start_ms": 75500,
+      "end_ms": 76800,
+      "id": "e_065",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Happy?\"",
+      "speaker": "GERALD",
+      "delivery": "Scoffing, Sinister",
+      "source_lines": [
+        277,
+        279
+      ]
+    },
+    {
+      "start_ms": 76800,
+      "end_ms": 79500,
+      "id": "e_066",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium shot of Alexander standing in the cottage shadows, eyes locked onto Gerald.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        281,
+        283
+      ]
+    },
+    {
+      "start_ms": 79500,
+      "end_ms": 81300,
+      "id": "e_067",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Extreme close-up of Alexander's right hand slowly tightening into a white-knuckled fist.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        285,
+        287
+      ]
+    },
+    {
+      "start_ms": 81300,
+      "end_ms": 84000,
+      "id": "e_068",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Low-angle close-up of Gerald tilting his chin up, daringly baiting Alexander.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        289,
+        291
+      ]
+    },
+    {
+      "start_ms": 81300,
+      "end_ms": 84000,
+      "id": "e_069",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"What is it, soldier? Going to strike a gentleman in front of his wife?\"",
+      "speaker": "GERALD",
+      "delivery": "Provoking, Smirking",
+      "source_lines": [
+        293,
+        295
+      ]
+    },
+    {
+      "start_ms": 84200,
+      "end_ms": 85000,
+      "id": "e_070",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Don't!\"",
+      "speaker": "JULIANA",
+      "delivery": "Whispering, Terrified",
+      "source_lines": [
+        297,
+        299
+      ]
+    },
+    {
+      "start_ms": 85000,
+      "end_ms": 86500,
+      "id": "e_071",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up of Juliana clutching her dress collar in acute panic.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        301,
+        303
+      ]
+    },
+    {
+      "start_ms": 86000,
+      "end_ms": 87500,
+      "id": "e_072",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"One blow would end this.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "V.O.) (Haunted, Resolute",
+      "source_lines": [
+        305,
+        307
+      ]
+    },
+    {
+      "start_ms": 86500,
+      "end_ms": 89800,
+      "id": "e_073",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium shot of the Constable stepping up behind Alexander, holding his truncheon firmly across Alexander's chest to restrain him, cutting to a tight close-up of Alexander's smoldering eyes.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        309,
+        311
+      ]
+    },
+    {
+      "start_ms": 88000,
+      "end_ms": 90000,
+      "id": "e_074",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"But one blow would destroy her life.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "V.O.) (Pained, Selfless",
+      "source_lines": [
+        313,
+        315
+      ]
+    },
+    {
+      "start_ms": 89800,
+      "end_ms": 92000,
+      "id": "e_075",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium shot of the Constable turning to Alexander's heavy trench coat hanging on an iron wall hook by the fireplace.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        317,
+        319
+      ]
+    },
+    {
+      "start_ms": 91000,
+      "end_ms": 92200,
+      "id": "e_076",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "The Constable grabs the coat by the collar and begins rummaging through its deep pockets.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        321,
+        323
+      ]
+    },
+    {
+      "start_ms": 92100,
+      "end_ms": 93200,
+      "id": "e_077",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"That is his coat!\"",
+      "speaker": "JULIANA",
+      "delivery": "Startled, Shouting",
+      "source_lines": [
+        325,
+        327
+      ]
+    },
+    {
+      "start_ms": 93200,
+      "end_ms": 96800,
+      "id": "e_078",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up of the Constable's hand sliding deep inside the inner coat lining and withdrawing a gleaming gold pocket watch with an attached chain.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        329,
+        331
+      ]
+    },
+    {
+      "start_ms": 95800,
+      "end_ms": 97000,
+      "id": "e_079",
+      "scene_id": "sc_002",
+      "type": "sound",
+      "text": "Metallic clinking of the gold chain sliding against fabric.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        333,
+        335
+      ]
+    },
+    {
+      "start_ms": 96800,
+      "end_ms": 99200,
+      "id": "e_080",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Extreme close-up of Juliana gasping in sheer horror, her eyes welling with shock and shattered disbelief.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        337,
+        339
+      ]
+    },
+    {
+      "start_ms": 97200,
+      "end_ms": 99000,
+      "id": "e_081",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "Juliana draws a sharp, terrified breath as her face pales completely.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        341,
+        343
+      ]
+    },
+    {
+      "start_ms": 99200,
+      "end_ms": 102000,
+      "id": "e_082",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Extreme close-up of Alexander's face hardening into lethal, icy comprehension, realizing the depth of the frame-up.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        345,
+        347
+      ]
+    },
+    {
+      "start_ms": 102000,
+      "end_ms": 106800,
+      "id": "e_083",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium close-up push-in on Gerald's face erupting into an ecstatic, wicked grin, bursting into triumphant laughter.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        349,
+        351
+      ]
+    },
+    {
+      "start_ms": 104200,
+      "end_ms": 106600,
+      "id": "e_084",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"There it is. Ha!\"",
+      "speaker": "GERALD",
+      "delivery": "Gloating, Victorious",
+      "source_lines": [
+        353,
+        355
+      ]
+    },
+    {
+      "start_ms": 106800,
+      "end_ms": 112750,
+      "id": "e_085",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Tight macro shot of the gold pocket watch dangling and swaying gently from the Constable's fingers on its long chain, with Gerald blurred in the background grinning with sinister triumph as the scene hangs in a devastating freeze-frame.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        357,
+        359
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "start_ms": 0,
+      "end_ms": 53600
+    },
+    {
+      "start_ms": 54000,
+      "end_ms": 84000
+    },
+    {
+      "start_ms": 84200,
+      "end_ms": 112750
+    }
+  ],
+  "warnings": [
+    "sc_001: incomplete source coverage; gaps are unavailable",
+    "sc_002: incomplete source coverage; gaps are unavailable"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c_9d2da2a5686ff4b5",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP07:E7",
+      "EP07:E8",
+      "EP07:E9"
+    ],
+    "reason": "Opens with a cruel smirk at a humble cottage and a defiant woman rinsing mud from her hands, followed by a pointed insult; the conflict is clear quickly, though the opening relies on tone rather than a strong incident. Evidence starts within 0-3000ms as required."
+  },
+  "cliffhanger": {
+    "score_0_10": 3.0,
+    "evidence_refs": [
+      "EP07:E16",
+      "EP07:E17"
+    ],
+    "reason": "The clip ends on an insult ('You look like a servant.') that lands as a sharp beat, but the exchange is closed within the clip and no new event is set up, so it reads as a resolved scene beat rather than an unresolved hook.",
+    "unresolved_at_end": false
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Relationship between Juliana, Gerald and the Aristocratic Woman is not explained",
+      "Meaning of 'threw away everything for a penniless soldier' is unclear without prior events",
+      "Reason the Aristocratic Woman visits the cottage is not shown",
+      "Significance of the mud and the cottage as Juliana's new home is only implied"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 6.0,
+    "reason": "Contempt from the visitors and Juliana's defiant composure create tension and sympathy for Juliana; the escalating mockery builds an uncomfortable emotional charge."
+  },
+  "weaknesses": [
+    "Heavy reliance on unexplained backstory to make the insults land",
+    "Ending insult is sharp but does not pose a question or open a new thread",
+    "Antagonists' motives are not established",
+    "Gerald's line and the Aristocratic Woman's laughter repeat a similar mocking beat, slowing momentum"
+  ],
+  "one_line_why_it_works": "A defiant heroine is publicly humiliated by two condescending visitors, so the clip sets up a clear class-based conflict with an emotionally charged final insult."
+}

@@ -1,0 +1,44 @@
+{
+  "candidate_id": "c_3d4c709012cb38e5",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP39:E9",
+      "EP39:E11",
+      "EP39:E21"
+    ],
+    "reason": "The clip opens with covert conspirators passing a folded message in an alley, and the scout's line 'Six at the front' within the first seconds signals a plot. The opening is quiet, though, and the first real rupture (the driver lunging off the cart) comes at 16600ms, so the grab is gradual rather than immediate."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP39:E28",
+      "EP39:E29",
+      "EP39:E30"
+    ],
+    "reason": "The ending does not resolve the infiltration: the guards are down, more men are slipping inside the cathedral doors, and the fighter says 'Tell the Duke' with the mission still in progress. The stakes of what happens inside remain open, so this is an unresolved hook rather than a resolved ending.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who the Duke is and why the message must reach him",
+      "What the loyalists are loyal to and what the royal faction represents",
+      "Why the cathedral is the target and what the men plan to do inside",
+      "Whether the firewood cart is a deliberate disguise for the attack, which is only implied",
+      "The stakes of the east gate and the six or four men mentioned"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 6.0,
+    "reason": "Tension builds through whispered coordination and then turns physical with a sudden, violent takedown and a silent sleeper hold. The restrained, clipped dialogue and the guards lying unconscious on the leaves create suspense, but without knowing the characters the emotional investment stays limited."
+  },
+  "weaknesses": [
+    "Opening alleyway scene is slow and the message content is not shown",
+    "Factions and the 'Duke' are unexplained for a first-time viewer",
+    "Motivation of the cart driver and the attackers is not established",
+    "Two parallel takedowns make the action hard to track in the middle section",
+    "Ending relies on an unseen objective rather than a clear question"
+  ],
+  "one_line_why_it_works": "A tense covert-infiltration setup escalates from whispered planning to a silent, coordinated takedown of guards, and ends with the attackers entering the cathedral and dispatching a message, leaving the outcome open."
+}

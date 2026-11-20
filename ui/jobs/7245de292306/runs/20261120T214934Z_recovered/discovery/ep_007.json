@@ -1,0 +1,53 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "opp_1",
+      "episode_id": "ep_007",
+      "concept": "Aristocratic Woman mocks Juliana's cottage, and Gerald's taunt builds to the unanswered question about her husband.",
+      "hook_refs": [
+        "EP07:E9"
+      ],
+      "ending_refs": [
+        "EP07:E33"
+      ],
+      "context_refs": [
+        "EP07:E11"
+      ],
+      "why_promising": "The hook opens on a direct insult within the first 3 seconds. The clip runs from 22000 to 69500 ms, about 47.5 seconds. It ends on Gerald's unanswered 'And your husband?', which sets up the husband's arrival."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_2",
+      "episode_id": "ep_007",
+      "concept": "Juliana declares she chose a man who stood by her, and Gerald's threat leads to the husband's silent confrontation.",
+      "hook_refs": [
+        "EP07:E28"
+      ],
+      "ending_refs": [
+        "EP07:E43"
+      ],
+      "context_refs": [
+        "EP07:E32"
+      ],
+      "why_promising": "The hook is Juliana's defiant reveal that opens the clip. The clip runs from 57800 to 88000 ms, about 30.2 seconds, and stays inside the first coverage interval. It ends on Gerald's terror before the husband's reaction is resolved, and the context line shows Gerald's threat."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_3",
+      "episode_id": "ep_007",
+      "concept": "Gerald's sneer that Juliana was born a lady leads to the husband's arrival and a cliffhanger.",
+      "hook_refs": [
+        "EP07:E22"
+      ],
+      "ending_refs": [
+        "EP07:E33"
+      ],
+      "context_refs": [
+        "EP07:E24",
+        "EP07:E26"
+      ],
+      "why_promising": "The hook is a sharp class-based jab that opens the clip. The clip runs from 45200 to 69500 ms, about 24.3 seconds. Juliana's 'I remain one' and Gerald's reference to the scarred beggar supply the needed context. It ends on 'And your husband?' before the husband appears."
+    }
+  ]
+}

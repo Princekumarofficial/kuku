@@ -1,0 +1,184 @@
+{
+  "stage": "episode_analysis",
+  "system": "Analyze narrative beats, characters, revelations and unresolved questions. Only event text is on-screen evidence; metadata may describe unseen events. Use supplied EPxx:Ex aliases. Report uncertainty in the summary. A revelation's significance is not its spoiler damage.",
+  "user": "EP=ep_049; timestamps are integer milliseconds\nSOURCE_SHA256=7b96649d2e272da28d82c5cf18c7915d4f09117e5d7632a04625a333d554016e\nMETADATA ONLY (not on-screen evidence): {'logline': 'Meeting Father Thomas in an abandoned wing of the manor before dawn, Catherine orchestrates a calculated conspiracy to stall the council hearing and extract inside intelligence, sealing their treasonous alliance with intimate assurance.', 'continuity_notes': 'Directly follows Catherine sending Agnes to fetch Father Thomas under cover of darkness; now in Episode 49, Father Thomas slips into the secluded wing for their covert rendezvous.'}\nSOURCE WARNINGS=[]\nSCENE sc_001 0-144750 INT. FORGOTTEN MANOR WING - NIGHT\nEP49:E1 0-5200 CAMERA: Wide tracking shot down a dark, derelict hallway lined with dust-sheet draped furniture and peeling wallpaper. At the far end, a door creaks open, revealing a cloaked figure stepping in.\nEP49:E2 1000-4500 SOUND: Hinges creaking softly followed by the muffled thud of a heavy wooden door clicking shut.\nEP49:E3 1800-5200 ACTION: Father Thomas, clad in a hooded dark mantle over priestly black robes, secures the door behind him and steps into the shadows of the abandoned corridor.\nEP49:E4 5200-7000 CAMERA: Medium shot on Catherine, draped in a dark hooded cloak over a lavish crimson bodice, holding a brass candlestick aloft.\nEP49:E5 5400-6800 CATHERINE [Quietly Chiding]: \"You took your time.\"\nEP49:E6 7000-8800 CAMERA: Over-the-shoulder shot past Father Thomas's cloaked back looking toward Catherine illuminated in warm candlelight.\nEP49:E7 8800-15500 CAMERA: Medium close-up of Father Thomas under his black hood, his stern face framed by the clerical collar and silver crucifix resting on his chest.\nEP49:E8 9000-15200 FATHER THOMAS [Low, Measured]: \"Agnes is thorough. She made me wait for a groom to finish his rounds before she'd let me past the stables.\"\nEP49:E9 15500-19800 CAMERA: Close-up profile of Catherine, turning with a slight, knowing smirk.\nEP49:E10 15800-18800 CATHERINE [Pleased, Cold]: \"Good. That's what I pay her for.\"\nEP49:E11 19800-22000 CAMERA: Medium two-shot as Catherine steps forward and sets the heavy candleholder onto a small round table draped in grey cloth between them.\nEP49:E12 20000-22000 ACTION: Catherine sets down the brass candleholder, the flame flickering across their faces.\nEP49:E13 22000-27500 CAMERA: Tight close-up on Father Thomas's face, the candlelight dancing in his calculating eyes.\nEP49:E14 22200-27200 FATHER THOMAS [Grave]: \"No shadows tonight, Catherine. Just us and an empty wing.\"\nEP49:E15 27500-33200 CAMERA: Close-up on Catherine, her blonde ringlets peeking from beneath her velvet hood as she smiles faintly.\nEP49:E16 27800-33000 CATHERINE [Unfazed]: \"You didn't need them the first time, either. I just prefer my secrets thorough.\"\nEP49:E17 33200-41800 CAMERA: Medium close-up of Father Thomas, glancing down momentarily before fixing his piercing gaze back on her.\nEP49:E18 33500-41500 FATHER THOMAS [Dry, Cynical]: \"A priest and a disgraced bride meeting before dawn in her bedchamber. I'd say thoroughness served us both rather well.\"\nEP49:E19 41800-46800 CAMERA: Close-up of Catherine's face hardening into a stern, focused expression.\nEP49:E20 42000-46500 CATHERINE [Assertive, Warning]: \"It will keep serving us as long as neither of us gets careless. No one in this house so much as suspects your face belongs to that morning. Let's keep it that way.\"\nEP49:E21 46800-48500 CAMERA: Close-up on Father Thomas listening impassively.\nEP49:E22 48500-53000 CAMERA: Medium wide two-shot across the candlelit table, Catherine leaning slightly forward.\nEP49:E23 48800-52800 CATHERINE [Scheming]: \"Today went better than either of us planned for. The whole court watched you humiliate her.\"\nEP49:E24 53000-59800 CAMERA: Medium close-up on Father Thomas as he turns his head slightly, scanning the dusty shadowed recesses of the abandoned room.\nEP49:E25 53200-59500 FATHER THOMAS [Reflective, Brooding]: \"Fitting choice, this room. A place the family forgot for a conversation they mustn't remember.\"\nEP49:E26 59800-62800 CAMERA: Close-up on Catherine, her lips curling into an amused, knowing smile.\nEP49:E27 60000-62500 CATHERINE [Amused]: \"You always did have a taste for symbolism.\"\nEP49:E28 62800-67200 CAMERA: Medium shot of Father Thomas, a subtle smirk breaking through his austere demeanor.\nEP49:E29 63000-67100 FATHER THOMAS [Intimate, Candid]: \"And you always did have a taste for using me. It's why we suit each other.\"\nEP49:E30 67200-72400 CAMERA: Close-up on Catherine, her expression turning razor-sharp and commanding.\nEP49:E31 67400-72200 CATHERINE [Strict, Urgent]: \"Then make certain the council remembers that for the full ten days, not just the first hour.\"\nEP49:E32 72400-77000 CAMERA: Side profile close-up on Father Thomas, his brow furrowing with impatient resolve.\nEP49:E33 72600-76800 FATHER THOMAS [Direct]: \"What is it you actually need from me, Catherine? Say it plainly, for once.\"\nEP49:E34 77000-84000 CAMERA: Medium close-up of Catherine raising one hand slightly, emphasizing her terms.\nEP49:E35 77200-83800 CATHERINE [Calculating, Determined]: \"First, the hearing stays unresolved as long as possible. Every extension, every delay, every excuse to reconvene.\"\nEP49:E36 84000-91400 CAMERA: Frontal close-up of Catherine raising two fingers in the candlelight, her eyes burning with ruthless intent.\nEP49:E37 84200-91200 CATHERINE [Fierce, Uncompromising]: \"Second, I want to know what the council knows before it decides anything. Every argument, every witness, every whisper against her.\"\nEP49:E38 91400-94200 CAMERA: Close-up on Father Thomas absorbing the audacity of her demand.\nEP49:E39 91600-94000 FATHER THOMAS [Skeptical]: \"You want eyes inside the council chamber itself?\"\nEP49:E40 94200-98000 CAMERA: Close-up low angle on Catherine, tilting her chin up in defiant pride.\nEP49:E41 94400-97800 CATHERINE [Haughty, Imperious]: \"I want eyes and ears everywhere that decides my future.\"\nEP49:E42 98000-103800 CAMERA: Full two-shot of Catherine and Father Thomas facing off across the small table in the cavernous hallway.\nEP49:E43 98200-102500 ACTION: Father Thomas clasps his hands behind his back, turning slightly away to ponder the gravity of her words.\nEP49:E44 98300-103200 CATHERINE [Bitterly Resolute]: \"Is that so unreasonable coming from a woman the church itself just humiliated back into relevance?\"\nEP49:E45 103800-113000 CAMERA: Medium shot on Father Thomas turning back around to face her, his countenance etched with genuine concern.\nEP49:E46 104200-112800 FATHER THOMAS [Wary, Grave]: \"If I keep the hearing open, if I feed you every word spoken behind those doors, what happens to me when the Duke finds out a crowned priest conspired against him?\"\nEP49:E47 113000-118000 CAMERA: Medium two-shot tracking closer as Catherine steps closer toward him.\nEP49:E48 113200-117800 CATHERINE [Seductive, Reassuring]: \"Then make certain he doesn't find out. You're careful. I've seen how careful.\"\nEP49:E49 118000-124800 CAMERA: Tight close-up on Father Thomas's intense, brooding face.\nEP49:E50 118200-124500 FATHER THOMAS [Stern, Stark]: \"Careful men still hang, my lady, when the crime is treason against a Duke the King himself just restored.\"\nEP49:E51 124800-128800 CAMERA: Close-up on Catherine, her lips parting into an alluring, promising smile.\nEP49:E52 125000-128500 CATHERINE [Tempting]: \"Careful men who help me also get remembered.\"\nEP49:E53 128800-134500 CAMERA: Split focus close-up between Father Thomas's intense gaze and Catherine leaning in close, whispering with lethal conviction.\nEP49:E54 129200-134200 CATHERINE [Whispering, Promising]: \"A grateful Duchess collects debts differently than a desperate one.\"\nEP49:E55 134500-139800 CAMERA: Medium two-shot as Father Thomas extends his open right hand between them.\nEP49:E56 135000-139500 ACTION: Father Thomas slowly raises his right hand, palm turned upward in invitation and pact.\nEP49:E57 135200-139500 FATHER THOMAS [Low, Resigned]: \"The rest depends on how well you keep your part of this quiet.\"\nEP49:E58 139800-142800 CAMERA: Close-up on Father Thomas looking down into her eyes.\nEP49:E59 140000-142500 FATHER THOMAS [Softly]: \"Then we understand each other.\"\nEP49:E60 140500-142800 ACTION: Catherine reaches out and places her slender hand firmly into Father Thomas's open palm.\nEP49:E61 142800-144000 CAMERA: Close-up of Catherine gazing up at him, her eyes glistening in the candlelight.\nEP49:E62 143000-144000 CATHERINE [Intimate]: \"We always have.\"\nEP49:E63 144000-144750 CAMERA: Extreme close-up as Father Thomas gently raises his other hand and cups Catherine's cheek tenderly, her hand resting against his chest as she leans into his touch before cutting to black.",
+  "schema": {
+    "$defs": {
+      "Beat": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "kind": {
+            "title": "Kind",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "description": {
+            "title": "Description",
+            "type": "string"
+          },
+          "intensity_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Intensity 0 10",
+            "type": "number"
+          }
+        },
+        "required": [
+          "id",
+          "kind",
+          "event_refs",
+          "description",
+          "intensity_0_10"
+        ],
+        "title": "Beat",
+        "type": "object"
+      },
+      "Character": {
+        "additionalProperties": false,
+        "properties": {
+          "name": {
+            "title": "Name",
+            "type": "string"
+          },
+          "role": {
+            "title": "Role",
+            "type": "string"
+          }
+        },
+        "required": [
+          "name",
+          "role"
+        ],
+        "title": "Character",
+        "type": "object"
+      },
+      "Question": {
+        "additionalProperties": false,
+        "properties": {
+          "question": {
+            "title": "Question",
+            "type": "string"
+          },
+          "introduced_by": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Introduced By",
+            "type": "array"
+          }
+        },
+        "required": [
+          "question",
+          "introduced_by"
+        ],
+        "title": "Question",
+        "type": "object"
+      },
+      "Revelation": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "claim": {
+            "title": "Claim",
+            "type": "string"
+          },
+          "spoiler_significance_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Spoiler Significance 0 10",
+            "type": "number"
+          },
+          "creates_questions": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Creates Questions",
+            "type": "array"
+          }
+        },
+        "required": [
+          "id",
+          "event_refs",
+          "claim",
+          "spoiler_significance_0_10",
+          "creates_questions"
+        ],
+        "title": "Revelation",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "episode_id": {
+        "title": "Episode Id",
+        "type": "string"
+      },
+      "summary": {
+        "title": "Summary",
+        "type": "string"
+      },
+      "characters": {
+        "items": {
+          "$ref": "#/$defs/Character"
+        },
+        "title": "Characters",
+        "type": "array"
+      },
+      "beats": {
+        "items": {
+          "$ref": "#/$defs/Beat"
+        },
+        "title": "Beats",
+        "type": "array"
+      },
+      "revelations": {
+        "items": {
+          "$ref": "#/$defs/Revelation"
+        },
+        "title": "Revelations",
+        "type": "array"
+      },
+      "unresolved_questions": {
+        "items": {
+          "$ref": "#/$defs/Question"
+        },
+        "title": "Unresolved Questions",
+        "type": "array"
+      }
+    },
+    "required": [
+      "episode_id",
+      "summary",
+      "characters",
+      "beats",
+      "revelations",
+      "unresolved_questions"
+    ],
+    "title": "EpisodeAnalysis",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

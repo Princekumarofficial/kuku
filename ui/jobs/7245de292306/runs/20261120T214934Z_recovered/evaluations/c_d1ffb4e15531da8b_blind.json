@@ -1,0 +1,48 @@
+{
+  "candidate_id": "c_d1ffb4e15531da8b",
+  "hook": {
+    "score_0_10": 4.0,
+    "evidence_refs": [
+      "EP06:E4",
+      "EP06:E6",
+      "EP06:E7",
+      "EP06:E29",
+      "EP06:E30"
+    ],
+    "reason": "The opening starts in heavy rain and a quiet two-shot with no immediate question or conflict; the rain and tension build slowly. The final seconds offer a humiliation remark and a solemn reaction shot, which gives a small pull toward what comes next."
+  },
+  "cliffhanger": {
+    "score_0_10": 3.0,
+    "evidence_refs": [
+      "EP06:E29",
+      "EP06:E30",
+      "EP06:E23",
+      "EP06:E25"
+    ],
+    "reason": "The clip ends with Juliana walking toward a cottage and a reflective reaction, so the immediate action is not left hanging. Her line about people who will humiliate her hints at an unresolved threat, but nothing in the clip makes it urgent or unanswered at the cut.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Who Juliana is and what her situation was before this walk",
+      "What 'the life you came from' refers to",
+      "Who the Mysterious Bearded Man is and his relationship to Juliana",
+      "Why the day was ruined and what happened earlier",
+      "Who would humiliate her and why",
+      "Why the cottage matters to the characters"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 5.0,
+    "reason": "Quiet resignation, a wistful smile, and the man's remorse create a melancholic tone. The emotional stakes are only partly clear to a viewer with no earlier context."
+  },
+  "weaknesses": [
+    "Opening lacks a clear hook or question for a first-time viewer",
+    "Key references to earlier events and backstory are unexplained",
+    "The humiliation threat is vague and nothing establishes its stakes",
+    "The ending is reflective rather than suspenseful, so it does not create a strong cliffhanger",
+    "Dialogue and character motivations are sparse, reducing standalone clarity"
+  ],
+  "one_line_why_it_works": "Juliana's composed resignation against the rain and the man's remorseful reactions create a melancholic mood that hints at a larger backstory."
+}

@@ -1,0 +1,226 @@
+{
+  "episode_id": "ep_038",
+  "summary": "On-screen evidence (EP38:E1-EP38:E57) shows Juliana alone in a dungeon cell, starving and shackled. A guard secretly slips her bread, saying 'Because no one should die hungry' and 'Eat it before they see.' She says she has been condemned (EP38:E28), speaks of Alexander, and vows 'I will not give them my husband' (EP38:E40). Church bells toll from above, and she says 'The wedding' and 'It's beginning' (EP38:E50-EP38:E51), ending on her saying 'Alexander' with a hopeful smile. Uncertainty: the on-screen speech never names whose wedding it is, what the execution timing is, who condemned her, what Alexander's secrets are, or who the guard is. The metadata (logline and continuity notes) was treated as non-evidence and is not relied on for any claim here. The 'I'm next' line (EP38:E52) is on-screen, but the execution's date and form are not shown.",
+  "characters": [
+    {
+      "name": "Juliana",
+      "role": "Imprisoned woman in the dungeon cell, starved and shackled, who refers to a husband named Alexander and says she has been condemned"
+    },
+    {
+      "name": "Guard",
+      "role": "Unnamed guard in a black collared uniform with silver buttons who secretly feeds Juliana bread"
+    },
+    {
+      "name": "Alexander",
+      "role": "Absent figure referenced by Juliana as her husband; not seen on screen"
+    }
+  ],
+  "beats": [
+    {
+      "id": "B1",
+      "kind": "setup",
+      "event_refs": [
+        "EP38:E1",
+        "EP38:E2"
+      ],
+      "description": "Juliana sits starved and shackled on the damp cell floor.",
+      "intensity_0_10": 3.0
+    },
+    {
+      "id": "B2",
+      "kind": "inciting_action",
+      "event_refs": [
+        "EP38:E3",
+        "EP38:E4",
+        "EP38:E5",
+        "EP38:E6",
+        "EP38:E7",
+        "EP38:E8",
+        "EP38:E9"
+      ],
+      "description": "Footsteps approach; the guard checks the corridor and slips bread through the gap under the cell door.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "B3",
+      "kind": "dialogue_exchange",
+      "event_refs": [
+        "EP38:E10",
+        "EP38:E11",
+        "EP38:E12",
+        "EP38:E13",
+        "EP38:E14"
+      ],
+      "description": "Juliana crawls toward the bread and asks why; the guard answers that no one should die hungry and urges her to eat before she is seen.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "B4",
+      "kind": "departure",
+      "event_refs": [
+        "EP38:E15",
+        "EP38:E16"
+      ],
+      "description": "The guard walks away into the shadows.",
+      "intensity_0_10": 3.0
+    },
+    {
+      "id": "B5",
+      "kind": "emotional_release",
+      "event_refs": [
+        "EP38:E17",
+        "EP38:E18",
+        "EP38:E19",
+        "EP38:E20",
+        "EP38:E21",
+        "EP38:E22",
+        "EP38:E23"
+      ],
+      "description": "Juliana clutches and eats the bread in tears, thanking the guard and calling out to Alexander.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "B6",
+      "kind": "despair",
+      "event_refs": [
+        "EP38:E24",
+        "EP38:E25",
+        "EP38:E26",
+        "EP38:E27",
+        "EP38:E28",
+        "EP38:E29",
+        "EP38:E30",
+        "EP38:E31",
+        "EP38:E32"
+      ],
+      "description": "Juliana voices fear of dying in the dungeon, reveals she has been condemned, and wonders whether she will see Alexander again.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "B7",
+      "kind": "resolve",
+      "event_refs": [
+        "EP38:E33",
+        "EP38:E34",
+        "EP38:E35",
+        "EP38:E36",
+        "EP38:E37",
+        "EP38:E38",
+        "EP38:E39",
+        "EP38:E40",
+        "EP38:E41"
+      ],
+      "description": "Juliana prays for Alexander's safety and resolves to withhold her husband from her captors and not betray him.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "B8",
+      "kind": "turn",
+      "event_refs": [
+        "EP38:E42",
+        "EP38:E43",
+        "EP38:E44",
+        "EP38:E45",
+        "EP38:E46"
+      ],
+      "description": "Church bells toll from above and Juliana startles at the sound.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "B9",
+      "kind": "cliffhanger",
+      "event_refs": [
+        "EP38:E47",
+        "EP38:E48",
+        "EP38:E49",
+        "EP38:E50",
+        "EP38:E51",
+        "EP38:E52",
+        "EP38:E53",
+        "EP38:E54",
+        "EP38:E55",
+        "EP38:E56",
+        "EP38:E57"
+      ],
+      "description": "Juliana realizes the wedding has begun, says she is next, and whispers Alexander's name as the scene cuts to black with a tense swell.",
+      "intensity_0_10": 8.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "R1",
+      "event_refs": [
+        "EP38:E28"
+      ],
+      "claim": "Juliana says she has been condemned.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "Who condemned Juliana, and on what charge?",
+        "When and how is the sentence to be carried out?"
+      ]
+    },
+    {
+      "id": "R2",
+      "event_refs": [
+        "EP38:E50",
+        "EP38:E51",
+        "EP38:E52"
+      ],
+      "claim": "Juliana connects the tolling bells to a wedding that is beginning and says she is next.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "Whose wedding is taking place?",
+        "Is Juliana's execution tied to this wedding, and how?"
+      ]
+    },
+    {
+      "id": "R3",
+      "event_refs": [
+        "EP38:E40",
+        "EP38:E41"
+      ],
+      "claim": "Juliana refuses to betray or give up her husband to her captors.",
+      "spoiler_significance_0_10": 5.0,
+      "creates_questions": [
+        "What do her captors want from her about Alexander?",
+        "What secret or knowledge is Juliana protecting?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "Who is the guard and why is he secretly helping Juliana?",
+      "introduced_by": [
+        "EP38:E13",
+        "EP38:E14"
+      ]
+    },
+    {
+      "question": "Where is Alexander, and is he safe?",
+      "introduced_by": [
+        "EP38:E23",
+        "EP38:E25"
+      ]
+    },
+    {
+      "question": "Whose wedding is the bell toll announcing?",
+      "introduced_by": [
+        "EP38:E50"
+      ]
+    },
+    {
+      "question": "When and how will Juliana's condemnation be carried out?",
+      "introduced_by": [
+        "EP38:E28",
+        "EP38:E52"
+      ]
+    },
+    {
+      "question": "What do Juliana's captors want from her regarding her husband?",
+      "introduced_by": [
+        "EP38:E40",
+        "EP38:E41"
+      ]
+    }
+  ]
+}

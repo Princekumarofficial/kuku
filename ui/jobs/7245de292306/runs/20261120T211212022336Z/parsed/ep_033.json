@@ -1,0 +1,1417 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "ep_033",
+  "episode_number": 33,
+  "metadata": {
+    "logline": "Under cruel coercion and threats to send her seven-year-old brother to the county gaol, a young maid is manipulated into giving false testimony framing Juliana for witchcraft.",
+    "continuity_notes": "Following Catherine's dungeon interrogation of Juliana, the conspiracy against Juliana deepens as an aristocratic lord forces a testimony of witchcraft out of the young maid whose brother Juliana saved."
+  },
+  "source": {
+    "file": "032_episode-033-Episode 1681366.txt",
+    "sha256": "0012ba24a8fa997a1df93165c06c90dacf5bab6c76ceef791533e8747aec4ad6",
+    "complete": true
+  },
+  "scenes": [
+    {
+      "start_ms": 0,
+      "end_ms": 174040,
+      "id": "sc_001",
+      "heading": "INT. STUDY – NIGHT"
+    }
+  ],
+  "events": [
+    {
+      "start_ms": 0,
+      "end_ms": 5200,
+      "id": "e_001",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Wide shot of a dimly lit, wood-paneled library study. An aristocratic lord in formal dark attire stands facing a young maid standing nervously by the open door.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        14,
+        16
+      ]
+    },
+    {
+      "start_ms": 2500,
+      "end_ms": 4800,
+      "id": "e_002",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Your brother is breathing again.\"",
+      "speaker": "LORD",
+      "delivery": "Cold, Authoritative",
+      "source_lines": [
+        18,
+        20
+      ]
+    },
+    {
+      "start_ms": 4000,
+      "end_ms": 6500,
+      "id": "e_003",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "The young maid steps inside, bowing with a submissive curtsy, keeping her head low and hands clasped.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        22,
+        24
+      ]
+    },
+    {
+      "start_ms": 5200,
+      "end_ms": 8800,
+      "id": "e_004",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of the maid trembling as she raises her eyes hesitantly.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        26,
+        28
+      ]
+    },
+    {
+      "start_ms": 6500,
+      "end_ms": 8500,
+      "id": "e_005",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Yes, my Lord.\"",
+      "speaker": "MAID",
+      "delivery": "Meek, Hesitant",
+      "source_lines": [
+        30,
+        32
+      ]
+    },
+    {
+      "start_ms": 8800,
+      "end_ms": 12000,
+      "id": "e_006",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of the Lord standing beside his mahogany desk, looking down with cold, calculating scrutiny.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        34,
+        36
+      ]
+    },
+    {
+      "start_ms": 9500,
+      "end_ms": 11800,
+      "id": "e_007",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"And who saved him?\"",
+      "speaker": "LORD",
+      "delivery": "Probing",
+      "source_lines": [
+        38,
+        40
+      ]
+    },
+    {
+      "start_ms": 12000,
+      "end_ms": 14800,
+      "id": "e_008",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the maid's anxious, innocent face.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        42,
+        44
+      ]
+    },
+    {
+      "start_ms": 13000,
+      "end_ms": 14500,
+      "id": "e_009",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Lady Juliana.\"",
+      "speaker": "MAID",
+      "delivery": "Quiet, Truthful",
+      "source_lines": [
+        46,
+        48
+      ]
+    },
+    {
+      "start_ms": 14800,
+      "end_ms": 17800,
+      "id": "e_010",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the Lord's hand slowly rotating the heavy gold signet ring on his pinky finger.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        50,
+        52
+      ]
+    },
+    {
+      "start_ms": 15500,
+      "end_ms": 17500,
+      "id": "e_011",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Tell me how.\"",
+      "speaker": "LORD",
+      "delivery": "Measured, Demanding",
+      "source_lines": [
+        54,
+        56
+      ]
+    },
+    {
+      "start_ms": 17800,
+      "end_ms": 21000,
+      "id": "e_012",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of the maid nervously wringing her apron fabric.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        58,
+        60
+      ]
+    },
+    {
+      "start_ms": 19500,
+      "end_ms": 21000,
+      "id": "e_013",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"She... she used herbs.\"",
+      "speaker": "MAID",
+      "delivery": "Faltering",
+      "source_lines": [
+        62,
+        64
+      ]
+    },
+    {
+      "start_ms": 21000,
+      "end_ms": 23000,
+      "id": "e_014",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on the Lord leaning forward abruptly, his piercing gaze bearing down.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        66,
+        68
+      ]
+    },
+    {
+      "start_ms": 21200,
+      "end_ms": 22800,
+      "id": "e_015",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"What herbs?\"",
+      "speaker": "LORD",
+      "delivery": "Sharp, Intimidating",
+      "source_lines": [
+        70,
+        72
+      ]
+    },
+    {
+      "start_ms": 23000,
+      "end_ms": 26500,
+      "id": "e_016",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the frightened maid looking down, shrinking back.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        74,
+        76
+      ]
+    },
+    {
+      "start_ms": 24500,
+      "end_ms": 26200,
+      "id": "e_017",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I don't know.\"",
+      "speaker": "MAID",
+      "delivery": "Whispering, Nervous",
+      "source_lines": [
+        78,
+        80
+      ]
+    },
+    {
+      "start_ms": 26500,
+      "end_ms": 29200,
+      "id": "e_018",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle shot looking up at the imposing Lord towering above her.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        82,
+        84
+      ]
+    },
+    {
+      "start_ms": 27500,
+      "end_ms": 29000,
+      "id": "e_019",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You watched her.\"",
+      "speaker": "LORD",
+      "delivery": "Stern",
+      "source_lines": [
+        86,
+        88
+      ]
+    },
+    {
+      "start_ms": 29200,
+      "end_ms": 32800,
+      "id": "e_020",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the maid, tears beginning to glisten on her cheeks as she defends Juliana.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        90,
+        92
+      ]
+    },
+    {
+      "start_ms": 29800,
+      "end_ms": 32000,
+      "id": "e_021",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I watched her save him.\"",
+      "speaker": "MAID",
+      "delivery": "Tearful, Sincere",
+      "source_lines": [
+        94,
+        96
+      ]
+    },
+    {
+      "start_ms": 32800,
+      "end_ms": 36500,
+      "id": "e_022",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium tracking shot of the Lord turning away slowly past the lamp-lit desk toward the rain-streaked window.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        98,
+        100
+      ]
+    },
+    {
+      "start_ms": 34000,
+      "end_ms": 36200,
+      "id": "e_023",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"That is not what I asked.\"",
+      "speaker": "LORD",
+      "delivery": "Coldly Dismissive",
+      "source_lines": [
+        102,
+        104
+      ]
+    },
+    {
+      "start_ms": 36500,
+      "end_ms": 40200,
+      "id": "e_024",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium two-shot framing the maid from behind as the Lord steps back toward her with commanding stillness.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        106,
+        108
+      ]
+    },
+    {
+      "start_ms": 37500,
+      "end_ms": 40000,
+      "id": "e_025",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Did she use her mother's book?\"",
+      "speaker": "LORD",
+      "delivery": "Accusatory",
+      "source_lines": [
+        110,
+        112
+      ]
+    },
+    {
+      "start_ms": 40200,
+      "end_ms": 44200,
+      "id": "e_026",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the maid trembling, tears spilling down her face.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        114,
+        116
+      ]
+    },
+    {
+      "start_ms": 42200,
+      "end_ms": 43600,
+      "id": "e_027",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Yes.\"",
+      "speaker": "MAID",
+      "delivery": "Quietly Weeping",
+      "source_lines": [
+        118,
+        120
+      ]
+    },
+    {
+      "start_ms": 44200,
+      "end_ms": 49200,
+      "id": "e_028",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the Lord's sinister, unyielding face.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        122,
+        124
+      ]
+    },
+    {
+      "start_ms": 44800,
+      "end_ms": 48800,
+      "id": "e_029",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Did she prepare things no physician had prescribed?\"",
+      "speaker": "LORD",
+      "delivery": "Insistent, Cornering",
+      "source_lines": [
+        126,
+        128
+      ]
+    },
+    {
+      "start_ms": 49200,
+      "end_ms": 52500,
+      "id": "e_030",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of the maid clutching her hands together tightly, overwhelmed with guilt.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        130,
+        132
+      ]
+    },
+    {
+      "start_ms": 50000,
+      "end_ms": 51600,
+      "id": "e_031",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Yes.\"",
+      "speaker": "MAID",
+      "delivery": "Choked Sob",
+      "source_lines": [
+        134,
+        136
+      ]
+    },
+    {
+      "start_ms": 52500,
+      "end_ms": 56800,
+      "id": "e_032",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the Lord's mouth curling into a sinister, predatory smile.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        138,
+        140
+      ]
+    },
+    {
+      "start_ms": 53000,
+      "end_ms": 56500,
+      "id": "e_033",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"And did she perform anything unusual?\"",
+      "speaker": "LORD",
+      "delivery": "Sly, Sinister",
+      "source_lines": [
+        142,
+        144
+      ]
+    },
+    {
+      "start_ms": 56800,
+      "end_ms": 59000,
+      "id": "e_034",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the maid gasping, shaking her head vigorously in panic.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        146,
+        148
+      ]
+    },
+    {
+      "start_ms": 57400,
+      "end_ms": 58800,
+      "id": "e_035",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"No!\"",
+      "speaker": "MAID",
+      "delivery": "Desperate, Denying",
+      "source_lines": [
+        150,
+        152
+      ]
+    },
+    {
+      "start_ms": 59000,
+      "end_ms": 64200,
+      "id": "e_036",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Profile medium two-shot as the Lord looms inches from the maid's face.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        154,
+        156
+      ]
+    },
+    {
+      "start_ms": 59000,
+      "end_ms": 61000,
+      "id": "e_037",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Think carefully.\"",
+      "speaker": "LORD",
+      "delivery": "Low, Menacing",
+      "source_lines": [
+        158,
+        160
+      ]
+    },
+    {
+      "start_ms": 61200,
+      "end_ms": 63500,
+      "id": "e_038",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Your brother is still a pauper.\"",
+      "speaker": "LORD",
+      "delivery": "Ruthless",
+      "source_lines": [
+        162,
+        164
+      ]
+    },
+    {
+      "start_ms": 64200,
+      "end_ms": 68800,
+      "id": "e_039",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Extreme close-up of the Lord's cold eyes and hawkish profile speaking with chilling finality.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        166,
+        168
+      ]
+    },
+    {
+      "start_ms": 64400,
+      "end_ms": 68500,
+      "id": "e_040",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"One word from me, and the county gaol will take him before sunrise.\"",
+      "speaker": "LORD",
+      "delivery": "Threatening",
+      "source_lines": [
+        170,
+        172
+      ]
+    },
+    {
+      "start_ms": 68500,
+      "end_ms": 70000,
+      "id": "e_041",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "The maid gasps in sheer terror, her chest heaving as tears stream.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        174,
+        176
+      ]
+    },
+    {
+      "start_ms": 68800,
+      "end_ms": 73200,
+      "id": "e_042",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the maid clutching her chest with trembling hands, crying desperately.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        178,
+        180
+      ]
+    },
+    {
+      "start_ms": 69500,
+      "end_ms": 73000,
+      "id": "e_043",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Please, my Lord... he is only seven!\"",
+      "speaker": "MAID",
+      "delivery": "Begging, Heartbroken",
+      "source_lines": [
+        182,
+        184
+      ]
+    },
+    {
+      "start_ms": 73200,
+      "end_ms": 75500,
+      "id": "e_044",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the Lord staring down without an ounce of pity.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        186,
+        188
+      ]
+    },
+    {
+      "start_ms": 73200,
+      "end_ms": 75000,
+      "id": "e_045",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Then help him.\"",
+      "speaker": "LORD",
+      "delivery": "Cold, Unwavering",
+      "source_lines": [
+        190,
+        192
+      ]
+    },
+    {
+      "start_ms": 75500,
+      "end_ms": 79500,
+      "id": "e_046",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the maid weeping profusely, cornered and helpless.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        194,
+        196
+      ]
+    },
+    {
+      "start_ms": 76800,
+      "end_ms": 79000,
+      "id": "e_047",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"What do you want me to say?!\"",
+      "speaker": "MAID",
+      "delivery": "Crying, Shattered",
+      "source_lines": [
+        198,
+        200
+      ]
+    },
+    {
+      "start_ms": 79500,
+      "end_ms": 84800,
+      "id": "e_048",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Wide shot of the study as the Lord stands calmly before the trembling servant.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        202,
+        204
+      ]
+    },
+    {
+      "start_ms": 79600,
+      "end_ms": 80500,
+      "id": "e_049",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"The truth.\"",
+      "speaker": "LORD",
+      "delivery": "Deceptive",
+      "source_lines": [
+        206,
+        208
+      ]
+    },
+    {
+      "start_ms": 81000,
+      "end_ms": 84500,
+      "id": "e_050",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"She drew something around the bed, did she not?\"",
+      "speaker": "LORD",
+      "delivery": "Leading, Deliberate",
+      "source_lines": [
+        210,
+        212
+      ]
+    },
+    {
+      "start_ms": 84800,
+      "end_ms": 89000,
+      "id": "e_051",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the maid stammering through her tears.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        214,
+        216
+      ]
+    },
+    {
+      "start_ms": 85500,
+      "end_ms": 88800,
+      "id": "e_052",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"She... placed dried herbs around him.\"",
+      "speaker": "MAID",
+      "delivery": "Trembling, Reluctant",
+      "source_lines": [
+        218,
+        220
+      ]
+    },
+    {
+      "start_ms": 89000,
+      "end_ms": 94800,
+      "id": "e_053",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of the Lord standing right beside her shoulder, whispering in her ear like an insidious specter.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        222,
+        224
+      ]
+    },
+    {
+      "start_ms": 89000,
+      "end_ms": 90500,
+      "id": "e_054",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Around him.\"",
+      "speaker": "LORD",
+      "delivery": "Hypnotic, Coercive",
+      "source_lines": [
+        226,
+        228
+      ]
+    },
+    {
+      "start_ms": 91000,
+      "end_ms": 92500,
+      "id": "e_055",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Like a circle?\"",
+      "speaker": "LORD",
+      "delivery": "Coercive",
+      "source_lines": [
+        230,
+        232
+      ]
+    },
+    {
+      "start_ms": 93000,
+      "end_ms": 94500,
+      "id": "e_056",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Yes.\"",
+      "speaker": "MAID",
+      "delivery": "Faint, Defeated",
+      "source_lines": [
+        234,
+        236
+      ]
+    },
+    {
+      "start_ms": 94800,
+      "end_ms": 98500,
+      "id": "e_057",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up from behind the maid as the Lord leans close to her ear.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        238,
+        240
+      ]
+    },
+    {
+      "start_ms": 95000,
+      "end_ms": 98000,
+      "id": "e_058",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"And she opened her mother's book...\"",
+      "speaker": "LORD",
+      "delivery": "Whispering, Trap Snapping",
+      "source_lines": [
+        242,
+        244
+      ]
+    },
+    {
+      "start_ms": 98500,
+      "end_ms": 100800,
+      "id": "e_059",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Extreme close-up of the maid's tear-drenched eyes and quivering lips.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        246,
+        248
+      ]
+    },
+    {
+      "start_ms": 98500,
+      "end_ms": 100000,
+      "id": "e_060",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Yes.\"",
+      "speaker": "MAID",
+      "delivery": "Sobbing",
+      "source_lines": [
+        250,
+        252
+      ]
+    },
+    {
+      "start_ms": 100800,
+      "end_ms": 104200,
+      "id": "e_061",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the Lord delivering the final trap.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        254,
+        256
+      ]
+    },
+    {
+      "start_ms": 101000,
+      "end_ms": 104000,
+      "id": "e_062",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"...and spoke words you could not understand.\"",
+      "speaker": "LORD",
+      "delivery": "Sinister",
+      "source_lines": [
+        258,
+        260
+      ]
+    },
+    {
+      "start_ms": 104200,
+      "end_ms": 107500,
+      "id": "e_063",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the maid gasping out in desperate agony.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        262,
+        264
+      ]
+    },
+    {
+      "start_ms": 104500,
+      "end_ms": 106500,
+      "id": "e_064",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"She was praying!\"",
+      "speaker": "MAID",
+      "delivery": "Desperately Defending",
+      "source_lines": [
+        266,
+        268
+      ]
+    },
+    {
+      "start_ms": 107500,
+      "end_ms": 111800,
+      "id": "e_065",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the Lord grinning with sinister triumph.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        270,
+        272
+      ]
+    },
+    {
+      "start_ms": 108000,
+      "end_ms": 111500,
+      "id": "e_066",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Praying... or chanting?\"",
+      "speaker": "LORD",
+      "delivery": "Taunting",
+      "source_lines": [
+        274,
+        276
+      ]
+    },
+    {
+      "start_ms": 111800,
+      "end_ms": 113800,
+      "id": "e_067",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the maid breaking down completely.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        278,
+        280
+      ]
+    },
+    {
+      "start_ms": 112000,
+      "end_ms": 113500,
+      "id": "e_068",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I don't know!\"",
+      "speaker": "MAID",
+      "delivery": "Hysterically Sobbing",
+      "source_lines": [
+        282,
+        284
+      ]
+    },
+    {
+      "start_ms": 113800,
+      "end_ms": 119500,
+      "id": "e_069",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot as the Lord paces slowly, pointing his finger with clinical, legal precision.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        286,
+        288
+      ]
+    },
+    {
+      "start_ms": 114000,
+      "end_ms": 116500,
+      "id": "e_070",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You saw a woman draw a circle of herbs.\"",
+      "speaker": "LORD",
+      "delivery": "Calculating, Relentless",
+      "source_lines": [
+        290,
+        292
+      ]
+    },
+    {
+      "start_ms": 116800,
+      "end_ms": 119500,
+      "id": "e_071",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You saw her use a forbidden book.\"",
+      "speaker": "LORD",
+      "delivery": "Relentless",
+      "source_lines": [
+        294,
+        296
+      ]
+    },
+    {
+      "start_ms": 119500,
+      "end_ms": 123500,
+      "id": "e_072",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up profile of the Lord leaning in right in front of the sobbing maid.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        298,
+        300
+      ]
+    },
+    {
+      "start_ms": 119800,
+      "end_ms": 122800,
+      "id": "e_073",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You heard words you could not understand.\"",
+      "speaker": "LORD",
+      "delivery": "Condemning",
+      "source_lines": [
+        302,
+        304
+      ]
+    },
+    {
+      "start_ms": 123500,
+      "end_ms": 126800,
+      "id": "e_074",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Extreme close-up of the Lord's mouth and calculating eyes as he pronounces the lethal word.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        306,
+        308
+      ]
+    },
+    {
+      "start_ms": 124500,
+      "end_ms": 126500,
+      "id": "e_075",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"That is witchcraft.\"",
+      "speaker": "LORD",
+      "delivery": "Deadly, Resolute",
+      "source_lines": [
+        310,
+        312
+      ]
+    },
+    {
+      "start_ms": 126800,
+      "end_ms": 131800,
+      "id": "e_076",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium two-shot as the maid steps forward, pleading passionately against his chest.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        314,
+        316
+      ]
+    },
+    {
+      "start_ms": 126800,
+      "end_ms": 131500,
+      "id": "e_077",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"No! She saved Toby! She made him breathe again!\"",
+      "speaker": "MAID",
+      "delivery": "Crying Out, Desperate",
+      "source_lines": [
+        318,
+        320
+      ]
+    },
+    {
+      "start_ms": 131800,
+      "end_ms": 134500,
+      "id": "e_078",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the Lord calmly watching her futile resistance.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        322,
+        324
+      ]
+    },
+    {
+      "start_ms": 132000,
+      "end_ms": 134000,
+      "id": "e_079",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"That will be your testimony.\"",
+      "speaker": "LORD",
+      "delivery": "Cold, Final",
+      "source_lines": [
+        326,
+        328
+      ]
+    },
+    {
+      "start_ms": 134500,
+      "end_ms": 137800,
+      "id": "e_080",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the maid's face frozen in horrified realization.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        330,
+        332
+      ]
+    },
+    {
+      "start_ms": 134500,
+      "end_ms": 137000,
+      "id": "e_081",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"My testimony?!\"",
+      "speaker": "MAID",
+      "delivery": "Gasping, Shocked",
+      "source_lines": [
+        334,
+        336
+      ]
+    },
+    {
+      "start_ms": 137800,
+      "end_ms": 140500,
+      "id": "e_082",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the Lord delivering the ultimatum without blinking.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        338,
+        340
+      ]
+    },
+    {
+      "start_ms": 138000,
+      "end_ms": 140000,
+      "id": "e_083",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Before the magistrate.\"",
+      "speaker": "LORD",
+      "delivery": "Unyielding",
+      "source_lines": [
+        342,
+        344
+      ]
+    },
+    {
+      "start_ms": 140500,
+      "end_ms": 144800,
+      "id": "e_084",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the maid grabbing both sides of her head, screaming out in utter grief and guilt.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        346,
+        348
+      ]
+    },
+    {
+      "start_ms": 140500,
+      "end_ms": 144000,
+      "id": "e_085",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I never said she was a witch!\"",
+      "speaker": "MAID",
+      "delivery": "Wailing, Tormented",
+      "source_lines": [
+        350,
+        352
+      ]
+    },
+    {
+      "start_ms": 144800,
+      "end_ms": 149200,
+      "id": "e_086",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium tracking shot of the Lord turning his back and walking back behind his desk.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        354,
+        356
+      ]
+    },
+    {
+      "start_ms": 145000,
+      "end_ms": 146500,
+      "id": "e_087",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You do not need to.\"",
+      "speaker": "LORD",
+      "delivery": "Chillingly Detached",
+      "source_lines": [
+        358,
+        360
+      ]
+    },
+    {
+      "start_ms": 146800,
+      "end_ms": 149000,
+      "id": "e_088",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I have already written the story for you.\"",
+      "speaker": "LORD",
+      "delivery": "Chillingly Detached",
+      "source_lines": [
+        362,
+        364
+      ]
+    },
+    {
+      "start_ms": 149200,
+      "end_ms": 152200,
+      "id": "e_089",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the maid clutching her cheeks, crying in heartbreak.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        366,
+        368
+      ]
+    },
+    {
+      "start_ms": 149500,
+      "end_ms": 152000,
+      "id": "e_090",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"She saved my brother...\"",
+      "speaker": "MAID",
+      "delivery": "Sobbing",
+      "source_lines": [
+        370,
+        372
+      ]
+    },
+    {
+      "start_ms": 152200,
+      "end_ms": 156200,
+      "id": "e_091",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the Lord turning back, resting one hand upon the desk with cold finality.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        374,
+        376
+      ]
+    },
+    {
+      "start_ms": 152500,
+      "end_ms": 156000,
+      "id": "e_092",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"And now... you will save your brother.\"",
+      "speaker": "LORD",
+      "delivery": "Inexorable",
+      "source_lines": [
+        378,
+        380
+      ]
+    },
+    {
+      "start_ms": 156200,
+      "end_ms": 159500,
+      "id": "e_093",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "The maid's knees buckle completely. She collapses forward onto the polished dark wood floor, groveling in total despair.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        382,
+        384
+      ]
+    },
+    {
+      "start_ms": 156200,
+      "end_ms": 159500,
+      "id": "e_094",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "High angle looking down as the maid falls prostrate on the floor.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        386,
+        388
+      ]
+    },
+    {
+      "start_ms": 159000,
+      "end_ms": 161500,
+      "id": "e_095",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I am sorry, Lady Juliana...\"",
+      "speaker": "MAID",
+      "delivery": "Weeping, Broken",
+      "source_lines": [
+        390,
+        392
+      ]
+    },
+    {
+      "start_ms": 159500,
+      "end_ms": 163800,
+      "id": "e_096",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle shot of the Lord looking down dismissively at the prostrate maid.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        394,
+        396
+      ]
+    },
+    {
+      "start_ms": 161800,
+      "end_ms": 164500,
+      "id": "e_097",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Save your tears for the trial.\"",
+      "speaker": "LORD",
+      "delivery": "Cold, Merciless",
+      "source_lines": [
+        398,
+        400
+      ]
+    },
+    {
+      "start_ms": 163800,
+      "end_ms": 174040,
+      "id": "e_098",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Side medium shot of the maid kneeling crumpled on the floor in the dimly lit study, her face buried in both hands, weeping uncontrollably as the scene slowly fades into the dark silence.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        402,
+        404
+      ]
+    },
+    {
+      "start_ms": 164500,
+      "end_ms": 174040,
+      "id": "e_099",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "The heartbroken maid weeps silently in the shadow of the desk, consumed by guilt and powerlessness.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        406,
+        408
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "start_ms": 0,
+      "end_ms": 174040
+    }
+  ],
+  "warnings": []
+}

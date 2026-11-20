@@ -1,0 +1,184 @@
+{
+  "stage": "episode_analysis",
+  "system": "Analyze narrative beats, characters, revelations and unresolved questions. Only event text is on-screen evidence; metadata may describe unseen events. Use supplied EPxx:Ex aliases. Report uncertainty in the summary. A revelation's significance is not its spoiler damage.",
+  "user": "EP=ep_011; timestamps are integer milliseconds\nSOURCE_SHA256=839ae70b822b9ae862ea9b0625a372d2a03660757d6556cd2dc1251d876654de\nMETADATA ONLY (not on-screen evidence): {'logline': 'Gerald and Clarissa arrive at the cottage with an armed constable accusing Alexander of grand theft, culminating in a devastating planted discovery that threatens to tear the newlyweds apart.', 'continuity_notes': 'Picks up immediately after the intimate moment between Juliana and Alexander in Episode 10, interrupted by the ominous arrival of an aristocratic carriage carrying Gerald.'}\nSOURCE WARNINGS=['sc_001: incomplete source coverage; gaps are unavailable', 'sc_002: incomplete source coverage; gaps are unavailable']\nSCENE sc_001 0-54000 EXT. COTTAGE GROUNDS – DAY\nEP11:E1 0-2000 CAMERA: Low-angle tracking shot of heavy carriage wheels churning violently through the muddy, waterlogged track.\nEP11:E2 0-2000 SOUND: Squelch of mud and the grinding rattle of carriage wheels under heavy rain.\nEP11:E3 2000-4000 CAMERA: Medium two-shot of Juliana and Alexander standing outside the rustic stone cottage, watching the incoming carriage with tense apprehension.\nEP11:E4 2000-4000 ACTION: Juliana wrings a damp rag in her hands, her face etched with rising dread, while Alexander stands guard beside her.\nEP11:E5 4000-6500 CAMERA: Tight shot tilting up as polished black boots step down directly into the muck, revealing Gerald clad in an opulent burgundy double-breasted coat.\nEP11:E6 5500-7000 ACTION: Gerald buttons his coat, smug self-satisfaction radiating from his expression.\nEP11:E7 7000-8200 CAMERA: Medium shot of a uniformed Constable descending from the carriage, firmly gripping a wooden truncheon.\nEP11:E8 8200-10800 CAMERA: Medium tracking shot as Juliana steps defensively toward Gerald, her face full of shock and anger.\nEP11:E9 8300-10700 JULIANA [Startled, Indignant]: \"Gerald? What are you doing here?\"\nEP11:E10 10800-13000 CAMERA: Wide two-shot across the puddle-strewn ground between Gerald and Juliana against the misty landscape.\nEP11:E11 11100-13200 GERALD [Arrogant, Smooth]: \"I came for something that belongs to me.\"\nEP11:E12 13000-14300 CAMERA: Close-up of Clarissa peering from the carriage window in her violet silk gown, a venomous, triumphant smile curling her lips.\nEP11:E13 14300-16800 CAMERA: Close-up of Juliana, her anger flaring as she gestures sharply.\nEP11:E14 14400-16700 JULIANA [Furious, Defiant]: \"You have already taken enough from me. Leave!\"\nEP11:E15 16800-18500 CAMERA: Medium close-up of Gerald pointing an accusatory finger, his composure snapping into hostile anger.\nEP11:E16 16800-18700 GERALD [Aggressive, Snarl]: \"Your husband stole my gold pocket watch!\"\nEP11:E17 18500-20000 CAMERA: Close-up of Juliana recoiling in utter disbelief.\nEP11:E18 19000-20000 JULIANA [Incredulous, Gasping]: \"What? When?\"\nEP11:E19 20000-22000 CAMERA: Close-up of Gerald narrowing his eyes vindictively.\nEP11:E20 20900-22300 GERALD [Cold, Certain]: \"The last time I came here.\"\nEP11:E21 22000-24600 CAMERA: Medium shot of Juliana scoffing, stepping forward as Alexander stands motionless behind her.\nEP11:E22 23000-24800 JULIANA [Contemptuous, Outraged]: \"You never even entered the cottage!\"\nEP11:E23 24600-26900 CAMERA: Close-up of Gerald smirking with condescending amusement.\nEP11:E24 25200-27000 GERALD [Smug, Threatening]: \"Then you should have nothing to fear from a search.\"\nEP11:E25 26900-28900 CAMERA: Three-shot of Alexander, Juliana, and Gerald in the bleak drizzle.\nEP11:E26 27300-29000 JULIANA [Adamant, Protective]: \"Alexander would never steal from you.\"\nEP11:E27 28900-32400 CAMERA: Low-angle shot of Gerald throwing his head back in arrogant, mocking laughter.\nEP11:E28 29300-32800 GERALD [Mocking, Spiteful]: \"Of course you would defend him. You married a beggar!\"\nEP11:E29 32400-34900 CAMERA: Medium close-up of Alexander stepping past Juliana, his gaze murderous and jaw rigid.\nEP11:E30 33000-34900 ALEXANDER [Low, Menacing]: \"Choose your next words carefully.\"\nEP11:E31 34900-37000 CAMERA: Medium shot of Gerald pointing back toward the approaching Constable, feigning alarm.\nEP11:E32 35100-37100 GERALD [Shouting, Dramatic]: \"You hear that? He threatens me again!\"\nEP11:E33 37000-39100 CAMERA: Medium shot of the Constable marching into frame between them, holding his truncheon horizontally.\nEP11:E34 37400-39200 CONSTABLE [Authoritative, Stern]: \"I have received a complaint of theft.\"\nEP11:E35 39100-41000 CAMERA: Extreme close-up of Juliana, defiant and resolute.\nEP11:E36 39700-41100 JULIANA [Fierce]: \"A complaint is not proof.\"\nEP11:E37 41000-43300 CAMERA: Close-up of the Constable gesturing with his truncheon toward the cottage door.\nEP11:E38 41400-43300 CONSTABLE [Cold, Procedural]: \"Then a search will settle the matter.\"\nEP11:E39 43300-46000 CAMERA: Medium shot of Juliana backing up to the doorway, spreading her arms wide to block the entrance.\nEP11:E40 43500-46300 JULIANA [Desperate, Shouting]: \"You cannot simply invade our home because this man makes an accusation!\"\nEP11:E41 46000-47800 CAMERA: Medium close-up of Gerald crossing his arms smugly.\nEP11:E42 46800-48300 GERALD [Taunting]: \"If he has nothing to hide...\"\nEP11:E43 47800-50800 CAMERA: Extreme close-up push-in on Alexander's scarred face, his eyes smoldering with lethal restraint.\nEP11:E44 48400-50000 GERALD [O.S.) (Smug]: \"...let the constable search.\"\nEP11:E45 50100-51000 ALEXANDER [Dark, Grated]: \"Search it.\"\nEP11:E46 50800-53600 CAMERA: Medium two-shot of Juliana looking up at Alexander in panicked confusion.\nEP11:E47 52800-53600 ALEXANDER [Resigned, Calm]: \"Let them.\"\nSCENE sc_002 54000-112750 INT. COTTAGE – CONTINUOUS\nEP11:E48 54000-56000 CAMERA: Medium shot looking out the doorway as Juliana steps aside and the Constable barges past into the dimly lit cottage.\nEP11:E49 54500-56500 SOUND: Heavy thud of boots entering wooden floorboards, followed by forceful banging of furniture.\nEP11:E50 56000-58000 ACTION: The Constable begins violently overturning crates and dumping contents across the floor.\nEP11:E51 58000-60000 CAMERA: Medium low-angle shot of Juliana dropping to her knees, frantically trying to salvage bundles of dried herbs scattering across the boards.\nEP11:E52 58000-60100 JULIANA [Distressed, Pleading]: \"Stop! Those are my mother's medicines!\"\nEP11:E53 60000-61800 ACTION: The Constable aggressively pulls folded bed linens from a shelf and hurls them onto the damp floor.\nEP11:E54 61800-63500 CAMERA: Low-angle close-up of Juliana crawling on the floor, looking up with tears streaming down her cheeks.\nEP11:E55 61800-63800 JULIANA [Crying, Desperate]: \"Please! There is nothing here!\"\nEP11:E56 63500-65500 CAMERA: Close-up of the Constable's hands flipping open a small wooden keepsake box on a work table.\nEP11:E57 63900-65700 CONSTABLE [Cold, Indifferent]: \"Then you have nothing to fear.\"\nEP11:E58 65500-67400 CAMERA: Low-angle close-up of Juliana clutching the fallen linens to her chest, her voice breaking.\nEP11:E59 66000-67500 JULIANA [Heartbroken, Sobbing]: \"Those are all I have left!\"\nEP11:E60 67400-71500 CAMERA: Medium shot of Gerald leaning casually against the cottage doorframe, looking around with contemptuous disgust.\nEP11:E61 67500-71600 GERALD [Cruel, Condescending]: \"Stand aside. Look at this place. A perfect hiding hole for a thief.\"\nEP11:E62 71500-74800 CAMERA: Medium shot of Juliana rising to her feet, clutching the folded cloth, her face contorting with rage.\nEP11:E63 72100-75000 JULIANA [Furious, Accusatory]: \"You planted this accusation because you cannot bear that I am happy without you!\"\nEP11:E64 74800-76800 CAMERA: Tight close-up of Gerald's face chilling into a cold sneer.\nEP11:E65 75500-76800 GERALD [Scoffing, Sinister]: \"Happy?\"\nEP11:E66 76800-79500 CAMERA: Medium shot of Alexander standing in the cottage shadows, eyes locked onto Gerald.\nEP11:E67 79500-81300 CAMERA: Extreme close-up of Alexander's right hand slowly tightening into a white-knuckled fist.\nEP11:E68 81300-84000 CAMERA: Low-angle close-up of Gerald tilting his chin up, daringly baiting Alexander.\nEP11:E69 81300-84000 GERALD [Provoking, Smirking]: \"What is it, soldier? Going to strike a gentleman in front of his wife?\"\nEP11:E70 84200-85000 JULIANA [Whispering, Terrified]: \"Don't!\"\nEP11:E71 85000-86500 CAMERA: Close-up of Juliana clutching her dress collar in acute panic.\nEP11:E72 86000-87500 ALEXANDER [V.O.) (Haunted, Resolute]: \"One blow would end this.\"\nEP11:E73 86500-89800 CAMERA: Medium shot of the Constable stepping up behind Alexander, holding his truncheon firmly across Alexander's chest to restrain him, cutting to a tight close-up of Alexander's smoldering eyes.\nEP11:E74 88000-90000 ALEXANDER [V.O.) (Pained, Selfless]: \"But one blow would destroy her life.\"\nEP11:E75 89800-92000 CAMERA: Medium shot of the Constable turning to Alexander's heavy trench coat hanging on an iron wall hook by the fireplace.\nEP11:E76 91000-92200 ACTION: The Constable grabs the coat by the collar and begins rummaging through its deep pockets.\nEP11:E77 92100-93200 JULIANA [Startled, Shouting]: \"That is his coat!\"\nEP11:E78 93200-96800 CAMERA: Close-up of the Constable's hand sliding deep inside the inner coat lining and withdrawing a gleaming gold pocket watch with an attached chain.\nEP11:E79 95800-97000 SOUND: Metallic clinking of the gold chain sliding against fabric.\nEP11:E80 96800-99200 CAMERA: Extreme close-up of Juliana gasping in sheer horror, her eyes welling with shock and shattered disbelief.\nEP11:E81 97200-99000 ACTION: Juliana draws a sharp, terrified breath as her face pales completely.\nEP11:E82 99200-102000 CAMERA: Extreme close-up of Alexander's face hardening into lethal, icy comprehension, realizing the depth of the frame-up.\nEP11:E83 102000-106800 CAMERA: Medium close-up push-in on Gerald's face erupting into an ecstatic, wicked grin, bursting into triumphant laughter.\nEP11:E84 104200-106600 GERALD [Gloating, Victorious]: \"There it is. Ha!\"\nEP11:E85 106800-112750 CAMERA: Tight macro shot of the gold pocket watch dangling and swaying gently from the Constable's fingers on its long chain, with Gerald blurred in the background grinning with sinister triumph as the scene hangs in a devastating freeze-frame.",
+  "schema": {
+    "$defs": {
+      "Beat": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "kind": {
+            "title": "Kind",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "description": {
+            "title": "Description",
+            "type": "string"
+          },
+          "intensity_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Intensity 0 10",
+            "type": "number"
+          }
+        },
+        "required": [
+          "id",
+          "kind",
+          "event_refs",
+          "description",
+          "intensity_0_10"
+        ],
+        "title": "Beat",
+        "type": "object"
+      },
+      "Character": {
+        "additionalProperties": false,
+        "properties": {
+          "name": {
+            "title": "Name",
+            "type": "string"
+          },
+          "role": {
+            "title": "Role",
+            "type": "string"
+          }
+        },
+        "required": [
+          "name",
+          "role"
+        ],
+        "title": "Character",
+        "type": "object"
+      },
+      "Question": {
+        "additionalProperties": false,
+        "properties": {
+          "question": {
+            "title": "Question",
+            "type": "string"
+          },
+          "introduced_by": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Introduced By",
+            "type": "array"
+          }
+        },
+        "required": [
+          "question",
+          "introduced_by"
+        ],
+        "title": "Question",
+        "type": "object"
+      },
+      "Revelation": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "claim": {
+            "title": "Claim",
+            "type": "string"
+          },
+          "spoiler_significance_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Spoiler Significance 0 10",
+            "type": "number"
+          },
+          "creates_questions": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Creates Questions",
+            "type": "array"
+          }
+        },
+        "required": [
+          "id",
+          "event_refs",
+          "claim",
+          "spoiler_significance_0_10",
+          "creates_questions"
+        ],
+        "title": "Revelation",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "episode_id": {
+        "title": "Episode Id",
+        "type": "string"
+      },
+      "summary": {
+        "title": "Summary",
+        "type": "string"
+      },
+      "characters": {
+        "items": {
+          "$ref": "#/$defs/Character"
+        },
+        "title": "Characters",
+        "type": "array"
+      },
+      "beats": {
+        "items": {
+          "$ref": "#/$defs/Beat"
+        },
+        "title": "Beats",
+        "type": "array"
+      },
+      "revelations": {
+        "items": {
+          "$ref": "#/$defs/Revelation"
+        },
+        "title": "Revelations",
+        "type": "array"
+      },
+      "unresolved_questions": {
+        "items": {
+          "$ref": "#/$defs/Question"
+        },
+        "title": "Unresolved Questions",
+        "type": "array"
+      }
+    },
+    "required": [
+      "episode_id",
+      "summary",
+      "characters",
+      "beats",
+      "revelations",
+      "unresolved_questions"
+    ],
+    "title": "EpisodeAnalysis",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

@@ -1,0 +1,310 @@
+{
+  "episode_id": "ep_003",
+  "summary": "Episode ep_003 covers scene sc_001 through sc_003 in a cathedral. Lady Juliana is humiliated by her sister, the Lady in Gold Gown, and by the Noble Matriarch, who orders her removed by royal guards. An unnamed, scarred Bearded Stranger intervenes, incapacitates one guard, and drops to one knee to offer Juliana a silver ring. The episode ends on a cliffhanger with Juliana's response unseen. Evidence is limited to on-screen event text. Metadata was not used as evidence. The stranger is never named, and his motives and history with Juliana are not shown. The identity of the 'Former Groom' is inferred from the on-screen Gerald and is not confirmed by a name tag. Speaker labels for E85, E87 and E91 contain a malformed 'O.S.' tag, so those attributions are uncertain. Juliana's father is unnamed. Event text describes the sister as 'her sister' in E6 only. The Lady in Gold Gown's exact relation to Juliana beyond sister is not stated. Event text does not show what happens after the cliffhanger.",
+  "characters": [
+    {
+      "name": "Lady Juliana",
+      "role": "Protagonist; humiliated bride-to-be expelled from the cathedral, later offered a ring and proposal"
+    },
+    {
+      "name": "Lady in Gold Gown",
+      "role": "Juliana's sister, antagonist who mocks Juliana and claims the wedding"
+    },
+    {
+      "name": "Gerald",
+      "role": "Groom at the altar, passive during the humiliation and later panicking as the guard falls"
+    },
+    {
+      "name": "Noble Matriarch",
+      "role": "Family matriarch who orders Juliana's expulsion and has the guards seize her"
+    },
+    {
+      "name": "The Bearded Stranger",
+      "role": "Unnamed scarred stranger who defends Juliana and proposes; identity unknown"
+    },
+    {
+      "name": "Royal Guard (lead)",
+      "role": "Guard who blocks the stranger and is knocked down"
+    },
+    {
+      "name": "Juliana's father",
+      "role": "Silent parent who is unable to prevent the expulsion and shows guilt; unnamed"
+    }
+  ],
+  "beats": [
+    {
+      "id": "b1",
+      "kind": "humiliation",
+      "event_refs": [
+        "EP03:E1",
+        "EP03:E2",
+        "EP03:E3",
+        "EP03:E4",
+        "EP03:E5",
+        "EP03:E6",
+        "EP03:E7",
+        "EP03:E8",
+        "EP03:E9",
+        "EP03:E10",
+        "EP03:E11",
+        "EP03:E12",
+        "EP03:E13",
+        "EP03:E14",
+        "EP03:E15",
+        "EP03:E16",
+        "EP03:E17"
+      ],
+      "description": "Juliana is mocked by the Lady in Gold Gown and disputes the claim to her wedding while standing abandoned at the altar.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b2",
+      "kind": "confrontation",
+      "event_refs": [
+        "EP03:E18",
+        "EP03:E19",
+        "EP03:E20",
+        "EP03:E21",
+        "EP03:E22",
+        "EP03:E23",
+        "EP03:E24",
+        "EP03:E25",
+        "EP03:E26",
+        "EP03:E27",
+        "EP03:E28",
+        "EP03:E29",
+        "EP03:E30",
+        "EP03:E31",
+        "EP03:E32",
+        "EP03:E33",
+        "EP03:E34",
+        "EP03:E35"
+      ],
+      "description": "The Noble Matriarch rejects Juliana's accusations against the family and orders her to leave.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b3",
+      "kind": "expulsion",
+      "event_refs": [
+        "EP03:E36",
+        "EP03:E37",
+        "EP03:E38",
+        "EP03:E39",
+        "EP03:E40",
+        "EP03:E41",
+        "EP03:E42",
+        "EP03:E43",
+        "EP03:E44",
+        "EP03:E45",
+        "EP03:E46",
+        "EP03:E47",
+        "EP03:E48",
+        "EP03:E49",
+        "EP03:E50",
+        "EP03:E51",
+        "EP03:E52",
+        "EP03:E53",
+        "EP03:E54"
+      ],
+      "description": "Juliana defies the Matriarch, who orders the guards to remove her, and the guards forcibly drag her from the altar.",
+      "intensity_0_10": 9.0
+    },
+    {
+      "id": "b4",
+      "kind": "crowd_reaction",
+      "event_refs": [
+        "EP03:E55"
+      ],
+      "description": "The congregation watches in stunned silence as Juliana is dragged through the aisle.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "b5",
+      "kind": "intervention",
+      "event_refs": [
+        "EP03:E56",
+        "EP03:E57",
+        "EP03:E58",
+        "EP03:E59",
+        "EP03:E60",
+        "EP03:E61",
+        "EP03:E62",
+        "EP03:E63",
+        "EP03:E64",
+        "EP03:E65",
+        "EP03:E66",
+        "EP03:E67",
+        "EP03:E68",
+        "EP03:E69",
+        "EP03:E70",
+        "EP03:E71",
+        "EP03:E72"
+      ],
+      "description": "The Bearded Stranger walks down the aisle, faces the lead guard, and knocks him unconscious with a single strike.",
+      "intensity_0_10": 9.0
+    },
+    {
+      "id": "b6",
+      "kind": "aftermath_check",
+      "event_refs": [
+        "EP03:E73",
+        "EP03:E74",
+        "EP03:E75",
+        "EP03:E76",
+        "EP03:E77",
+        "EP03:E78",
+        "EP03:E79",
+        "EP03:E80",
+        "EP03:E81"
+      ],
+      "description": "Gerald panics and urges the remaining guards to act. The stranger warns the other guard and asks Juliana whether she is hurt.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b7",
+      "kind": "confrontation_with_matriarch",
+      "event_refs": [
+        "EP03:E82",
+        "EP03:E83",
+        "EP03:E84",
+        "EP03:E85",
+        "EP03:E86",
+        "EP03:E87"
+      ],
+      "description": "The Matriarch objects that the stranger cannot interfere in a family matter. The stranger answers that the family is dragging a defenseless woman from a church. Juliana's father is shown in guilt.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b8",
+      "kind": "emotional_exchange",
+      "event_refs": [
+        "EP03:E88",
+        "EP03:E89",
+        "EP03:E90",
+        "EP03:E91",
+        "EP03:E92",
+        "EP03:E93",
+        "EP03:E94",
+        "EP03:E95",
+        "EP03:E96",
+        "EP03:E97"
+      ],
+      "description": "The stranger tells Juliana she should not have to beg and that she should remember her worth. Juliana asks why he is doing this and he answers simply that he wants to.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b9",
+      "kind": "proposal",
+      "event_refs": [
+        "EP03:E98",
+        "EP03:E99",
+        "EP03:E100",
+        "EP03:E101",
+        "EP03:E102",
+        "EP03:E103",
+        "EP03:E104",
+        "EP03:E105",
+        "EP03:E106",
+        "EP03:E107",
+        "EP03:E108",
+        "EP03:E109",
+        "EP03:E110",
+        "EP03:E111",
+        "EP03:E112",
+        "EP03:E113",
+        "EP03:E114",
+        "EP03:E115",
+        "EP03:E116"
+      ],
+      "description": "The stranger produces a silver ring, says it was taken from Juliana, drops to one knee, and asks her to accept his hand. The congregation gasps.",
+      "intensity_0_10": 9.0
+    },
+    {
+      "id": "b10",
+      "kind": "cliffhanger",
+      "event_refs": [
+        "EP03:E117",
+        "EP03:E118"
+      ],
+      "description": "Juliana looks down at him with tears and a trembling smile as the score holds, leaving her answer unresolved.",
+      "intensity_0_10": 7.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "r1",
+      "event_refs": [
+        "EP03:E100",
+        "EP03:E103"
+      ],
+      "claim": "The stranger states that the silver ring was taken from Juliana.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "Who took the ring from Juliana and why?",
+        "What is the stranger's connection to the ring and to Juliana?"
+      ]
+    },
+    {
+      "id": "r2",
+      "event_refs": [
+        "EP03:E101"
+      ],
+      "claim": "The stranger says Juliana came to the church to become a wife.",
+      "spoiler_significance_0_10": 3.0,
+      "creates_questions": [
+        "What was the arrangement for Juliana's marriage?"
+      ]
+    },
+    {
+      "id": "r3",
+      "event_refs": [
+        "EP03:E27",
+        "EP03:E43",
+        "EP03:E45"
+      ],
+      "claim": "The Matriarch states that the father has made his choice and that the family has chosen its own over Juliana.",
+      "spoiler_significance_0_10": 5.0,
+      "creates_questions": [
+        "Why did Juliana's father choose the family over her?",
+        "What led to Juliana being cast out?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "Who is The Bearded Stranger and what is his history with Juliana?",
+      "introduced_by": [
+        "EP03:E56",
+        "EP03:E59"
+      ]
+    },
+    {
+      "question": "Why did the stranger intervene and why does he say he wants to help?",
+      "introduced_by": [
+        "EP03:E96"
+      ]
+    },
+    {
+      "question": "Will Juliana accept the stranger's proposal?",
+      "introduced_by": [
+        "EP03:E116",
+        "EP03:E117"
+      ]
+    },
+    {
+      "question": "What is the history of the silver ring and who took it from Juliana?",
+      "introduced_by": [
+        "EP03:E100",
+        "EP03:E103"
+      ]
+    },
+    {
+      "question": "What will happen to Juliana now that she has been cast out?",
+      "introduced_by": [
+        "EP03:E29",
+        "EP03:E31"
+      ]
+    }
+  ]
+}

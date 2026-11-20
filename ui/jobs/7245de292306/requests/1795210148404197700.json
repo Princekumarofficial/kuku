@@ -1,0 +1,158 @@
+{
+  "stage": "candidate_discovery",
+  "system": "Find diverse promo opportunities, preferably 8-12 if supported. Return hook and unresolved ending anchors, not timestamps. A continuous clip must last 20-60 seconds with its hook in the first 3 seconds, understandable without prior context. Check the anchor timestamps: ending.end_ms minus hook.start_ms should be 20,000-60,000ms. Do not propose isolated 2-10 second moments. Both anchors and required context must fit in one supplied coverage interval. Ending anchors should precede resolution. Context refs must occur within the clip. Empty opportunities are valid when evidence is insufficient.",
+  "user": "EP=ep_015; timestamps are integer milliseconds\nSOURCE_SHA256=4820cb5f1dca8b09eb9b111eb828151ea39cb8d15da729b75acb08551f573b27\nMETADATA ONLY (not on-screen evidence): {'logline': \"When ruthless thugs desecrate Juliana's medicinal garden and trample her late mother's herbs, a protective Alexander charges into the night to defend her.\", 'continuity_notes': \"Follows Episode 14 where Alexander solemnly vowed Juliana would never be hurt again; Juliana's hands remain heavily bandaged from retrieving the emerald ring.\"}\nSOURCE WARNINGS=[]\nSCENE sc_001 0-86000 EXT. HERBAL GARDEN - NIGHT\nEP15:E1 0-3500 CAMERA: High-angle wide shot of the raised planter beds illuminated by the pale moonlight as three shadowy figures march purposefully down the central stone path.\nEP15:E2 0-3500 ACTION: Three menacing thugs, armed with clubs and tools, stalk through the quiet herbal garden surrounded by stone walls.\nEP15:E3 3500-5000 CAMERA: Low-angle medium shot focusing on one thug raising a heavy wooden club overhead.\nEP15:E4 3600-4900 ACTION: The thug brutally smashes his club down into a wooden planter box, shattering the frame.\nEP15:E5 3800-4900 SOUND: A splintering wooden crash echoing through the night air.\nEP15:E6 5000-7500 CAMERA: Medium close-up of a bald thug leaning over a lush bed of white medicinal chamomile herbs.\nEP15:E7 5100-7400 ACTION: The bald thug roughly rips a massive handful of flowering herbs up by their roots, scattering soil across the path.\nEP15:E8 7500-11800 CAMERA: Medium shot framing the open doorway of the stone cottage, bathed in warm interior light against the dark night.\nEP15:E9 7600-11800 ACTION: Juliana bursts through the cottage doorway, her hands wrapped in clean white bandages, freezing in horror at the destruction.\nEP15:E10 8500-11700 JULIANA [Desperate, Alarmed]: \"Stop! What are you doing?!\"\nEP15:E11 11800-15800 CAMERA: Medium close-up of the Thug with Cap holding the uprooted chamomile bouquet, sneering with cruel amusement.\nEP15:E12 13000-15700 THUG WITH CAP [Mocking, Smug]: \"We're clearing this rubbish.\"\nEP15:E13 15800-18800 CAMERA: Close-up on Juliana, her face tight with anguish and fury as she clutches her bandaged hands against her chest.\nEP15:E14 16400-18700 JULIANA [Furious, Pleading]: \"Those are medicinal plants!\"\nEP15:E15 18800-22500 CAMERA: Low-angle shot tracking down from the bald thug's grinning face to his worn leather boots on the muddy flagstones.\nEP15:E16 20000-22300 BALD THUG [Callous]: \"They look like weeds to me.\"\nEP15:E17 20500-22500 ACTION: The bald thug flings the bouquet into the mud and grinds his heavy boot directly onto the delicate flowers.\nEP15:E18 22500-26800 CAMERA: High-angle two-shot as Juliana rushes forward and drops directly onto her knees in the cold mud before the thug.\nEP15:E19 22800-26500 ACTION: Juliana frantically tries to scoop the crushed soil and torn stems back into the bed with her bandaged hands.\nEP15:E20 23200-26300 JULIANA [Choked with Tears, Desperate]: \"Please! Those plants took months to grow!\"\nEP15:E21 26800-31500 CAMERA: Medium two-shot of the Tall Thug with the club and the Thug with Cap bursting into raucous laughter under the full moon.\nEP15:E22 27500-31200 TALL THUG [Contemptuous, Derisive]: \"Months? You actually spend your days growing this filth?\"\nEP15:E23 31500-34000 CAMERA: Tight close-up of Juliana's bandaged hands trembling as she tenderly gathers the soiled white flowers from the puddles.\nEP15:E24 34000-37000 CAMERA: Low-angle medium shot tilting up as Juliana rises from the ground, standing tall despite her trembling frame.\nEP15:E25 34800-36800 JULIANA [Defiant, Firm]: \"Leave my garden alone.\"\nEP15:E26 37000-40500 CAMERA: Medium close-up of the Thug with Cap scoffing derisively.\nEP15:E27 37200-40400 THUG WITH CAP [Sneering, Disdainful]: \"A noble lady playing in the dirt. What a joke.\"\nEP15:E28 40500-44200 CAMERA: Medium close-up of Juliana, her eyes blazing with indignation and wounded pride.\nEP15:E29 41000-44000 JULIANA [Resolute, Dignified]: \"It is my home. You have no right to destroy anything here.\"\nEP15:E30 44200-46500 CAMERA: Tight close-up of the Thug with Cap stepping aggressively into Juliana's personal space, snarling with venom.\nEP15:E31 44800-46400 THUG WITH CAP [Menacing Snarl]: \"Get out of the way!\"\nEP15:E32 46500-48000 CAMERA: Extreme close-up on Juliana's piercing blue eyes and set jaw, unflinching.\nEP15:E33 46500-47300 JULIANA [Steely, Fearless]: \"No.\"\nEP15:E34 47400-49500 ACTION: The Thug with Cap violently shoves Juliana back with both hands; she cries out as she loses her balance and crashes hard onto the wet stone path.\nEP15:E35 47800-49000 JULIANA [Gasping Cry]: \"Ah!\"\nEP15:E36 49500-53500 CAMERA: Close-up tracking down to Juliana's hand hitting the mud next to the crushed chamomile flowers.\nEP15:E37 50000-53500 ACTION: Juliana crawls forward on her elbows; fresh crimson blood seeps profusely through her white gauze bandages as she reaches for the ruined blossoms.\nEP15:E38 53500-56500 CAMERA: Tight close-up on Juliana's mud-streaked, tear-stained face trembling in heartbreaking agony.\nEP15:E39 53500-55700 JULIANA [Broken, Sobbing]: \"My mother's plants...\"\nEP15:E40 56500-60000 CAMERA: Low-angle wide shot of the three thugs pointing and laughing hysterically at her kneeling form.\nEP15:E41 57300-59800 BALD THUG [Cruel, Laughing]: \"Look at her! Crying over weeds!\"\nEP15:E42 60000-62000 ACTION: The Tall Thug hoists his heavy wooden club above his head to crush the remaining herbs right before Juliana.\nEP15:E43 60000-61000 JULIANA [Screaming]: \"Stop!\"\nEP15:E44 62000-63200 CAMERA: Medium close-up of the Thug with Cap suddenly stiffening, his smug smile dropping as footsteps pound in the darkness.\nEP15:E45 63200-67500 CAMERA: Medium tracking shot as Alexander charges past the corner of the cottage into the misty moonlight, his dark coat billowing behind him.\nEP15:E46 63500-67500 ACTION: Alexander storms forward with lethal intensity, dark hair flying, breath misting in the cold, radiating untamed rage.\nEP15:E47 67500-73500 CAMERA: Close-up of Juliana looking up through wet lashes, trembling as shock transforms into overwhelming relief.\nEP15:E48 70500-72600 JULIANA [Whispered Breath, Stunned]: \"Alexander...\"\nEP15:E49 73500-75500 CAMERA: Wide shot of the three thugs wheeling around to face the dark figure approaching from the mist.\nEP15:E50 75500-78500 CAMERA: Low-angle tracking shot from behind Alexander's broad shoulders as he steadily steps past the fallen Juliana, towering over the intruders.\nEP15:E51 76000-78500 ACTION: Alexander places himself directly between Juliana and the three thugs, staring them down with cold, deadly intent.\nEP15:E52 78500-82800 CAMERA: Medium shot of the three thugs regrouping, the Thug with Cap feigning swagger as he grips his club.\nEP15:E53 79000-82400 THUG WITH CAP [Challenging, Arrogant]: \"What? You want to fight us, veteran?\"\nEP15:E54 82800-86000 CAMERA: Close-up of Juliana looking up with wide, anxious eyes, breath hitching in suspense as violence hangs on a knife's edge.\nEP15:E55 84000-86000 SOUND: Tense, low dramatic cello swell holding into an abrupt cliffhanger cut.\nAVAILABLE COVERAGE (milliseconds)=[{\"start_ms\": 0, \"end_ms\": 86000}]\nEPISODE ANALYSIS={\"episode_id\":\"ep_015\",\"summary\":\"Episode ep_015 (event aliases EP15) covers a night raid on Juliana's herbal garden in sc_001 (0-86000 ms). Three thugs destroy planters and uproot chamomile, Juliana confronts them, is shoved to the ground and bleeds through her bandages, and Alexander arrives to stand between her and the thugs, ending on a cliffhanger. Analysis is based only on the on-screen event text. The supplied metadata (logline and continuity notes) is not on-screen evidence and was excluded, so it does not establish any fact here. Alexander is never named by a speaker except Juliana's whispered 'Alexander...' (EP15:E48), and his prior relationship with Juliana is not shown on screen. The 'veteran' label comes only from a thug's taunt (EP15:E53) and is unverified. Whether the thugs have an employer, and the cause of Juliana's injuries beyond the shove, are not shown.\",\"characters\":[{\"name\":\"Juliana\",\"role\":\"Protagonist and gardener who tends the herbs in the garden; bandaged hands; confronts the thugs and is knocked down.\"},{\"name\":\"Alexander\",\"role\":\"Arriving protector who charges in from the mist and places himself between Juliana and the thugs; named on screen only through Juliana's line at EP15:E48.\"},{\"name\":\"Thug with Cap\",\"role\":\"Antagonist who mocks Juliana, shoves her to the ground, and challenges Alexander.\"},{\"name\":\"Bald Thug\",\"role\":\"Antagonist who tramples the flowers and mocks Juliana's grief.\"},{\"name\":\"Tall Thug\",\"role\":\"Antagonist who wields a heavy wooden club and mocks the garden and Juliana.\"}],\"beats\":[{\"id\":\"b1\",\"kind\":\"setup\",\"event_refs\":[\"EP15:E1\",\"EP15:E2\"],\"description\":\"Three armed thugs move through the moonlit herbal garden.\",\"intensity_0_10\":4.0},{\"id\":\"b2\",\"kind\":\"escalation\",\"event_refs\":[\"EP15:E3\",\"EP15:E4\",\"EP15:E5\",\"EP15:E6\",\"EP15:E7\"],\"description\":\"The thugs smash a planter box and rip up chamomile by the roots.\",\"intensity_0_10\":6.0},{\"id\":\"b3\",\"kind\":\"confrontation\",\"event_refs\":[\"EP15:E8\",\"EP15:E9\",\"EP15:E10\",\"EP15:E11\",\"EP15:E12\"],\"description\":\"Juliana bursts from the cottage, demands they stop, and is dismissed with a mocking reply.\",\"intensity_0_10\":5.0},{\"id\":\"b4\",\"kind\":\"humiliation\",\"event_refs\":[\"EP15:E13\",\"EP15:E14\",\"EP15:E15\",\"EP15:E16\",\"EP15:E17\",\"EP15:E18\",\"EP15:E19\",\"EP15:E20\"],\"description\":\"The bald thug tramples the flowers and Juliana kneels in the mud, pleading.\",\"intensity_0_10\":7.0},{\"id\":\"b5\",\"kind\":\"mockery\",\"event_refs\":[\"EP15:E21\",\"EP15:E22\",\"EP15:E23\",\"EP15:E24\",\"EP15:E25\",\"EP15:E26\",\"EP15:E27\",\"EP15:E28\",\"EP15:E29\"],\"description\":\"The thugs laugh at Juliana, and she rises and asserts her right to the garden.\",\"intensity_0_10\":6.0},{\"id\":\"b6\",\"kind\":\"violence\",\"event_refs\":[\"EP15:E30\",\"EP15:E31\",\"EP15:E32\",\"EP15:E33\",\"EP15:E34\",\"EP15:E35\",\"EP15:E36\",\"EP15:E37\"],\"description\":\"The Thug with Cap shoves Juliana to the stone path, and she falls and bleeds through her bandages.\",\"intensity_0_10\":8.0},{\"id\":\"b7\",\"kind\":\"grief\",\"event_refs\":[\"EP15:E38\",\"EP15:E39\",\"EP15:E40\",\"EP15:E41\"],\"description\":\"Juliana grieves over the plants while the thugs laugh at her.\",\"intensity_0_10\":7.0},{\"id\":\"b8\",\"kind\":\"peak_threat\",\"event_refs\":[\"EP15:E42\",\"EP15:E43\",\"EP15:E44\"],\"description\":\"The Tall Thug raises his club over the remaining herbs as Juliana screams for him to stop, and footsteps approach.\",\"intensity_0_10\":9.0},{\"id\":\"b9\",\"kind\":\"intrusion\",\"event_refs\":[\"EP15:E45\",\"EP15:E46\",\"EP15:E47\",\"EP15:E48\",\"EP15:E49\",\"EP15:E50\",\"EP15:E51\"],\"description\":\"Alexander charges out of the mist and positions himself between Juliana and the thugs.\",\"intensity_0_10\":8.0},{\"id\":\"b10\",\"kind\":\"cliffhanger\",\"event_refs\":[\"EP15:E52\",\"EP15:E53\",\"EP15:E54\",\"EP15:E55\"],\"description\":\"The thugs regroup and challenge Alexander, and a tense cello swell cuts to black as violence seems imminent.\",\"intensity_0_10\":8.0}],\"revelations\":[{\"id\":\"r1\",\"event_refs\":[\"EP15:E12\",\"EP15:E29\"],\"claim\":\"The thugs are clearing the garden, and Juliana says it is her home and that they have no right to destroy it.\",\"spoiler_significance_0_10\":3.0,\"creates_questions\":[\"Who ordered the thugs to clear the garden?\",\"Why do the thugs target this garden?\"]},{\"id\":\"r2\",\"event_refs\":[\"EP15:E14\",\"EP15:E20\",\"EP15:E22\"],\"claim\":\"The herbs are medicinal and took months to grow, and the Tall Thug calls them filth.\",\"spoiler_significance_0_10\":4.0,\"creates_questions\":[\"What is the purpose of the medicinal herbs?\"]},{\"id\":\"r3\",\"event_refs\":[\"EP15:E9\",\"EP15:E37\"],\"claim\":\"Juliana's hands are bandaged and bleeding through the gauze as she crawls on the path.\",\"spoiler_significance_0_10\":5.0,\"creates_questions\":[\"How were Juliana's hands injured?\"]},{\"id\":\"r4\",\"event_refs\":[\"EP15:E39\"],\"claim\":\"Juliana's grief implies the plants belonged to her mother, though no speaker states this outright.\",\"spoiler_significance_0_10\":6.0,\"creates_questions\":[\"What is the history between Juliana and her mother's garden?\"]},{\"id\":\"r5\",\"event_refs\":[\"EP15:E48\",\"EP15:E53\"],\"claim\":\"Juliana recognizes the arriving man as Alexander, and the Thug with Cap calls him a veteran.\",\"spoiler_significance_0_10\":6.0,\"creates_questions\":[\"What is Alexander's relationship with Juliana?\",\"Is Alexander a veteran, and what is his background?\"]}],\"unresolved_questions\":[{\"question\":\"Will Alexander and the thugs fight, and what will the outcome be?\",\"introduced_by\":[\"EP15:E53\",\"EP15:E54\",\"EP15:E55\"]},{\"question\":\"Who sent the thugs to clear the garden?\",\"introduced_by\":[\"EP15:E12\",\"EP15:E29\"]},{\"question\":\"How and when were Juliana's hands injured?\",\"introduced_by\":[\"EP15:E9\",\"EP15:E37\"]},{\"question\":\"What is Alexander's relationship to Juliana, and is he a veteran?\",\"introduced_by\":[\"EP15:E48\",\"EP15:E53\"]},{\"question\":\"Whose plants were these, and what is their significance to Juliana?\",\"introduced_by\":[\"EP15:E39\",\"EP15:E14\"]}]}\nSERIES CONTEXT={\"series_id\":\"series_001\",\"premise\":\"Lady Juliana is publicly jilted at the altar when her fiance Gerald chooses her sister Clarissa, and her family rejects her. She marries a scarred, unnamed Bearded Man (later revealed on screen as Alexander, a presumed-dead soldier and Duke), and the couple is repeatedly targeted by antagonists. Juliana uses her late mother's herbal knowledge to heal the sick, which draws accusations of witchcraft and poisoning, while Alexander's return and claim to his ducal title set up a confrontation with the conspirators who hid his survival.\",\"arcs\":[{\"id\":\"arc_jilting_and_family_rejection\",\"description\":\"Juliana is jilted at the altar by Gerald, humiliated by her sister Clarissa and disowned by her family, which sets off the series' central betrayal.\",\"beat_refs\":[{\"episode_id\":\"ep_001\",\"beat_id\":\"B02\"},{\"episode_id\":\"ep_001\",\"beat_id\":\"B03\"},{\"episode_id\":\"ep_001\",\"beat_id\":\"B09\"},{\"episode_id\":\"ep_001\",\"beat_id\":\"B10\"},{\"episode_id\":\"ep_002\",\"beat_id\":\"b01\"},{\"episode_id\":\"ep_002\",\"beat_id\":\"b05\"},{\"episode_id\":\"ep_003\",\"beat_id\":\"b3\"},{\"episode_id\":\"ep_004\",\"beat_id\":\"B11\"}]},{\"id\":\"arc_exile_and_marriage_to_the_bearded_man\",\"description\":\"After the rejection, the unnamed Bearded Man intervenes, offers Juliana a ring and a vow, and the couple leaves the family behind to live in hardship in a cottage.\",\"beat_refs\":[{\"episode_id\":\"ep_003\",\"beat_id\":\"b9\"},{\"episode_id\":\"ep_004\",\"beat_id\":\"B8\"},{\"episode_id\":\"ep_004\",\"beat_id\":\"B9\"},{\"episode_id\":\"ep_005\",\"beat_id\":\"b1\"},{\"episode_id\":\"ep_005\",\"beat_id\":\"b3\"},{\"episode_id\":\"ep_006\",\"beat_id\":\"b2\"},{\"episode_id\":\"ep_006\",\"beat_id\":\"b8\"}]},{\"id\":\"arc_healing_and_poisoning_conspiracy\",\"description\":\"Juliana's herbal healing draws her into the household of the ailing Dowager Duchess, where she uncovers evidence of arsenic poisoning and is pulled into a dangerous conflict with Catherine and Rupert.\",\"beat_refs\":[{\"episode_id\":\"ep_009\",\"beat_id\":\"b02\"},{\"episode_id\":\"ep_022\",\"beat_id\":\"B6\"},{\"episode_id\":\"ep_023\",\"beat_id\":\"beat_2\"},{\"episode_id\":\"ep_023\",\"beat_id\":\"beat_6\"},{\"episode_id\":\"ep_024\",\"beat_id\":\"B7\"},{\"episode_id\":\"ep_025\",\"beat_id\":\"b5\"},{\"episode_id\":\"ep_026\",\"beat_id\":\"b6\"},{\"episode_id\":\"ep_028\",\"beat_id\":\"b4\"}]},{\"id\":\"arc_frame_up_and_imprisonment\",\"description\":\"Juliana and Alexander are framed with a stolen watch and with witchcraft and poisoning charges, leading to Juliana's arrest, torture and public trial.\",\"beat_refs\":[{\"episode_id\":\"ep_011\",\"beat_id\":\"b6\"},{\"episode_id\":\"ep_012\",\"beat_id\":\"B6\"},{\"episode_id\":\"ep_029\",\"beat_id\":\"b07\"},{\"episode_id\":\"ep_031\",\"beat_id\":\"b9\"},{\"episode_id\":\"ep_034\",\"beat_id\":\"B9\"}]},{\"id\":\"arc_alexander_return_and_reclamation\",\"description\":\"Alexander's survival is revealed after an ambush he was believed to have died in, and he moves to expose the conspirators who hid him, reclaim his title and rescue Juliana before her execution.\",\"beat_refs\":[{\"episode_id\":\"ep_035\",\"beat_id\":\"b7\"},{\"episode_id\":\"ep_036\",\"beat_id\":\"b8\"},{\"episode_id\":\"ep_039\",\"beat_id\":\"B5\"},{\"episode_id\":\"ep_042\",\"beat_id\":\"b11\"},{\"episode_id\":\"ep_045\",\"beat_id\":\"B6\"},{\"episode_id\":\"ep_046\",\"beat_id\":\"B2\"}]}],\"key_revelations\":[{\"episode_id\":\"ep_001\",\"revelation_id\":\"R01\",\"prerequisite_context\":[\"Gerald is holding the hand of the Lady in Gold Gown at the altar\",\"The Lady in Gold Gown states that Gerald is marrying her\"]},{\"episode_id\":\"ep_001\",\"revelation_id\":\"R02\",\"prerequisite_context\":[\"The Lady in Gold Gown knew of the betrayal in advance\",\"She says Gerald was never going to marry Juliana\"]},{\"episode_id\":\"ep_004\",\"revelation_id\":\"R4\",\"prerequisite_context\":[\"The priest pronounces the couple husband and wife in an off-screen voice\",\"The priest had earlier hesitated before proceeding\"]},{\"episode_id\":\"ep_011\",\"revelation_id\":\"r1\",\"prerequisite_context\":[\"Gerald accuses Alexander of stealing his gold pocket watch\",\"The Constable finds a gold pocket watch inside Alexander's coat\"]},{\"episode_id\":\"ep_023\",\"revelation_id\":\"rev_2\",\"prerequisite_context\":[\"Juliana's late mother's journal records toxic symptoms matching the Duchess's condition\",\"Juliana asserts that someone is poisoning the Duchess\"]},{\"episode_id\":\"ep_027\",\"revelation_id\":\"r1\",\"prerequisite_context\":[\"The Duchess says the ring bears the Ashbourne crest\",\"Juliana says her husband gave her the ring\"]},{\"episode_id\":\"ep_028\",\"revelation_id\":\"r3\",\"prerequisite_context\":[\"Catherine reads the herbarium inscription Juliana Ashcroft\",\"Catherine names her Lady Juliana Ashcroft\"]},{\"episode_id\":\"ep_035\",\"revelation_id\":\"r2\",\"prerequisite_context\":[\"Alexander says the ambush was ordered to erase him\",\"Alexander says someone wanted his mother to believe he was dead\"]},{\"episode_id\":\"ep_036\",\"revelation_id\":\"r7\",\"prerequisite_context\":[\"Juliana was arrested and accused of poisoning Alexander\",\"The mother reports that Juliana was condemned by a magistrate\"]},{\"episode_id\":\"ep_045\",\"revelation_id\":\"R1\",\"prerequisite_context\":[\"Alexander kneels before Juliana and unchains her\",\"Alexander identifies himself as Alexander Ashburton, the rightful Duke\"]}]}",
+  "schema": {
+    "$defs": {
+      "EpisodeOpportunity": {
+        "additionalProperties": false,
+        "properties": {
+          "scope": {
+            "const": "episode",
+            "title": "Scope",
+            "type": "string"
+          },
+          "local_id": {
+            "title": "Local Id",
+            "type": "string"
+          },
+          "episode_id": {
+            "title": "Episode Id",
+            "type": "string"
+          },
+          "concept": {
+            "title": "Concept",
+            "type": "string"
+          },
+          "hook_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Hook Refs",
+            "type": "array"
+          },
+          "ending_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Ending Refs",
+            "type": "array"
+          },
+          "context_refs": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Context Refs",
+            "type": "array"
+          },
+          "why_promising": {
+            "title": "Why Promising",
+            "type": "string"
+          }
+        },
+        "required": [
+          "scope",
+          "local_id",
+          "episode_id",
+          "concept",
+          "hook_refs",
+          "ending_refs",
+          "context_refs",
+          "why_promising"
+        ],
+        "title": "EpisodeOpportunity",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "opportunities": {
+        "items": {
+          "$ref": "#/$defs/EpisodeOpportunity"
+        },
+        "title": "Opportunities",
+        "type": "array"
+      }
+    },
+    "required": [
+      "opportunities"
+    ],
+    "title": "EpisodeDiscovery",
+    "type": "object"
+  },
+  "state": "complete",
+  "output": {
+    "opportunities": [
+      {
+        "scope": "episode",
+        "local_id": "opp_01",
+        "episode_id": "ep_015",
+        "concept": "Juliana confronts the thugs at the cottage door and is mocked, then the thugs freeze at the approaching footsteps.",
+        "hook_refs": [
+          "EP15:E10"
+        ],
+        "ending_refs": [
+          "EP15:E44"
+        ],
+        "context_refs": [
+          "EP15:E12",
+          "EP15:E14"
+        ],
+        "why_promising": "The opening line is an immediate standoff, and the clip ends on unresolved footsteps before Alexander arrives. The 54.7-second span fits the 20-60 second window within the single coverage interval."
+      },
+      {
+        "scope": "episode",
+        "local_id": "opp_02",
+        "episode_id": "ep_015",
+        "concept": "Juliana defies the Thug with Cap and refuses to leave her garden, then is shoved to the ground before the cliffhanger.",
+        "hook_refs": [
+          "EP15:E29"
+        ],
+        "ending_refs": [
+          "EP15:E55"
+        ],
+        "context_refs": [
+          "EP15:E31",
+          "EP15:E33"
+        ],
+        "why_promising": "Her defiant line is self-contained and the threat of 'Get out of the way!' sets up the confrontation. The clip runs 45 seconds to the unresolved cello cliffhanger."
+      },
+      {
+        "scope": "episode",
+        "local_id": "opp_03",
+        "episode_id": "ep_015",
+        "concept": "The Tall Thug raises his club over the remaining herbs as Juliana screams, leading to the cliffhanger.",
+        "hook_refs": [
+          "EP15:E42"
+        ],
+        "ending_refs": [
+          "EP15:E55"
+        ],
+        "context_refs": [
+          "EP15:E48",
+          "EP15:E53"
+        ],
+        "why_promising": "The peak-threat image opens with immediate danger and carries through to an unresolved standoff. The 26-second clip sits well within the length limits."
+      },
+      {
+        "scope": "episode",
+        "local_id": "opp_04",
+        "episode_id": "ep_015",
+        "concept": "Alexander charges out of the mist to stand between Juliana and the thugs, ending on the cliffhanger.",
+        "hook_refs": [
+          "EP15:E45"
+        ],
+        "ending_refs": [
+          "EP15:E55"
+        ],
+        "context_refs": [
+          "EP15:E48",
+          "EP15:E51"
+        ],
+        "why_promising": "The rescue entrance is a clear hook that makes the arrival immediately understandable. The 22.8-second clip ends unresolved, with Alexander's name established on screen in the clip."
+      }
+    ]
+  }
+}

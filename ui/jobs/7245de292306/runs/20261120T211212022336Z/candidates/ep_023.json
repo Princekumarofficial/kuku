@@ -1,0 +1,989 @@
+[
+  {
+    "candidate_id": "c_e9fea6995b28d116",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 76000,
+        "end_ms": 124000,
+        "episode_id": "ep_023"
+      }
+    ],
+    "duration_ms": 48000,
+    "origin": "ep023_opp_01",
+    "clip_events": [
+      {
+        "ref": "EP23:E38",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana's hands snapping the leather journal shut on the bedside table beside an oil lamp."
+      },
+      {
+        "ref": "EP23:E39",
+        "segment_index": 0,
+        "relative_start_ms": 2500,
+        "relative_end_ms": 5500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana resting her hands on the closed journal, looking squarely at Prudence."
+      },
+      {
+        "ref": "EP23:E40",
+        "segment_index": 0,
+        "relative_start_ms": 3000,
+        "relative_end_ms": 5500,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Someone is poisoning her.\""
+      },
+      {
+        "ref": "EP23:E42",
+        "segment_index": 0,
+        "relative_start_ms": 5500,
+        "relative_end_ms": 6500,
+        "type": "sound",
+        "speaker": null,
+        "text": "Sharp intake of breath from Prudence."
+      },
+      {
+        "ref": "EP23:E41",
+        "segment_index": 0,
+        "relative_start_ms": 5500,
+        "relative_end_ms": 8500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Prudence gasping sharply and clamping both hands over her mouth in sheer horror."
+      },
+      {
+        "ref": "EP23:E43",
+        "segment_index": 0,
+        "relative_start_ms": 6000,
+        "relative_end_ms": 8000,
+        "type": "dialogue",
+        "speaker": "PRUDENCE",
+        "text": "\"Poison?\""
+      },
+      {
+        "ref": "EP23:E44",
+        "segment_index": 0,
+        "relative_start_ms": 8500,
+        "relative_end_ms": 12000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up pushing in tight on Lady Juliana's eyes as her expression hardens into fury and righteous disgust."
+      },
+      {
+        "ref": "EP23:E45",
+        "segment_index": 0,
+        "relative_start_ms": 10000,
+        "relative_end_ms": 12000,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Arsenic.\""
+      },
+      {
+        "ref": "EP23:E46",
+        "segment_index": 0,
+        "relative_start_ms": 12000,
+        "relative_end_ms": 14500,
+        "type": "sound",
+        "speaker": null,
+        "text": "Sudden violent coughing and sputtering from the Duchess."
+      },
+      {
+        "ref": "EP23:E47",
+        "segment_index": 0,
+        "relative_start_ms": 12000,
+        "relative_end_ms": 15000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as the Duchess chokes and spasms on the bed; Juliana whips around immediately."
+      },
+      {
+        "ref": "EP23:E48",
+        "segment_index": 0,
+        "relative_start_ms": 15000,
+        "relative_end_ms": 18500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium tracking shot of Juliana rushing to the side table by the window, opening her satchel and setting out glass vials, a bowl, and dried herbal bundles."
+      },
+      {
+        "ref": "EP23:E50",
+        "segment_index": 0,
+        "relative_start_ms": 18500,
+        "relative_end_ms": 21000,
+        "type": "dialogue",
+        "speaker": "PRUDENCE",
+        "text": "\"Can you save her?\""
+      },
+      {
+        "ref": "EP23:E49",
+        "segment_index": 0,
+        "relative_start_ms": 18500,
+        "relative_end_ms": 21500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Prudence pleading desperately, tears flowing down her cheeks."
+      },
+      {
+        "ref": "EP23:E52",
+        "segment_index": 0,
+        "relative_start_ms": 21500,
+        "relative_end_ms": 24000,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"I can try.\""
+      },
+      {
+        "ref": "EP23:E51",
+        "segment_index": 0,
+        "relative_start_ms": 21500,
+        "relative_end_ms": 24500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana uncorking a glass apothecary bottle as the Duchess rests behind her."
+      },
+      {
+        "ref": "EP23:E53",
+        "segment_index": 0,
+        "relative_start_ms": 24500,
+        "relative_end_ms": 28500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Top-down close-up of Juliana's soot-smudged hands pouring powdered activated charcoal from a vial into a stone mortar, then tossing in a pinch of crushed dried leaves."
+      },
+      {
+        "ref": "EP23:E54",
+        "segment_index": 0,
+        "relative_start_ms": 28500,
+        "relative_end_ms": 31000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana's hands vigorously grinding the pestle inside the stone mortar."
+      },
+      {
+        "ref": "EP23:E55",
+        "segment_index": 0,
+        "relative_start_ms": 28500,
+        "relative_end_ms": 36000,
+        "type": "sound",
+        "speaker": null,
+        "text": "Heavy, rhythmic scraping of stone pestle grinding charcoal and dried herbs."
+      },
+      {
+        "ref": "EP23:E56",
+        "segment_index": 0,
+        "relative_start_ms": 31000,
+        "relative_end_ms": 36500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana grinding intensely, her brow furrowed as she speaks with urgent authority."
+      },
+      {
+        "ref": "EP23:E57",
+        "segment_index": 0,
+        "relative_start_ms": 31500,
+        "relative_end_ms": 36000,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"The charcoal may help remove what is still inside her. We must act quickly.\""
+      },
+      {
+        "ref": "EP23:E58",
+        "segment_index": 0,
+        "relative_start_ms": 36200,
+        "relative_end_ms": 38000,
+        "type": "sound",
+        "speaker": null,
+        "text": "Sudden muffled thump and heavy footsteps echoing from the hallway outside the door!"
+      },
+      {
+        "ref": "EP23:E59",
+        "segment_index": 0,
+        "relative_start_ms": 36500,
+        "relative_end_ms": 39000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot of the bedroom door framed through the bed curtains as the Duchess gasps in the bed."
+      },
+      {
+        "ref": "EP23:E60",
+        "segment_index": 0,
+        "relative_start_ms": 39000,
+        "relative_end_ms": 40500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana freezing mid-motion, turning her head sharply toward the chamber door."
+      },
+      {
+        "ref": "EP23:E61",
+        "segment_index": 0,
+        "relative_start_ms": 40500,
+        "relative_end_ms": 42500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the ornate brass door handle on the dark carved wooden door."
+      },
+      {
+        "ref": "EP23:E62",
+        "segment_index": 0,
+        "relative_start_ms": 42500,
+        "relative_end_ms": 48000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Prudence staring at the door in utter terror, her face drained of all color."
+      },
+      {
+        "ref": "EP23:E63",
+        "segment_index": 0,
+        "relative_start_ms": 42800,
+        "relative_end_ms": 48000,
+        "type": "dialogue",
+        "speaker": "PRUDENCE",
+        "text": "\"Juliana... someone is coming.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_cd902cd502be4768",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 60000,
+        "end_ms": 112000,
+        "episode_id": "ep_023"
+      }
+    ],
+    "duration_ms": 52000,
+    "origin": "ep023_opp_02",
+    "clip_events": [
+      {
+        "ref": "EP23:E27",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana looking up from the page, stunned by her mother's written words."
+      },
+      {
+        "ref": "EP23:E29",
+        "segment_index": 0,
+        "relative_start_ms": 800,
+        "relative_end_ms": 2000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Prudence leaning in, candle trembling."
+      },
+      {
+        "ref": "EP23:E30",
+        "segment_index": 0,
+        "relative_start_ms": 800,
+        "relative_end_ms": 2000,
+        "type": "dialogue",
+        "speaker": "PRUDENCE",
+        "text": "\"What is it?\""
+      },
+      {
+        "ref": "EP23:E32",
+        "segment_index": 0,
+        "relative_start_ms": 2000,
+        "relative_end_ms": 8500,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Weakness. Dry mouth. The discoloration beneath the nails. The slow wasting.\""
+      },
+      {
+        "ref": "EP23:E31",
+        "segment_index": 0,
+        "relative_start_ms": 2000,
+        "relative_end_ms": 9500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Two-shot of Juliana holding the open journal, reciting the matching symptoms to Prudence while the Duchess lies motionless in the background."
+      },
+      {
+        "ref": "EP23:E33",
+        "segment_index": 0,
+        "relative_start_ms": 9500,
+        "relative_end_ms": 10500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Prudence staring back in stunned disbelief."
+      },
+      {
+        "ref": "EP23:E35",
+        "segment_index": 0,
+        "relative_start_ms": 10500,
+        "relative_end_ms": 13500,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"I have seen these symptoms before.\""
+      },
+      {
+        "ref": "EP23:E34",
+        "segment_index": 0,
+        "relative_start_ms": 10500,
+        "relative_end_ms": 13800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana speaking with absolute certainty."
+      },
+      {
+        "ref": "EP23:E37",
+        "segment_index": 0,
+        "relative_start_ms": 13800,
+        "relative_end_ms": 15800,
+        "type": "dialogue",
+        "speaker": "PRUDENCE",
+        "text": "\"What are you saying?\""
+      },
+      {
+        "ref": "EP23:E36",
+        "segment_index": 0,
+        "relative_start_ms": 13800,
+        "relative_end_ms": 16000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Prudence's terrified face."
+      },
+      {
+        "ref": "EP23:E38",
+        "segment_index": 0,
+        "relative_start_ms": 16000,
+        "relative_end_ms": 18500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana's hands snapping the leather journal shut on the bedside table beside an oil lamp."
+      },
+      {
+        "ref": "EP23:E39",
+        "segment_index": 0,
+        "relative_start_ms": 18500,
+        "relative_end_ms": 21500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana resting her hands on the closed journal, looking squarely at Prudence."
+      },
+      {
+        "ref": "EP23:E40",
+        "segment_index": 0,
+        "relative_start_ms": 19000,
+        "relative_end_ms": 21500,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Someone is poisoning her.\""
+      },
+      {
+        "ref": "EP23:E42",
+        "segment_index": 0,
+        "relative_start_ms": 21500,
+        "relative_end_ms": 22500,
+        "type": "sound",
+        "speaker": null,
+        "text": "Sharp intake of breath from Prudence."
+      },
+      {
+        "ref": "EP23:E41",
+        "segment_index": 0,
+        "relative_start_ms": 21500,
+        "relative_end_ms": 24500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Prudence gasping sharply and clamping both hands over her mouth in sheer horror."
+      },
+      {
+        "ref": "EP23:E43",
+        "segment_index": 0,
+        "relative_start_ms": 22000,
+        "relative_end_ms": 24000,
+        "type": "dialogue",
+        "speaker": "PRUDENCE",
+        "text": "\"Poison?\""
+      },
+      {
+        "ref": "EP23:E44",
+        "segment_index": 0,
+        "relative_start_ms": 24500,
+        "relative_end_ms": 28000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up pushing in tight on Lady Juliana's eyes as her expression hardens into fury and righteous disgust."
+      },
+      {
+        "ref": "EP23:E45",
+        "segment_index": 0,
+        "relative_start_ms": 26000,
+        "relative_end_ms": 28000,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Arsenic.\""
+      },
+      {
+        "ref": "EP23:E46",
+        "segment_index": 0,
+        "relative_start_ms": 28000,
+        "relative_end_ms": 30500,
+        "type": "sound",
+        "speaker": null,
+        "text": "Sudden violent coughing and sputtering from the Duchess."
+      },
+      {
+        "ref": "EP23:E47",
+        "segment_index": 0,
+        "relative_start_ms": 28000,
+        "relative_end_ms": 31000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as the Duchess chokes and spasms on the bed; Juliana whips around immediately."
+      },
+      {
+        "ref": "EP23:E48",
+        "segment_index": 0,
+        "relative_start_ms": 31000,
+        "relative_end_ms": 34500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium tracking shot of Juliana rushing to the side table by the window, opening her satchel and setting out glass vials, a bowl, and dried herbal bundles."
+      },
+      {
+        "ref": "EP23:E50",
+        "segment_index": 0,
+        "relative_start_ms": 34500,
+        "relative_end_ms": 37000,
+        "type": "dialogue",
+        "speaker": "PRUDENCE",
+        "text": "\"Can you save her?\""
+      },
+      {
+        "ref": "EP23:E49",
+        "segment_index": 0,
+        "relative_start_ms": 34500,
+        "relative_end_ms": 37500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Prudence pleading desperately, tears flowing down her cheeks."
+      },
+      {
+        "ref": "EP23:E52",
+        "segment_index": 0,
+        "relative_start_ms": 37500,
+        "relative_end_ms": 40000,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"I can try.\""
+      },
+      {
+        "ref": "EP23:E51",
+        "segment_index": 0,
+        "relative_start_ms": 37500,
+        "relative_end_ms": 40500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana uncorking a glass apothecary bottle as the Duchess rests behind her."
+      },
+      {
+        "ref": "EP23:E53",
+        "segment_index": 0,
+        "relative_start_ms": 40500,
+        "relative_end_ms": 44500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Top-down close-up of Juliana's soot-smudged hands pouring powdered activated charcoal from a vial into a stone mortar, then tossing in a pinch of crushed dried leaves."
+      },
+      {
+        "ref": "EP23:E54",
+        "segment_index": 0,
+        "relative_start_ms": 44500,
+        "relative_end_ms": 47000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana's hands vigorously grinding the pestle inside the stone mortar."
+      },
+      {
+        "ref": "EP23:E55",
+        "segment_index": 0,
+        "relative_start_ms": 44500,
+        "relative_end_ms": 52000,
+        "type": "sound",
+        "speaker": null,
+        "text": "Heavy, rhythmic scraping of stone pestle grinding charcoal and dried herbs."
+      },
+      {
+        "ref": "EP23:E56",
+        "segment_index": 0,
+        "relative_start_ms": 47000,
+        "relative_end_ms": 52000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana grinding intensely, her brow furrowed as she speaks with urgent authority."
+      },
+      {
+        "ref": "EP23:E57",
+        "segment_index": 0,
+        "relative_start_ms": 47500,
+        "relative_end_ms": 52000,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"The charcoal may help remove what is still inside her. We must act quickly.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_30ae3b98455426af",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 40800,
+        "end_ms": 100000,
+        "episode_id": "ep_023"
+      }
+    ],
+    "duration_ms": 59200,
+    "origin": "ep023_opp_03",
+    "clip_events": [
+      {
+        "ref": "EP23:E19",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Lady Juliana standing upright, her expression hardening with fierce skepticism."
+      },
+      {
+        "ref": "EP23:E20",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2200,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"No.\""
+      },
+      {
+        "ref": "EP23:E21",
+        "segment_index": 0,
+        "relative_start_ms": 2200,
+        "relative_end_ms": 5700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot panning down as Juliana reaches into her deep apron pocket and pulls out a worn, leather-bound notebook."
+      },
+      {
+        "ref": "EP23:E22",
+        "segment_index": 0,
+        "relative_start_ms": 3000,
+        "relative_end_ms": 5700,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"This is not simply old age.\""
+      },
+      {
+        "ref": "EP23:E23",
+        "segment_index": 0,
+        "relative_start_ms": 5700,
+        "relative_end_ms": 7200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Quick reaction shot of Prudence staring with wide, bewildered eyes."
+      },
+      {
+        "ref": "EP23:E24",
+        "segment_index": 0,
+        "relative_start_ms": 7200,
+        "relative_end_ms": 12700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana sitting at the foot of the bed, carefully opening the leather journal across her lap and flipping through hand-annotated botanical pages."
+      },
+      {
+        "ref": "EP23:E25",
+        "segment_index": 0,
+        "relative_start_ms": 12700,
+        "relative_end_ms": 16700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up overhead of the yellowed parchment, showing botanical sketches of toxic herbs and handwritten diagnostic notes as Juliana's finger traces along the script."
+      },
+      {
+        "ref": "EP23:E26",
+        "segment_index": 0,
+        "relative_start_ms": 16700,
+        "relative_end_ms": 17700,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana draws in a sharp, startled breath, her eyes widening in horror."
+      },
+      {
+        "ref": "EP23:E28",
+        "segment_index": 0,
+        "relative_start_ms": 17700,
+        "relative_end_ms": 19200,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Mother.\""
+      },
+      {
+        "ref": "EP23:E27",
+        "segment_index": 0,
+        "relative_start_ms": 17700,
+        "relative_end_ms": 20000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana looking up from the page, stunned by her mother's written words."
+      },
+      {
+        "ref": "EP23:E29",
+        "segment_index": 0,
+        "relative_start_ms": 20000,
+        "relative_end_ms": 21200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Prudence leaning in, candle trembling."
+      },
+      {
+        "ref": "EP23:E30",
+        "segment_index": 0,
+        "relative_start_ms": 20000,
+        "relative_end_ms": 21200,
+        "type": "dialogue",
+        "speaker": "PRUDENCE",
+        "text": "\"What is it?\""
+      },
+      {
+        "ref": "EP23:E32",
+        "segment_index": 0,
+        "relative_start_ms": 21200,
+        "relative_end_ms": 27700,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Weakness. Dry mouth. The discoloration beneath the nails. The slow wasting.\""
+      },
+      {
+        "ref": "EP23:E31",
+        "segment_index": 0,
+        "relative_start_ms": 21200,
+        "relative_end_ms": 28700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Two-shot of Juliana holding the open journal, reciting the matching symptoms to Prudence while the Duchess lies motionless in the background."
+      },
+      {
+        "ref": "EP23:E33",
+        "segment_index": 0,
+        "relative_start_ms": 28700,
+        "relative_end_ms": 29700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Prudence staring back in stunned disbelief."
+      },
+      {
+        "ref": "EP23:E35",
+        "segment_index": 0,
+        "relative_start_ms": 29700,
+        "relative_end_ms": 32700,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"I have seen these symptoms before.\""
+      },
+      {
+        "ref": "EP23:E34",
+        "segment_index": 0,
+        "relative_start_ms": 29700,
+        "relative_end_ms": 33000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana speaking with absolute certainty."
+      },
+      {
+        "ref": "EP23:E37",
+        "segment_index": 0,
+        "relative_start_ms": 33000,
+        "relative_end_ms": 35000,
+        "type": "dialogue",
+        "speaker": "PRUDENCE",
+        "text": "\"What are you saying?\""
+      },
+      {
+        "ref": "EP23:E36",
+        "segment_index": 0,
+        "relative_start_ms": 33000,
+        "relative_end_ms": 35200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Prudence's terrified face."
+      },
+      {
+        "ref": "EP23:E38",
+        "segment_index": 0,
+        "relative_start_ms": 35200,
+        "relative_end_ms": 37700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana's hands snapping the leather journal shut on the bedside table beside an oil lamp."
+      },
+      {
+        "ref": "EP23:E39",
+        "segment_index": 0,
+        "relative_start_ms": 37700,
+        "relative_end_ms": 40700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana resting her hands on the closed journal, looking squarely at Prudence."
+      },
+      {
+        "ref": "EP23:E40",
+        "segment_index": 0,
+        "relative_start_ms": 38200,
+        "relative_end_ms": 40700,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Someone is poisoning her.\""
+      },
+      {
+        "ref": "EP23:E42",
+        "segment_index": 0,
+        "relative_start_ms": 40700,
+        "relative_end_ms": 41700,
+        "type": "sound",
+        "speaker": null,
+        "text": "Sharp intake of breath from Prudence."
+      },
+      {
+        "ref": "EP23:E41",
+        "segment_index": 0,
+        "relative_start_ms": 40700,
+        "relative_end_ms": 43700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Prudence gasping sharply and clamping both hands over her mouth in sheer horror."
+      },
+      {
+        "ref": "EP23:E43",
+        "segment_index": 0,
+        "relative_start_ms": 41200,
+        "relative_end_ms": 43200,
+        "type": "dialogue",
+        "speaker": "PRUDENCE",
+        "text": "\"Poison?\""
+      },
+      {
+        "ref": "EP23:E44",
+        "segment_index": 0,
+        "relative_start_ms": 43700,
+        "relative_end_ms": 47200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up pushing in tight on Lady Juliana's eyes as her expression hardens into fury and righteous disgust."
+      },
+      {
+        "ref": "EP23:E45",
+        "segment_index": 0,
+        "relative_start_ms": 45200,
+        "relative_end_ms": 47200,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Arsenic.\""
+      },
+      {
+        "ref": "EP23:E46",
+        "segment_index": 0,
+        "relative_start_ms": 47200,
+        "relative_end_ms": 49700,
+        "type": "sound",
+        "speaker": null,
+        "text": "Sudden violent coughing and sputtering from the Duchess."
+      },
+      {
+        "ref": "EP23:E47",
+        "segment_index": 0,
+        "relative_start_ms": 47200,
+        "relative_end_ms": 50200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as the Duchess chokes and spasms on the bed; Juliana whips around immediately."
+      },
+      {
+        "ref": "EP23:E48",
+        "segment_index": 0,
+        "relative_start_ms": 50200,
+        "relative_end_ms": 53700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium tracking shot of Juliana rushing to the side table by the window, opening her satchel and setting out glass vials, a bowl, and dried herbal bundles."
+      },
+      {
+        "ref": "EP23:E50",
+        "segment_index": 0,
+        "relative_start_ms": 53700,
+        "relative_end_ms": 56200,
+        "type": "dialogue",
+        "speaker": "PRUDENCE",
+        "text": "\"Can you save her?\""
+      },
+      {
+        "ref": "EP23:E49",
+        "segment_index": 0,
+        "relative_start_ms": 53700,
+        "relative_end_ms": 56700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Prudence pleading desperately, tears flowing down her cheeks."
+      },
+      {
+        "ref": "EP23:E52",
+        "segment_index": 0,
+        "relative_start_ms": 56700,
+        "relative_end_ms": 59200,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"I can try.\""
+      },
+      {
+        "ref": "EP23:E51",
+        "segment_index": 0,
+        "relative_start_ms": 56700,
+        "relative_end_ms": 59200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana uncorking a glass apothecary bottle as the Duchess rests behind her."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_4088fbf1bf41aec1",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 60000,
+        "end_ms": 81500,
+        "episode_id": "ep_023"
+      }
+    ],
+    "duration_ms": 21500,
+    "origin": "recovery_beat_6",
+    "clip_events": [
+      {
+        "ref": "EP23:E27",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana looking up from the page, stunned by her mother's written words."
+      },
+      {
+        "ref": "EP23:E29",
+        "segment_index": 0,
+        "relative_start_ms": 800,
+        "relative_end_ms": 2000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Prudence leaning in, candle trembling."
+      },
+      {
+        "ref": "EP23:E30",
+        "segment_index": 0,
+        "relative_start_ms": 800,
+        "relative_end_ms": 2000,
+        "type": "dialogue",
+        "speaker": "PRUDENCE",
+        "text": "\"What is it?\""
+      },
+      {
+        "ref": "EP23:E32",
+        "segment_index": 0,
+        "relative_start_ms": 2000,
+        "relative_end_ms": 8500,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Weakness. Dry mouth. The discoloration beneath the nails. The slow wasting.\""
+      },
+      {
+        "ref": "EP23:E31",
+        "segment_index": 0,
+        "relative_start_ms": 2000,
+        "relative_end_ms": 9500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Two-shot of Juliana holding the open journal, reciting the matching symptoms to Prudence while the Duchess lies motionless in the background."
+      },
+      {
+        "ref": "EP23:E33",
+        "segment_index": 0,
+        "relative_start_ms": 9500,
+        "relative_end_ms": 10500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Prudence staring back in stunned disbelief."
+      },
+      {
+        "ref": "EP23:E35",
+        "segment_index": 0,
+        "relative_start_ms": 10500,
+        "relative_end_ms": 13500,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"I have seen these symptoms before.\""
+      },
+      {
+        "ref": "EP23:E34",
+        "segment_index": 0,
+        "relative_start_ms": 10500,
+        "relative_end_ms": 13800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana speaking with absolute certainty."
+      },
+      {
+        "ref": "EP23:E37",
+        "segment_index": 0,
+        "relative_start_ms": 13800,
+        "relative_end_ms": 15800,
+        "type": "dialogue",
+        "speaker": "PRUDENCE",
+        "text": "\"What are you saying?\""
+      },
+      {
+        "ref": "EP23:E36",
+        "segment_index": 0,
+        "relative_start_ms": 13800,
+        "relative_end_ms": 16000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Prudence's terrified face."
+      },
+      {
+        "ref": "EP23:E38",
+        "segment_index": 0,
+        "relative_start_ms": 16000,
+        "relative_end_ms": 18500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana's hands snapping the leather journal shut on the bedside table beside an oil lamp."
+      },
+      {
+        "ref": "EP23:E39",
+        "segment_index": 0,
+        "relative_start_ms": 18500,
+        "relative_end_ms": 21500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana resting her hands on the closed journal, looking squarely at Prudence."
+      },
+      {
+        "ref": "EP23:E40",
+        "segment_index": 0,
+        "relative_start_ms": 19000,
+        "relative_end_ms": 21500,
+        "type": "dialogue",
+        "speaker": "LADY JULIANA",
+        "text": "\"Someone is poisoning her.\""
+      }
+    ]
+  }
+]

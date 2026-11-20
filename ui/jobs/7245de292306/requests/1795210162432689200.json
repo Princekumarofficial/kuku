@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_f8189f8c8e9d945e DURATION_MS=40000\nSEGMENT 1 (playback order)\nEP27:E26 0-1900 SOUND: Loud, violent pounding echoes on the wooden double doors.\nEP27:E27 100-2400 CAMERA: Juliana gasps, snapping her head toward the entrance in alarm.\nEP27:E28 2400-5100 ACTION: The heavy mahogany double doors burst open, revealing the Blond Nobleman flanked by Lady Catherine and a royal guard in uniform.\nEP27:E29 2400-5100 CAMERA: Wide shot framing the open doorway as the aristocrats step into the dimly lit hallway.\nEP27:E30 5100-9200 CAMERA: Medium shot of Lady Catherine in her lavish cream gown and tiara, scowling with arrogant disdain.\nEP27:E31 5800-9200 LADY CATHERINE: \"What is that maid doing in Her Grace's private chamber?\"\nEP27:E32 9200-12200 CAMERA: Medium shot of Juliana standing stiffly beside the bed, concealing her hands.\nEP27:E33 10400-12000 JULIANA: \"She needed help.\"\nEP27:E34 12200-15600 CAMERA: Close-up of Lady Catherine narrowing her eyes with venomous suspicion.\nEP27:E35 13600-15400 LADY CATHERINE: \"What are you hiding?\"\nEP27:E36 15600-17600 CAMERA: Close-up of Juliana, her chin raised.\nEP27:E37 15800-17100 JULIANA: \"Nothing.\"\nEP27:E38 17600-20100 CAMERA: Medium close-up of Lady Catherine pointing a white-gloved finger directly at Juliana.\nEP27:E39 18400-20000 LADY CATHERINE: \"Show me your hand.\"\nEP27:E40 20100-24100 CAMERA: Medium shot of the Blond Nobleman stepping forward beside Lady Catherine, clad in a dark tailored coat with black leather gloves.\nEP27:E41 20200-23700 BLOND NOBLEMAN: \"Girl. Show me what you are holding.\"\nEP27:E42 24100-27400 CAMERA: Two-shot of Juliana facing the Blond Nobleman as she slowly extends her palm, revealing the small amber glass dropper bottle.\nEP27:E43 26200-27300 BLOND NOBLEMAN: \"What is this?\"\nEP27:E44 27400-28400 JULIANA: \"Medicine.\"\nEP27:E45 28400-31400 CAMERA: Close-up of Lady Catherine tapping her gloved finger to her lip, letting out a mocking scoff.\nEP27:E46 28800-31400 LADY CATHERINE: \"Medicine? You are a new maid.\"\nEP27:E47 31400-34400 CAMERA: Medium shot of the Blond Nobleman staring down at the vial, as Catherine sneers from his side.\nEP27:E48 31700-34100 LADY CATHERINE: \"Who permitted you to give medicine to the Duchess?\"\nEP27:E49 34400-36600 CAMERA: Close-up of Juliana holding her ground.\nEP27:E50 34600-35600 JULIANA: \"No one.\"\nEP27:E51 36600-40000 CAMERA: Close-up of Lady Catherine turning fiercely triumphant.\nEP27:E52 37200-40000 LADY CATHERINE: \"Then you administered it without permission.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

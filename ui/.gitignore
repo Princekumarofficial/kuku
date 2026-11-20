@@ -1,7 +1,2 @@
-jobs/
-uploads/
 __pycache__/
 test-temp*/
-
-backups/
-recovery-preview/

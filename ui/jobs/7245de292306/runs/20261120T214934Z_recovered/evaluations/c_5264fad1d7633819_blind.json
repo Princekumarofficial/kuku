@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_5264fad1d7633819",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP24:E10",
+      "EP24:E28"
+    ],
+    "reason": "The opening within 0-3000ms establishes hostility immediately through the noblewoman's icy challenge at 1000-4400ms, and the final 3000ms escalates with a violent strike and a sharp line of dialogue at 23000-24800ms."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.5,
+    "evidence_refs": [
+      "EP24:E27",
+      "EP24:E28"
+    ],
+    "reason": "The clip ends mid-conflict: Juliana is hunched in pain after the strike, the noblewoman's cruel stance is unresolved, and the Dowager Duchess remains unconscious and gasping, so the central situation is left open.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Identity and role of the Dowager Duchess and her illness",
+      "Why Juliana is a new maid and what authority the noblewoman holds",
+      "Purpose and effect of the glass remedy vial hidden in Juliana's apron",
+      "Relationship between the noblewoman and Juliana and why the physicians are relevant",
+      "Meaning of the line 'You are a maid' and why it provokes the strike"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The clip builds injustice and tension through Juliana's defiance, the noblewoman's cruelty, and a violent physical punishment, producing strong sympathy and indignation."
+  },
+  "weaknesses": [
+    "Characters are unnamed beyond Juliana, so the noblewoman's status and identity are unclear to a first-time viewer",
+    "The remedy vial's significance is shown but never explained",
+    "The 'You are a maid' line lacks context to explain the power dynamic",
+    "Overlapping evidence timings make the exact sequence of beats harder to follow",
+    "No resolution of the Dowager's condition, which leaves the stakes partly abstract"
+  ],
+  "one_line_why_it_works": "A defiant stand against open cruelty escalates to a brutal strike and leaves the moral conflict and the dying Dowager's fate unresolved."
+}

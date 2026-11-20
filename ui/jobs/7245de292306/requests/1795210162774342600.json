@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_b42698d4fdcab2af DURATION_MS=23500\nSEGMENT 1 (playback order)\nEP38:E39 0-3500 CAMERA: Tight close-up of Juliana turning toward the cell wall, her blue eyes flashing with fierce loyalty.\nEP38:E40 300-2000 JULIANA: \"I will not give them my husband.\"\nEP38:E41 2300-3700 JULIANA: \"I will not betray him.\"\nEP38:E42 3500-6500 CAMERA: Extreme close-up of Juliana's closed eyelids as she takes a sharp, startled breath.\nEP38:E43 4000-6000 ACTION: Juliana's eyes snap wide open in sudden realization as a deep resonant toll reverberates from above.\nEP38:E44 4300-23500 SOUND: Solemn, resonant church bells begin tolling rhythmically from the cathedral above, echoing deep into the stone dungeon.\nEP38:E45 6500-10000 CAMERA: Low-angle shot looking up past Juliana kneeling on the wet floor toward the barred iron skylight above her cell.\nEP38:E46 8500-9800 JULIANA: \"Bells.\"\nEP38:E47 10000-12000 CAMERA: Wide tracking shot as Juliana scrambles to her feet, chains clinking loudly against her skirts.\nEP38:E48 10500-13000 ACTION: Juliana rushes toward the front of the cell, clutching the iron bars with both hands.\nEP38:E49 12000-18000 CAMERA: Medium profile shot of Juliana gripping the heavy iron bars, gazing down the corridor toward the source of the sound.\nEP38:E50 12300-13700 JULIANA: \"The wedding.\"\nEP38:E51 14000-15300 JULIANA: \"It's beginning.\"\nEP38:E52 15500-18000 JULIANA: \"Then I suppose I'm next.\"\nEP38:E53 18000-23500 CAMERA: Close-up between the vertical iron bars framed directly on Juliana's face. The terror in her eyes softens into an unexpected, brave smile of enduring faith.\nEP38:E54 20500-23500 ACTION: Juliana grips the bars tightly, her lips curving into a warm, defiant smile as she whispers her husband's name.\nEP38:E55 22000-23500 JULIANA: \"Alexander...\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

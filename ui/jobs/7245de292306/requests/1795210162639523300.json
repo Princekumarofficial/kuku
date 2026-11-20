@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_54e059df263968b6 DURATION_MS=41200\nSEGMENT 1 (playback order)\nEP34:E1 0-2800 CAMERA: High wide establishing shot from behind the presiding judge looking down into the grand, sunlit courtroom filled with stern spectators, armed bailiffs, and Lady Juliana standing confined in the wooden prisoner's dock on the left.\nEP34:E2 1200-7800 JUDGE: \"Lady Juliana Ashcroft, you are accused of witchcraft, unlawful healing, and poisoning.\"\nEP34:E3 2800-7800 CAMERA: Medium close-up of the stern, elderly Judge seated at the high mahogany bench, resting both hands on the court documents.\nEP34:E4 7800-13100 CAMERA: Close-up of the charred, ancient botanical grimoire resting on the bench, its scorched pages open to an illustration of a wild rose, as a finger firmly taps the text.\nEP34:E5 9000-11200 SOUND: [A firm, hollow tap of a finger striking the parchment]\nEP34:E6 9100-12600 JUDGE: \"Do you deny possessing this book?\"\nEP34:E7 13100-15500 CAMERA: Low-angle medium close-up of Lady Juliana standing erect in the dock, her prisoner label pinned to her rustic buttoned gown, her expression resolute.\nEP34:E8 13800-14800 LADY JULIANA: \"No.\"\nEP34:E9 15500-19400 CAMERA: Low-angle medium shot of the Judge leaning over his elevated bench, staring down critically.\nEP34:E10 15600-19200 JUDGE: \"Do you deny using its remedies?\"\nEP34:E11 19400-23800 CAMERA: Tight close-up of Lady Juliana's face, bruised cheekbone highlighting her calm defiance.\nEP34:E12 20800-21800 LADY JULIANA: \"No.\"\nEP34:E13 23800-27400 CAMERA: Medium shot of the aristocratic Lord standing at the railing in his tailored dark coat, turning slowly with a smirk of malicious satisfaction.\nEP34:E14 27400-31700 CAMERA: Close-up of the Judge leaning forward across his bench, eyes narrowing with grim conviction.\nEP34:E15 27500-31200 JUDGE: \"Then you admit to practicing forbidden arts.\"\nEP34:E16 31700-35300 CAMERA: Close-up of Lady Juliana looking upward with quiet dignity, her eyes luminous.\nEP34:E17 33200-35100 LADY JULIANA: \"I admit to healing the sick.\"\nEP34:E18 35300-37400 ACTION: The Judge furiously raises his wooden gavel and strikes the sound block with sharp force.\nEP34:E19 35400-36600 JUDGE: \"Silence!\"\nEP34:E20 35800-37000 SOUND: [Sharp, echoing crack of the gavel slamming onto wood]\nEP34:E21 35800-37400 CAMERA: Medium shot of the Judge slamming the gavel down on his bench.\nEP34:E22 37400-41200 CAMERA: Tracking shot moving from the Judge on his bench as he points his outstretched arm across the courtroom floor toward the witness stand.\nEP34:E23 37500-41200 JUDGE: \"Prudence. You served beside the accused?\"\nEP34:E24 41000-41200 ACTION: Prudence the young maid stands trembling in the center of the courtroom floor, her head bowed in deep shame, clutching the sides of her apron.",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

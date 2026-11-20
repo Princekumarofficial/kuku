@@ -1,0 +1,649 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "ep_048",
+  "episode_number": 48,
+  "metadata": {
+    "logline": "While feigning submission after her public humiliation, Catherine schemes in secret, plotting to use the council's ten-day reprieve to strike back at Alexander and Juliana with the aid of Father Thomas.",
+    "continuity_notes": "Directly follows Episode 47's public disgrace where Catherine bowed to Juliana and accepted the position of a maid; in private, Catherine sheds her feigned defeat and initiates her counter-plot."
+  },
+  "source": {
+    "file": "047_episode-048-Episode 1688397.txt",
+    "sha256": "877b9ef4386e0bdc3b9103964979388eca1eb9c5341f835d6b203412fc6db624",
+    "complete": false
+  },
+  "scenes": [
+    {
+      "start_ms": 0,
+      "end_ms": 26700,
+      "id": "sc_001",
+      "heading": "INT. CATHERINE'S CHAMBERS – NIGHT"
+    },
+    {
+      "start_ms": 26700,
+      "end_ms": 80000,
+      "id": "sc_002",
+      "heading": "INT. CATHERINE'S CHAMBERS – CONTINUOUS"
+    }
+  ],
+  "events": [
+    {
+      "start_ms": 0,
+      "end_ms": 4500,
+      "id": "e_001",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot tracking slightly as Catherine stands beside a tall mullioned stone window, silhouetted against the moonlight over the distant castle spires.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        14,
+        16
+      ]
+    },
+    {
+      "start_ms": 0,
+      "end_ms": 3000,
+      "id": "e_002",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Catherine, adorned in an ornate dark burgundy gown with braided golden hair, gazes out the dark window before turning slowly with a cold, venomous smirk.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        18,
+        20
+      ]
+    },
+    {
+      "start_ms": 2400,
+      "end_ms": 7500,
+      "id": "e_003",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Two words, and that healer's crown rolls right back into the gutter where it belongs.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Vindictive, Cold",
+      "source_lines": [
+        22,
+        24
+      ]
+    },
+    {
+      "start_ms": 4500,
+      "end_ms": 8500,
+      "id": "e_004",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on Catherine's profile and jewelry as she speaks with calculating contempt.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        26,
+        28
+      ]
+    },
+    {
+      "start_ms": 7800,
+      "end_ms": 12300,
+      "id": "e_005",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Catherine glides across the chamber past a roaring stone hearth, picking up an orange from a silver platter on the table.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        30,
+        32
+      ]
+    },
+    {
+      "start_ms": 8000,
+      "end_ms": 12300,
+      "id": "e_006",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Ten days. He gave himself ten days to fix it.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Scheming",
+      "source_lines": [
+        34,
+        36
+      ]
+    },
+    {
+      "start_ms": 12300,
+      "end_ms": 20000,
+      "id": "e_007",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up frontal shot of Catherine turning directly toward the viewer, her expression tightening into ruthless determination.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        38,
+        40
+      ]
+    },
+    {
+      "start_ms": 12600,
+      "end_ms": 14900,
+      "id": "e_008",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Ten days for the council to sit.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Intense, Measured",
+      "source_lines": [
+        42,
+        44
+      ]
+    },
+    {
+      "start_ms": 15000,
+      "end_ms": 18500,
+      "id": "e_009",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Catherine raises a gloved index finger, emphasizing each point with sinister precision.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        46,
+        48
+      ]
+    },
+    {
+      "start_ms": 15100,
+      "end_ms": 17200,
+      "id": "e_010",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Ten days for witnesses to be gathered.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Calculating",
+      "source_lines": [
+        50,
+        52
+      ]
+    },
+    {
+      "start_ms": 17400,
+      "end_ms": 19700,
+      "id": "e_011",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Ten days for a decree to be undone.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Dark, Threatening",
+      "source_lines": [
+        54,
+        56
+      ]
+    },
+    {
+      "start_ms": 20000,
+      "end_ms": 26700,
+      "id": "e_012",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Slight push-in on Catherine as she clenches her fist against her chest, her eyes blazing with malice.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        58,
+        60
+      ]
+    },
+    {
+      "start_ms": 20100,
+      "end_ms": 23700,
+      "id": "e_013",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Ten days is not a wall, Alexander. It's a door.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Menacing, Resolute",
+      "source_lines": [
+        62,
+        64
+      ]
+    },
+    {
+      "start_ms": 23900,
+      "end_ms": 26500,
+      "id": "e_014",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"And doors can be closed from the other side.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Chillingly Calm",
+      "source_lines": [
+        66,
+        68
+      ]
+    },
+    {
+      "start_ms": 26700,
+      "end_ms": 30800,
+      "id": "e_015",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium shot over Catherine's shoulder seated before her vanity mirror as the chamber door eases open and Agnes enters quietly.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        77,
+        79
+      ]
+    },
+    {
+      "start_ms": 26800,
+      "end_ms": 29500,
+      "id": "e_016",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "Agnes, dressed in a grey maid's dress and white apron, steps inside with cautious hesitation and clasps her hands.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        81,
+        83
+      ]
+    },
+    {
+      "start_ms": 29200,
+      "end_ms": 30800,
+      "id": "e_017",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"You sent for me, my lady?\"",
+      "speaker": "AGNES",
+      "delivery": "Hushed, Submissive",
+      "source_lines": [
+        85,
+        87
+      ]
+    },
+    {
+      "start_ms": 30900,
+      "end_ms": 32000,
+      "id": "e_018",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Lock it.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Commanding, Sharp",
+      "source_lines": [
+        89,
+        91
+      ]
+    },
+    {
+      "start_ms": 32000,
+      "end_ms": 33900,
+      "id": "e_019",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up on Agnes's hands turning the ornate iron key in the wooden door's brass lock.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        93,
+        95
+      ]
+    },
+    {
+      "start_ms": 32300,
+      "end_ms": 33800,
+      "id": "e_020",
+      "scene_id": "sc_002",
+      "type": "sound",
+      "text": "Heavy metallic click of an iron key latching into a deadbolt.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        97,
+        99
+      ]
+    },
+    {
+      "start_ms": 34000,
+      "end_ms": 36500,
+      "id": "e_021",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "Catherine strides forward and firmly grasps Agnes by both hands, stepping uncomfortably close.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        101,
+        103
+      ]
+    },
+    {
+      "start_ms": 34000,
+      "end_ms": 43000,
+      "id": "e_022",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Two-shot profile of Catherine towering over Agnes in the candlelight.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        105,
+        107
+      ]
+    },
+    {
+      "start_ms": 34200,
+      "end_ms": 37100,
+      "id": "e_023",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Everyone in that chapel saw me humiliated today.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Fierce, Hissing",
+      "source_lines": [
+        109,
+        111
+      ]
+    },
+    {
+      "start_ms": 37300,
+      "end_ms": 39000,
+      "id": "e_024",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Good. Let them remember it.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Spiteful, calculating",
+      "source_lines": [
+        113,
+        115
+      ]
+    },
+    {
+      "start_ms": 39200,
+      "end_ms": 43000,
+      "id": "e_025",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Grief makes people careless, and carelessness is exactly what I need from that household right now.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Sinister, Predatory",
+      "source_lines": [
+        117,
+        119
+      ]
+    },
+    {
+      "start_ms": 43000,
+      "end_ms": 46800,
+      "id": "e_026",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Over-the-shoulder close-up on Agnes, her brow furrowed in anxious alarm.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        121,
+        123
+      ]
+    },
+    {
+      "start_ms": 43300,
+      "end_ms": 46800,
+      "id": "e_027",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"My lady... the Duke has bailiffs watching every road out of the county.\"",
+      "speaker": "AGNES",
+      "delivery": "Anxious, Whispering",
+      "source_lines": [
+        125,
+        127
+      ]
+    },
+    {
+      "start_ms": 46800,
+      "end_ms": 51500,
+      "id": "e_028",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up on Catherine, a smug, venomous smile spreading across her painted lips.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        129,
+        131
+      ]
+    },
+    {
+      "start_ms": 47000,
+      "end_ms": 51300,
+      "id": "e_029",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"I'm not leaving the county, Agnes. I'm going back into that house.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Confident, Devious",
+      "source_lines": [
+        133,
+        135
+      ]
+    },
+    {
+      "start_ms": 51500,
+      "end_ms": 58200,
+      "id": "e_030",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium tracking shot following Catherine as she releases Agnes and stalks across the room toward the window sill.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        137,
+        139
+      ]
+    },
+    {
+      "start_ms": 52000,
+      "end_ms": 55000,
+      "id": "e_031",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Father Thomas did his part beautifully today.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Pleased, Scheming",
+      "source_lines": [
+        141,
+        143
+      ]
+    },
+    {
+      "start_ms": 55200,
+      "end_ms": 58200,
+      "id": "e_032",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Now I need him to do a little more before that hearing convenes.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Calculated, Demanding",
+      "source_lines": [
+        145,
+        147
+      ]
+    },
+    {
+      "start_ms": 58200,
+      "end_ms": 61000,
+      "id": "e_033",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium close-up of Agnes glancing nervously over her shoulder.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        149,
+        151
+      ]
+    },
+    {
+      "start_ms": 58500,
+      "end_ms": 60600,
+      "id": "e_034",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"If someone sees him come to you...\"",
+      "speaker": "AGNES",
+      "delivery": "Apprehensive",
+      "source_lines": [
+        153,
+        155
+      ]
+    },
+    {
+      "start_ms": 61000,
+      "end_ms": 66900,
+      "id": "e_035",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up on Catherine spinning around from the window, her jaw set in terrifying firmness.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        157,
+        159
+      ]
+    },
+    {
+      "start_ms": 61800,
+      "end_ms": 64000,
+      "id": "e_036",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Then no one sees him.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Stern, Threatening",
+      "source_lines": [
+        161,
+        163
+      ]
+    },
+    {
+      "start_ms": 64300,
+      "end_ms": 66900,
+      "id": "e_037",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"That is precisely your job tonight.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Authoritative",
+      "source_lines": [
+        165,
+        167
+      ]
+    },
+    {
+      "start_ms": 66900,
+      "end_ms": 73500,
+      "id": "e_038",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium shot as Catherine picks up a heavy velvet coin purse and places it firmly into Agnes's awaiting open palms.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        169,
+        171
+      ]
+    },
+    {
+      "start_ms": 67500,
+      "end_ms": 69000,
+      "id": "e_039",
+      "scene_id": "sc_002",
+      "type": "sound",
+      "text": "Dull clinking of heavy gold coins inside a leather pouch.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        173,
+        175
+      ]
+    },
+    {
+      "start_ms": 67800,
+      "end_ms": 70500,
+      "id": "e_040",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Send for the priest. Tonight.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Hushed, Commanding",
+      "source_lines": [
+        177,
+        179
+      ]
+    },
+    {
+      "start_ms": 70800,
+      "end_ms": 73400,
+      "id": "e_041",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"And make sure no one sees him arrive.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Firm, Final",
+      "source_lines": [
+        181,
+        183
+      ]
+    },
+    {
+      "start_ms": 73500,
+      "end_ms": 76800,
+      "id": "e_042",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Wide shot of Agnes curtsying swiftly, stashing the pouch into her apron, and hurrying out through the heavy wooden door into the darkness.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        185,
+        187
+      ]
+    },
+    {
+      "start_ms": 76800,
+      "end_ms": 80000,
+      "id": "e_043",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Exterior shot looking through the dark diamond-paned window frame at Catherine standing motionless in the warm candlelight, staring outward into the night with cold, unyielding ambition as the scene fades to black.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        189,
+        191
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "start_ms": 0,
+      "end_ms": 30800
+    },
+    {
+      "start_ms": 30900,
+      "end_ms": 33900
+    },
+    {
+      "start_ms": 34000,
+      "end_ms": 80000
+    }
+  ],
+  "warnings": [
+    "sc_002: incomplete source coverage; gaps are unavailable"
+  ]
+}

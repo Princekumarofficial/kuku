@@ -1,0 +1,184 @@
+{
+  "stage": "episode_analysis",
+  "system": "Analyze narrative beats, characters, revelations and unresolved questions. Only event text is on-screen evidence; metadata may describe unseen events. Use supplied EPxx:Ex aliases. Report uncertainty in the summary. A revelation's significance is not its spoiler damage.",
+  "user": "EP=ep_004; timestamps are integer milliseconds\nSOURCE_SHA256=65f7f9c356a21c86dddfd4808bbdbc65dcd22f0ce220cc2de2cbcdc0371fc51b\nMETADATA ONLY (not on-screen evidence): {'logline': \"Defying Gerald and Clarissa's cruel mockery, Juliana accepts the mysterious scarred warrior's solemn proposal and is officially wed, choosing exile and dignity over her family's cruelty as they walk out into the light together.\", 'continuity_notes': \"Picks up directly from Episode 3's cliffhanger where the Mysterious Bearded Man dropped to one knee before the altar, presenting a ring to Lady Juliana.\"}\nSOURCE WARNINGS=['sc_001: incomplete source coverage; gaps are unavailable']\nSCENE sc_001 0-151400 INT. CHAPEL – CONTINUOUS\nEP04:E1 0-1500 CAMERA: Close-up of the Mysterious Bearded Man's scarred hand holding out the silver band ring.\nEP04:E2 1500-3200 CAMERA: Medium close-up of Juliana, staring down in disbelief at the offered ring.\nEP04:E3 1500-3200 ACTION: Juliana's eyes widen, stunned breath catching in her throat.\nEP04:E4 3200-5000 CAMERA: Medium shot of Gerald stepping forward from his pew with a smug, sneering grin.\nEP04:E5 3400-4900 GERALD [Mocking, Arrogant]: \"Look at him.\"\nEP04:E6 5000-7500 CAMERA: Tight close-up of Gerald's venomous, self-satisfied face.\nEP04:E7 5000-7500 GERALD [Scornful]: \"A penniless nobody for a discarded bride.\"\nEP04:E8 7600-10500 CAMERA: Medium shot of Clarissa covering her mouth with her gloved hand, bursting into cruel laughter.\nEP04:E9 7800-9500 ACTION: Clarissa giggles spitefully, lowering her gloved hand to gloat.\nEP04:E10 9000-10500 CLARISSA [Gleeful, Condescending]: \"How fitting.\"\nEP04:E11 10500-12000 CAMERA: Two-shot of Clarissa and Gerald standing proudly side-by-side in their pew as Clarissa points mocking fingers.\nEP04:E12 10600-14200 CLARISSA [Taunting]: \"You have finally found a man as worthless as everyone thinks you are.\"\nEP04:E13 12000-15000 CAMERA: Close-up of Juliana's side profile, hurt glistening in her eyes as the insult cuts deep.\nEP04:E14 15000-17500 CAMERA: Medium close-up of Juliana looking up toward the high arches of the chapel, drawing inward strength.\nEP04:E15 15500-17500 ACTION: Juliana closes her eyes briefly and releases a steadying breath.\nEP04:E16 17500-21800 CAMERA: Low-angle shot looking past the kneeling Mysterious Bearded Man up at Juliana.\nEP04:E17 20000-21800 JULIANA [Vulnerable, Trembling]: \"You don't even know me.\"\nEP04:E18 21900-23400 CAMERA: Close-up of the Mysterious Bearded Man gazing upward with unwavering earnestness.\nEP04:E19 23400-25800 CAMERA: Tight close-up of Juliana's anguished face.\nEP04:E20 23500-25800 JULIANA [Conflicted, Pained]: \"You heard what they think I am.\"\nEP04:E21 25800-27900 CAMERA: Medium shot looking down as Juliana addresses the kneeling stranger directly.\nEP04:E22 25900-27700 JULIANA [Searching]: \"Why would you offer me your name?\"\nEP04:E23 27900-30500 CAMERA: Low-angle close-up of the Mysterious Bearded Man.\nEP04:E24 28000-30200 MYSTERIOUS BEARDED MAN [Grave, Certain]: \"Because I know what I see.\"\nEP04:E25 30500-32000 CAMERA: Medium close-up of Juliana reacting with a mix of suspicion and wonder.\nEP04:E26 32000-33800 CAMERA: Intimate tight shot framing Juliana's profile beside his dark silhouette.\nEP04:E27 32100-33700 JULIANA [Quiet, Hesitant]: \"And what do you see?\"\nEP04:E28 33800-36000 CAMERA: Medium close-up of the Mysterious Bearded Man.\nEP04:E29 34000-36000 MYSTERIOUS BEARDED MAN [Firm, Sincere]: \"A woman who was betrayed.\"\nEP04:E30 36000-38900 CAMERA: Over-the-shoulder shot past the bearded warrior toward Gerald watching nervously from the family pew.\nEP04:E31 36500-38800 MYSTERIOUS BEARDED MAN [Resolute]: \"Not a woman who deserves to be discarded.\"\nEP04:E32 38900-41500 CAMERA: Low-angle medium shot of Juliana bending slightly forward, shaken by his words.\nEP04:E33 41500-45000 CAMERA: Medium close-up of Juliana.\nEP04:E34 42000-44800 JULIANA [Soft, Bitter]: \"You don't know what my family has done to me.\"\nEP04:E35 45000-49800 CAMERA: Low-angle shot of the Mysterious Bearded Man still on one knee, framed against the stained-glass window.\nEP04:E36 46000-48800 MYSTERIOUS BEARDED MAN [Solemn]: \"I know they have made you stand alone.\"\nEP04:E37 49800-52800 CAMERA: Extreme close-up of the ring held in his weathered fingers, Juliana's white silk gown blurred in background.\nEP04:E38 50000-52500 MYSTERIOUS BEARDED MAN [Gentle]: \"You don't have to stand alone now.\"\nEP04:E39 52800-55800 CAMERA: Medium shot of Juliana, her pride flaring through her sadness.\nEP04:E40 53600-55800 JULIANA [Defiant, Dignified]: \"If this is pity, take back your ring.\"\nEP04:E41 55800-59000 CAMERA: Tight close-up on Juliana's face, a tear clinging to her cheek.\nEP04:E42 56800-58800 JULIANA [Fierce]: \"I will not become anyone's charity.\"\nEP04:E43 59000-62800 CAMERA: Medium close-up of the Mysterious Bearded Man holding her gaze directly.\nEP04:E44 59500-62500 MYSTERIOUS BEARDED MAN [Earnest]: \"It is not pity, Lady Juliana.\"\nEP04:E45 62800-65800 CAMERA: Intense tight close-up on his piercing blue-green eyes and facial scars.\nEP04:E46 63500-65500 MYSTERIOUS BEARDED MAN [Deep, Absolute]: \"It is a vow.\"\nEP04:E47 65800-67500 CAMERA: Close-up of Juliana, completely disarmed by the gravity of his promise.\nEP04:E48 66000-68000 JULIANA [V.O.]: \"I don't know this man.\"\nEP04:E49 67500-69500 CAMERA: Medium shot of Lady Ashcroft, Clarissa, and Lord Ashcroft seated coldly in the family pew.\nEP04:E50 68000-69600 JULIANA [V.O.]: \"I don't know what waits beyond these doors.\"\nEP04:E51 69500-71800 CAMERA: Side profile close-up of Juliana looking toward her estranged family, then turning back.\nEP04:E52 69800-72000 JULIANA [V.O.]: \"But he looked at me when everyone else turned away.\"\nEP04:E53 71800-74800 CAMERA: Medium shot of Juliana facing down at him, a faint, tender smile breaking across her lips.\nEP04:E54 72800-74500 JULIANA [Resolved]: \"Then I accept.\"\nEP04:E55 74800-76200 CAMERA: Wide shot of the altar with the high cathedral stained glass overhead as the Priest looks on between them.\nEP04:E56 76200-79000 CAMERA: Medium shot of the Mysterious Bearded Man rising smoothly to his feet before Juliana.\nEP04:E57 76200-79000 ACTION: The Mysterious Bearded Man stands tall, extending his scarred hand toward Juliana.\nEP04:E58 79000-81800 CAMERA: Close-up of Juliana's slender hand resting gently into his large, weathered palm.\nEP04:E59 79200-81500 ACTION: He folds his fingers over hers, holding her hand with protective firmness.\nEP04:E60 81800-84000 CAMERA: Medium close-up of the Priest holding his open liturgical book, bewildered and trembling.\nEP04:E61 82000-83800 THE PRIEST [Hesitant, Anxious]: \"My- My Lady...\"\nEP04:E62 84000-86000 CAMERA: Tight close-up of the Priest's alarmed, questioning eyes.\nEP04:E63 84000-85800 THE PRIEST [Tentative]: \"Are you certain?\"\nEP04:E64 86000-88800 CAMERA: Medium shot of Lord Ashcroft seated in his pew, gripping his cane, bowed in grim silence.\nEP04:E65 88800-91500 CAMERA: Close-up profile of Juliana, her expression clear and unshakable.\nEP04:E66 89800-91000 JULIANA [Unwavering]: \"I am.\"\nEP04:E67 91500-94800 CAMERA: Medium close-up of the Priest swallowing hard and looking down at his book.\nEP04:E68 92000-94500 THE PRIEST [Resigned, Solemn]: \"Then... let us proceed.\"\nEP04:E69 94800-97800 CAMERA: Close two-shot of the Mysterious Bearded Man and Juliana gazing intimately into each other's eyes.\nEP04:E70 95800-98000 MYSTERIOUS BEARDED MAN [Low, Reassuring]: \"You need not say anything you do not mean.\"\nEP04:E71 97800-100200 CAMERA: Close-up of Juliana smiling softly up at him.\nEP04:E72 98200-100000 JULIANA [Warm, Sincere]: \"I truly mean it.\"\nEP04:E73 100200-102200 CAMERA: Close-up shot of his hands sliding the silver ring over her ring finger.\nEP04:E74 100200-102200 ACTION: The Mysterious Bearded Man carefully slides the band onto Juliana's finger.\nEP04:E75 102200-105000 CAMERA: Medium close-up of the Mysterious Bearded Man holding her hands tenderly.\nEP04:E76 102500-104200 MYSTERIOUS BEARDED MAN [Solemn]: \"You have my protection.\"\nEP04:E77 105000-107800 CAMERA: Tight shot of the warrior's face, his eyes full of devotion.\nEP04:E78 105200-107000 MYSTERIOUS BEARDED MAN [Steadfast]: \"You have my respect.\"\nEP04:E79 107800-110000 CAMERA: Extreme close-up of his intense gaze.\nEP04:E80 107800-109800 MYSTERIOUS BEARDED MAN [Grave]: \"And you have my word.\"\nEP04:E81 110000-112800 CAMERA: Medium three-shot with the Priest standing between them, raising both hands in blessing over their joined hands.\nEP04:E82 110000-113000 THE PRIEST [Ceremonial]: \"By the authority entrusted to me, I now pronounce you...\"\nEP04:E83 112800-114800 CAMERA: High wide establishing shot looking down from the ceiling vaults of the cathedral onto the altar.\nEP04:E84 113000-114800 THE PRIEST [Off-Screen, Booming]: \"...husband and wife!\"\nEP04:E85 114000-115200 SOUND: Dramatic musical chord swelling.\nEP04:E86 114800-116800 CAMERA: Medium close-up of Gerald lunging forward, pointing an enraged finger.\nEP04:E87 115000-116800 GERALD [Furious, Shouting]: \"You have thrown yourself away!\"\nEP04:E88 116800-119000 CAMERA: Tight close-up of Gerald, face contorted in rage.\nEP04:E89 117000-119000 GERALD [Livid]: \"For a penniless nobody!\"\nEP04:E90 119000-122800 CAMERA: Medium two-shot of Juliana standing tall before Gerald in the chapel aisle, her husband standing guard behind her.\nEP04:E91 120500-122800 JULIANA [Calm, Cutting]: \"I would rather choose my own life...\"\nEP04:E92 122800-125800 CAMERA: Close-up of Juliana, her jaw set with unshakable pride.\nEP04:E93 123000-125500 JULIANA [Firm, Final]: \"...than spend another moment begging for yours.\"\nEP04:E94 125800-127400 CAMERA: Tight close-up of Gerald, eyes wide with speechless shock and wounded pride.\nEP04:E95 126000-127400 ACTION: Gerald recoils slightly, mouth agape.\nEP04:E96 127400-131500 CAMERA: Wide shot of Lady Ashcroft rising abruptly from the front pew, pointing an accusatory hand toward the doors.\nEP04:E97 127500-131500 LADY ASHCROFT [Imperious, Shouting]: \"Do not bring this man anywhere near Ashcroft Manor!\"\nEP04:E98 131500-134800 CAMERA: Tight close-up of Lady Ashcroft, eyes blazing with cold malice.\nEP04:E99 132000-134500 LADY ASHCROFT [Venomous]: \"You are disowned!\"\nEP04:E100 134800-136000 CAMERA: Medium shot of Lord Ashcroft bowing his head deeply over his cane in shame.\nEP04:E101 136000-138800 CAMERA: Close-up of Juliana. Tears brim in her eyes at the formal rejection, but she does not break.\nEP04:E102 138800-140800 CAMERA: Medium two-shot as the Mysterious Bearded Man turns gently to Juliana, reaching his hand out once more.\nEP04:E103 139500-140800 MYSTERIOUS BEARDED MAN [Soft, Protective]: \"Come, Lady Juliana.\"\nEP04:E104 140800-142800 CAMERA: Close-up of Juliana placing her hand securely into his, gripping his scarred hand.\nEP04:E105 142800-144800 CAMERA: Wide tracking shot behind Juliana and the warrior as they begin walking down the central aisle toward the chapel doors.\nEP04:E106 144800-146500 CAMERA: Medium three-shot of Gerald, Clarissa, and Lady Ashcroft watching in stunned silence and disbelief.\nEP04:E107 145000-146500 ACTION: Clarissa gapes in shock while Lady Ashcroft exhales in exasperation.\nEP04:E108 146500-151400 CAMERA: Wide shot from the back of the chapel as the massive oak doors swing wide open, revealing bright daylight and the courtyard outside.\nEP04:E109 147500-151400 ACTION: Juliana and the Mysterious Bearded Man walk hand-in-hand through the towering doors into the sunlight together, turning their backs on the ruined wedding as the screen fades out.\nEP04:E110 147000-149000 SOUND: Heavy oak doors creaking open, followed by a triumphant musical swell fading out into silence.",
+  "schema": {
+    "$defs": {
+      "Beat": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "kind": {
+            "title": "Kind",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "description": {
+            "title": "Description",
+            "type": "string"
+          },
+          "intensity_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Intensity 0 10",
+            "type": "number"
+          }
+        },
+        "required": [
+          "id",
+          "kind",
+          "event_refs",
+          "description",
+          "intensity_0_10"
+        ],
+        "title": "Beat",
+        "type": "object"
+      },
+      "Character": {
+        "additionalProperties": false,
+        "properties": {
+          "name": {
+            "title": "Name",
+            "type": "string"
+          },
+          "role": {
+            "title": "Role",
+            "type": "string"
+          }
+        },
+        "required": [
+          "name",
+          "role"
+        ],
+        "title": "Character",
+        "type": "object"
+      },
+      "Question": {
+        "additionalProperties": false,
+        "properties": {
+          "question": {
+            "title": "Question",
+            "type": "string"
+          },
+          "introduced_by": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Introduced By",
+            "type": "array"
+          }
+        },
+        "required": [
+          "question",
+          "introduced_by"
+        ],
+        "title": "Question",
+        "type": "object"
+      },
+      "Revelation": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "claim": {
+            "title": "Claim",
+            "type": "string"
+          },
+          "spoiler_significance_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Spoiler Significance 0 10",
+            "type": "number"
+          },
+          "creates_questions": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Creates Questions",
+            "type": "array"
+          }
+        },
+        "required": [
+          "id",
+          "event_refs",
+          "claim",
+          "spoiler_significance_0_10",
+          "creates_questions"
+        ],
+        "title": "Revelation",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "episode_id": {
+        "title": "Episode Id",
+        "type": "string"
+      },
+      "summary": {
+        "title": "Summary",
+        "type": "string"
+      },
+      "characters": {
+        "items": {
+          "$ref": "#/$defs/Character"
+        },
+        "title": "Characters",
+        "type": "array"
+      },
+      "beats": {
+        "items": {
+          "$ref": "#/$defs/Beat"
+        },
+        "title": "Beats",
+        "type": "array"
+      },
+      "revelations": {
+        "items": {
+          "$ref": "#/$defs/Revelation"
+        },
+        "title": "Revelations",
+        "type": "array"
+      },
+      "unresolved_questions": {
+        "items": {
+          "$ref": "#/$defs/Question"
+        },
+        "title": "Unresolved Questions",
+        "type": "array"
+      }
+    },
+    "required": [
+      "episode_id",
+      "summary",
+      "characters",
+      "beats",
+      "revelations",
+      "unresolved_questions"
+    ],
+    "title": "EpisodeAnalysis",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

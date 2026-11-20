@@ -1,0 +1,184 @@
+{
+  "stage": "episode_analysis",
+  "system": "Analyze narrative beats, characters, revelations and unresolved questions. Only event text is on-screen evidence; metadata may describe unseen events. Use supplied EPxx:Ex aliases. Report uncertainty in the summary. A revelation's significance is not its spoiler damage.",
+  "user": "EP=ep_033; timestamps are integer milliseconds\nSOURCE_SHA256=0012ba24a8fa997a1df93165c06c90dacf5bab6c76ceef791533e8747aec4ad6\nMETADATA ONLY (not on-screen evidence): {'logline': 'Under cruel coercion and threats to send her seven-year-old brother to the county gaol, a young maid is manipulated into giving false testimony framing Juliana for witchcraft.', 'continuity_notes': \"Following Catherine's dungeon interrogation of Juliana, the conspiracy against Juliana deepens as an aristocratic lord forces a testimony of witchcraft out of the young maid whose brother Juliana saved.\"}\nSOURCE WARNINGS=[]\nSCENE sc_001 0-174040 INT. STUDY – NIGHT\nEP33:E1 0-5200 CAMERA: Wide shot of a dimly lit, wood-paneled library study. An aristocratic lord in formal dark attire stands facing a young maid standing nervously by the open door.\nEP33:E2 2500-4800 LORD [Cold, Authoritative]: \"Your brother is breathing again.\"\nEP33:E3 4000-6500 ACTION: The young maid steps inside, bowing with a submissive curtsy, keeping her head low and hands clasped.\nEP33:E4 5200-8800 CAMERA: Medium close-up of the maid trembling as she raises her eyes hesitantly.\nEP33:E5 6500-8500 MAID [Meek, Hesitant]: \"Yes, my Lord.\"\nEP33:E6 8800-12000 CAMERA: Medium shot of the Lord standing beside his mahogany desk, looking down with cold, calculating scrutiny.\nEP33:E7 9500-11800 LORD [Probing]: \"And who saved him?\"\nEP33:E8 12000-14800 CAMERA: Close-up of the maid's anxious, innocent face.\nEP33:E9 13000-14500 MAID [Quiet, Truthful]: \"Lady Juliana.\"\nEP33:E10 14800-17800 CAMERA: Close-up of the Lord's hand slowly rotating the heavy gold signet ring on his pinky finger.\nEP33:E11 15500-17500 LORD [Measured, Demanding]: \"Tell me how.\"\nEP33:E12 17800-21000 CAMERA: Medium close-up of the maid nervously wringing her apron fabric.\nEP33:E13 19500-21000 MAID [Faltering]: \"She... she used herbs.\"\nEP33:E14 21000-23000 CAMERA: Close-up on the Lord leaning forward abruptly, his piercing gaze bearing down.\nEP33:E15 21200-22800 LORD [Sharp, Intimidating]: \"What herbs?\"\nEP33:E16 23000-26500 CAMERA: Close-up of the frightened maid looking down, shrinking back.\nEP33:E17 24500-26200 MAID [Whispering, Nervous]: \"I don't know.\"\nEP33:E18 26500-29200 CAMERA: Low-angle shot looking up at the imposing Lord towering above her.\nEP33:E19 27500-29000 LORD [Stern]: \"You watched her.\"\nEP33:E20 29200-32800 CAMERA: Close-up of the maid, tears beginning to glisten on her cheeks as she defends Juliana.\nEP33:E21 29800-32000 MAID [Tearful, Sincere]: \"I watched her save him.\"\nEP33:E22 32800-36500 CAMERA: Medium tracking shot of the Lord turning away slowly past the lamp-lit desk toward the rain-streaked window.\nEP33:E23 34000-36200 LORD [Coldly Dismissive]: \"That is not what I asked.\"\nEP33:E24 36500-40200 CAMERA: Medium two-shot framing the maid from behind as the Lord steps back toward her with commanding stillness.\nEP33:E25 37500-40000 LORD [Accusatory]: \"Did she use her mother's book?\"\nEP33:E26 40200-44200 CAMERA: Close-up of the maid trembling, tears spilling down her face.\nEP33:E27 42200-43600 MAID [Quietly Weeping]: \"Yes.\"\nEP33:E28 44200-49200 CAMERA: Close-up of the Lord's sinister, unyielding face.\nEP33:E29 44800-48800 LORD [Insistent, Cornering]: \"Did she prepare things no physician had prescribed?\"\nEP33:E30 49200-52500 CAMERA: Medium shot of the maid clutching her hands together tightly, overwhelmed with guilt.\nEP33:E31 50000-51600 MAID [Choked Sob]: \"Yes.\"\nEP33:E32 52500-56800 CAMERA: Close-up of the Lord's mouth curling into a sinister, predatory smile.\nEP33:E33 53000-56500 LORD [Sly, Sinister]: \"And did she perform anything unusual?\"\nEP33:E34 56800-59000 CAMERA: Close-up of the maid gasping, shaking her head vigorously in panic.\nEP33:E35 57400-58800 MAID [Desperate, Denying]: \"No!\"\nEP33:E36 59000-64200 CAMERA: Profile medium two-shot as the Lord looms inches from the maid's face.\nEP33:E37 59000-61000 LORD [Low, Menacing]: \"Think carefully.\"\nEP33:E38 61200-63500 LORD [Ruthless]: \"Your brother is still a pauper.\"\nEP33:E39 64200-68800 CAMERA: Extreme close-up of the Lord's cold eyes and hawkish profile speaking with chilling finality.\nEP33:E40 64400-68500 LORD [Threatening]: \"One word from me, and the county gaol will take him before sunrise.\"\nEP33:E41 68500-70000 ACTION: The maid gasps in sheer terror, her chest heaving as tears stream.\nEP33:E42 68800-73200 CAMERA: Close-up of the maid clutching her chest with trembling hands, crying desperately.\nEP33:E43 69500-73000 MAID [Begging, Heartbroken]: \"Please, my Lord... he is only seven!\"\nEP33:E44 73200-75500 CAMERA: Close-up of the Lord staring down without an ounce of pity.\nEP33:E45 73200-75000 LORD [Cold, Unwavering]: \"Then help him.\"\nEP33:E46 75500-79500 CAMERA: Close-up of the maid weeping profusely, cornered and helpless.\nEP33:E47 76800-79000 MAID [Crying, Shattered]: \"What do you want me to say?!\"\nEP33:E48 79500-84800 CAMERA: Wide shot of the study as the Lord stands calmly before the trembling servant.\nEP33:E49 79600-80500 LORD [Deceptive]: \"The truth.\"\nEP33:E50 81000-84500 LORD [Leading, Deliberate]: \"She drew something around the bed, did she not?\"\nEP33:E51 84800-89000 CAMERA: Close-up of the maid stammering through her tears.\nEP33:E52 85500-88800 MAID [Trembling, Reluctant]: \"She... placed dried herbs around him.\"\nEP33:E53 89000-94800 CAMERA: Medium close-up of the Lord standing right beside her shoulder, whispering in her ear like an insidious specter.\nEP33:E54 89000-90500 LORD [Hypnotic, Coercive]: \"Around him.\"\nEP33:E55 91000-92500 LORD [Coercive]: \"Like a circle?\"\nEP33:E56 93000-94500 MAID [Faint, Defeated]: \"Yes.\"\nEP33:E57 94800-98500 CAMERA: Close-up from behind the maid as the Lord leans close to her ear.\nEP33:E58 95000-98000 LORD [Whispering, Trap Snapping]: \"And she opened her mother's book...\"\nEP33:E59 98500-100800 CAMERA: Extreme close-up of the maid's tear-drenched eyes and quivering lips.\nEP33:E60 98500-100000 MAID [Sobbing]: \"Yes.\"\nEP33:E61 100800-104200 CAMERA: Close-up of the Lord delivering the final trap.\nEP33:E62 101000-104000 LORD [Sinister]: \"...and spoke words you could not understand.\"\nEP33:E63 104200-107500 CAMERA: Close-up of the maid gasping out in desperate agony.\nEP33:E64 104500-106500 MAID [Desperately Defending]: \"She was praying!\"\nEP33:E65 107500-111800 CAMERA: Close-up of the Lord grinning with sinister triumph.\nEP33:E66 108000-111500 LORD [Taunting]: \"Praying... or chanting?\"\nEP33:E67 111800-113800 CAMERA: Close-up of the maid breaking down completely.\nEP33:E68 112000-113500 MAID [Hysterically Sobbing]: \"I don't know!\"\nEP33:E69 113800-119500 CAMERA: Medium shot as the Lord paces slowly, pointing his finger with clinical, legal precision.\nEP33:E70 114000-116500 LORD [Calculating, Relentless]: \"You saw a woman draw a circle of herbs.\"\nEP33:E71 116800-119500 LORD [Relentless]: \"You saw her use a forbidden book.\"\nEP33:E72 119500-123500 CAMERA: Close-up profile of the Lord leaning in right in front of the sobbing maid.\nEP33:E73 119800-122800 LORD [Condemning]: \"You heard words you could not understand.\"\nEP33:E74 123500-126800 CAMERA: Extreme close-up of the Lord's mouth and calculating eyes as he pronounces the lethal word.\nEP33:E75 124500-126500 LORD [Deadly, Resolute]: \"That is witchcraft.\"\nEP33:E76 126800-131800 CAMERA: Medium two-shot as the maid steps forward, pleading passionately against his chest.\nEP33:E77 126800-131500 MAID [Crying Out, Desperate]: \"No! She saved Toby! She made him breathe again!\"\nEP33:E78 131800-134500 CAMERA: Close-up of the Lord calmly watching her futile resistance.\nEP33:E79 132000-134000 LORD [Cold, Final]: \"That will be your testimony.\"\nEP33:E80 134500-137800 CAMERA: Close-up of the maid's face frozen in horrified realization.\nEP33:E81 134500-137000 MAID [Gasping, Shocked]: \"My testimony?!\"\nEP33:E82 137800-140500 CAMERA: Close-up of the Lord delivering the ultimatum without blinking.\nEP33:E83 138000-140000 LORD [Unyielding]: \"Before the magistrate.\"\nEP33:E84 140500-144800 CAMERA: Close-up of the maid grabbing both sides of her head, screaming out in utter grief and guilt.\nEP33:E85 140500-144000 MAID [Wailing, Tormented]: \"I never said she was a witch!\"\nEP33:E86 144800-149200 CAMERA: Medium tracking shot of the Lord turning his back and walking back behind his desk.\nEP33:E87 145000-146500 LORD [Chillingly Detached]: \"You do not need to.\"\nEP33:E88 146800-149000 LORD [Chillingly Detached]: \"I have already written the story for you.\"\nEP33:E89 149200-152200 CAMERA: Close-up of the maid clutching her cheeks, crying in heartbreak.\nEP33:E90 149500-152000 MAID [Sobbing]: \"She saved my brother...\"\nEP33:E91 152200-156200 CAMERA: Close-up of the Lord turning back, resting one hand upon the desk with cold finality.\nEP33:E92 152500-156000 LORD [Inexorable]: \"And now... you will save your brother.\"\nEP33:E93 156200-159500 ACTION: The maid's knees buckle completely. She collapses forward onto the polished dark wood floor, groveling in total despair.\nEP33:E94 156200-159500 CAMERA: High angle looking down as the maid falls prostrate on the floor.\nEP33:E95 159000-161500 MAID [Weeping, Broken]: \"I am sorry, Lady Juliana...\"\nEP33:E96 159500-163800 CAMERA: Low-angle shot of the Lord looking down dismissively at the prostrate maid.\nEP33:E97 161800-164500 LORD [Cold, Merciless]: \"Save your tears for the trial.\"\nEP33:E98 163800-174040 CAMERA: Side medium shot of the maid kneeling crumpled on the floor in the dimly lit study, her face buried in both hands, weeping uncontrollably as the scene slowly fades into the dark silence.\nEP33:E99 164500-174040 ACTION: The heartbroken maid weeps silently in the shadow of the desk, consumed by guilt and powerlessness.",
+  "schema": {
+    "$defs": {
+      "Beat": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "kind": {
+            "title": "Kind",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "description": {
+            "title": "Description",
+            "type": "string"
+          },
+          "intensity_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Intensity 0 10",
+            "type": "number"
+          }
+        },
+        "required": [
+          "id",
+          "kind",
+          "event_refs",
+          "description",
+          "intensity_0_10"
+        ],
+        "title": "Beat",
+        "type": "object"
+      },
+      "Character": {
+        "additionalProperties": false,
+        "properties": {
+          "name": {
+            "title": "Name",
+            "type": "string"
+          },
+          "role": {
+            "title": "Role",
+            "type": "string"
+          }
+        },
+        "required": [
+          "name",
+          "role"
+        ],
+        "title": "Character",
+        "type": "object"
+      },
+      "Question": {
+        "additionalProperties": false,
+        "properties": {
+          "question": {
+            "title": "Question",
+            "type": "string"
+          },
+          "introduced_by": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Introduced By",
+            "type": "array"
+          }
+        },
+        "required": [
+          "question",
+          "introduced_by"
+        ],
+        "title": "Question",
+        "type": "object"
+      },
+      "Revelation": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "claim": {
+            "title": "Claim",
+            "type": "string"
+          },
+          "spoiler_significance_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Spoiler Significance 0 10",
+            "type": "number"
+          },
+          "creates_questions": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Creates Questions",
+            "type": "array"
+          }
+        },
+        "required": [
+          "id",
+          "event_refs",
+          "claim",
+          "spoiler_significance_0_10",
+          "creates_questions"
+        ],
+        "title": "Revelation",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "episode_id": {
+        "title": "Episode Id",
+        "type": "string"
+      },
+      "summary": {
+        "title": "Summary",
+        "type": "string"
+      },
+      "characters": {
+        "items": {
+          "$ref": "#/$defs/Character"
+        },
+        "title": "Characters",
+        "type": "array"
+      },
+      "beats": {
+        "items": {
+          "$ref": "#/$defs/Beat"
+        },
+        "title": "Beats",
+        "type": "array"
+      },
+      "revelations": {
+        "items": {
+          "$ref": "#/$defs/Revelation"
+        },
+        "title": "Revelations",
+        "type": "array"
+      },
+      "unresolved_questions": {
+        "items": {
+          "$ref": "#/$defs/Question"
+        },
+        "title": "Unresolved Questions",
+        "type": "array"
+      }
+    },
+    "required": [
+      "episode_id",
+      "summary",
+      "characters",
+      "beats",
+      "revelations",
+      "unresolved_questions"
+    ],
+    "title": "EpisodeAnalysis",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

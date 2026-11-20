@@ -1,0 +1,44 @@
+{
+  "candidate_id": "c_86ac2a989212de7c",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP03:E100",
+      "EP03:E101"
+    ],
+    "reason": "The clip opens within 0-2300ms with a close-up of a silver ring and the line 'You came here to become a wife.', which raises an immediate question about the situation and the speaker's intent."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP03:E116",
+      "EP03:E117",
+      "EP03:E118"
+    ],
+    "reason": "The Bearded Stranger kneels with the ring and asks 'Lady Juliana... accept my hand.' The clip ends on Juliana's trembling, undecided expression during a fade, so her answer is unresolved at the final frames.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Lady Juliana is and why she is at a wedding",
+      "Why 'They took that from you' refers to a specific loss",
+      "Who Gerald is and why he is humiliated",
+      "Who the Noble Matriarch and Lady in Gold Gown are",
+      "What the congregation is reacting to before the proposal",
+      "Whether the ring carries a specific meaning or history"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Juliana's breathless overwhelm, tears, and trembling hopeful smile, combined with the congregation's stunned gasp and the kneeling offer, create strong emotional tension even without full context."
+  },
+  "weaknesses": [
+    "Key characters and their relationships are never established, so a first-time viewer cannot tell who holds power or what is at stake.",
+    "Gerald's humiliation and the 'They took that from you' line are not explained.",
+    "The ring's significance is never clarified.",
+    "The cliffhanger depends on an unanswered proposal, so payoff depends on context the clip does not supply.",
+    "The ending relies on visual emotion and music cues rather than established narrative stakes."
+  ],
+  "one_line_why_it_works": "A kneeling proposal made in front of a shocked congregation, ending on the bride's tearful, undecided look, creates a strong unresolved question that rewards viewers even with limited context."
+}

@@ -1,0 +1,78 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "opp_1",
+      "episode_id": "ep_003",
+      "concept": "The Noble Matriarch cuts Juliana off and orders her removed, and the guards drag her out of the cathedral while she begs for help.",
+      "hook_refs": [
+        "EP03:E19"
+      ],
+      "ending_refs": [
+        "EP03:E52"
+      ],
+      "context_refs": [
+        "EP03:E22",
+        "EP03:E31",
+        "EP03:E47"
+      ],
+      "why_promising": "Clear authority-versus-victim conflict with a strong opening line and an escalating expulsion that ends on Juliana's unanswered plea, with a clip length of about 40 seconds."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_2",
+      "episode_id": "ep_003",
+      "concept": "The stranger knocks down a royal guard, defends Juliana, and says she should not be touched again, ending on his offer of the ring before her answer.",
+      "hook_refs": [
+        "EP03:E71"
+      ],
+      "ending_refs": [
+        "EP03:E106"
+      ],
+      "context_refs": [
+        "EP03:E73",
+        "EP03:E74",
+        "EP03:E77",
+        "EP03:E81"
+      ],
+      "why_promising": "Immediate physical action in the first seconds followed by a protective confrontation and a ring offer, with the response left open."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_3",
+      "episode_id": "ep_003",
+      "concept": "Juliana defies the Matriarch's order to leave, and the Matriarch orders the guards to remove her.",
+      "hook_refs": [
+        "EP03:E37"
+      ],
+      "ending_refs": [
+        "EP03:E62"
+      ],
+      "context_refs": [
+        "EP03:E41",
+        "EP03:E45",
+        "EP03:E47"
+      ],
+      "why_promising": "Strong defiant line as an opener, a rising family confrontation, and a stranger-entrance cliffhanger that ends on the Matriarch's challenge."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_4",
+      "episode_id": "ep_003",
+      "concept": "The stranger says Juliana was wronged, presents the silver ring, and kneels to ask her to accept his hand, ending before her answer.",
+      "hook_refs": [
+        "EP03:E103"
+      ],
+      "ending_refs": [
+        "EP03:E117",
+        "EP03:E118"
+      ],
+      "context_refs": [
+        "EP03:E105",
+        "EP03:E106",
+        "EP03:E116"
+      ],
+      "why_promising": "A proposal scene with a strong hook line and an explicit unresolved cliffhanger ending on Juliana's response."
+    }
+  ]
+}

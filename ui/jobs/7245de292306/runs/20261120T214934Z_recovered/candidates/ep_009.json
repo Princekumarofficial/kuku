@@ -1,0 +1,926 @@
+[
+  {
+    "candidate_id": "c_4c69dfa6d67a0ecd",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 83800,
+        "end_ms": 111200,
+        "episode_id": "ep_009"
+      }
+    ],
+    "duration_ms": 27400,
+    "origin": "opp_01",
+    "clip_events": [
+      {
+        "ref": "EP09:E66",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot of an opulent gothic manor study. The Blond Nobleman sits in a velvet armchair beside a roaring fireplace, reading an open leather-bound book."
+      },
+      {
+        "ref": "EP09:E67",
+        "segment_index": 0,
+        "relative_start_ms": 200,
+        "relative_end_ms": 2700,
+        "type": "action",
+        "speaker": null,
+        "text": "The Former Groom, soaked from the rain and clutching his hat, walks nervously through the double doors into the study."
+      },
+      {
+        "ref": "EP09:E68",
+        "segment_index": 0,
+        "relative_start_ms": 2700,
+        "relative_end_ms": 4200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot framing the Blond Nobleman in the foreground as The Former Groom halts respectfully behind his chair."
+      },
+      {
+        "ref": "EP09:E69",
+        "segment_index": 0,
+        "relative_start_ms": 2800,
+        "relative_end_ms": 3600,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"What is it?\""
+      },
+      {
+        "ref": "EP09:E70",
+        "segment_index": 0,
+        "relative_start_ms": 4200,
+        "relative_end_ms": 6400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of The Former Groom, damp dark hair plastered to his forehead."
+      },
+      {
+        "ref": "EP09:E71",
+        "segment_index": 0,
+        "relative_start_ms": 4200,
+        "relative_end_ms": 6500,
+        "type": "dialogue",
+        "speaker": "THE FORMER GROOM",
+        "text": "\"There is a rumor going around, my Lord.\""
+      },
+      {
+        "ref": "EP09:E72",
+        "segment_index": 0,
+        "relative_start_ms": 6400,
+        "relative_end_ms": 8200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Blond Nobleman lowering his book, gazing across with mild annoyance."
+      },
+      {
+        "ref": "EP09:E73",
+        "segment_index": 0,
+        "relative_start_ms": 6800,
+        "relative_end_ms": 7600,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"What rumor?\""
+      },
+      {
+        "ref": "EP09:E74",
+        "segment_index": 0,
+        "relative_start_ms": 8200,
+        "relative_end_ms": 11200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of The Former Groom speaking cautiously."
+      },
+      {
+        "ref": "EP09:E75",
+        "segment_index": 0,
+        "relative_start_ms": 8300,
+        "relative_end_ms": 11300,
+        "type": "dialogue",
+        "speaker": "THE FORMER GROOM",
+        "text": "\"About a war veteran. Some say he resembles the late Duke.\""
+      },
+      {
+        "ref": "EP09:E76",
+        "segment_index": 0,
+        "relative_start_ms": 11200,
+        "relative_end_ms": 13400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the Blond Nobleman scoffing dismissively as he closes the book."
+      },
+      {
+        "ref": "EP09:E77",
+        "segment_index": 0,
+        "relative_start_ms": 11500,
+        "relative_end_ms": 13500,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"People see ghosts whenever they want a story.\""
+      },
+      {
+        "ref": "EP09:E78",
+        "segment_index": 0,
+        "relative_start_ms": 13400,
+        "relative_end_ms": 17200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of The Former Groom's eyes widening with urgent dread."
+      },
+      {
+        "ref": "EP09:E79",
+        "segment_index": 0,
+        "relative_start_ms": 13700,
+        "relative_end_ms": 17400,
+        "type": "dialogue",
+        "speaker": "THE FORMER GROOM",
+        "text": "\"The man is said to have the same kind of scar the Duke carried after the war.\""
+      },
+      {
+        "ref": "EP09:E80",
+        "segment_index": 0,
+        "relative_start_ms": 17200,
+        "relative_end_ms": 18400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Blond Nobleman snapping his head around, his smug expression freezing into sudden alarm."
+      },
+      {
+        "ref": "EP09:E81",
+        "segment_index": 0,
+        "relative_start_ms": 17600,
+        "relative_end_ms": 18100,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"Where?\""
+      },
+      {
+        "ref": "EP09:E82",
+        "segment_index": 0,
+        "relative_start_ms": 18400,
+        "relative_end_ms": 20200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of The Former Groom shifting uncomfortably."
+      },
+      {
+        "ref": "EP09:E83",
+        "segment_index": 0,
+        "relative_start_ms": 18500,
+        "relative_end_ms": 19800,
+        "type": "dialogue",
+        "speaker": "THE FORMER GROOM",
+        "text": "\"No one seems certain.\""
+      },
+      {
+        "ref": "EP09:E84",
+        "segment_index": 0,
+        "relative_start_ms": 20200,
+        "relative_end_ms": 22200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Blond Nobleman composing his features into cold disdain, though tension trembles beneath his tone."
+      },
+      {
+        "ref": "EP09:E85",
+        "segment_index": 0,
+        "relative_start_ms": 20400,
+        "relative_end_ms": 22100,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"Then let it remain a rumor.\""
+      },
+      {
+        "ref": "EP09:E86",
+        "segment_index": 0,
+        "relative_start_ms": 22200,
+        "relative_end_ms": 24200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as The Former Groom turns and retreats silently out of the study, leaving the doors closed."
+      },
+      {
+        "ref": "EP09:E87",
+        "segment_index": 0,
+        "relative_start_ms": 24200,
+        "relative_end_ms": 27400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Side profile shot of the Blond Nobleman seated alone before the roaring fire, staring blankly into the flames in creeping paranoia."
+      },
+      {
+        "ref": "EP09:E88",
+        "segment_index": 0,
+        "relative_start_ms": 26000,
+        "relative_end_ms": 27400,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"Impossible.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_fe848e62a5960eef",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 3500,
+        "end_ms": 37400,
+        "episode_id": "ep_009"
+      }
+    ],
+    "duration_ms": 33900,
+    "origin": "opp_02",
+    "clip_events": [
+      {
+        "ref": "EP09:E4",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 500,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana stops grinding and lifts her head sharply toward the entrance in alarm."
+      },
+      {
+        "ref": "EP09:E5",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander turning toward the doorway, his eyes sharp and vigilant."
+      },
+      {
+        "ref": "EP09:E6",
+        "segment_index": 0,
+        "relative_start_ms": 100,
+        "relative_end_ms": 1500,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Stay back. I'll open it.\""
+      },
+      {
+        "ref": "EP09:E7",
+        "segment_index": 0,
+        "relative_start_ms": 1300,
+        "relative_end_ms": 3100,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander steps forward and unlatches the cottage door, opening it into the pouring rain."
+      },
+      {
+        "ref": "EP09:E8",
+        "segment_index": 0,
+        "relative_start_ms": 2000,
+        "relative_end_ms": 7700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot framing the doorway as a soaked, distraught peasant mother steps across the threshold clutching a swaddled child."
+      },
+      {
+        "ref": "EP09:E9",
+        "segment_index": 0,
+        "relative_start_ms": 2800,
+        "relative_end_ms": 7600,
+        "type": "dialogue",
+        "speaker": "PEASANT MOTHER",
+        "text": "\"Please! They told me there was a woman here who knows herbs. My boy is burning with fever!\""
+      },
+      {
+        "ref": "EP09:E10",
+        "segment_index": 0,
+        "relative_start_ms": 7700,
+        "relative_end_ms": 10000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana rushing to the front of the table, extending her arms urgently."
+      },
+      {
+        "ref": "EP09:E11",
+        "segment_index": 0,
+        "relative_start_ms": 7900,
+        "relative_end_ms": 9800,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Bring him here. Quickly.\""
+      },
+      {
+        "ref": "EP09:E12",
+        "segment_index": 0,
+        "relative_start_ms": 8500,
+        "relative_end_ms": 10700,
+        "type": "action",
+        "speaker": null,
+        "text": "The trembling mother gently lays the feverish boy down atop the wooden table as Juliana leans in close."
+      },
+      {
+        "ref": "EP09:E13",
+        "segment_index": 0,
+        "relative_start_ms": 10300,
+        "relative_end_ms": 11700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana gently placing her fingers against the boy's burning forehead."
+      },
+      {
+        "ref": "EP09:E14",
+        "segment_index": 0,
+        "relative_start_ms": 11700,
+        "relative_end_ms": 14300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana examining the boy's breathing, looking up toward the frantic mother."
+      },
+      {
+        "ref": "EP09:E15",
+        "segment_index": 0,
+        "relative_start_ms": 12000,
+        "relative_end_ms": 16300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"He seems very unwell, but he is resting steadily. How long has he been like this?\""
+      },
+      {
+        "ref": "EP09:E16",
+        "segment_index": 0,
+        "relative_start_ms": 14300,
+        "relative_end_ms": 16500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot of Alexander watching anxiously over the child's shoulder as Juliana tends to him."
+      },
+      {
+        "ref": "EP09:E17",
+        "segment_index": 0,
+        "relative_start_ms": 16500,
+        "relative_end_ms": 20500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the peasant mother clutching her shawl, tears running down her cheeks."
+      },
+      {
+        "ref": "EP09:E18",
+        "segment_index": 0,
+        "relative_start_ms": 17000,
+        "relative_end_ms": 20400,
+        "type": "dialogue",
+        "speaker": "PEASANT MOTHER",
+        "text": "\"Since yesterday morning. He has barely eaten since sunset.\""
+      },
+      {
+        "ref": "EP09:E19",
+        "segment_index": 0,
+        "relative_start_ms": 20500,
+        "relative_end_ms": 24000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana resting two fingers against the boy's wrist, measuring his shallow pulse."
+      },
+      {
+        "ref": "EP09:E20",
+        "segment_index": 0,
+        "relative_start_ms": 23700,
+        "relative_end_ms": 25300,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana lifts the weathered herbal book and rapidly browses the handwritten pages."
+      },
+      {
+        "ref": "EP09:E21",
+        "segment_index": 0,
+        "relative_start_ms": 25300,
+        "relative_end_ms": 27500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Insert close-up of the open page illustrated with botanical drawings labeled 'Feverfew'."
+      },
+      {
+        "ref": "EP09:E22",
+        "segment_index": 0,
+        "relative_start_ms": 25500,
+        "relative_end_ms": 27300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Feverfew... Not alone.\""
+      },
+      {
+        "ref": "EP09:E23",
+        "segment_index": 0,
+        "relative_start_ms": 27500,
+        "relative_end_ms": 30500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Profile close-up of Juliana studying the grimoire's remedies intently while the mother weeps in the soft background."
+      },
+      {
+        "ref": "EP09:E24",
+        "segment_index": 0,
+        "relative_start_ms": 28300,
+        "relative_end_ms": 30300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Chamomile... and willow bark.\""
+      },
+      {
+        "ref": "EP09:E25",
+        "segment_index": 0,
+        "relative_start_ms": 30500,
+        "relative_end_ms": 32500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander leaning over the table, gazing at her with intense concern."
+      },
+      {
+        "ref": "EP09:E26",
+        "segment_index": 0,
+        "relative_start_ms": 31400,
+        "relative_end_ms": 32300,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"You're certain?\""
+      },
+      {
+        "ref": "EP09:E27",
+        "segment_index": 0,
+        "relative_start_ms": 32500,
+        "relative_end_ms": 33900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana looking up into his eyes with resolute conviction."
+      },
+      {
+        "ref": "EP09:E28",
+        "segment_index": 0,
+        "relative_start_ms": 32800,
+        "relative_end_ms": 33900,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I have to be.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_133cc06b9a7d96a9",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 74800,
+        "end_ms": 111200,
+        "episode_id": "ep_009"
+      }
+    ],
+    "duration_ms": 36400,
+    "origin": "opp_03",
+    "clip_events": [
+      {
+        "ref": "EP09:E57",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 700,
+        "type": "action",
+        "speaker": null,
+        "text": "The mother exits into the rainy twilight as Alexander pushes the door shut."
+      },
+      {
+        "ref": "EP09:E58",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander turning from the door, his expression deeply troubled."
+      },
+      {
+        "ref": "EP09:E59",
+        "segment_index": 0,
+        "relative_start_ms": 300,
+        "relative_end_ms": 2700,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"You cannot let the whole village start talking about you.\""
+      },
+      {
+        "ref": "EP09:E60",
+        "segment_index": 0,
+        "relative_start_ms": 2700,
+        "relative_end_ms": 4700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana placing the mortar back onto the table, unflinching."
+      },
+      {
+        "ref": "EP09:E61",
+        "segment_index": 0,
+        "relative_start_ms": 2800,
+        "relative_end_ms": 4600,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"A child's life matters more than gossip.\""
+      },
+      {
+        "ref": "EP09:E62",
+        "segment_index": 0,
+        "relative_start_ms": 4700,
+        "relative_end_ms": 6900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander, his jaw clenched with protective anxiety."
+      },
+      {
+        "ref": "EP09:E63",
+        "segment_index": 0,
+        "relative_start_ms": 4800,
+        "relative_end_ms": 6800,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Gossip has a way of becoming dangerous.\""
+      },
+      {
+        "ref": "EP09:E64",
+        "segment_index": 0,
+        "relative_start_ms": 6900,
+        "relative_end_ms": 9000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot profile of Juliana stepping directly in front of Alexander, looking steadfastly up into his eyes."
+      },
+      {
+        "ref": "EP09:E65",
+        "segment_index": 0,
+        "relative_start_ms": 7200,
+        "relative_end_ms": 9000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Then we will face it together.\""
+      },
+      {
+        "ref": "EP09:E66",
+        "segment_index": 0,
+        "relative_start_ms": 9000,
+        "relative_end_ms": 11700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot of an opulent gothic manor study. The Blond Nobleman sits in a velvet armchair beside a roaring fireplace, reading an open leather-bound book."
+      },
+      {
+        "ref": "EP09:E67",
+        "segment_index": 0,
+        "relative_start_ms": 9200,
+        "relative_end_ms": 11700,
+        "type": "action",
+        "speaker": null,
+        "text": "The Former Groom, soaked from the rain and clutching his hat, walks nervously through the double doors into the study."
+      },
+      {
+        "ref": "EP09:E68",
+        "segment_index": 0,
+        "relative_start_ms": 11700,
+        "relative_end_ms": 13200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot framing the Blond Nobleman in the foreground as The Former Groom halts respectfully behind his chair."
+      },
+      {
+        "ref": "EP09:E69",
+        "segment_index": 0,
+        "relative_start_ms": 11800,
+        "relative_end_ms": 12600,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"What is it?\""
+      },
+      {
+        "ref": "EP09:E70",
+        "segment_index": 0,
+        "relative_start_ms": 13200,
+        "relative_end_ms": 15400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of The Former Groom, damp dark hair plastered to his forehead."
+      },
+      {
+        "ref": "EP09:E71",
+        "segment_index": 0,
+        "relative_start_ms": 13200,
+        "relative_end_ms": 15500,
+        "type": "dialogue",
+        "speaker": "THE FORMER GROOM",
+        "text": "\"There is a rumor going around, my Lord.\""
+      },
+      {
+        "ref": "EP09:E72",
+        "segment_index": 0,
+        "relative_start_ms": 15400,
+        "relative_end_ms": 17200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Blond Nobleman lowering his book, gazing across with mild annoyance."
+      },
+      {
+        "ref": "EP09:E73",
+        "segment_index": 0,
+        "relative_start_ms": 15800,
+        "relative_end_ms": 16600,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"What rumor?\""
+      },
+      {
+        "ref": "EP09:E74",
+        "segment_index": 0,
+        "relative_start_ms": 17200,
+        "relative_end_ms": 20200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of The Former Groom speaking cautiously."
+      },
+      {
+        "ref": "EP09:E75",
+        "segment_index": 0,
+        "relative_start_ms": 17300,
+        "relative_end_ms": 20300,
+        "type": "dialogue",
+        "speaker": "THE FORMER GROOM",
+        "text": "\"About a war veteran. Some say he resembles the late Duke.\""
+      },
+      {
+        "ref": "EP09:E76",
+        "segment_index": 0,
+        "relative_start_ms": 20200,
+        "relative_end_ms": 22400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the Blond Nobleman scoffing dismissively as he closes the book."
+      },
+      {
+        "ref": "EP09:E77",
+        "segment_index": 0,
+        "relative_start_ms": 20500,
+        "relative_end_ms": 22500,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"People see ghosts whenever they want a story.\""
+      },
+      {
+        "ref": "EP09:E78",
+        "segment_index": 0,
+        "relative_start_ms": 22400,
+        "relative_end_ms": 26200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of The Former Groom's eyes widening with urgent dread."
+      },
+      {
+        "ref": "EP09:E79",
+        "segment_index": 0,
+        "relative_start_ms": 22700,
+        "relative_end_ms": 26400,
+        "type": "dialogue",
+        "speaker": "THE FORMER GROOM",
+        "text": "\"The man is said to have the same kind of scar the Duke carried after the war.\""
+      },
+      {
+        "ref": "EP09:E80",
+        "segment_index": 0,
+        "relative_start_ms": 26200,
+        "relative_end_ms": 27400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Blond Nobleman snapping his head around, his smug expression freezing into sudden alarm."
+      },
+      {
+        "ref": "EP09:E81",
+        "segment_index": 0,
+        "relative_start_ms": 26600,
+        "relative_end_ms": 27100,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"Where?\""
+      },
+      {
+        "ref": "EP09:E82",
+        "segment_index": 0,
+        "relative_start_ms": 27400,
+        "relative_end_ms": 29200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of The Former Groom shifting uncomfortably."
+      },
+      {
+        "ref": "EP09:E83",
+        "segment_index": 0,
+        "relative_start_ms": 27500,
+        "relative_end_ms": 28800,
+        "type": "dialogue",
+        "speaker": "THE FORMER GROOM",
+        "text": "\"No one seems certain.\""
+      },
+      {
+        "ref": "EP09:E84",
+        "segment_index": 0,
+        "relative_start_ms": 29200,
+        "relative_end_ms": 31200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Blond Nobleman composing his features into cold disdain, though tension trembles beneath his tone."
+      },
+      {
+        "ref": "EP09:E85",
+        "segment_index": 0,
+        "relative_start_ms": 29400,
+        "relative_end_ms": 31100,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"Then let it remain a rumor.\""
+      },
+      {
+        "ref": "EP09:E86",
+        "segment_index": 0,
+        "relative_start_ms": 31200,
+        "relative_end_ms": 33200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as The Former Groom turns and retreats silently out of the study, leaving the doors closed."
+      },
+      {
+        "ref": "EP09:E87",
+        "segment_index": 0,
+        "relative_start_ms": 33200,
+        "relative_end_ms": 36400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Side profile shot of the Blond Nobleman seated alone before the roaring fire, staring blankly into the flames in creeping paranoia."
+      },
+      {
+        "ref": "EP09:E88",
+        "segment_index": 0,
+        "relative_start_ms": 35000,
+        "relative_end_ms": 36400,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"Impossible.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_6fe5af8ce5bea6d0",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 2800,
+        "end_ms": 24000,
+        "episode_id": "ep_009"
+      }
+    ],
+    "duration_ms": 21200,
+    "origin": "recovery_b03",
+    "clip_events": [
+      {
+        "ref": "EP09:E3",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 700,
+        "type": "sound",
+        "speaker": null,
+        "text": "Heavy, frantic pounding echoes against the heavy wooden cottage door."
+      },
+      {
+        "ref": "EP09:E4",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1200,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana stops grinding and lifts her head sharply toward the entrance in alarm."
+      },
+      {
+        "ref": "EP09:E5",
+        "segment_index": 0,
+        "relative_start_ms": 700,
+        "relative_end_ms": 2700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander turning toward the doorway, his eyes sharp and vigilant."
+      },
+      {
+        "ref": "EP09:E6",
+        "segment_index": 0,
+        "relative_start_ms": 800,
+        "relative_end_ms": 2200,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Stay back. I'll open it.\""
+      },
+      {
+        "ref": "EP09:E7",
+        "segment_index": 0,
+        "relative_start_ms": 2000,
+        "relative_end_ms": 3800,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander steps forward and unlatches the cottage door, opening it into the pouring rain."
+      },
+      {
+        "ref": "EP09:E8",
+        "segment_index": 0,
+        "relative_start_ms": 2700,
+        "relative_end_ms": 8400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot framing the doorway as a soaked, distraught peasant mother steps across the threshold clutching a swaddled child."
+      },
+      {
+        "ref": "EP09:E9",
+        "segment_index": 0,
+        "relative_start_ms": 3500,
+        "relative_end_ms": 8300,
+        "type": "dialogue",
+        "speaker": "PEASANT MOTHER",
+        "text": "\"Please! They told me there was a woman here who knows herbs. My boy is burning with fever!\""
+      },
+      {
+        "ref": "EP09:E10",
+        "segment_index": 0,
+        "relative_start_ms": 8400,
+        "relative_end_ms": 10700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana rushing to the front of the table, extending her arms urgently."
+      },
+      {
+        "ref": "EP09:E11",
+        "segment_index": 0,
+        "relative_start_ms": 8600,
+        "relative_end_ms": 10500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Bring him here. Quickly.\""
+      },
+      {
+        "ref": "EP09:E12",
+        "segment_index": 0,
+        "relative_start_ms": 9200,
+        "relative_end_ms": 11400,
+        "type": "action",
+        "speaker": null,
+        "text": "The trembling mother gently lays the feverish boy down atop the wooden table as Juliana leans in close."
+      },
+      {
+        "ref": "EP09:E13",
+        "segment_index": 0,
+        "relative_start_ms": 11000,
+        "relative_end_ms": 12400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana gently placing her fingers against the boy's burning forehead."
+      },
+      {
+        "ref": "EP09:E14",
+        "segment_index": 0,
+        "relative_start_ms": 12400,
+        "relative_end_ms": 15000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana examining the boy's breathing, looking up toward the frantic mother."
+      },
+      {
+        "ref": "EP09:E15",
+        "segment_index": 0,
+        "relative_start_ms": 12700,
+        "relative_end_ms": 17000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"He seems very unwell, but he is resting steadily. How long has he been like this?\""
+      },
+      {
+        "ref": "EP09:E16",
+        "segment_index": 0,
+        "relative_start_ms": 15000,
+        "relative_end_ms": 17200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot of Alexander watching anxiously over the child's shoulder as Juliana tends to him."
+      },
+      {
+        "ref": "EP09:E17",
+        "segment_index": 0,
+        "relative_start_ms": 17200,
+        "relative_end_ms": 21200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the peasant mother clutching her shawl, tears running down her cheeks."
+      },
+      {
+        "ref": "EP09:E18",
+        "segment_index": 0,
+        "relative_start_ms": 17700,
+        "relative_end_ms": 21100,
+        "type": "dialogue",
+        "speaker": "PEASANT MOTHER",
+        "text": "\"Since yesterday morning. He has barely eaten since sunset.\""
+      }
+    ]
+  }
+]

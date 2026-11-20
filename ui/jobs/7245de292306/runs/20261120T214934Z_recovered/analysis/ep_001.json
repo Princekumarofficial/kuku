@@ -1,0 +1,293 @@
+{
+  "episode_id": "ep_001",
+  "summary": "Scene sc_001 (INT. CATHEDRAL, 0-138000 ms) shows Juliana arriving in her mother's gown and discovering at the altar that Gerald is holding the hand of the Lady in Gold Gown. The Matriarch tells her to turn around and then says 'Look for yourself.' Gerald, who is referred to in tags as 'The Former Groom', says he changed his mind, says Clarissa is 'the true jewel of the county', and walks back to the altar. The Lady in Gold Gown admits she knew and that the two planned this together. Juliana's father refuses to speak for her, and the Matriarch dismisses her. The scene ends on Juliana's cold, resolute defiance and a cliffhanger string drone. Uncertainty: the source warning says coverage is incomplete (sc_001 gaps are unavailable), so off-screen events may be missing. The identity of the Lady in Gold Gown as Clarissa is an inference from E68, E69 and E89, not an explicit on-screen name link. The Matriarch's and father's exact kinship to Juliana is not stated on screen beyond family authority and the father's presence. Mother's status is not shown on screen. E79 has a malformed speaker tag ('MATRIARCH [O.S.) (Firm]'), so the speaker is read as the Matriarch. Metadata was not used as on-screen evidence.",
+  "characters": [
+    {
+      "name": "Lady Juliana",
+      "role": "Protagonist; bride-to-be who is publicly jilted at the altar and deceived by her fiance and sister"
+    },
+    {
+      "name": "Gerald (The Former Groom)",
+      "role": "Juliana's fiance who abandons her for the Lady in Gold Gown"
+    },
+    {
+      "name": "Clarissa (Lady in Gold Gown)",
+      "role": "Juliana's sister who takes Gerald; identity as Clarissa is inferred from E68, E69 and E89 rather than explicitly linked on screen"
+    },
+    {
+      "name": "Matriarch (unnamed)",
+      "role": "Haughty family authority who orders Juliana to turn around, dismisses her and favors Clarissa"
+    },
+    {
+      "name": "Father (unnamed)",
+      "role": "Elderly seated family member who refuses to speak for Juliana or meet her gaze"
+    }
+  ],
+  "beats": [
+    {
+      "id": "B01",
+      "kind": "setup",
+      "event_refs": [
+        "EP01:E1",
+        "EP01:E2",
+        "EP01:E3"
+      ],
+      "description": "Juliana arrives at the cathedral in her mother's vintage gown with joyful anticipation.",
+      "intensity_0_10": 2.0
+    },
+    {
+      "id": "B02",
+      "kind": "discovery",
+      "event_refs": [
+        "EP01:E4",
+        "EP01:E5",
+        "EP01:E6"
+      ],
+      "description": "Juliana's smile falters as she notices something wrong at the altar, where Gerald holds the hand of the Lady in Gold Gown.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "B03",
+      "kind": "confrontation",
+      "event_refs": [
+        "EP01:E7",
+        "EP01:E8",
+        "EP01:E9",
+        "EP01:E10",
+        "EP01:E11",
+        "EP01:E12",
+        "EP01:E13"
+      ],
+      "description": "The Matriarch halts Juliana mid-aisle, tells her to turn around and says 'Not anymore' when Juliana insists Gerald is waiting.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "B04",
+      "kind": "reveal_pressure",
+      "event_refs": [
+        "EP01:E14",
+        "EP01:E15",
+        "EP01:E16",
+        "EP01:E17",
+        "EP01:E18",
+        "EP01:E19",
+        "EP01:E20",
+        "EP01:E21",
+        "EP01:E22"
+      ],
+      "description": "Juliana walks toward the altar past seated guests and sees Gerald and the Lady in Gold Gown standing together.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "B05",
+      "kind": "public_confirmation",
+      "event_refs": [
+        "EP01:E23",
+        "EP01:E24",
+        "EP01:E25",
+        "EP01:E26",
+        "EP01:E27",
+        "EP01:E28",
+        "EP01:E29",
+        "EP01:E30"
+      ],
+      "description": "Juliana asks why Gerald holds the other woman's hand, and the Lady in Gold Gown replies that he is marrying her.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "B06",
+      "kind": "accusation",
+      "event_refs": [
+        "EP01:E31",
+        "EP01:E32",
+        "EP01:E33",
+        "EP01:E34",
+        "EP01:E35",
+        "EP01:E36",
+        "EP01:E37",
+        "EP01:E38",
+        "EP01:E39",
+        "EP01:E40",
+        "EP01:E41"
+      ],
+      "description": "Juliana accuses the family of knowing in advance, and Gerald coldly says he changed his mind.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "B07",
+      "kind": "conspiracy_revealed",
+      "event_refs": [
+        "EP01:E42",
+        "EP01:E43",
+        "EP01:E44",
+        "EP01:E45",
+        "EP01:E46",
+        "EP01:E47",
+        "EP01:E48",
+        "EP01:E49",
+        "EP01:E50",
+        "EP01:E51",
+        "EP01:E52"
+      ],
+      "description": "The Lady in Gold Gown admits she knew of the betrayal and says Gerald never intended to marry Juliana.",
+      "intensity_0_10": 9.0
+    },
+    {
+      "id": "B08",
+      "kind": "appeal_rejected",
+      "event_refs": [
+        "EP01:E53",
+        "EP01:E54",
+        "EP01:E55",
+        "EP01:E56",
+        "EP01:E57",
+        "EP01:E58",
+        "EP01:E59",
+        "EP01:E60",
+        "EP01:E61",
+        "EP01:E62"
+      ],
+      "description": "Juliana pleads with her father to call off the wedding, and he refuses to look at her or speak.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "B09",
+      "kind": "family_dismissal",
+      "event_refs": [
+        "EP01:E63",
+        "EP01:E64",
+        "EP01:E65",
+        "EP01:E66",
+        "EP01:E67",
+        "EP01:E68",
+        "EP01:E69",
+        "EP01:E70",
+        "EP01:E71",
+        "EP01:E72",
+        "EP01:E73",
+        "EP01:E74",
+        "EP01:E75",
+        "EP01:E76",
+        "EP01:E77",
+        "EP01:E78"
+      ],
+      "description": "The Matriarch dismisses Juliana and praises Clarissa, and the Lady in Gold Gown says she is the daughter they choose.",
+      "intensity_0_10": 9.0
+    },
+    {
+      "id": "B10",
+      "kind": "final_rejection",
+      "event_refs": [
+        "EP01:E79",
+        "EP01:E80",
+        "EP01:E81",
+        "EP01:E82",
+        "EP01:E83",
+        "EP01:E84",
+        "EP01:E85",
+        "EP01:E86",
+        "EP01:E87",
+        "EP01:E88",
+        "EP01:E89"
+      ],
+      "description": "Gerald rejects Juliana, calls her worthless and returns to Clarissa at the altar.",
+      "intensity_0_10": 9.0
+    },
+    {
+      "id": "B11",
+      "kind": "defiance_cliffhanger",
+      "event_refs": [
+        "EP01:E90",
+        "EP01:E91",
+        "EP01:E92",
+        "EP01:E93",
+        "EP01:E94",
+        "EP01:E95"
+      ],
+      "description": "Juliana's grief hardens into cold resolve as the string drone swells and the scene cuts to black.",
+      "intensity_0_10": 7.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "R01",
+      "event_refs": [
+        "EP01:E6",
+        "EP01:E21",
+        "EP01:E25",
+        "EP01:E27"
+      ],
+      "claim": "Gerald is holding the Lady in Gold Gown's hand at the altar, and she states he is marrying her.",
+      "spoiler_significance_0_10": 7.0,
+      "creates_questions": [
+        "How long had Gerald and Clarissa been planning the betrayal?"
+      ]
+    },
+    {
+      "id": "R02",
+      "event_refs": [
+        "EP01:E32",
+        "EP01:E47",
+        "EP01:E48",
+        "EP01:E52"
+      ],
+      "claim": "The Lady in Gold Gown knew of the betrayal in advance, and she says Gerald was never going to marry Juliana.",
+      "spoiler_significance_0_10": 9.0,
+      "creates_questions": [
+        "How long had Gerald and Clarissa been planning the betrayal?"
+      ]
+    },
+    {
+      "id": "R03",
+      "event_refs": [
+        "EP01:E65",
+        "EP01:E69",
+        "EP01:E70"
+      ],
+      "claim": "The Matriarch dismisses Juliana as an embarrassment and prefers Clarissa, which suggests family approval of the switch.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "Why did the father refuse to speak for Juliana?"
+      ]
+    },
+    {
+      "id": "R04",
+      "event_refs": [
+        "EP01:E89"
+      ],
+      "claim": "Gerald says he is rejecting Juliana in favor of Clarissa, whom he calls the true jewel of the county.",
+      "spoiler_significance_0_10": 5.0,
+      "creates_questions": [
+        "What will Juliana do with her cold, resolute defiance?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "How long had Gerald and Clarissa been planning the betrayal?",
+      "introduced_by": [
+        "EP01:E50"
+      ]
+    },
+    {
+      "question": "Why did the father refuse to speak for Juliana?",
+      "introduced_by": [
+        "EP01:E58",
+        "EP01:E61",
+        "EP01:E62"
+      ]
+    },
+    {
+      "question": "Is Juliana's mother alive or dead, and what is the significance of the gown?",
+      "introduced_by": [
+        "EP01:E2"
+      ]
+    },
+    {
+      "question": "What will Juliana do with her cold, resolute defiance?",
+      "introduced_by": [
+        "EP01:E92"
+      ]
+    }
+  ]
+}

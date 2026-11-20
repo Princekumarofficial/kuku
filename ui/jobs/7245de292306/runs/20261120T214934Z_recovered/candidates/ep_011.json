@@ -1,0 +1,917 @@
+[
+  {
+    "candidate_id": "c_30ca259ec7d8b287",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 8200,
+        "end_ms": 37100,
+        "episode_id": "ep_011"
+      }
+    ],
+    "duration_ms": 28900,
+    "origin": "ep11_opp_01",
+    "clip_events": [
+      {
+        "ref": "EP11:E8",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium tracking shot as Juliana steps defensively toward Gerald, her face full of shock and anger."
+      },
+      {
+        "ref": "EP11:E9",
+        "segment_index": 0,
+        "relative_start_ms": 100,
+        "relative_end_ms": 2500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Gerald? What are you doing here?\""
+      },
+      {
+        "ref": "EP11:E10",
+        "segment_index": 0,
+        "relative_start_ms": 2600,
+        "relative_end_ms": 4800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide two-shot across the puddle-strewn ground between Gerald and Juliana against the misty landscape."
+      },
+      {
+        "ref": "EP11:E11",
+        "segment_index": 0,
+        "relative_start_ms": 2900,
+        "relative_end_ms": 5000,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"I came for something that belongs to me.\""
+      },
+      {
+        "ref": "EP11:E12",
+        "segment_index": 0,
+        "relative_start_ms": 4800,
+        "relative_end_ms": 6100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Clarissa peering from the carriage window in her violet silk gown, a venomous, triumphant smile curling her lips."
+      },
+      {
+        "ref": "EP11:E13",
+        "segment_index": 0,
+        "relative_start_ms": 6100,
+        "relative_end_ms": 8600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana, her anger flaring as she gestures sharply."
+      },
+      {
+        "ref": "EP11:E14",
+        "segment_index": 0,
+        "relative_start_ms": 6200,
+        "relative_end_ms": 8500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You have already taken enough from me. Leave!\""
+      },
+      {
+        "ref": "EP11:E15",
+        "segment_index": 0,
+        "relative_start_ms": 8600,
+        "relative_end_ms": 10300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Gerald pointing an accusatory finger, his composure snapping into hostile anger."
+      },
+      {
+        "ref": "EP11:E16",
+        "segment_index": 0,
+        "relative_start_ms": 8600,
+        "relative_end_ms": 10500,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"Your husband stole my gold pocket watch!\""
+      },
+      {
+        "ref": "EP11:E17",
+        "segment_index": 0,
+        "relative_start_ms": 10300,
+        "relative_end_ms": 11800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana recoiling in utter disbelief."
+      },
+      {
+        "ref": "EP11:E18",
+        "segment_index": 0,
+        "relative_start_ms": 10800,
+        "relative_end_ms": 11800,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"What? When?\""
+      },
+      {
+        "ref": "EP11:E19",
+        "segment_index": 0,
+        "relative_start_ms": 11800,
+        "relative_end_ms": 13800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Gerald narrowing his eyes vindictively."
+      },
+      {
+        "ref": "EP11:E20",
+        "segment_index": 0,
+        "relative_start_ms": 12700,
+        "relative_end_ms": 14100,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"The last time I came here.\""
+      },
+      {
+        "ref": "EP11:E21",
+        "segment_index": 0,
+        "relative_start_ms": 13800,
+        "relative_end_ms": 16400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana scoffing, stepping forward as Alexander stands motionless behind her."
+      },
+      {
+        "ref": "EP11:E22",
+        "segment_index": 0,
+        "relative_start_ms": 14800,
+        "relative_end_ms": 16600,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You never even entered the cottage!\""
+      },
+      {
+        "ref": "EP11:E23",
+        "segment_index": 0,
+        "relative_start_ms": 16400,
+        "relative_end_ms": 18700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Gerald smirking with condescending amusement."
+      },
+      {
+        "ref": "EP11:E24",
+        "segment_index": 0,
+        "relative_start_ms": 17000,
+        "relative_end_ms": 18800,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"Then you should have nothing to fear from a search.\""
+      },
+      {
+        "ref": "EP11:E25",
+        "segment_index": 0,
+        "relative_start_ms": 18700,
+        "relative_end_ms": 20700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Three-shot of Alexander, Juliana, and Gerald in the bleak drizzle."
+      },
+      {
+        "ref": "EP11:E26",
+        "segment_index": 0,
+        "relative_start_ms": 19100,
+        "relative_end_ms": 20800,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Alexander would never steal from you.\""
+      },
+      {
+        "ref": "EP11:E27",
+        "segment_index": 0,
+        "relative_start_ms": 20700,
+        "relative_end_ms": 24200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle shot of Gerald throwing his head back in arrogant, mocking laughter."
+      },
+      {
+        "ref": "EP11:E28",
+        "segment_index": 0,
+        "relative_start_ms": 21100,
+        "relative_end_ms": 24600,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"Of course you would defend him. You married a beggar!\""
+      },
+      {
+        "ref": "EP11:E29",
+        "segment_index": 0,
+        "relative_start_ms": 24200,
+        "relative_end_ms": 26700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Alexander stepping past Juliana, his gaze murderous and jaw rigid."
+      },
+      {
+        "ref": "EP11:E30",
+        "segment_index": 0,
+        "relative_start_ms": 24800,
+        "relative_end_ms": 26700,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Choose your next words carefully.\""
+      },
+      {
+        "ref": "EP11:E31",
+        "segment_index": 0,
+        "relative_start_ms": 26700,
+        "relative_end_ms": 28800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Gerald pointing back toward the approaching Constable, feigning alarm."
+      },
+      {
+        "ref": "EP11:E32",
+        "segment_index": 0,
+        "relative_start_ms": 26900,
+        "relative_end_ms": 28900,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"You hear that? He threatens me again!\""
+      },
+      {
+        "ref": "EP11:E33",
+        "segment_index": 0,
+        "relative_start_ms": 28800,
+        "relative_end_ms": 28900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the Constable marching into frame between them, holding his truncheon horizontally."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_322e033996b84b69",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 14300,
+        "end_ms": 53600,
+        "episode_id": "ep_011"
+      }
+    ],
+    "duration_ms": 39300,
+    "origin": "ep11_opp_02",
+    "clip_events": [
+      {
+        "ref": "EP11:E13",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana, her anger flaring as she gestures sharply."
+      },
+      {
+        "ref": "EP11:E14",
+        "segment_index": 0,
+        "relative_start_ms": 100,
+        "relative_end_ms": 2400,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You have already taken enough from me. Leave!\""
+      },
+      {
+        "ref": "EP11:E15",
+        "segment_index": 0,
+        "relative_start_ms": 2500,
+        "relative_end_ms": 4200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Gerald pointing an accusatory finger, his composure snapping into hostile anger."
+      },
+      {
+        "ref": "EP11:E16",
+        "segment_index": 0,
+        "relative_start_ms": 2500,
+        "relative_end_ms": 4400,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"Your husband stole my gold pocket watch!\""
+      },
+      {
+        "ref": "EP11:E17",
+        "segment_index": 0,
+        "relative_start_ms": 4200,
+        "relative_end_ms": 5700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana recoiling in utter disbelief."
+      },
+      {
+        "ref": "EP11:E18",
+        "segment_index": 0,
+        "relative_start_ms": 4700,
+        "relative_end_ms": 5700,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"What? When?\""
+      },
+      {
+        "ref": "EP11:E19",
+        "segment_index": 0,
+        "relative_start_ms": 5700,
+        "relative_end_ms": 7700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Gerald narrowing his eyes vindictively."
+      },
+      {
+        "ref": "EP11:E20",
+        "segment_index": 0,
+        "relative_start_ms": 6600,
+        "relative_end_ms": 8000,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"The last time I came here.\""
+      },
+      {
+        "ref": "EP11:E21",
+        "segment_index": 0,
+        "relative_start_ms": 7700,
+        "relative_end_ms": 10300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana scoffing, stepping forward as Alexander stands motionless behind her."
+      },
+      {
+        "ref": "EP11:E22",
+        "segment_index": 0,
+        "relative_start_ms": 8700,
+        "relative_end_ms": 10500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You never even entered the cottage!\""
+      },
+      {
+        "ref": "EP11:E23",
+        "segment_index": 0,
+        "relative_start_ms": 10300,
+        "relative_end_ms": 12600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Gerald smirking with condescending amusement."
+      },
+      {
+        "ref": "EP11:E24",
+        "segment_index": 0,
+        "relative_start_ms": 10900,
+        "relative_end_ms": 12700,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"Then you should have nothing to fear from a search.\""
+      },
+      {
+        "ref": "EP11:E25",
+        "segment_index": 0,
+        "relative_start_ms": 12600,
+        "relative_end_ms": 14600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Three-shot of Alexander, Juliana, and Gerald in the bleak drizzle."
+      },
+      {
+        "ref": "EP11:E26",
+        "segment_index": 0,
+        "relative_start_ms": 13000,
+        "relative_end_ms": 14700,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Alexander would never steal from you.\""
+      },
+      {
+        "ref": "EP11:E27",
+        "segment_index": 0,
+        "relative_start_ms": 14600,
+        "relative_end_ms": 18100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle shot of Gerald throwing his head back in arrogant, mocking laughter."
+      },
+      {
+        "ref": "EP11:E28",
+        "segment_index": 0,
+        "relative_start_ms": 15000,
+        "relative_end_ms": 18500,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"Of course you would defend him. You married a beggar!\""
+      },
+      {
+        "ref": "EP11:E29",
+        "segment_index": 0,
+        "relative_start_ms": 18100,
+        "relative_end_ms": 20600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Alexander stepping past Juliana, his gaze murderous and jaw rigid."
+      },
+      {
+        "ref": "EP11:E30",
+        "segment_index": 0,
+        "relative_start_ms": 18700,
+        "relative_end_ms": 20600,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Choose your next words carefully.\""
+      },
+      {
+        "ref": "EP11:E31",
+        "segment_index": 0,
+        "relative_start_ms": 20600,
+        "relative_end_ms": 22700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Gerald pointing back toward the approaching Constable, feigning alarm."
+      },
+      {
+        "ref": "EP11:E32",
+        "segment_index": 0,
+        "relative_start_ms": 20800,
+        "relative_end_ms": 22800,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"You hear that? He threatens me again!\""
+      },
+      {
+        "ref": "EP11:E33",
+        "segment_index": 0,
+        "relative_start_ms": 22700,
+        "relative_end_ms": 24800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the Constable marching into frame between them, holding his truncheon horizontally."
+      },
+      {
+        "ref": "EP11:E34",
+        "segment_index": 0,
+        "relative_start_ms": 23100,
+        "relative_end_ms": 24900,
+        "type": "dialogue",
+        "speaker": "CONSTABLE",
+        "text": "\"I have received a complaint of theft.\""
+      },
+      {
+        "ref": "EP11:E35",
+        "segment_index": 0,
+        "relative_start_ms": 24800,
+        "relative_end_ms": 26700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of Juliana, defiant and resolute."
+      },
+      {
+        "ref": "EP11:E36",
+        "segment_index": 0,
+        "relative_start_ms": 25400,
+        "relative_end_ms": 26800,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"A complaint is not proof.\""
+      },
+      {
+        "ref": "EP11:E37",
+        "segment_index": 0,
+        "relative_start_ms": 26700,
+        "relative_end_ms": 29000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Constable gesturing with his truncheon toward the cottage door."
+      },
+      {
+        "ref": "EP11:E38",
+        "segment_index": 0,
+        "relative_start_ms": 27100,
+        "relative_end_ms": 29000,
+        "type": "dialogue",
+        "speaker": "CONSTABLE",
+        "text": "\"Then a search will settle the matter.\""
+      },
+      {
+        "ref": "EP11:E39",
+        "segment_index": 0,
+        "relative_start_ms": 29000,
+        "relative_end_ms": 31700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana backing up to the doorway, spreading her arms wide to block the entrance."
+      },
+      {
+        "ref": "EP11:E40",
+        "segment_index": 0,
+        "relative_start_ms": 29200,
+        "relative_end_ms": 32000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You cannot simply invade our home because this man makes an accusation!\""
+      },
+      {
+        "ref": "EP11:E41",
+        "segment_index": 0,
+        "relative_start_ms": 31700,
+        "relative_end_ms": 33500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Gerald crossing his arms smugly."
+      },
+      {
+        "ref": "EP11:E42",
+        "segment_index": 0,
+        "relative_start_ms": 32500,
+        "relative_end_ms": 34000,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"If he has nothing to hide...\""
+      },
+      {
+        "ref": "EP11:E43",
+        "segment_index": 0,
+        "relative_start_ms": 33500,
+        "relative_end_ms": 36500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up push-in on Alexander's scarred face, his eyes smoldering with lethal restraint."
+      },
+      {
+        "ref": "EP11:E44",
+        "segment_index": 0,
+        "relative_start_ms": 34100,
+        "relative_end_ms": 35700,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"...let the constable search.\""
+      },
+      {
+        "ref": "EP11:E45",
+        "segment_index": 0,
+        "relative_start_ms": 35800,
+        "relative_end_ms": 36700,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Search it.\""
+      },
+      {
+        "ref": "EP11:E46",
+        "segment_index": 0,
+        "relative_start_ms": 36500,
+        "relative_end_ms": 39300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot of Juliana looking up at Alexander in panicked confusion."
+      },
+      {
+        "ref": "EP11:E47",
+        "segment_index": 0,
+        "relative_start_ms": 38500,
+        "relative_end_ms": 39300,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Let them.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_1623b5859ec212b8",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 56000,
+        "end_ms": 84000,
+        "episode_id": "ep_011"
+      }
+    ],
+    "duration_ms": 28000,
+    "origin": "ep11_opp_03",
+    "clip_events": [
+      {
+        "ref": "EP11:E49",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 500,
+        "type": "sound",
+        "speaker": null,
+        "text": "Heavy thud of boots entering wooden floorboards, followed by forceful banging of furniture."
+      },
+      {
+        "ref": "EP11:E50",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2000,
+        "type": "action",
+        "speaker": null,
+        "text": "The Constable begins violently overturning crates and dumping contents across the floor."
+      },
+      {
+        "ref": "EP11:E51",
+        "segment_index": 0,
+        "relative_start_ms": 2000,
+        "relative_end_ms": 4000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium low-angle shot of Juliana dropping to her knees, frantically trying to salvage bundles of dried herbs scattering across the boards."
+      },
+      {
+        "ref": "EP11:E52",
+        "segment_index": 0,
+        "relative_start_ms": 2000,
+        "relative_end_ms": 4100,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Stop! Those are my mother's medicines!\""
+      },
+      {
+        "ref": "EP11:E53",
+        "segment_index": 0,
+        "relative_start_ms": 4000,
+        "relative_end_ms": 5800,
+        "type": "action",
+        "speaker": null,
+        "text": "The Constable aggressively pulls folded bed linens from a shelf and hurls them onto the damp floor."
+      },
+      {
+        "ref": "EP11:E54",
+        "segment_index": 0,
+        "relative_start_ms": 5800,
+        "relative_end_ms": 7500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle close-up of Juliana crawling on the floor, looking up with tears streaming down her cheeks."
+      },
+      {
+        "ref": "EP11:E55",
+        "segment_index": 0,
+        "relative_start_ms": 5800,
+        "relative_end_ms": 7800,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Please! There is nothing here!\""
+      },
+      {
+        "ref": "EP11:E56",
+        "segment_index": 0,
+        "relative_start_ms": 7500,
+        "relative_end_ms": 9500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Constable's hands flipping open a small wooden keepsake box on a work table."
+      },
+      {
+        "ref": "EP11:E57",
+        "segment_index": 0,
+        "relative_start_ms": 7900,
+        "relative_end_ms": 9700,
+        "type": "dialogue",
+        "speaker": "CONSTABLE",
+        "text": "\"Then you have nothing to fear.\""
+      },
+      {
+        "ref": "EP11:E58",
+        "segment_index": 0,
+        "relative_start_ms": 9500,
+        "relative_end_ms": 11400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle close-up of Juliana clutching the fallen linens to her chest, her voice breaking."
+      },
+      {
+        "ref": "EP11:E59",
+        "segment_index": 0,
+        "relative_start_ms": 10000,
+        "relative_end_ms": 11500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Those are all I have left!\""
+      },
+      {
+        "ref": "EP11:E60",
+        "segment_index": 0,
+        "relative_start_ms": 11400,
+        "relative_end_ms": 15500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Gerald leaning casually against the cottage doorframe, looking around with contemptuous disgust."
+      },
+      {
+        "ref": "EP11:E61",
+        "segment_index": 0,
+        "relative_start_ms": 11500,
+        "relative_end_ms": 15600,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"Stand aside. Look at this place. A perfect hiding hole for a thief.\""
+      },
+      {
+        "ref": "EP11:E62",
+        "segment_index": 0,
+        "relative_start_ms": 15500,
+        "relative_end_ms": 18800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana rising to her feet, clutching the folded cloth, her face contorting with rage."
+      },
+      {
+        "ref": "EP11:E63",
+        "segment_index": 0,
+        "relative_start_ms": 16100,
+        "relative_end_ms": 19000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You planted this accusation because you cannot bear that I am happy without you!\""
+      },
+      {
+        "ref": "EP11:E64",
+        "segment_index": 0,
+        "relative_start_ms": 18800,
+        "relative_end_ms": 20800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of Gerald's face chilling into a cold sneer."
+      },
+      {
+        "ref": "EP11:E65",
+        "segment_index": 0,
+        "relative_start_ms": 19500,
+        "relative_end_ms": 20800,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"Happy?\""
+      },
+      {
+        "ref": "EP11:E66",
+        "segment_index": 0,
+        "relative_start_ms": 20800,
+        "relative_end_ms": 23500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Alexander standing in the cottage shadows, eyes locked onto Gerald."
+      },
+      {
+        "ref": "EP11:E67",
+        "segment_index": 0,
+        "relative_start_ms": 23500,
+        "relative_end_ms": 25300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of Alexander's right hand slowly tightening into a white-knuckled fist."
+      },
+      {
+        "ref": "EP11:E68",
+        "segment_index": 0,
+        "relative_start_ms": 25300,
+        "relative_end_ms": 28000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle close-up of Gerald tilting his chin up, daringly baiting Alexander."
+      },
+      {
+        "ref": "EP11:E69",
+        "segment_index": 0,
+        "relative_start_ms": 25300,
+        "relative_end_ms": 28000,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"What is it, soldier? Going to strike a gentleman in front of his wife?\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_d04f318cb3a0f72a",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 88000,
+        "end_ms": 112750,
+        "episode_id": "ep_011"
+      }
+    ],
+    "duration_ms": 24750,
+    "origin": "ep11_opp_04",
+    "clip_events": [
+      {
+        "ref": "EP11:E73",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the Constable stepping up behind Alexander, holding his truncheon firmly across Alexander's chest to restrain him, cutting to a tight close-up of Alexander's smoldering eyes."
+      },
+      {
+        "ref": "EP11:E74",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2000,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"But one blow would destroy her life.\""
+      },
+      {
+        "ref": "EP11:E75",
+        "segment_index": 0,
+        "relative_start_ms": 1800,
+        "relative_end_ms": 4000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the Constable turning to Alexander's heavy trench coat hanging on an iron wall hook by the fireplace."
+      },
+      {
+        "ref": "EP11:E76",
+        "segment_index": 0,
+        "relative_start_ms": 3000,
+        "relative_end_ms": 4200,
+        "type": "action",
+        "speaker": null,
+        "text": "The Constable grabs the coat by the collar and begins rummaging through its deep pockets."
+      },
+      {
+        "ref": "EP11:E77",
+        "segment_index": 0,
+        "relative_start_ms": 4100,
+        "relative_end_ms": 5200,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"That is his coat!\""
+      },
+      {
+        "ref": "EP11:E78",
+        "segment_index": 0,
+        "relative_start_ms": 5200,
+        "relative_end_ms": 8800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Constable's hand sliding deep inside the inner coat lining and withdrawing a gleaming gold pocket watch with an attached chain."
+      },
+      {
+        "ref": "EP11:E79",
+        "segment_index": 0,
+        "relative_start_ms": 7800,
+        "relative_end_ms": 9000,
+        "type": "sound",
+        "speaker": null,
+        "text": "Metallic clinking of the gold chain sliding against fabric."
+      },
+      {
+        "ref": "EP11:E80",
+        "segment_index": 0,
+        "relative_start_ms": 8800,
+        "relative_end_ms": 11200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of Juliana gasping in sheer horror, her eyes welling with shock and shattered disbelief."
+      },
+      {
+        "ref": "EP11:E81",
+        "segment_index": 0,
+        "relative_start_ms": 9200,
+        "relative_end_ms": 11000,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana draws a sharp, terrified breath as her face pales completely."
+      },
+      {
+        "ref": "EP11:E82",
+        "segment_index": 0,
+        "relative_start_ms": 11200,
+        "relative_end_ms": 14000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of Alexander's face hardening into lethal, icy comprehension, realizing the depth of the frame-up."
+      },
+      {
+        "ref": "EP11:E83",
+        "segment_index": 0,
+        "relative_start_ms": 14000,
+        "relative_end_ms": 18800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up push-in on Gerald's face erupting into an ecstatic, wicked grin, bursting into triumphant laughter."
+      },
+      {
+        "ref": "EP11:E84",
+        "segment_index": 0,
+        "relative_start_ms": 16200,
+        "relative_end_ms": 18600,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"There it is. Ha!\""
+      },
+      {
+        "ref": "EP11:E85",
+        "segment_index": 0,
+        "relative_start_ms": 18800,
+        "relative_end_ms": 24750,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight macro shot of the gold pocket watch dangling and swaying gently from the Constable's fingers on its long chain, with Gerald blurred in the background grinning with sinister triumph as the scene hangs in a devastating freeze-frame."
+      }
+    ]
+  }
+]

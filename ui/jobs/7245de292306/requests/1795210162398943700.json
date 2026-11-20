@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_40712e74bb5c3fa0 DURATION_MS=57400\nSEGMENT 1 (playback order)\nEP26:E11 0-100 CAMERA: Extreme close-up of the Duchess taking drops of the dark liquid from the glass bottle onto her lips.\nEP26:E13 100-2400 CAMERA: Medium two-shot as Juliana withdraws the medicine bottle, standing beside the bedside lamp.\nEP26:E15 2400-7100 DOWAGER DUCHESS: \"You... you are no common servant. You took Catherine's whip for me the other day.\"\nEP26:E14 2400-7400 CAMERA: Close-up of the Dowager Duchess observing Juliana with faint recognition through her exhaustion.\nEP26:E16 7400-11800 CAMERA: Close-up of Juliana, her eyes reflecting quiet resolve and pain.\nEP26:E17 7600-11400 JULIANA: \"I did what I had to. It does not change my duty.\"\nEP26:E18 11800-14800 CAMERA: Medium two-shot as Juliana leans closer to tuck the blankets securely over the Duchess.\nEP26:E19 11900-14600 JULIANA: \"Rest now, Your Grace. You are safe tonight.\"\nEP26:E20 14800-19100 CAMERA: Close-up of Juliana looking around the shadowy room, her voice dropping to a tense whisper.\nEP26:E21 15100-18600 JULIANA: \"If the guards hear us, we are both dead.\"\nEP26:E22 19100-22400 CAMERA: Static shot of the heavy carved double doors to the bedchamber, left slightly ajar with a sliver of hallway candlelight gleaming through the gap.\nEP26:E23 22400-27400 CAMERA: Close-up of the Dowager Duchess lying back, processing Juliana's warning as dark realization settles into her face.\nEP26:E24 24100-27100 ACTION: The Duchess clutches the blanket against her chest, her breathing quickening with dismay.\nEP26:E25 27400-34100 CAMERA: Medium close-up of the Duchess looking upward toward Juliana, her voice trembling with tragic certainty.\nEP26:E26 27600-33600 DOWAGER DUCHESS: \"Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?\"\nEP26:E27 34100-38600 CAMERA: Medium shot of Juliana leaning over the edge of the mattress, nodding earnestly to soothe her fears.\nEP26:E28 34200-38300 JULIANA: \"Yes. But the charcoal is fighting the poison. You are safe now.\"\nEP26:E29 38600-43400 CAMERA: Close-up of the small amber dropper bottle sitting atop the polished wooden bedside table in the dim glow of the lamp.\nEP26:E30 43400-51200 CAMERA: Medium shot of the Dowager Duchess looking intently at Juliana from her pillows, studying her bearing.\nEP26:E31 45400-51000 DOWAGER DUCHESS: \"Then tell me... why is a girl of such noble spirit working as a common maid?\"\nEP26:E32 51200-57400 CAMERA: Close-up of Juliana, her chin lifting with dignified sorrow and quiet defiance.\nEP26:E33 51600-57400 JULIANA: \"Because my family cast me out to rot. I have nothing left in this world but my honor.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

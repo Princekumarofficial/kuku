@@ -1,0 +1,559 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "ep_042",
+  "episode_number": 42,
+  "metadata": {
+    "logline": "Emerging from the smoke of the shattered cathedral gates in full ducal regalia, Alexander confronts Rupert, wins the loyalty of the royal guards, and is proclaimed the rightful Duke of Ashburn by his weeping mother.",
+    "continuity_notes": "Directly follows Episode 41 where Alexander's forces breached the cathedral entrance; Alexander now steps through the ruins, halting the wedding and unmasking Rupert's illegitimate reign."
+  },
+  "source": {
+    "file": "041_episode-042-Episode 1686802.txt",
+    "sha256": "338a2e4416e23ccbdd35fce7a7bef8fe67e442cb023bacc55ae9a3f512aca696",
+    "complete": false
+  },
+  "scenes": [
+    {
+      "start_ms": 0,
+      "end_ms": 77800,
+      "id": "sc_001",
+      "heading": "INT. CATHEDRAL – CONTINUOUS"
+    }
+  ],
+  "events": [
+    {
+      "start_ms": 0,
+      "end_ms": 10500,
+      "id": "e_001",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle shot through drifting smoke and rubble across the stone floor, tilting up as polished boots step over splintered wood, revealing an imposing nobleman in a gold-embroidered navy coat.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        14,
+        16
+      ]
+    },
+    {
+      "start_ms": 1000,
+      "end_ms": 10500,
+      "id": "e_002",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Alexander strides deliberately through the pulverized cathedral doorway. Dressed in the regal ducal coat with gold braided cuffs and a lion crest, his scarred face is set with cold, unyielding authority.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        18,
+        20
+      ]
+    },
+    {
+      "start_ms": 11200,
+      "end_ms": 12600,
+      "id": "e_003",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Who are you?\"",
+      "speaker": "BLOND NOBLEMAN",
+      "delivery": "Shocked, Trembling",
+      "source_lines": [
+        22,
+        24
+      ]
+    },
+    {
+      "start_ms": 12800,
+      "end_ms": 14600,
+      "id": "e_004",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You already know.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Low, Resonant",
+      "source_lines": [
+        26,
+        28
+      ]
+    },
+    {
+      "start_ms": 14600,
+      "end_ms": 16600,
+      "id": "e_005",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on Juliana, her manacled hands clutching at her smock as tears well in her eyes.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        30,
+        32
+      ]
+    },
+    {
+      "start_ms": 15000,
+      "end_ms": 16400,
+      "id": "e_006",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Alexander...\"",
+      "speaker": "JULIANA",
+      "delivery": "Breathless, Tearful Whisper",
+      "source_lines": [
+        34,
+        36
+      ]
+    },
+    {
+      "start_ms": 16600,
+      "end_ms": 17900,
+      "id": "e_007",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on Alexander, his gaze softening momentarily toward her.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        38,
+        40
+      ]
+    },
+    {
+      "start_ms": 16800,
+      "end_ms": 17900,
+      "id": "e_008",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Juliana.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Gentle, Reassuring",
+      "source_lines": [
+        42,
+        44
+      ]
+    },
+    {
+      "start_ms": 17900,
+      "end_ms": 21500,
+      "id": "e_009",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Rupert descending the altar steps, furiously pointing toward Alexander.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        46,
+        48
+      ]
+    },
+    {
+      "start_ms": 18000,
+      "end_ms": 21200,
+      "id": "e_010",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Guards! Arrest this imposter!\"",
+      "speaker": "BLOND NOBLEMAN",
+      "delivery": "Furious, Hysterical",
+      "source_lines": [
+        50,
+        52
+      ]
+    },
+    {
+      "start_ms": 21500,
+      "end_ms": 23400,
+      "id": "e_011",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of the royal guardsman standing rigidly in red uniform and bearskin cap, resting his white-gloved hand on his sabre.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        54,
+        56
+      ]
+    },
+    {
+      "start_ms": 22000,
+      "end_ms": 23400,
+      "id": "e_012",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"We will not.\"",
+      "speaker": "ROYAL GUARD",
+      "delivery": "Stoic, Defiant",
+      "source_lines": [
+        58,
+        60
+      ]
+    },
+    {
+      "start_ms": 23400,
+      "end_ms": 26500,
+      "id": "e_013",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on Rupert, veins bulging in his neck as his composure shatters.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        62,
+        64
+      ]
+    },
+    {
+      "start_ms": 23500,
+      "end_ms": 25200,
+      "id": "e_014",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I said arrest him!\"",
+      "speaker": "BLOND NOBLEMAN",
+      "delivery": "Screaming, Outraged",
+      "source_lines": [
+        66,
+        68
+      ]
+    },
+    {
+      "start_ms": 25500,
+      "end_ms": 26500,
+      "id": "e_015",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Why?!\"",
+      "speaker": "BLOND NOBLEMAN",
+      "delivery": "Desperate, Unhinged",
+      "source_lines": [
+        70,
+        72
+      ]
+    },
+    {
+      "start_ms": 26500,
+      "end_ms": 28800,
+      "id": "e_016",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on the Royal Guard holding his upright blade with unwavering conviction.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        74,
+        76
+      ]
+    },
+    {
+      "start_ms": 26700,
+      "end_ms": 28800,
+      "id": "e_017",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Because we know who he is.\"",
+      "speaker": "ROYAL GUARD",
+      "delivery": "Firm, Reverent",
+      "source_lines": [
+        78,
+        80
+      ]
+    },
+    {
+      "start_ms": 28800,
+      "end_ms": 30400,
+      "id": "e_018",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Catherine clutching her father's arm, her bridal bouquet drooping as panic seizes her face.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        82,
+        84
+      ]
+    },
+    {
+      "start_ms": 29000,
+      "end_ms": 30300,
+      "id": "e_019",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Rupert...\"",
+      "speaker": "CATHERINE",
+      "delivery": "Trembling, Apprehensive",
+      "source_lines": [
+        86,
+        88
+      ]
+    },
+    {
+      "start_ms": 30400,
+      "end_ms": 33800,
+      "id": "e_020",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Rupert gripping the edge of a pew for balance, his eyes wild with terror.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        90,
+        92
+      ]
+    },
+    {
+      "start_ms": 30500,
+      "end_ms": 33800,
+      "id": "e_021",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You cannot be him. Alexander died!\"",
+      "speaker": "BLOND NOBLEMAN",
+      "delivery": "Denial, Shaken",
+      "source_lines": [
+        94,
+        96
+      ]
+    },
+    {
+      "start_ms": 33800,
+      "end_ms": 39900,
+      "id": "e_022",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Wide tracking shot behind Alexander as he advances down the center aisle, silhouetted against the ruins of the cathedral nave.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        98,
+        100
+      ]
+    },
+    {
+      "start_ms": 34000,
+      "end_ms": 39800,
+      "id": "e_023",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"And yet, here I stand. That is the lie you built your life upon.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Cold, Commanding",
+      "source_lines": [
+        102,
+        104
+      ]
+    },
+    {
+      "start_ms": 39900,
+      "end_ms": 44800,
+      "id": "e_024",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of an elderly silver-haired woman in simple ivory robes stepping into the aisle, her hands outstretched in trembling awe.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        106,
+        108
+      ]
+    },
+    {
+      "start_ms": 40200,
+      "end_ms": 42500,
+      "id": "e_025",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Alexander...\"",
+      "speaker": "ALEXANDER'S MOTHER",
+      "delivery": "Choked with Tears",
+      "source_lines": [
+        110,
+        112
+      ]
+    },
+    {
+      "start_ms": 44800,
+      "end_ms": 48000,
+      "id": "e_026",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Alexander halts his march as his mother reaches him, placing her frail hands gently upon his chest.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        114,
+        116
+      ]
+    },
+    {
+      "start_ms": 48000,
+      "end_ms": 49000,
+      "id": "e_027",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Mother.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Soft, Reverent",
+      "source_lines": [
+        118,
+        120
+      ]
+    },
+    {
+      "start_ms": 49000,
+      "end_ms": 54000,
+      "id": "e_028",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "His mother gently cradles Alexander's scarred cheek, tears streaming down her face as guests in the background watch in stunned silence.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        122,
+        124
+      ]
+    },
+    {
+      "start_ms": 49200,
+      "end_ms": 53800,
+      "id": "e_029",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Look at you... my beautiful boy.\"",
+      "speaker": "ALEXANDER'S MOTHER",
+      "delivery": "Overcome, Loving",
+      "source_lines": [
+        126,
+        128
+      ]
+    },
+    {
+      "start_ms": 54000,
+      "end_ms": 63500,
+      "id": "e_030",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium two-shot framed down the ruined nave between Alexander and his mother.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        130,
+        132
+      ]
+    },
+    {
+      "start_ms": 54000,
+      "end_ms": 61800,
+      "id": "e_031",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I saw you again... but seeing you like this... I see my son as he was always meant to be.\"",
+      "speaker": "ALEXANDER'S MOTHER",
+      "delivery": "Tearful, Proud",
+      "source_lines": [
+        134,
+        136
+      ]
+    },
+    {
+      "start_ms": 62000,
+      "end_ms": 64000,
+      "id": "e_032",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I have come home, Mother.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Tender, Resolute",
+      "source_lines": [
+        138,
+        140
+      ]
+    },
+    {
+      "start_ms": 64000,
+      "end_ms": 72500,
+      "id": "e_033",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Alexander's mother turns toward the gathered nobility and guards, raising her chin and pointing proudly toward Alexander.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        142,
+        144
+      ]
+    },
+    {
+      "start_ms": 64200,
+      "end_ms": 72400,
+      "id": "e_034",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Let everyone hear me! This is my son... Alexander Ashburn. The rightful Duke of Ashburn!\"",
+      "speaker": "ALEXANDER'S MOTHER",
+      "delivery": "Ringing, Authoritative",
+      "source_lines": [
+        146,
+        148
+      ]
+    },
+    {
+      "start_ms": 72500,
+      "end_ms": 73800,
+      "id": "e_035",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Rupert cowering on the altar steps beside Catherine and her father, utterly defeated.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        150,
+        152
+      ]
+    },
+    {
+      "start_ms": 73800,
+      "end_ms": 77800,
+      "id": "e_036",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Tight close-up on Alexander, his hand resting on the hilt of his sabre as his eyes burn with fierce, cold retribution.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        154,
+        156
+      ]
+    },
+    {
+      "start_ms": 73800,
+      "end_ms": 77500,
+      "id": "e_037",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"And now, Rupert... we settle what you stole.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Grim, Vengeful",
+      "source_lines": [
+        158,
+        160
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "start_ms": 0,
+      "end_ms": 10500
+    },
+    {
+      "start_ms": 11200,
+      "end_ms": 12600
+    },
+    {
+      "start_ms": 12800,
+      "end_ms": 77800
+    }
+  ],
+  "warnings": [
+    "sc_001: incomplete source coverage; gaps are unavailable"
+  ]
+}

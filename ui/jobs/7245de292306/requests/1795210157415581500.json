@@ -1,0 +1,160 @@
+{
+  "stage": "candidate_discovery",
+  "system": "Find diverse promo opportunities, preferably 8-12 if supported. Return hook and unresolved ending anchors, not timestamps. A continuous clip must last 20-60 seconds with its hook in the first 3 seconds, understandable without prior context. Check the anchor timestamps: ending.end_ms minus hook.start_ms should be 20,000-60,000ms. Do not propose isolated 2-10 second moments. Both anchors and required context must fit in one supplied coverage interval. Ending anchors should precede resolution. Context refs must occur within the clip. Empty opportunities are valid when evidence is insufficient.",
+  "user": "EP=ep_039; timestamps are integer milliseconds\nSOURCE_SHA256=9880b70ecdcada1fcb110b33761a1bdfdf96ccad454ef181cd47d641bb68e500\nMETADATA ONLY (not on-screen evidence): {'logline': \"While Alexander's loyal men infiltrate and neutralize the royal guards stationed outside the cathedral, Alexander sheds his rugged disguise, dons his ducal regalia, and marches forth to reclaim his house and rescue Juliana.\", 'continuity_notes': \"Picks up as the wedding bells toll for Rupert and Catherine's ceremony. While Juliana prepares for execution in the dungeon below, Alexander's coordinated strike to liberate the cathedral and reclaim his birthright begins.\"}\nSOURCE WARNINGS=[]\nSCENE sc_001 0-13800 EXT. COBBLESTONE STREET - DAY\nEP39:E1 0-4600 CAMERA: Low-angle tracking shot from behind wagon wheels framing laborers unloading wooden crates from a horse-drawn cart in the bustling town square.\nEP39:E2 0-4600 ACTION: Men in work clothes stack wooden crates onto the back of a large carriage as horses snort restlessly in the morning mist.\nEP39:E3 4600-7100 CAMERA: Medium close-up profile shot of a vigilant scout in a dark brimmed hat holding reins and surveying the street.\nEP39:E4 4600-7100 ACTION: The scout stands quietly by a wooden rail, keeping a sharp eye on passing civilians.\nEP39:E5 7100-9600 CAMERA: Artistic framing through the spokes of a large wooden wagon wheel looking out across the cobblestones toward church spires in the distance.\nEP39:E6 9600-13800 CAMERA: Close-up of a disguised loyalist adjusting his flat cap, followed by a low-angle tracking shot of two men walking briskly over the wet cobblestones.\nSCENE sc_002 13800-24200 EXT. CATHEDRAL ENTRANCE & ALLEY - CONTINUOUS\nEP39:E7 13800-15800 CAMERA: Wide symmetrical establishing shot of the grand Gothic cathedral entrance flanked by armed royal guards in red uniforms and bearskin hats standing on stone steps.\nEP39:E8 13800-15800 ACTION: Four royal guards in red ceremonial tunics and tall black bearskin hats stand rigidly at attention with rifles on the grand cathedral staircase.\nEP39:E9 15800-18000 CAMERA: Medium shot in a nearby alleyway where two loyalist conspirators huddle beside bundles of hay, discreetly passing a folded message.\nEP39:E10 18000-22400 CAMERA: Close profile two-shot of the two loyalist soldiers watching the cathedral spires in the distance.\nEP39:E11 18300-19900 LOYALIST SCOUT [Low, Urgent]: \"Six at the front.\"\nEP39:E12 20200-21800 LOYALIST FIGHTER [Grave]: \"Four more inside.\"\nEP39:E13 22400-24200 CAMERA: Medium over-the-shoulder shot of the two men conferring as townsfolk pass in the foreground.\nEP39:E14 22500-23200 LOYALIST SCOUT [Focused]: \"And the east gate?\"\nEP39:E15 23300-24200 LOYALIST FIGHTER [Determined]: \"Ours.\"\nSCENE sc_003 24200-50000 EXT. CATHEDRAL ENTRANCE - CONTINUOUS\nEP39:E16 24200-29600 CAMERA: Wide crane shot panning down as a horse-drawn cart loaded with cut firewood pulls up along the wet stone pavement in front of the cathedral steps.\nEP39:E17 24200-29600 ACTION: A lone driver in rugged attire guides the horse cart slowly toward the sentries guarding the arched entryway.\nEP39:E18 29600-32400 CAMERA: Medium two-shot of the royal sentry stepping forward and extending a white-gloved hand to halt the cart.\nEP39:E19 29800-30600 ROYAL SENTRY [Commanding]: \"Stop!\"\nEP39:E20 30800-32400 CART DRIVER [Meek, Deferential]: \"Firewood for the kitchens, sir.\"\nEP39:E21 32400-36500 CAMERA: Fast dynamic medium shot as the cart driver suddenly lunges off the wooden bench.\nEP39:E22 32800-36500 ACTION: The driver leaps off the cart, striking the sentry across the chest, seizing his neck, and tackling him violently against the wooden carriage wheel.\nEP39:E23 33100-36000 SOUND: Dull physical thuds and scuffling boots on wet stone as the guard groans in surprise.\nEP39:E24 36500-42800 CAMERA: Medium close-up as a second loyalist emerges from behind the doorway, wrapping his arms around the remaining royal guard's throat from behind.\nEP39:E25 37000-42500 ACTION: The loyalist locks the sentry into a tight sleeper hold, clamping a hand firmly over his mouth until his eyes roll back and he goes limp.\nEP39:E26 41000-42200 LOYALIST FIGHTER [Whispering, Cold]: \"Sleep.\"\nEP39:E27 42800-46800 CAMERA: Wide high-angle shot overlooking the stone cathedral steps where both royal guards lie unconscious on the fallen autumn leaves while more men slip inside the opened doors.\nEP39:E28 46800-50000 CAMERA: Medium low-angle shot of the two loyalist fighters looking up into the overcast sky outside the stone sanctuary.\nEP39:E29 47000-48100 CART DRIVER [Relieved, Firm]: \"The road is clear.\"\nEP39:E30 48200-49200 LOYALIST FIGHTER [Resolute]: \"Tell the Duke.\"\nSCENE sc_004 50000-68500 INT. WOODEN CABIN - DAY\nEP39:E31 50000-52800 CAMERA: Close-up framed into a cracked wooden wall mirror reflecting Alexander with long unkempt hair, a thick beard, and combat scars across his cheek.\nEP39:E32 50000-52800 ACTION: Alexander stares solemnly at his rugged reflection, his expression dark and resolute.\nEP39:E33 52800-55800 CAMERA: Tilt-down medium close-up over a wooden table displaying a pristine navy-and-gold embroidered ducal uniform, ornate lion crest brooch, white cravat, razor, and scissors.\nEP39:E34 55800-59800 CAMERA: Medium profile shot of Alexander lifting the metal shears beside the window light, raising them toward his hair.\nEP39:E35 56500-59800 ACTION: Alexander snips through his overgrown locks, shedding the years of exile and camouflage.\nEP39:E36 57200-60800 SOUND: Rhythmic, metallic snips of heavy shears cutting through thick hair.\nEP39:E37 59800-61200 CAMERA: Medium shot as Alexander trims his beard at the jawline.\nEP39:E38 61200-66600 CAMERA: Medium shot framed in the mirror of Alexander now handsomely groomed, his trimmed beard framing his fierce, scarred features.\nEP39:E39 62000-66600 ACTION: Alexander lightly traces the jagged combat scar across his cheek, eyes burning with reclaimed power.\nEP39:E40 62000-62800 ALEXANDER [Deep, Steely Resolve]: \"Enough hiding.\"\nEP39:E41 63000-65500 ALEXANDER [Dark, Unforgiving]: \"They buried Alexander Ashwin three years ago.\"\nEP39:E42 65600-66900 ALEXANDER [Fierce, Commanding]: \"Today, he comes home.\"\nEP39:E43 66600-68500 CAMERA: Medium shot of Alexander lifting his royal navy-blue embroidered ducal coat from the wooden bench.\nSCENE sc_005 68500-98410 EXT. WOODEN OUTPOST / SNOWY PATH - DAY\nEP39:E44 68500-71800 CAMERA: Wide tracking shot through double wooden barn doors opening outward onto a vast, snow-covered landscape as Alexander steps forward into the light.\nEP39:E45 68500-71800 ACTION: Alexander emerges in full ducal splendor—dressed in an immaculate navy tailcoat lined with gold embroidery, double-breasted brass buttons, and a crisp white cravat.\nEP39:E46 71800-74800 CAMERA: Extreme close-up of Alexander's hand adjusting the ornate golden lion crest pinned at his cravat.\nEP39:E47 74800-77800 CAMERA: Medium low-angle shot as a loyalist soldier drops down onto one knee before him in the snow.\nEP39:E48 75800-77200 LOYALIST [Reverent, Submissive]: \"Your Grace.\"\nEP39:E49 77800-82500 CAMERA: Close-up profile of Alexander, his breath pluming in the winter cold, his eyes hardened like steel.\nEP39:E50 80500-82200 ALEXANDER [Authoritative, Command]: \"Secure the chapel.\"\nEP39:E51 82500-85200 CAMERA: Medium close-up of the soldier rising and snapping a crisp military salute.\nEP39:E52 83800-85200 LOYALIST [Resolute]: \"Yes, Your Grace.\"\nEP39:E53 85200-95000 CAMERA: Slow dramatic tracking shot moving backward in front of Alexander as he strides purposefully through the deep snow, the wooden chapel looming in the distance behind him.\nEP39:E54 85500-87200 ALEXANDER [Powerful, Roaring Defiance]: \"No more hiding.\"\nEP39:E55 87500-90200 ALEXANDER [Fierce, Unyielding]: \"I am taking back my house.\"\nEP39:E56 90200-95000 ACTION: Alexander marches forward unstoppably, his long coat fluttering in the winter wind as his icy gaze locks forward.\nEP39:E57 95000-98410 CAMERA: Dramatic push-in close-up directly onto Alexander's scarred, fierce face as he speaks with absolute conviction.\nEP39:E58 95000-98000 ALEXANDER [Passionate, Unstoppable Vow]: \"And I am bringing my wife home.\"\nEP39:E59 97800-98410 ACTION: Alexander's eyes burn with furious determination as the screen cuts sharply to black.\nAVAILABLE COVERAGE (milliseconds)=[{\"start_ms\": 0, \"end_ms\": 98410}]\nEPISODE ANALYSIS={\"episode_id\":\"ep_039\",\"summary\":\"On-screen evidence shows loyalists infiltrating a cathedral area: a cart driver and a second loyalist overpower two royal sentries (EP39:E16-E26), a loyalist confirms the cart is clear and says 'Tell the Duke' (EP39:E29-E30), and a man named Alexander, who says he was buried three years ago, cuts his hair and beard and emerges in ducal regalia to order 'Secure the chapel' (EP39:E40-E50). Identifying him as Duke Alexander Ashwin rests on his regalia, the 'Your Grace' salute, and his own words, and is an inference rather than a stated fact. The spoken 'wife' is unnamed on screen. Metadata about a wedding, Juliana's execution, and the dungeon describes unseen events and is not treated as evidence. Timing, the number of guards inside, and the outcome of the east gate and chapel are not shown.\",\"characters\":[{\"name\":\"Alexander Ashwin\",\"role\":\"Returning figure who appears to be the Duke; disguised in exile, then transforms into ducal dress and gives orders\"},{\"name\":\"Loyalist scout\",\"role\":\"Conspirator watching the street and cathedral approach, reports six guards at the front\"},{\"name\":\"Loyalist fighter\",\"role\":\"Conspirator who reports four more guards inside and confirms the east gate is theirs\"},{\"name\":\"Cart driver\",\"role\":\"Loyalist posing as a firewood driver who overpowers a royal sentry\"},{\"name\":\"Royal sentry\",\"role\":\"Guard at the cathedral entrance who is subdued by loyalists\"},{\"name\":\"Loyalist soldier\",\"role\":\"Kneeling soldier who greets Alexander as Your Grace and receives orders\"}],\"beats\":[{\"id\":\"B1\",\"kind\":\"setup\",\"event_refs\":[\"EP39:E1\",\"EP39:E2\",\"EP39:E3\",\"EP39:E4\",\"EP39:E5\",\"EP39:E6\"],\"description\":\"Laborers, a vigilant scout, and a disguised loyalist move through the cobblestone town square toward the church spires.\",\"intensity_0_10\":3.0},{\"id\":\"B2\",\"kind\":\"plan_reveal\",\"event_refs\":[\"EP39:E7\",\"EP39:E8\",\"EP39:E9\",\"EP39:E10\",\"EP39:E11\",\"EP39:E12\",\"EP39:E13\",\"EP39:E14\",\"EP39:E15\"],\"description\":\"Red-uniformed guards hold the cathedral entrance while loyalists confer in an alley: six guards at the front, four more inside, and the east gate is theirs.\",\"intensity_0_10\":5.0},{\"id\":\"B3\",\"kind\":\"action_infiltration\",\"event_refs\":[\"EP39:E16\",\"EP39:E17\",\"EP39:E18\",\"EP39:E19\",\"EP39:E20\",\"EP39:E21\",\"EP39:E22\",\"EP39:E23\",\"EP39:E24\",\"EP39:E25\",\"EP39:E26\",\"EP39:E27\",\"EP39:E28\",\"EP39:E29\",\"EP39:E30\"],\"description\":\"A cart driver stops at the entrance, attacks a sentry, and a second loyalist chokes out the other guard; the guards lie unconscious, men enter the doors, and the road is reported clear.\",\"intensity_0_10\":8.0},{\"id\":\"B4\",\"kind\":\"transformation\",\"event_refs\":[\"EP39:E31\",\"EP39:E32\",\"EP39:E33\",\"EP39:E34\",\"EP39:E35\",\"EP39:E36\",\"EP39:E37\",\"EP39:E38\",\"EP39:E39\",\"EP39:E40\",\"EP39:E41\",\"EP39:E42\",\"EP39:E43\"],\"description\":\"Alexander looks at his scarred reflection, shears off his hair and beard, lays a hand on his scar, declares 'Enough hiding,' says he was buried three years ago, and says 'Today, he comes home' as he lifts the ducal coat.\",\"intensity_0_10\":7.0},{\"id\":\"B5\",\"kind\":\"reveal_and_vow\",\"event_refs\":[\"EP39:E44\",\"EP39:E45\",\"EP39:E46\",\"EP39:E47\",\"EP39:E48\",\"EP39:E49\",\"EP39:E50\",\"EP39:E51\",\"EP39:E52\",\"EP39:E53\",\"EP39:E54\",\"EP39:E55\",\"EP39:E56\",\"EP39:E57\",\"EP39:E58\",\"EP39:E59\"],\"description\":\"Alexander emerges in full ducal dress, is greeted as Your Grace, orders the chapel secured, declares he is taking back his house, and vows to bring his wife home before the screen cuts to black.\",\"intensity_0_10\":9.0}],\"revelations\":[{\"id\":\"R1\",\"event_refs\":[\"EP39:E41\",\"EP39:E42\",\"EP39:E45\",\"EP39:E48\"],\"claim\":\"The man in the cabin is Alexander, whom the speaker says was buried three years ago, and he has returned as the Duke (inferred from regalia and 'Your Grace').\",\"spoiler_significance_0_10\":6.0,\"creates_questions\":[\"Why was Alexander Ashwin reported dead three years ago?\",\"Who buried him, and was the death staged?\"]},{\"id\":\"R2\",\"event_refs\":[\"EP39:E58\"],\"claim\":\"Alexander has a wife whom he intends to bring home; she is unnamed and her situation is not shown on screen.\",\"spoiler_significance_0_10\":4.0,\"creates_questions\":[\"Who is Alexander's wife, and where is she being held?\"]}],\"unresolved_questions\":[{\"question\":\"Who is the wife Alexander vows to bring home, and where is she?\",\"introduced_by\":[\"EP39:E58\"]},{\"question\":\"Why was Alexander Ashwin presumed dead three years ago, and how did he survive?\",\"introduced_by\":[\"EP39:E41\"]},{\"question\":\"Will the loyalists take the chapel and the east gate, and how many guards remain inside?\",\"introduced_by\":[\"EP39:E12\",\"EP39:E15\",\"EP39:E50\"]},{\"question\":\"What is the 'Tell the Duke' message's outcome, and does Alexander's strike succeed?\",\"introduced_by\":[\"EP39:E30\",\"EP39:E59\"]}]}\nSERIES CONTEXT={\"series_id\":\"series_001\",\"premise\":\"Lady Juliana is publicly jilted at the altar when her fiance Gerald chooses her sister Clarissa, and her family rejects her. She marries a scarred, unnamed Bearded Man (later revealed on screen as Alexander, a presumed-dead soldier and Duke), and the couple is repeatedly targeted by antagonists. Juliana uses her late mother's herbal knowledge to heal the sick, which draws accusations of witchcraft and poisoning, while Alexander's return and claim to his ducal title set up a confrontation with the conspirators who hid his survival.\",\"arcs\":[{\"id\":\"arc_jilting_and_family_rejection\",\"description\":\"Juliana is jilted at the altar by Gerald, humiliated by her sister Clarissa and disowned by her family, which sets off the series' central betrayal.\",\"beat_refs\":[{\"episode_id\":\"ep_001\",\"beat_id\":\"B02\"},{\"episode_id\":\"ep_001\",\"beat_id\":\"B03\"},{\"episode_id\":\"ep_001\",\"beat_id\":\"B09\"},{\"episode_id\":\"ep_001\",\"beat_id\":\"B10\"},{\"episode_id\":\"ep_002\",\"beat_id\":\"b01\"},{\"episode_id\":\"ep_002\",\"beat_id\":\"b05\"},{\"episode_id\":\"ep_003\",\"beat_id\":\"b3\"},{\"episode_id\":\"ep_004\",\"beat_id\":\"B11\"}]},{\"id\":\"arc_exile_and_marriage_to_the_bearded_man\",\"description\":\"After the rejection, the unnamed Bearded Man intervenes, offers Juliana a ring and a vow, and the couple leaves the family behind to live in hardship in a cottage.\",\"beat_refs\":[{\"episode_id\":\"ep_003\",\"beat_id\":\"b9\"},{\"episode_id\":\"ep_004\",\"beat_id\":\"B8\"},{\"episode_id\":\"ep_004\",\"beat_id\":\"B9\"},{\"episode_id\":\"ep_005\",\"beat_id\":\"b1\"},{\"episode_id\":\"ep_005\",\"beat_id\":\"b3\"},{\"episode_id\":\"ep_006\",\"beat_id\":\"b2\"},{\"episode_id\":\"ep_006\",\"beat_id\":\"b8\"}]},{\"id\":\"arc_healing_and_poisoning_conspiracy\",\"description\":\"Juliana's herbal healing draws her into the household of the ailing Dowager Duchess, where she uncovers evidence of arsenic poisoning and is pulled into a dangerous conflict with Catherine and Rupert.\",\"beat_refs\":[{\"episode_id\":\"ep_009\",\"beat_id\":\"b02\"},{\"episode_id\":\"ep_022\",\"beat_id\":\"B6\"},{\"episode_id\":\"ep_023\",\"beat_id\":\"beat_2\"},{\"episode_id\":\"ep_023\",\"beat_id\":\"beat_6\"},{\"episode_id\":\"ep_024\",\"beat_id\":\"B7\"},{\"episode_id\":\"ep_025\",\"beat_id\":\"b5\"},{\"episode_id\":\"ep_026\",\"beat_id\":\"b6\"},{\"episode_id\":\"ep_028\",\"beat_id\":\"b4\"}]},{\"id\":\"arc_frame_up_and_imprisonment\",\"description\":\"Juliana and Alexander are framed with a stolen watch and with witchcraft and poisoning charges, leading to Juliana's arrest, torture and public trial.\",\"beat_refs\":[{\"episode_id\":\"ep_011\",\"beat_id\":\"b6\"},{\"episode_id\":\"ep_012\",\"beat_id\":\"B6\"},{\"episode_id\":\"ep_029\",\"beat_id\":\"b07\"},{\"episode_id\":\"ep_031\",\"beat_id\":\"b9\"},{\"episode_id\":\"ep_034\",\"beat_id\":\"B9\"}]},{\"id\":\"arc_alexander_return_and_reclamation\",\"description\":\"Alexander's survival is revealed after an ambush he was believed to have died in, and he moves to expose the conspirators who hid him, reclaim his title and rescue Juliana before her execution.\",\"beat_refs\":[{\"episode_id\":\"ep_035\",\"beat_id\":\"b7\"},{\"episode_id\":\"ep_036\",\"beat_id\":\"b8\"},{\"episode_id\":\"ep_039\",\"beat_id\":\"B5\"},{\"episode_id\":\"ep_042\",\"beat_id\":\"b11\"},{\"episode_id\":\"ep_045\",\"beat_id\":\"B6\"},{\"episode_id\":\"ep_046\",\"beat_id\":\"B2\"}]}],\"key_revelations\":[{\"episode_id\":\"ep_001\",\"revelation_id\":\"R01\",\"prerequisite_context\":[\"Gerald is holding the hand of the Lady in Gold Gown at the altar\",\"The Lady in Gold Gown states that Gerald is marrying her\"]},{\"episode_id\":\"ep_001\",\"revelation_id\":\"R02\",\"prerequisite_context\":[\"The Lady in Gold Gown knew of the betrayal in advance\",\"She says Gerald was never going to marry Juliana\"]},{\"episode_id\":\"ep_004\",\"revelation_id\":\"R4\",\"prerequisite_context\":[\"The priest pronounces the couple husband and wife in an off-screen voice\",\"The priest had earlier hesitated before proceeding\"]},{\"episode_id\":\"ep_011\",\"revelation_id\":\"r1\",\"prerequisite_context\":[\"Gerald accuses Alexander of stealing his gold pocket watch\",\"The Constable finds a gold pocket watch inside Alexander's coat\"]},{\"episode_id\":\"ep_023\",\"revelation_id\":\"rev_2\",\"prerequisite_context\":[\"Juliana's late mother's journal records toxic symptoms matching the Duchess's condition\",\"Juliana asserts that someone is poisoning the Duchess\"]},{\"episode_id\":\"ep_027\",\"revelation_id\":\"r1\",\"prerequisite_context\":[\"The Duchess says the ring bears the Ashbourne crest\",\"Juliana says her husband gave her the ring\"]},{\"episode_id\":\"ep_028\",\"revelation_id\":\"r3\",\"prerequisite_context\":[\"Catherine reads the herbarium inscription Juliana Ashcroft\",\"Catherine names her Lady Juliana Ashcroft\"]},{\"episode_id\":\"ep_035\",\"revelation_id\":\"r2\",\"prerequisite_context\":[\"Alexander says the ambush was ordered to erase him\",\"Alexander says someone wanted his mother to believe he was dead\"]},{\"episode_id\":\"ep_036\",\"revelation_id\":\"r7\",\"prerequisite_context\":[\"Juliana was arrested and accused of poisoning Alexander\",\"The mother reports that Juliana was condemned by a magistrate\"]},{\"episode_id\":\"ep_045\",\"revelation_id\":\"R1\",\"prerequisite_context\":[\"Alexander kneels before Juliana and unchains her\",\"Alexander identifies himself as Alexander Ashburton, the rightful Duke\"]}]}",
+  "schema": {
+    "$defs": {
+      "EpisodeOpportunity": {
+        "additionalProperties": false,
+        "properties": {
+          "scope": {
+            "const": "episode",
+            "title": "Scope",
+            "type": "string"
+          },
+          "local_id": {
+            "title": "Local Id",
+            "type": "string"
+          },
+          "episode_id": {
+            "title": "Episode Id",
+            "type": "string"
+          },
+          "concept": {
+            "title": "Concept",
+            "type": "string"
+          },
+          "hook_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Hook Refs",
+            "type": "array"
+          },
+          "ending_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Ending Refs",
+            "type": "array"
+          },
+          "context_refs": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Context Refs",
+            "type": "array"
+          },
+          "why_promising": {
+            "title": "Why Promising",
+            "type": "string"
+          }
+        },
+        "required": [
+          "scope",
+          "local_id",
+          "episode_id",
+          "concept",
+          "hook_refs",
+          "ending_refs",
+          "context_refs",
+          "why_promising"
+        ],
+        "title": "EpisodeOpportunity",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "opportunities": {
+        "items": {
+          "$ref": "#/$defs/EpisodeOpportunity"
+        },
+        "title": "Opportunities",
+        "type": "array"
+      }
+    },
+    "required": [
+      "opportunities"
+    ],
+    "title": "EpisodeDiscovery",
+    "type": "object"
+  },
+  "state": "complete",
+  "output": {
+    "opportunities": [
+      {
+        "scope": "episode",
+        "local_id": "opp_1",
+        "episode_id": "ep_039",
+        "concept": "Alexander sheds his disguise, steps out in ducal regalia, and declares he is coming home and bringing his wife home",
+        "hook_refs": [
+          "EP39:E40"
+        ],
+        "ending_refs": [
+          "EP39:E58"
+        ],
+        "context_refs": [
+          "EP39:E41",
+          "EP39:E42"
+        ],
+        "why_promising": "The hook 'Enough hiding' (62000-62800) is a strong opener, and the clip runs 62000-98000ms (36000ms) to an unresolved vow about the wife. The 'buried three years ago' line within the clip gives the mystery of his survival, and the wife's situation stays unanswered."
+      },
+      {
+        "scope": "episode",
+        "local_id": "opp_2",
+        "episode_id": "ep_039",
+        "concept": "Loyalists strike the cathedral entrance guards and the operation moves inside toward the chapel",
+        "hook_refs": [
+          "EP39:E19"
+        ],
+        "ending_refs": [
+          "EP39:E50"
+        ],
+        "context_refs": [
+          "EP39:E20",
+          "EP39:E26",
+          "EP39:E30"
+        ],
+        "why_promising": "The clip runs 29800-82200ms (52400ms). It opens on the sentry's sharp 'Stop!' (29800-30600), which is an immediate hook, and it covers the attack and the 'Tell the Duke' report. It ends on the unresolved order 'Secure the chapel' (80500-82200), and the chapel's outcome is not shown."
+      },
+      {
+        "scope": "episode",
+        "local_id": "opp_3",
+        "episode_id": "ep_039",
+        "concept": "Loyalists in an alley count the royal guards and confirm the east gate, then the cart strike proceeds and the message is sent to the Duke",
+        "hook_refs": [
+          "EP39:E11"
+        ],
+        "ending_refs": [
+          "EP39:E30"
+        ],
+        "context_refs": [
+          "EP39:E12",
+          "EP39:E14",
+          "EP39:E15"
+        ],
+        "why_promising": "The clip runs 18300-49200ms (30900ms). It opens on the urgent 'Six at the front' (18300-19900), and the guard counts and east-gate exchange are all inside the clip. It ends on the unresolved 'Tell the Duke' (48200-49200), so the viewer is left wondering whether the message reaches its target."
+      },
+      {
+        "scope": "episode",
+        "local_id": "opp_4",
+        "episode_id": "ep_039",
+        "concept": "A loyalist kneels and greets Alexander as Your Grace, and Alexander orders the chapel secured and vows to bring his wife home",
+        "hook_refs": [
+          "EP39:E48"
+        ],
+        "ending_refs": [
+          "EP39:E58"
+        ],
+        "context_refs": [
+          "EP39:E50",
+          "EP39:E54"
+        ],
+        "why_promising": "The clip runs 75800-98000ms (22200ms). The hook 'Your Grace' (75800-77200) opens on the reveal of his rank, and the clip includes the command and the 'No more hiding' defiance. It ends on the unresolved wife vow (95000-98000), which is a distinct angle from the full transformation clip."
+      }
+    ]
+  }
+}

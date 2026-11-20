@@ -1,0 +1,204 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_c62897bc3307358a DURATION_MS=59200\nSEGMENT 1 (playback order)\nEP17:E30 0-2000 CAMERA: Medium shot in the warm, flickering firelight of the stone cottage. Juliana kneels on the stone floor beside a washbasin of water while Alexander sits quietly in a chair beside the blazing hearth.\nEP17:E31 0-4500 ACTION: Juliana wrings out a clean linen cloth from the basin and tenderly dabs at the fresh cuts and abrasions on the back of Alexander's right hand.\nEP17:E32 2000-5000 CAMERA: Close-up of Juliana's bandaged hands delicately pressing the white cloth against Alexander's wounded knuckles.\nEP17:E33 2800-4700 JULIANA: \"You were bleeding last night.\"\nEP17:E34 5000-8500 CAMERA: Medium close-up showing Alexander gazing down at her, his expression softening with unspoken affection as he gently takes hold of her wrist.\nEP17:E35 6000-7300 ALEXANDER: \"So were you.\"\nEP17:E36 8500-11500 CAMERA: Close-up of Juliana looking up into his eyes, a faint, tender smile gracing her lips.\nEP17:E37 9000-11500 JULIANA: \"You make it very difficult to argue with you.\"\nEP17:E38 11500-14000 CAMERA: Close-up of Alexander ducking his chin, a subtle, bashful smile fleetingly touching his scarred face.\nEP17:E39 13500-16000 ACTION: Juliana returns the damp cloth to the ceramic basin, her expression turning somber and reflective.\nEP17:E40 14000-18500 CAMERA: Medium close-up of Juliana looking up at him, her vulnerability resurfacing in the warm amber glow.\nEP17:E41 16500-18000 JULIANA: \"I was frightened.\"\nEP17:E42 18500-20500 CAMERA: Close-up of Alexander, his brow furrowing with sudden concern.\nEP17:E43 18800-19800 ALEXANDER: \"Of them?\"\nEP17:E44 20500-23500 CAMERA: Close-up of Juliana gazing directly into his eyes, her heart laid bare.\nEP17:E45 20800-22200 JULIANA: \"Of losing you.\"\nEP17:E46 23500-26000 CAMERA: Close-up of Alexander visibly moved, his gaze softening with profound emotion.\nEP17:E47 26000-33500 CAMERA: Medium shot as Alexander stands and pulls Juliana gently to her feet against his broad chest.\nEP17:E48 26000-33500 ACTION: Juliana rests her cheek against Alexander's chest, closing her eyes as his strong arms wrap around her shoulders, holding her safe against his frame.\nEP17:E49 33500-38000 CAMERA: Close-up on their faces nestled together in the firelight, Alexander resting his bearded chin against her hair.\nEP17:E50 37000-41000 ACTION: Juliana nestles deeper into his coat, listening intently to the rapid thudding beneath his chest.\nEP17:E51 38500-40000 JULIANA: \"Your heart is racing.\"\nEP17:E52 40500-43500 CAMERA: Close-up of Alexander tilting his head down toward her, a tender smile breaking through his rugged beard.\nEP17:E53 41200-42500 ALEXANDER: \"So is yours.\"\nEP17:E54 43500-47500 CAMERA: Medium shot framing the couple embraced in front of the roaring, glowing fireplace.\nEP17:E55 46500-50000 ACTION: Juliana slowly raises her hand, gently twirling a lock of Alexander's long, unruly dark hair between her fingers.\nEP17:E56 47500-50000 CAMERA: Close-up of her delicate fingers running through his thick strands of hair.\nEP17:E57 48000-49800 JULIANA: \"This is becoming impossible.\"\nEP17:E58 50000-53000 CAMERA: Close-up of Juliana beaming up at him with affectionate humor.\nEP17:E59 50400-52500 JULIANA: \"Soon birds will start nesting in it.\"\nEP17:E60 53000-56000 CAMERA: Close-up of Alexander regarding her with a subtle, affectionate smirk.\nEP17:E61 53500-55200 ALEXANDER: \"They have not complained yet.\"\nEP17:E62 55500-57000 ACTION: Juliana lets out a quiet, melodic laugh.\nEP17:E63 56000-59200 CAMERA: Medium close-up as Juliana lifts her bandaged hand toward his beard playfully.\nEP17:E64 56500-59200 JULIANA: \"Then I shall have to save you from the birds.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "complete",
+  "output": {
+    "candidate_id": "c_c62897bc3307358a",
+    "hook": {
+      "score_0_10": 4.0,
+      "evidence_refs": [
+        "EP17:E33",
+        "EP17:E31"
+      ],
+      "reason": "The opening line 'You were bleeding last night' (EP17:E33, starting at 2800ms) raises a question about what happened, but the wound-tending setup is quiet and the stakes are not stated within the first 3000ms."
+    },
+    "cliffhanger": {
+      "score_0_10": 1.0,
+      "evidence_refs": [
+        "EP17:E63",
+        "EP17:E64"
+      ],
+      "reason": "The final 3000ms (EP17:E63, EP17:E64) is a playful, resolved exchange about birds nesting in his hair. No threat or question is left open, so the ending is not a cliffhanger.",
+      "unresolved_at_end": false
+    },
+    "standalone": {
+      "score_0_10": 3.0,
+      "missing_context": [
+        "Who 'them' refers to when Alexander asks 'Of them?' (EP17:E43)",
+        "What happened last night that left both characters bleeding",
+        "Why Juliana was frightened and what danger she means",
+        "Who Alexander and Juliana are and what their relationship history is",
+        "Why Alexander's scarred face and bearded appearance matter to the moment",
+        "The meaning of 'So were you' and 'Your heart is racing' as tied to a prior event"
+      ]
+    },
+    "emotion": {
+      "score_0_10": 7.0,
+      "reason": "The clip conveys warmth, vulnerability, and affection through the close framing, the shared fear of losing each other, and the light humor at the end."
+    },
+    "weaknesses": [
+      "The clip relies on an unexplained prior event (the night of bleeding and fear), so a first-time viewer cannot grasp the stakes.",
+      "The hook is a quiet domestic moment rather than a question or tension that compels continued viewing.",
+      "The ending is resolved and playful, offering no forward pull.",
+      "Repeated close-ups and dialogue exchanges about affection slow the pacing for a short clip.",
+      "'Them' in E43 has no referent within the clip."
+    ],
+    "one_line_why_it_works": "The clip builds intimacy through tender physical care, mirrored lines about fear and racing hearts, and a light closing joke that leaves a warm emotional tone."
+  }
+}

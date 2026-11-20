@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_6a8c2e2c4719bf06",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP38:E21",
+      "EP38:E23",
+      "EP38:E24"
+    ],
+    "reason": "The opening within 0-3000ms shows a tear-streaked, soot-marked woman chewing bread and speaking the name 'Alexander...' with visible distress, which creates immediate curiosity about who she is and what has happened."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP38:E33",
+      "EP38:E35"
+    ],
+    "reason": "The final 3000ms contain her last lines 'Keep him safe' and 'Wherever he is', which imply an unseen person and an uncertain separation. Her earlier claims that she may die and that she was condemned remain unexplained, so her situation is left open, but the closing beat is more a tearful farewell than a sharp suspense hook.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Who Alexander is and why she addresses him",
+      "What the condemnation refers to and who condemned her",
+      "What happened to her before this clip",
+      "Who 'he' is in 'Keep him safe'",
+      "Where she is and why she is confined beneath the grates"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Her tears, trembling hand, and repeated fears of dying and never seeing Alexander again convey strong grief and vulnerability, and the closing farewell lands emotionally even without context."
+  },
+  "weaknesses": [
+    "Without prior context the stakes and relationships are unclear to a first-time viewer",
+    "The fear of death is asserted but its cause is not shown, which weakens the immediacy",
+    "Repetitive lines of 'what if' and 'do you know' dilute momentum in the middle section",
+    "Clip relies on tears and dialogue without a clear visual event to anchor the emotional peak"
+  ],
+  "one_line_why_it_works": "A distressed woman's tearful, escalating pleas and closing farewell to someone named Alexander create strong emotion and an open question about her fate, even though the clip gives little standalone context."
+}

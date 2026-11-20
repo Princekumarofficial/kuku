@@ -1,0 +1,410 @@
+{
+  "ep_001": {
+    "opportunities": 4,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "PARTIAL_DIALOGUE": 800,
+      "DURATION_OUT_OF_RANGE": 2551
+    }
+  },
+  "ep_002": {
+    "opportunities": 6,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "REQUIRED_CONTEXT_OUTSIDE_CLIP": 3,
+      "DURATION_OUT_OF_RANGE": 1374,
+      "PARTIAL_DIALOGUE": 192
+    }
+  },
+  "ep_003": {
+    "opportunities": 4,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "PARTIAL_DIALOGUE": 2343,
+      "DURATION_OUT_OF_RANGE": 4894
+    }
+  },
+  "ep_004": {
+    "opportunities": 3,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "PARTIAL_DIALOGUE": 499,
+      "REQUIRED_CONTEXT_OUTSIDE_CLIP": 2,
+      "DURATION_OUT_OF_RANGE": 2349
+    }
+  },
+  "ep_005": {
+    "opportunities": 4,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "PARTIAL_DIALOGUE": 311,
+      "REQUIRED_CONTEXT_OUTSIDE_CLIP": 5,
+      "DURATION_OUT_OF_RANGE": 867
+    }
+  },
+  "ep_006": {
+    "opportunities": 4,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "PARTIAL_DIALOGUE": 2
+    }
+  },
+  "ep_007": {
+    "opportunities": 3,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "PARTIAL_DIALOGUE": 235,
+      "DURATION_OUT_OF_RANGE": 1498
+    }
+  },
+  "ep_008": {
+    "opportunities": 3,
+    "candidates": 4,
+    "rejected_windows_by_reason": {}
+  },
+  "ep_009": {
+    "opportunities": 3,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "PARTIAL_DIALOGUE": 223,
+      "REQUIRED_CONTEXT_OUTSIDE_CLIP": 2,
+      "DURATION_OUT_OF_RANGE": 156
+    }
+  },
+  "ep_010": {
+    "opportunities": 4,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "DURATION_OUT_OF_RANGE": 57,
+      "PARTIAL_DIALOGUE": 8
+    }
+  },
+  "ep_011": {
+    "opportunities": 4,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "PARTIAL_DIALOGUE": 2180,
+      "DURATION_OUT_OF_RANGE": 3217
+    }
+  },
+  "ep_012": {
+    "opportunities": 3,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "PARTIAL_DIALOGUE": 546,
+      "DURATION_OUT_OF_RANGE": 804
+    }
+  },
+  "ep_013": {
+    "opportunities": 6,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "REQUIRED_CONTEXT_OUTSIDE_CLIP": 4,
+      "PARTIAL_DIALOGUE": 252,
+      "DURATION_OUT_OF_RANGE": 939
+    }
+  },
+  "ep_014": {
+    "opportunities": 4,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "DURATION_OUT_OF_RANGE": 187,
+      "PARTIAL_DIALOGUE": 179
+    }
+  },
+  "ep_015": {
+    "opportunities": 4,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "DURATION_OUT_OF_RANGE": 357,
+      "PARTIAL_DIALOGUE": 145
+    }
+  },
+  "ep_016": {
+    "opportunities": 4,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "REQUIRED_CONTEXT_OUTSIDE_CLIP": 4,
+      "DURATION_OUT_OF_RANGE": 503,
+      "PARTIAL_DIALOGUE": 32
+    }
+  },
+  "ep_017": {
+    "opportunities": 4,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "PARTIAL_DIALOGUE": 168,
+      "REQUIRED_CONTEXT_OUTSIDE_CLIP": 9,
+      "DURATION_OUT_OF_RANGE": 588
+    }
+  },
+  "ep_018": {
+    "opportunities": 3,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "PARTIAL_DIALOGUE": 686,
+      "DURATION_OUT_OF_RANGE": 1511
+    }
+  },
+  "ep_019": {
+    "opportunities": 2,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "REQUIRED_CONTEXT_OUTSIDE_CLIP": 1,
+      "DURATION_OUT_OF_RANGE": 83,
+      "PARTIAL_DIALOGUE": 95
+    }
+  },
+  "ep_020": {
+    "opportunities": 4,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "REQUIRED_CONTEXT_OUTSIDE_CLIP": 10,
+      "PARTIAL_DIALOGUE": 144,
+      "DURATION_OUT_OF_RANGE": 269
+    }
+  },
+  "ep_021": {
+    "opportunities": 3,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "DURATION_OUT_OF_RANGE": 333,
+      "PARTIAL_DIALOGUE": 145
+    }
+  },
+  "ep_022": {
+    "opportunities": 2,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "DURATION_OUT_OF_RANGE": 19
+    }
+  },
+  "ep_023": {
+    "opportunities": 3,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "DURATION_OUT_OF_RANGE": 808,
+      "PARTIAL_DIALOGUE": 44
+    }
+  },
+  "ep_024": {
+    "opportunities": 4,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "PARTIAL_DIALOGUE": 256,
+      "DURATION_OUT_OF_RANGE": 1025
+    }
+  },
+  "ep_025": {
+    "opportunities": 3,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "PARTIAL_DIALOGUE": 505,
+      "DURATION_OUT_OF_RANGE": 2052
+    }
+  },
+  "ep_026": {
+    "opportunities": 3,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "DURATION_OUT_OF_RANGE": 109,
+      "PARTIAL_DIALOGUE": 18
+    }
+  },
+  "ep_027": {
+    "opportunities": 3,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "DURATION_OUT_OF_RANGE": 2735,
+      "PARTIAL_DIALOGUE": 385
+    }
+  },
+  "ep_028": {
+    "opportunities": 6,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "DURATION_OUT_OF_RANGE": 1613,
+      "PARTIAL_DIALOGUE": 513
+    }
+  },
+  "ep_029": {
+    "opportunities": 4,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "REQUIRED_CONTEXT_OUTSIDE_CLIP": 4,
+      "DURATION_OUT_OF_RANGE": 1139,
+      "PARTIAL_DIALOGUE": 71
+    }
+  },
+  "ep_030": {
+    "opportunities": 3,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "DURATION_OUT_OF_RANGE": 3150,
+      "PARTIAL_DIALOGUE": 61
+    }
+  },
+  "ep_031": {
+    "opportunities": 4,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "DURATION_OUT_OF_RANGE": 806,
+      "PARTIAL_DIALOGUE": 156
+    }
+  },
+  "ep_032": {
+    "opportunities": 3,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "PARTIAL_DIALOGUE": 1190,
+      "DURATION_OUT_OF_RANGE": 1369
+    }
+  },
+  "ep_033": {
+    "opportunities": 5,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "DURATION_OUT_OF_RANGE": 1943,
+      "PARTIAL_DIALOGUE": 230
+    }
+  },
+  "ep_034": {
+    "opportunities": 3,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "DURATION_OUT_OF_RANGE": 1972,
+      "PARTIAL_DIALOGUE": 227
+    }
+  },
+  "ep_035": {
+    "opportunities": 2,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "DURATION_OUT_OF_RANGE": 753,
+      "PARTIAL_DIALOGUE": 150
+    }
+  },
+  "ep_036": {
+    "opportunities": 5,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "REQUIRED_CONTEXT_OUTSIDE_CLIP": 9,
+      "DURATION_OUT_OF_RANGE": 4479,
+      "PARTIAL_DIALOGUE": 192
+    }
+  },
+  "ep_037": {
+    "opportunities": 4,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "PARTIAL_DIALOGUE": 125,
+      "DURATION_OUT_OF_RANGE": 1310
+    }
+  },
+  "ep_038": {
+    "opportunities": 3,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "DURATION_OUT_OF_RANGE": 412,
+      "PARTIAL_DIALOGUE": 145
+    }
+  },
+  "ep_039": {
+    "opportunities": 4,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "PARTIAL_DIALOGUE": 109,
+      "DURATION_OUT_OF_RANGE": 1032
+    }
+  },
+  "ep_040": {
+    "opportunities": 4,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "REQUIRED_CONTEXT_OUTSIDE_CLIP": 3,
+      "PARTIAL_DIALOGUE": 1,
+      "DURATION_OUT_OF_RANGE": 228
+    }
+  },
+  "ep_041": {
+    "opportunities": 3,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "DURATION_OUT_OF_RANGE": 764,
+      "PARTIAL_DIALOGUE": 55
+    }
+  },
+  "ep_042": {
+    "opportunities": 3,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "DURATION_OUT_OF_RANGE": 109,
+      "PARTIAL_DIALOGUE": 52
+    }
+  },
+  "ep_043": {
+    "opportunities": 5,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "REQUIRED_CONTEXT_OUTSIDE_CLIP": 2,
+      "DURATION_OUT_OF_RANGE": 1928,
+      "PARTIAL_DIALOGUE": 965
+    }
+  },
+  "ep_044": {
+    "opportunities": 5,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "DURATION_OUT_OF_RANGE": 544,
+      "PARTIAL_DIALOGUE": 142
+    }
+  },
+  "ep_045": {
+    "opportunities": 5,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "REQUIRED_CONTEXT_OUTSIDE_CLIP": 8,
+      "PARTIAL_DIALOGUE": 511,
+      "DURATION_OUT_OF_RANGE": 879
+    }
+  },
+  "ep_046": {
+    "opportunities": 4,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "DURATION_OUT_OF_RANGE": 1140,
+      "PARTIAL_DIALOGUE": 327
+    }
+  },
+  "ep_047": {
+    "opportunities": 3,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "DURATION_OUT_OF_RANGE": 645
+    }
+  },
+  "ep_048": {
+    "opportunities": 3,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "REQUIRED_CONTEXT_OUTSIDE_CLIP": 1,
+      "DURATION_OUT_OF_RANGE": 620,
+      "PARTIAL_DIALOGUE": 151
+    }
+  },
+  "ep_049": {
+    "opportunities": 3,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "DURATION_OUT_OF_RANGE": 521,
+      "PARTIAL_DIALOGUE": 40
+    }
+  },
+  "ep_050": {
+    "opportunities": 3,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "DURATION_OUT_OF_RANGE": 140
+    }
+  }
+}

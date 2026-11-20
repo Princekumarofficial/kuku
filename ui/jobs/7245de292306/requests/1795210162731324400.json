@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_1a7dba607b251bd5 DURATION_MS=23000\nSEGMENT 1 (playback order)\nEP37:E51 0-2000 CAMERA: Close-up on Juliana's bruised hand, locked in a heavy iron shackle chained to the wall, trembling as she hesitates inches away from a dirty earthen bowl filled with murky liquid.\nEP37:E52 0-2000 ACTION: Juliana curls her fingers back, pulling away from the foul sustenance in defiance.\nEP37:E53 2000-7000 CAMERA: Tight close-up of Juliana's dirty, tear-stained face. Her eyes squeeze shut as tears stream down her cheeks from overwhelming physical agony and hunger.\nEP37:E54 2500-6000 JULIANA: \"They think hunger will make me surrender.\"\nEP37:E55 7000-10000 CAMERA: Extreme close-up of Juliana's blue eyes snapping open, blazing with unyielding defiance.\nEP37:E56 7300-9700 JULIANA: \"They think fear will make me beg.\"\nEP37:E57 10000-15000 CAMERA: Full shot of Juliana using her bare hands against the slimy stone floor to drag herself upright to her knees, chains rattling loudly.\nEP37:E58 10500-13500 SOUND: The harsh scrape and clatter of heavy iron chains dragging across wet stone.\nEP37:E59 12000-14300 JULIANA: \"I will not!\"\nEP37:E60 15000-20000 CAMERA: Low-angle shot looking up at Juliana as she thrusts her chin high toward the iron ceiling grate, bathed in cold shafts of light.\nEP37:E61 15500-19000 JULIANA: \"They can take my name. They can take my home.\"\nEP37:E62 20000-23000 CAMERA: Tight close-up of Juliana's iron-shackled hand reaching out and gripping the massive iron ring anchored into the dungeon pillar with crushing determination.\nEP37:E63 20100-22700 JULIANA: \"They cannot take who I am!\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

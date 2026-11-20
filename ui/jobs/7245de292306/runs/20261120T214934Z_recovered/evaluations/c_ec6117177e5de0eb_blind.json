@@ -1,0 +1,44 @@
+{
+  "candidate_id": "c_ec6117177e5de0eb",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP39:E36",
+      "EP39:E40",
+      "EP39:E41"
+    ],
+    "reason": "The opening shear sounds and the grooming shot draw attention, and the spoken line 'Enough hiding.' at 2200-3000ms gives a strong early promise of a dramatic reversal. The hook is strong but depends on the viewer accepting a 'buried' identity that is not explained in the clip."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP39:E58",
+      "EP39:E57",
+      "EP39:E59"
+    ],
+    "reason": "The clip ends on the declaration 'And I am bringing my wife home' followed by a sharp cut to black, which leaves the stated goal of retrieving his wife unfulfilled. It reads more as a dramatic declaration than a true cliffhanger, since the clip contains no visible threat or revelation at its end.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Who Alexander Ashwin is and why he was buried three years ago",
+      "Who the wife is and why she is absent or needs bringing home",
+      "What the chapel is and why the loyalist must secure it",
+      "Why Alexander's house was taken and who holds it",
+      "The meaning of his ducal title and the political situation",
+      "The source of the combat scar and reclaimed power"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The shots of reclaimed power, the scarred face, the cold resolve, and the emotional declaration about his wife create strong determination and intensity, although the emotional stakes are not grounded in shown history."
+  },
+  "weaknesses": [
+    "Heavy reliance on unexplained backstory such as the burial, the house, and the wife",
+    "The chapel's significance is never established before the soldier is ordered to secure it",
+    "The ending line about the wife lands without visible personal stakes shown in the clip",
+    "Dialogue-heavy declarations may feel expository to a viewer with no prior context"
+  ],
+  "one_line_why_it_works": "A visually polished reclaiming-of-power sequence with a defiant escalation of spoken declarations that ends on a stated personal goal and a hard cut to black."
+}

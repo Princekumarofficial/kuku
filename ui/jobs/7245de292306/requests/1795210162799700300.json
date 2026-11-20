@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_10693ed7c7cf2c82 DURATION_MS=52600\nSEGMENT 1 (playback order)\nEP39:E18 0-2800 CAMERA: Medium two-shot of the royal sentry stepping forward and extending a white-gloved hand to halt the cart.\nEP39:E19 200-1000 ROYAL SENTRY: \"Stop!\"\nEP39:E20 1200-2800 CART DRIVER: \"Firewood for the kitchens, sir.\"\nEP39:E21 2800-6900 CAMERA: Fast dynamic medium shot as the cart driver suddenly lunges off the wooden bench.\nEP39:E22 3200-6900 ACTION: The driver leaps off the cart, striking the sentry across the chest, seizing his neck, and tackling him violently against the wooden carriage wheel.\nEP39:E23 3500-6400 SOUND: Dull physical thuds and scuffling boots on wet stone as the guard groans in surprise.\nEP39:E24 6900-13200 CAMERA: Medium close-up as a second loyalist emerges from behind the doorway, wrapping his arms around the remaining royal guard's throat from behind.\nEP39:E25 7400-12900 ACTION: The loyalist locks the sentry into a tight sleeper hold, clamping a hand firmly over his mouth until his eyes roll back and he goes limp.\nEP39:E26 11400-12600 LOYALIST FIGHTER: \"Sleep.\"\nEP39:E27 13200-17200 CAMERA: Wide high-angle shot overlooking the stone cathedral steps where both royal guards lie unconscious on the fallen autumn leaves while more men slip inside the opened doors.\nEP39:E28 17200-20400 CAMERA: Medium low-angle shot of the two loyalist fighters looking up into the overcast sky outside the stone sanctuary.\nEP39:E29 17400-18500 CART DRIVER: \"The road is clear.\"\nEP39:E30 18600-19600 LOYALIST FIGHTER: \"Tell the Duke.\"\nEP39:E31 20400-23200 CAMERA: Close-up framed into a cracked wooden wall mirror reflecting Alexander with long unkempt hair, a thick beard, and combat scars across his cheek.\nEP39:E32 20400-23200 ACTION: Alexander stares solemnly at his rugged reflection, his expression dark and resolute.\nEP39:E33 23200-26200 CAMERA: Tilt-down medium close-up over a wooden table displaying a pristine navy-and-gold embroidered ducal uniform, ornate lion crest brooch, white cravat, razor, and scissors.\nEP39:E34 26200-30200 CAMERA: Medium profile shot of Alexander lifting the metal shears beside the window light, raising them toward his hair.\nEP39:E35 26900-30200 ACTION: Alexander snips through his overgrown locks, shedding the years of exile and camouflage.\nEP39:E36 27600-31200 SOUND: Rhythmic, metallic snips of heavy shears cutting through thick hair.\nEP39:E37 30200-31600 CAMERA: Medium shot as Alexander trims his beard at the jawline.\nEP39:E38 31600-37000 CAMERA: Medium shot framed in the mirror of Alexander now handsomely groomed, his trimmed beard framing his fierce, scarred features.\nEP39:E40 32400-33200 ALEXANDER: \"Enough hiding.\"\nEP39:E39 32400-37000 ACTION: Alexander lightly traces the jagged combat scar across his cheek, eyes burning with reclaimed power.\nEP39:E41 33400-35900 ALEXANDER: \"They buried Alexander Ashwin three years ago.\"\nEP39:E42 36000-37300 ALEXANDER: \"Today, he comes home.\"\nEP39:E43 37000-38900 CAMERA: Medium shot of Alexander lifting his royal navy-blue embroidered ducal coat from the wooden bench.\nEP39:E44 38900-42200 CAMERA: Wide tracking shot through double wooden barn doors opening outward onto a vast, snow-covered landscape as Alexander steps forward into the light.\nEP39:E45 38900-42200 ACTION: Alexander emerges in full ducal splendor—dressed in an immaculate navy tailcoat lined with gold embroidery, double-breasted brass buttons, and a crisp white cravat.\nEP39:E46 42200-45200 CAMERA: Extreme close-up of Alexander's hand adjusting the ornate golden lion crest pinned at his cravat.\nEP39:E47 45200-48200 CAMERA: Medium low-angle shot as a loyalist soldier drops down onto one knee before him in the snow.\nEP39:E48 46200-47600 LOYALIST: \"Your Grace.\"\nEP39:E49 48200-52600 CAMERA: Close-up profile of Alexander, his breath pluming in the winter cold, his eyes hardened like steel.\nEP39:E50 50900-52600 ALEXANDER: \"Secure the chapel.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

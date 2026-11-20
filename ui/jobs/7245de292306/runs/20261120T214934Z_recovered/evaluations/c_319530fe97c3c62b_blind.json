@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_319530fe97c3c62b",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP27:E38",
+      "EP27:E39",
+      "EP27:E41"
+    ],
+    "reason": "Opens within 0-3000ms with a pointed finger and the immediate demand 'Show me your hand.' followed by a confrontation about a hidden object, creating instant tension. The hook evidence is within the opening window as required."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP27:E76",
+      "EP27:E77"
+    ],
+    "reason": "The final 3000ms reveal 'Someone has been poisoning Her Grace' within the closing window, which escalates the accusation after the Nobleman's 'Poison.' Juliana's fate and the reaction to the accusation are not shown, so the scene ends on an open threat.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Identity and role of the Duchess and her relationship to the characters",
+      "Why Juliana is considered a new maid and what house rules apply",
+      "What the amber dropper bottle contains and why it matters beyond the dialogue",
+      "Who the Blond Nobleman is and his authority in the household",
+      "Why the physicians' treatment is being questioned and what 'dying' means in this setting"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Sustained confrontation with escalating accusations, a raised voice from Juliana, cold calculated malice from the Nobleman, and a grim closing line create strong tension and unease."
+  },
+  "weaknesses": [
+    "Requires significant unseen background to understand the stakes and relationships",
+    "The accusation's consequences are not shown, so the outcome feels open rather than dramatically resolved",
+    "Several character roles are inferred only from dialogue and framing",
+    "Dense back-and-forth dialogue may be hard to follow without prior knowledge"
+  ],
+  "one_line_why_it_works": "A tense interrogation over a hidden bottle escalates from 'Show me your hand' to the chilling reveal that someone is poisoning the Duchess, leaving the threat unresolved at the end."
+}

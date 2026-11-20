@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_046f76ba91ab2b38",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP07:E19",
+      "EP07:E21",
+      "EP07:E22"
+    ],
+    "reason": "The opening starts within 0-3000ms with a tense visual of Juliana's dignified stance and Gerald's tightening jaw, followed by his sharp line 'You were born a lady.' This creates immediate friction, but without knowing the stakes the hook is only moderately gripping."
+  },
+  "cliffhanger": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP07:E31",
+      "EP07:E32",
+      "EP07:E33"
+    ],
+    "reason": "The clip ends within the final 3000ms on Gerald's threat 'I have enough influence to make a beggar disappear' and then the open question 'And your husband?' No resolution is shown, so the threat and question remain hanging at the cut.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Identity and relationship of Gerald to Juliana",
+      "Who the 'scarred beggar' is and why Juliana chose him",
+      "Identity of the Aristocratic Woman and her role in the confrontation",
+      "Why the courtyard confrontation matters and what is at stake",
+      "Who 'your husband' refers to and why Gerald's question is threatening"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "The clip builds strong tension through Juliana's contempt and pride, Gerald's escalating aggression and pointing finger, and the veiled threat at the end. The emotional intensity is high even without prior context."
+  },
+  "weaknesses": [
+    "Characters and their relationships are unexplained to a first-time viewer",
+    "The closing question's referent is unclear, which weakens its impact for someone without prior context",
+    "The setting and stakes are only partly conveyed by the visuals",
+    "Dialogue-heavy confrontation may feel abrupt without an establishing beat"
+  ],
+  "one_line_why_it_works": "Escalating face-to-face defiance culminates in a threatening question that ends unresolved, leaving the viewer tense about what Gerald will do next."
+}

@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_b2303a2e34352c2b",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP43:E45",
+      "EP43:E47",
+      "EP43:E48"
+    ],
+    "reason": "The clip opens within the first 500ms on Rupert's terrified close-up, and by 2000-3500ms Alexander's demand \"Read the names.\" signals a public accusation, which creates immediate tension for a first-time viewer."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP43:E66",
+      "EP43:E65"
+    ],
+    "reason": "The clip ends during the opening of the red wax seal, so the contents of the document remain unrevealed. The accusation against Rupert is also still unfolding, which leaves the outcome open. The ending is a moment of suspense rather than a fully resolved scene.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Identity and role of Alexander and what 'my title' refers to",
+      "Meaning of the secondary dossier and the red-ribboned war document",
+      "What the 'men sold to the enemy' accusation is based on",
+      "Role of the Crown Official and the significance of the names being read",
+      "Relationship between Rupert, Lord Sterling and the Dowager Duchess"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Terror, shock and fury are conveyed through close-ups, hyperventilation, a gasp and a scarred furious face, and the public setting heightens the stakes even without background."
+  },
+  "weaknesses": [
+    "Heavy reliance on unexplained names and documents leaves a first-time viewer without grounding",
+    "The accusation 'You sold my men to the enemy' lacks any shown evidence, so Rupert's denial reads as ambiguous",
+    "The clip ends before the document is revealed, so the payoff of the build-up is withheld",
+    "Unexplained title and wartime backstory limit emotional investment beyond surface intensity"
+  ],
+  "one_line_why_it_works": "A public reading of names builds rising dread that peaks in Rupert's terror and Alexander's fury, and the clip ends on an unopened seal that leaves the revelation pending."
+}

@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_123dd766f28ea6d1 DURATION_MS=22700\nSEGMENT 1 (playback order)\nEP05:E29 0-2200 CAMERA: Close-up of Lady Ashcroft laying a jeweled hand firmly on the bound book.\nEP05:E30 200-2200 LADY ASHCROFT: \"Then you should have guarded it better.\"\nEP05:E31 2200-6000 CAMERA: Close-up on the ledger as Lady Ashcroft violently wrenches it out of Juliana's grip.\nEP05:E32 2700-5700 ACTION: Lady Ashcroft snatches the heavy book away and flings it disdainfully into the rain-soaked courtyard.\nEP05:E33 3700-5000 JULIANA: \"Barbara, don't!\"\nEP05:E34 5200-6400 SOUND: A heavy wet slap as the leather-bound book crashes into the puddle-slicked stone pavement.\nEP05:E35 6000-11200 CAMERA: Medium shot of Clarissa and Gerald standing together on the cathedral steps. Clarissa clasps a gloved hand to her mouth in mock shock before bursting into gleeful laughter.\nEP05:E36 7200-10700 CLARISSA: \"Even your mother's precious legacy has been cast into the dirt!\"\nEP05:E37 10600-12800 GERALD: \"Perhaps that is where it belongs.\"\nEP05:E38 11200-14700 CAMERA: Close-up of Juliana looking down at the ground, tears streaming down her pale cheeks.\nEP05:E39 13700-16700 ACTION: Juliana drops to her knees onto the wet courtyard pavement, oblivious to the dirt soaking through her white bridal gown.\nEP05:E40 14700-17200 CAMERA: Low-angle close-up of Juliana's trembling hand reaching toward the leather ledger resting in the puddle.\nEP05:E41 17200-20700 CAMERA: Wide shot of Juliana kneeling on the damp ground as the tall Mysterious Bearded Man strides purposefully into frame toward her.\nEP05:E42 18700-22700 ACTION: The Mysterious Bearded Man bends his knees and kneels down beside Juliana, extending his scarred hand to retrieve the fallen ledger.",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

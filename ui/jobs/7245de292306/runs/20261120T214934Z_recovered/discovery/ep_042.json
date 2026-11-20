@@ -1,0 +1,55 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "opp_1",
+      "episode_id": "ep_042",
+      "concept": "Rupert orders the guards to arrest the imposter and the royal guard refuses, through the mother's public proclamation of Alexander as rightful Duke, ending on Alexander's vow to settle what Rupert stole.",
+      "hook_refs": [
+        "EP42:E10"
+      ],
+      "ending_refs": [
+        "EP42:E37"
+      ],
+      "context_refs": [
+        "EP42:E12",
+        "EP42:E17",
+        "EP42:E34"
+      ],
+      "why_promising": "A 59.5-second span from 18000 to 77500 ms opens on a direct command, builds through defiance and recognition, and closes on an unresolved threat against Rupert. It stays within the continuous 12800-77800 ms coverage."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_2",
+      "episode_id": "ep_042",
+      "concept": "Alexander advances on Rupert with the line 'That is the lie you built your life upon,' then his mother embraces him and proclaims him the rightful Duke, ending on his vow of retribution.",
+      "hook_refs": [
+        "EP42:E23"
+      ],
+      "ending_refs": [
+        "EP42:E37"
+      ],
+      "context_refs": [
+        "EP42:E34"
+      ],
+      "why_promising": "A 43.5-second span from 34000 to 77500 ms starts on a strong confrontational line and reaches a payoff in the mother's proclamation before the unresolved vow. Both anchors and the proclamation lie within the 12800-77800 ms coverage."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_3",
+      "episode_id": "ep_042",
+      "concept": "Alexander answers 'You already know' to the blond nobleman, and the clip runs through Rupert's demand for arrest and guard defiance to Rupert's denial that Alexander died.",
+      "hook_refs": [
+        "EP42:E4"
+      ],
+      "ending_refs": [
+        "EP42:E21"
+      ],
+      "context_refs": [
+        "EP42:E10",
+        "EP42:E12"
+      ],
+      "why_promising": "A 21-second span from 12800 to 33800 ms opens on a challenging line and ends on a shocked denial that leaves the question of Alexander's survival open. It stays within the 12800-77800 ms coverage and does not depend on the gap-adjacent 11200-12600 ms segment."
+    }
+  ]
+}

@@ -1,0 +1,782 @@
+[
+  {
+    "candidate_id": "c_e7a458039f4f2bd7",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 11200,
+        "end_ms": 34500,
+        "episode_id": "ep_036"
+      }
+    ],
+    "duration_ms": 23300,
+    "origin": "opp_1",
+    "clip_events": [
+      {
+        "ref": "EP36:E6",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up on Alexander's mother, her hood framing her pale, weathered face as shock deepens across her features."
+      },
+      {
+        "ref": "EP36:E8",
+        "segment_index": 0,
+        "relative_start_ms": 1600,
+        "relative_end_ms": 6300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Side profile shot of Alexander gazing toward the open doorway before slowly turning back to face his mother directly."
+      },
+      {
+        "ref": "EP36:E9",
+        "segment_index": 0,
+        "relative_start_ms": 2300,
+        "relative_end_ms": 5800,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Sterling... and Rupert.\""
+      },
+      {
+        "ref": "EP36:E10",
+        "segment_index": 0,
+        "relative_start_ms": 6300,
+        "relative_end_ms": 9600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up on Alexander's mother as her breath hitches and her eyes widen in pure horror."
+      },
+      {
+        "ref": "EP36:E11",
+        "segment_index": 0,
+        "relative_start_ms": 6400,
+        "relative_end_ms": 8600,
+        "type": "dialogue",
+        "speaker": "ALEXANDER'S MOTHER",
+        "text": "\"Rupert?\""
+      },
+      {
+        "ref": "EP36:E12",
+        "segment_index": 0,
+        "relative_start_ms": 9600,
+        "relative_end_ms": 12400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot of the wooden cabin interior. Alexander stands upright opposite his mother across the lantern-lit map."
+      },
+      {
+        "ref": "EP36:E13",
+        "segment_index": 0,
+        "relative_start_ms": 9800,
+        "relative_end_ms": 12300,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"They knew where I was.\""
+      },
+      {
+        "ref": "EP36:E14",
+        "segment_index": 0,
+        "relative_start_ms": 12400,
+        "relative_end_ms": 17800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Alexander leaning over the table, his eyes locked onto his mother as suppressed rage surfaces."
+      },
+      {
+        "ref": "EP36:E15",
+        "segment_index": 0,
+        "relative_start_ms": 12500,
+        "relative_end_ms": 17600,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"My position was leaked to the French... before I could expose what I had discovered.\""
+      },
+      {
+        "ref": "EP36:E16",
+        "segment_index": 0,
+        "relative_start_ms": 17800,
+        "relative_end_ms": 20700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander's mother clutching the collar of her dark cloak, her chest heaving with agony."
+      },
+      {
+        "ref": "EP36:E17",
+        "segment_index": 0,
+        "relative_start_ms": 18000,
+        "relative_end_ms": 20500,
+        "type": "dialogue",
+        "speaker": "ALEXANDER'S MOTHER",
+        "text": "\"They gave you to the enemy?\""
+      },
+      {
+        "ref": "EP36:E18",
+        "segment_index": 0,
+        "relative_start_ms": 20700,
+        "relative_end_ms": 23300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Alexander straightening his posture, his jaw set hard."
+      },
+      {
+        "ref": "EP36:E19",
+        "segment_index": 0,
+        "relative_start_ms": 20800,
+        "relative_end_ms": 23300,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"They gave them my location.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_3b23ee8710d9a1b1",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 20800,
+        "end_ms": 51800,
+        "episode_id": "ep_036"
+      }
+    ],
+    "duration_ms": 31000,
+    "origin": "opp_2",
+    "clip_events": [
+      {
+        "ref": "EP36:E12",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot of the wooden cabin interior. Alexander stands upright opposite his mother across the lantern-lit map."
+      },
+      {
+        "ref": "EP36:E13",
+        "segment_index": 0,
+        "relative_start_ms": 200,
+        "relative_end_ms": 2700,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"They knew where I was.\""
+      },
+      {
+        "ref": "EP36:E14",
+        "segment_index": 0,
+        "relative_start_ms": 2800,
+        "relative_end_ms": 8200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Alexander leaning over the table, his eyes locked onto his mother as suppressed rage surfaces."
+      },
+      {
+        "ref": "EP36:E15",
+        "segment_index": 0,
+        "relative_start_ms": 2900,
+        "relative_end_ms": 8000,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"My position was leaked to the French... before I could expose what I had discovered.\""
+      },
+      {
+        "ref": "EP36:E16",
+        "segment_index": 0,
+        "relative_start_ms": 8200,
+        "relative_end_ms": 11100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander's mother clutching the collar of her dark cloak, her chest heaving with agony."
+      },
+      {
+        "ref": "EP36:E17",
+        "segment_index": 0,
+        "relative_start_ms": 8400,
+        "relative_end_ms": 10900,
+        "type": "dialogue",
+        "speaker": "ALEXANDER'S MOTHER",
+        "text": "\"They gave you to the enemy?\""
+      },
+      {
+        "ref": "EP36:E18",
+        "segment_index": 0,
+        "relative_start_ms": 11100,
+        "relative_end_ms": 15000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Alexander straightening his posture, his jaw set hard."
+      },
+      {
+        "ref": "EP36:E19",
+        "segment_index": 0,
+        "relative_start_ms": 11200,
+        "relative_end_ms": 13700,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"They gave them my location.\""
+      },
+      {
+        "ref": "EP36:E20",
+        "segment_index": 0,
+        "relative_start_ms": 15000,
+        "relative_end_ms": 18100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up on Alexander's eyes and scarred cheek, teeth bared in contempt."
+      },
+      {
+        "ref": "EP36:E21",
+        "segment_index": 0,
+        "relative_start_ms": 15400,
+        "relative_end_ms": 17900,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"They wanted the investigation buried.\""
+      },
+      {
+        "ref": "EP36:E22",
+        "segment_index": 0,
+        "relative_start_ms": 18100,
+        "relative_end_ms": 20700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Alexander's mother leaning over the map, her voice cracking."
+      },
+      {
+        "ref": "EP36:E23",
+        "segment_index": 0,
+        "relative_start_ms": 18300,
+        "relative_end_ms": 20600,
+        "type": "dialogue",
+        "speaker": "ALEXANDER'S MOTHER",
+        "text": "\"And when you disappeared...?\""
+      },
+      {
+        "ref": "EP36:E24",
+        "segment_index": 0,
+        "relative_start_ms": 20700,
+        "relative_end_ms": 24000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Alexander, his voice low and cutting."
+      },
+      {
+        "ref": "EP36:E25",
+        "segment_index": 0,
+        "relative_start_ms": 20800,
+        "relative_end_ms": 22900,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"They declared me dead.\""
+      },
+      {
+        "ref": "EP36:E26",
+        "segment_index": 0,
+        "relative_start_ms": 24000,
+        "relative_end_ms": 28000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot from the side of the wooden table as his mother brings both hands up to cover her mouth in overwhelmed grief."
+      },
+      {
+        "ref": "EP36:E27",
+        "segment_index": 0,
+        "relative_start_ms": 24500,
+        "relative_end_ms": 27700,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"They falsified what remained of the reports.\""
+      },
+      {
+        "ref": "EP36:E28",
+        "segment_index": 0,
+        "relative_start_ms": 24500,
+        "relative_end_ms": 28000,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander's mother presses her trembling hands against her lips, tears brimming in her eyes."
+      },
+      {
+        "ref": "EP36:E29",
+        "segment_index": 0,
+        "relative_start_ms": 28000,
+        "relative_end_ms": 31000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up on his mother weeping openly, her ring catching the warm lamplight as she lowers her hand to her heart."
+      },
+      {
+        "ref": "EP36:E30",
+        "segment_index": 0,
+        "relative_start_ms": 28200,
+        "relative_end_ms": 31000,
+        "type": "dialogue",
+        "speaker": "ALEXANDER'S MOTHER",
+        "text": "\"And Rupert took Ashbourne.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_2124e53183c80ee0",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 72100,
+        "end_ms": 109800,
+        "episode_id": "ep_036"
+      }
+    ],
+    "duration_ms": 37700,
+    "origin": "opp_3",
+    "clip_events": [
+      {
+        "ref": "EP36:E43",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Alexander steps back toward the table, leaning in urgently toward his mother."
+      },
+      {
+        "ref": "EP36:E44",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2600,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Mother... Juliana...\""
+      },
+      {
+        "ref": "EP36:E45",
+        "segment_index": 0,
+        "relative_start_ms": 2700,
+        "relative_end_ms": 6100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up on Alexander leaning both hands on the table, desperate for answers."
+      },
+      {
+        "ref": "EP36:E46",
+        "segment_index": 0,
+        "relative_start_ms": 2800,
+        "relative_end_ms": 6000,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"She went into Ashbourne Manor to save you. She never came back.\""
+      },
+      {
+        "ref": "EP36:E47",
+        "segment_index": 0,
+        "relative_start_ms": 6100,
+        "relative_end_ms": 9700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up on Alexander's strained, furrowed brow."
+      },
+      {
+        "ref": "EP36:E48",
+        "segment_index": 0,
+        "relative_start_ms": 6700,
+        "relative_end_ms": 9600,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"I thought perhaps she stayed with you.\""
+      },
+      {
+        "ref": "EP36:E49",
+        "segment_index": 0,
+        "relative_start_ms": 9700,
+        "relative_end_ms": 11900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of his mother looking up at him, agony and hesitation washing over her face."
+      },
+      {
+        "ref": "EP36:E50",
+        "segment_index": 0,
+        "relative_start_ms": 9900,
+        "relative_end_ms": 11700,
+        "type": "dialogue",
+        "speaker": "ALEXANDER'S MOTHER",
+        "text": "\"Alexander...\""
+      },
+      {
+        "ref": "EP36:E51",
+        "segment_index": 0,
+        "relative_start_ms": 11900,
+        "relative_end_ms": 14400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Quick push-in close-up on Alexander, his eyes snapping open in sudden panic."
+      },
+      {
+        "ref": "EP36:E52",
+        "segment_index": 0,
+        "relative_start_ms": 12300,
+        "relative_end_ms": 13400,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"What?\""
+      },
+      {
+        "ref": "EP36:E53",
+        "segment_index": 0,
+        "relative_start_ms": 14400,
+        "relative_end_ms": 17900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on his mother, tears shining in the amber lamplight."
+      },
+      {
+        "ref": "EP36:E54",
+        "segment_index": 0,
+        "relative_start_ms": 15100,
+        "relative_end_ms": 17700,
+        "type": "dialogue",
+        "speaker": "ALEXANDER'S MOTHER",
+        "text": "\"She did come to me.\""
+      },
+      {
+        "ref": "EP36:E55",
+        "segment_index": 0,
+        "relative_start_ms": 17900,
+        "relative_end_ms": 21100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot as Alexander bends over the table, crowding his mother with fierce desperation."
+      },
+      {
+        "ref": "EP36:E56",
+        "segment_index": 0,
+        "relative_start_ms": 18900,
+        "relative_end_ms": 21000,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Is she still at Ashbourne?\""
+      },
+      {
+        "ref": "EP36:E57",
+        "segment_index": 0,
+        "relative_start_ms": 21100,
+        "relative_end_ms": 24400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Alexander's mother shutting her eyes and weeping, shaking her head in deep anguish."
+      },
+      {
+        "ref": "EP36:E58",
+        "segment_index": 0,
+        "relative_start_ms": 21400,
+        "relative_end_ms": 23700,
+        "type": "dialogue",
+        "speaker": "ALEXANDER'S MOTHER",
+        "text": "\"No...\""
+      },
+      {
+        "ref": "EP36:E59",
+        "segment_index": 0,
+        "relative_start_ms": 24400,
+        "relative_end_ms": 26900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as Alexander towers over her, his breathing turning ragged."
+      },
+      {
+        "ref": "EP36:E60",
+        "segment_index": 0,
+        "relative_start_ms": 24700,
+        "relative_end_ms": 26400,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Then where is she?\""
+      },
+      {
+        "ref": "EP36:E61",
+        "segment_index": 0,
+        "relative_start_ms": 26900,
+        "relative_end_ms": 31400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up on Alexander's mother crying out in wretched guilt and horror."
+      },
+      {
+        "ref": "EP36:E62",
+        "segment_index": 0,
+        "relative_start_ms": 27400,
+        "relative_end_ms": 31100,
+        "type": "dialogue",
+        "speaker": "ALEXANDER'S MOTHER",
+        "text": "\"They arrested her!\""
+      },
+      {
+        "ref": "EP36:E63",
+        "segment_index": 0,
+        "relative_start_ms": 31400,
+        "relative_end_ms": 33700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Alexander, his expression freezing in complete shock."
+      },
+      {
+        "ref": "EP36:E64",
+        "segment_index": 0,
+        "relative_start_ms": 31900,
+        "relative_end_ms": 33400,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Arrested?\""
+      },
+      {
+        "ref": "EP36:E65",
+        "segment_index": 0,
+        "relative_start_ms": 33700,
+        "relative_end_ms": 37700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up as his mother clutches Alexander's forearms with desperate, pleading hands."
+      },
+      {
+        "ref": "EP36:E66",
+        "segment_index": 0,
+        "relative_start_ms": 33800,
+        "relative_end_ms": 37700,
+        "type": "dialogue",
+        "speaker": "ALEXANDER'S MOTHER",
+        "text": "\"Rupert and Catherine accused her of poisoning me!\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_da374667ed694c0d",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 103200,
+        "end_ms": 138800,
+        "episode_id": "ep_036"
+      }
+    ],
+    "duration_ms": 35600,
+    "origin": "opp_4",
+    "clip_events": [
+      {
+        "ref": "EP36:E61",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up on Alexander's mother crying out in wretched guilt and horror."
+      },
+      {
+        "ref": "EP36:E63",
+        "segment_index": 0,
+        "relative_start_ms": 300,
+        "relative_end_ms": 2600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Alexander, his expression freezing in complete shock."
+      },
+      {
+        "ref": "EP36:E64",
+        "segment_index": 0,
+        "relative_start_ms": 800,
+        "relative_end_ms": 2300,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Arrested?\""
+      },
+      {
+        "ref": "EP36:E65",
+        "segment_index": 0,
+        "relative_start_ms": 2600,
+        "relative_end_ms": 6800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up as his mother clutches Alexander's forearms with desperate, pleading hands."
+      },
+      {
+        "ref": "EP36:E66",
+        "segment_index": 0,
+        "relative_start_ms": 2700,
+        "relative_end_ms": 6600,
+        "type": "dialogue",
+        "speaker": "ALEXANDER'S MOTHER",
+        "text": "\"Rupert and Catherine accused her of poisoning me!\""
+      },
+      {
+        "ref": "EP36:E67",
+        "segment_index": 0,
+        "relative_start_ms": 6800,
+        "relative_end_ms": 10800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Alexander, absolute fury erupting across his scarred face."
+      },
+      {
+        "ref": "EP36:E68",
+        "segment_index": 0,
+        "relative_start_ms": 8600,
+        "relative_end_ms": 10600,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"But she saved you!\""
+      },
+      {
+        "ref": "EP36:E69",
+        "segment_index": 0,
+        "relative_start_ms": 10800,
+        "relative_end_ms": 13800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on his mother, clutching her chest in grief."
+      },
+      {
+        "ref": "EP36:E70",
+        "segment_index": 0,
+        "relative_start_ms": 11000,
+        "relative_end_ms": 13300,
+        "type": "dialogue",
+        "speaker": "ALEXANDER'S MOTHER",
+        "text": "\"I told them!\""
+      },
+      {
+        "ref": "EP36:E71",
+        "segment_index": 0,
+        "relative_start_ms": 13800,
+        "relative_end_ms": 16300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Alexander clenching his fists at his sides, trembling with rage."
+      },
+      {
+        "ref": "EP36:E72",
+        "segment_index": 0,
+        "relative_start_ms": 14300,
+        "relative_end_ms": 16100,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"You told them the truth!\""
+      },
+      {
+        "ref": "EP36:E73",
+        "segment_index": 0,
+        "relative_start_ms": 16300,
+        "relative_end_ms": 19800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on his mother as she cries out, devastated by the memory of the kangaroo court."
+      },
+      {
+        "ref": "EP36:E74",
+        "segment_index": 0,
+        "relative_start_ms": 16600,
+        "relative_end_ms": 19300,
+        "type": "dialogue",
+        "speaker": "ALEXANDER'S MOTHER",
+        "text": "\"They called her a witch!\""
+      },
+      {
+        "ref": "EP36:E75",
+        "segment_index": 0,
+        "relative_start_ms": 19800,
+        "relative_end_ms": 24300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Frontal medium shot of Alexander standing frozen, the weight of the realization crashing down on him."
+      },
+      {
+        "ref": "EP36:E76",
+        "segment_index": 0,
+        "relative_start_ms": 20600,
+        "relative_end_ms": 23600,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Juliana... is in a cell?\""
+      },
+      {
+        "ref": "EP36:E77",
+        "segment_index": 0,
+        "relative_start_ms": 24300,
+        "relative_end_ms": 27600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of his mother clutching her temple, reeling in remembered trauma."
+      },
+      {
+        "ref": "EP36:E78",
+        "segment_index": 0,
+        "relative_start_ms": 24600,
+        "relative_end_ms": 27300,
+        "type": "dialogue",
+        "speaker": "ALEXANDER'S MOTHER",
+        "text": "\"She was taken before a magistrate.\""
+      },
+      {
+        "ref": "EP36:E79",
+        "segment_index": 0,
+        "relative_start_ms": 27600,
+        "relative_end_ms": 28800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight shot of Alexander, his eyes wild with terror for his wife."
+      },
+      {
+        "ref": "EP36:E80",
+        "segment_index": 0,
+        "relative_start_ms": 27700,
+        "relative_end_ms": 28600,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"And?!\""
+      },
+      {
+        "ref": "EP36:E81",
+        "segment_index": 0,
+        "relative_start_ms": 28800,
+        "relative_end_ms": 31800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on his mother breaking down into inconsolable sobs."
+      },
+      {
+        "ref": "EP36:E82",
+        "segment_index": 0,
+        "relative_start_ms": 29000,
+        "relative_end_ms": 31200,
+        "type": "dialogue",
+        "speaker": "ALEXANDER'S MOTHER",
+        "text": "\"They condemned her.\""
+      },
+      {
+        "ref": "EP36:E83",
+        "segment_index": 0,
+        "relative_start_ms": 31300,
+        "relative_end_ms": 32000,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"No.\""
+      },
+      {
+        "ref": "EP36:E84",
+        "segment_index": 0,
+        "relative_start_ms": 31800,
+        "relative_end_ms": 35600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on his mother looking up through her tears, delivering the horrifying reality."
+      },
+      {
+        "ref": "EP36:E85",
+        "segment_index": 0,
+        "relative_start_ms": 32800,
+        "relative_end_ms": 35600,
+        "type": "dialogue",
+        "speaker": "ALEXANDER'S MOTHER",
+        "text": "\"She is to be executed.\""
+      }
+    ]
+  }
+]

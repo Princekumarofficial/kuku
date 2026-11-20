@@ -1,0 +1,1661 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "ep_034",
+  "episode_number": 34,
+  "metadata": {
+    "logline": "Put on trial for witchcraft and poisoning, Lady Juliana stands proud and defiant in the prisoner's dock, refusing to renounce her mother's herbal medicine even after her coerced maid gives false testimony against her.",
+    "continuity_notes": "Following the aristocratic Lord's ruthless extortion of the young maid in his study, Episode 34 transitions directly into the crowded courtroom trial where the conspirators unleash their manufactured charges and false witnesses against Lady Juliana."
+  },
+  "source": {
+    "file": "033_episode-034-Episode 1681367.txt",
+    "sha256": "76ed46ede7bbc0388279753e8d3e8da924141b43480b9f52243d1155003ca436",
+    "complete": false
+  },
+  "scenes": [
+    {
+      "start_ms": 0,
+      "end_ms": 190000,
+      "id": "sc_001",
+      "heading": "INT. COURTROOM – DAY"
+    }
+  ],
+  "events": [
+    {
+      "start_ms": 0,
+      "end_ms": 2800,
+      "id": "e_001",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "High wide establishing shot from behind the presiding judge looking down into the grand, sunlit courtroom filled with stern spectators, armed bailiffs, and Lady Juliana standing confined in the wooden prisoner's dock on the left.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        14,
+        16
+      ]
+    },
+    {
+      "start_ms": 1200,
+      "end_ms": 7800,
+      "id": "e_002",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Lady Juliana Ashcroft, you are accused of witchcraft, unlawful healing, and poisoning.\"",
+      "speaker": "JUDGE",
+      "delivery": "Booming, Authoritative",
+      "source_lines": [
+        18,
+        20
+      ]
+    },
+    {
+      "start_ms": 2800,
+      "end_ms": 7800,
+      "id": "e_003",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of the stern, elderly Judge seated at the high mahogany bench, resting both hands on the court documents.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        22,
+        24
+      ]
+    },
+    {
+      "start_ms": 7800,
+      "end_ms": 13100,
+      "id": "e_004",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the charred, ancient botanical grimoire resting on the bench, its scorched pages open to an illustration of a wild rose, as a finger firmly taps the text.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        26,
+        28
+      ]
+    },
+    {
+      "start_ms": 9000,
+      "end_ms": 11200,
+      "id": "e_005",
+      "scene_id": "sc_001",
+      "type": "sound",
+      "text": "[A firm, hollow tap of a finger striking the parchment]",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        30,
+        32
+      ]
+    },
+    {
+      "start_ms": 9100,
+      "end_ms": 12600,
+      "id": "e_006",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Do you deny possessing this book?\"",
+      "speaker": "JUDGE",
+      "delivery": "O.S.) (Inquisitive, Severe",
+      "source_lines": [
+        34,
+        36
+      ]
+    },
+    {
+      "start_ms": 13100,
+      "end_ms": 15500,
+      "id": "e_007",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle medium close-up of Lady Juliana standing erect in the dock, her prisoner label pinned to her rustic buttoned gown, her expression resolute.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        38,
+        40
+      ]
+    },
+    {
+      "start_ms": 13800,
+      "end_ms": 14800,
+      "id": "e_008",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"No.\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Calm, Unflinching",
+      "source_lines": [
+        42,
+        44
+      ]
+    },
+    {
+      "start_ms": 15500,
+      "end_ms": 19400,
+      "id": "e_009",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle medium shot of the Judge leaning over his elevated bench, staring down critically.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        46,
+        48
+      ]
+    },
+    {
+      "start_ms": 15600,
+      "end_ms": 19200,
+      "id": "e_010",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Do you deny using its remedies?\"",
+      "speaker": "JUDGE",
+      "delivery": "Stern, Accusatory",
+      "source_lines": [
+        50,
+        52
+      ]
+    },
+    {
+      "start_ms": 19400,
+      "end_ms": 23800,
+      "id": "e_011",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Tight close-up of Lady Juliana's face, bruised cheekbone highlighting her calm defiance.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        54,
+        56
+      ]
+    },
+    {
+      "start_ms": 20800,
+      "end_ms": 21800,
+      "id": "e_012",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"No.\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Firm",
+      "source_lines": [
+        58,
+        60
+      ]
+    },
+    {
+      "start_ms": 23800,
+      "end_ms": 27400,
+      "id": "e_013",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of the aristocratic Lord standing at the railing in his tailored dark coat, turning slowly with a smirk of malicious satisfaction.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        62,
+        64
+      ]
+    },
+    {
+      "start_ms": 27400,
+      "end_ms": 31700,
+      "id": "e_014",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the Judge leaning forward across his bench, eyes narrowing with grim conviction.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        66,
+        68
+      ]
+    },
+    {
+      "start_ms": 27500,
+      "end_ms": 31200,
+      "id": "e_015",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Then you admit to practicing forbidden arts.\"",
+      "speaker": "JUDGE",
+      "delivery": "Hard, Pressing",
+      "source_lines": [
+        70,
+        72
+      ]
+    },
+    {
+      "start_ms": 31700,
+      "end_ms": 35300,
+      "id": "e_016",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Lady Juliana looking upward with quiet dignity, her eyes luminous.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        74,
+        76
+      ]
+    },
+    {
+      "start_ms": 33200,
+      "end_ms": 35100,
+      "id": "e_017",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I admit to healing the sick.\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Proud, Dignified",
+      "source_lines": [
+        78,
+        80
+      ]
+    },
+    {
+      "start_ms": 35300,
+      "end_ms": 37400,
+      "id": "e_018",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "The Judge furiously raises his wooden gavel and strikes the sound block with sharp force.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        82,
+        84
+      ]
+    },
+    {
+      "start_ms": 35400,
+      "end_ms": 36600,
+      "id": "e_019",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Silence!\"",
+      "speaker": "JUDGE",
+      "delivery": "Furious, Shouting",
+      "source_lines": [
+        86,
+        88
+      ]
+    },
+    {
+      "start_ms": 35800,
+      "end_ms": 37000,
+      "id": "e_020",
+      "scene_id": "sc_001",
+      "type": "sound",
+      "text": "[Sharp, echoing crack of the gavel slamming onto wood]",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        90,
+        92
+      ]
+    },
+    {
+      "start_ms": 35800,
+      "end_ms": 37400,
+      "id": "e_021",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of the Judge slamming the gavel down on his bench.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        94,
+        96
+      ]
+    },
+    {
+      "start_ms": 37400,
+      "end_ms": 42500,
+      "id": "e_022",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Tracking shot moving from the Judge on his bench as he points his outstretched arm across the courtroom floor toward the witness stand.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        98,
+        100
+      ]
+    },
+    {
+      "start_ms": 37500,
+      "end_ms": 41200,
+      "id": "e_023",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Prudence. You served beside the accused?\"",
+      "speaker": "JUDGE",
+      "delivery": "Commanding",
+      "source_lines": [
+        102,
+        104
+      ]
+    },
+    {
+      "start_ms": 41000,
+      "end_ms": 43000,
+      "id": "e_024",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Prudence the young maid stands trembling in the center of the courtroom floor, her head bowed in deep shame, clutching the sides of her apron.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        106,
+        108
+      ]
+    },
+    {
+      "start_ms": 42500,
+      "end_ms": 44800,
+      "id": "e_025",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Prudence looking up with tears streaming down her pale face.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        110,
+        112
+      ]
+    },
+    {
+      "start_ms": 43200,
+      "end_ms": 44600,
+      "id": "e_026",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Yes, Your Honor.\"",
+      "speaker": "PRUDENCE",
+      "delivery": "Trembling, Tearful",
+      "source_lines": [
+        114,
+        116
+      ]
+    },
+    {
+      "start_ms": 44800,
+      "end_ms": 49000,
+      "id": "e_027",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of the Judge leaning forward with folded hands.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        118,
+        120
+      ]
+    },
+    {
+      "start_ms": 45300,
+      "end_ms": 48800,
+      "id": "e_028",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Did you witness Lady Juliana perform these treatments?\"",
+      "speaker": "JUDGE",
+      "delivery": "Probing, Formal",
+      "source_lines": [
+        122,
+        124
+      ]
+    },
+    {
+      "start_ms": 49000,
+      "end_ms": 51500,
+      "id": "e_029",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Profile over-the-shoulder shot from behind Prudence toward Lady Juliana standing bound in iron cuffs at the prisoner's dock.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        126,
+        128
+      ]
+    },
+    {
+      "start_ms": 49100,
+      "end_ms": 50500,
+      "id": "e_030",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Tell the truth.\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Softly, Urgent",
+      "source_lines": [
+        130,
+        132
+      ]
+    },
+    {
+      "start_ms": 51500,
+      "end_ms": 54800,
+      "id": "e_031",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Prudence breaking down in tears, squeezing her eyes shut as guilt overwhelms her.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        134,
+        136
+      ]
+    },
+    {
+      "start_ms": 53000,
+      "end_ms": 54200,
+      "id": "e_032",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Yes.\"",
+      "speaker": "PRUDENCE",
+      "delivery": "Sobbing, Heartbroken",
+      "source_lines": [
+        138,
+        140
+      ]
+    },
+    {
+      "start_ms": 54800,
+      "end_ms": 57600,
+      "id": "e_033",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Lady Juliana looking at her former maid, a momentary flicker of hurt passing through her eyes before settling into stoic composure.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        142,
+        144
+      ]
+    },
+    {
+      "start_ms": 57600,
+      "end_ms": 60800,
+      "id": "e_034",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium profile shot of the Judge recording notes in the open court ledger with a feather quill.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        146,
+        148
+      ]
+    },
+    {
+      "start_ms": 58200,
+      "end_ms": 60100,
+      "id": "e_035",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"What did you see?\"",
+      "speaker": "JUDGE",
+      "delivery": "Measured, Stern",
+      "source_lines": [
+        150,
+        152
+      ]
+    },
+    {
+      "start_ms": 60800,
+      "end_ms": 64600,
+      "id": "e_036",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Prudence clutching both hands to her chest in anguish.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        154,
+        156
+      ]
+    },
+    {
+      "start_ms": 61300,
+      "end_ms": 64400,
+      "id": "e_037",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"She used herbs... and her mother's book.\"",
+      "speaker": "PRUDENCE",
+      "delivery": "Choked with Tears",
+      "source_lines": [
+        158,
+        160
+      ]
+    },
+    {
+      "start_ms": 64600,
+      "end_ms": 66800,
+      "id": "e_038",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of the Judge leaning back slightly, pointing his hand accusingly.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        162,
+        164
+      ]
+    },
+    {
+      "start_ms": 64800,
+      "end_ms": 66700,
+      "id": "e_039",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Did she draw strange markings?\"",
+      "speaker": "JUDGE",
+      "delivery": "Pressing, Sharp",
+      "source_lines": [
+        166,
+        168
+      ]
+    },
+    {
+      "start_ms": 66800,
+      "end_ms": 71800,
+      "id": "e_040",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Prudence's tear-streaked face as she hesitates, her breath hitching.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        170,
+        172
+      ]
+    },
+    {
+      "start_ms": 68200,
+      "end_ms": 71700,
+      "id": "e_041",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"She... placed herbs around my brother's bed.\"",
+      "speaker": "PRUDENCE",
+      "delivery": "Faltering, Desperate",
+      "source_lines": [
+        174,
+        176
+      ]
+    },
+    {
+      "start_ms": 71800,
+      "end_ms": 75800,
+      "id": "e_042",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of the Judge pointing an outstretched index finger with piercing intensity.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        178,
+        180
+      ]
+    },
+    {
+      "start_ms": 72100,
+      "end_ms": 75500,
+      "id": "e_043",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"And did she speak words you could not understand?\"",
+      "speaker": "JUDGE",
+      "delivery": "Accusatory, Forceful",
+      "source_lines": [
+        182,
+        184
+      ]
+    },
+    {
+      "start_ms": 75800,
+      "end_ms": 81000,
+      "id": "e_044",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Extreme close-up of Prudence weeping uncontrollably, her face contorted in unbearable remorse.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        186,
+        188
+      ]
+    },
+    {
+      "start_ms": 78800,
+      "end_ms": 80500,
+      "id": "e_045",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Yes.\"",
+      "speaker": "PRUDENCE",
+      "delivery": "Weeping, Shaken",
+      "source_lines": [
+        190,
+        192
+      ]
+    },
+    {
+      "start_ms": 81000,
+      "end_ms": 85200,
+      "id": "e_046",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium tracking shot of the Lord stepping into the open aisle of the courtroom with arms spread wide, turning triumphantly toward the Judge.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        194,
+        196
+      ]
+    },
+    {
+      "start_ms": 81300,
+      "end_ms": 84900,
+      "id": "e_047",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Your Honor... the witness has confirmed the ritual.\"",
+      "speaker": "LORD",
+      "delivery": "Triumphant, Smug",
+      "source_lines": [
+        198,
+        200
+      ]
+    },
+    {
+      "start_ms": 85000,
+      "end_ms": 87200,
+      "id": "e_048",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Lady Juliana slams her cuffed hands against the wooden railing of the dock, her voice ringing out in indignant fury.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        202,
+        204
+      ]
+    },
+    {
+      "start_ms": 85200,
+      "end_ms": 87400,
+      "id": "e_049",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle medium shot of Lady Juliana gripping the railing, leaning forward.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        206,
+        208
+      ]
+    },
+    {
+      "start_ms": 85200,
+      "end_ms": 87200,
+      "id": "e_050",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"It was not a ritual!\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Passionate, Indignant",
+      "source_lines": [
+        210,
+        212
+      ]
+    },
+    {
+      "start_ms": 87200,
+      "end_ms": 90200,
+      "id": "e_051",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "The Judge repeatedly hammers his gavel down onto the desk, roaring over her.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        214,
+        216
+      ]
+    },
+    {
+      "start_ms": 87400,
+      "end_ms": 90500,
+      "id": "e_052",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of the Judge striking the wooden block twice in rapid succession.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        218,
+        220
+      ]
+    },
+    {
+      "start_ms": 87800,
+      "end_ms": 89200,
+      "id": "e_053",
+      "scene_id": "sc_001",
+      "type": "sound",
+      "text": "[Violent, resonant double bang of the wooden gavel]",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        222,
+        224
+      ]
+    },
+    {
+      "start_ms": 87900,
+      "end_ms": 90000,
+      "id": "e_054",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You will speak when addressed!\"",
+      "speaker": "JUDGE",
+      "delivery": "Bellowing",
+      "source_lines": [
+        226,
+        228
+      ]
+    },
+    {
+      "start_ms": 90500,
+      "end_ms": 93800,
+      "id": "e_055",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of the Lord extending his palm toward the gallery with theatrical composure.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        230,
+        232
+      ]
+    },
+    {
+      "start_ms": 91000,
+      "end_ms": 93200,
+      "id": "e_056",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"We have further witnesses.\"",
+      "speaker": "LORD",
+      "delivery": "Calm, Poisonous",
+      "source_lines": [
+        234,
+        236
+      ]
+    },
+    {
+      "start_ms": 93800,
+      "end_ms": 98200,
+      "id": "e_057",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of an anxious townsman standing by the gallery pews, nervously wringing his woolen hat in his hands.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        238,
+        240
+      ]
+    },
+    {
+      "start_ms": 94200,
+      "end_ms": 98000,
+      "id": "e_058",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"My wife took one of Lady Juliana's mixtures...\"",
+      "speaker": "TOWNSMAN",
+      "delivery": "Nervous, Fearful",
+      "source_lines": [
+        242,
+        244
+      ]
+    },
+    {
+      "start_ms": 98200,
+      "end_ms": 99500,
+      "id": "e_059",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the Judge glaring down expectantly.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        246,
+        248
+      ]
+    },
+    {
+      "start_ms": 98300,
+      "end_ms": 99100,
+      "id": "e_060",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"And?\"",
+      "speaker": "JUDGE",
+      "delivery": "Sharp",
+      "source_lines": [
+        250,
+        252
+      ]
+    },
+    {
+      "start_ms": 99500,
+      "end_ms": 102100,
+      "id": "e_061",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the townsman's face tightening with coached distress.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        254,
+        256
+      ]
+    },
+    {
+      "start_ms": 99800,
+      "end_ms": 101800,
+      "id": "e_062",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"She became violently ill.\"",
+      "speaker": "TOWNSMAN",
+      "delivery": "Agitated",
+      "source_lines": [
+        258,
+        260
+      ]
+    },
+    {
+      "start_ms": 102100,
+      "end_ms": 107300,
+      "id": "e_063",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot among the spectators as an elderly peasant woman stands up from the wooden bench, pointing an accusatory finger across the courtroom.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        262,
+        264
+      ]
+    },
+    {
+      "start_ms": 102300,
+      "end_ms": 107000,
+      "id": "e_064",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"My daughter drank one of her herbal preparations! She was sick for three days!\"",
+      "speaker": "OLD WOMAN",
+      "delivery": "Shrill, Accusatory",
+      "source_lines": [
+        266,
+        268
+      ]
+    },
+    {
+      "start_ms": 107300,
+      "end_ms": 110000,
+      "id": "e_065",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Side two-shot of the Lord stepping up to the dock, looming beside Lady Juliana as she looks him in the eye.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        270,
+        272
+      ]
+    },
+    {
+      "start_ms": 108000,
+      "end_ms": 109800,
+      "id": "e_066",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"She calls it healing.\"",
+      "speaker": "LORD",
+      "delivery": "Mocking, Smug",
+      "source_lines": [
+        274,
+        276
+      ]
+    },
+    {
+      "start_ms": 110000,
+      "end_ms": 112800,
+      "id": "e_067",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "The Lord turns dramatically to face the entire assembly, gesturing toward the spectators.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        278,
+        280
+      ]
+    },
+    {
+      "start_ms": 110000,
+      "end_ms": 112800,
+      "id": "e_068",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of the Lord addressing the courtroom.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        282,
+        284
+      ]
+    },
+    {
+      "start_ms": 110100,
+      "end_ms": 112600,
+      "id": "e_069",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"The people call it poisoning!\"",
+      "speaker": "LORD",
+      "delivery": "Resonant, Vindicative",
+      "source_lines": [
+        286,
+        288
+      ]
+    },
+    {
+      "start_ms": 112800,
+      "end_ms": 115200,
+      "id": "e_070",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Lady Juliana looking past him directly toward the gallery with sharp clarity.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        290,
+        292
+      ]
+    },
+    {
+      "start_ms": 113200,
+      "end_ms": 115000,
+      "id": "e_071",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"What were their illnesses?\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Incisive, Defiant",
+      "source_lines": [
+        294,
+        296
+      ]
+    },
+    {
+      "start_ms": 115200,
+      "end_ms": 117200,
+      "id": "e_072",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle close-up of the Lord looking down arrogantly over his shoulder.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        298,
+        300
+      ]
+    },
+    {
+      "start_ms": 115300,
+      "end_ms": 116500,
+      "id": "e_073",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Irrelevant.\"",
+      "speaker": "LORD",
+      "delivery": "Dismissive",
+      "source_lines": [
+        302,
+        304
+      ]
+    },
+    {
+      "start_ms": 117200,
+      "end_ms": 119800,
+      "id": "e_074",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Lady Juliana gritting her teeth in fierce defiance.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        306,
+        308
+      ]
+    },
+    {
+      "start_ms": 117400,
+      "end_ms": 119600,
+      "id": "e_075",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"It is not irrelevant!\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Fierce",
+      "source_lines": [
+        310,
+        312
+      ]
+    },
+    {
+      "start_ms": 119800,
+      "end_ms": 123400,
+      "id": "e_076",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle medium shot of Lady Juliana standing tall against the courtroom window light, her chained hands resting on the balustrade as she addresses the entire hall.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        314,
+        316
+      ]
+    },
+    {
+      "start_ms": 119900,
+      "end_ms": 123200,
+      "id": "e_077",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Herbs are not magic! They are medicine!\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Clear, Unyielding",
+      "source_lines": [
+        318,
+        320
+      ]
+    },
+    {
+      "start_ms": 123400,
+      "end_ms": 126800,
+      "id": "e_078",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of the Judge sitting with steepled fingers upon his high bench.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        322,
+        324
+      ]
+    },
+    {
+      "start_ms": 123600,
+      "end_ms": 126400,
+      "id": "e_079",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You admit you administered them?\"",
+      "speaker": "JUDGE",
+      "delivery": "Coldly Inquisitive",
+      "source_lines": [
+        326,
+        328
+      ]
+    },
+    {
+      "start_ms": 126800,
+      "end_ms": 129100,
+      "id": "e_080",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Lady Juliana looking straight forward.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        330,
+        332
+      ]
+    },
+    {
+      "start_ms": 127200,
+      "end_ms": 128200,
+      "id": "e_081",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Yes.\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Direct",
+      "source_lines": [
+        334,
+        336
+      ]
+    },
+    {
+      "start_ms": 129100,
+      "end_ms": 131800,
+      "id": "e_082",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of the Judge gesturing with an open hand.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        338,
+        340
+      ]
+    },
+    {
+      "start_ms": 129300,
+      "end_ms": 131600,
+      "id": "e_083",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Without the approval of a licensed physician?\"",
+      "speaker": "JUDGE",
+      "delivery": "Challenging",
+      "source_lines": [
+        342,
+        344
+      ]
+    },
+    {
+      "start_ms": 131800,
+      "end_ms": 134600,
+      "id": "e_084",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Lady Juliana shaking her head slightly, truth ringing in her voice.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        346,
+        348
+      ]
+    },
+    {
+      "start_ms": 132100,
+      "end_ms": 134400,
+      "id": "e_085",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"There was no physician willing to help them.\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Steely, Earnest",
+      "source_lines": [
+        350,
+        352
+      ]
+    },
+    {
+      "start_ms": 134600,
+      "end_ms": 139200,
+      "id": "e_086",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Lady Juliana's steady gaze.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        354,
+        356
+      ]
+    },
+    {
+      "start_ms": 136200,
+      "end_ms": 138400,
+      "id": "e_087",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"So I helped them.\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Calm, Resolute",
+      "source_lines": [
+        358,
+        360
+      ]
+    },
+    {
+      "start_ms": 139200,
+      "end_ms": 142200,
+      "id": "e_088",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of the Lord smiling cynically as he turns back toward the magistrate.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        362,
+        364
+      ]
+    },
+    {
+      "start_ms": 139600,
+      "end_ms": 142000,
+      "id": "e_089",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Even now, she refuses to repent.\"",
+      "speaker": "LORD",
+      "delivery": "Derisive",
+      "source_lines": [
+        366,
+        368
+      ]
+    },
+    {
+      "start_ms": 142200,
+      "end_ms": 147400,
+      "id": "e_090",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle medium shot of the Judge holding his hand over the open law book.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        370,
+        372
+      ]
+    },
+    {
+      "start_ms": 142400,
+      "end_ms": 147000,
+      "id": "e_091",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Lady Juliana, if you wish to save yourself, renounce these practices.\"",
+      "speaker": "JUDGE",
+      "delivery": "Grave, Stern",
+      "source_lines": [
+        374,
+        376
+      ]
+    },
+    {
+      "start_ms": 147400,
+      "end_ms": 148900,
+      "id": "e_092",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the burned grimoire resting on the green leather surface of the court table.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        378,
+        380
+      ]
+    },
+    {
+      "start_ms": 148900,
+      "end_ms": 151200,
+      "id": "e_093",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Lady Juliana lifting her chin without an ounce of hesitation.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        382,
+        384
+      ]
+    },
+    {
+      "start_ms": 149800,
+      "end_ms": 150800,
+      "id": "e_094",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"No.\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Unyielding",
+      "source_lines": [
+        386,
+        388
+      ]
+    },
+    {
+      "start_ms": 151200,
+      "end_ms": 154800,
+      "id": "e_095",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of the Judge lowering his brow with dark finality.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        390,
+        392
+      ]
+    },
+    {
+      "start_ms": 151800,
+      "end_ms": 153800,
+      "id": "e_096",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Think carefully.\"",
+      "speaker": "JUDGE",
+      "delivery": "Ominous, Warning",
+      "source_lines": [
+        394,
+        396
+      ]
+    },
+    {
+      "start_ms": 154800,
+      "end_ms": 156800,
+      "id": "e_097",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle close-up of Lady Juliana looking skyward through the arched court windows.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        398,
+        400
+      ]
+    },
+    {
+      "start_ms": 155200,
+      "end_ms": 156400,
+      "id": "e_098",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I have.\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Firm, Resolute",
+      "source_lines": [
+        402,
+        404
+      ]
+    },
+    {
+      "start_ms": 156800,
+      "end_ms": 162000,
+      "id": "e_099",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of the Judge pointing an outstretched finger across the bench, his tone hardening into lethal severity.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        406,
+        408
+      ]
+    },
+    {
+      "start_ms": 157000,
+      "end_ms": 161800,
+      "id": "e_100",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You understand that refusal may be treated as proof that you knowingly practiced witchcraft?\"",
+      "speaker": "JUDGE",
+      "delivery": "Severe, Imposing",
+      "source_lines": [
+        410,
+        412
+      ]
+    },
+    {
+      "start_ms": 162000,
+      "end_ms": 163600,
+      "id": "e_101",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Lady Juliana unflinchingly accepting her fate.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        414,
+        416
+      ]
+    },
+    {
+      "start_ms": 162100,
+      "end_ms": 163500,
+      "id": "e_102",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Then let it be.\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Proud, Fearless",
+      "source_lines": [
+        418,
+        420
+      ]
+    },
+    {
+      "start_ms": 163600,
+      "end_ms": 166800,
+      "id": "e_103",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Prudence breaking into shattered sobs, pressing her apron to her face to muffle her tears.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        422,
+        424
+      ]
+    },
+    {
+      "start_ms": 164000,
+      "end_ms": 166800,
+      "id": "e_104",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Prudence buries her face in her stained white apron, shuddering with grief.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        426,
+        428
+      ]
+    },
+    {
+      "start_ms": 166800,
+      "end_ms": 174400,
+      "id": "e_105",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot pushing into Lady Juliana's face as she speaks directly across the hall with compassionate, unwavering authority.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        430,
+        432
+      ]
+    },
+    {
+      "start_ms": 167000,
+      "end_ms": 173600,
+      "id": "e_106",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Do not be afraid. I will not call healing evil just because powerful people have decided to fear it.\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Passionate, Defiant",
+      "source_lines": [
+        434,
+        436
+      ]
+    },
+    {
+      "start_ms": 174400,
+      "end_ms": 176500,
+      "id": "e_107",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up profile of the Lord, his smirk instantly freezing into an irritated, malevolent scowl.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        438,
+        440
+      ]
+    },
+    {
+      "start_ms": 176500,
+      "end_ms": 178200,
+      "id": "e_108",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "The Judge furiously smashes his gavel down upon the sound block with a deafening crack.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        442,
+        444
+      ]
+    },
+    {
+      "start_ms": 176500,
+      "end_ms": 178200,
+      "id": "e_109",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the Judge slamming the wooden gavel down.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        446,
+        448
+      ]
+    },
+    {
+      "start_ms": 176600,
+      "end_ms": 177600,
+      "id": "e_110",
+      "scene_id": "sc_001",
+      "type": "sound",
+      "text": "[Violent, resonant smash of the wooden gavel]",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        450,
+        452
+      ]
+    },
+    {
+      "start_ms": 177800,
+      "end_ms": 179400,
+      "id": "e_111",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Enough!\"",
+      "speaker": "JUDGE",
+      "delivery": "Thunderous",
+      "source_lines": [
+        454,
+        456
+      ]
+    },
+    {
+      "start_ms": 179500,
+      "end_ms": 184500,
+      "id": "e_112",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "The Judge rises to his full height behind the bench, towering over the silent court.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        458,
+        460
+      ]
+    },
+    {
+      "start_ms": 179500,
+      "end_ms": 184500,
+      "id": "e_113",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle medium shot looking up at the imposing Judge as he stands formally to deliver the judgment.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        462,
+        464
+      ]
+    },
+    {
+      "start_ms": 181000,
+      "end_ms": 184200,
+      "id": "e_114",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Lady Juliana Ashcroft...\"",
+      "speaker": "JUDGE",
+      "delivery": "Booming, Solemn",
+      "source_lines": [
+        466,
+        468
+      ]
+    },
+    {
+      "start_ms": 184500,
+      "end_ms": 190000,
+      "id": "e_115",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Over-the-shoulder shot from behind Lady Juliana in the prisoner's dock looking toward the Judge, who solemnly raises his right hand to pronounce the final sentence as the heavy silence hangs over the courtroom.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        470,
+        472
+      ]
+    },
+    {
+      "start_ms": 185000,
+      "end_ms": 190000,
+      "id": "e_116",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "The Judge extends his raised hand high in judgment over Lady Juliana as the scene holds on her standing still and unbroken before fading to black.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        474,
+        476
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "start_ms": 0,
+      "end_ms": 179400
+    },
+    {
+      "start_ms": 179500,
+      "end_ms": 190000
+    }
+  ],
+  "warnings": [
+    "sc_001: incomplete source coverage; gaps are unavailable"
+  ]
+}

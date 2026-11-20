@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_7adf4d08652a66c0",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP19:E45",
+      "EP19:E47"
+    ],
+    "reason": "Opens within 0-3000ms with a secret-premise line, 'And everyone believes you are dead.', followed by Alexander's guarded reply, 'Then let them believe it a little longer.' This raises an immediate question about who is pretending to be dead and why."
+  },
+  "cliffhanger": {
+    "score_0_10": 3.0,
+    "evidence_refs": [
+      "EP19:E55",
+      "EP19:E56"
+    ],
+    "reason": "The final 3000ms end on Juliana's 'We have lost everything.' and her breakdown in tears. Alexander's entrance with firewood and a blanket at E54 suggests comfort rather than a new threat, so the emotional beat feels closed. The clip ends mid-breakdown, which leaves some tension, but no explicit question or threat is left hanging.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Identity and role of the informant",
+      "Who Alexander is and why everyone believes he is dead",
+      "What Ashburg is and why it belongs to Alexander",
+      "What the proof is and why it matters",
+      "Why Juliana lost everything and what the charred herbal means to her",
+      "Relationship between Juliana and Alexander"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Juliana's silent tears, her bandaged hands on her mother's charred herbal, and her breakdown at E55-E56 create strong grief. The opening's grim tone and Alexander's scarred, resolute presence add tension."
+  },
+  "weaknesses": [
+    "Premise of the death deception is unexplained, so the opening hook depends on unstated plot",
+    "Ashburg and the proof are referenced without context",
+    "Juliana's grief is shown without a clear cause in the clip",
+    "Alexander's arrival with firewood and a blanket softens the ending's tension",
+    "The 10700-15200ms barn establishing shot is long and slows pacing"
+  ],
+  "one_line_why_it_works": "A tense opening secret about a supposedly dead man leads into a quiet, emotionally raw barn scene that ends on Juliana's collapse into tears."
+}

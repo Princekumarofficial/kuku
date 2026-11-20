@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_c60fba4554a7e90f",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP31:E12",
+      "EP31:E13"
+    ],
+    "reason": "The opening starts within the first 3000ms with a close-up of Juliana's tear-filled eyes and defiant speech, and her line 'You seem very pleased.' sits against Catherine's looming presence with a glowing poker, creating immediate tension."
+  },
+  "cliffhanger": {
+    "score_0_10": 3.0,
+    "evidence_refs": [
+      "EP31:E39",
+      "EP31:E40"
+    ],
+    "reason": "The final lines are Juliana's proud, self-assertive statements ending on a closed declaration, with no revealed threat or unanswered question in the closing seconds. The confrontation's outcome is not shown, but the ending reads as a defiant punctuation point rather than a suspenseful cut.",
+    "unresolved_at_end": false
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Identity and relationship of Catherine to Juliana",
+      "Why Juliana is chained and bare-footed in iron manacles",
+      "Who Gerald and Clarisse/Clarissa are and what the altar incident was",
+      "Significance of the charred botanical book pages",
+      "Who the 'man' Juliana chooses is and what 'beggar' refers to",
+      "Name inconsistency between Clarisse (E29) and Clarissa (E35)"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Tears, chains, a heated poker, humiliation, and Juliana's refusal to break create strong visceral tension and a sense of defiant dignity that a first-time viewer would feel even without backstory."
+  },
+  "weaknesses": [
+    "Heavy reliance on unexplained backstory makes the humiliation feel less personal for a first-time viewer",
+    "Clip ends on an emotional statement rather than a clear narrative hook or open question about what happens next",
+    "Unexplained naming inconsistency between Clarisse and Clarissa may confuse viewers",
+    "The poker's threat is never resolved within the clip, which may leave the scene's stakes ambiguous"
+  ],
+  "one_line_why_it_works": "A defiant heroine under physical threat delivers sharp, emotionally charged lines that build from humiliation to a proud, self-affirming close, even without full context."
+}

@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_8482e1a66953db13",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP14:E30",
+      "EP14:E31",
+      "EP14:E32",
+      "EP14:E47"
+    ],
+    "reason": "The opening within 0-3000ms pairs crackling fire with an intimate close-up and the line \"You could have lost your hands,\" which raises immediate stakes. The final-window line \"No one will ever hurt you for protecting me again\" (29500-34000) closes the clip without a new hook, so the hook is moderate."
+  },
+  "cliffhanger": {
+    "score_0_10": 1.0,
+    "evidence_refs": [
+      "EP14:E47"
+    ],
+    "reason": "The clip ends on a reassuring line of safety and an embrace (E46-E47), so the tension is resolved rather than left open.",
+    "unresolved_at_end": false
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Who Juliana and Alexander are and their relationship",
+      "Why Juliana's hands were at risk and what caused her lacerations",
+      "What \"You have taken my place today\" refers to",
+      "What Alexander was protecting Juliana from, and who might hurt her",
+      "The events that led to the apology and the exchange about protecting"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Tears, trembling lips, the remorseful apology, a gentle bandaging, and an embrace with a kiss on the head produce strong tenderness and relief, though the emotion rests on unexplained stakes."
+  },
+  "weaknesses": [
+    "Stakes for the injury are never established, so the opening line lacks grounding for a first-time viewer",
+    "The dialogue references 'taking my place' and 'protecting' without explanation",
+    "The ending is a resolved, reassuring moment and offers no unresolved tension",
+    "The clip relies on visual intimacy more than on self-contained narrative clarity"
+  ],
+  "one_line_why_it_works": "Strong close-ups, firelight, and a tender bandaging-and-embrace sequence create an emotional, intimate moment that stands on its visual warmth even without context."
+}

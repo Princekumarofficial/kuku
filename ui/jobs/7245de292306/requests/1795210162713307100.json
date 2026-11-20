@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_da374667ed694c0d DURATION_MS=35600\nSEGMENT 1 (playback order)\nEP36:E61 0-300 CAMERA: Tight close-up on Alexander's mother crying out in wretched guilt and horror.\nEP36:E63 300-2600 CAMERA: Close-up on Alexander, his expression freezing in complete shock.\nEP36:E64 800-2300 ALEXANDER: \"Arrested?\"\nEP36:E65 2600-6800 CAMERA: Medium close-up as his mother clutches Alexander's forearms with desperate, pleading hands.\nEP36:E66 2700-6600 ALEXANDER'S MOTHER: \"Rupert and Catherine accused her of poisoning me!\"\nEP36:E67 6800-10800 CAMERA: Close-up on Alexander, absolute fury erupting across his scarred face.\nEP36:E68 8600-10600 ALEXANDER: \"But she saved you!\"\nEP36:E69 10800-13800 CAMERA: Close-up on his mother, clutching her chest in grief.\nEP36:E70 11000-13300 ALEXANDER'S MOTHER: \"I told them!\"\nEP36:E71 13800-16300 CAMERA: Medium shot of Alexander clenching his fists at his sides, trembling with rage.\nEP36:E72 14300-16100 ALEXANDER: \"You told them the truth!\"\nEP36:E73 16300-19800 CAMERA: Close-up on his mother as she cries out, devastated by the memory of the kangaroo court.\nEP36:E74 16600-19300 ALEXANDER'S MOTHER: \"They called her a witch!\"\nEP36:E75 19800-24300 CAMERA: Frontal medium shot of Alexander standing frozen, the weight of the realization crashing down on him.\nEP36:E76 20600-23600 ALEXANDER: \"Juliana... is in a cell?\"\nEP36:E77 24300-27600 CAMERA: Close-up of his mother clutching her temple, reeling in remembered trauma.\nEP36:E78 24600-27300 ALEXANDER'S MOTHER: \"She was taken before a magistrate.\"\nEP36:E79 27600-28800 CAMERA: Tight shot of Alexander, his eyes wild with terror for his wife.\nEP36:E80 27700-28600 ALEXANDER: \"And?!\"\nEP36:E81 28800-31800 CAMERA: Close-up on his mother breaking down into inconsolable sobs.\nEP36:E82 29000-31200 ALEXANDER'S MOTHER: \"They condemned her.\"\nEP36:E83 31300-32000 ALEXANDER: \"No.\"\nEP36:E84 31800-35600 CAMERA: Close-up on his mother looking up through her tears, delivering the horrifying reality.\nEP36:E85 32800-35600 ALEXANDER'S MOTHER: \"She is to be executed.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

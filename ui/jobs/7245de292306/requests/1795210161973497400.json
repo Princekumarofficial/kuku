@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_d3038e669a203350 DURATION_MS=56100\nSEGMENT 1 (playback order)\nEP12:E1 0-100 CAMERA: Medium shot of the Constable raising a set of heavy iron handcuffs, addressing Alexander sternly in front of the stone hearth.\nEP12:E3 100-4600 CAMERA: Medium shot of Juliana swiftly moving in front of Alexander, placing herself defiantly between him and the Constable's outstretched handcuffs.\nEP12:E4 300-1500 ACTION: Juliana steps firmly forward, shielding Alexander with her body.\nEP12:E5 1200-4300 JULIANA: \"No! That watch was not in his coat!\"\nEP12:E6 4600-7300 CAMERA: Close-up of the Constable narrowing his eyes coldly at Juliana.\nEP12:E7 5500-7200 CONSTABLE: \"I found it there myself.\"\nEP12:E8 7300-9400 CAMERA: Close-up of Juliana glaring back with unwavering conviction.\nEP12:E9 7800-9400 JULIANA: \"Then someone put it there!\"\nEP12:E10 9400-16300 CAMERA: Medium full shot of Gerald framed in the open cottage doorway holding his riding crop, stepping inside with a patronizing, gloating grin.\nEP12:E11 9800-16100 GERALD: \"The proof is in his coat, Juliana. A valuable pocket watch doesn't just walk into a beggar's pocket.\"\nEP12:E12 16300-19200 CAMERA: Close-up of Alexander, his scarred brow furrowed in dark, quiet defiance.\nEP12:E13 17100-19100 ALEXANDER: \"I have never touched your property.\"\nEP12:E15 19200-22300 GERALD: \"Then perhaps your wife should explain why it was found in your coat.\"\nEP12:E14 19200-22400 CAMERA: Medium shot of Gerald pointing his riding crop toward them, with Clarissa hovering behind him in her violet silk gown.\nEP12:E17 22300-23400 JULIANA: \"You planted it!\"\nEP12:E16 22300-23500 ACTION: Juliana lunges a step forward, jabbing an accusing finger toward Gerald.\nEP12:E18 23500-25300 CAMERA: Medium shot of Clarissa gliding past Gerald, a venomous, amused smile playing upon her lips.\nEP12:E19 23600-25500 CLARISSA: \"Oh, dear sister...\"\nEP12:E20 25300-26500 CAMERA: Tight shot of Alexander's hand clenching into a tight, trembling fist against the glow of the roaring fireplace.\nEP12:E22 25500-27900 CLARISSA: \"...still defending your broken scrap of a man?\"\nEP12:E21 26500-27900 CAMERA: Close-up of Alexander glaring daggers at Clarissa.\nEP12:E24 27900-30700 JULIANA: \"Name your price, Clarissa. I know you.\"\nEP12:E23 27900-30800 CAMERA: Medium close-up of Juliana, her eyes narrowing with sharp perception.\nEP12:E25 30800-35500 CAMERA: Medium close-up of Clarissa smiling with vicious delight.\nEP12:E26 30900-35500 CLARISSA: \"You always were clever, Juliana. Always searching for some way to escape.\"\nEP12:E27 35500-37300 CAMERA: Tight shot of Clarissa smoothing her long purple evening glove along her wrist.\nEP12:E28 35600-37000 CLARISSA: \"Perhaps I can give you one.\"\nEP12:E29 37300-39200 CAMERA: Close-up of Juliana watching her with cautious skepticism.\nEP12:E30 37700-39000 JULIANA: \"What do you want?\"\nEP12:E31 39200-42100 CAMERA: Medium two-shot of Clarissa in the foreground, turning slowly to face Juliana.\nEP12:E32 39500-41900 CLARISSA: \"I want to see you crawl, sister.\"\nEP12:E33 42100-47900 CAMERA: Medium close-up profile tracking shot of Clarissa pacing slowly as she spins her sadistic tale.\nEP12:E34 42200-47800 CLARISSA: \"My emerald signet ring fell deep into the frozen blackthorn briars at Ashworth Manor. The thorns have grown over it...\"\nEP12:E36 47900-52200 CLARISSA: \"...sharp as steel. The ground is frozen, like pure ice.\"\nEP12:E35 47900-52300 CAMERA: Close-up of Clarissa flexing her gloved fingers theatrically in front of her face.\nEP12:E37 52300-53500 ACTION: Gerald bursts into a loud, mocking laugh beside the stony Constable.\nEP12:E38 52300-56100 CAMERA: Medium two-shot of Clarissa stepping closer to Juliana, peering down into her eyes with a predatory smile.\nEP12:E39 52800-56100 CLARISSA: \"You will retrieve it with your bare hands before the magistrate arrives.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

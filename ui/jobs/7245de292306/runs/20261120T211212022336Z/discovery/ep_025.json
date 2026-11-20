@@ -1,0 +1,55 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "opp_1",
+      "episode_id": "ep_025",
+      "concept": "Alexander uncovers Juliana's riding-crop wound and demands the culprit's name, leading to her whispered accusation against Lady Catherine.",
+      "hook_refs": [
+        "EP25:E14"
+      ],
+      "ending_refs": [
+        "EP25:E34"
+      ],
+      "context_refs": [
+        "EP25:E17",
+        "EP25:E24"
+      ],
+      "why_promising": "The hook is a visible bloody shoulder wound at 18800ms. The clip builds through Alexander's escalating fury and the Lady Catherine accusation, and it ends on the unresolved line that Juliana went into Ashburg Manor to help someone (ending 54200ms, duration 35400ms, all within the first coverage interval)."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_2",
+      "episode_id": "ep_025",
+      "concept": "Juliana says the Dowager Duchess was not dying of old age but poisoned with arsenic, and the clip ends on the repeated small-dose poisoning claim.",
+      "hook_refs": [
+        "EP25:E43"
+      ],
+      "ending_refs": [
+        "EP25:E55"
+      ],
+      "context_refs": [
+        "EP25:E45",
+        "EP25:E51"
+      ],
+      "why_promising": "The hook is Juliana's account that the doctor called it age, which sets up the reveal. The clip escalates through 'But it wasn't age' and 'Arsenic,' and ends on the unresolved claim that someone keeps giving her poison (ending 97400ms, duration 28600ms, within the second coverage interval)."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_3",
+      "episode_id": "ep_025",
+      "concept": "Alexander learns Juliana has been in danger and demands she stop returning to the Dowager, and she refuses to abandon her.",
+      "hook_refs": [
+        "EP25:E77"
+      ],
+      "ending_refs": [
+        "EP25:E88"
+      ],
+      "context_refs": [
+        "EP25:E79",
+        "EP25:E81"
+      ],
+      "why_promising": "The hook is Alexander's accusation that Juliana stood inside a house where someone is poisoning a woman and never told him. The clip carries the argument over her safety and ends on her unresolved declaration 'I cannot abandon her' (ending 151200ms, duration 23000ms, within the second coverage interval)."
+    }
+  ]
+}

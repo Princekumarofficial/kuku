@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "series_id": "series_001",
+  "scope": {
+    "type": "episode",
+    "episode_id": "ep_024"
+  },
+  "promos": [
+    {
+      "candidate_id": "c_fd28d4156f907332",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 16400,
+          "end_ms": 48000,
+          "episode_id": "ep_024"
+        }
+      ],
+      "duration_ms": 31600,
+      "hook": {
+        "description": "The opening shows an icy noblewoman and a near-unconscious Duchess within the first 2.4s, and Juliana secretly pocketing a vial in the next seconds raises an immediate question. The hook is strong but the stakes are not yet clear.",
+        "evidence_refs": [
+          "EP24:E9",
+          "EP24:E11",
+          "EP24:E12"
+        ]
+      },
+      "cliffhanger": {
+        "description": "The clip ends on a threat, 'Perhaps we can teach you your place', with Juliana still under the noblewoman's control. The Duchess is still unconscious and the hidden remedy is unused, so the central tension stays open. The beat is more of a menacing scene close than a true suspense hook.",
+        "evidence_refs": [
+          "EP24:E36",
+          "EP24:E35",
+          "EP24:E11"
+        ]
+      },
+      "why_it_works": "Clear cruelty and a secret remedy create immediate tension and sympathy for Juliana, even though the context is thin for a first-time viewer.",
+      "scores": {
+        "hook": 6.5,
+        "cliffhanger": 5.0,
+        "standalone": 5.0,
+        "emotion": 7.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 5.75
+      },
+      "warnings": [
+        "Juliana's motive for hiding the vial is not explained beyond her wish to help",
+        "Stakes of the Duchess's condition are visible but not personalized",
+        "The noblewoman's authority and grudge are never established",
+        "The sequence of the strike and the insults is repetitive and dwells on humiliation",
+        "The ending lacks a concrete unresolved event beyond verbal threat",
+        "Spoilers not checked",
+        "Identity and relationship of the noblewoman to the Duchess and to Juliana",
+        "Why the noblewoman is hostile and why she has authority over Juliana",
+        "Nature and purpose of the glass remedy vial and whether it treats the Duchess",
+        "Why Juliana's role as a maid or lady is contested and what the social setting is",
+        "Why the physicians are not treating the Duchess",
+        "Series context implied by the EP24 label",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 1,
+      "promo_id": "p_001"
+    }
+  ],
+  "construction": {
+    "opportunities": 4,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "PARTIAL_DIALOGUE": 256,
+      "DURATION_OUT_OF_RANGE": 1025
+    }
+  },
+  "rejected_candidates": [
+    {
+      "candidate_id": "c_5264fad1d7633819",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_f08dbd928e265d55",
+      "reasons": [
+        "WEAK_CLIFFHANGER"
+      ]
+    },
+    {
+      "candidate_id": "c_ab1bfa5f9ce0e227",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    }
+  ]
+}

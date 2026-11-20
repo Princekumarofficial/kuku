@@ -1,0 +1,602 @@
+[
+  {
+    "candidate_id": "c_e877d6e86e6be790",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 5500,
+        "end_ms": 28500,
+        "episode_id": "ep_014"
+      }
+    ],
+    "duration_ms": 23000,
+    "origin": "ep014_opp_01",
+    "clip_events": [
+      {
+        "ref": "EP14:E1",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up low angle looking through dense, sharp blackthorn branches onto the cracked, frozen soil."
+      },
+      {
+        "ref": "EP14:E4",
+        "segment_index": 0,
+        "relative_start_ms": 100,
+        "relative_end_ms": 4000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana stepping out from the briar patch, her cloak torn, cheeks scratched, holding the ring outward with unwavering resolve."
+      },
+      {
+        "ref": "EP14:E5",
+        "segment_index": 0,
+        "relative_start_ms": 2200,
+        "relative_end_ms": 3500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I found it.\""
+      },
+      {
+        "ref": "EP14:E6",
+        "segment_index": 0,
+        "relative_start_ms": 4000,
+        "relative_end_ms": 8000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot of Juliana holding the ring out toward the austere Police Constable standing guard beside the frozen garden."
+      },
+      {
+        "ref": "EP14:E7",
+        "segment_index": 0,
+        "relative_start_ms": 5000,
+        "relative_end_ms": 7200,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Now release my husband.\""
+      },
+      {
+        "ref": "EP14:E8",
+        "segment_index": 0,
+        "relative_start_ms": 7000,
+        "relative_end_ms": 8000,
+        "type": "action",
+        "speaker": null,
+        "text": "The Constable takes the ring from her bloodied fingers."
+      },
+      {
+        "ref": "EP14:E9",
+        "segment_index": 0,
+        "relative_start_ms": 8000,
+        "relative_end_ms": 10000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight shot on the iron shackles locking Alexander's wrists together against the thorny backdrop."
+      },
+      {
+        "ref": "EP14:E10",
+        "segment_index": 0,
+        "relative_start_ms": 8700,
+        "relative_end_ms": 9900,
+        "type": "sound",
+        "speaker": null,
+        "text": "Sharp metallic click and clinking rattle of heavy iron handcuffs unlocking and falling away."
+      },
+      {
+        "ref": "EP14:E11",
+        "segment_index": 0,
+        "relative_start_ms": 9000,
+        "relative_end_ms": 10100,
+        "type": "action",
+        "speaker": null,
+        "text": "The Constable unlocks the cuffs, freeing Alexander's large hands."
+      },
+      {
+        "ref": "EP14:E12",
+        "segment_index": 0,
+        "relative_start_ms": 10100,
+        "relative_end_ms": 13000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tracking shot as Alexander lunges forward without hesitation, rushing past the Constable straight to Juliana."
+      },
+      {
+        "ref": "EP14:E13",
+        "segment_index": 0,
+        "relative_start_ms": 11300,
+        "relative_end_ms": 12500,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Juliana.\""
+      },
+      {
+        "ref": "EP14:E14",
+        "segment_index": 0,
+        "relative_start_ms": 13000,
+        "relative_end_ms": 17500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Alexander's rugged hands tenderly grasping Juliana's bloodied, lacerated hands, turning them over with immense care."
+      },
+      {
+        "ref": "EP14:E15",
+        "segment_index": 0,
+        "relative_start_ms": 13300,
+        "relative_end_ms": 17500,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander gently turns her palms up, his thumbs trembling as he inspects the deep, bleeding gashes gouged into her skin."
+      },
+      {
+        "ref": "EP14:E16",
+        "segment_index": 0,
+        "relative_start_ms": 17500,
+        "relative_end_ms": 20000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Alexander's agonized, furious expression as he stares at her wounds."
+      },
+      {
+        "ref": "EP14:E17",
+        "segment_index": 0,
+        "relative_start_ms": 17600,
+        "relative_end_ms": 19500,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"What have they done to you?\""
+      },
+      {
+        "ref": "EP14:E18",
+        "segment_index": 0,
+        "relative_start_ms": 20000,
+        "relative_end_ms": 23000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana's pale, tear-streaked face looking back into his eyes with tender relief."
+      },
+      {
+        "ref": "EP14:E19",
+        "segment_index": 0,
+        "relative_start_ms": 21000,
+        "relative_end_ms": 23000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Nothing they didn't promise.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_8482e1a66953db13",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 47000,
+        "end_ms": 81000,
+        "episode_id": "ep_014"
+      }
+    ],
+    "duration_ms": 34000,
+    "origin": "ep014_opp_02",
+    "clip_events": [
+      {
+        "ref": "EP14:E30",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 500,
+        "type": "sound",
+        "speaker": null,
+        "text": "Crackling flames and wood popping in the open fireplace."
+      },
+      {
+        "ref": "EP14:E31",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 3500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Intimate over-the-shoulder close-up looking up into Juliana's face from Alexander's perspective."
+      },
+      {
+        "ref": "EP14:E32",
+        "segment_index": 0,
+        "relative_start_ms": 200,
+        "relative_end_ms": 2800,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"You could have lost your hands.\""
+      },
+      {
+        "ref": "EP14:E33",
+        "segment_index": 0,
+        "relative_start_ms": 3500,
+        "relative_end_ms": 8500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up on Juliana's glistening eyes and trembling lips, firelight reflecting softly across her face."
+      },
+      {
+        "ref": "EP14:E34",
+        "segment_index": 0,
+        "relative_start_ms": 4800,
+        "relative_end_ms": 7000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"But I didn't lose you.\""
+      },
+      {
+        "ref": "EP14:E35",
+        "segment_index": 0,
+        "relative_start_ms": 8500,
+        "relative_end_ms": 11500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Alexander's scarred, weathered fingers wrapping the cloth tightly yet gently around her lacerations."
+      },
+      {
+        "ref": "EP14:E37",
+        "segment_index": 0,
+        "relative_start_ms": 11500,
+        "relative_end_ms": 13000,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"I'm sorry.\""
+      },
+      {
+        "ref": "EP14:E36",
+        "segment_index": 0,
+        "relative_start_ms": 11500,
+        "relative_end_ms": 13500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Alexander looking up at her with profound remorse and affection."
+      },
+      {
+        "ref": "EP14:E39",
+        "segment_index": 0,
+        "relative_start_ms": 13500,
+        "relative_end_ms": 15500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You didn't hurt me.\""
+      },
+      {
+        "ref": "EP14:E38",
+        "segment_index": 0,
+        "relative_start_ms": 13500,
+        "relative_end_ms": 16500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana smiling faintly through her tears, shaking her head."
+      },
+      {
+        "ref": "EP14:E40",
+        "segment_index": 0,
+        "relative_start_ms": 16500,
+        "relative_end_ms": 19000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Side profile close-up of Alexander lowering his head solemnly in front of her."
+      },
+      {
+        "ref": "EP14:E42",
+        "segment_index": 0,
+        "relative_start_ms": 19000,
+        "relative_end_ms": 20400,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You have taken my place today.\""
+      },
+      {
+        "ref": "EP14:E41",
+        "segment_index": 0,
+        "relative_start_ms": 19000,
+        "relative_end_ms": 23500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot as Alexander gently drapes a heavy warm woolen blanket across Juliana's lap and around her shoulders."
+      },
+      {
+        "ref": "EP14:E43",
+        "segment_index": 0,
+        "relative_start_ms": 20500,
+        "relative_end_ms": 22800,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"And you are doing it better than me.\""
+      },
+      {
+        "ref": "EP14:E44",
+        "segment_index": 0,
+        "relative_start_ms": 23500,
+        "relative_end_ms": 29000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as Juliana rests her cheek against Alexander's chest; he embraces her tightly against him, cradling her head under his chin."
+      },
+      {
+        "ref": "EP14:E45",
+        "segment_index": 0,
+        "relative_start_ms": 24000,
+        "relative_end_ms": 29000,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana closes her eyes in exhausted relief, sinking into Alexander's warmth as his broad arm encloses her safely."
+      },
+      {
+        "ref": "EP14:E46",
+        "segment_index": 0,
+        "relative_start_ms": 29000,
+        "relative_end_ms": 34000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of Alexander holding Juliana against his bearded cheek, kissing the crown of her head before gently cradling her jaw in his scarred hand."
+      },
+      {
+        "ref": "EP14:E47",
+        "segment_index": 0,
+        "relative_start_ms": 29500,
+        "relative_end_ms": 34000,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"No one will ever hurt you for protecting me again.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_b6643efb629348c2",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 63500,
+        "end_ms": 87000,
+        "episode_id": "ep_014"
+      }
+    ],
+    "duration_ms": 23500,
+    "origin": "ep014_opp_03",
+    "clip_events": [
+      {
+        "ref": "EP14:E40",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Side profile close-up of Alexander lowering his head solemnly in front of her."
+      },
+      {
+        "ref": "EP14:E42",
+        "segment_index": 0,
+        "relative_start_ms": 2500,
+        "relative_end_ms": 3900,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You have taken my place today.\""
+      },
+      {
+        "ref": "EP14:E41",
+        "segment_index": 0,
+        "relative_start_ms": 2500,
+        "relative_end_ms": 7000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot as Alexander gently drapes a heavy warm woolen blanket across Juliana's lap and around her shoulders."
+      },
+      {
+        "ref": "EP14:E43",
+        "segment_index": 0,
+        "relative_start_ms": 4000,
+        "relative_end_ms": 6300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"And you are doing it better than me.\""
+      },
+      {
+        "ref": "EP14:E44",
+        "segment_index": 0,
+        "relative_start_ms": 7000,
+        "relative_end_ms": 12500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as Juliana rests her cheek against Alexander's chest; he embraces her tightly against him, cradling her head under his chin."
+      },
+      {
+        "ref": "EP14:E45",
+        "segment_index": 0,
+        "relative_start_ms": 7500,
+        "relative_end_ms": 12500,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana closes her eyes in exhausted relief, sinking into Alexander's warmth as his broad arm encloses her safely."
+      },
+      {
+        "ref": "EP14:E46",
+        "segment_index": 0,
+        "relative_start_ms": 12500,
+        "relative_end_ms": 20000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of Alexander holding Juliana against his bearded cheek, kissing the crown of her head before gently cradling her jaw in his scarred hand."
+      },
+      {
+        "ref": "EP14:E47",
+        "segment_index": 0,
+        "relative_start_ms": 13000,
+        "relative_end_ms": 17500,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"No one will ever hurt you for protecting me again.\""
+      },
+      {
+        "ref": "EP14:E48",
+        "segment_index": 0,
+        "relative_start_ms": 17700,
+        "relative_end_ms": 20000,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander strokes her cheek with his thumb, his gaze hardening into deadly, protective conviction."
+      },
+      {
+        "ref": "EP14:E49",
+        "segment_index": 0,
+        "relative_start_ms": 20000,
+        "relative_end_ms": 23500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle shot focusing down on two wooden buckets on the stone floor—one filled with dark, blood-soaked wash water reflecting the fireplace."
+      },
+      {
+        "ref": "EP14:E50",
+        "segment_index": 0,
+        "relative_start_ms": 20500,
+        "relative_end_ms": 23500,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander's muscular arm drops into frame beside the bloody bucket; his scarred knuckles slowly and tightly clench into an iron fist of brewing vengeance."
+      },
+      {
+        "ref": "EP14:E51",
+        "segment_index": 0,
+        "relative_start_ms": 21000,
+        "relative_end_ms": 23500,
+        "type": "sound",
+        "speaker": null,
+        "text": "Ominous, resonating low bass boom swelling into sudden silence as the screen cuts to black."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_8c45d9322f9cb194",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 55500,
+        "end_ms": 81000,
+        "episode_id": "ep_014"
+      }
+    ],
+    "duration_ms": 25500,
+    "origin": "ep014_opp_04",
+    "clip_events": [
+      {
+        "ref": "EP14:E35",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 3000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Alexander's scarred, weathered fingers wrapping the cloth tightly yet gently around her lacerations."
+      },
+      {
+        "ref": "EP14:E37",
+        "segment_index": 0,
+        "relative_start_ms": 3000,
+        "relative_end_ms": 4500,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"I'm sorry.\""
+      },
+      {
+        "ref": "EP14:E36",
+        "segment_index": 0,
+        "relative_start_ms": 3000,
+        "relative_end_ms": 5000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Alexander looking up at her with profound remorse and affection."
+      },
+      {
+        "ref": "EP14:E39",
+        "segment_index": 0,
+        "relative_start_ms": 5000,
+        "relative_end_ms": 7000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You didn't hurt me.\""
+      },
+      {
+        "ref": "EP14:E38",
+        "segment_index": 0,
+        "relative_start_ms": 5000,
+        "relative_end_ms": 8000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana smiling faintly through her tears, shaking her head."
+      },
+      {
+        "ref": "EP14:E40",
+        "segment_index": 0,
+        "relative_start_ms": 8000,
+        "relative_end_ms": 10500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Side profile close-up of Alexander lowering his head solemnly in front of her."
+      },
+      {
+        "ref": "EP14:E42",
+        "segment_index": 0,
+        "relative_start_ms": 10500,
+        "relative_end_ms": 11900,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You have taken my place today.\""
+      },
+      {
+        "ref": "EP14:E41",
+        "segment_index": 0,
+        "relative_start_ms": 10500,
+        "relative_end_ms": 15000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot as Alexander gently drapes a heavy warm woolen blanket across Juliana's lap and around her shoulders."
+      },
+      {
+        "ref": "EP14:E43",
+        "segment_index": 0,
+        "relative_start_ms": 12000,
+        "relative_end_ms": 14300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"And you are doing it better than me.\""
+      },
+      {
+        "ref": "EP14:E44",
+        "segment_index": 0,
+        "relative_start_ms": 15000,
+        "relative_end_ms": 20500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as Juliana rests her cheek against Alexander's chest; he embraces her tightly against him, cradling her head under his chin."
+      },
+      {
+        "ref": "EP14:E45",
+        "segment_index": 0,
+        "relative_start_ms": 15500,
+        "relative_end_ms": 20500,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana closes her eyes in exhausted relief, sinking into Alexander's warmth as his broad arm encloses her safely."
+      },
+      {
+        "ref": "EP14:E46",
+        "segment_index": 0,
+        "relative_start_ms": 20500,
+        "relative_end_ms": 25500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of Alexander holding Juliana against his bearded cheek, kissing the crown of her head before gently cradling her jaw in his scarred hand."
+      },
+      {
+        "ref": "EP14:E47",
+        "segment_index": 0,
+        "relative_start_ms": 21000,
+        "relative_end_ms": 25500,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"No one will ever hurt you for protecting me again.\""
+      }
+    ]
+  }
+]

@@ -1,0 +1,1106 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "ep_035",
+  "episode_number": 35,
+  "metadata": {
+    "logline": "Fleeing her captivity through a secret passage, Alexander's elderly mother treks through a bitter blizzard to a secluded cabin, where she tearfully reunites with her presumed-dead son and learns the horrifying conspiracy behind his supposed demise.",
+    "continuity_notes": "While Juliana faces trial and sentencing in the courtroom, this episode reveals Alexander's mother escaping confinement and tracking down Alexander in his mountain hideout, uncovering the dark treason that orchestrates both their fates."
+  },
+  "source": {
+    "file": "034_episode-035-Episode 1681368.txt",
+    "sha256": "07326970ef3d6f070ac1d6590c28721fda574046ea5e3885daec412a9f2d9ea6",
+    "complete": false
+  },
+  "scenes": [
+    {
+      "start_ms": 0,
+      "end_ms": 15500,
+      "id": "sc_001",
+      "heading": "INT. STONE CORRIDOR - NIGHT"
+    },
+    {
+      "start_ms": 15500,
+      "end_ms": 27500,
+      "id": "sc_002",
+      "heading": "EXT. SNOWY FOREST / CABIN - NIGHT"
+    },
+    {
+      "start_ms": 27500,
+      "end_ms": 157500,
+      "id": "sc_003",
+      "heading": "INT. SECLUDED CABIN - CONTINUOUS"
+    }
+  ],
+  "events": [
+    {
+      "start_ms": 0,
+      "end_ms": 5200,
+      "id": "e_001",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium tracking shot following an elderly hooded woman clutching an iron lantern as she stumbles anxiously through a damp subterranean stone tunnel.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        14,
+        16
+      ]
+    },
+    {
+      "start_ms": 0,
+      "end_ms": 5200,
+      "id": "e_002",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Alexander's mother, frail with silver hair under a dark hooded cloak, braces her hand against the rough stone wall, panting heavily in fear.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        18,
+        20
+      ]
+    },
+    {
+      "start_ms": 5500,
+      "end_ms": 8500,
+      "id": "e_003",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I will not die in that house.\"",
+      "speaker": "ALEXANDER'S MOTHER",
+      "delivery": "Determined, Breathless",
+      "source_lines": [
+        22,
+        24
+      ]
+    },
+    {
+      "start_ms": 9000,
+      "end_ms": 12800,
+      "id": "e_004",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on her trembling, weathered hands gripping a mossy stone bolt set into a heavy iron plate on the stone wall.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        26,
+        28
+      ]
+    },
+    {
+      "start_ms": 9500,
+      "end_ms": 12800,
+      "id": "e_005",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "She uses all her strength to shove the stone bolt upward, disengaging the hidden lock mechanism.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        30,
+        32
+      ]
+    },
+    {
+      "start_ms": 11200,
+      "end_ms": 13000,
+      "id": "e_006",
+      "scene_id": "sc_001",
+      "type": "sound",
+      "text": "Heavy stone grating and metallic latch clanging as the lock releases.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        34,
+        36
+      ]
+    },
+    {
+      "start_ms": 13000,
+      "end_ms": 15500,
+      "id": "e_007",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "The heavy stone doorway swings inward, and the elderly woman ducks low, crawling through the opening into the cold night outside.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        38,
+        40
+      ]
+    },
+    {
+      "start_ms": 15500,
+      "end_ms": 19500,
+      "id": "e_008",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Wide atmospheric shot of a deep, snow-covered pine forest at night. In the distance stands a small secluded log cabin nestled under towering snowy trees.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        49,
+        51
+      ]
+    },
+    {
+      "start_ms": 15500,
+      "end_ms": 19500,
+      "id": "e_009",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "Alexander's mother plods through the thick snow, leaning heavily on a wooden walking stick, her dark cloak dusted with snow.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        53,
+        55
+      ]
+    },
+    {
+      "start_ms": 16000,
+      "end_ms": 19500,
+      "id": "e_010",
+      "scene_id": "sc_002",
+      "type": "sound",
+      "text": "Howling winter wind and crunching of footsteps in deep snow.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        57,
+        59
+      ]
+    },
+    {
+      "start_ms": 19500,
+      "end_ms": 24000,
+      "id": "e_011",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium close-up of Alexander's mother arriving beside the frosted wooden door frame under sharp hanging icicles, shivering violently from the freezing cold.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        61,
+        63
+      ]
+    },
+    {
+      "start_ms": 21000,
+      "end_ms": 23000,
+      "id": "e_012",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"This must be the place.\"",
+      "speaker": "ALEXANDER'S MOTHER",
+      "delivery": "Whispering, Weary",
+      "source_lines": [
+        65,
+        67
+      ]
+    },
+    {
+      "start_ms": 24000,
+      "end_ms": 27500,
+      "id": "e_013",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up on her wool-gloved hand unlatching the icy wooden door handle and pushing it open.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        69,
+        71
+      ]
+    },
+    {
+      "start_ms": 24800,
+      "end_ms": 27000,
+      "id": "e_014",
+      "scene_id": "sc_002",
+      "type": "sound",
+      "text": "Creak of cold wooden hinges opening.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        73,
+        75
+      ]
+    },
+    {
+      "start_ms": 27500,
+      "end_ms": 30800,
+      "id": "e_015",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Panning shot from the open doorway revealing the warm, dimly lit cabin interior, settling on Alexander standing over a rustic wooden table by lantern light.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        84,
+        86
+      ]
+    },
+    {
+      "start_ms": 28500,
+      "end_ms": 30800,
+      "id": "e_016",
+      "scene_id": "sc_003",
+      "type": "action",
+      "text": "Alexander, wearing a rugged trench coat, his scarred face framed by long dark hair, stands studying an unfolded tactical map before snapping his head up in alarm.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        88,
+        90
+      ]
+    },
+    {
+      "start_ms": 30800,
+      "end_ms": 33800,
+      "id": "e_017",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Medium shot of Alexander's mother stepping across the threshold, holding up her burning lantern, her eyes wide with shock.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        92,
+        94
+      ]
+    },
+    {
+      "start_ms": 33800,
+      "end_ms": 36500,
+      "id": "e_018",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Extreme close-up on Alexander's scarred left cheek and wide, disbelieving blue eyes.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        96,
+        98
+      ]
+    },
+    {
+      "start_ms": 36500,
+      "end_ms": 40500,
+      "id": "e_019",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Close-up on his mother's tear-streaked face as her chin trembles and tears spill down her cheeks.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        100,
+        102
+      ]
+    },
+    {
+      "start_ms": 37000,
+      "end_ms": 40000,
+      "id": "e_020",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"Alexander!\"",
+      "speaker": "ALEXANDER'S MOTHER",
+      "delivery": "Sobbing, Stunned",
+      "source_lines": [
+        104,
+        106
+      ]
+    },
+    {
+      "start_ms": 40500,
+      "end_ms": 44200,
+      "id": "e_021",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Close-up on Alexander as his hard expression crumbles into utter astonishment.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        108,
+        110
+      ]
+    },
+    {
+      "start_ms": 42500,
+      "end_ms": 44200,
+      "id": "e_022",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"Mother?\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Breathless, In Disbelief",
+      "source_lines": [
+        112,
+        114
+      ]
+    },
+    {
+      "start_ms": 44200,
+      "end_ms": 47500,
+      "id": "e_023",
+      "scene_id": "sc_003",
+      "type": "action",
+      "text": "She drops her walking staff and rushes forward, throwing her arms around Alexander's neck. He pulls her tightly into his chest.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        116,
+        118
+      ]
+    },
+    {
+      "start_ms": 45500,
+      "end_ms": 48000,
+      "id": "e_024",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"You're alive.\"",
+      "speaker": "ALEXANDER'S MOTHER",
+      "delivery": "Weeping, Overwhelmed",
+      "source_lines": [
+        120,
+        122
+      ]
+    },
+    {
+      "start_ms": 48000,
+      "end_ms": 49800,
+      "id": "e_025",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"Mother.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Gentle, Choked Up",
+      "source_lines": [
+        124,
+        126
+      ]
+    },
+    {
+      "start_ms": 50000,
+      "end_ms": 55500,
+      "id": "e_026",
+      "scene_id": "sc_003",
+      "type": "action",
+      "text": "She leans back slightly, her frail hand reaching up to gently cup his bearded, scarred cheek, staring into his eyes in disbelief.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        128,
+        130
+      ]
+    },
+    {
+      "start_ms": 52500,
+      "end_ms": 55000,
+      "id": "e_027",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"I buried you.\"",
+      "speaker": "ALEXANDER'S MOTHER",
+      "delivery": "Tearful, Heartbroken",
+      "source_lines": [
+        132,
+        134
+      ]
+    },
+    {
+      "start_ms": 56500,
+      "end_ms": 58000,
+      "id": "e_028",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"I know.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Soft, Somber",
+      "source_lines": [
+        136,
+        138
+      ]
+    },
+    {
+      "start_ms": 59500,
+      "end_ms": 66000,
+      "id": "e_029",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"They told me you died. They told me your entire regiment was destroyed.\"",
+      "speaker": "ALEXANDER'S MOTHER",
+      "delivery": "Anguished, Accusing",
+      "source_lines": [
+        140,
+        142
+      ]
+    },
+    {
+      "start_ms": 66500,
+      "end_ms": 71000,
+      "id": "e_030",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Close-up on Alexander's hardened, shadowed profile, his jaw tight with grim memories.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        144,
+        146
+      ]
+    },
+    {
+      "start_ms": 68500,
+      "end_ms": 70800,
+      "id": "e_031",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"Most of them were.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Dark, Resigned",
+      "source_lines": [
+        148,
+        150
+      ]
+    },
+    {
+      "start_ms": 71500,
+      "end_ms": 74000,
+      "id": "e_032",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"Then how did you survive?\"",
+      "speaker": "ALEXANDER'S MOTHER",
+      "delivery": "Searching, Desperate",
+      "source_lines": [
+        152,
+        154
+      ]
+    },
+    {
+      "start_ms": 74200,
+      "end_ms": 78000,
+      "id": "e_033",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Side profile of Alexander as his eyes look into the distance, haunted by the past.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        156,
+        158
+      ]
+    },
+    {
+      "start_ms": 75000,
+      "end_ms": 77500,
+      "id": "e_034",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"I wasn't supposed to.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Grim, Quiet",
+      "source_lines": [
+        160,
+        162
+      ]
+    },
+    {
+      "start_ms": 78000,
+      "end_ms": 82500,
+      "id": "e_035",
+      "scene_id": "sc_003",
+      "type": "action",
+      "text": "Alexander steps over to the wooden table, looking down at the parchment map spread out under the lantern.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        164,
+        166
+      ]
+    },
+    {
+      "start_ms": 79000,
+      "end_ms": 83000,
+      "id": "e_036",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"Three years ago, I was sent to the Iberian front.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Solemn",
+      "source_lines": [
+        168,
+        170
+      ]
+    },
+    {
+      "start_ms": 83000,
+      "end_ms": 87000,
+      "id": "e_037",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Close-up of Alexander's weathered face looking down pensively as he recounts the mission.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        172,
+        174
+      ]
+    },
+    {
+      "start_ms": 83000,
+      "end_ms": 89000,
+      "id": "e_038",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"It was a classified Crown mission. We were investigating a British officer selling military secrets to French spies.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Steady, Focused",
+      "source_lines": [
+        176,
+        178
+      ]
+    },
+    {
+      "start_ms": 87000,
+      "end_ms": 89800,
+      "id": "e_039",
+      "scene_id": "sc_003",
+      "type": "action",
+      "text": "Alexander's scarred finger points to a red-circled location on the parchment map marked near Madrid.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        180,
+        182
+      ]
+    },
+    {
+      "start_ms": 89800,
+      "end_ms": 92000,
+      "id": "e_040",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Close-up on his mother, gasping with wide, horrified eyes.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        184,
+        186
+      ]
+    },
+    {
+      "start_ms": 89800,
+      "end_ms": 91500,
+      "id": "e_041",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"A traitor?\"",
+      "speaker": "ALEXANDER'S MOTHER",
+      "delivery": "Shocked",
+      "source_lines": [
+        188,
+        190
+      ]
+    },
+    {
+      "start_ms": 92000,
+      "end_ms": 93200,
+      "id": "e_042",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"Yes.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Cold, Firm",
+      "source_lines": [
+        192,
+        194
+      ]
+    },
+    {
+      "start_ms": 93500,
+      "end_ms": 97500,
+      "id": "e_043",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Medium shot framing both of them across the wooden table bathed in amber lantern glow.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        196,
+        198
+      ]
+    },
+    {
+      "start_ms": 94500,
+      "end_ms": 97000,
+      "id": "e_044",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"We were close to finding him.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Grave",
+      "source_lines": [
+        200,
+        202
+      ]
+    },
+    {
+      "start_ms": 98500,
+      "end_ms": 101000,
+      "id": "e_045",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"Then came the ambush.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Hardened",
+      "source_lines": [
+        204,
+        206
+      ]
+    },
+    {
+      "start_ms": 101200,
+      "end_ms": 104200,
+      "id": "e_046",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Close-up on Alexander's scarred hand clenching into a fist, furiously crumbling the parchment map beneath his knuckles.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        208,
+        210
+      ]
+    },
+    {
+      "start_ms": 101500,
+      "end_ms": 104200,
+      "id": "e_047",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"My men were slaughtered.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Bitter, Painful",
+      "source_lines": [
+        212,
+        214
+      ]
+    },
+    {
+      "start_ms": 104200,
+      "end_ms": 106500,
+      "id": "e_048",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Close-up of his mother clutching at her throat, tears glistening in her eyes.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        216,
+        218
+      ]
+    },
+    {
+      "start_ms": 104500,
+      "end_ms": 106000,
+      "id": "e_049",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"And you?\"",
+      "speaker": "ALEXANDER'S MOTHER",
+      "delivery": "Trembling, Anxious",
+      "source_lines": [
+        220,
+        222
+      ]
+    },
+    {
+      "start_ms": 107000,
+      "end_ms": 110000,
+      "id": "e_050",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"I was shot. Left for dead.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Hollow",
+      "source_lines": [
+        224,
+        226
+      ]
+    },
+    {
+      "start_ms": 110000,
+      "end_ms": 113500,
+      "id": "e_051",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Medium shot of his mother placing both hands on the table, leaning forward in disbelief.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        228,
+        230
+      ]
+    },
+    {
+      "start_ms": 111000,
+      "end_ms": 113000,
+      "id": "e_052",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"How did you escape?\"",
+      "speaker": "ALEXANDER'S MOTHER",
+      "delivery": "Pleading, Astonished",
+      "source_lines": [
+        232,
+        234
+      ]
+    },
+    {
+      "start_ms": 113500,
+      "end_ms": 118000,
+      "id": "e_053",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Close-up on Alexander, his eyes dark with the harrowing memory.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        236,
+        238
+      ]
+    },
+    {
+      "start_ms": 114000,
+      "end_ms": 118000,
+      "id": "e_054",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"I crawled away from the battlefield, half dead, alone.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Somber, Low",
+      "source_lines": [
+        240,
+        242
+      ]
+    },
+    {
+      "start_ms": 118200,
+      "end_ms": 122000,
+      "id": "e_055",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"I survived because the men who came looking for me believed I was already dead.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Continuing",
+      "source_lines": [
+        244,
+        246
+      ]
+    },
+    {
+      "start_ms": 122000,
+      "end_ms": 125500,
+      "id": "e_056",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Close-up on his mother as her expression shifts to profound bewilderment and outrage.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        248,
+        250
+      ]
+    },
+    {
+      "start_ms": 122000,
+      "end_ms": 125500,
+      "id": "e_057",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"Then why did they never tell us?\"",
+      "speaker": "ALEXANDER'S MOTHER",
+      "delivery": "Aghast, Stunned",
+      "source_lines": [
+        252,
+        254
+      ]
+    },
+    {
+      "start_ms": 125500,
+      "end_ms": 129500,
+      "id": "e_058",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Close-up on Alexander's intense, piercing gaze.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        256,
+        258
+      ]
+    },
+    {
+      "start_ms": 126000,
+      "end_ms": 129500,
+      "id": "e_059",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"Because someone wanted you to believe I was dead.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Ominous, Deliberate",
+      "source_lines": [
+        260,
+        262
+      ]
+    },
+    {
+      "start_ms": 129500,
+      "end_ms": 130500,
+      "id": "e_060",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"Who?\"",
+      "speaker": "ALEXANDER'S MOTHER",
+      "delivery": "Breathless",
+      "source_lines": [
+        264,
+        266
+      ]
+    },
+    {
+      "start_ms": 130500,
+      "end_ms": 134000,
+      "id": "e_061",
+      "scene_id": "sc_003",
+      "type": "action",
+      "text": "Alexander turns away toward the frosted window, staring out into the dark raging blizzard outside.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        268,
+        270
+      ]
+    },
+    {
+      "start_ms": 131000,
+      "end_ms": 134000,
+      "id": "e_062",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"I spent three years trying to find out.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Brooding",
+      "source_lines": [
+        272,
+        274
+      ]
+    },
+    {
+      "start_ms": 134000,
+      "end_ms": 136800,
+      "id": "e_063",
+      "scene_id": "sc_003",
+      "type": "action",
+      "text": "Alexander abruptly pushes away from the window, storming back toward the table with burning rage.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        276,
+        278
+      ]
+    },
+    {
+      "start_ms": 134000,
+      "end_ms": 137000,
+      "id": "e_064",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"The ambush was not an accident.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Fierce, Resolute",
+      "source_lines": [
+        280,
+        282
+      ]
+    },
+    {
+      "start_ms": 137000,
+      "end_ms": 144000,
+      "id": "e_065",
+      "scene_id": "sc_003",
+      "type": "action",
+      "text": "He leans heavily over the wooden table, looming close as his fury boils over.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        284,
+        286
+      ]
+    },
+    {
+      "start_ms": 137000,
+      "end_ms": 140500,
+      "id": "e_066",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"Someone ordered my men to die.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Vehement, Enraged",
+      "source_lines": [
+        288,
+        290
+      ]
+    },
+    {
+      "start_ms": 141000,
+      "end_ms": 144000,
+      "id": "e_067",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"Someone wanted me erased.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Darkly Intimating",
+      "source_lines": [
+        292,
+        294
+      ]
+    },
+    {
+      "start_ms": 144000,
+      "end_ms": 145000,
+      "id": "e_068",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"Who?\"",
+      "speaker": "ALEXANDER'S MOTHER",
+      "delivery": "Gasping, Terrified",
+      "source_lines": [
+        296,
+        298
+      ]
+    },
+    {
+      "start_ms": 145000,
+      "end_ms": 150500,
+      "id": "e_069",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Tight close-up on Alexander's scarred, grim visage, his voice dropping to a deadly chill.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        300,
+        302
+      ]
+    },
+    {
+      "start_ms": 145500,
+      "end_ms": 150000,
+      "id": "e_070",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"The men behind it... are the same men ruling Ashwood now.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Deadly, Chilling",
+      "source_lines": [
+        304,
+        306
+      ]
+    },
+    {
+      "start_ms": 150500,
+      "end_ms": 157500,
+      "id": "e_071",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Close-up on his mother's face as the horrifying realization hits her, her mouth open in a soundless gasp of sheer dread as the scene holds and slowly fades.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        308,
+        310
+      ]
+    },
+    {
+      "start_ms": 150800,
+      "end_ms": 157500,
+      "id": "e_072",
+      "scene_id": "sc_003",
+      "type": "sound",
+      "text": "A sudden, ominous orchestral crescendo swells dramatically into silence.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        312,
+        314
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "start_ms": 0,
+      "end_ms": 5200
+    },
+    {
+      "start_ms": 5500,
+      "end_ms": 8500
+    },
+    {
+      "start_ms": 9000,
+      "end_ms": 49800
+    },
+    {
+      "start_ms": 50000,
+      "end_ms": 55500
+    },
+    {
+      "start_ms": 56500,
+      "end_ms": 58000
+    },
+    {
+      "start_ms": 59500,
+      "end_ms": 66000
+    },
+    {
+      "start_ms": 66500,
+      "end_ms": 71000
+    },
+    {
+      "start_ms": 71500,
+      "end_ms": 74000
+    },
+    {
+      "start_ms": 74200,
+      "end_ms": 93200
+    },
+    {
+      "start_ms": 93500,
+      "end_ms": 97500
+    },
+    {
+      "start_ms": 98500,
+      "end_ms": 101000
+    },
+    {
+      "start_ms": 101200,
+      "end_ms": 106500
+    },
+    {
+      "start_ms": 107000,
+      "end_ms": 118000
+    },
+    {
+      "start_ms": 118200,
+      "end_ms": 157500
+    }
+  ],
+  "warnings": [
+    "sc_001: incomplete source coverage; gaps are unavailable",
+    "sc_003: incomplete source coverage; gaps are unavailable"
+  ]
+}

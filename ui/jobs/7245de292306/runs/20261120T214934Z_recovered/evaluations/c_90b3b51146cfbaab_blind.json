@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_90b3b51146cfbaab",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP49:E38",
+      "EP49:E39"
+    ],
+    "reason": "The clip opens within 0-3000ms with Father Thomas questioning Catherine's demand for eyes inside the council chamber, which creates immediate tension about a secret favor."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP49:E53",
+      "EP49:E54"
+    ],
+    "reason": "The final 3000ms end on Catherine's veiled threat about debts with Father Thomas's answer withheld, so his decision is left open. The stakes are not resolved within the clip, though the ending is a line of dialogue rather than an action beat.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Identity and role of the Duke and why he is dangerous",
+      "What the council chamber hearing concerns",
+      "Why the church humiliated Catherine and what 'back into relevance' means",
+      "What treason was committed or implied",
+      "Who Catherine is and what her future depends on",
+      "What debts Catherine is referring to"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The confrontation carries strong tension through defiance, fear of exposure, and the veiled threat in the final line."
+  },
+  "weaknesses": [
+    "Stakes are asserted through dialogue but not grounded in visible context for a first-time viewer",
+    "Father Thomas's decision is not shown, so the exchange can feel like an unfinished scene rather than a complete beat",
+    "Characters reference a Duke, a King, a hearing, and treason without explanation",
+    "The camera directions are repetitive and do not add new information"
+  ],
+  "one_line_why_it_works": "A tense, secretive bargain between two characters ends on a menacing line about debts, which leaves the viewer wanting to know Father Thomas's answer."
+}

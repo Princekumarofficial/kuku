@@ -1,0 +1,85 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "opp_1",
+      "episode_id": "ep_036",
+      "concept": "Alexander names Sterling and Rupert as the men who hid him, and his mother's shocked reaction escalates into his account of the leak to the French.",
+      "hook_refs": [
+        "EP36:E9"
+      ],
+      "ending_refs": [
+        "EP36:E19"
+      ],
+      "context_refs": [
+        "EP36:E8"
+      ],
+      "why_promising": "The hook names the conspirators within the first second of the clip, and the ending line about the location being given to the enemy leaves an open betrayal question. The clip spans about 21.7 seconds from 12800 to 34500 ms."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_2",
+      "episode_id": "ep_036",
+      "concept": "Alexander reveals that his position was leaked to the French before he could expose his discoveries, and his mother is horrified.",
+      "hook_refs": [
+        "EP36:E15"
+      ],
+      "ending_refs": [
+        "EP36:E30"
+      ],
+      "context_refs": [
+        "EP36:E14"
+      ],
+      "why_promising": "The leak revelation is a sharp opening, and the ending about Rupert taking Ashbourne leaves the takeover unexplained. The clip runs from 23600 to 51800 ms, about 28 seconds."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_3",
+      "episode_id": "ep_036",
+      "concept": "Alexander learns that Juliana went to Ashbourne to save his mother and never came back, and his mother admits Juliana came to her.",
+      "hook_refs": [
+        "EP36:E46"
+      ],
+      "ending_refs": [
+        "EP36:E66"
+      ],
+      "context_refs": [
+        "EP36:E48"
+      ],
+      "why_promising": "The hook states Juliana's disappearance at once, and the ending accusation of poisoning is an unresolved cliffhanger. The clip runs from 74800 to 109800 ms, about 35 seconds."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_4",
+      "episode_id": "ep_036",
+      "concept": "Alexander learns that Juliana was arrested and falsely accused of poisoning him, and that she was condemned to execution.",
+      "hook_refs": [
+        "EP36:E66"
+      ],
+      "ending_refs": [
+        "EP36:E85"
+      ],
+      "context_refs": [
+        "EP36:E63",
+        "EP36:E64"
+      ],
+      "why_promising": "The accusation hook is strong and reveals the stakes at once. The clip ends on the execution sentence, which leaves the rescue unresolved. The clip runs from 103500 to 138800 ms, about 35 seconds."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_5",
+      "episode_id": "ep_036",
+      "concept": "After Alexander protests that they stole his home, his mother's pleas fail and he hears that Juliana has been taken, and he resolves to return.",
+      "hook_refs": [
+        "EP36:E108"
+      ],
+      "ending_refs": [
+        "EP36:E119"
+      ],
+      "context_refs": [
+        "EP36:E106"
+      ],
+      "why_promising": "The hook of Juliana's capture follows the theft of his home, which gives the clip a clear escalation. The ending vows the dead Duke's return, which is a strong cliffhanger. The clip runs from 171600 to 196800 ms, about 25 seconds."
+    }
+  ]
+}

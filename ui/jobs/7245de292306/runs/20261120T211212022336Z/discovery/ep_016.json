@@ -1,0 +1,70 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "ep016_opp01",
+      "episode_id": "ep_016",
+      "concept": "Thug standoff and bare-handed weapon catch, ending on the Gerald Harrington accusation",
+      "hook_refs": [
+        "EP16:E4"
+      ],
+      "ending_refs": [
+        "EP16:E44"
+      ],
+      "context_refs": [
+        "EP16:E14",
+        "EP16:E16"
+      ],
+      "why_promising": "Opens on a direct threat from the Thug with Cap, escalates through Alexander catching the club bare-handed, and ends on the unverified name Gerald Harrington, an unresolved cliffhanger. Clip span 2100-52200 ms is 50100 ms."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep016_opp02",
+      "episode_id": "ep_016",
+      "concept": "Alexander interrogates the Thug with Cap against the cottage wall, ending on the romantic cliffhanger",
+      "hook_refs": [
+        "EP16:E36"
+      ],
+      "ending_refs": [
+        "EP16:E64"
+      ],
+      "context_refs": [
+        "EP16:E35"
+      ],
+      "why_promising": "The demanding question Who sent you? hooks immediately within the clip, with the thug lifted off the ground as visible tension. The clip closes on Alexander and Juliana face-to-face under a cello swell hold. Clip span 40800-83190 ms is 42390 ms."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep016_opp03",
+      "episode_id": "ep_016",
+      "concept": "Who?! interrogation leads to the Harrington accusation, ending on the garden cliffhanger",
+      "hook_refs": [
+        "EP16:E44"
+      ],
+      "ending_refs": [
+        "EP16:E64"
+      ],
+      "context_refs": [
+        "EP16:E42",
+        "EP16:E43"
+      ],
+      "why_promising": "Opens with Alexander roaring Who?! and the terrified thug gasping, then delivers the named accusation Harrington! Gerald Harrington paid us! within the first three seconds of the hook. The clip ends on the unresolved emotional cliffhanger. Clip span 48800-83190 ms is 34390 ms."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep016_opp04",
+      "episode_id": "ep_016",
+      "concept": "Fleeing thugs reveal they were only paid to destroy the garden, ending on the romantic cliffhanger",
+      "hook_refs": [
+        "EP16:E49"
+      ],
+      "ending_refs": [
+        "EP16:E64"
+      ],
+      "context_refs": [
+        "EP16:E48"
+      ],
+      "why_promising": "Starts on the thugs fleeing into the woods, then the hook shouts that they were only paid to destroy the garden, raising why this garden was targeted. The clip runs to the unresolved bond cliffhanger. Clip span 55500-83190 ms is 27690 ms."
+    }
+  ]
+}

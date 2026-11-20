@@ -1,0 +1,59 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "ep048_opp_01",
+      "episode_id": "ep_048",
+      "concept": "Catherine vows to use the ten-day reprieve to strike back, framing it as a door that can be closed from the other side.",
+      "hook_refs": [
+        "EP48:E3"
+      ],
+      "ending_refs": [
+        "EP48:E14"
+      ],
+      "context_refs": [
+        "EP48:E6",
+        "EP48:E8",
+        "EP48:E13"
+      ],
+      "why_promising": "Clip runs from 0 to 26500ms with the hook at 2400ms, inside the first coverage interval. Its ending line is a menacing, unresolved threat, and the clip stays within the 0-30800ms coverage span."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep048_opp_02",
+      "episode_id": "ep_048",
+      "concept": "Catherine, alone with her maid, admits the household saw her humiliated and orders the priest summoned in secret tonight.",
+      "hook_refs": [
+        "EP48:E23"
+      ],
+      "ending_refs": [
+        "EP48:E40"
+      ],
+      "context_refs": [
+        "EP48:E21",
+        "EP48:E22",
+        "EP48:E27",
+        "EP48:E29"
+      ],
+      "why_promising": "Clip runs from 34000 to 70500ms, within the 34000-80000ms coverage interval. The hook sits 200ms into the clip, and the ending line leaves the priest's arrival unresolved."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep048_opp_03",
+      "episode_id": "ep_048",
+      "concept": "Catherine says Father Thomas did his part and needs to do more, then orders the maid to bring him unseen.",
+      "hook_refs": [
+        "EP48:E31"
+      ],
+      "ending_refs": [
+        "EP48:E41"
+      ],
+      "context_refs": [
+        "EP48:E32",
+        "EP48:E34",
+        "EP48:E36"
+      ],
+      "why_promising": "Clip runs from 52000 to 73400ms, within the 34000-80000ms coverage interval. The hook opens the clip, and the ending instruction leaves whether the priest arrives unanswered."
+    }
+  ]
+}

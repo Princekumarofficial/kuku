@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_9a8b7b8b2963bb09 DURATION_MS=55000\nSEGMENT 1 (playback order)\nEP33:E46 0-500 CAMERA: Close-up of the maid weeping profusely, cornered and helpless.\nEP33:E48 500-5800 CAMERA: Wide shot of the study as the Lord stands calmly before the trembling servant.\nEP33:E49 600-1500 LORD: \"The truth.\"\nEP33:E50 2000-5500 LORD: \"She drew something around the bed, did she not?\"\nEP33:E51 5800-10000 CAMERA: Close-up of the maid stammering through her tears.\nEP33:E52 6500-9800 MAID: \"She... placed dried herbs around him.\"\nEP33:E54 10000-11500 LORD: \"Around him.\"\nEP33:E53 10000-15800 CAMERA: Medium close-up of the Lord standing right beside her shoulder, whispering in her ear like an insidious specter.\nEP33:E55 12000-13500 LORD: \"Like a circle?\"\nEP33:E56 14000-15500 MAID: \"Yes.\"\nEP33:E57 15800-19500 CAMERA: Close-up from behind the maid as the Lord leans close to her ear.\nEP33:E58 16000-19000 LORD: \"And she opened her mother's book...\"\nEP33:E60 19500-21000 MAID: \"Yes.\"\nEP33:E59 19500-21800 CAMERA: Extreme close-up of the maid's tear-drenched eyes and quivering lips.\nEP33:E61 21800-25200 CAMERA: Close-up of the Lord delivering the final trap.\nEP33:E62 22000-25000 LORD: \"...and spoke words you could not understand.\"\nEP33:E63 25200-28500 CAMERA: Close-up of the maid gasping out in desperate agony.\nEP33:E64 25500-27500 MAID: \"She was praying!\"\nEP33:E65 28500-32800 CAMERA: Close-up of the Lord grinning with sinister triumph.\nEP33:E66 29000-32500 LORD: \"Praying... or chanting?\"\nEP33:E67 32800-34800 CAMERA: Close-up of the maid breaking down completely.\nEP33:E68 33000-34500 MAID: \"I don't know!\"\nEP33:E69 34800-40500 CAMERA: Medium shot as the Lord paces slowly, pointing his finger with clinical, legal precision.\nEP33:E70 35000-37500 LORD: \"You saw a woman draw a circle of herbs.\"\nEP33:E71 37800-40500 LORD: \"You saw her use a forbidden book.\"\nEP33:E72 40500-44500 CAMERA: Close-up profile of the Lord leaning in right in front of the sobbing maid.\nEP33:E73 40800-43800 LORD: \"You heard words you could not understand.\"\nEP33:E74 44500-47800 CAMERA: Extreme close-up of the Lord's mouth and calculating eyes as he pronounces the lethal word.\nEP33:E75 45500-47500 LORD: \"That is witchcraft.\"\nEP33:E77 47800-52500 MAID: \"No! She saved Toby! She made him breathe again!\"\nEP33:E76 47800-52800 CAMERA: Medium two-shot as the maid steps forward, pleading passionately against his chest.\nEP33:E78 52800-55000 CAMERA: Close-up of the Lord calmly watching her futile resistance.\nEP33:E79 53000-55000 LORD: \"That will be your testimony.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

@@ -1,0 +1,245 @@
+{
+  "episode_id": "ep_042",
+  "summary": "Evidence is limited to on-screen event text for scene sc_001 (EP42:E1 to EP42:E37, 0-77800 ms). The source is flagged as incomplete with unavailable gaps, so the sequence beyond these events is unknown. Metadata was not treated as evidence. The speaker tagged BLOND NOBLEMAN is identified as Rupert from camera labels (EP42:E9, EP42:E13, EP42:E35) and Catherine's address (EP42:E19); this identification is inferred. Alexander's mother is unnamed on screen apart from the proclamation of Alexander Ashburn (EP42:E34). Alexander's survival and the reason he was presumed dead remain unexplained. The on-screen events show Alexander entering the ruined cathedral, Rupert denying him, the royal guard refusing to arrest him, Alexander's mother recognizing and proclaiming him rightful Duke, and Alexander vowing retribution against Rupert. Nothing on screen confirms the wider legal status of the claim or what was stolen.",
+  "characters": [
+    {
+      "name": "Alexander",
+      "role": "Returning claimant in ducal regalia, recognized by his mother and the royal guard, who declares his intent to settle accounts with Rupert"
+    },
+    {
+      "name": "Rupert",
+      "role": "Blond nobleman at the wedding who orders Alexander's arrest, is presumed to hold the title, and is left defeated"
+    },
+    {
+      "name": "Juliana",
+      "role": "Manacled woman who reacts tearfully to Alexander; her circumstances are not explained"
+    },
+    {
+      "name": "Royal Guard",
+      "role": "Unnamed guardsman in red uniform who refuses Rupert's order and declares Alexander's identity is known"
+    },
+    {
+      "name": "Catherine",
+      "role": "Bride at the wedding, daughter of an unnamed father, who reacts with panic to Rupert"
+    },
+    {
+      "name": "Alexander's Mother",
+      "role": "Elderly silver-haired woman who recognizes Alexander and publicly proclaims him the rightful Duke of Ashburn"
+    }
+  ],
+  "beats": [
+    {
+      "id": "b1",
+      "kind": "entrance",
+      "event_refs": [
+        "EP42:E1",
+        "EP42:E2"
+      ],
+      "description": "Alexander strides through the shattered cathedral doorway in ducal regalia with an authoritative bearing.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b2",
+      "kind": "confrontation",
+      "event_refs": [
+        "EP42:E3",
+        "EP42:E4"
+      ],
+      "description": "The blond nobleman asks who Alexander is, and Alexander replies that he already knows.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b3",
+      "kind": "reunion",
+      "event_refs": [
+        "EP42:E5",
+        "EP42:E6",
+        "EP42:E7",
+        "EP42:E8"
+      ],
+      "description": "Juliana, manacled, reacts tearfully to Alexander, who answers her softly.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "b4",
+      "kind": "authority_challenge",
+      "event_refs": [
+        "EP42:E9",
+        "EP42:E10",
+        "EP42:E11",
+        "EP42:E12"
+      ],
+      "description": "Rupert orders the guards to arrest the imposter, and the royal guard openly refuses.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "b5",
+      "kind": "breakdown",
+      "event_refs": [
+        "EP42:E13",
+        "EP42:E14",
+        "EP42:E15",
+        "EP42:E16",
+        "EP42:E17"
+      ],
+      "description": "Rupert's composure collapses as he demands to know why, and the guard states they know who Alexander is.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "b6",
+      "kind": "denial",
+      "event_refs": [
+        "EP42:E18",
+        "EP42:E19",
+        "EP42:E20",
+        "EP42:E21"
+      ],
+      "description": "Catherine reacts with panic to Rupert, who in terror denies that Alexander can be the man he claims to be, saying Alexander died.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b7",
+      "kind": "advance",
+      "event_refs": [
+        "EP42:E22",
+        "EP42:E23"
+      ],
+      "description": "Alexander advances down the aisle and declares that he stands here and that Rupert's life rests on a lie.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b8",
+      "kind": "maternal_recognition",
+      "event_refs": [
+        "EP42:E24",
+        "EP42:E25",
+        "EP42:E26",
+        "EP42:E27",
+        "EP42:E28",
+        "EP42:E29"
+      ],
+      "description": "Alexander's mother steps into the aisle, reaches him, and embraces his scarred face in tears.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "b9",
+      "kind": "homecoming",
+      "event_refs": [
+        "EP42:E30",
+        "EP42:E31",
+        "EP42:E32"
+      ],
+      "description": "Alexander's mother says she sees her son as he was meant to be, and Alexander states he has come home.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b10",
+      "kind": "proclamation",
+      "event_refs": [
+        "EP42:E33",
+        "EP42:E34"
+      ],
+      "description": "Alexander's mother publicly proclaims him Alexander Ashburn, the rightful Duke of Ashburn, to the gathered nobility and guards.",
+      "intensity_0_10": 9.0
+    },
+    {
+      "id": "b11",
+      "kind": "defeat_and_vow",
+      "event_refs": [
+        "EP42:E35",
+        "EP42:E36",
+        "EP42:E37"
+      ],
+      "description": "Rupert cowers on the altar steps, and Alexander, hand on his sabre, vows to settle what Rupert stole.",
+      "intensity_0_10": 9.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "r1",
+      "event_refs": [
+        "EP42:E21",
+        "EP42:E23",
+        "EP42:E34"
+      ],
+      "claim": "The man before the court is claimed to be Alexander Ashburn, whom Rupert had said died; this identity is asserted on screen, not independently verified.",
+      "spoiler_significance_0_10": 8.0,
+      "creates_questions": [
+        "How did Alexander survive and where was he before returning?",
+        "Is the claim to be Alexander Ashburn accepted beyond the cathedral?"
+      ]
+    },
+    {
+      "id": "r2",
+      "event_refs": [
+        "EP42:E12",
+        "EP42:E17"
+      ],
+      "claim": "The royal guard refuses to arrest Alexander and states they know who he is, indicating recognition by at least one guard.",
+      "spoiler_significance_0_10": 5.0,
+      "creates_questions": [
+        "What do the other guards and nobles know or believe about Alexander?"
+      ]
+    },
+    {
+      "id": "r3",
+      "event_refs": [
+        "EP42:E34"
+      ],
+      "claim": "Alexander's mother publicly proclaims him the rightful Duke of Ashburn.",
+      "spoiler_significance_0_10": 7.0,
+      "creates_questions": [
+        "What legal or political basis supports the rightful title claim?",
+        "What becomes of Rupert's rule after the proclamation?"
+      ]
+    },
+    {
+      "id": "r4",
+      "event_refs": [
+        "EP42:E37"
+      ],
+      "claim": "Alexander states that Rupert stole something he intends to settle, though what was stolen is not specified.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "What exactly did Rupert steal, and how will Alexander settle it?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "How did Alexander survive and why was he believed dead?",
+      "introduced_by": [
+        "EP42:E21",
+        "EP42:E23"
+      ]
+    },
+    {
+      "question": "Will the guards' and mother's recognition be accepted by the wider court and nobility?",
+      "introduced_by": [
+        "EP42:E12",
+        "EP42:E17",
+        "EP42:E34"
+      ]
+    },
+    {
+      "question": "What did Rupert steal, and what form will Alexander's retribution take?",
+      "introduced_by": [
+        "EP42:E37"
+      ]
+    },
+    {
+      "question": "What is Juliana's situation and why is she manacled?",
+      "introduced_by": [
+        "EP42:E5",
+        "EP42:E6"
+      ]
+    },
+    {
+      "question": "What is Catherine's relationship to Rupert and her father, and how will the wedding's collapse affect her?",
+      "introduced_by": [
+        "EP42:E18",
+        "EP42:E19"
+      ]
+    }
+  ]
+}

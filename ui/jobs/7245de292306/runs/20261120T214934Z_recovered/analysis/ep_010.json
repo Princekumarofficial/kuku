@@ -1,0 +1,229 @@
+{
+  "episode_id": "ep_010",
+  "summary": "Scene sc_001 (0-94000 ms, woodland cottage at night) shows Juliana, reading an herbal book by the fire, startled when Alexander enters bleeding and breathing heavily. She orders him to sit, insists on examining his wounds, and he removes his shirt to reveal old battle scars and fresh lacerations. She tends his shoulder cut, and their exchange turns to an open confession of feeling from Alexander. Evidence is on-screen event text only, and the scene is treated as one unit. The cause of his wounds, the origin of the scars, and the meaning of 'It is over' are not shown and remain uncertain. The supplied metadata (logline and continuity notes about Episode 9 rumors) was not used as evidence because it describes unseen events and could not be verified on screen. Juliana's feelings are not explicitly stated on screen.",
+  "characters": [
+    {
+      "name": "Juliana",
+      "role": "Woman in the woodland cottage who tends Alexander's injuries and is drawn into an emotionally charged exchange with him"
+    },
+    {
+      "name": "Alexander",
+      "role": "Wounded, scarred man who arrives at the cottage bleeding, minimizes his injuries, and confesses his feelings to Juliana"
+    }
+  ],
+  "beats": [
+    {
+      "id": "b1",
+      "kind": "setup",
+      "event_refs": [
+        "EP10:E1",
+        "EP10:E2"
+      ],
+      "description": "Juliana studies an herbal medicine book by firelight beside fresh dried herbs in the quiet cottage.",
+      "intensity_0_10": 2.0
+    },
+    {
+      "id": "b2",
+      "kind": "inciting_incident",
+      "event_refs": [
+        "EP10:E3",
+        "EP10:E4",
+        "EP10:E5",
+        "EP10:E6"
+      ],
+      "description": "A door bangs open and Alexander appears in the doorway, bloodied and panting, startling Juliana.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b3",
+      "kind": "denial",
+      "event_refs": [
+        "EP10:E7",
+        "EP10:E8",
+        "EP10:E9",
+        "EP10:E10",
+        "EP10:E11",
+        "EP10:E12",
+        "EP10:E13"
+      ],
+      "description": "Juliana calls out in alarm and notes blood running down his arm, while Alexander dismisses the injury as a cut from the tenant fields.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "b4",
+      "kind": "confrontation",
+      "event_refs": [
+        "EP10:E14",
+        "EP10:E15",
+        "EP10:E16",
+        "EP10:E17",
+        "EP10:E18"
+      ],
+      "description": "Juliana commands him to sit in the armchair by the fire, and he reluctantly complies.",
+      "intensity_0_10": 4.0
+    },
+    {
+      "id": "b5",
+      "kind": "challenge",
+      "event_refs": [
+        "EP10:E19",
+        "EP10:E20",
+        "EP10:E21",
+        "EP10:E22",
+        "EP10:E23",
+        "EP10:E24",
+        "EP10:E25",
+        "EP10:E26"
+      ],
+      "description": "Juliana prepares supplies and insists on seeing the wound; Alexander claims it is only a scratch, and she challenges him to remove his shirt.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "b6",
+      "kind": "reveal_on_screen",
+      "event_refs": [
+        "EP10:E27",
+        "EP10:E28",
+        "EP10:E29",
+        "EP10:E30"
+      ],
+      "description": "Alexander removes his shirt, revealing jagged battle scars and fresh bleeding lacerations, and Juliana reacts in horror and pity.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b7",
+      "kind": "emotional_beat",
+      "event_refs": [
+        "EP10:E31",
+        "EP10:E32",
+        "EP10:E33",
+        "EP10:E34",
+        "EP10:E35",
+        "EP10:E36"
+      ],
+      "description": "Juliana kneels before him and gently touches a raised scar; she says he has suffered terribly, and he replies 'It is over.'",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "b8",
+      "kind": "tending_and_banter",
+      "event_refs": [
+        "EP10:E37",
+        "EP10:E38",
+        "EP10:E39",
+        "EP10:E40",
+        "EP10:E41",
+        "EP10:E42",
+        "EP10:E43",
+        "EP10:E44",
+        "EP10:E45"
+      ],
+      "description": "Juliana cleans the shoulder cut and applies herbal salve while Alexander denies hurting, and she calls him a terrible liar.",
+      "intensity_0_10": 4.0
+    },
+    {
+      "id": "b9",
+      "kind": "intimate_confrontation",
+      "event_refs": [
+        "EP10:E46",
+        "EP10:E47",
+        "EP10:E48",
+        "EP10:E49",
+        "EP10:E50",
+        "EP10:E51",
+        "EP10:E52",
+        "EP10:E53",
+        "EP10:E54",
+        "EP10:E55"
+      ],
+      "description": "Alexander holds an intense gaze on Juliana, who asks why he looks at her that way; he says it is because she is looking at him, and they lean close.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b10",
+      "kind": "confession",
+      "event_refs": [
+        "EP10:E56",
+        "EP10:E57",
+        "EP10:E58",
+        "EP10:E59",
+        "EP10:E60"
+      ],
+      "description": "Alexander places Juliana's hands against his chest and confesses that her touch is the only medicine that has eased his pain, and she is visibly overwhelmed.",
+      "intensity_0_10": 8.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "r1",
+      "event_refs": [
+        "EP10:E27",
+        "EP10:E28"
+      ],
+      "claim": "Alexander's torso bears extensive battle scars alongside fresh bleeding lacerations, indicating injuries beyond the minimized 'scratch' he described.",
+      "spoiler_significance_0_10": 4.0,
+      "creates_questions": [
+        "What battle or past event caused the scars?",
+        "When and how were the fresh lacerations sustained?"
+      ]
+    },
+    {
+      "id": "r2",
+      "event_refs": [
+        "EP10:E13",
+        "EP10:E22",
+        "EP10:E27"
+      ],
+      "claim": "Alexander's explanations for his wounds ('a cut from the tenant fields', 'only a scratch') are contradicted by the visible extent of his injuries on screen.",
+      "spoiler_significance_0_10": 3.0,
+      "creates_questions": [
+        "Is Alexander concealing the true source of his injuries?"
+      ]
+    },
+    {
+      "id": "r3",
+      "event_refs": [
+        "EP10:E50",
+        "EP10:E59"
+      ],
+      "claim": "Alexander openly declares his feelings for Juliana and says her touch is the only medicine that has ever eased his pain.",
+      "spoiler_significance_0_10": 5.0,
+      "creates_questions": [
+        "Does Juliana share Alexander's feelings?",
+        "How will Juliana respond to his confession?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "What caused Alexander's fresh wounds?",
+      "introduced_by": [
+        "EP10:E5",
+        "EP10:E13",
+        "EP10:E22"
+      ]
+    },
+    {
+      "question": "What past events produced Alexander's battle scars?",
+      "introduced_by": [
+        "EP10:E27",
+        "EP10:E36"
+      ]
+    },
+    {
+      "question": "What does Alexander mean by 'It is over'?",
+      "introduced_by": [
+        "EP10:E36"
+      ]
+    },
+    {
+      "question": "Does Juliana return Alexander's feelings?",
+      "introduced_by": [
+        "EP10:E48",
+        "EP10:E50",
+        "EP10:E59",
+        "EP10:E60"
+      ]
+    }
+  ]
+}

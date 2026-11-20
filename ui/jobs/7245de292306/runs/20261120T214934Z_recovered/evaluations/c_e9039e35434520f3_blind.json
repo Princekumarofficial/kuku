@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_e9039e35434520f3",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP49:E18",
+      "EP49:E17",
+      "EP49:E15"
+    ],
+    "reason": "The opening line from Father Thomas, about a priest and a disgraced bride meeting before dawn in her bedchamber, raises an immediate secret and an unclear relationship within the first 3000ms. The hook is intriguing but depends on unexplained context."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP49:E35",
+      "EP49:E34"
+    ],
+    "reason": "Catherine's terms are cut off mid-list at the clip's end, with only the first term given ('First, the hearing stays unresolved as long as possible'). The clip ends before the other terms or any response, so the scheme is left open. The stakes are not resolved, but the cliffhanger depends on the abrupt cut rather than a dramatic reveal.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Identity and history of Catherine and Father Thomas and their relationship",
+      "What the 'morning' and the secret of Father Thomas's face refer to",
+      "Why Catherine is 'disgraced' and what the 'hearing' and 'council' are",
+      "What 'the full ten days' refers to and why it matters",
+      "Who 'the family' is and why the abandoned room holds significance",
+      "What 'today' and 'her' (the humiliated person) refer to"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 5.0,
+    "reason": "The tone is tense and conspiratorial, with a sharp, controlling Catherine and a wry, impatient Father Thomas. The mutual manipulation and secrecy create suspense, but the lack of visible stakes or personal emotional display limits the emotional impact for a first-time viewer."
+  },
+  "weaknesses": [
+    "Heavy reliance on unexplained references (council, hearing, ten days, disgraced bride, the morning) reduces clarity for a viewer with no prior context",
+    "Dialogue is exposition-heavy and cryptic rather than showing concrete events",
+    "The clip ends mid-scheme without a dramatic reveal, so the cut may feel abrupt rather than suspenseful",
+    "Emotional stakes for either character are not clearly established"
+  ],
+  "one_line_why_it_works": "A secretive, tense two-hander hints at a shared past and a manipulative scheme, using the opening line and Catherine's commanding terms to pull a viewer into the mystery."
+}

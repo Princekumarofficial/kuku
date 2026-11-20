@@ -1,0 +1,184 @@
+{
+  "stage": "episode_analysis",
+  "system": "Analyze narrative beats, characters, revelations and unresolved questions. Only event text is on-screen evidence; metadata may describe unseen events. Use supplied EPxx:Ex aliases. Report uncertainty in the summary. A revelation's significance is not its spoiler damage.",
+  "user": "EP=ep_020; timestamps are integer milliseconds\nSOURCE_SHA256=e6389a016e5aa432efca70d3bb2d64ec859200ad0e6aad207fa63a616ce12fa8\nMETADATA ONLY (not on-screen evidence): {'logline': 'Inside the opulent Ashbury estate, the treacherous Rupert and Catherine plot to seize the ducal title as the Dowager Duchess slowly withers, while in an icy barn, Juliana defiantly prepares remedies to save the fever-stricken villagers.', 'continuity_notes': \"Follows Episode 19's night in the barn; as Alexander begins his clandestine fight to reclaim his birthright, Juliana tends to the suffering village while Rupert and Catherine celebrate their anticipated ascension to the ducal throne.\"}\nSOURCE WARNINGS=['sc_002: incomplete source coverage; gaps are unavailable']\nSCENE sc_001 0-2800 EXT. ASHBURY MANOR – DAY\nEP20:E1 0-2800 CAMERA: Low-angle establishing shot tilting up toward the imposing, grand stone facade of Ashbury Manor against a cold, overcast morning sky, frost dusting the pristine lawn.\nSCENE sc_002 2800-56500 INT. ASHBURY MANOR - DRAWING ROOM – CONTINUOUS\nEP20:E2 2800-6800 CAMERA: Medium wide shot of the lavish drawing room. CATHERINE, dressed in an ornate lilac regency gown and white satin gloves, gracefully pours hot tea from an ornate silver teapot, while RUPERT stands elegantly by the tall window.\nEP20:E3 2900-4400 CATHERINE [Smug, Prim]: \"Two lumps of sugar, Rupert?\"\nEP20:E4 4600-7800 CATHERINE [Taunting, Silkily]: \"Or has your sudden climb to power sweetened your taste already?\"\nEP20:E5 6900-9500 CAMERA: Close-up of Catherine stirring her tea with a silver spoon, lifting her gaze with a haughty smirk.\nEP20:E6 8200-10800 RUPERT [Flirtatious, Sly]: \"Only if it sweetens your disposition, Catherine.\"\nEP20:E7 9600-15200 CAMERA: Medium shot tracking Rupert as he steps forward from the hearth, adjusting his dark leather gloves with an air of absolute triumph.\nEP20:E8 10900-12700 RUPERT [Boastful, Confident]: \"The estate is practically ours.\"\nEP20:E9 12800-15100 RUPERT [Smug]: \"The succession papers are being finalized as we speak.\"\nEP20:E10 15200-20000 CAMERA: Medium close-up of Catherine raising the porcelain teacup to her lips, her expression turning sharp and dismissive.\nEP20:E11 15400-18700 CATHERINE [Cold, Haughty]: \"'Practically' is a word for beggars. I do not marry a practical Duke.\"\nEP20:E12 18800-20100 CATHERINE [Stern, Ambitious]: \"I marry the Lord of Ashbury.\"\nEP20:E13 20000-25500 CAMERA: Medium shot of Rupert striding toward the tea table, leaning forward with predatory conviction.\nEP20:E14 20100-21200 RUPERT [Reassuring, Firm]: \"And so you shall.\"\nEP20:E15 21300-24200 RUPERT [Dark, Conspiratorial]: \"Once my cousin Alexander's death is formally sealed by the Crown...\"\nEP20:E16 24300-25400 RUPERT [Decisive]: \"...the title is mine.\"\nEP20:E17 25500-30200 CAMERA: Close-up of Catherine lowering her teacup, her icy blue eyes narrowing in calculated concern.\nEP20:E18 25500-28200 CATHERINE [Wary, Inquiring]: \"And what of the Dowager? The old woman still breathes.\"\nEP20:E19 28300-30200 CATHERINE [Disdainful]: \"Her shadow still hangs over this house.\"\nEP20:E20 30200-34000 CAMERA: Tight close-up of Rupert's face as a sinister grin spreads across his features.\nEP20:E21 30200-32800 RUPERT [Quiet, Sinister]: \"Her health fails more each day. The physicians are baffled.\"\nEP20:E22 32900-34400 RUPERT [Gloating]: \"They call it a wasting of the lungs.\"\nEP20:E23 34100-39200 CAMERA: Close-up side profile of Catherine bringing the teacup to her lips, savoring his words with chilling detachment.\nEP20:E24 34200-36800 CATHERINE [Mock-Sympathetic, Cruel]: \"How tragic. The slow, quiet decline.\"\nEP20:E25 36900-39100 CATHERINE [Scheming]: \"How much longer can the frail thing survive?\"\nEP20:E26 39300-42500 CAMERA: Medium profile of Rupert looking out the window, hands clasped behind him.\nEP20:E27 39400-42400 RUPERT [Cold, Callous]: \"Not through the winter. I've ensured her quiet comfort.\"\nEP20:E28 42500-50000 CAMERA: Close-up of Catherine turning her head toward the window, her lips curled in venomous disgust.\nEP20:E29 42600-44900 CATHERINE [Vindictive]: \"Good. The village is already whispering about her.\"\nEP20:E30 45000-48400 CATHERINE [Contemptuous]: \"The local peasants are like dogs, barking at every carriage that passes.\"\nEP20:E31 48500-49800 CATHERINE [Disgusted]: \"They disgust me.\"\nEP20:E32 50000-56500 CAMERA: Medium two-shot. Rupert stands over Catherine seated at the polished table, placing a gloved hand possessively near her shoulder.\nEP20:E33 50200-52500 RUPERT [Dismissive, Arrogant]: \"They are nothing. Dirt beneath our boots.\"\nEP20:E34 52800-56000 RUPERT [Authoritative, Promising]: \"They will learn their place when you wear the ducal crown.\"\nSCENE sc_003 56500-88200 INT. ABANDONED BARN – DAY\nEP20:E35 56500-60300 CAMERA: Medium close-up tilting down on JULIANA kneeling in the straw beside a rustic wooden crate, sorting sprigs of dried lavender and sage into a woven basket. Her hands are bound in linen bandages from the recent fire.\nEP20:E36 60000-64500 ACTION: The barn door opens, revealing daylight outside. SEAMUS, an older weathered villager in a waistcoat, carries a wooden bucket inside, his expression etched with deep sorrow and concern.\nEP20:E37 60500-62500 SEAMUS [Gentle, Concerned]: \"Let me take that basket, Lady Juliana.\"\nEP20:E38 62600-66600 SEAMUS [Empathetic]: \"Your palms are still raw from the fire. You shouldn't be working in this freezing draft.\"\nEP20:E39 64800-66800 ACTION: Seamus reaches down to take the handle of the basket from her.\nEP20:E40 66800-70500 CAMERA: Close-up of Juliana looking up at Seamus, her smudged face fierce with unyielding determination as she holds firmly onto the basket.\nEP20:E41 66700-69100 JULIANA [Fierce, Resolute]: \"If I stop, Seamus, the lung fever in the valley wins.\"\nEP20:E42 69200-70500 JULIANA [Defiant]: \"I do not yield to a cold draft.\"\nEP20:E43 70500-76200 CAMERA: Close-up of Seamus, his face agonizingly strained with grief for her lost status.\nEP20:E44 70600-72300 SEAMUS [Desperate, Grieving]: \"You are a viscount's daughter!\"\nEP20:E45 72400-74200 SEAMUS [Pleading]: \"Sleeping on straw, sorting weeds!\"\nEP20:E46 74300-76200 SEAMUS [Frustrated]: \"Let the village tend to itself for once!\"\nEP20:E47 76200-81000 CAMERA: Medium close-up of Juliana, her jaw set with unwavering moral strength.\nEP20:E48 76300-79800 JULIANA [Passionate, Unflinching]: \"The chapel is gone, Seamus. I am the only healer these people have left.\"\nEP20:E49 79900-81000 JULIANA [Unyielding]: \"I keep the basket.\"\nEP20:E50 81000-88200 CAMERA: Medium two-shot of Juliana and Seamus standing facing each other in the barn, the lantern casting a warm amber glow between them.\nEP20:E51 82000-84400 SEAMUS [Saddened, Heartbroken]: \"They have reduced you to a peasant.\"\nEP20:E52 84800-86500 JULIANA [Proud, Indomitable]: \"They have reduced me to myself.\"\nEP20:E53 86600-88000 JULIANA [Steely]: \"And I am not finished.\"\nSCENE sc_004 88200-114750 INT. ASHBURY MANOR - DRAWING ROOM – CONTINUOUS\nEP20:E54 88200-90000 ACTION: Catherine's gloved hand sets her fine porcelain teacup down onto the silver tray with a delicate clatter.\nEP20:E55 88400-89400 SOUND: Sharp porcelain chime of teacup meeting saucer.\nEP20:E56 89800-94800 CAMERA: Close-up of Catherine looking up, her face twisting into venomous arrogance.\nEP20:E57 89900-92400 CATHERINE [Cruel, Callous]: \"Let the peasants rot in their barns.\"\nEP20:E58 92600-94500 CATHERINE [Mocking, Spiteful]: \"Let them pray to their weeds.\"\nEP20:E59 94800-99200 CAMERA: Medium shot as Rupert steps around the mahogany table and leans close into Catherine's ear, smiling seductively.\nEP20:E60 94900-97300 RUPERT [Intimate, Reassuring]: \"You have no rival here, Catherine.\"\nEP20:E61 97400-99100 RUPERT [Fawning]: \"No one to stand in your way.\"\nEP20:E62 99200-103800 CAMERA: Close-up of Catherine looking into Rupert's eyes, her smile turning predatory and cold.\nEP20:E63 99300-101400 CATHERINE [Triumphant, Greedy]: \"Once the old Duchess is gone...\"\nEP20:E64 101500-103700 CATHERINE [Possessive]: \"...Ashbury will finally belong to us.\"\nEP20:E65 103800-109000 ACTION: Catherine rises from her chair in one regal motion and glides toward the towering window overlooking the vast estate grounds.\nEP20:E66 104000-109500 CAMERA: Tracking medium shot following Catherine from behind as she walks gracefully to the window frame, the grey morning light outlining her aristocratic silhouette.\nEP20:E67 106800-109200 CATHERINE [Cold, Ruthless]: \"This house will only bow to me.\"\nEP20:E68 109500-114750 CAMERA: Tight close-up profile of Catherine gazing out the windowpane, her icy eyes burning with insatiable ambition as dramatic strings swell to a menacing cliffhanger hold.",
+  "schema": {
+    "$defs": {
+      "Beat": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "kind": {
+            "title": "Kind",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "description": {
+            "title": "Description",
+            "type": "string"
+          },
+          "intensity_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Intensity 0 10",
+            "type": "number"
+          }
+        },
+        "required": [
+          "id",
+          "kind",
+          "event_refs",
+          "description",
+          "intensity_0_10"
+        ],
+        "title": "Beat",
+        "type": "object"
+      },
+      "Character": {
+        "additionalProperties": false,
+        "properties": {
+          "name": {
+            "title": "Name",
+            "type": "string"
+          },
+          "role": {
+            "title": "Role",
+            "type": "string"
+          }
+        },
+        "required": [
+          "name",
+          "role"
+        ],
+        "title": "Character",
+        "type": "object"
+      },
+      "Question": {
+        "additionalProperties": false,
+        "properties": {
+          "question": {
+            "title": "Question",
+            "type": "string"
+          },
+          "introduced_by": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Introduced By",
+            "type": "array"
+          }
+        },
+        "required": [
+          "question",
+          "introduced_by"
+        ],
+        "title": "Question",
+        "type": "object"
+      },
+      "Revelation": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "claim": {
+            "title": "Claim",
+            "type": "string"
+          },
+          "spoiler_significance_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Spoiler Significance 0 10",
+            "type": "number"
+          },
+          "creates_questions": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Creates Questions",
+            "type": "array"
+          }
+        },
+        "required": [
+          "id",
+          "event_refs",
+          "claim",
+          "spoiler_significance_0_10",
+          "creates_questions"
+        ],
+        "title": "Revelation",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "episode_id": {
+        "title": "Episode Id",
+        "type": "string"
+      },
+      "summary": {
+        "title": "Summary",
+        "type": "string"
+      },
+      "characters": {
+        "items": {
+          "$ref": "#/$defs/Character"
+        },
+        "title": "Characters",
+        "type": "array"
+      },
+      "beats": {
+        "items": {
+          "$ref": "#/$defs/Beat"
+        },
+        "title": "Beats",
+        "type": "array"
+      },
+      "revelations": {
+        "items": {
+          "$ref": "#/$defs/Revelation"
+        },
+        "title": "Revelations",
+        "type": "array"
+      },
+      "unresolved_questions": {
+        "items": {
+          "$ref": "#/$defs/Question"
+        },
+        "title": "Unresolved Questions",
+        "type": "array"
+      }
+    },
+    "required": [
+      "episode_id",
+      "summary",
+      "characters",
+      "beats",
+      "revelations",
+      "unresolved_questions"
+    ],
+    "title": "EpisodeAnalysis",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

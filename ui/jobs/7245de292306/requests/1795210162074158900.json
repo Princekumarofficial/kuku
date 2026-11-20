@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_6afd9957ed4432f5 DURATION_MS=25000\nSEGMENT 1 (playback order)\nEP15:E42 0-1000 ACTION: The Tall Thug hoists his heavy wooden club above his head to crush the remaining herbs right before Juliana.\nEP15:E44 1000-2200 CAMERA: Medium close-up of the Thug with Cap suddenly stiffening, his smug smile dropping as footsteps pound in the darkness.\nEP15:E45 2200-6500 CAMERA: Medium tracking shot as Alexander charges past the corner of the cottage into the misty moonlight, his dark coat billowing behind him.\nEP15:E46 2500-6500 ACTION: Alexander storms forward with lethal intensity, dark hair flying, breath misting in the cold, radiating untamed rage.\nEP15:E47 6500-12500 CAMERA: Close-up of Juliana looking up through wet lashes, trembling as shock transforms into overwhelming relief.\nEP15:E48 9500-11600 JULIANA: \"Alexander...\"\nEP15:E49 12500-14500 CAMERA: Wide shot of the three thugs wheeling around to face the dark figure approaching from the mist.\nEP15:E50 14500-17500 CAMERA: Low-angle tracking shot from behind Alexander's broad shoulders as he steadily steps past the fallen Juliana, towering over the intruders.\nEP15:E51 15000-17500 ACTION: Alexander places himself directly between Juliana and the three thugs, staring them down with cold, deadly intent.\nEP15:E52 17500-21800 CAMERA: Medium shot of the three thugs regrouping, the Thug with Cap feigning swagger as he grips his club.\nEP15:E53 18000-21400 THUG WITH CAP: \"What? You want to fight us, veteran?\"\nEP15:E54 21800-25000 CAMERA: Close-up of Juliana looking up with wide, anxious eyes, breath hitching in suspense as violence hangs on a knife's edge.\nEP15:E55 23000-25000 SOUND: Tense, low dramatic cello swell holding into an abrupt cliffhanger cut.",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

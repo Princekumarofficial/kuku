@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_b4968985f372a4b6",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP16:E1",
+      "EP16:E2",
+      "EP16:E4"
+    ],
+    "reason": "The opening within 0-3000ms shows a tense standoff: a masked-off, unyielding man blocks a woman from three armed thugs under a full moon, and the thug's 'Move aside, soldier' raises immediate stakes."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP16:E44",
+      "EP16:E43"
+    ],
+    "reason": "The final seconds reveal a named backer, 'Gerald Harrington paid us!', which opens a new question about who Harrington is and why he targets the characters. The immediate fight is resolved, so the open thread is the revelation itself, not the physical danger.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Alexander is and why the thug calls him 'soldier'",
+      "Who Juliana is and her relationship to Alexander",
+      "Why Juliana's hands are bandaged and bloodied",
+      "What the thugs were sent to do and why they target Juliana",
+      "Who Gerald Harrington is and why he would pay for this"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Fear, menace and then relief build clearly through Juliana's trembling and tears and the thug's terror, with the lethal intensity of Alexander's interrogation heightening tension at the end."
+  },
+  "weaknesses": [
+    "Clip depends on unexplained prior events, so a first-time viewer cannot place the characters or stakes",
+    "Juliana's bandaged hands are shown without any explanation",
+    "The final name reveal lacks context, which weakens its impact as a hook for the next moment",
+    "Thugs are one-dimensional, and their motives beyond the name are absent"
+  ],
+  "one_line_why_it_works": "A bare-handed hero stopping armed thugs under moonlight builds quick tension, and the interrogation ends on a named villain that makes viewers want to know more."
+}

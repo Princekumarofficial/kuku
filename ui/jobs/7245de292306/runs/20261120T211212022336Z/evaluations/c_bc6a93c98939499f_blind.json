@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c_bc6a93c98939499f",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP01:E41",
+      "EP01:E40",
+      "EP01:E42"
+    ],
+    "reason": "The opening line 'I changed my mind.' lands within the first 1800ms and is followed by a sharp cut to Juliana's weeping face, establishing an immediate public betrayal."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP01:E61",
+      "EP01:E62"
+    ],
+    "reason": "The clip ends with the father refusing to look at Juliana, leaving her plea unanswered and the emotional situation unresolved. The ending is an open beat rather than a resolved one.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Relationship between Gerald, Juliana, and the Lady in Gold Gown is only partly implied",
+      "Nature of the conspiracy and what 'long enough' refers to is not explained",
+      "Reason the father refuses to respond is not shown",
+      "Setting as a wedding is inferred from pews and a groom, not stated"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Juliana's escalating distress, the malicious smile of the Lady in Gold Gown, and the father's stony rejection produce strong sustained emotional tension."
+  },
+  "weaknesses": [
+    "Clip begins mid-scene with no establishing context for who the characters are",
+    "Father's motive for refusing is not shown, weakening the final beat for a first-time viewer",
+    "Several shots overlap in time, making the sequence of the betrayal harder to follow",
+    "Lady in Gold Gown is never named, so her role relies on inference"
+  ],
+  "one_line_why_it_works": "A rapid chain of betrayal reveals, from the groom's rejection to the father's refusal, builds intense emotion and leaves Juliana's plea unanswered at the end."
+}

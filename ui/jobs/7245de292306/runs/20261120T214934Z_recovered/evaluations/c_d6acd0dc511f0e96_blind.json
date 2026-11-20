@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_d6acd0dc511f0e96",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP21:E22",
+      "EP21:E20"
+    ],
+    "reason": "Evidence starts at 200ms with a desperate plea and a physical collapse to the knees, creating immediate stakes around a seven-year-old's life."
+  },
+  "cliffhanger": {
+    "score_0_10": 3.0,
+    "evidence_refs": [
+      "EP21:E48",
+      "EP21:E49"
+    ],
+    "reason": "The ending leaves Toby's fate open, but the final moments show calm, ongoing treatment rather than a sharp suspenseful break, so the tension is mild.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Who Lady Juliana is and why she has bandaged hands",
+      "Toby's relationship to Prudence and Lady Juliana",
+      "Why Lady Juliana is described as Prudence's only hope and what her past skill is",
+      "Whose mother's knowledge the herbal ledger contains",
+      "What illness Toby has beyond burning fever and coughing",
+      "Why the group must hurry to the village before the scene begins"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Prudence's tearful pleading, Toby's painful coughing, and the tender whispering while steam is administered convey strong worry and care."
+  },
+  "weaknesses": [
+    "Opening context is missing, so the urgency depends on dialogue alone",
+    "Lady Juliana's motives and background are unexplained for a first-time viewer",
+    "The ending shifts to calm treatment, lowering suspense",
+    "Prudence's kneeling plea and the cough-filled room are strong, but the middle sequence of fetching water and crushing herbs is procedural and slow"
+  ],
+  "one_line_why_it_works": "A frightened plea for a dying child's life is followed by urgent, hands-on care that keeps emotional stakes high from start to finish."
+}

@@ -1,0 +1,44 @@
+{
+  "candidate_id": "c_e9fea6995b28d116",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP23:E38",
+      "EP23:E40",
+      "EP23:E45"
+    ],
+    "reason": "The clip opens within 0-3000ms with a quiet bedside scene that quickly turns to a direct accusation, 'Someone is poisoning her,' at 3000ms, and the word 'Arsenic' at 10000ms raises the stakes early."
+  },
+  "cliffhanger": {
+    "score_0_10": 8.5,
+    "evidence_refs": [
+      "EP23:E63",
+      "EP23:E62",
+      "EP23:E61"
+    ],
+    "reason": "The final 3000ms show Prudence's terror and her warning 'someone is coming' as the door handle is shown, and the clip ends before any visible arrival or resolution, so the tension is left open.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Identity and relationship of the Duchess",
+      "Who Lady Juliana is and why she is treating the Duchess",
+      "Who Prudence is and her relationship to the others",
+      "What the leather journal contains and why it matters",
+      "Who is poisoning the Duchess and why",
+      "Who or what is approaching the door"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Sharp gasps, the Duchess choking, Prudence's tears and terror, and the sudden footsteps at the door build strong distress and suspense."
+  },
+  "weaknesses": [
+    "Poisoner's identity and motive are unknown, so the accusation lacks a target",
+    "Characters are referred to without names or roles established in the clip",
+    "The door sequence ends before the intruder is revealed, which may frustrate a viewer without context",
+    "Remedy dialogue is brief, so the medical stakes are only partly clear"
+  ],
+  "one_line_why_it_works": "A first-time viewer is pulled in by an immediate poisoning accusation and a dying Duchess, then left gripped by an unseen intruder and Prudence's terrified warning at the door."
+}

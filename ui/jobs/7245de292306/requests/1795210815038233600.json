@@ -1,0 +1,204 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_5ee9a7d1fb244e8c DURATION_MS=29100\nSEGMENT 1 (playback order)\nEP06:E16 0-100 CAMERA: Close-up on Juliana's bodice and mother's pendant as she gathers her cloak closer.\nEP06:E17 100-2800 CAMERA: Close-up of Juliana's face, offering a wistful, comforting smile.\nEP06:E18 300-2700 JULIANA: \"I suppose the day was already ruined.\"\nEP06:E19 2800-5800 CAMERA: Extreme close-up on the Mysterious Bearded Man's piercing eyes, touched by her lack of bitterness.\nEP06:E20 5800-7900 CAMERA: Wide establishing shot through tree branches showing a secluded, rustic stone cottage nestled among the misty trees.\nEP06:E21 6300-7900 ACTION: They walk forward toward the cottage emerging from the dark woods.\nEP06:E22 7900-9700 CAMERA: Medium close-up on Juliana's face, wide-eyed with realization.\nEP06:E23 8300-9500 JULIANA: \"That is it?\"\nEP06:E24 9700-11000 CAMERA: Medium close-up on the Mysterious Bearded Man.\nEP06:E25 9900-10800 MYSTERIOUS BEARDED MAN: \"Yes.\"\nEP06:E26 11000-11900 CAMERA: Upward shot of rain pelting through the thick treetops.\nEP06:E27 11000-12300 SOUND: Sudden distant rumble of thunder echoing across the forest.\nEP06:E28 11900-14800 CAMERA: Medium shot as Juliana hikes her skirt and begins walking briskly toward the cottage door.\nEP06:E29 11950-14950 JULIANA: \"At least no one there will be waiting to humiliate me.\"\nEP06:E30 14800-15500 CAMERA: Close-up of the Mysterious Bearded Man watching her march ahead, his expression solemn and deeply reflective.\nEP06:E31 15500-18500 ACTION: The heavy wooden cottage door creaks open. Juliana steps across the threshold into the dark, barren room.\nEP06:E32 15600-18300 SOUND: Door hinges groaning open followed by the hollow thump of footsteps on wet wood floorboards.\nEP06:E33 18500-19500 CAMERA: Close-up overhead shot of a wooden bucket catching raindrops dripping steadily from a leak in the ceiling.\nEP06:E34 18500-21800 SOUND: Rhythmic water drips plinking into the metal-rimmed wooden bucket.\nEP06:E35 19500-21800 CAMERA: Medium wide shot past the drip bucket as the Mysterious Bearded Man closes the door behind them.\nEP06:E36 21800-23800 CAMERA: Medium close-up of the Mysterious Bearded Man standing in the dim light by the door.\nEP06:E37 22500-23700 MYSTERIOUS BEARDED MAN: \"I am sorry.\"\nEP06:E38 23800-25100 CAMERA: Medium shot of Juliana gazing around the rustic interior, taking in the sparse surroundings.\nEP06:E39 25100-28200 CAMERA: Medium close-up of the Mysterious Bearded Man looking at her with somber honesty.\nEP06:E40 25400-26800 MYSTERIOUS BEARDED MAN: \"You came from comfort.\"\nEP06:E41 26900-29100 MYSTERIOUS BEARDED MAN: \"This is all I can give you now.\"\nEP06:E42 28200-29100 CAMERA: Medium shot of Juliana undoing the ribbon tie of her black cloak and letting it slide off her shoulders.\nEP06:E43 28400-29100 ACTION: Juliana removes her dark cloak, revealing her damp white bridal dress underneath.",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "complete",
+  "output": {
+    "candidate_id": "c_5ee9a7d1fb244e8c",
+    "hook": {
+      "score_0_10": 5.0,
+      "evidence_refs": [
+        "EP06:E18",
+        "EP06:E43"
+      ],
+      "reason": "The opening line 'I suppose the day was already ruined.' starts within 0-3000ms and creates a small question about what happened, but the opening is a quiet, slow close-up. The final evidence (E43, 28400-29100) is a reveal of a damp white bridal dress, which hints at intrigue without a strong closing pull.)"
+    },
+    "cliffhanger": {
+      "score_0_10": 3.0,
+      "evidence_refs": [
+        "EP06:E42",
+        "EP06:E43"
+      ],
+      "reason": "The clip ends as Juliana removes her cloak and reveals a bridal dress. This is an unanswered visual detail, but the scene itself reaches a settled point with no threat, danger, or announced next event, so it reads as a pause rather than a cliffhanger.",
+      "unresolved_at_end": true
+    },
+    "standalone": {
+      "score_0_10": 3.0,
+      "missing_context": [
+        "Who Juliana is and why she is in a white bridal dress",
+        "What the earlier 'day was ruined' event was",
+        "Why someone would be waiting to humiliate her",
+        "Who the Mysterious Bearded Man is and his relationship to Juliana",
+        "What 'You came from comfort' implies about her situation",
+        "Why they travel to the cottage and what it means to them"
+      ]
+    },
+    "emotion": {
+      "score_0_10": 5.0,
+      "reason": "The clip has a wistful, comforting smile, a solemn and reflective look, and a somber apology with a sparse setting. These create a melancholy tone, but the emotional stakes are not explained well enough to hit hard."
+    },
+    "weaknesses": [
+      "Heavy reliance on unexplained references such as the ruined day and the humiliation",
+      "Slow pacing with long close-ups and little forward momentum",
+      "Ending is a mundane action without a clear hook for what follows",
+      "Bearded man's apology and 'all I can give you' lack a clear stake for a first-time viewer",
+      "Ambiguous timing where some evidence overlaps and the clip relies on implied backstory"
+    ],
+    "one_line_why_it_works": "The quiet melancholy and the bridal-dress reveal create curiosity about Juliana's situation, even though the clip is missing the context needed to make that curiosity satisfying."
+  }
+}

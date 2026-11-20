@@ -1,0 +1,45 @@
+{
+  "candidate_id": "c_be31937cde63952a",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP21:E3",
+      "EP21:E4",
+      "EP21:E5"
+    ],
+    "reason": "The clip opens with a loud slam of barn doors and a frantic, weeping girl bursting in, and her plea that Toby is dying arrives within the first seven seconds, creating immediate urgency."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP21:E19",
+      "EP21:E17",
+      "EP21:E10"
+    ],
+    "reason": "The clip ends with Lady Juliana saying she has nothing left but coltsfoot while Toby's condition is still unknown, so the outcome is left open. The ending is more an unresolved situation than a sharp cliffhanger because no immediate threat or action is shown at the final moment.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Who Toby is and how sick he is beyond 'chest is burning' and 'cannot breathe'",
+      "What the apothecary and manor doctor represent and why silver matters",
+      "Why Lady Juliana's hands are bandaged",
+      "What happened to the cottage and why it is ashes",
+      "What coltsfoot is and whether it can help Toby",
+      "The clinic's role and why it is closed",
+      "The relationship between Lady Juliana and the village"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Prudence's weeping, the desperate plea about her brother, the class-based rejection, and Lady Juliana's somber heartache create strong emotional pressure throughout the clip."
+  },
+  "weaknesses": [
+    "Key characters and stakes are introduced without explanation for a first-time viewer",
+    "The coltsfoot line is introduced without context, weakening its payoff",
+    "The final line closes on loss rather than a clear pending action, so tension depends on unexplained background",
+    "Lady Juliana's bandaged hands and burned cottage are never explained"
+  ],
+  "one_line_why_it_works": "A desperate child's plea for her dying brother, followed by rejection and a final loss of resources, creates strong emotional urgency that leaves the boy's fate unresolved."
+}

@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_377be08c2c58ecbd",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP48:E2",
+      "EP48:E1"
+    ],
+    "reason": "The opening 0-3000ms shows Catherine in an ornate gown turning from a window with a cold, venomous smirk, which creates immediate tension and menace. The hook is visual and tonal, and it is undercut because the viewer has no idea what is being threatened."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP48:E11",
+      "EP48:E7"
+    ],
+    "reason": "The clip ends at 20000ms on a threat with a countdown, 'Ten days for a decree to be undone', while Catherine's expression tightens into determination. Nothing is resolved, so the open threat counts as unresolved, but the stakes are only partly legible to a first-time viewer.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Who Catherine is and her relationship to the other people mentioned",
+      "What the 'healer's crown' is and why it would be thrown into the gutter",
+      "Who 'he' is who was given ten days to fix something",
+      "What the 'it' to be fixed is and what decree is being undone",
+      "What the council is sitting for and what witnesses are being gathered for",
+      "The political or legal situation that gives the threat its stakes"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 6.0,
+    "reason": "Cold contempt, a venomous smirk, and ruthless determination build a clear antagonistic tone. The viewer feels menace toward an unnamed target, but without context the emotional stake is mostly ominous rather than personally felt."
+  },
+  "weaknesses": [
+    "Heavy reliance on unexplained references to a healer, a crown, a decree, and a council",
+    "The 'he' being threatened is never identified",
+    "The countdown structure is effective but its purpose is unclear to a new viewer",
+    "Dialogue is repetitive ('Ten days for...'), which may dilute later impact"
+  ],
+  "one_line_why_it_works": "A menacing visual entrance and a rhythmic ten-day countdown of threats create strong tension and leave the outcome open, even though the stakes are not explained."
+}

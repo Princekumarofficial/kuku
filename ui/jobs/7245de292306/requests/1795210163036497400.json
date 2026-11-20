@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_57e44812930bf2a2 DURATION_MS=26500\nSEGMENT 1 (playback order)\nEP45:E58 0-1700 SOUND: Loud, echoing thud of cathedral doors swinging open violently.\nEP45:E57 0-4000 CAMERA: Wide tracking shot down the cathedral aisle as the massive wooden entrance doors slam open, framed by blinding daylight and mist.\nEP45:E59 1000-4500 ACTION: A Catholic Bishop in dark vestments steps through the cathedral doors accompanied by an armed Crown officer.\nEP45:E60 1900-4300 HIGH PRIEST: \"No one will bow yet!\"\nEP45:E61 4300-6500 CAMERA: Low-angle shot on Alexander and Juliana turning in alarm toward the rear of the cathedral.\nEP45:E62 6500-14700 CAMERA: Medium shot of the High Priest striding down the aisle, holding up an official royal parchment bearing red wax seals.\nEP45:E63 6700-14500 ACTION: The Priest holds up the sealed royal proclamation, holding his rosary beads as he marches forward.\nEP45:E64 6700-14600 HIGH PRIEST: \"This ceremony was performed without a Crown marriage license, by a priest without authority to sanctify a ducal union.\"\nEP45:E65 14700-19300 CAMERA: Close-up on the High Priest unfolding the document, reading aloud to the congregation.\nEP45:E66 15000-19000 HIGH PRIEST: \"These vows were never entered into the Royal Matrimonial Register.\"\nEP45:E67 19300-22300 CAMERA: Medium shot of Alexander shielding Juliana behind him as the Crown officer approaches with drawn sword.\nEP45:E68 19700-22300 HIGH PRIEST: \"Before the Crown, you are not Duchess of Ashburton.\"\nEP45:E69 22300-26500 CAMERA: Close-up of the High Priest scowling directly at Juliana with unyielding authority.\nEP45:E70 22500-26500 HIGH PRIEST: \"You are not Alexander Ashburton's lawful wife.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

@@ -1,0 +1,184 @@
+{
+  "stage": "episode_analysis",
+  "system": "Analyze narrative beats, characters, revelations and unresolved questions. Only event text is on-screen evidence; metadata may describe unseen events. Use supplied EPxx:Ex aliases. Report uncertainty in the summary. A revelation's significance is not its spoiler damage.",
+  "user": "EP=ep_005; timestamps are integer milliseconds\nSOURCE_SHA256=0dc648aeee02b1eebdd200144e70386f1dd101e820f96e3a5da65b527a43c9db\nMETADATA ONLY (not on-screen evidence): {'logline': \"Formally disowned and stripped of her inheritance, Juliana is publicly humiliated when her stepmother throws her late mother's treasured ledger into the mud, but her rugged new husband defends her dignity and guides her away from her callous family.\", 'continuity_notes': \"Follows directly from Episode 4's ending where Juliana and the Mysterious Bearded Man walked out of the chapel doors into the daylight after completing their wedding vows.\"}\nSOURCE WARNINGS=['sc_001: incomplete source coverage; gaps are unavailable']\nSCENE sc_001 0-110500 EXT. CATHEDRAL STEPS – DAY\nEP05:E1 0-2500 CAMERA: Close-up on Lady Juliana's hands clutching an ancient, brass-bound leather ledger against the skirt of her white wedding gown as she walks.\nEP05:E2 0-2500 ACTION: Juliana grips the heirloom ledger tightly against her waist, her posture resolute despite the tension.\nEP05:E3 2500-6000 CAMERA: Wide shot tracking Juliana and the Mysterious Bearded Man descending the grand stone steps of the cathedral courtyard. Behind them, Lord Ashcroft emerges from the vaulted doorway leaning on his cane.\nEP05:E4 4200-5800 LORD ASHCROFT [Stern, Commanding]: \"Miss Ashcroft.\"\nEP05:E5 5500-6600 ACTION: Juliana and the Mysterious Bearded Man pause on the stone steps, turning slightly back toward Lord Ashcroft.\nEP05:E6 6600-10500 CAMERA: Close-up of Lord Ashcroft, his weathered face rigid with aristocratic pride and disgust.\nEP05:E7 6800-10400 LORD ASHCROFT [Cold, Condemnatory]: \"You will not leave this church carrying the Ashcroft name.\"\nEP05:E8 10500-15800 CAMERA: Medium close-up of Juliana looking up at her father. Her hand rises to touch the amethyst heirloom pendant resting at her throat.\nEP05:E9 11700-15500 JULIANA [Defiant, Steadfast]: \"The vows are spoken, Father. I am his wife now.\"\nEP05:E10 15800-20800 CAMERA: Medium shot of Lord Ashcroft standing rigid outside the chapel archway, unforgiving and unyielding.\nEP05:E11 16000-18000 LORD ASHCROFT [Harsh, Final]: \"Then leave as his wife.\"\nEP05:E12 18500-20800 LORD ASHCROFT [Harsh, Final]: \"You leave as no daughter of mine.\"\nEP05:E13 20800-25000 CAMERA: Low-angle shot tracking Lord Ashcroft's polished black boots as he slowly descends the stone steps toward them.\nEP05:E14 21000-23000 LORD ASHCROFT [O.S. / Continues]: \"Your dowry is revoked.\"\nEP05:E15 23100-25100 LORD ASHCROFT [O.S. / Continues]: \"Your inheritance is revoked.\"\nEP05:E16 25000-29000 CAMERA: Close-up of Juliana, her eyes wide with shock and heartbreak as she holds the ledger close against her chest.\nEP05:E17 25400-28900 LORD ASHCROFT [O.S. / Continues]: \"From this moment, you are dead to the Ashcroft family.\"\nEP05:E18 29500-33400 JULIANA [Shaking, Tearful]: \"You truly mean it? You are my father!\"\nEP05:E19 33500-36500 CAMERA: Close-up of the Mysterious Bearded Man, observing Lord Ashcroft with an unblinking, quietly threatening stare.\nEP05:E20 33800-36800 LORD ASHCROFT [O.S.]: \"And you have chosen to become a stranger.\"\nEP05:E21 36500-41500 CAMERA: Profile medium two-shot of Juliana and Lord Ashcroft standing face-to-face against the backdrop of the towering gothic facade.\nEP05:E22 37600-41500 JULIANA [Quietly Resolute]: \"No, Father. You chose that long before today.\"\nEP05:E23 41500-46000 CAMERA: Medium close-up of Lady Ashcroft, resplendent in navy velvet and jewels, stepping forward with a smirk of malicious authority.\nEP05:E24 42500-44200 LADY ASHCROFT [Sharply Dismissive]: \"Enough sentiment.\"\nEP05:E25 44300-45800 LADY ASHCROFT [Cold, Demanding]: \"And the ledger...\"\nEP05:E26 46000-48800 CAMERA: Medium shot as Lady Ashcroft approaches Juliana menacingly.\nEP05:E27 46800-48800 LADY ASHCROFT [Venomous]: \"...that belongs to this family.\"\nEP05:E28 49000-51800 JULIANA [Alarmed, Protective]: \"It belonged to my mother! It is all I have left of her.\"\nEP05:E29 51800-54000 CAMERA: Close-up of Lady Ashcroft laying a jeweled hand firmly on the bound book.\nEP05:E30 52000-54000 LADY ASHCROFT [Cruel]: \"Then you should have guarded it better.\"\nEP05:E31 54000-57800 CAMERA: Close-up on the ledger as Lady Ashcroft violently wrenches it out of Juliana's grip.\nEP05:E32 54500-57500 ACTION: Lady Ashcroft snatches the heavy book away and flings it disdainfully into the rain-soaked courtyard.\nEP05:E33 55500-56800 JULIANA [Screaming, Desperate]: \"Barbara, don't!\"\nEP05:E34 57000-58200 SOUND: A heavy wet slap as the leather-bound book crashes into the puddle-slicked stone pavement.\nEP05:E35 57800-63000 CAMERA: Medium shot of Clarissa and Gerald standing together on the cathedral steps. Clarissa clasps a gloved hand to her mouth in mock shock before bursting into gleeful laughter.\nEP05:E36 59000-62500 CLARISSA [Gleeful, Mocking]: \"Even your mother's precious legacy has been cast into the dirt!\"\nEP05:E37 62400-64600 GERALD [Smug, Cruel]: \"Perhaps that is where it belongs.\"\nEP05:E38 63000-66500 CAMERA: Close-up of Juliana looking down at the ground, tears streaming down her pale cheeks.\nEP05:E39 65500-68500 ACTION: Juliana drops to her knees onto the wet courtyard pavement, oblivious to the dirt soaking through her white bridal gown.\nEP05:E40 66500-69000 CAMERA: Low-angle close-up of Juliana's trembling hand reaching toward the leather ledger resting in the puddle.\nEP05:E41 69000-72500 CAMERA: Wide shot of Juliana kneeling on the damp ground as the tall Mysterious Bearded Man strides purposefully into frame toward her.\nEP05:E42 70500-74500 ACTION: The Mysterious Bearded Man bends his knees and kneels down beside Juliana, extending his scarred hand to retrieve the fallen ledger.\nEP05:E43 74500-76000 CAMERA: Close-up of his large, weathered hands gently lifting the wet, embossed leather book from the ground.\nEP05:E44 76000-80000 CAMERA: Medium two-shot as he holds out the retrieved ledger and places it into Juliana's trembling hands.\nEP05:E45 77800-79000 MYSTERIOUS BEARDED MAN [Low, Gentle]: \"Here you go.\"\nEP05:E46 80000-85500 CAMERA: Close-up of the Mysterious Bearded Man looking warmly down at Juliana, his rugged face full of quiet sincerity.\nEP05:E47 80500-82000 JULIANA [Choked, Weeping]: \"They destroyed it.\"\nEP05:E48 82500-85400 MYSTERIOUS BEARDED MAN [Calm, Grounded]: \"They dirtied it. That is not the same thing.\"\nEP05:E49 85500-91000 CAMERA: Medium two-shot of Juliana pressing the soiled book tightly against her chest, weeping softly.\nEP05:E50 86500-87800 JULIANA [Broken]: \"It was my mother's.\"\nEP05:E51 87900-89000 MYSTERIOUS BEARDED MAN [Gentle, Protective]: \"Then keep it.\"\nEP05:E52 88500-91000 ACTION: The Mysterious Bearded Man reaches out with both hands, clasping his strong hands tenderly over hers and the book.\nEP05:E53 89400-91000 MYSTERIOUS BEARDED MAN [Firm, Comforting]: \"Let them keep everything else.\"\nEP05:E54 91000-96500 CAMERA: Low-angle shot of Gerald standing high on the stone steps, grinning arrogantly as he points an accusatory finger down at them.\nEP05:E55 91500-92800 GERALD [Mocking, Arrogant]: \"Look at you.\"\nEP05:E56 93000-96500 GERALD [Scornful, Spiteful]: \"A noblewoman reduced to a beggar's wife!\"\nEP05:E57 96500-101500 CAMERA: Over-the-shoulder shot behind the Mysterious Bearded Man looking up toward Gerald on the stairs. Gerald's arrogant grin slowly wavers.\nEP05:E58 98000-100800 MYSTERIOUS BEARDED MAN [Low, Lethally Cold]: \"Choose your next words carefully.\"\nEP05:E59 101500-105500 CAMERA: Extreme close-up of the Mysterious Bearded Man's scarred hand completely covering and protecting Juliana's hands where they clasp the book.\nEP05:E60 104200-105200 MYSTERIOUS BEARDED MAN [Soft, Reassuring]: \"Come.\"\nEP05:E61 105500-110500 CAMERA: High wide shot from above the courtyard archway. Juliana, holding her mother's book, and the Mysterious Bearded Man, holding her hand firmly, walk together down the wet cobblestone path and through the towering iron gates into the misty rain, leaving her former family behind as the screen fades out.\nEP05:E62 106000-110500 SOUND: Rain gently pattering on cobblestones beneath a sweeping, melancholic orchestral swell that slowly fades to black.",
+  "schema": {
+    "$defs": {
+      "Beat": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "kind": {
+            "title": "Kind",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "description": {
+            "title": "Description",
+            "type": "string"
+          },
+          "intensity_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Intensity 0 10",
+            "type": "number"
+          }
+        },
+        "required": [
+          "id",
+          "kind",
+          "event_refs",
+          "description",
+          "intensity_0_10"
+        ],
+        "title": "Beat",
+        "type": "object"
+      },
+      "Character": {
+        "additionalProperties": false,
+        "properties": {
+          "name": {
+            "title": "Name",
+            "type": "string"
+          },
+          "role": {
+            "title": "Role",
+            "type": "string"
+          }
+        },
+        "required": [
+          "name",
+          "role"
+        ],
+        "title": "Character",
+        "type": "object"
+      },
+      "Question": {
+        "additionalProperties": false,
+        "properties": {
+          "question": {
+            "title": "Question",
+            "type": "string"
+          },
+          "introduced_by": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Introduced By",
+            "type": "array"
+          }
+        },
+        "required": [
+          "question",
+          "introduced_by"
+        ],
+        "title": "Question",
+        "type": "object"
+      },
+      "Revelation": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "claim": {
+            "title": "Claim",
+            "type": "string"
+          },
+          "spoiler_significance_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Spoiler Significance 0 10",
+            "type": "number"
+          },
+          "creates_questions": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Creates Questions",
+            "type": "array"
+          }
+        },
+        "required": [
+          "id",
+          "event_refs",
+          "claim",
+          "spoiler_significance_0_10",
+          "creates_questions"
+        ],
+        "title": "Revelation",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "episode_id": {
+        "title": "Episode Id",
+        "type": "string"
+      },
+      "summary": {
+        "title": "Summary",
+        "type": "string"
+      },
+      "characters": {
+        "items": {
+          "$ref": "#/$defs/Character"
+        },
+        "title": "Characters",
+        "type": "array"
+      },
+      "beats": {
+        "items": {
+          "$ref": "#/$defs/Beat"
+        },
+        "title": "Beats",
+        "type": "array"
+      },
+      "revelations": {
+        "items": {
+          "$ref": "#/$defs/Revelation"
+        },
+        "title": "Revelations",
+        "type": "array"
+      },
+      "unresolved_questions": {
+        "items": {
+          "$ref": "#/$defs/Question"
+        },
+        "title": "Unresolved Questions",
+        "type": "array"
+      }
+    },
+    "required": [
+      "episode_id",
+      "summary",
+      "characters",
+      "beats",
+      "revelations",
+      "unresolved_questions"
+    ],
+    "title": "EpisodeAnalysis",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

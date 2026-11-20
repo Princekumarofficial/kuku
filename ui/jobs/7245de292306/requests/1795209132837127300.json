@@ -1,0 +1,184 @@
+{
+  "stage": "episode_analysis",
+  "system": "Analyze narrative beats, characters, revelations and unresolved questions. Only event text is on-screen evidence; metadata may describe unseen events. Use supplied EPxx:Ex aliases. Report uncertainty in the summary. A revelation's significance is not its spoiler damage.",
+  "user": "EP=ep_043; timestamps are integer milliseconds\nSOURCE_SHA256=38bc44fd0e20af8d7d020f5616476647014c1fb0e0dff1bd0a59f77cf36d9bb9\nMETADATA ONLY (not on-screen evidence): {'logline': \"When Rupert frantically orders Alexander's arrest, the royal guards refuse and salute the true Duke, before damning Crown intelligence documents expose Rupert and Lord Sterling's treasonous plot.\", 'continuity_notes': 'Follows directly from Episode 42; inside the ruined cathedral, Alexander confronts Rupert before the congregation, armed with evidence from the Crown to reclaim his rightful title.'}\nSOURCE WARNINGS=[]\nSCENE sc_001 0-114960 INT. RUINED CATHEDRAL – CONTINUOUS\nEP43:E1 0-3800 CAMERA: Medium close-up on Rupert Ashburn standing before the altar, trembling with mounting panic and rage.\nEP43:E2 600-2400 BLOND NOBLEMAN [Hysterical, Panicked]: \"You're lying!\"\nEP43:E3 2400-3900 ACTION: Rupert lunges forward, his facial features contorting in venomous desperation.\nEP43:E4 3800-8000 CAMERA: Tracking shot swinging around Rupert as he turns toward the royal guards stationed along the aisle, pointing furiously down the center of the hall.\nEP43:E5 3900-7400 BLOND NOBLEMAN [Shrieking, Frantic]: \"This man is an imposter! Arrest him!\"\nEP43:E6 8000-10500 CAMERA: Wide symmetrical shot framing Alexander Ashburn standing immovable in the center of the cathedral, flanking lines of red-coated guards on both sides.\nEP43:E7 8200-10500 ACTION: Alexander stands completely composed in his dark embroidered aristocratic coat, staring Rupert down with unyielding authority.\nEP43:E8 10500-13500 CAMERA: Extreme close-up on Rupert's furious face, veins bulging at his temples.\nEP43:E9 10500-13200 BLOND NOBLEMAN [Enraged, Screaming]: \"I said arrest him!\"\nEP43:E10 13500-16200 CAMERA: Medium shot on the Royal Guard Captain in ceremonial bearskin uniform standing steadfast.\nEP43:E11 13800-16000 ACTION: The Guard Captain brings his ceremonial sword upright to attention, his expression stern and resolute.\nEP43:E12 14200-15800 ROYAL GUARD [Firm, Defiant]: \"We will not.\"\nEP43:E13 16200-17800 CAMERA: Low-angle shot looking down along the polished stone floor as the guard's sword tip grounds firmly between Rupert and the guards.\nEP43:E14 16200-18000 BLOND NOBLEMAN [Outraged, Stunned]: \"I am Lord Rupert Ashburn!\"\nEP43:E15 17800-19200 CAMERA: Medium close-up on Rupert thumping his chest in indignant disbelief.\nEP43:E16 18100-19000 BLOND NOBLEMAN [Desperate]: \"Your Duke!\"\nEP43:E17 19200-21800 CAMERA: Medium shot framing the Guard Captain and Alexander in profile.\nEP43:E18 19200-21600 ACTION: The Guard Captain snaps a crisp salute toward Alexander.\nEP43:E19 19200-21500 ROYAL GUARD [Calm, Resolute]: \"No. He is your Duke.\"\nEP43:E20 21800-24000 CAMERA: Medium shot on Catherine in her bridal gown and Lord Henry Sterling seated in the front pew, both frozen in stunned shock.\nEP43:E21 22000-24000 ACTION: Lord Sterling clutches his gold-headed walking cane tightly, his jaw clenching as tension spreads through the church.\nEP43:E22 24000-26000 CAMERA: Medium shot on Rupert spinning toward the gathered congregation, his hands flailing.\nEP43:E23 24100-25800 BLOND NOBLEMAN [Desperate, Flustered]: \"You have all been deceived!\"\nEP43:E24 26000-28000 CAMERA: Medium close-up on Alexander, commanding and icy.\nEP43:E25 26100-28000 ALEXANDER [Cold, Authoritative]: \"Then let the Crown decide.\"\nEP43:E26 28000-30000 CAMERA: Close-up on Alexander's hands holding an official War Office document bundle sealed with red wax and ribbon.\nEP43:E27 28200-30000 ACTION: Alexander brings forth the dossier stamped \"WAR OFFICE - TOP SECRET\" with the royal crest.\nEP43:E28 30000-33800 CAMERA: Medium shot of Alexander holding up the sealed parcel before the room.\nEP43:E29 30000-33400 ALEXANDER [Grave, Powerful]: \"These were delivered to me under the seal of the Crown.\"\nEP43:E30 33500-34500 ALEXANDER [Commanding]: \"Read the first.\"\nEP43:E31 33800-35000 CAMERA: Close-up on Lord Sterling looking sideways, his face pale with rising dread.\nEP43:E32 35000-37000 CAMERA: Two-shot of Alexander handing the dossier to a Crown Military Magistrate wearing white gloves and a high-collared black uniform.\nEP43:E33 35200-37000 ACTION: The Crown Official receives the dossier solemnly with both hands.\nEP43:E34 37000-42800 CAMERA: Medium close-up on the Crown Official opening the binder and reading aloud.\nEP43:E35 37200-38600 SOUND: Crisp sound of parchment turning.\nEP43:E36 37800-42500 CROWN OFFICIAL [Clear, Formal]: \"Military Intelligence Report, Iberian front, three years ago.\"\nEP43:E37 42800-43900 CAMERA: Close-up on Rupert staring wide-eyed, completely petrified.\nEP43:E38 43900-47800 CAMERA: Medium close-up on the Crown Official continuing the official reading.\nEP43:E39 44000-47400 CROWN OFFICIAL [Solemn, Objective]: \"Duke Alexander Ashburn's unit was ambushed after his location was compromised.\"\nEP43:E40 47800-50800 CAMERA: Frontal medium shot of the Crown Official turning a page as the congregation listens in breathless silence.\nEP43:E41 47800-50800 CROWN OFFICIAL [Accusing, Measured]: \"The report identifies the leak as deliberate.\"\nEP43:E42 50800-54800 CAMERA: Wide shot across the rubble of the cathedral floor showing Rupert crumbling in fear against the choir railing.\nEP43:E43 51000-54400 CROWN OFFICIAL [Voice Continuing]: \"Information regarding the Duke's position was transmitted through British channels.\"\nEP43:E44 51800-54800 ACTION: Rupert staggers backward, his knees buckling as he leans his weight heavily on the stone balustrade.\nEP43:E45 54800-57000 CAMERA: Close-up on Rupert clinging to the stone pillar, his breath shallow and terrified.\nEP43:E46 55000-56500 BLOND NOBLEMAN [Whispering, Terrified]: \"No...\"\nEP43:E47 57000-60000 CAMERA: Medium shot on Alexander stepping forward, thrusting the secondary dossier forward.\nEP43:E48 58500-60000 ALEXANDER [Cold, Implacable]: \"Read the names.\"\nEP43:E49 60000-63000 CAMERA: Medium close-up on the Crown Official reading the concluding section.\nEP43:E50 60600-62500 CROWN OFFICIAL [Deliberate, Damning]: \"Lord Henry Sterling.\"\nEP43:E51 63000-64500 CAMERA: Quick pan to Lord Sterling stiffening in his pew, then the Crown Official.\nEP43:E52 63100-64200 CROWN OFFICIAL [Continuing]: \"Rupert Ashburn.\"\nEP43:E53 64500-66000 CAMERA: Extreme close-up on Rupert's horrified eyes darting in sheer terror.\nEP43:E54 66000-68800 CAMERA: Close-up on the Dowager Duchess covering her mouth in agonizing disbelief.\nEP43:E55 66500-68000 DOWAGER DUCHESS [Shaken, Devastated]: \"My God...\"\nEP43:E56 68800-71200 CAMERA: Low-angle shot on Alexander towering over the fallen Rupert.\nEP43:E57 69000-71300 ALEXANDER [Furious, Thunderous]: \"You sold my men to the enemy.\"\nEP43:E58 71200-72700 CAMERA: Close-up on Rupert waving his hands defensively, hyperventilating.\nEP43:E59 71400-72700 BLOND NOBLEMAN [Desperate, Denying]: \"I didn't!\"\nEP43:E60 72700-74800 CAMERA: Low-angle tracking push-in on Alexander raising the red-ribboned war document toward the cathedral arches.\nEP43:E61 72800-75200 ALEXANDER [Resonant, Accusatory]: \"And when you believed I was dead...\"\nEP43:E62 74800-76000 CAMERA: Quick reaction shot on Rupert gasping on the steps.\nEP43:E63 76000-77800 CAMERA: Tight close-up on Alexander's scarred, furious face.\nEP43:E64 76100-77600 ALEXANDER [Venomous]: \"You took my title.\"\nEP43:E65 77800-81000 CAMERA: Extreme close-up on the Crown Official's gloved thumb cracking the red wax seal open.\nEP43:E66 78000-79400 SOUND: Brittle snap of breaking sealing wax.\nEP43:E67 81000-85000 CAMERA: Full shot of the Crown Official standing amidst church debris reading the death register.\nEP43:E68 81500-85800 CROWN OFFICIAL [Grave, Official]: \"Official death confirmation was filed three months after the ambush.\"\nEP43:E69 85000-88000 CAMERA: Two-shot of the Crown Official in the background and Alexander's dark silhouette in the foreground.\nEP43:E70 86000-88500 CROWN OFFICIAL [Continuing]: \"Duke Alexander Ashburn was declared dead.\"\nEP43:E71 88000-93200 CAMERA: Wide majestic shot capturing the entire nave, the rows of horrified guests, and the ruined cathedral windows.\nEP43:E72 88600-93000 CROWN OFFICIAL [Loud, Authoritative]: \"His estate and title were subsequently transferred under false authority.\"\nEP43:E73 93200-96500 CAMERA: Medium close-up on Rupert clutching his chest as if choking on his own lies.\nEP43:E74 93400-96400 BLOND NOBLEMAN [Screaming, Desperate]: \"I was told he was dead!\"\nEP43:E75 96500-99800 CAMERA: Low shot following Alexander's heavy boots stepping steadily up the stone steps toward the altar.\nEP43:E76 96800-99800 ALEXANDER [Cold, Penetrating]: \"You were told exactly what you needed to hear.\"\nEP43:E77 99800-102200 CAMERA: Medium shot on Rupert whirling around in a frenzy, pointing his finger toward Lord Sterling.\nEP43:E78 100000-102200 BLOND NOBLEMAN [Frantic, Betraying]: \"Sterling handled the report!\"\nEP43:E79 102200-103400 CAMERA: Alexander turns his head sharply toward the side pews.\nEP43:E80 103400-104800 CAMERA: Medium shot of Lord Henry Sterling silently slipping out of his seat and making a break toward the side exit.\nEP43:E81 104800-106500 CAMERA: Close-up on Catherine peering out from under her bridal veil in shock.\nEP43:E82 104800-106200 CATHERINE [Shocked, Murmuring]: \"My Lord?\"\nEP43:E83 106500-109800 CAMERA: Medium shot of Lord Sterling frantically unlatching the heavy oak church door and pulling it open.\nEP43:E84 107000-109000 SOUND: Heavy iron latch clicking open and wooden door creaking.\nEP43:E85 109800-112800 CAMERA: Reverse angle from inside the doorway showing a stern British Police Constable standing directly outside, blocking the passage.\nEP43:E86 110400-112500 POLICE CONSTABLE [Firm, Sardonic]: \"Going somewhere, Lord Sterling?\"\nEP43:E87 112800-114960 CAMERA: Extreme close-up on Lord Sterling's face frozen in pure terror, his jaw agape as his escape is completely cut off, holding until fade to black.",
+  "schema": {
+    "$defs": {
+      "Beat": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "kind": {
+            "title": "Kind",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "description": {
+            "title": "Description",
+            "type": "string"
+          },
+          "intensity_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Intensity 0 10",
+            "type": "number"
+          }
+        },
+        "required": [
+          "id",
+          "kind",
+          "event_refs",
+          "description",
+          "intensity_0_10"
+        ],
+        "title": "Beat",
+        "type": "object"
+      },
+      "Character": {
+        "additionalProperties": false,
+        "properties": {
+          "name": {
+            "title": "Name",
+            "type": "string"
+          },
+          "role": {
+            "title": "Role",
+            "type": "string"
+          }
+        },
+        "required": [
+          "name",
+          "role"
+        ],
+        "title": "Character",
+        "type": "object"
+      },
+      "Question": {
+        "additionalProperties": false,
+        "properties": {
+          "question": {
+            "title": "Question",
+            "type": "string"
+          },
+          "introduced_by": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Introduced By",
+            "type": "array"
+          }
+        },
+        "required": [
+          "question",
+          "introduced_by"
+        ],
+        "title": "Question",
+        "type": "object"
+      },
+      "Revelation": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "claim": {
+            "title": "Claim",
+            "type": "string"
+          },
+          "spoiler_significance_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Spoiler Significance 0 10",
+            "type": "number"
+          },
+          "creates_questions": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Creates Questions",
+            "type": "array"
+          }
+        },
+        "required": [
+          "id",
+          "event_refs",
+          "claim",
+          "spoiler_significance_0_10",
+          "creates_questions"
+        ],
+        "title": "Revelation",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "episode_id": {
+        "title": "Episode Id",
+        "type": "string"
+      },
+      "summary": {
+        "title": "Summary",
+        "type": "string"
+      },
+      "characters": {
+        "items": {
+          "$ref": "#/$defs/Character"
+        },
+        "title": "Characters",
+        "type": "array"
+      },
+      "beats": {
+        "items": {
+          "$ref": "#/$defs/Beat"
+        },
+        "title": "Beats",
+        "type": "array"
+      },
+      "revelations": {
+        "items": {
+          "$ref": "#/$defs/Revelation"
+        },
+        "title": "Revelations",
+        "type": "array"
+      },
+      "unresolved_questions": {
+        "items": {
+          "$ref": "#/$defs/Question"
+        },
+        "title": "Unresolved Questions",
+        "type": "array"
+      }
+    },
+    "required": [
+      "episode_id",
+      "summary",
+      "characters",
+      "beats",
+      "revelations",
+      "unresolved_questions"
+    ],
+    "title": "EpisodeAnalysis",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

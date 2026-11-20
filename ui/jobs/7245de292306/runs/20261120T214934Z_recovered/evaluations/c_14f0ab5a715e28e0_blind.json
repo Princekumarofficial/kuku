@@ -1,0 +1,45 @@
+{
+  "candidate_id": "c_14f0ab5a715e28e0",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP48:E19",
+      "EP48:E20",
+      "EP48:E21"
+    ],
+    "reason": "The clip opens within 0-3000ms with a close-up of a key turning in a lock and a heavy metallic click, then Catherine grasps Agnes by both hands and stands uncomfortably close. The physical tension is immediate, though the stakes are not clear until later lines."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP48:E38",
+      "EP48:E39",
+      "EP48:E40"
+    ],
+    "reason": "In the final 3000ms Catherine hands Agnes a coin purse and orders 'Send for the priest. Tonight.' The instruction is left hanging with no visible outcome, and the viewer is not shown what the priest will do or whether the plan succeeds. The ending is not resolved within the clip.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who the Duke is and why he has bailiffs watching the roads",
+      "What the hearing is and when it convenes",
+      "Who Father Thomas is and what he did earlier",
+      "What the chapel humiliation refers to and why it matters",
+      "Why Catherine needs the household to be careless after a death",
+      "The relationship between Catherine and Agnes beyond this exchange",
+      "What Catherine intends to do in the house and why a priest is needed"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The scene builds menace through Catherine's venomous smile, her jaw set in firmness, and the clinking coin purse handed over as a bribe. Agnes's anxious reactions reinforce unease, though the emotional stakes for the viewer depend on unexplained context."
+  },
+  "weaknesses": [
+    "Many references point to off-screen events and characters (the Duke, Father Thomas, the hearing, the chapel), so a first-time viewer cannot anchor the threat",
+    "The purpose of the priest and the coin purse is never clarified, weakening the payoff of the ending",
+    "Dense exposition-style dialogue delivers plot information without visual grounding",
+    "Agnes's role and feelings are only partially established"
+  ],
+  "one_line_why_it_works": "A tense confrontation ends on a chilling, open-ended order delivered as a bribe, leaving the viewer wanting to know what Catherine is planning."
+}

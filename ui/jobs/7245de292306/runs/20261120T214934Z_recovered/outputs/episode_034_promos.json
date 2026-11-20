@@ -1,0 +1,138 @@
+{
+  "schema_version": "1.0",
+  "series_id": "series_001",
+  "scope": {
+    "type": "episode",
+    "episode_id": "ep_034"
+  },
+  "promos": [
+    {
+      "candidate_id": "c_54e059df263968b6",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 0,
+          "end_ms": 41200,
+          "episode_id": "ep_034"
+        }
+      ],
+      "duration_ms": 41200,
+      "hook": {
+        "description": "The opening shot of a sunlit courtroom with a confined prisoner is followed at 1200ms by the judge naming witchcraft, unlawful healing, and poisoning, which raises stakes immediately.",
+        "evidence_refs": [
+          "EP34:E1",
+          "EP34:E2"
+        ]
+      },
+      "cliffhanger": {
+        "description": "The clip ends mid-trial with the judge turning to Prudence and asking whether she served beside the accused, while Prudence stands trembling and ashamed. Her answer and its consequences are not shown, so the question is left open.",
+        "evidence_refs": [
+          "EP34:E23",
+          "EP34:E24"
+        ]
+      },
+      "why_it_works": "A tense courtroom confrontation escalates from denial to defiant admission and ends on a new witness's shameful silence, leaving the viewer wanting to know what Prudence will say.",
+      "scores": {
+        "hook": 7.0,
+        "cliffhanger": 8.0,
+        "standalone": 6.0,
+        "emotion": 7.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 7.05
+      },
+      "warnings": [
+        "Clip is mostly courtroom dialogue with limited visual variety",
+        "Lord's motive and malicious satisfaction are implied but not explained",
+        "Poisoning charge is named but never connected to evidence in the clip",
+        "Prudence is introduced abruptly in the final second with no prior setup",
+        "Viewer must infer the stakes of Juliana's admission without further context",
+        "Spoilers not checked",
+        "Nature and source of the poisoning accusation is not explained",
+        "Why the grimoire is considered forbidden is not explained",
+        "Relationship between the aristocratic Lord and the accused is not established",
+        "Who Prudence is and why her testimony matters is not established",
+        "Cause of Lady Juliana's bruised cheekbone is not shown",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 1,
+      "promo_id": "p_001"
+    },
+    {
+      "candidate_id": "c_6a30a81da166616f",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 107300,
+          "end_ms": 131600,
+          "episode_id": "ep_034"
+        }
+      ],
+      "duration_ms": 24300,
+      "hook": {
+        "description": "The opening line from the Lord, 'She calls it healing.', starts within 0-3000ms and sets up an accusation about an unseen 'she'. The rising confrontation in the courtroom makes a first-time viewer want to know what happens next.",
+        "evidence_refs": [
+          "EP34:E65",
+          "EP34:E66"
+        ]
+      },
+      "cliffhanger": {
+        "description": "The clip ends on the Judge's unanswered question, 'Without the approval of a licensed physician?', with Lady Juliana's response not shown. The question is still open at the final 3000ms, so this is an unresolved hook rather than a resolved intense ending.",
+        "evidence_refs": [
+          "EP34:E82",
+          "EP34:E83"
+        ]
+      },
+      "why_it_works": "A bold opening accusation is followed by a sharp courtroom exchange that ends on the Judge's unanswered question about the lack of a licensed physician, which leaves the viewer wanting the next line.",
+      "scores": {
+        "hook": 7.0,
+        "cliffhanger": 7.0,
+        "standalone": 5.0,
+        "emotion": 7.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 6.5
+      },
+      "warnings": [
+        "The clip relies on unstated background about the accusation, so a first-time viewer cannot tell what the charge is",
+        "Lady Juliana's answer to the Judge's final question is not shown, leaving the scene unfinished",
+        "The Lord's opening line refers to 'She' with no introduction",
+        "Some camera direction is repetitive, and the dialogue carries most of the emotional weight",
+        "Spoilers not checked",
+        "Who Lady Juliana is and what she is accused of",
+        "Who the Lord is and his relationship to Lady Juliana",
+        "What the herbs were and who received them",
+        "The illnesses or deaths the trial concerns",
+        "Why a licensed physician's approval is required",
+        "What 'she' refers to in the opening line",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 2,
+      "promo_id": "p_002"
+    }
+  ],
+  "construction": {
+    "opportunities": 3,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "DURATION_OUT_OF_RANGE": 1972,
+      "PARTIAL_DIALOGUE": 227
+    }
+  },
+  "rejected_candidates": [
+    {
+      "candidate_id": "c_db732446cb310f7e",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_458f36d8f36b80bf",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    }
+  ]
+}

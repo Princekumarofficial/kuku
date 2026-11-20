@@ -1,0 +1,246 @@
+{
+  "episode_id": "ep_018",
+  "summary": "Episode ep_018 (EP18) covers a night fire in a cottage: Juliana wakes to flames, Alexander breaks in and leads her out through collapsing corridors, she retrieves her mother's ledger, and they escape through a parlor window to the front yard, where Alexander vows to act against those responsible. Uncertainty: source warnings state that scenes sc_002, sc_003 and sc_005 have incomplete coverage with gaps unavailable, so beats spanning those scenes may omit events. The cause of the fire is not shown on screen; the claim that someone wanted them out (EP18:E74) is a character's assertion, not a confirmed fact. Metadata was not used as evidence, and no dialogue, event references or timestamps were invented.",
+  "characters": [
+    {
+      "name": "Juliana",
+      "role": "Cottage occupant who wakes to the fire, protects her mother's ledger, and is rescued by Alexander"
+    },
+    {
+      "name": "Alexander",
+      "role": "Protector who breaks in to rescue Juliana, leads the escape, and vows vengeance against those he believes responsible"
+    }
+  ],
+  "beats": [
+    {
+      "id": "B1",
+      "kind": "inciting_incident",
+      "event_refs": [
+        "EP18:E1",
+        "EP18:E2",
+        "EP18:E3",
+        "EP18:E4"
+      ],
+      "description": "Flames and smoke appear under the bedroom door and Juliana wakes coughing from the smoke.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "B2",
+      "kind": "escalation",
+      "event_refs": [
+        "EP18:E5",
+        "EP18:E6",
+        "EP18:E7",
+        "EP18:E8",
+        "EP18:E9",
+        "EP18:E10",
+        "EP18:E11"
+      ],
+      "description": "Juliana rises in panic, calls for Alexander, and sits huddled and sobbing as the fire closes in on the bedroom.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "B3",
+      "kind": "rescue",
+      "event_refs": [
+        "EP18:E12",
+        "EP18:E13",
+        "EP18:E14",
+        "EP18:E15",
+        "EP18:E16",
+        "EP18:E17",
+        "EP18:E18"
+      ],
+      "description": "Alexander kicks open the door, crosses the burning room, lifts Juliana to her feet, and tells her the cause is fire.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "B4",
+      "kind": "obstacle",
+      "event_refs": [
+        "EP18:E19",
+        "EP18:E20",
+        "EP18:E21",
+        "EP18:E22",
+        "EP18:E23",
+        "EP18:E24",
+        "EP18:E25",
+        "EP18:E26",
+        "EP18:E27",
+        "EP18:E28",
+        "EP18:E29"
+      ],
+      "description": "The main exit is sealed by flames and falling beams, so Alexander leads Juliana through another route.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "B5",
+      "kind": "complication",
+      "event_refs": [
+        "EP18:E30",
+        "EP18:E31",
+        "EP18:E32",
+        "EP18:E33",
+        "EP18:E34",
+        "EP18:E35",
+        "EP18:E36",
+        "EP18:E37",
+        "EP18:E38",
+        "EP18:E39",
+        "EP18:E40",
+        "EP18:E41",
+        "EP18:E42",
+        "EP18:E43"
+      ],
+      "description": "Juliana refuses to leave the ledger behind, breaks free from Alexander, and seizes the burning book as a beam collapses.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "B6",
+      "kind": "climax",
+      "event_refs": [
+        "EP18:E44",
+        "EP18:E45",
+        "EP18:E46",
+        "EP18:E47",
+        "EP18:E48",
+        "EP18:E49",
+        "EP18:E50",
+        "EP18:E51",
+        "EP18:E52"
+      ],
+      "description": "A rafter splits above Juliana, Alexander tackles her clear of a falling beam, and he shields her while reassuring her.",
+      "intensity_0_10": 9.0
+    },
+    {
+      "id": "B7",
+      "kind": "escape",
+      "event_refs": [
+        "EP18:E53",
+        "EP18:E54",
+        "EP18:E55",
+        "EP18:E56",
+        "EP18:E57",
+        "EP18:E58",
+        "EP18:E59",
+        "EP18:E60",
+        "EP18:E61",
+        "EP18:E62",
+        "EP18:E63"
+      ],
+      "description": "Walls collapse behind them, Alexander carries Juliana through the parlor window, and they reach the dark grass outside.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "B8",
+      "kind": "aftermath",
+      "event_refs": [
+        "EP18:E64",
+        "EP18:E65",
+        "EP18:E66",
+        "EP18:E67",
+        "EP18:E68",
+        "EP18:E69",
+        "EP18:E70",
+        "EP18:E71",
+        "EP18:E72",
+        "EP18:E73",
+        "EP18:E74",
+        "EP18:E75"
+      ],
+      "description": "Villagers arrive as the cottage burns; Juliana grieves her lost home and possessions, Alexander comforts her, and Juliana says they have nowhere to go.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "B9",
+      "kind": "resolve",
+      "event_refs": [
+        "EP18:E76",
+        "EP18:E77",
+        "EP18:E78",
+        "EP18:E79",
+        "EP18:E80",
+        "EP18:E81"
+      ],
+      "description": "Alexander's face hardens with fury as he vows not to let anything else be taken, and the episode closes on his resolve toward vengeance.",
+      "intensity_0_10": 7.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "R1",
+      "event_refs": [
+        "EP18:E74"
+      ],
+      "claim": "Alexander says someone wanted them out of the cottage, suggesting the fire was deliberate; this is an unverified assertion on screen.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "Who set the fire?",
+        "Why did someone want Juliana and Alexander out of the cottage?"
+      ]
+    },
+    {
+      "id": "R2",
+      "event_refs": [
+        "EP18:E42",
+        "EP18:E43"
+      ],
+      "claim": "Juliana states the scorched leather ledger belongs to her mother.",
+      "spoiler_significance_0_10": 4.0,
+      "creates_questions": [
+        "What information does the ledger contain?",
+        "What is the mother's current situation?"
+      ]
+    },
+    {
+      "id": "R3",
+      "event_refs": [
+        "EP18:E78",
+        "EP18:E81"
+      ],
+      "claim": "Alexander vows he will not let those responsible take anything else and shows intent to pursue vengeance.",
+      "spoiler_significance_0_10": 5.0,
+      "creates_questions": [
+        "Who are the people Alexander intends to pursue?",
+        "What action will Alexander take?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "Who set the cottage on fire, and by what means?",
+      "introduced_by": [
+        "EP18:E1",
+        "EP18:E74"
+      ]
+    },
+    {
+      "question": "Why did someone want Juliana and Alexander out of the cottage?",
+      "introduced_by": [
+        "EP18:E71",
+        "EP18:E74"
+      ]
+    },
+    {
+      "question": "What is written in the mother's ledger, and why does it matter so much to Juliana?",
+      "introduced_by": [
+        "EP18:E42",
+        "EP18:E43"
+      ]
+    },
+    {
+      "question": "What is Alexander's plan of vengeance, and against whom?",
+      "introduced_by": [
+        "EP18:E78",
+        "EP18:E80",
+        "EP18:E81"
+      ]
+    },
+    {
+      "question": "How and why were Juliana's hands bandaged?",
+      "introduced_by": [
+        "EP18:E10"
+      ]
+    }
+  ]
+}

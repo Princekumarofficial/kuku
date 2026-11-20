@@ -1,0 +1,44 @@
+{
+  "candidate_id": "c_3b23ee8710d9a1b1",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP36:E13",
+      "EP36:E12"
+    ],
+    "reason": "The opening line \"They knew where I was.\" (200-2700ms) gives an immediate sense of threat and betrayal, and the tense staging over the map adds to it. The hook relies on a loaded line rather than shown events, so a first-time viewer has no idea who \"they\" are."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP36:E30",
+      "EP36:E29"
+    ],
+    "reason": "The clip ends on \"And Rupert took Ashbourne.\" (28200-31000), a new reveal that is not explained, so the stakes stay open. It is not a conventional cliffhanger, because the reveal lands as a statement rather than a suspended action, and the implications of Ashbourne's loss are unclear.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who \"they\" are and which organisation or faction betrayed Alexander",
+      "What the \"French\" enemy relationship and Alexander's position being leaked mean",
+      "What Alexander discovered and what the \"investigation\" was",
+      "Who Alexander's mother is in relation to the conflict",
+      "Who Rupert is and why taking Ashbourne matters",
+      "What Ashbourne is (place, object, or person)",
+      "Why Alexander was declared dead and what the falsified reports concealed"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The clip builds from suppressed rage to contempt to the mother's open grief and weeping (E14-E29), so the emotional arc is clear even without context. The shared grief between mother and son carries the emotion."
+  },
+  "weaknesses": [
+    "Heavy reliance on undefined names and places (Rupert, Ashbourne, the French) reduces clarity for a first-time viewer",
+    "Dense expository dialogue delivers backstory without visual grounding",
+    "Mother's motivation and relationship to the plot are not established",
+    "Ending reveal is ambiguous and may read as a non-sequitur without prior context",
+    "Several camera descriptions repeat similar close-up framing, so the visual variety is limited"
+  ],
+  "one_line_why_it_works": "Escalating betrayal dialogue and a mother's visible grief build emotional pressure, and the closing mention of Ashbourne leaves a dangling stake that invites the viewer to ask what happens next."
+}

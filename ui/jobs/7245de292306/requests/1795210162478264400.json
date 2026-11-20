@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_75cfade293d72661 DURATION_MS=51800\nSEGMENT 1 (playback order)\nEP28:E14 0-100 CAMERA: Close-up of Juliana glaring back in fierce indignation, breathing heavily as she resists the guard's arm across her shoulder.\nEP28:E16 100-4400 CAMERA: Medium full shot of Rupert standing beside the four-poster bed, calmly pulling on his black leather gloves.\nEP28:E17 500-1900 BLOND NOBLEMAN: \"A clever story, girl.\"\nEP28:E18 2000-4300 BLOND NOBLEMAN: \"But the guards know how to extract the truth.\"\nEP28:E19 4400-8300 CAMERA: Medium close-up of the Dowager Duchess stirring against her pillows, lifting her trembling head with visible effort.\nEP28:E20 6400-8100 DOWAGER DUCHESS: \"Rupert...\"\nEP28:E22 8300-9800 DOWAGER DUCHESS: \"Stop this!\"\nEP28:E21 8300-10000 CAMERA: Medium shot of Rupert pausing mid-stride as he hears his mother's voice, slowly turning his head toward the bed.\nEP28:E23 10000-14400 CAMERA: Wide shot of the bedchamber framed through the bed curtains as the Duchess props herself up on one elbow and points an accusing finger.\nEP28:E24 10400-11900 DOWAGER DUCHESS: \"She is innocent.\"\nEP28:E25 12400-14000 DOWAGER DUCHESS: \"She saved me!\"\nEP28:E26 14400-16500 CAMERA: Close-up of Juliana, tears of relief welling in her eyes.\nEP28:E27 14800-16200 JULIANA: \"Your Grace...\"\nEP28:E28 16500-19300 CAMERA: Close-up of the Duchess clutching at her nightgown, her face twisted in mounting fury and horror.\nEP28:E29 16600-19000 DOWAGER DUCHESS: \"I know what happened to me!\"\nEP28:E30 19300-24600 CAMERA: Medium low-angle shot past the Duchess pointing directly at Rupert, who stands rigid and expressionless.\nEP28:E31 19800-21600 DOWAGER DUCHESS: \"I was poisoned!\"\nEP28:E32 21900-23800 DOWAGER DUCHESS: \"And you... you knew!\"\nEP28:E33 24600-29000 CAMERA: Medium shot of the Duchess lunging forward from the pillows, gasping for breath as she points toward Catherine.\nEP28:E34 25200-26900 DOWAGER DUCHESS: \"Catherine knew!\"\nEP28:E35 27200-28600 DOWAGER DUCHESS: \"They have been—\"\nEP28:E36 28400-29600 ACTION: The Duchess collapses back onto the pillows, coughing violently and clutching her chest.\nEP28:E37 29000-33800 CAMERA: Wide shot as Juliana lunges across the room toward the bed, but the armed guard seizes her from behind and drags her back.\nEP28:E38 29800-31300 JULIANA: \"Let me help her!\"\nEP28:E39 31100-33700 JULIANA: \"She's still weak, you cannot leave her like this!\"\nEP28:E40 33800-38400 CAMERA: Medium close-up of Rupert smoothing down his black leather gloves, a chilling smile forming on his lips.\nEP28:E41 34400-35200 BLOND NOBLEMAN: \"You see?\"\nEP28:E42 35600-38200 BLOND NOBLEMAN: \"The poison has clearly damaged her mind.\"\nEP28:E43 38400-42900 CAMERA: Over-the-shoulder shot of Rupert leaning menacingly over the gasping Duchess in bed.\nEP28:E44 38600-40300 DOWAGER DUCHESS: \"I am not delusional!\"\nEP28:E45 40200-41600 BLOND NOBLEMAN: \"Of course you are not.\"\nEP28:E46 41700-42800 BLOND NOBLEMAN: \"You are merely confused.\"\nEP28:E47 42900-48400 CAMERA: Medium profile tracking shot of Catherine walking deliberately toward Juliana, speaking with airy cynicism.\nEP28:E48 43200-46400 CATHERINE: \"How convenient that the only person who can prove the poison exists...\"\nEP28:E49 46500-48400 CATHERINE: \"...is the maid who claims to have discovered it.\"\nEP28:E50 48400-51800 CAMERA: Low-angle medium shot of Rupert turning sharply toward the guard, his eyes icy and authoritative.\nEP28:E51 48800-51800 BLOND NOBLEMAN: \"Take her away before she poisons the rest of this house.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

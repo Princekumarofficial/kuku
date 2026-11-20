@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_2185fde0c7ba67bb DURATION_MS=27100\nSEGMENT 1 (playback order)\nEP29:E27 0-2600 CAMERA: Medium shot of Juliana thrashing frantically against the two guards.\nEP29:E28 100-2200 JULIANA: \"You cannot just destroy it!\"\nEP29:E29 2600-5500 CAMERA: Tight close-up of Catherine's eyes narrowing into an icy, venomous gaze.\nEP29:E30 3000-4800 CATHERINE: \"I can burn it.\"\nEP29:E31 5500-9300 CAMERA: Close-up of Juliana's stricken expression, her eyes widening in horror.\nEP29:E32 5800-9300 CATHERINE: \"And when they find your corpse at the end of the rope...\"\nEP29:E33 9300-12300 CAMERA: Side close-up of Catherine leaning slightly forward, her voice low and merciless.\nEP29:E34 9500-12200 CATHERINE: \"...no one will remember what was written inside.\"\nEP29:E35 12300-14900 CAMERA: Close-up of Juliana screaming back in raw outrage.\nEP29:E36 12400-14700 JULIANA: \"You are doing this because I saved the Duchess!\"\nEP29:E37 14900-19500 CAMERA: Medium low-angle shot of Catherine standing rigid in her silk gown, contempt etched across her features.\nEP29:E38 15000-19100 CATHERINE: \"I am doing this because women like you forget their place.\"\nEP29:E39 19500-22700 CAMERA: Quick pan from Juliana's apron up to Catherine's face.\nEP29:E40 20200-22200 CATHERINE: \"You were cast out once.\"\nEP29:E41 22700-25200 CAMERA: Extreme close-up on Catherine's smiling lips and cold blue eyes.\nEP29:E42 22900-24800 CATHERINE: \"You should have stayed forgotten.\"\nEP29:E43 25200-27100 CAMERA: Close-up of Juliana raising her chin, unwavering pride breaking through her tears.\nEP29:E44 25500-27100 JULIANA: \"My husband will find me.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

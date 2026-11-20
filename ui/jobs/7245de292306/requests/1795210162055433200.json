@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_190210ee326ae192 DURATION_MS=55800\nSEGMENT 1 (playback order)\nEP15:E6 0-100 CAMERA: Medium close-up of a bald thug leaning over a lush bed of white medicinal chamomile herbs.\nEP15:E8 100-4400 CAMERA: Medium shot framing the open doorway of the stone cottage, bathed in warm interior light against the dark night.\nEP15:E9 200-4400 ACTION: Juliana bursts through the cottage doorway, her hands wrapped in clean white bandages, freezing in horror at the destruction.\nEP15:E10 1100-4300 JULIANA: \"Stop! What are you doing?!\"\nEP15:E11 4400-8400 CAMERA: Medium close-up of the Thug with Cap holding the uprooted chamomile bouquet, sneering with cruel amusement.\nEP15:E12 5600-8300 THUG WITH CAP: \"We're clearing this rubbish.\"\nEP15:E13 8400-11400 CAMERA: Close-up on Juliana, her face tight with anguish and fury as she clutches her bandaged hands against her chest.\nEP15:E14 9000-11300 JULIANA: \"Those are medicinal plants!\"\nEP15:E15 11400-15100 CAMERA: Low-angle shot tracking down from the bald thug's grinning face to his worn leather boots on the muddy flagstones.\nEP15:E16 12600-14900 BALD THUG: \"They look like weeds to me.\"\nEP15:E17 13100-15100 ACTION: The bald thug flings the bouquet into the mud and grinds his heavy boot directly onto the delicate flowers.\nEP15:E18 15100-19400 CAMERA: High-angle two-shot as Juliana rushes forward and drops directly onto her knees in the cold mud before the thug.\nEP15:E19 15400-19100 ACTION: Juliana frantically tries to scoop the crushed soil and torn stems back into the bed with her bandaged hands.\nEP15:E20 15800-18900 JULIANA: \"Please! Those plants took months to grow!\"\nEP15:E21 19400-24100 CAMERA: Medium two-shot of the Tall Thug with the club and the Thug with Cap bursting into raucous laughter under the full moon.\nEP15:E22 20100-23800 TALL THUG: \"Months? You actually spend your days growing this filth?\"\nEP15:E23 24100-26600 CAMERA: Tight close-up of Juliana's bandaged hands trembling as she tenderly gathers the soiled white flowers from the puddles.\nEP15:E24 26600-29600 CAMERA: Low-angle medium shot tilting up as Juliana rises from the ground, standing tall despite her trembling frame.\nEP15:E25 27400-29400 JULIANA: \"Leave my garden alone.\"\nEP15:E26 29600-33100 CAMERA: Medium close-up of the Thug with Cap scoffing derisively.\nEP15:E27 29800-33000 THUG WITH CAP: \"A noble lady playing in the dirt. What a joke.\"\nEP15:E28 33100-36800 CAMERA: Medium close-up of Juliana, her eyes blazing with indignation and wounded pride.\nEP15:E29 33600-36600 JULIANA: \"It is my home. You have no right to destroy anything here.\"\nEP15:E30 36800-39100 CAMERA: Tight close-up of the Thug with Cap stepping aggressively into Juliana's personal space, snarling with venom.\nEP15:E31 37400-39000 THUG WITH CAP: \"Get out of the way!\"\nEP15:E33 39100-39900 JULIANA: \"No.\"\nEP15:E32 39100-40600 CAMERA: Extreme close-up on Juliana's piercing blue eyes and set jaw, unflinching.\nEP15:E34 40000-42100 ACTION: The Thug with Cap violently shoves Juliana back with both hands; she cries out as she loses her balance and crashes hard onto the wet stone path.\nEP15:E35 40400-41600 JULIANA: \"Ah!\"\nEP15:E36 42100-46100 CAMERA: Close-up tracking down to Juliana's hand hitting the mud next to the crushed chamomile flowers.\nEP15:E37 42600-46100 ACTION: Juliana crawls forward on her elbows; fresh crimson blood seeps profusely through her white gauze bandages as she reaches for the ruined blossoms.\nEP15:E39 46100-48300 JULIANA: \"My mother's plants...\"\nEP15:E38 46100-49100 CAMERA: Tight close-up on Juliana's mud-streaked, tear-stained face trembling in heartbreaking agony.\nEP15:E40 49100-52600 CAMERA: Low-angle wide shot of the three thugs pointing and laughing hysterically at her kneeling form.\nEP15:E41 49900-52400 BALD THUG: \"Look at her! Crying over weeds!\"\nEP15:E43 52600-53600 JULIANA: \"Stop!\"\nEP15:E42 52600-54600 ACTION: The Tall Thug hoists his heavy wooden club above his head to crush the remaining herbs right before Juliana.\nEP15:E44 54600-55800 CAMERA: Medium close-up of the Thug with Cap suddenly stiffening, his smug smile dropping as footsteps pound in the darkness.",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

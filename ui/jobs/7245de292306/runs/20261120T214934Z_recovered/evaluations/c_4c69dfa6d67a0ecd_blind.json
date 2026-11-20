@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_4c69dfa6d67a0ecd",
+  "hook": {
+    "score_0_10": 5.0,
+    "evidence_refs": [
+      "EP09:E66",
+      "EP09:E67",
+      "EP09:E78"
+    ],
+    "reason": "The opening is a calm, static gothic study scene, and the first strong beat arrives only at the scar rumor around 13400ms, so the hook is delayed rather than immediate."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP09:E87",
+      "EP09:E88"
+    ],
+    "reason": "The clip ends on the Blond Nobleman alone saying 'Impossible.' with the question of the veteran's identity left open, so it is not resolved, though the ending is brief and the stakes are only partly defined.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Who the late Duke is and his relationship to the Blond Nobleman",
+      "Why the Former Groom's rumor is alarming to the Blond Nobleman",
+      "Who the war veteran is and what 'the Former Groom' was previously involved in",
+      "The meaning of 'former groom' and the status of the household",
+      "What the scar detail implies beyond the rumor"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 6.0,
+    "reason": "The shift from smug dismissal to alarm and creeping paranoia is conveyed through expression and the final 'Impossible.', though the emotional stakes rest on context the viewer lacks."
+  },
+  "weaknesses": [
+    "Opening 13 seconds are slow with little tension before the rumor is introduced",
+    "Key characters and relationships are referenced without introduction",
+    "The 'war veteran' and the Duke's scar are not explained, weakening standalone comprehension",
+    "The final line is brief and the threat is not made concrete"
+  ],
+  "one_line_why_it_works": "A dismissive nobleman's composure cracks when a rumor about a scar resembling a dead duke's suggests an unsettling possibility, ending on an unresolved 'Impossible.'"
+}

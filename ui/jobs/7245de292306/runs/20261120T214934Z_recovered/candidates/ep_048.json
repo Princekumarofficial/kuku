@@ -1,0 +1,602 @@
+[
+  {
+    "candidate_id": "c_cda128f4a321cbbe",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 0,
+        "end_ms": 26500,
+        "episode_id": "ep_048"
+      }
+    ],
+    "duration_ms": 26500,
+    "origin": "ep048_opp_01",
+    "clip_events": [
+      {
+        "ref": "EP48:E2",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 3000,
+        "type": "action",
+        "speaker": null,
+        "text": "Catherine, adorned in an ornate dark burgundy gown with braided golden hair, gazes out the dark window before turning slowly with a cold, venomous smirk."
+      },
+      {
+        "ref": "EP48:E1",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 4500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot tracking slightly as Catherine stands beside a tall mullioned stone window, silhouetted against the moonlight over the distant castle spires."
+      },
+      {
+        "ref": "EP48:E3",
+        "segment_index": 0,
+        "relative_start_ms": 2400,
+        "relative_end_ms": 7500,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Two words, and that healer's crown rolls right back into the gutter where it belongs.\""
+      },
+      {
+        "ref": "EP48:E4",
+        "segment_index": 0,
+        "relative_start_ms": 4500,
+        "relative_end_ms": 8500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Catherine's profile and jewelry as she speaks with calculating contempt."
+      },
+      {
+        "ref": "EP48:E5",
+        "segment_index": 0,
+        "relative_start_ms": 7800,
+        "relative_end_ms": 12300,
+        "type": "action",
+        "speaker": null,
+        "text": "Catherine glides across the chamber past a roaring stone hearth, picking up an orange from a silver platter on the table."
+      },
+      {
+        "ref": "EP48:E6",
+        "segment_index": 0,
+        "relative_start_ms": 8000,
+        "relative_end_ms": 12300,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Ten days. He gave himself ten days to fix it.\""
+      },
+      {
+        "ref": "EP48:E7",
+        "segment_index": 0,
+        "relative_start_ms": 12300,
+        "relative_end_ms": 20000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up frontal shot of Catherine turning directly toward the viewer, her expression tightening into ruthless determination."
+      },
+      {
+        "ref": "EP48:E8",
+        "segment_index": 0,
+        "relative_start_ms": 12600,
+        "relative_end_ms": 14900,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Ten days for the council to sit.\""
+      },
+      {
+        "ref": "EP48:E9",
+        "segment_index": 0,
+        "relative_start_ms": 15000,
+        "relative_end_ms": 18500,
+        "type": "action",
+        "speaker": null,
+        "text": "Catherine raises a gloved index finger, emphasizing each point with sinister precision."
+      },
+      {
+        "ref": "EP48:E10",
+        "segment_index": 0,
+        "relative_start_ms": 15100,
+        "relative_end_ms": 17200,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Ten days for witnesses to be gathered.\""
+      },
+      {
+        "ref": "EP48:E11",
+        "segment_index": 0,
+        "relative_start_ms": 17400,
+        "relative_end_ms": 19700,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Ten days for a decree to be undone.\""
+      },
+      {
+        "ref": "EP48:E12",
+        "segment_index": 0,
+        "relative_start_ms": 20000,
+        "relative_end_ms": 26500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Slight push-in on Catherine as she clenches her fist against her chest, her eyes blazing with malice."
+      },
+      {
+        "ref": "EP48:E13",
+        "segment_index": 0,
+        "relative_start_ms": 20100,
+        "relative_end_ms": 23700,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Ten days is not a wall, Alexander. It's a door.\""
+      },
+      {
+        "ref": "EP48:E14",
+        "segment_index": 0,
+        "relative_start_ms": 23900,
+        "relative_end_ms": 26500,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"And doors can be closed from the other side.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_14f0ab5a715e28e0",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 32000,
+        "end_ms": 70500,
+        "episode_id": "ep_048"
+      }
+    ],
+    "duration_ms": 38500,
+    "origin": "ep048_opp_02",
+    "clip_events": [
+      {
+        "ref": "EP48:E19",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Agnes's hands turning the ornate iron key in the wooden door's brass lock."
+      },
+      {
+        "ref": "EP48:E20",
+        "segment_index": 0,
+        "relative_start_ms": 300,
+        "relative_end_ms": 1800,
+        "type": "sound",
+        "speaker": null,
+        "text": "Heavy metallic click of an iron key latching into a deadbolt."
+      },
+      {
+        "ref": "EP48:E21",
+        "segment_index": 0,
+        "relative_start_ms": 2000,
+        "relative_end_ms": 4500,
+        "type": "action",
+        "speaker": null,
+        "text": "Catherine strides forward and firmly grasps Agnes by both hands, stepping uncomfortably close."
+      },
+      {
+        "ref": "EP48:E22",
+        "segment_index": 0,
+        "relative_start_ms": 2000,
+        "relative_end_ms": 11000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Two-shot profile of Catherine towering over Agnes in the candlelight."
+      },
+      {
+        "ref": "EP48:E23",
+        "segment_index": 0,
+        "relative_start_ms": 2200,
+        "relative_end_ms": 5100,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Everyone in that chapel saw me humiliated today.\""
+      },
+      {
+        "ref": "EP48:E24",
+        "segment_index": 0,
+        "relative_start_ms": 5300,
+        "relative_end_ms": 7000,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Good. Let them remember it.\""
+      },
+      {
+        "ref": "EP48:E25",
+        "segment_index": 0,
+        "relative_start_ms": 7200,
+        "relative_end_ms": 11000,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Grief makes people careless, and carelessness is exactly what I need from that household right now.\""
+      },
+      {
+        "ref": "EP48:E26",
+        "segment_index": 0,
+        "relative_start_ms": 11000,
+        "relative_end_ms": 14800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Over-the-shoulder close-up on Agnes, her brow furrowed in anxious alarm."
+      },
+      {
+        "ref": "EP48:E27",
+        "segment_index": 0,
+        "relative_start_ms": 11300,
+        "relative_end_ms": 14800,
+        "type": "dialogue",
+        "speaker": "AGNES",
+        "text": "\"My lady... the Duke has bailiffs watching every road out of the county.\""
+      },
+      {
+        "ref": "EP48:E28",
+        "segment_index": 0,
+        "relative_start_ms": 14800,
+        "relative_end_ms": 19500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Catherine, a smug, venomous smile spreading across her painted lips."
+      },
+      {
+        "ref": "EP48:E29",
+        "segment_index": 0,
+        "relative_start_ms": 15000,
+        "relative_end_ms": 19300,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"I'm not leaving the county, Agnes. I'm going back into that house.\""
+      },
+      {
+        "ref": "EP48:E30",
+        "segment_index": 0,
+        "relative_start_ms": 19500,
+        "relative_end_ms": 26200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium tracking shot following Catherine as she releases Agnes and stalks across the room toward the window sill."
+      },
+      {
+        "ref": "EP48:E31",
+        "segment_index": 0,
+        "relative_start_ms": 20000,
+        "relative_end_ms": 23000,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Father Thomas did his part beautifully today.\""
+      },
+      {
+        "ref": "EP48:E32",
+        "segment_index": 0,
+        "relative_start_ms": 23200,
+        "relative_end_ms": 26200,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Now I need him to do a little more before that hearing convenes.\""
+      },
+      {
+        "ref": "EP48:E33",
+        "segment_index": 0,
+        "relative_start_ms": 26200,
+        "relative_end_ms": 29000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Agnes glancing nervously over her shoulder."
+      },
+      {
+        "ref": "EP48:E34",
+        "segment_index": 0,
+        "relative_start_ms": 26500,
+        "relative_end_ms": 28600,
+        "type": "dialogue",
+        "speaker": "AGNES",
+        "text": "\"If someone sees him come to you...\""
+      },
+      {
+        "ref": "EP48:E35",
+        "segment_index": 0,
+        "relative_start_ms": 29000,
+        "relative_end_ms": 34900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Catherine spinning around from the window, her jaw set in terrifying firmness."
+      },
+      {
+        "ref": "EP48:E36",
+        "segment_index": 0,
+        "relative_start_ms": 29800,
+        "relative_end_ms": 32000,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Then no one sees him.\""
+      },
+      {
+        "ref": "EP48:E37",
+        "segment_index": 0,
+        "relative_start_ms": 32300,
+        "relative_end_ms": 34900,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"That is precisely your job tonight.\""
+      },
+      {
+        "ref": "EP48:E38",
+        "segment_index": 0,
+        "relative_start_ms": 34900,
+        "relative_end_ms": 38500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as Catherine picks up a heavy velvet coin purse and places it firmly into Agnes's awaiting open palms."
+      },
+      {
+        "ref": "EP48:E39",
+        "segment_index": 0,
+        "relative_start_ms": 35500,
+        "relative_end_ms": 37000,
+        "type": "sound",
+        "speaker": null,
+        "text": "Dull clinking of heavy gold coins inside a leather pouch."
+      },
+      {
+        "ref": "EP48:E40",
+        "segment_index": 0,
+        "relative_start_ms": 35800,
+        "relative_end_ms": 38500,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Send for the priest. Tonight.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_98ea1855b9d10c87",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 51300,
+        "end_ms": 73400,
+        "episode_id": "ep_048"
+      }
+    ],
+    "duration_ms": 22100,
+    "origin": "ep048_opp_03",
+    "clip_events": [
+      {
+        "ref": "EP48:E28",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Catherine, a smug, venomous smile spreading across her painted lips."
+      },
+      {
+        "ref": "EP48:E30",
+        "segment_index": 0,
+        "relative_start_ms": 200,
+        "relative_end_ms": 6900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium tracking shot following Catherine as she releases Agnes and stalks across the room toward the window sill."
+      },
+      {
+        "ref": "EP48:E31",
+        "segment_index": 0,
+        "relative_start_ms": 700,
+        "relative_end_ms": 3700,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Father Thomas did his part beautifully today.\""
+      },
+      {
+        "ref": "EP48:E32",
+        "segment_index": 0,
+        "relative_start_ms": 3900,
+        "relative_end_ms": 6900,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Now I need him to do a little more before that hearing convenes.\""
+      },
+      {
+        "ref": "EP48:E33",
+        "segment_index": 0,
+        "relative_start_ms": 6900,
+        "relative_end_ms": 9700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Agnes glancing nervously over her shoulder."
+      },
+      {
+        "ref": "EP48:E34",
+        "segment_index": 0,
+        "relative_start_ms": 7200,
+        "relative_end_ms": 9300,
+        "type": "dialogue",
+        "speaker": "AGNES",
+        "text": "\"If someone sees him come to you...\""
+      },
+      {
+        "ref": "EP48:E35",
+        "segment_index": 0,
+        "relative_start_ms": 9700,
+        "relative_end_ms": 15600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Catherine spinning around from the window, her jaw set in terrifying firmness."
+      },
+      {
+        "ref": "EP48:E36",
+        "segment_index": 0,
+        "relative_start_ms": 10500,
+        "relative_end_ms": 12700,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Then no one sees him.\""
+      },
+      {
+        "ref": "EP48:E37",
+        "segment_index": 0,
+        "relative_start_ms": 13000,
+        "relative_end_ms": 15600,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"That is precisely your job tonight.\""
+      },
+      {
+        "ref": "EP48:E38",
+        "segment_index": 0,
+        "relative_start_ms": 15600,
+        "relative_end_ms": 22100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as Catherine picks up a heavy velvet coin purse and places it firmly into Agnes's awaiting open palms."
+      },
+      {
+        "ref": "EP48:E39",
+        "segment_index": 0,
+        "relative_start_ms": 16200,
+        "relative_end_ms": 17700,
+        "type": "sound",
+        "speaker": null,
+        "text": "Dull clinking of heavy gold coins inside a leather pouch."
+      },
+      {
+        "ref": "EP48:E40",
+        "segment_index": 0,
+        "relative_start_ms": 16500,
+        "relative_end_ms": 19200,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Send for the priest. Tonight.\""
+      },
+      {
+        "ref": "EP48:E41",
+        "segment_index": 0,
+        "relative_start_ms": 19500,
+        "relative_end_ms": 22100,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"And make sure no one sees him arrive.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_377be08c2c58ecbd",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 0,
+        "end_ms": 20000,
+        "episode_id": "ep_048"
+      }
+    ],
+    "duration_ms": 20000,
+    "origin": "recovery_B2",
+    "clip_events": [
+      {
+        "ref": "EP48:E2",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 3000,
+        "type": "action",
+        "speaker": null,
+        "text": "Catherine, adorned in an ornate dark burgundy gown with braided golden hair, gazes out the dark window before turning slowly with a cold, venomous smirk."
+      },
+      {
+        "ref": "EP48:E1",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 4500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot tracking slightly as Catherine stands beside a tall mullioned stone window, silhouetted against the moonlight over the distant castle spires."
+      },
+      {
+        "ref": "EP48:E3",
+        "segment_index": 0,
+        "relative_start_ms": 2400,
+        "relative_end_ms": 7500,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Two words, and that healer's crown rolls right back into the gutter where it belongs.\""
+      },
+      {
+        "ref": "EP48:E4",
+        "segment_index": 0,
+        "relative_start_ms": 4500,
+        "relative_end_ms": 8500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Catherine's profile and jewelry as she speaks with calculating contempt."
+      },
+      {
+        "ref": "EP48:E5",
+        "segment_index": 0,
+        "relative_start_ms": 7800,
+        "relative_end_ms": 12300,
+        "type": "action",
+        "speaker": null,
+        "text": "Catherine glides across the chamber past a roaring stone hearth, picking up an orange from a silver platter on the table."
+      },
+      {
+        "ref": "EP48:E6",
+        "segment_index": 0,
+        "relative_start_ms": 8000,
+        "relative_end_ms": 12300,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Ten days. He gave himself ten days to fix it.\""
+      },
+      {
+        "ref": "EP48:E7",
+        "segment_index": 0,
+        "relative_start_ms": 12300,
+        "relative_end_ms": 20000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up frontal shot of Catherine turning directly toward the viewer, her expression tightening into ruthless determination."
+      },
+      {
+        "ref": "EP48:E8",
+        "segment_index": 0,
+        "relative_start_ms": 12600,
+        "relative_end_ms": 14900,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Ten days for the council to sit.\""
+      },
+      {
+        "ref": "EP48:E9",
+        "segment_index": 0,
+        "relative_start_ms": 15000,
+        "relative_end_ms": 18500,
+        "type": "action",
+        "speaker": null,
+        "text": "Catherine raises a gloved index finger, emphasizing each point with sinister precision."
+      },
+      {
+        "ref": "EP48:E10",
+        "segment_index": 0,
+        "relative_start_ms": 15100,
+        "relative_end_ms": 17200,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Ten days for witnesses to be gathered.\""
+      },
+      {
+        "ref": "EP48:E11",
+        "segment_index": 0,
+        "relative_start_ms": 17400,
+        "relative_end_ms": 19700,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Ten days for a decree to be undone.\""
+      }
+    ]
+  }
+]

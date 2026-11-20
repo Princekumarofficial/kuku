@@ -1,0 +1,206 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_1da504e8a9bd17cb DURATION_MS=25200\nSEGMENT 1 (playback order)\nEP05:E31 0-1000 CAMERA: Close-up on the ledger as Lady Ashcroft violently wrenches it out of Juliana's grip.\nEP05:E32 0-700 ACTION: Lady Ashcroft snatches the heavy book away and flings it disdainfully into the rain-soaked courtyard.\nEP05:E34 200-1400 SOUND: A heavy wet slap as the leather-bound book crashes into the puddle-slicked stone pavement.\nEP05:E35 1000-6200 CAMERA: Medium shot of Clarissa and Gerald standing together on the cathedral steps. Clarissa clasps a gloved hand to her mouth in mock shock before bursting into gleeful laughter.\nEP05:E36 2200-5700 CLARISSA: \"Even your mother's precious legacy has been cast into the dirt!\"\nEP05:E37 5600-7800 GERALD: \"Perhaps that is where it belongs.\"\nEP05:E38 6200-9700 CAMERA: Close-up of Juliana looking down at the ground, tears streaming down her pale cheeks.\nEP05:E39 8700-11700 ACTION: Juliana drops to her knees onto the wet courtyard pavement, oblivious to the dirt soaking through her white bridal gown.\nEP05:E40 9700-12200 CAMERA: Low-angle close-up of Juliana's trembling hand reaching toward the leather ledger resting in the puddle.\nEP05:E41 12200-15700 CAMERA: Wide shot of Juliana kneeling on the damp ground as the tall Mysterious Bearded Man strides purposefully into frame toward her.\nEP05:E42 13700-17700 ACTION: The Mysterious Bearded Man bends his knees and kneels down beside Juliana, extending his scarred hand to retrieve the fallen ledger.\nEP05:E43 17700-19200 CAMERA: Close-up of his large, weathered hands gently lifting the wet, embossed leather book from the ground.\nEP05:E44 19200-23200 CAMERA: Medium two-shot as he holds out the retrieved ledger and places it into Juliana's trembling hands.\nEP05:E45 21000-22200 MYSTERIOUS BEARDED MAN: \"Here you go.\"\nEP05:E46 23200-25200 CAMERA: Close-up of the Mysterious Bearded Man looking warmly down at Juliana, his rugged face full of quiet sincerity.\nEP05:E47 23700-25200 JULIANA: \"They destroyed it.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "complete",
+  "output": {
+    "candidate_id": "c_1da504e8a9bd17cb",
+    "hook": {
+      "score_0_10": 7.0,
+      "evidence_refs": [
+        "EP05:E31",
+        "EP05:E32",
+        "EP05:E34",
+        "EP05:E35"
+      ],
+      "reason": "The opening within 0-3000ms shows a violent seizure of a ledger, a book flung into the courtyard, and a mocking taunt, which creates immediate conflict and humiliation. The stakes are not explained, so the hook depends on tone rather than established context."
+    },
+    "cliffhanger": {
+      "score_0_10": 3.0,
+      "evidence_refs": [
+        "EP05:E46",
+        "EP05:E47"
+      ],
+      "reason": "The ending returns the ledger to Juliana through a warm exchange, so the immediate object conflict is resolved. Her line 'They destroyed it' adds a lingering question about the damage, but the clip does not show what remains unresolved, so the tension is weak.",
+      "unresolved_at_end": false
+    },
+    "standalone": {
+      "score_0_10": 3.0,
+      "missing_context": [
+        "Who Lady Ashcroft, Clarissa, and Gerald are and their relationship to Juliana",
+        "What the leather ledger is and why it matters to Juliana",
+        "Why Juliana is in a white bridal gown and what the wedding context is",
+        "Who the Mysterious Bearded Man is and why he helps her",
+        "What 'your mother's precious legacy' refers to",
+        "Whether 'They destroyed it' refers to the ledger's contents or its condition, since the book appears intact"
+      ]
+    },
+    "emotion": {
+      "score_0_10": 7.0,
+      "reason": "Juliana's tears, kneeling in the mud, and the cruel mockery from her relatives create strong sympathy and humiliation. The closing moment of quiet sincerity from the bearded man adds warmth, though it is undercut by the grief of her final line."
+    },
+    "weaknesses": [
+      "The ledger's significance is never established, which weakens the emotional payoff of its loss and recovery",
+      "The bearded man's identity and motive are unexplained, so his kindness lacks context",
+      "Juliana's line 'They destroyed it' conflicts with the visible intact book and is unclear",
+      "The clip ends on a resolved beat (book returned), so it does not create a strong cliffhanger",
+      "Dialogue about the mother's legacy is cut off from its background, which limits first-time viewer understanding"
+    ],
+    "one_line_why_it_works": "A visceral opening of humiliation and a grief-stricken kneeling heroine, followed by a gentle stranger's act of returning a treasured object, creates an immediate emotional arc even without full context."
+  }
+}

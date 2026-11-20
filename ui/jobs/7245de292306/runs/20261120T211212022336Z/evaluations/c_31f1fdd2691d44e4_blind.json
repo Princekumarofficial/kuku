@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_31f1fdd2691d44e4",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP05:E46",
+      "EP05:E47",
+      "EP05:E48"
+    ],
+    "reason": "The clip opens within 0-3000ms with a warm close-up and Juliana's distressed line 'They destroyed it.' followed by the man's contrast 'They dirtied it. That is not the same thing.' This creates immediate tension and curiosity, though the stakes are not yet clear to a first-time viewer."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP05:E57",
+      "EP05:E58",
+      "EP05:E60"
+    ],
+    "reason": "Gerald's arrogant grin wavers as the man warns 'Choose your next words carefully,' and the clip ends on the man's single word 'Come' at 24200-25200ms with the confrontation visibly unresolved. The outcome of the standoff and the meaning of 'Come' are not shown, so this reads as an open ending rather than a resolved one.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Identity and relationship of Juliana, the Mysterious Bearded Man, and Gerald are not established",
+      "What 'it' refers to and who 'they' are when Juliana says 'They destroyed it.' is unexplained",
+      "Why the book matters beyond 'It was my mother's' is not explained",
+      "Why Gerald calls Juliana 'a noblewoman reduced to a beggar's wife' is not clarified",
+      "Destination or purpose of 'Come' is unknown"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The grief of Juliana weeping over the soiled book, the man's tender gesture of clasping her hands, and the rising hostility from Gerald create strong emotional pull within the clip's short span."
+  },
+  "weaknesses": [
+    "Characters are referred to as 'Mysterious Bearded Man' with no name, weakening standalone clarity",
+    "Antecedents for 'it' and 'they' are unclear to a first-time viewer",
+    "Gerald's insult relies on unexplained social status and marriage context",
+    "The final 'Come' lacks context for where or why the viewer is being directed"
+  ],
+  "one_line_why_it_works": "A tender, protective gesture set against an escalating threat from Gerald ends on a terse command that leaves the confrontation open."
+}

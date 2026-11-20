@@ -1,0 +1,1375 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "ep_028",
+  "episode_number": 28,
+  "metadata": {
+    "logline": "Rupert and Catherine frame Juliana for poisoning the Duchess despite the bedridden matriarch's protests, uncovering Juliana's true noble identity and her mother's herbarium before ordering her to the castle dungeons.",
+    "continuity_notes": "Picks up directly from Episode 27 as Rupert orders the guard to seize Juliana, ignoring the waking Duchess."
+  },
+  "source": {
+    "file": "027_episode-028-Episode 1678581.txt",
+    "sha256": "c16039c9150b946989645a76291309ef7889e05e14a38451ad10630ef7f90d21",
+    "complete": true
+  },
+  "scenes": [
+    {
+      "start_ms": 0,
+      "end_ms": 138500,
+      "id": "sc_001",
+      "heading": "INT. DUCHESS'S BEDCHAMBER – DAY"
+    }
+  ],
+  "events": [
+    {
+      "start_ms": 0,
+      "end_ms": 2300,
+      "id": "e_001",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot as the guard drags Juliana toward the doorway, wrestling her backward.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        14,
+        16
+      ]
+    },
+    {
+      "start_ms": 0,
+      "end_ms": 2100,
+      "id": "e_002",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana struggles against the guard's grip; the leather-bound herbarium slips from her apron pocket and falls to the stone floor.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        18,
+        20
+      ]
+    },
+    {
+      "start_ms": 1800,
+      "end_ms": 3200,
+      "id": "e_003",
+      "scene_id": "sc_001",
+      "type": "sound",
+      "text": "Heavy thud of the leather journal hitting the polished floor.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        22,
+        24
+      ]
+    },
+    {
+      "start_ms": 2300,
+      "end_ms": 4700,
+      "id": "e_004",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle close-up of the leather-bound herbarium on the floor as Catherine's silk slipper steps down hard upon its embossed cover.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        26,
+        28
+      ]
+    },
+    {
+      "start_ms": 3200,
+      "end_ms": 4600,
+      "id": "e_005",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Catherine plants her embroidered shoe deliberately atop the fallen book.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        30,
+        32
+      ]
+    },
+    {
+      "start_ms": 4700,
+      "end_ms": 10000,
+      "id": "e_006",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium two-shot tracking Catherine as she strides gracefully across the chamber toward Juliana, Rupert standing stoically behind her near the bed.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        34,
+        36
+      ]
+    },
+    {
+      "start_ms": 4900,
+      "end_ms": 6300,
+      "id": "e_007",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Look at her, Rupert.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Mocking, Cruel",
+      "source_lines": [
+        38,
+        40
+      ]
+    },
+    {
+      "start_ms": 6600,
+      "end_ms": 8100,
+      "id": "e_008",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Soot on her face...\"",
+      "speaker": "CATHERINE",
+      "delivery": "Scoffing",
+      "source_lines": [
+        42,
+        44
+      ]
+    },
+    {
+      "start_ms": 8200,
+      "end_ms": 12600,
+      "id": "e_009",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Over-the-shoulder shot from behind Catherine as she faces Juliana, who is pinned in the doorway by the guard.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        46,
+        48
+      ]
+    },
+    {
+      "start_ms": 8400,
+      "end_ms": 10000,
+      "id": "e_010",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"...herbs in her pockets...\"",
+      "speaker": "CATHERINE",
+      "delivery": "Accusing, Smug",
+      "source_lines": [
+        50,
+        52
+      ]
+    },
+    {
+      "start_ms": 10200,
+      "end_ms": 12300,
+      "id": "e_011",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"...a secret medicine in her hand.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Cold",
+      "source_lines": [
+        54,
+        56
+      ]
+    },
+    {
+      "start_ms": 12600,
+      "end_ms": 15200,
+      "id": "e_012",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Tight close-up of Catherine's smiling face, her eyes gleaming with vindictive pleasure.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        58,
+        60
+      ]
+    },
+    {
+      "start_ms": 12700,
+      "end_ms": 15000,
+      "id": "e_013",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"She looks exactly like a poisoner.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Venomous",
+      "source_lines": [
+        62,
+        64
+      ]
+    },
+    {
+      "start_ms": 15200,
+      "end_ms": 18500,
+      "id": "e_014",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana glaring back in fierce indignation, breathing heavily as she resists the guard's arm across her shoulder.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        66,
+        68
+      ]
+    },
+    {
+      "start_ms": 15300,
+      "end_ms": 18400,
+      "id": "e_015",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I did not poison her! Look at her eyes, the fever has broken!\"",
+      "speaker": "JULIANA",
+      "delivery": "Furious, Defiant",
+      "source_lines": [
+        70,
+        72
+      ]
+    },
+    {
+      "start_ms": 18500,
+      "end_ms": 22800,
+      "id": "e_016",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium full shot of Rupert standing beside the four-poster bed, calmly pulling on his black leather gloves.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        74,
+        76
+      ]
+    },
+    {
+      "start_ms": 18900,
+      "end_ms": 20300,
+      "id": "e_017",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"A clever story, girl.\"",
+      "speaker": "BLOND NOBLEMAN",
+      "delivery": "Sardonic, Chilling",
+      "source_lines": [
+        78,
+        80
+      ]
+    },
+    {
+      "start_ms": 20400,
+      "end_ms": 22700,
+      "id": "e_018",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"But the guards know how to extract the truth.\"",
+      "speaker": "BLOND NOBLEMAN",
+      "delivery": "Threatening",
+      "source_lines": [
+        82,
+        84
+      ]
+    },
+    {
+      "start_ms": 22800,
+      "end_ms": 26700,
+      "id": "e_019",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of the Dowager Duchess stirring against her pillows, lifting her trembling head with visible effort.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        86,
+        88
+      ]
+    },
+    {
+      "start_ms": 24800,
+      "end_ms": 26500,
+      "id": "e_020",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Rupert...\"",
+      "speaker": "DOWAGER DUCHESS",
+      "delivery": "Weak, Straining",
+      "source_lines": [
+        90,
+        92
+      ]
+    },
+    {
+      "start_ms": 26700,
+      "end_ms": 28400,
+      "id": "e_021",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Rupert pausing mid-stride as he hears his mother's voice, slowly turning his head toward the bed.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        94,
+        96
+      ]
+    },
+    {
+      "start_ms": 26700,
+      "end_ms": 28200,
+      "id": "e_022",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Stop this!\"",
+      "speaker": "DOWAGER DUCHESS",
+      "delivery": "O.S.) (Commanding",
+      "source_lines": [
+        98,
+        100
+      ]
+    },
+    {
+      "start_ms": 28400,
+      "end_ms": 32800,
+      "id": "e_023",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Wide shot of the bedchamber framed through the bed curtains as the Duchess props herself up on one elbow and points an accusing finger.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        102,
+        104
+      ]
+    },
+    {
+      "start_ms": 28800,
+      "end_ms": 30300,
+      "id": "e_024",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"She is innocent.\"",
+      "speaker": "DOWAGER DUCHESS",
+      "delivery": "Desperate, Firm",
+      "source_lines": [
+        106,
+        108
+      ]
+    },
+    {
+      "start_ms": 30800,
+      "end_ms": 32400,
+      "id": "e_025",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"She saved me!\"",
+      "speaker": "DOWAGER DUCHESS",
+      "delivery": "Adamant",
+      "source_lines": [
+        110,
+        112
+      ]
+    },
+    {
+      "start_ms": 32800,
+      "end_ms": 34900,
+      "id": "e_026",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana, tears of relief welling in her eyes.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        114,
+        116
+      ]
+    },
+    {
+      "start_ms": 33200,
+      "end_ms": 34600,
+      "id": "e_027",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Your Grace...\"",
+      "speaker": "JULIANA",
+      "delivery": "Breathless, Relieved",
+      "source_lines": [
+        118,
+        120
+      ]
+    },
+    {
+      "start_ms": 34900,
+      "end_ms": 37700,
+      "id": "e_028",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the Duchess clutching at her nightgown, her face twisted in mounting fury and horror.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        122,
+        124
+      ]
+    },
+    {
+      "start_ms": 35000,
+      "end_ms": 37400,
+      "id": "e_029",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I know what happened to me!\"",
+      "speaker": "DOWAGER DUCHESS",
+      "delivery": "Trembling, Shouting",
+      "source_lines": [
+        126,
+        128
+      ]
+    },
+    {
+      "start_ms": 37700,
+      "end_ms": 43000,
+      "id": "e_030",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium low-angle shot past the Duchess pointing directly at Rupert, who stands rigid and expressionless.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        130,
+        132
+      ]
+    },
+    {
+      "start_ms": 38200,
+      "end_ms": 40000,
+      "id": "e_031",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I was poisoned!\"",
+      "speaker": "DOWAGER DUCHESS",
+      "delivery": "Fierce, Condemning",
+      "source_lines": [
+        134,
+        136
+      ]
+    },
+    {
+      "start_ms": 40300,
+      "end_ms": 42200,
+      "id": "e_032",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"And you... you knew!\"",
+      "speaker": "DOWAGER DUCHESS",
+      "delivery": "Accusing",
+      "source_lines": [
+        138,
+        140
+      ]
+    },
+    {
+      "start_ms": 43000,
+      "end_ms": 47400,
+      "id": "e_033",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of the Duchess lunging forward from the pillows, gasping for breath as she points toward Catherine.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        142,
+        144
+      ]
+    },
+    {
+      "start_ms": 43600,
+      "end_ms": 45300,
+      "id": "e_034",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Catherine knew!\"",
+      "speaker": "DOWAGER DUCHESS",
+      "delivery": "Choking, Weakening",
+      "source_lines": [
+        146,
+        148
+      ]
+    },
+    {
+      "start_ms": 45600,
+      "end_ms": 47000,
+      "id": "e_035",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"They have been—\"",
+      "speaker": "DOWAGER DUCHESS",
+      "delivery": "Gasping",
+      "source_lines": [
+        150,
+        152
+      ]
+    },
+    {
+      "start_ms": 46800,
+      "end_ms": 48000,
+      "id": "e_036",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "The Duchess collapses back onto the pillows, coughing violently and clutching her chest.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        154,
+        156
+      ]
+    },
+    {
+      "start_ms": 47400,
+      "end_ms": 52200,
+      "id": "e_037",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Wide shot as Juliana lunges across the room toward the bed, but the armed guard seizes her from behind and drags her back.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        158,
+        160
+      ]
+    },
+    {
+      "start_ms": 48200,
+      "end_ms": 49700,
+      "id": "e_038",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Let me help her!\"",
+      "speaker": "JULIANA",
+      "delivery": "Panicked, Screaming",
+      "source_lines": [
+        162,
+        164
+      ]
+    },
+    {
+      "start_ms": 49500,
+      "end_ms": 52100,
+      "id": "e_039",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"She's still weak, you cannot leave her like this!\"",
+      "speaker": "JULIANA",
+      "delivery": "Desperate",
+      "source_lines": [
+        166,
+        168
+      ]
+    },
+    {
+      "start_ms": 52200,
+      "end_ms": 56800,
+      "id": "e_040",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Rupert smoothing down his black leather gloves, a chilling smile forming on his lips.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        170,
+        172
+      ]
+    },
+    {
+      "start_ms": 52800,
+      "end_ms": 53600,
+      "id": "e_041",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You see?\"",
+      "speaker": "BLOND NOBLEMAN",
+      "delivery": "Smooth, Feigning Concern",
+      "source_lines": [
+        174,
+        176
+      ]
+    },
+    {
+      "start_ms": 54000,
+      "end_ms": 56600,
+      "id": "e_042",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"The poison has clearly damaged her mind.\"",
+      "speaker": "BLOND NOBLEMAN",
+      "delivery": "Sinister",
+      "source_lines": [
+        178,
+        180
+      ]
+    },
+    {
+      "start_ms": 56800,
+      "end_ms": 61300,
+      "id": "e_043",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Over-the-shoulder shot of Rupert leaning menacingly over the gasping Duchess in bed.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        182,
+        184
+      ]
+    },
+    {
+      "start_ms": 57000,
+      "end_ms": 58700,
+      "id": "e_044",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I am not delusional!\"",
+      "speaker": "DOWAGER DUCHESS",
+      "delivery": "Hoarse, Straining",
+      "source_lines": [
+        186,
+        188
+      ]
+    },
+    {
+      "start_ms": 58600,
+      "end_ms": 60000,
+      "id": "e_045",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Of course you are not.\"",
+      "speaker": "BLOND NOBLEMAN",
+      "delivery": "Condescending, Whispering",
+      "source_lines": [
+        190,
+        192
+      ]
+    },
+    {
+      "start_ms": 60100,
+      "end_ms": 61200,
+      "id": "e_046",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You are merely confused.\"",
+      "speaker": "BLOND NOBLEMAN",
+      "delivery": "Dismissive",
+      "source_lines": [
+        194,
+        196
+      ]
+    },
+    {
+      "start_ms": 61300,
+      "end_ms": 66800,
+      "id": "e_047",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium profile tracking shot of Catherine walking deliberately toward Juliana, speaking with airy cynicism.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        198,
+        200
+      ]
+    },
+    {
+      "start_ms": 61600,
+      "end_ms": 64800,
+      "id": "e_048",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"How convenient that the only person who can prove the poison exists...\"",
+      "speaker": "CATHERINE",
+      "delivery": "Amused, Mocking",
+      "source_lines": [
+        202,
+        204
+      ]
+    },
+    {
+      "start_ms": 64900,
+      "end_ms": 66800,
+      "id": "e_049",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"...is the maid who claims to have discovered it.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Smug",
+      "source_lines": [
+        206,
+        208
+      ]
+    },
+    {
+      "start_ms": 66800,
+      "end_ms": 70500,
+      "id": "e_050",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle medium shot of Rupert turning sharply toward the guard, his eyes icy and authoritative.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        210,
+        212
+      ]
+    },
+    {
+      "start_ms": 67200,
+      "end_ms": 70200,
+      "id": "e_051",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Take her away before she poisons the rest of this house.\"",
+      "speaker": "BLOND NOBLEMAN",
+      "delivery": "Commanding, Resolute",
+      "source_lines": [
+        214,
+        216
+      ]
+    },
+    {
+      "start_ms": 70500,
+      "end_ms": 72000,
+      "id": "e_052",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Tight close-up of Catherine's gloved hands grabbing the delicate chain around Juliana's neck.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        218,
+        220
+      ]
+    },
+    {
+      "start_ms": 70800,
+      "end_ms": 72000,
+      "id": "e_053",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Catherine ruthlessly yanks the silver locket off Juliana's neck.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        222,
+        224
+      ]
+    },
+    {
+      "start_ms": 71200,
+      "end_ms": 72000,
+      "id": "e_054",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"No!\"",
+      "speaker": "JULIANA",
+      "delivery": "Crying Out",
+      "source_lines": [
+        226,
+        228
+      ]
+    },
+    {
+      "start_ms": 72000,
+      "end_ms": 75300,
+      "id": "e_055",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Catherine holding up the oval silver and amethyst pendant, inspecting it with disdain.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        230,
+        232
+      ]
+    },
+    {
+      "start_ms": 72200,
+      "end_ms": 75100,
+      "id": "e_056",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Where did a gutter rat like you find a silver locket?\"",
+      "speaker": "CATHERINE",
+      "delivery": "Insolent, Sneering",
+      "source_lines": [
+        234,
+        236
+      ]
+    },
+    {
+      "start_ms": 75300,
+      "end_ms": 78900,
+      "id": "e_057",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana crying out in agony, writhing in the guard's iron grip.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        238,
+        240
+      ]
+    },
+    {
+      "start_ms": 75400,
+      "end_ms": 76400,
+      "id": "e_058",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Give it back!\"",
+      "speaker": "JULIANA",
+      "delivery": "Screaming, Weeping",
+      "source_lines": [
+        242,
+        244
+      ]
+    },
+    {
+      "start_ms": 76800,
+      "end_ms": 78600,
+      "id": "e_059",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"It belonged to my mother!\"",
+      "speaker": "JULIANA",
+      "delivery": "Anguished",
+      "source_lines": [
+        246,
+        248
+      ]
+    },
+    {
+      "start_ms": 78900,
+      "end_ms": 82300,
+      "id": "e_060",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle shot tracking the silver locket as Catherine casually flings it across the stone corridor floor.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        250,
+        252
+      ]
+    },
+    {
+      "start_ms": 79000,
+      "end_ms": 81900,
+      "id": "e_061",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"A witch has no need for family heirlooms in the gallows.\"",
+      "speaker": "CATHERINE",
+      "delivery": "O.S.) (Cruel",
+      "source_lines": [
+        254,
+        256
+      ]
+    },
+    {
+      "start_ms": 81000,
+      "end_ms": 82400,
+      "id": "e_062",
+      "scene_id": "sc_001",
+      "type": "sound",
+      "text": "Metallic clatter as the silver pendant bounces against the wooden baseboard.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        258,
+        260
+      ]
+    },
+    {
+      "start_ms": 82300,
+      "end_ms": 86500,
+      "id": "e_063",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Juliana being dragged further into the doorway, staring helplessly toward her discarded locket.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        262,
+        264
+      ]
+    },
+    {
+      "start_ms": 82500,
+      "end_ms": 84400,
+      "id": "e_064",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"My mother's locket!\"",
+      "speaker": "JULIANA",
+      "delivery": "Heartbroken",
+      "source_lines": [
+        266,
+        268
+      ]
+    },
+    {
+      "start_ms": 86500,
+      "end_ms": 91000,
+      "id": "e_065",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Catherine walking toward the fallen leather-bound book and kneeling gracefully to pick it up.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        270,
+        272
+      ]
+    },
+    {
+      "start_ms": 88000,
+      "end_ms": 91000,
+      "id": "e_066",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Catherine lifts the heavy herbarium, dusting off the cover before opening its aged parchment pages.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        274,
+        276
+      ]
+    },
+    {
+      "start_ms": 91000,
+      "end_ms": 93800,
+      "id": "e_067",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Tight close-up of Catherine reading the elegant cursive script inside the front cover.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        278,
+        280
+      ]
+    },
+    {
+      "start_ms": 91200,
+      "end_ms": 92800,
+      "id": "e_068",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Juliana...\"",
+      "speaker": "CATHERINE",
+      "delivery": "Intrigued, Murmuring",
+      "source_lines": [
+        282,
+        284
+      ]
+    },
+    {
+      "start_ms": 93800,
+      "end_ms": 95000,
+      "id": "e_069",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Extreme close-up on the handwritten inscription: 'Juliana Ashcroft'.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        286,
+        288
+      ]
+    },
+    {
+      "start_ms": 95000,
+      "end_ms": 97400,
+      "id": "e_070",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Juliana freezing in the doorway as she sees Catherine opening her mother's book.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        290,
+        292
+      ]
+    },
+    {
+      "start_ms": 95200,
+      "end_ms": 97000,
+      "id": "e_071",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana gasps in horror, realizing her secret identity has been laid bare.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        294,
+        296
+      ]
+    },
+    {
+      "start_ms": 97400,
+      "end_ms": 101200,
+      "id": "e_072",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Catherine raising her gaze slowly from the book, a wicked, triumphant grin spreading across her face.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        298,
+        300
+      ]
+    },
+    {
+      "start_ms": 98200,
+      "end_ms": 100800,
+      "id": "e_073",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Lady Juliana Ashcroft.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Triumphant, Venomous",
+      "source_lines": [
+        302,
+        304
+      ]
+    },
+    {
+      "start_ms": 101200,
+      "end_ms": 107800,
+      "id": "e_074",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium two-shot as Catherine steps deliberately up to Juliana, circling her like a predator savoring its prey.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        306,
+        308
+      ]
+    },
+    {
+      "start_ms": 101500,
+      "end_ms": 103700,
+      "id": "e_075",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I knew I had seen those eyes before.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Mocking, Reveling",
+      "source_lines": [
+        310,
+        312
+      ]
+    },
+    {
+      "start_ms": 104200,
+      "end_ms": 105600,
+      "id": "e_076",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"The disgraced daughter...\"",
+      "speaker": "CATHERINE",
+      "delivery": "Cruel",
+      "source_lines": [
+        314,
+        316
+      ]
+    },
+    {
+      "start_ms": 105600,
+      "end_ms": 107800,
+      "id": "e_077",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"...the girl thrown out of her own family home.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Scornful",
+      "source_lines": [
+        318,
+        320
+      ]
+    },
+    {
+      "start_ms": 107800,
+      "end_ms": 113000,
+      "id": "e_078",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up two-shot of Catherine leaning inches from Juliana's face, whispering her humiliating past.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        322,
+        324
+      ]
+    },
+    {
+      "start_ms": 108100,
+      "end_ms": 111000,
+      "id": "e_079",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"The bride who married a penniless war veteran...\"",
+      "speaker": "CATHERINE",
+      "delivery": "Taunting",
+      "source_lines": [
+        326,
+        328
+      ]
+    },
+    {
+      "start_ms": 111100,
+      "end_ms": 113000,
+      "id": "e_080",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"...because no respectable man would have her.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Vicious",
+      "source_lines": [
+        330,
+        332
+      ]
+    },
+    {
+      "start_ms": 113000,
+      "end_ms": 116400,
+      "id": "e_081",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Tight close-up of Juliana's eyes blazing with explosive fury and defensive loyalty.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        334,
+        336
+      ]
+    },
+    {
+      "start_ms": 113300,
+      "end_ms": 115800,
+      "id": "e_082",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Do not speak about my husband!\"",
+      "speaker": "JULIANA",
+      "delivery": "Screaming, Wildly Defiant",
+      "source_lines": [
+        338,
+        340
+      ]
+    },
+    {
+      "start_ms": 116400,
+      "end_ms": 122000,
+      "id": "e_083",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium two-shot as Catherine throws her head back in derisive laughter, brandishing the herbarium book.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        342,
+        344
+      ]
+    },
+    {
+      "start_ms": 116400,
+      "end_ms": 119100,
+      "id": "e_084",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"And look at you now. Scrubbing fireplaces in my house.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Laughing, Scornful",
+      "source_lines": [
+        346,
+        348
+      ]
+    },
+    {
+      "start_ms": 119200,
+      "end_ms": 121800,
+      "id": "e_085",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"What a magnificent fall, Lady Juliana.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Mocking",
+      "source_lines": [
+        350,
+        352
+      ]
+    },
+    {
+      "start_ms": 122000,
+      "end_ms": 124900,
+      "id": "e_086",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Rupert gesturing toward the exit with an outstretched arm.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        354,
+        356
+      ]
+    },
+    {
+      "start_ms": 122000,
+      "end_ms": 124700,
+      "id": "e_087",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Drag her to the wet cells beneath the south tower.\"",
+      "speaker": "BLOND NOBLEMAN",
+      "delivery": "Harsh, Authoritative",
+      "source_lines": [
+        358,
+        360
+      ]
+    },
+    {
+      "start_ms": 124900,
+      "end_ms": 128800,
+      "id": "e_088",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Catherine fanning open the illustrated botanical pages of the herbarium with gloved fingers.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        362,
+        364
+      ]
+    },
+    {
+      "start_ms": 125000,
+      "end_ms": 125700,
+      "id": "e_089",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"And this?\"",
+      "speaker": "CATHERINE",
+      "delivery": "Smug",
+      "source_lines": [
+        366,
+        368
+      ]
+    },
+    {
+      "start_ms": 125900,
+      "end_ms": 128700,
+      "id": "e_090",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"This book of weeds will hang her before the magistrate.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Gleeful",
+      "source_lines": [
+        370,
+        372
+      ]
+    },
+    {
+      "start_ms": 128800,
+      "end_ms": 131200,
+      "id": "e_091",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Juliana thrashing frantically against the guard's grip, her arm reaching out toward the book.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        374,
+        376
+      ]
+    },
+    {
+      "start_ms": 129100,
+      "end_ms": 131000,
+      "id": "e_092",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"That book is my mother's life's work!\"",
+      "speaker": "JULIANA",
+      "delivery": "Screaming, Desperate",
+      "source_lines": [
+        378,
+        380
+      ]
+    },
+    {
+      "start_ms": 131200,
+      "end_ms": 136800,
+      "id": "e_093",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Catherine smiling coldly, clutching the closed book against her bodice.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        382,
+        384
+      ]
+    },
+    {
+      "start_ms": 131400,
+      "end_ms": 134200,
+      "id": "e_094",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Then perhaps you can explain every page to the magistrate...\"",
+      "speaker": "CATHERINE",
+      "delivery": "Icy, Threatening",
+      "source_lines": [
+        386,
+        388
+      ]
+    },
+    {
+      "start_ms": 134600,
+      "end_ms": 136700,
+      "id": "e_095",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"...before he sends you to the gallows.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Fateful, Vengeful",
+      "source_lines": [
+        390,
+        392
+      ]
+    },
+    {
+      "start_ms": 136800,
+      "end_ms": 138500,
+      "id": "e_096",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Extreme close-up of Juliana's wide, trembling eyes as the guard wrenches her backward into the dark hallway, cutting sharply to black.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        394,
+        396
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "start_ms": 0,
+      "end_ms": 138500
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_2ba8faaeeb22c3b7 DURATION_MS=50800\nSEGMENT 1 (playback order)\nEP01:E21 0-900 CAMERA: Low-angle shot from behind Juliana looking up at Gerald and the Lady in Gold Gown standing proudly before the altar.\nEP01:E22 900-2500 CAMERA: Close-up on Juliana's trembling lips and shocked, tearful blue eyes.\nEP01:E23 1000-2200 LADY JULIANA: \"Gerald?\"\nEP01:E24 2600-4900 LADY JULIANA: \"Why are you holding her hand?\"\nEP01:E25 3700-6200 CAMERA: Close-up insert of Gerald's fingers firmly interlocked with the white-gloved hand of the Lady in Gold Gown.\nEP01:E26 6200-8700 CAMERA: Close-up on the Lady in Gold Gown beaming with cruel triumph.\nEP01:E27 6300-8400 LADY IN GOLD GOWN: \"Because he is marrying me.\"\nEP01:E28 8700-11100 CAMERA: Close-up on Juliana as tears spill over her eyelashes.\nEP01:E29 8900-10300 LADY JULIANA: \"No...\"\nEP01:E30 11100-14000 CAMERA: Wide profile shot showing Juliana standing below the altar platform, looking up at Gerald and her sister.\nEP01:E32 14000-17200 LADY JULIANA: \"You knew this before I walked through those doors!\"\nEP01:E31 14000-17600 CAMERA: Close-up on Juliana clutching her chest, her sorrow turning into burning outrage.\nEP01:E33 17600-19200 CAMERA: Medium shot of Gerald standing stoic and impassive next to the smug Lady in Gold Gown.\nEP01:E34 19200-21800 CAMERA: Close-up on Juliana's hands desperately clenching fistfuls of her white dress fabric.\nEP01:E35 20000-21800 LADY JULIANA: \"You let me come here...\"\nEP01:E36 21800-24800 CAMERA: Close-up on Juliana's tear-streaked face as she shakes with grief.\nEP01:E37 21900-24100 LADY JULIANA: \"You let me dress in my mother's gown...\"\nEP01:E38 24200-27200 LADY JULIANA: \"You let me believe I was walking toward my husband!\"\nEP01:E39 24800-27300 CAMERA: Medium shot on Gerald stepping forward, cold and indifferent, with the Lady in Gold Gown lingering in soft focus behind him.\nEP01:E41 27300-29000 THE FORMER GROOM: \"I changed my mind.\"\nEP01:E40 27300-30200 CAMERA: Tight close-up on Gerald's hardened profile as he glances down.\nEP01:E42 30200-33200 CAMERA: Extreme close-up on Juliana's furious, weeping face.\nEP01:E43 30600-32800 LADY JULIANA: \"You swore you loved me!\"\nEP01:E44 33200-36000 CAMERA: Close-up on the Lady in Gold Gown smiling condescendingly.\nEP01:E45 33700-36000 LADY IN GOLD GOWN: \"People change their minds, sister.\"\nEP01:E46 36000-39600 CAMERA: Medium profile shot of the Lady in Gold Gown turning her head subtly toward Gerald with satisfied malice.\nEP01:E47 36300-37600 LADY JULIANA: \"And you knew?\"\nEP01:E48 37800-39300 LADY IN GOLD GOWN: \"Of course I knew.\"\nEP01:E49 39600-41800 CAMERA: Close-up on Juliana, stunned by the callous depth of the conspiracy.\nEP01:E50 40300-41500 LADY JULIANA: \"How long?\"\nEP01:E51 41800-46200 CAMERA: Medium two-shot of the Lady in Gold Gown and Gerald looking together down at Juliana.\nEP01:E52 42200-45700 LADY IN GOLD GOWN: \"Long enough to know he was never going to marry you.\"\nEP01:E53 46200-48200 ACTION: Juliana turns abruptly toward the first row of pews, where her elderly father sits gripping an ornate brass cane.\nEP01:E54 46200-48600 CAMERA: Close-up on the father's hand tightly gripping the gold curved handle of his walking cane.\nEP01:E55 47300-48400 LADY JULIANA: \"Father...\"\nEP01:E57 48600-50800 LADY JULIANA: \"Tell them this is a mistake.\"\nEP01:E56 48600-50800 CAMERA: Wide shot showing Juliana dropping to her knees beside her seated father, pleading with him.",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

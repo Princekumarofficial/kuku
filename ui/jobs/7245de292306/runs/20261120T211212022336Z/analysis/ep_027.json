@@ -1,0 +1,286 @@
+{
+  "episode_id": "ep_027",
+  "summary": "Scene sc_001 (0-150500 ms, night, Dowager Duchess's bedchamber) shows the Duchess questioning Juliana about a ring bearing a crest she calls Ashbourne, which she links to a lost son. Juliana describes her husband as a soldier and veteran of the Peninsula who lives in a barn, then as a sergeant. The Blond Nobleman and Lady Catherine enter, find Juliana holding a dropper vial, and Juliana says it is an antidote and then that someone has been poisoning Her Grace. Catherine twists this into an admission, and the Nobleman orders Juliana seized. Uncertainty: the source carries the warning 'sc_001: incomplete source coverage; gaps are unavailable', so unseen events may be missing. The vial's contents, the husband's identity, and whether the ring links to any named son are not established on screen. Speaker labels with O.S. are recorded as stated. Metadata (logline and continuity notes) is not on-screen evidence and is not used for any event claim.",
+  "characters": [
+    {
+      "name": "Dowager Duchess",
+      "role": "Aged, frail patient in the bedchamber; claims the ring bears the Ashbourne crest and says her lost son wore the same ring"
+    },
+    {
+      "name": "Juliana",
+      "role": "Maid in the bedchamber; says her husband gave her the ring; accused of administering a substance to the Duchess"
+    },
+    {
+      "name": "Lady Catherine",
+      "role": "Aristocrat in a cream gown and tiara; accuses Juliana and twists her words into an admission of poisoning"
+    },
+    {
+      "name": "Blond Nobleman",
+      "role": "Aristocrat in a dark coat and black gloves; the Duchess's nephew per his own line about 'my aunt'; orders Juliana arrested"
+    }
+  ],
+  "beats": [
+    {
+      "id": "b1",
+      "kind": "setup",
+      "event_refs": [
+        "EP27:E1",
+        "EP27:E2",
+        "EP27:E3",
+        "EP27:E4"
+      ],
+      "description": "The Duchess examines Juliana's ring, shaken, and demands to know who gave it to her.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "b2",
+      "kind": "interrogation",
+      "event_refs": [
+        "EP27:E5",
+        "EP27:E6",
+        "EP27:E7",
+        "EP27:E8",
+        "EP27:E9",
+        "EP27:E10"
+      ],
+      "description": "Juliana says her husband gave her the ring; the Duchess presses on his status and Juliana describes him as a soldier and veteran of the Peninsula.",
+      "intensity_0_10": 4.0
+    },
+    {
+      "id": "b3",
+      "kind": "revelation_moment",
+      "event_refs": [
+        "EP27:E11",
+        "EP27:E12",
+        "EP27:E13",
+        "EP27:E14",
+        "EP27:E15",
+        "EP27:E16"
+      ],
+      "description": "The Duchess says the band bears the Ashbourne crest and that her lost son wore that exact ring; Juliana disputes that her husband could be connected to such a family.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b4",
+      "kind": "emotional_pleading",
+      "event_refs": [
+        "EP27:E17",
+        "EP27:E18",
+        "EP27:E19",
+        "EP27:E20",
+        "EP27:E21",
+        "EP27:E22",
+        "EP27:E23",
+        "EP27:E24",
+        "EP27:E25"
+      ],
+      "description": "Juliana, shocked, says her husband called himself a sergeant; the Duchess insists on the ring and asks whether the husband served beside her son, then asks his name, and Juliana answers only with a non-name account of survival.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b5",
+      "kind": "interruption",
+      "event_refs": [
+        "EP27:E26",
+        "EP27:E27",
+        "EP27:E28",
+        "EP27:E29"
+      ],
+      "description": "Pounding at the doors; the Blond Nobleman, Lady Catherine and a royal guard burst into the bedchamber.",
+      "intensity_0_10": 9.0
+    },
+    {
+      "id": "b6",
+      "kind": "accusation",
+      "event_refs": [
+        "EP27:E30",
+        "EP27:E31",
+        "EP27:E32",
+        "EP27:E33",
+        "EP27:E34",
+        "EP27:E35",
+        "EP27:E36",
+        "EP27:E37",
+        "EP27:E38",
+        "EP27:E39"
+      ],
+      "description": "Lady Catherine demands to know why the maid is in the chamber and what she hides; Juliana denies it and Catherine orders her to show her hand.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b7",
+      "kind": "discovery",
+      "event_refs": [
+        "EP27:E40",
+        "EP27:E41",
+        "EP27:E42",
+        "EP27:E43",
+        "EP27:E44",
+        "EP27:E45",
+        "EP27:E46",
+        "EP27:E47",
+        "EP27:E48",
+        "EP27:E49",
+        "EP27:E50",
+        "EP27:E51",
+        "EP27:E52",
+        "EP27:E53",
+        "EP27:E54"
+      ],
+      "description": "Juliana reveals a small amber dropper bottle; she calls it medicine, Catherine says she lacked permission, and Juliana says she acted because the Duchess was dying.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b8",
+      "kind": "reversal",
+      "event_refs": [
+        "EP27:E55",
+        "EP27:E56",
+        "EP27:E57",
+        "EP27:E58",
+        "EP27:E59",
+        "EP27:E60",
+        "EP27:E61",
+        "EP27:E62",
+        "EP27:E63",
+        "EP27:E64",
+        "EP27:E65",
+        "EP27:E66",
+        "EP27:E67",
+        "EP27:E68",
+        "EP27:E69",
+        "EP27:E70",
+        "EP27:E71",
+        "EP27:E72",
+        "EP27:E73",
+        "EP27:E74",
+        "EP27:E75",
+        "EP27:E76",
+        "EP27:E77",
+        "EP27:E78",
+        "EP27:E79",
+        "EP27:E80",
+        "EP27:E81",
+        "EP27:E82",
+        "EP27:E83"
+      ],
+      "description": "The Nobleman challenges Juliana's judgment and calls the trap; Juliana says the bottle is an antidote, then says it is poison and that someone has been poisoning the Duchess; Catherine twists this into an admission, and Juliana protests.",
+      "intensity_0_10": 9.0
+    },
+    {
+      "id": "b9",
+      "kind": "arrest",
+      "event_refs": [
+        "EP27:E84",
+        "EP27:E85",
+        "EP27:E86",
+        "EP27:E87",
+        "EP27:E88",
+        "EP27:E89",
+        "EP27:E90",
+        "EP27:E91",
+        "EP27:E92",
+        "EP27:E93"
+      ],
+      "description": "The Nobleman silences the room, takes the vial, declares her an unknown servant administering an unidentified substance, and orders the guard to seize her.",
+      "intensity_0_10": 9.0
+    },
+    {
+      "id": "b10",
+      "kind": "cliffhanger",
+      "event_refs": [
+        "EP27:E94",
+        "EP27:E95"
+      ],
+      "description": "Juliana is dragged toward the doorway, glances back at the Duchess, and realizes she is trapped; the scene cuts to black.",
+      "intensity_0_10": 8.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "r1",
+      "event_refs": [
+        "EP27:E12",
+        "EP27:E16",
+        "EP27:E20"
+      ],
+      "claim": "The Duchess asserts that the ring bears the Ashbourne crest and that her lost son wore that exact ring; this is her claim, not established fact.",
+      "spoiler_significance_0_10": 8.0,
+      "creates_questions": [
+        "Is Juliana's husband connected to the Duchess's lost son?",
+        "Is the Ashbourne crest genuinely on the ring?"
+      ]
+    },
+    {
+      "id": "r2",
+      "event_refs": [
+        "EP27:E10",
+        "EP27:E14",
+        "EP27:E18"
+      ],
+      "claim": "Juliana says her husband is a soldier and Peninsula veteran who lives in a barn; she later says he called himself a sergeant. These accounts are not reconciled on screen.",
+      "spoiler_significance_0_10": 5.0,
+      "creates_questions": [
+        "What is the husband's true rank and background?"
+      ]
+    },
+    {
+      "id": "r3",
+      "event_refs": [
+        "EP27:E73",
+        "EP27:E75",
+        "EP27:E77"
+      ],
+      "claim": "Juliana states the substance is poison and that someone has been poisoning the Duchess; this is her claim on screen.",
+      "spoiler_significance_0_10": 7.0,
+      "creates_questions": [
+        "Who is poisoning the Duchess?",
+        "What is the substance in the vial?"
+      ]
+    },
+    {
+      "id": "r4",
+      "event_refs": [
+        "EP27:E60"
+      ],
+      "claim": "The Blond Nobleman says his aunt has been wasting away for months.",
+      "spoiler_significance_0_10": 3.0,
+      "creates_questions": [
+        "Is the Duchess's decline natural or caused by someone?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "Is Juliana's husband connected to the Dowager Duchess's lost son?",
+      "introduced_by": [
+        "EP27:E12",
+        "EP27:E16",
+        "EP27:E18",
+        "EP27:E25"
+      ]
+    },
+    {
+      "question": "What is the substance in the dropper vial, and is it medicine, antidote, or poison?",
+      "introduced_by": [
+        "EP27:E42",
+        "EP27:E66",
+        "EP27:E73"
+      ]
+    },
+    {
+      "question": "Who has been poisoning the Duchess?",
+      "introduced_by": [
+        "EP27:E77",
+        "EP27:E60"
+      ]
+    },
+    {
+      "question": "Will Juliana be able to reveal the husband's name or prove her innocence?",
+      "introduced_by": [
+        "EP27:E25",
+        "EP27:E95"
+      ]
+    }
+  ]
+}

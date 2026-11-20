@@ -1,0 +1,142 @@
+{
+  "schema_version": "1.0",
+  "series_id": "series_001",
+  "scope": {
+    "type": "episode",
+    "episode_id": "ep_026"
+  },
+  "promos": [
+    {
+      "candidate_id": "c_44b0b42f8a087044",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 55500,
+          "end_ms": 115500,
+          "episode_id": "ep_026"
+        }
+      ],
+      "duration_ms": 60000,
+      "hook": {
+        "description": "Within the opening 3000ms the Duchess is shown processing a warning with dark realization (E23) and trembling with certainty (E25), then states an immediate, high-stakes accusation that Rupert and Catherine want her dead and are poisoning her (E26). This gives an instant question about who is poisoning whom.",
+        "evidence_refs": [
+          "EP26:E23",
+          "EP26:E25",
+          "EP26:E26"
+        ]
+      },
+      "cliffhanger": {
+        "description": "In the final 3000ms the Duchess, with tears in her eyes, demands 'Where did you get this ring? Speak to me!' (E49), and the clip ends on that demand before any answer is given. The question is open and the ring's significance is not resolved within the clip, so this is an unresolved cliffhanger rather than a resolved intense moment.",
+        "evidence_refs": [
+          "EP26:E48",
+          "EP26:E49"
+        ]
+      },
+      "why_it_works": "A tense accusation of poisoning opens the clip, a visible ring triggers a shocking reaction, and the Duchess's urgent demand for an answer ends the clip on an open question.",
+      "scores": {
+        "hook": 8.0,
+        "cliffhanger": 8.5,
+        "standalone": 5.0,
+        "emotion": 8.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 7.4
+      },
+      "warnings": [
+        "Several named characters and objects (Rupert, Catherine, the amber dropper bottle, the signet ring) are introduced without enough context for a first-time viewer to understand their importance.",
+        "The ring's connection to the Duchess's reaction is shown only through reaction, so the viewer cannot tell what it means.",
+        "Juliana's backstory is asserted in dialogue but not explained, which weakens standalone clarity.",
+        "The poisoning premise is stated as belief and not confirmed, so the clip's stakes depend on information outside the clip.",
+        "Spoilers not checked",
+        "Identity and relationship of Rupert and Catherine",
+        "Why the Duchess believes she is being poisoned and whether the charcoal treatment is valid",
+        "Juliana's family history and why she was 'cast out'",
+        "Significance of the engraved signet ring and why it provokes the Duchess",
+        "Role and significance of the small amber dropper bottle on the bedside table",
+        "Meaning of the Duchess's 'seen a ghost' reaction",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 1,
+      "promo_id": "p_001"
+    },
+    {
+      "candidate_id": "c_a5a2ff021a10c623",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 95000,
+          "end_ms": 120880,
+          "episode_id": "ep_026"
+        }
+      ],
+      "duration_ms": 25880,
+      "hook": {
+        "description": "The clip opens within 0-3000ms with a frail woman straining upward and demanding \"Let me see your hand,\" which creates immediate tension. The sudden grip and urgent demand reinforce the hook.",
+        "evidence_refs": [
+          "EP26:E39",
+          "EP26:E40",
+          "EP26:E46",
+          "EP26:E49"
+        ]
+      },
+      "cliffhanger": {
+        "description": "The clip ends with the unanswered question \"Where did you get this ring?\" and Juliana frozen in shock while the Duchess holds the ring. The final cue is a cut to black on a chord, so the question remains open at the clip's end.",
+        "evidence_refs": [
+          "EP26:E49",
+          "EP26:E50",
+          "EP26:E51"
+        ]
+      },
+      "why_it_works": "A frail woman's sudden, desperate grip and urgent question about a ring leave the viewer wanting to know its meaning and why it terrifies her.",
+      "scores": {
+        "hook": 7.5,
+        "cliffhanger": 8.0,
+        "standalone": 5.0,
+        "emotion": 8.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 7.1
+      },
+      "warnings": [
+        "The significance of the ring is never explained, so the central question lacks grounding for a first-time viewer.",
+        "The Duchess's motive for her fear is unclear within the clip.",
+        "The ending relies on a music cue and cut to black to signal drama, which adds emphasis beyond the dialogue itself.",
+        "The setting and relationship between the characters are not established.",
+        "Spoilers not checked",
+        "Who the Dowager Duchess is and her relationship to Juliana",
+        "Why the signet ring matters and what it signifies",
+        "Why the Duchess reacts with such fear and urgency",
+        "The circumstances that led Juliana to be in this room",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 2,
+      "promo_id": "p_002"
+    }
+  ],
+  "construction": {
+    "opportunities": 3,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "DURATION_OUT_OF_RANGE": 109,
+      "PARTIAL_DIALOGUE": 18
+    }
+  },
+  "rejected_candidates": [
+    {
+      "candidate_id": "c_40712e74bb5c3fa0",
+      "reasons": [
+        "ENDING_RESOLVED",
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_f2029e49a4d4299a",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    }
+  ]
+}

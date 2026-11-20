@@ -1,0 +1,953 @@
+[
+  {
+    "candidate_id": "c_16a3dbecca95d760",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 16000,
+        "end_ms": 75800,
+        "episode_id": "ep_038"
+      }
+    ],
+    "duration_ms": 59800,
+    "origin": "opp_1",
+    "clip_events": [
+      {
+        "ref": "EP38:E10",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle close-up of Juliana crawling forward across the stone floor toward the bread, her gaze fixed on the offering in disbelief."
+      },
+      {
+        "ref": "EP38:E11",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Why?\""
+      },
+      {
+        "ref": "EP38:E13",
+        "segment_index": 0,
+        "relative_start_ms": 1500,
+        "relative_end_ms": 4300,
+        "type": "dialogue",
+        "speaker": "GUARD",
+        "text": "\"Because no one should die hungry.\""
+      },
+      {
+        "ref": "EP38:E12",
+        "segment_index": 0,
+        "relative_start_ms": 1500,
+        "relative_end_ms": 5500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the Guard looking through the vertical bars with quiet compassion."
+      },
+      {
+        "ref": "EP38:E14",
+        "segment_index": 0,
+        "relative_start_ms": 4500,
+        "relative_end_ms": 6000,
+        "type": "dialogue",
+        "speaker": "GUARD",
+        "text": "\"Eat it before they see.\""
+      },
+      {
+        "ref": "EP38:E15",
+        "segment_index": 0,
+        "relative_start_ms": 5500,
+        "relative_end_ms": 7200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Over-the-shoulder shot through the cell bars as the Guard turns and walks swiftly away into the dark corridor."
+      },
+      {
+        "ref": "EP38:E16",
+        "segment_index": 0,
+        "relative_start_ms": 5800,
+        "relative_end_ms": 7200,
+        "type": "action",
+        "speaker": null,
+        "text": "The Guard's silhouette retreats into the shadows."
+      },
+      {
+        "ref": "EP38:E17",
+        "segment_index": 0,
+        "relative_start_ms": 7200,
+        "relative_end_ms": 14500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight shot following Juliana's trembling, shackle-bound hands as she reaches out and drags the loaf toward her chest."
+      },
+      {
+        "ref": "EP38:E18",
+        "segment_index": 0,
+        "relative_start_ms": 7500,
+        "relative_end_ms": 11500,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana clutches the bread tightly with both hands, tears welling in her eyes."
+      },
+      {
+        "ref": "EP38:E19",
+        "segment_index": 0,
+        "relative_start_ms": 10000,
+        "relative_end_ms": 11500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Thank you.\""
+      },
+      {
+        "ref": "EP38:E20",
+        "segment_index": 0,
+        "relative_start_ms": 11800,
+        "relative_end_ms": 15000,
+        "type": "action",
+        "speaker": null,
+        "text": "Starving and overcome with emotion, Juliana presses the bread to her lips and tears off a desperate, ravenous bite."
+      },
+      {
+        "ref": "EP38:E21",
+        "segment_index": 0,
+        "relative_start_ms": 14500,
+        "relative_end_ms": 19000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up profile of Juliana chewing the bread, tears rolling down her soot-streaked cheek."
+      },
+      {
+        "ref": "EP38:E22",
+        "segment_index": 0,
+        "relative_start_ms": 15000,
+        "relative_end_ms": 18500,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana chews hungrily, closing her eyes as the agonizing reality of her plight hits her anew."
+      },
+      {
+        "ref": "EP38:E23",
+        "segment_index": 0,
+        "relative_start_ms": 18500,
+        "relative_end_ms": 20500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Alexander...\""
+      },
+      {
+        "ref": "EP38:E24",
+        "segment_index": 0,
+        "relative_start_ms": 19000,
+        "relative_end_ms": 23500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle wide shot of Juliana seated against the damp stone wall beneath high overhead iron ceiling grates, clutching the half-eaten bread in her lap."
+      },
+      {
+        "ref": "EP38:E25",
+        "segment_index": 0,
+        "relative_start_ms": 20800,
+        "relative_end_ms": 23000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"...are you safe?\""
+      },
+      {
+        "ref": "EP38:E26",
+        "segment_index": 0,
+        "relative_start_ms": 23500,
+        "relative_end_ms": 29500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Intimate close-up of Juliana looking upward, her tear-stained face filled with raw anguish."
+      },
+      {
+        "ref": "EP38:E27",
+        "segment_index": 0,
+        "relative_start_ms": 24000,
+        "relative_end_ms": 27000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Do you even know what happened to me?\""
+      },
+      {
+        "ref": "EP38:E28",
+        "segment_index": 0,
+        "relative_start_ms": 27200,
+        "relative_end_ms": 29200,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Do you know they condemned me?\""
+      },
+      {
+        "ref": "EP38:E30",
+        "segment_index": 0,
+        "relative_start_ms": 29500,
+        "relative_end_ms": 31500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"What if I die here?\""
+      },
+      {
+        "ref": "EP38:E29",
+        "segment_index": 0,
+        "relative_start_ms": 29500,
+        "relative_end_ms": 35000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight macro shot on Juliana's chin and throat as she presses a trembling hand against her chest."
+      },
+      {
+        "ref": "EP38:E31",
+        "segment_index": 0,
+        "relative_start_ms": 31800,
+        "relative_end_ms": 34500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"What if I never see you again?\""
+      },
+      {
+        "ref": "EP38:E32",
+        "segment_index": 0,
+        "relative_start_ms": 32500,
+        "relative_end_ms": 35000,
+        "type": "action",
+        "speaker": null,
+        "text": "A heavy tear drips down from her jaw, falling into the dark dampness below."
+      },
+      {
+        "ref": "EP38:E33",
+        "segment_index": 0,
+        "relative_start_ms": 35000,
+        "relative_end_ms": 39500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up profile of Juliana closing her eyes, drawing a deep breath to steady herself."
+      },
+      {
+        "ref": "EP38:E34",
+        "segment_index": 0,
+        "relative_start_ms": 35500,
+        "relative_end_ms": 37500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Keep him safe.\""
+      },
+      {
+        "ref": "EP38:E35",
+        "segment_index": 0,
+        "relative_start_ms": 37800,
+        "relative_end_ms": 39300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Wherever he is.\""
+      },
+      {
+        "ref": "EP38:E37",
+        "segment_index": 0,
+        "relative_start_ms": 39500,
+        "relative_end_ms": 41000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Let him live.\""
+      },
+      {
+        "ref": "EP38:E36",
+        "segment_index": 0,
+        "relative_start_ms": 39500,
+        "relative_end_ms": 44500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Frontal medium shot of Juliana kneeling upright, her right hand pressed firmly over her heart, her posture transforming into quiet dignity."
+      },
+      {
+        "ref": "EP38:E38",
+        "segment_index": 0,
+        "relative_start_ms": 41500,
+        "relative_end_ms": 44500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"And if I have only one thing left to give...\""
+      },
+      {
+        "ref": "EP38:E39",
+        "segment_index": 0,
+        "relative_start_ms": 44500,
+        "relative_end_ms": 48000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of Juliana turning toward the cell wall, her blue eyes flashing with fierce loyalty."
+      },
+      {
+        "ref": "EP38:E40",
+        "segment_index": 0,
+        "relative_start_ms": 44800,
+        "relative_end_ms": 46500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I will not give them my husband.\""
+      },
+      {
+        "ref": "EP38:E41",
+        "segment_index": 0,
+        "relative_start_ms": 46800,
+        "relative_end_ms": 48200,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I will not betray him.\""
+      },
+      {
+        "ref": "EP38:E42",
+        "segment_index": 0,
+        "relative_start_ms": 48000,
+        "relative_end_ms": 51000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of Juliana's closed eyelids as she takes a sharp, startled breath."
+      },
+      {
+        "ref": "EP38:E43",
+        "segment_index": 0,
+        "relative_start_ms": 48500,
+        "relative_end_ms": 50500,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana's eyes snap wide open in sudden realization as a deep resonant toll reverberates from above."
+      },
+      {
+        "ref": "EP38:E44",
+        "segment_index": 0,
+        "relative_start_ms": 48800,
+        "relative_end_ms": 59800,
+        "type": "sound",
+        "speaker": null,
+        "text": "Solemn, resonant church bells begin tolling rhythmically from the cathedral above, echoing deep into the stone dungeon."
+      },
+      {
+        "ref": "EP38:E45",
+        "segment_index": 0,
+        "relative_start_ms": 51000,
+        "relative_end_ms": 54500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle shot looking up past Juliana kneeling on the wet floor toward the barred iron skylight above her cell."
+      },
+      {
+        "ref": "EP38:E46",
+        "segment_index": 0,
+        "relative_start_ms": 53000,
+        "relative_end_ms": 54300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Bells.\""
+      },
+      {
+        "ref": "EP38:E47",
+        "segment_index": 0,
+        "relative_start_ms": 54500,
+        "relative_end_ms": 56500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide tracking shot as Juliana scrambles to her feet, chains clinking loudly against her skirts."
+      },
+      {
+        "ref": "EP38:E48",
+        "segment_index": 0,
+        "relative_start_ms": 55000,
+        "relative_end_ms": 57500,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana rushes toward the front of the cell, clutching the iron bars with both hands."
+      },
+      {
+        "ref": "EP38:E49",
+        "segment_index": 0,
+        "relative_start_ms": 56500,
+        "relative_end_ms": 59800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium profile shot of Juliana gripping the heavy iron bars, gazing down the corridor toward the source of the sound."
+      },
+      {
+        "ref": "EP38:E50",
+        "segment_index": 0,
+        "relative_start_ms": 56800,
+        "relative_end_ms": 58200,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"The wedding.\""
+      },
+      {
+        "ref": "EP38:E51",
+        "segment_index": 0,
+        "relative_start_ms": 58500,
+        "relative_end_ms": 59800,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"It's beginning.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_1fed7e8084655e1b",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 43000,
+        "end_ms": 78500,
+        "episode_id": "ep_038"
+      }
+    ],
+    "duration_ms": 35500,
+    "origin": "opp_2",
+    "clip_events": [
+      {
+        "ref": "EP38:E26",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Intimate close-up of Juliana looking upward, her tear-stained face filled with raw anguish."
+      },
+      {
+        "ref": "EP38:E28",
+        "segment_index": 0,
+        "relative_start_ms": 200,
+        "relative_end_ms": 2200,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Do you know they condemned me?\""
+      },
+      {
+        "ref": "EP38:E30",
+        "segment_index": 0,
+        "relative_start_ms": 2500,
+        "relative_end_ms": 4500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"What if I die here?\""
+      },
+      {
+        "ref": "EP38:E29",
+        "segment_index": 0,
+        "relative_start_ms": 2500,
+        "relative_end_ms": 8000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight macro shot on Juliana's chin and throat as she presses a trembling hand against her chest."
+      },
+      {
+        "ref": "EP38:E31",
+        "segment_index": 0,
+        "relative_start_ms": 4800,
+        "relative_end_ms": 7500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"What if I never see you again?\""
+      },
+      {
+        "ref": "EP38:E32",
+        "segment_index": 0,
+        "relative_start_ms": 5500,
+        "relative_end_ms": 8000,
+        "type": "action",
+        "speaker": null,
+        "text": "A heavy tear drips down from her jaw, falling into the dark dampness below."
+      },
+      {
+        "ref": "EP38:E33",
+        "segment_index": 0,
+        "relative_start_ms": 8000,
+        "relative_end_ms": 12500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up profile of Juliana closing her eyes, drawing a deep breath to steady herself."
+      },
+      {
+        "ref": "EP38:E34",
+        "segment_index": 0,
+        "relative_start_ms": 8500,
+        "relative_end_ms": 10500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Keep him safe.\""
+      },
+      {
+        "ref": "EP38:E35",
+        "segment_index": 0,
+        "relative_start_ms": 10800,
+        "relative_end_ms": 12300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Wherever he is.\""
+      },
+      {
+        "ref": "EP38:E37",
+        "segment_index": 0,
+        "relative_start_ms": 12500,
+        "relative_end_ms": 14000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Let him live.\""
+      },
+      {
+        "ref": "EP38:E36",
+        "segment_index": 0,
+        "relative_start_ms": 12500,
+        "relative_end_ms": 17500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Frontal medium shot of Juliana kneeling upright, her right hand pressed firmly over her heart, her posture transforming into quiet dignity."
+      },
+      {
+        "ref": "EP38:E38",
+        "segment_index": 0,
+        "relative_start_ms": 14500,
+        "relative_end_ms": 17500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"And if I have only one thing left to give...\""
+      },
+      {
+        "ref": "EP38:E39",
+        "segment_index": 0,
+        "relative_start_ms": 17500,
+        "relative_end_ms": 21000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of Juliana turning toward the cell wall, her blue eyes flashing with fierce loyalty."
+      },
+      {
+        "ref": "EP38:E40",
+        "segment_index": 0,
+        "relative_start_ms": 17800,
+        "relative_end_ms": 19500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I will not give them my husband.\""
+      },
+      {
+        "ref": "EP38:E41",
+        "segment_index": 0,
+        "relative_start_ms": 19800,
+        "relative_end_ms": 21200,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I will not betray him.\""
+      },
+      {
+        "ref": "EP38:E42",
+        "segment_index": 0,
+        "relative_start_ms": 21000,
+        "relative_end_ms": 24000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of Juliana's closed eyelids as she takes a sharp, startled breath."
+      },
+      {
+        "ref": "EP38:E43",
+        "segment_index": 0,
+        "relative_start_ms": 21500,
+        "relative_end_ms": 23500,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana's eyes snap wide open in sudden realization as a deep resonant toll reverberates from above."
+      },
+      {
+        "ref": "EP38:E44",
+        "segment_index": 0,
+        "relative_start_ms": 21800,
+        "relative_end_ms": 35500,
+        "type": "sound",
+        "speaker": null,
+        "text": "Solemn, resonant church bells begin tolling rhythmically from the cathedral above, echoing deep into the stone dungeon."
+      },
+      {
+        "ref": "EP38:E45",
+        "segment_index": 0,
+        "relative_start_ms": 24000,
+        "relative_end_ms": 27500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle shot looking up past Juliana kneeling on the wet floor toward the barred iron skylight above her cell."
+      },
+      {
+        "ref": "EP38:E46",
+        "segment_index": 0,
+        "relative_start_ms": 26000,
+        "relative_end_ms": 27300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Bells.\""
+      },
+      {
+        "ref": "EP38:E47",
+        "segment_index": 0,
+        "relative_start_ms": 27500,
+        "relative_end_ms": 29500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide tracking shot as Juliana scrambles to her feet, chains clinking loudly against her skirts."
+      },
+      {
+        "ref": "EP38:E48",
+        "segment_index": 0,
+        "relative_start_ms": 28000,
+        "relative_end_ms": 30500,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana rushes toward the front of the cell, clutching the iron bars with both hands."
+      },
+      {
+        "ref": "EP38:E49",
+        "segment_index": 0,
+        "relative_start_ms": 29500,
+        "relative_end_ms": 35500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium profile shot of Juliana gripping the heavy iron bars, gazing down the corridor toward the source of the sound."
+      },
+      {
+        "ref": "EP38:E50",
+        "segment_index": 0,
+        "relative_start_ms": 29800,
+        "relative_end_ms": 31200,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"The wedding.\""
+      },
+      {
+        "ref": "EP38:E51",
+        "segment_index": 0,
+        "relative_start_ms": 31500,
+        "relative_end_ms": 32800,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"It's beginning.\""
+      },
+      {
+        "ref": "EP38:E52",
+        "segment_index": 0,
+        "relative_start_ms": 33000,
+        "relative_end_ms": 35500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Then I suppose I'm next.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_b42698d4fdcab2af",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 60500,
+        "end_ms": 84000,
+        "episode_id": "ep_038"
+      }
+    ],
+    "duration_ms": 23500,
+    "origin": "opp_3",
+    "clip_events": [
+      {
+        "ref": "EP38:E39",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 3500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of Juliana turning toward the cell wall, her blue eyes flashing with fierce loyalty."
+      },
+      {
+        "ref": "EP38:E40",
+        "segment_index": 0,
+        "relative_start_ms": 300,
+        "relative_end_ms": 2000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I will not give them my husband.\""
+      },
+      {
+        "ref": "EP38:E41",
+        "segment_index": 0,
+        "relative_start_ms": 2300,
+        "relative_end_ms": 3700,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I will not betray him.\""
+      },
+      {
+        "ref": "EP38:E42",
+        "segment_index": 0,
+        "relative_start_ms": 3500,
+        "relative_end_ms": 6500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of Juliana's closed eyelids as she takes a sharp, startled breath."
+      },
+      {
+        "ref": "EP38:E43",
+        "segment_index": 0,
+        "relative_start_ms": 4000,
+        "relative_end_ms": 6000,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana's eyes snap wide open in sudden realization as a deep resonant toll reverberates from above."
+      },
+      {
+        "ref": "EP38:E44",
+        "segment_index": 0,
+        "relative_start_ms": 4300,
+        "relative_end_ms": 23500,
+        "type": "sound",
+        "speaker": null,
+        "text": "Solemn, resonant church bells begin tolling rhythmically from the cathedral above, echoing deep into the stone dungeon."
+      },
+      {
+        "ref": "EP38:E45",
+        "segment_index": 0,
+        "relative_start_ms": 6500,
+        "relative_end_ms": 10000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle shot looking up past Juliana kneeling on the wet floor toward the barred iron skylight above her cell."
+      },
+      {
+        "ref": "EP38:E46",
+        "segment_index": 0,
+        "relative_start_ms": 8500,
+        "relative_end_ms": 9800,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Bells.\""
+      },
+      {
+        "ref": "EP38:E47",
+        "segment_index": 0,
+        "relative_start_ms": 10000,
+        "relative_end_ms": 12000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide tracking shot as Juliana scrambles to her feet, chains clinking loudly against her skirts."
+      },
+      {
+        "ref": "EP38:E48",
+        "segment_index": 0,
+        "relative_start_ms": 10500,
+        "relative_end_ms": 13000,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana rushes toward the front of the cell, clutching the iron bars with both hands."
+      },
+      {
+        "ref": "EP38:E49",
+        "segment_index": 0,
+        "relative_start_ms": 12000,
+        "relative_end_ms": 18000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium profile shot of Juliana gripping the heavy iron bars, gazing down the corridor toward the source of the sound."
+      },
+      {
+        "ref": "EP38:E50",
+        "segment_index": 0,
+        "relative_start_ms": 12300,
+        "relative_end_ms": 13700,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"The wedding.\""
+      },
+      {
+        "ref": "EP38:E51",
+        "segment_index": 0,
+        "relative_start_ms": 14000,
+        "relative_end_ms": 15300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"It's beginning.\""
+      },
+      {
+        "ref": "EP38:E52",
+        "segment_index": 0,
+        "relative_start_ms": 15500,
+        "relative_end_ms": 18000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Then I suppose I'm next.\""
+      },
+      {
+        "ref": "EP38:E53",
+        "segment_index": 0,
+        "relative_start_ms": 18000,
+        "relative_end_ms": 23500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up between the vertical iron bars framed directly on Juliana's face. The terror in her eyes softens into an unexpected, brave smile of enduring faith."
+      },
+      {
+        "ref": "EP38:E54",
+        "segment_index": 0,
+        "relative_start_ms": 20500,
+        "relative_end_ms": 23500,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana grips the bars tightly, her lips curving into a warm, defiant smile as she whispers her husband's name."
+      },
+      {
+        "ref": "EP38:E55",
+        "segment_index": 0,
+        "relative_start_ms": 22000,
+        "relative_end_ms": 23500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Alexander...\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_6a8c2e2c4719bf06",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 34500,
+        "end_ms": 55500,
+        "episode_id": "ep_038"
+      }
+    ],
+    "duration_ms": 21000,
+    "origin": "recovery_B6",
+    "clip_events": [
+      {
+        "ref": "EP38:E21",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up profile of Juliana chewing the bread, tears rolling down her soot-streaked cheek."
+      },
+      {
+        "ref": "EP38:E23",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Alexander...\""
+      },
+      {
+        "ref": "EP38:E24",
+        "segment_index": 0,
+        "relative_start_ms": 500,
+        "relative_end_ms": 5000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle wide shot of Juliana seated against the damp stone wall beneath high overhead iron ceiling grates, clutching the half-eaten bread in her lap."
+      },
+      {
+        "ref": "EP38:E25",
+        "segment_index": 0,
+        "relative_start_ms": 2300,
+        "relative_end_ms": 4500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"...are you safe?\""
+      },
+      {
+        "ref": "EP38:E26",
+        "segment_index": 0,
+        "relative_start_ms": 5000,
+        "relative_end_ms": 11000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Intimate close-up of Juliana looking upward, her tear-stained face filled with raw anguish."
+      },
+      {
+        "ref": "EP38:E27",
+        "segment_index": 0,
+        "relative_start_ms": 5500,
+        "relative_end_ms": 8500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Do you even know what happened to me?\""
+      },
+      {
+        "ref": "EP38:E28",
+        "segment_index": 0,
+        "relative_start_ms": 8700,
+        "relative_end_ms": 10700,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Do you know they condemned me?\""
+      },
+      {
+        "ref": "EP38:E30",
+        "segment_index": 0,
+        "relative_start_ms": 11000,
+        "relative_end_ms": 13000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"What if I die here?\""
+      },
+      {
+        "ref": "EP38:E29",
+        "segment_index": 0,
+        "relative_start_ms": 11000,
+        "relative_end_ms": 16500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight macro shot on Juliana's chin and throat as she presses a trembling hand against her chest."
+      },
+      {
+        "ref": "EP38:E31",
+        "segment_index": 0,
+        "relative_start_ms": 13300,
+        "relative_end_ms": 16000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"What if I never see you again?\""
+      },
+      {
+        "ref": "EP38:E32",
+        "segment_index": 0,
+        "relative_start_ms": 14000,
+        "relative_end_ms": 16500,
+        "type": "action",
+        "speaker": null,
+        "text": "A heavy tear drips down from her jaw, falling into the dark dampness below."
+      },
+      {
+        "ref": "EP38:E33",
+        "segment_index": 0,
+        "relative_start_ms": 16500,
+        "relative_end_ms": 21000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up profile of Juliana closing her eyes, drawing a deep breath to steady herself."
+      },
+      {
+        "ref": "EP38:E34",
+        "segment_index": 0,
+        "relative_start_ms": 17000,
+        "relative_end_ms": 19000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Keep him safe.\""
+      },
+      {
+        "ref": "EP38:E35",
+        "segment_index": 0,
+        "relative_start_ms": 19300,
+        "relative_end_ms": 20800,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Wherever he is.\""
+      }
+    ]
+  }
+]

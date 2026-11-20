@@ -1,0 +1,351 @@
+{
+  "episode_id": "ep_036",
+  "summary": "Episode EP36 is a single cabin scene in which Alexander confronts his mother after his apparent death. On screen, Alexander names Sterling and Rupert as responsible for hiding him and leaking his position to the French (EP36:E9, EP36:E15, EP36:E19). His mother reports that Juliana went to Ashbourne, was arrested, was accused of poisoning Alexander, and was condemned to execution after the wedding of Rupert and Catherine, which is two days away (EP36:E46, EP36:E62, EP36:E66, EP36:E85, EP36:E96). Alexander ends by vowing to return to Ashbourne before the wedding (EP36:E117, EP36:E119). Uncertainty: the only evidence is spoken testimony and on-screen action within these event refs. Rupert, Catherine, Sterling, Juliana, and the French are named but not shown. The mother's account of the magistrate's verdict and of Juliana's movements is unverified (EP36:E78, EP36:E82). The metadata logline and continuity notes describe events from Episode 35 and the wider plot, so they are not used as evidence here. Timing is stated only in dialogue (\"Two days\"), and no timestamps beyond the supplied event ranges are inferred.",
+  "characters": [
+    {
+      "name": "Alexander",
+      "role": "Presumed-dead heir and Duke returning in secret; scarred, vengeful, and determined to reclaim his home and rescue his wife Juliana (EP36:E4, EP36:E119)"
+    },
+    {
+      "name": "Alexander's mother",
+      "role": "Grieving mother who hid knowledge of Juliana's fate and now reveals the arrest and condemnation (EP36:E3, EP36:E30, EP36:E66, EP36:E85)"
+    },
+    {
+      "name": "Juliana",
+      "role": "Alexander's wife, named as arrested and sentenced to execution; not seen on screen (EP36:E46, EP36:E62, EP36:E85)"
+    },
+    {
+      "name": "Rupert",
+      "role": "Named as having taken Ashbourne and accused Juliana; off-screen and identified as a betrayer by Alexander (EP36:E9, EP36:E30, EP36:E66)"
+    },
+    {
+      "name": "Catherine",
+      "role": "Named alongside Rupert as accuser of Juliana and as a bride in the upcoming wedding; off-screen (EP36:E66, EP36:E93)"
+    },
+    {
+      "name": "Sterling",
+      "role": "Named by Alexander as one of the men who hid him; off-screen (EP36:E9)"
+    }
+  ],
+  "beats": [
+    {
+      "id": "b1",
+      "kind": "confrontation",
+      "event_refs": [
+        "EP36:E1",
+        "EP36:E2",
+        "EP36:E3",
+        "EP36:E4",
+        "EP36:E5",
+        "EP36:E6",
+        "EP36:E7",
+        "EP36:E8",
+        "EP36:E9",
+        "EP36:E10",
+        "EP36:E11"
+      ],
+      "description": "Mother questions how Alexander was never found; Alexander says they ensured no one looked and names Sterling and Rupert.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b2",
+      "kind": "revelation",
+      "event_refs": [
+        "EP36:E12",
+        "EP36:E13",
+        "EP36:E14",
+        "EP36:E15",
+        "EP36:E16",
+        "EP36:E17",
+        "EP36:E18",
+        "EP36:E19",
+        "EP36:E20",
+        "EP36:E21",
+        "EP36:E22",
+        "EP36:E23",
+        "EP36:E24",
+        "EP36:E25"
+      ],
+      "description": "Alexander states that his position was leaked to the French before he could expose his findings, and that he was declared dead.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b3",
+      "kind": "grief",
+      "event_refs": [
+        "EP36:E26",
+        "EP36:E27",
+        "EP36:E28",
+        "EP36:E29",
+        "EP36:E30",
+        "EP36:E31",
+        "EP36:E32",
+        "EP36:E33",
+        "EP36:E34",
+        "EP36:E35",
+        "EP36:E36",
+        "EP36:E37",
+        "EP36:E38",
+        "EP36:E39",
+        "EP36:E40",
+        "EP36:E41",
+        "EP36:E42"
+      ],
+      "description": "Mother weeps over the falsified reports and Rupert's seizure of Ashbourne; Alexander acknowledges the mourning and says the trust was used against her.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "b4",
+      "kind": "reveal",
+      "event_refs": [
+        "EP36:E43",
+        "EP36:E44",
+        "EP36:E45",
+        "EP36:E46",
+        "EP36:E47",
+        "EP36:E48",
+        "EP36:E49",
+        "EP36:E50",
+        "EP36:E51",
+        "EP36:E52",
+        "EP36:E53",
+        "EP36:E54",
+        "EP36:E55",
+        "EP36:E56",
+        "EP36:E57",
+        "EP36:E58",
+        "EP36:E59",
+        "EP36:E60",
+        "EP36:E61",
+        "EP36:E62",
+        "EP36:E63",
+        "EP36:E64",
+        "EP36:E65",
+        "EP36:E66"
+      ],
+      "description": "Alexander learns that Juliana went to Ashbourne and never returned; his mother says she came to her and that Juliana was arrested for allegedly poisoning Alexander.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "b5",
+      "kind": "reveal",
+      "event_refs": [
+        "EP36:E67",
+        "EP36:E68",
+        "EP36:E69",
+        "EP36:E70",
+        "EP36:E71",
+        "EP36:E72",
+        "EP36:E73",
+        "EP36:E74",
+        "EP36:E75",
+        "EP36:E76",
+        "EP36:E77",
+        "EP36:E78",
+        "EP36:E79",
+        "EP36:E80",
+        "EP36:E81",
+        "EP36:E82",
+        "EP36:E83",
+        "EP36:E84",
+        "EP36:E85",
+        "EP36:E86",
+        "EP36:E87",
+        "EP36:E88",
+        "EP36:E89"
+      ],
+      "description": "Alexander learns Juliana was called a witch, brought before a magistrate, condemned, and is to be executed after the wedding.",
+      "intensity_0_10": 9.0
+    },
+    {
+      "id": "b6",
+      "kind": "deadline",
+      "event_refs": [
+        "EP36:E90",
+        "EP36:E91",
+        "EP36:E92",
+        "EP36:E93",
+        "EP36:E94",
+        "EP36:E95",
+        "EP36:E96",
+        "EP36:E97",
+        "EP36:E98",
+        "EP36:E99",
+        "EP36:E100"
+      ],
+      "description": "Mother names the wedding of Rupert and Catherine as the deadline, two days away; Alexander vows vengeance for the wedding and for Juliana's death.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "b7",
+      "kind": "resolve",
+      "event_refs": [
+        "EP36:E101",
+        "EP36:E102",
+        "EP36:E103",
+        "EP36:E104",
+        "EP36:E105",
+        "EP36:E106",
+        "EP36:E107",
+        "EP36:E108",
+        "EP36:E109",
+        "EP36:E110",
+        "EP36:E111"
+      ],
+      "description": "Mother pleads with Alexander not to go alone; he refuses, citing the theft of his name, home, and wife, and walks toward the barn doors.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b8",
+      "kind": "cliffhanger",
+      "event_refs": [
+        "EP36:E112",
+        "EP36:E113",
+        "EP36:E114",
+        "EP36:E115",
+        "EP36:E116",
+        "EP36:E117",
+        "EP36:E118",
+        "EP36:E119",
+        "EP36:E120",
+        "EP36:E121"
+      ],
+      "description": "Alexander stands at the threshold facing the snowy forest, repeats the two-day countdown, and vows that the dead Duke will return before the wedding.",
+      "intensity_0_10": 9.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "r1",
+      "event_refs": [
+        "EP36:E5",
+        "EP36:E9"
+      ],
+      "claim": "Alexander was never found because others ensured no one looked, and Sterling and Rupert are responsible.",
+      "spoiler_significance_0_10": 8.0,
+      "creates_questions": [
+        "Who else was involved in concealing Alexander, and how far did the conspiracy reach?"
+      ]
+    },
+    {
+      "id": "r2",
+      "event_refs": [
+        "EP36:E15",
+        "EP36:E19"
+      ],
+      "claim": "Alexander's position was leaked to the French before he could expose what he had discovered.",
+      "spoiler_significance_0_10": 7.0,
+      "creates_questions": [
+        "Who leaked Alexander's location to the French, and what did he discover?"
+      ]
+    },
+    {
+      "id": "r3",
+      "event_refs": [
+        "EP36:E21",
+        "EP36:E25",
+        "EP36:E27"
+      ],
+      "claim": "The investigation was buried, Alexander was declared dead, and the reports were falsified.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "Who authorized the falsified reports?"
+      ]
+    },
+    {
+      "id": "r4",
+      "event_refs": [
+        "EP36:E30"
+      ],
+      "claim": "Rupert took Ashbourne after Alexander was presumed dead.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "How did Rupert secure control of Ashbourne?"
+      ]
+    },
+    {
+      "id": "r5",
+      "event_refs": [
+        "EP36:E46",
+        "EP36:E54"
+      ],
+      "claim": "Juliana went to Ashbourne to save Alexander's mother and later came to her; she never returned to Ashbourne.",
+      "spoiler_significance_0_10": 7.0,
+      "creates_questions": [
+        "What happened to Juliana between her visit to the mother and her arrest?"
+      ]
+    },
+    {
+      "id": "r6",
+      "event_refs": [
+        "EP36:E62",
+        "EP36:E66"
+      ],
+      "claim": "Juliana was arrested and accused by Rupert and Catherine of poisoning Alexander.",
+      "spoiler_significance_0_10": 8.0,
+      "creates_questions": [
+        "What evidence was used to accuse Juliana of poisoning?"
+      ]
+    },
+    {
+      "id": "r7",
+      "event_refs": [
+        "EP36:E82",
+        "EP36:E85",
+        "EP36:E89"
+      ],
+      "claim": "Juliana was condemned by a magistrate and is to be executed after the wedding of Rupert and Catherine.",
+      "spoiler_significance_0_10": 9.0,
+      "creates_questions": [
+        "Can Alexander prevent the execution before the wedding?",
+        "Is the mother's account of the magistrate's verdict accurate?"
+      ]
+    },
+    {
+      "id": "r8",
+      "event_refs": [
+        "EP36:E93",
+        "EP36:E96",
+        "EP36:E98"
+      ],
+      "claim": "The wedding of Rupert and Catherine is two days away and will be followed by Juliana's execution.",
+      "spoiler_significance_0_10": 7.0,
+      "creates_questions": [
+        "Will Alexander return to Ashbourne before the wedding?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "Who leaked Alexander's location to the French, and did Sterling act alone?",
+      "introduced_by": [
+        "EP36:E9",
+        "EP36:E15"
+      ]
+    },
+    {
+      "question": "What happened to Juliana between Ashbourne and her arrest?",
+      "introduced_by": [
+        "EP36:E46",
+        "EP36:E54",
+        "EP36:E62"
+      ]
+    },
+    {
+      "question": "Is the mother's account of Juliana's trial and sentence accurate?",
+      "introduced_by": [
+        "EP36:E78",
+        "EP36:E82"
+      ]
+    },
+    {
+      "question": "Will Alexander reach Juliana and stop the execution before or after the wedding?",
+      "introduced_by": [
+        "EP36:E85",
+        "EP36:E98",
+        "EP36:E100",
+        "EP36:E119"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,420 @@
+{
+  "stage": "episode_analysis",
+  "system": "Analyze narrative beats, characters, revelations and unresolved questions. Only event text is on-screen evidence; metadata may describe unseen events. Use supplied EPxx:Ex aliases. Report uncertainty in the summary. A revelation's significance is not its spoiler damage.",
+  "user": "EP=ep_017; timestamps are integer milliseconds\nSOURCE_SHA256=25fad86cb46d505849d1247d92836e1176bf732e50699a00b1f34c0e14f28e27\nMETADATA ONLY (not on-screen evidence): {'logline': \"In the aftermath of the brutal attack, Alexander repairs Juliana's devastated garden and swears to protect her with his life, drawing them into a tender, intimate embrace by the hearth.\", 'continuity_notes': \"Picks up the morning after Episode 16's moonlit confrontation where Alexander defended Juliana and defeated Harrington's hired thugs in her medicinal garden.\"}\nSOURCE WARNINGS=['sc_001: incomplete source coverage; gaps are unavailable']\nSCENE sc_001 0-39000 EXT. MEDICINAL GARDEN – DAY\nEP17:E1 0-3000 CAMERA: High angle wide shot looking down at the muddy, trampled garden. Broken wooden planters and splintered planks litter the ground as Juliana kneels amidst the ruined soil.\nEP17:E2 0-3000 ACTION: Juliana sits on her knees in her dirt-smudged dress, her hands wrapped in clean linen bandages, sorrowfully examining the wreckage. In the distant background, Alexander paces near the perimeter fence.\nEP17:E3 3000-7000 CAMERA: Close-up on Juliana's bandaged hand reaching into the dark earth of a battered planter box.\nEP17:E4 3000-7000 ACTION: Juliana gently lifts a tiny, delicate white daisy clinging to its exposed roots out of the soil, cupping it in her palm.\nEP17:E5 7000-11500 CAMERA: Medium close-up tilting up to Juliana's face, bruised and tear-streaked yet filled with fragile hope.\nEP17:E6 9300-11300 JULIANA [Soft, Emotional]: \"Some of them survived.\"\nEP17:E7 11500-14000 CAMERA: Low-angle medium shot of Alexander repairing the broken wooden fence with a heavy iron hammer.\nEP17:E8 11500-14000 SOUND: Rhythmic, heavy thuds of an iron hammer pounding into weathered wood.\nEP17:E9 11500-14000 ACTION: Alexander firmly drives nails into a fractured fence post, his brow furrowed with focused determination.\nEP17:E10 14000-16200 CAMERA: Wide shot framing Juliana kneeling on the wet cobblestones in the foreground while Alexander stands by the fence behind her, lowering his hammer.\nEP17:E11 14300-15300 JULIANA [Grateful, Sincere]: \"Thank you.\"\nEP17:E12 16200-18000 CAMERA: Close-up of Alexander turning toward her, his scarred face stoic and intense.\nEP17:E13 16800-17800 ALEXANDER [Gruff, Low]: \"For what?\"\nEP17:E14 18000-21000 CAMERA: Close-up of Juliana looking up at him with deep emotional vulnerability, her eyes shimmering with tears.\nEP17:E15 18200-20500 JULIANA [Trembling, Heartfelt]: \"For standing between me and those men.\"\nEP17:E16 21000-23500 CAMERA: Close-up of Alexander, his piercing blue-grey eyes fixed upon her with absolute conviction.\nEP17:E17 21500-23000 ALEXANDER [Unwavering, Firm]: \"I would do it again.\"\nEP17:E18 23500-25800 CAMERA: Close-up of Juliana, her lips parting as her voice wavers with emotion.\nEP17:E19 24000-25700 JULIANA [Whispering, Awed]: \"Even if there were ten of them?\"\nEP17:E20 26000-27700 ALEXANDER [Deep, Resolute]: \"As long as I draw breath...\"\nEP17:E21 26500-30000 CAMERA: Tracking shot following Alexander as he strides across the muddy garden and approaches Juliana.\nEP17:E22 28000-31500 ACTION: Alexander drops to one knee before Juliana, gently taking her trembling, bandaged hands into his large, weathered palms.\nEP17:E23 28800-31000 ALEXANDER [Gentle, Vowing]: \"...no one will hurt you again.\"\nEP17:E24 31500-34500 CAMERA: Close-up on Juliana's tear-filled face, overwhelmed by his fierce devotion.\nEP17:E25 32800-34200 JULIANA [Choked Up, Pained]: \"You cannot promise that.\"\nEP17:E26 34500-36500 CAMERA: Extreme close-up of Alexander's intense, protective gaze locking onto hers.\nEP17:E27 34800-35800 ALEXANDER [Quiet, Absolute]: \"I just did.\"\nEP17:E28 36500-39000 CAMERA: Close-up of their joined hands, his rugged, scarred fingers wrapping securely around her bandaged fingers.\nEP17:E29 36500-39000 ACTION: Alexander squeezes Juliana's hands reassuringly as she rests her fingertips against his skin. The scene fades to black.\nSCENE sc_002 39000-118880 INT. COTTAGE HEARTH – NIGHT\nEP17:E30 39000-42000 CAMERA: Medium shot in the warm, flickering firelight of the stone cottage. Juliana kneels on the stone floor beside a washbasin of water while Alexander sits quietly in a chair beside the blazing hearth.\nEP17:E31 40000-44500 ACTION: Juliana wrings out a clean linen cloth from the basin and tenderly dabs at the fresh cuts and abrasions on the back of Alexander's right hand.\nEP17:E32 42000-45000 CAMERA: Close-up of Juliana's bandaged hands delicately pressing the white cloth against Alexander's wounded knuckles.\nEP17:E33 42800-44700 JULIANA [Tender, Reproachful]: \"You were bleeding last night.\"\nEP17:E34 45000-48500 CAMERA: Medium close-up showing Alexander gazing down at her, his expression softening with unspoken affection as he gently takes hold of her wrist.\nEP17:E35 46000-47300 ALEXANDER [Quiet, Fond]: \"So were you.\"\nEP17:E36 48500-51500 CAMERA: Close-up of Juliana looking up into his eyes, a faint, tender smile gracing her lips.\nEP17:E37 49000-51500 JULIANA [Softly Teasing]: \"You make it very difficult to argue with you.\"\nEP17:E38 51500-54000 CAMERA: Close-up of Alexander ducking his chin, a subtle, bashful smile fleetingly touching his scarred face.\nEP17:E39 53500-56000 ACTION: Juliana returns the damp cloth to the ceramic basin, her expression turning somber and reflective.\nEP17:E40 54000-58500 CAMERA: Medium close-up of Juliana looking up at him, her vulnerability resurfacing in the warm amber glow.\nEP17:E41 56500-58000 JULIANA [Vulnerable, Sincere]: \"I was frightened.\"\nEP17:E42 58500-60500 CAMERA: Close-up of Alexander, his brow furrowing with sudden concern.\nEP17:E43 58800-59800 ALEXANDER [Questioning]: \"Of them?\"\nEP17:E44 60500-63500 CAMERA: Close-up of Juliana gazing directly into his eyes, her heart laid bare.\nEP17:E45 60800-62200 JULIANA [Whispering, Earnest]: \"Of losing you.\"\nEP17:E46 63500-66000 CAMERA: Close-up of Alexander visibly moved, his gaze softening with profound emotion.\nEP17:E47 66000-73500 CAMERA: Medium shot as Alexander stands and pulls Juliana gently to her feet against his broad chest.\nEP17:E48 66000-73500 ACTION: Juliana rests her cheek against Alexander's chest, closing her eyes as his strong arms wrap around her shoulders, holding her safe against his frame.\nEP17:E49 73500-78000 CAMERA: Close-up on their faces nestled together in the firelight, Alexander resting his bearded chin against her hair.\nEP17:E50 77000-81000 ACTION: Juliana nestles deeper into his coat, listening intently to the rapid thudding beneath his chest.\nEP17:E51 78500-80000 JULIANA [Soft, Playful]: \"Your heart is racing.\"\nEP17:E52 80500-83500 CAMERA: Close-up of Alexander tilting his head down toward her, a tender smile breaking through his rugged beard.\nEP17:E53 81200-82500 ALEXANDER [Warm, Whispering]: \"So is yours.\"\nEP17:E54 83500-87500 CAMERA: Medium shot framing the couple embraced in front of the roaring, glowing fireplace.\nEP17:E55 86500-90000 ACTION: Juliana slowly raises her hand, gently twirling a lock of Alexander's long, unruly dark hair between her fingers.\nEP17:E56 87500-90000 CAMERA: Close-up of her delicate fingers running through his thick strands of hair.\nEP17:E57 88000-89800 JULIANA [Lighthearted, Teasing]: \"This is becoming impossible.\"\nEP17:E58 90000-93000 CAMERA: Close-up of Juliana beaming up at him with affectionate humor.\nEP17:E59 90400-92500 JULIANA [Smiling]: \"Soon birds will start nesting in it.\"\nEP17:E60 93000-96000 CAMERA: Close-up of Alexander regarding her with a subtle, affectionate smirk.\nEP17:E61 93500-95200 ALEXANDER [Dry, Amused]: \"They have not complained yet.\"\nEP17:E62 95500-97000 ACTION: Juliana lets out a quiet, melodic laugh.\nEP17:E63 96000-100000 CAMERA: Medium close-up as Juliana lifts her bandaged hand toward his beard playfully.\nEP17:E64 96500-99200 JULIANA [Charming, Tender]: \"Then I shall have to save you from the birds.\"\nEP17:E65 99500-102500 ACTION: Alexander gently catches her wrist mid-air, holding her hand firmly against his chest while looking into her eyes with solemn sincerity.\nEP17:E66 100300-101500 ALEXANDER [Solemn, Gentle]: \"Not yet.\"\nEP17:E67 102500-105000 CAMERA: Close-up of Juliana looking up at him, her eyes shining with quiet patience and understanding.\nEP17:E68 103000-104200 JULIANA [Sweet, Reassuring]: \"Then I will wait.\"\nEP17:E69 105000-108000 CAMERA: Medium close-up of Alexander releasing a quiet breath of gratitude, pulling her closer against his shoulder.\nEP17:E70 107000-114000 ACTION: Juliana rests her head against Alexander's collarbone once more, wrapping both arms around him as he cradles her head in his palm.\nEP17:E71 108000-112000 CAMERA: Close-up of Juliana's peaceful face resting against Alexander's rugged chest.\nEP17:E72 108300-111500 JULIANA [V.O.) (Reflective, Resonant]: \"I know almost nothing about the man I married.\"\nEP17:E73 112000-118880 CAMERA: Slow pull-back wide shot of Alexander and Juliana locked in a tender, enduring embrace before the radiant, roaring hearth as the fire crackles peacefully.\nEP17:E74 112200-116000 JULIANA [V.O.) (Deeply Moved, Loving]: \"But every day, he gives me another reason to trust him.\"\nEP17:E75 114000-118880 SOUND: Warm crackle of embers in the hearth blending with swelling, tender orchestral strings holding into the fade-out.",
+  "schema": {
+    "$defs": {
+      "Beat": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "kind": {
+            "title": "Kind",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "description": {
+            "title": "Description",
+            "type": "string"
+          },
+          "intensity_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Intensity 0 10",
+            "type": "number"
+          }
+        },
+        "required": [
+          "id",
+          "kind",
+          "event_refs",
+          "description",
+          "intensity_0_10"
+        ],
+        "title": "Beat",
+        "type": "object"
+      },
+      "Character": {
+        "additionalProperties": false,
+        "properties": {
+          "name": {
+            "title": "Name",
+            "type": "string"
+          },
+          "role": {
+            "title": "Role",
+            "type": "string"
+          }
+        },
+        "required": [
+          "name",
+          "role"
+        ],
+        "title": "Character",
+        "type": "object"
+      },
+      "Question": {
+        "additionalProperties": false,
+        "properties": {
+          "question": {
+            "title": "Question",
+            "type": "string"
+          },
+          "introduced_by": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Introduced By",
+            "type": "array"
+          }
+        },
+        "required": [
+          "question",
+          "introduced_by"
+        ],
+        "title": "Question",
+        "type": "object"
+      },
+      "Revelation": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "claim": {
+            "title": "Claim",
+            "type": "string"
+          },
+          "spoiler_significance_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Spoiler Significance 0 10",
+            "type": "number"
+          },
+          "creates_questions": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Creates Questions",
+            "type": "array"
+          }
+        },
+        "required": [
+          "id",
+          "event_refs",
+          "claim",
+          "spoiler_significance_0_10",
+          "creates_questions"
+        ],
+        "title": "Revelation",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "episode_id": {
+        "title": "Episode Id",
+        "type": "string"
+      },
+      "summary": {
+        "title": "Summary",
+        "type": "string"
+      },
+      "characters": {
+        "items": {
+          "$ref": "#/$defs/Character"
+        },
+        "title": "Characters",
+        "type": "array"
+      },
+      "beats": {
+        "items": {
+          "$ref": "#/$defs/Beat"
+        },
+        "title": "Beats",
+        "type": "array"
+      },
+      "revelations": {
+        "items": {
+          "$ref": "#/$defs/Revelation"
+        },
+        "title": "Revelations",
+        "type": "array"
+      },
+      "unresolved_questions": {
+        "items": {
+          "$ref": "#/$defs/Question"
+        },
+        "title": "Unresolved Questions",
+        "type": "array"
+      }
+    },
+    "required": [
+      "episode_id",
+      "summary",
+      "characters",
+      "beats",
+      "revelations",
+      "unresolved_questions"
+    ],
+    "title": "EpisodeAnalysis",
+    "type": "object"
+  },
+  "state": "complete",
+  "output": {
+    "episode_id": "ep_017",
+    "summary": "Episode ep_017 (EP17) is shown in two scenes. In sc_001 (0-39000 ms, EXT. MEDICINAL GARDEN, DAY), Juliana kneels among trampled planters and finds a surviving daisy, and Alexander repairs a fence and then vows to protect her. In sc_002 (39000-118880 ms, INT. COTTAGE HEARTH, NIGHT), the two share a tender exchange by the fire, Juliana confesses fear of losing him, and they embrace. Uncertainty: the source carries the warning 'sc_001: incomplete source coverage; gaps are unavailable', so sc_001 may be missing events. Scene sc_002 runs to 118880 ms, but the supplied on-screen events end at EP17:E75 (114000-118880 ms), so later content is unknown. Metadata (logline and continuity notes) is not on-screen evidence and was used only for context; it describes an attack and a rival (Harrington) and a prior-episode confrontation that are not shown in these events, so they are treated as unverified. The on-screen events reference 'those men' and 'ten of them' without identifying them. Source SHA256 is 25fad86cb46d505849d1247d92836e1176bf732e50699a00b1f34c0e14f28e27. Event E6 and E11 timings overlap E5 and E10 ranges, which is recorded as supplied.",
+    "characters": [
+      {
+        "name": "Juliana",
+        "role": "Woman tending the damaged medicinal garden; bandaged hands; speaker of the V.O. lines in E72 and E74 and the spouse referred to as the man she married"
+      },
+      {
+        "name": "Alexander",
+        "role": "Scarred, gruff man who repairs the fence, defends Juliana from the men who attacked, vows protection, and is her husband per E72"
+      }
+    ],
+    "beats": [
+      {
+        "id": "b_001",
+        "kind": "aftermath_discovery",
+        "event_refs": [
+          "EP17:E1",
+          "EP17:E2",
+          "EP17:E3",
+          "EP17:E4",
+          "EP17:E5"
+        ],
+        "description": "Juliana examines the wrecked garden and gently lifts a surviving daisy from the soil, with a hopeful expression.",
+        "intensity_0_10": 4.0
+      },
+      {
+        "id": "b_002",
+        "kind": "gratitude_exchange",
+        "event_refs": [
+          "EP17:E6",
+          "EP17:E7",
+          "EP17:E8",
+          "EP17:E9",
+          "EP17:E10",
+          "EP17:E11",
+          "EP17:E12",
+          "EP17:E13",
+          "EP17:E14",
+          "EP17:E15"
+        ],
+        "description": "Juliana says some plants survived while Alexander repairs the fence. She thanks him for standing between her and the men, and he asks what for.",
+        "intensity_0_10": 5.0
+      },
+      {
+        "id": "b_003",
+        "kind": "declaration_of_loyalty",
+        "event_refs": [
+          "EP17:E16",
+          "EP17:E17",
+          "EP17:E18",
+          "EP17:E19",
+          "EP17:E20"
+        ],
+        "description": "Alexander states he would do it again. Juliana asks whether that holds even against ten men, and he begins a vow.",
+        "intensity_0_10": 6.0
+      },
+      {
+        "id": "b_004",
+        "kind": "vow_of_protection",
+        "event_refs": [
+          "EP17:E21",
+          "EP17:E22",
+          "EP17:E23",
+          "EP17:E24",
+          "EP17:E25",
+          "EP17:E26",
+          "EP17:E27",
+          "EP17:E28",
+          "EP17:E29"
+        ],
+        "description": "Alexander kneels, takes Juliana's hands, and vows no one will hurt her again. She doubts he can promise that, and he replies that he just did. The scene fades to black.",
+        "intensity_0_10": 7.0
+      },
+      {
+        "id": "b_005",
+        "kind": "tender_tending",
+        "event_refs": [
+          "EP17:E30",
+          "EP17:E31",
+          "EP17:E32",
+          "EP17:E33",
+          "EP17:E34",
+          "EP17:E35",
+          "EP17:E36",
+          "EP17:E37",
+          "EP17:E38"
+        ],
+        "description": "By the hearth, Juliana cleans Alexander's wounded knuckles. She notes he was bleeding last night, he says she was too, and she teases that he makes it hard to argue.",
+        "intensity_0_10": 4.0
+      },
+      {
+        "id": "b_006",
+        "kind": "emotional_confession",
+        "event_refs": [
+          "EP17:E39",
+          "EP17:E40",
+          "EP17:E41",
+          "EP17:E42",
+          "EP17:E43",
+          "EP17:E44",
+          "EP17:E45",
+          "EP17:E46"
+        ],
+        "description": "Juliana admits she was frightened, and when Alexander asks whether it was of them, she says it was of losing him.",
+        "intensity_0_10": 7.0
+      },
+      {
+        "id": "b_007",
+        "kind": "embrace_by_hearth",
+        "event_refs": [
+          "EP17:E47",
+          "EP17:E48",
+          "EP17:E49",
+          "EP17:E50",
+          "EP17:E51",
+          "EP17:E52",
+          "EP17:E53",
+          "EP17:E54"
+        ],
+        "description": "Alexander pulls Juliana to her feet into an embrace. She notes his racing heart, and he says hers is racing too.",
+        "intensity_0_10": 6.0
+      },
+      {
+        "id": "b_008",
+        "kind": "playful_banter",
+        "event_refs": [
+          "EP17:E55",
+          "EP17:E56",
+          "EP17:E57",
+          "EP17:E58",
+          "EP17:E59",
+          "EP17:E60",
+          "EP17:E61",
+          "EP17:E62",
+          "EP17:E63",
+          "EP17:E64"
+        ],
+        "description": "Juliana twirls his hair and jokes that birds will nest in it. He deadpans they have not complained, and she playfully reaches for his beard.",
+        "intensity_0_10": 3.0
+      },
+      {
+        "id": "b_009",
+        "kind": "tender_reassurance",
+        "event_refs": [
+          "EP17:E65",
+          "EP17:E66",
+          "EP17:E67",
+          "EP17:E68",
+          "EP17:E69",
+          "EP17:E70",
+          "EP17:E71"
+        ],
+        "description": "Alexander catches her wrist and says not yet. Juliana says she will wait, and they settle into a close embrace with her head on his chest.",
+        "intensity_0_10": 5.0
+      },
+      {
+        "id": "b_010",
+        "kind": "reflective_closing",
+        "event_refs": [
+          "EP17:E72",
+          "EP17:E73",
+          "EP17:E74",
+          "EP17:E75"
+        ],
+        "description": "Juliana's V.O. says she knows almost nothing about the man she married but that he gives her reason to trust him each day. The couple embraces as the fire crackles and the scene fades.",
+        "intensity_0_10": 5.0
+      }
+    ],
+    "revelations": [
+      {
+        "id": "r_001",
+        "event_refs": [
+          "EP17:E72"
+        ],
+        "claim": "Juliana's voiceover states she knows almost nothing about the man she married, implying a marriage and limited knowledge of Alexander's past.",
+        "spoiler_significance_0_10": 6.0,
+        "creates_questions": [
+          "What is Alexander's past, and how did the marriage come about?"
+        ]
+      },
+      {
+        "id": "r_002",
+        "event_refs": [
+          "EP17:E41",
+          "EP17:E45"
+        ],
+        "claim": "Juliana admits she was frightened, specifically of losing Alexander.",
+        "spoiler_significance_0_10": 3.0,
+        "creates_questions": [
+          "What caused Juliana's fear, and who were the men she was afraid of?"
+        ]
+      },
+      {
+        "id": "r_003",
+        "event_refs": [
+          "EP17:E74"
+        ],
+        "claim": "Juliana's voiceover says that every day Alexander gives her another reason to trust him, suggesting her trust is still developing.",
+        "spoiler_significance_0_10": 2.0,
+        "creates_questions": [
+          "What specific actions have earned or tested Juliana's trust in Alexander?"
+        ]
+      }
+    ],
+    "unresolved_questions": [
+      {
+        "question": "Who were the men who attacked, and who sent them?",
+        "introduced_by": [
+          "EP17:E15",
+          "EP17:E19"
+        ]
+      },
+      {
+        "question": "What is Alexander's past, and why does Juliana know almost nothing about him?",
+        "introduced_by": [
+          "EP17:E72"
+        ]
+      },
+      {
+        "question": "Is Alexander's vow of protection sustainable, given Juliana's doubt?",
+        "introduced_by": [
+          "EP17:E25",
+          "EP17:E27"
+        ]
+      },
+      {
+        "question": "Why did Juliana say she was frightened of losing him, and what threat prompted it?",
+        "introduced_by": [
+          "EP17:E41",
+          "EP17:E45"
+        ]
+      }
+    ]
+  }
+}

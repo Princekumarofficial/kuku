@@ -1,0 +1,74 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "opp_1",
+      "episode_id": "ep_039",
+      "concept": "Alexander sheds his disguise, steps out in ducal regalia, and declares he is coming home and bringing his wife home",
+      "hook_refs": [
+        "EP39:E40"
+      ],
+      "ending_refs": [
+        "EP39:E58"
+      ],
+      "context_refs": [
+        "EP39:E41",
+        "EP39:E42"
+      ],
+      "why_promising": "The hook 'Enough hiding' (62000-62800) is a strong opener, and the clip runs 62000-98000ms (36000ms) to an unresolved vow about the wife. The 'buried three years ago' line within the clip gives the mystery of his survival, and the wife's situation stays unanswered."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_2",
+      "episode_id": "ep_039",
+      "concept": "Loyalists strike the cathedral entrance guards and the operation moves inside toward the chapel",
+      "hook_refs": [
+        "EP39:E19"
+      ],
+      "ending_refs": [
+        "EP39:E50"
+      ],
+      "context_refs": [
+        "EP39:E20",
+        "EP39:E26",
+        "EP39:E30"
+      ],
+      "why_promising": "The clip runs 29800-82200ms (52400ms). It opens on the sentry's sharp 'Stop!' (29800-30600), which is an immediate hook, and it covers the attack and the 'Tell the Duke' report. It ends on the unresolved order 'Secure the chapel' (80500-82200), and the chapel's outcome is not shown."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_3",
+      "episode_id": "ep_039",
+      "concept": "Loyalists in an alley count the royal guards and confirm the east gate, then the cart strike proceeds and the message is sent to the Duke",
+      "hook_refs": [
+        "EP39:E11"
+      ],
+      "ending_refs": [
+        "EP39:E30"
+      ],
+      "context_refs": [
+        "EP39:E12",
+        "EP39:E14",
+        "EP39:E15"
+      ],
+      "why_promising": "The clip runs 18300-49200ms (30900ms). It opens on the urgent 'Six at the front' (18300-19900), and the guard counts and east-gate exchange are all inside the clip. It ends on the unresolved 'Tell the Duke' (48200-49200), so the viewer is left wondering whether the message reaches its target."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_4",
+      "episode_id": "ep_039",
+      "concept": "A loyalist kneels and greets Alexander as Your Grace, and Alexander orders the chapel secured and vows to bring his wife home",
+      "hook_refs": [
+        "EP39:E48"
+      ],
+      "ending_refs": [
+        "EP39:E58"
+      ],
+      "context_refs": [
+        "EP39:E50",
+        "EP39:E54"
+      ],
+      "why_promising": "The clip runs 75800-98000ms (22200ms). The hook 'Your Grace' (75800-77200) opens on the reveal of his rank, and the clip includes the command and the 'No more hiding' defiance. It ends on the unresolved wife vow (95000-98000), which is a distinct angle from the full transformation clip."
+    }
+  ]
+}

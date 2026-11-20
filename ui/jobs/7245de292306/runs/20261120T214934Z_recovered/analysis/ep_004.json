@@ -1,0 +1,332 @@
+{
+  "episode_id": "ep_004",
+  "summary": "Scene sc_001 (INT. CHAPEL, 0-151400 ms) shows a chapel proposal-and-wedding confrontation: a scarred bearded warrior offers Juliana a silver ring, Gerald and Clarissa mock both of them, Juliana accepts, the priest pronounces them husband and wife, Gerald and Lady Ashcroft denounce her and disown her, and Juliana and the warrior leave through the chapel doors into daylight. Uncertainty: the source warnings state sc_001 has incomplete coverage with unavailable gaps, so unseen events may exist. The priest's pronouncement at E84 is an off-screen voice, and the legal validity of the marriage is not established on screen. The priest's hesitation (E61-E68) is on-screen but not resolved. The logline and continuity notes are metadata only and were not used as evidence; they describe exile and a prior Episode 3 cliffhanger that is not verified here. Names of the warrior and the priest's first name are not given on screen.",
+  "characters": [
+    {
+      "name": "Juliana",
+      "role": "Lady Juliana, the bride; accepts the proposal and is disowned by her family"
+    },
+    {
+      "name": "Mysterious Bearded Man",
+      "role": "Scarred warrior of unknown name who proposes, vows protection and becomes Juliana's husband"
+    },
+    {
+      "name": "Gerald",
+      "role": "Antagonist who mocks the groom and Juliana and protests the marriage"
+    },
+    {
+      "name": "Clarissa",
+      "role": "Mocking family member who laughs at Juliana and the groom"
+    },
+    {
+      "name": "Lady Ashcroft",
+      "role": "Juliana's mother figure who disowns her and orders the groom away from Ashcroft Manor"
+    },
+    {
+      "name": "Lord Ashcroft",
+      "role": "Family member seated silently in the pew; shows shame, no dialogue on screen"
+    },
+    {
+      "name": "The Priest",
+      "role": "Officiant who hesitates, questions Juliana and then pronounces the couple married"
+    }
+  ],
+  "beats": [
+    {
+      "id": "B1",
+      "kind": "proposal",
+      "event_refs": [
+        "EP04:E1",
+        "EP04:E2",
+        "EP04:E3",
+        "EP04:E4"
+      ],
+      "description": "The warrior offers a silver band ring to Juliana, who is stunned, and Gerald steps forward from his pew.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "B2",
+      "kind": "mockery",
+      "event_refs": [
+        "EP04:E5",
+        "EP04:E6",
+        "EP04:E7",
+        "EP04:E8",
+        "EP04:E9",
+        "EP04:E10",
+        "EP04:E11",
+        "EP04:E12"
+      ],
+      "description": "Gerald and Clarissa ridicule the groom as a penniless nobody and Juliana as discarded and worthless.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "B3",
+      "kind": "emotional_hurt_and_resolve",
+      "event_refs": [
+        "EP04:E13",
+        "EP04:E14",
+        "EP04:E15",
+        "EP04:E16",
+        "EP04:E17"
+      ],
+      "description": "Juliana is hurt by the insult, draws inner strength and tells the kneeling man he does not know her.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "B4",
+      "kind": "dialogue_exchange",
+      "event_refs": [
+        "EP04:E18",
+        "EP04:E19",
+        "EP04:E20",
+        "EP04:E21",
+        "EP04:E22",
+        "EP04:E23",
+        "EP04:E24",
+        "EP04:E25",
+        "EP04:E26",
+        "EP04:E27",
+        "EP04:E28",
+        "EP04:E29"
+      ],
+      "description": "Juliana questions why he offers his name; he replies that he knows what he sees and that she is a woman who was betrayed.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "B5",
+      "kind": "pity_refusal_and_vow",
+      "event_refs": [
+        "EP04:E30",
+        "EP04:E31",
+        "EP04:E32",
+        "EP04:E33",
+        "EP04:E34",
+        "EP04:E35",
+        "EP04:E36",
+        "EP04:E37",
+        "EP04:E38",
+        "EP04:E39",
+        "EP04:E40",
+        "EP04:E41",
+        "EP04:E42",
+        "EP04:E43",
+        "EP04:E44",
+        "EP04:E45",
+        "EP04:E46",
+        "EP04:E47"
+      ],
+      "description": "Juliana rejects the offer as pity; the warrior replies that it is a vow and that she will not stand alone.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "B6",
+      "kind": "internal_decision",
+      "event_refs": [
+        "EP04:E48",
+        "EP04:E49",
+        "EP04:E50",
+        "EP04:E51",
+        "EP04:E52",
+        "EP04:E53",
+        "EP04:E54"
+      ],
+      "description": "Juliana's voiceover weighs her family and the unknown man, and she accepts him with a resolved reply.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "B7",
+      "kind": "ceremony_hesitation",
+      "event_refs": [
+        "EP04:E55",
+        "EP04:E56",
+        "EP04:E57",
+        "EP04:E58",
+        "EP04:E59",
+        "EP04:E60",
+        "EP04:E61",
+        "EP04:E62",
+        "EP04:E63",
+        "EP04:E64",
+        "EP04:E65",
+        "EP04:E66",
+        "EP04:E67",
+        "EP04:E68"
+      ],
+      "description": "The warrior rises and takes Juliana's hand; the priest hesitates and asks if she is certain, she affirms, and the priest proceeds.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "B8",
+      "kind": "vows_and_ring",
+      "event_refs": [
+        "EP04:E69",
+        "EP04:E70",
+        "EP04:E71",
+        "EP04:E72",
+        "EP04:E73",
+        "EP04:E74",
+        "EP04:E75",
+        "EP04:E76",
+        "EP04:E77",
+        "EP04:E78",
+        "EP04:E79",
+        "EP04:E80",
+        "EP04:E81",
+        "EP04:E82"
+      ],
+      "description": "Juliana affirms her intent, the warrior slides the ring onto her finger and gives three pledges of protection, respect and word, and the priest begins the pronouncement.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "B9",
+      "kind": "pronouncement",
+      "event_refs": [
+        "EP04:E83",
+        "EP04:E84",
+        "EP04:E85"
+      ],
+      "description": "The priest pronounces them husband and wife in an off-screen voice as a musical chord swells.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "B10",
+      "kind": "confrontation_with_gerald",
+      "event_refs": [
+        "EP04:E86",
+        "EP04:E87",
+        "EP04:E88",
+        "EP04:E89",
+        "EP04:E90",
+        "EP04:E91",
+        "EP04:E92",
+        "EP04:E93",
+        "EP04:E94",
+        "EP04:E95"
+      ],
+      "description": "Gerald rages at the marriage; Juliana answers that she would rather choose her own life than beg for his, and Gerald recoils.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "B11",
+      "kind": "family_disownment",
+      "event_refs": [
+        "EP04:E96",
+        "EP04:E97",
+        "EP04:E98",
+        "EP04:E99",
+        "EP04:E100",
+        "EP04:E101"
+      ],
+      "description": "Lady Ashcroft orders the groom away from the manor and formally disowns Juliana; Lord Ashcroft bows in shame and Juliana holds her composure through tears.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "B12",
+      "kind": "exit",
+      "event_refs": [
+        "EP04:E102",
+        "EP04:E103",
+        "EP04:E104",
+        "EP04:E105",
+        "EP04:E106",
+        "EP04:E107",
+        "EP04:E108",
+        "EP04:E109",
+        "EP04:E110"
+      ],
+      "description": "The warrior calls Juliana to come; she takes his hand and they walk down the aisle through the oak doors into sunlight as the screen fades out.",
+      "intensity_0_10": 8.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "R1",
+      "event_refs": [
+        "EP04:E7",
+        "EP04:E12"
+      ],
+      "claim": "Gerald and Clarissa assert that the groom is a penniless nobody and that Juliana is a discarded and worthless bride; these are the antagonists' claims and are unverified.",
+      "spoiler_significance_0_10": 3.0,
+      "creates_questions": [
+        "Is the groom truly penniless or a nobody?",
+        "Who discarded Juliana and why?"
+      ]
+    },
+    {
+      "id": "R2",
+      "event_refs": [
+        "EP04:E29",
+        "EP04:E31"
+      ],
+      "claim": "The warrior states that Juliana is a woman who was betrayed and does not deserve to be discarded.",
+      "spoiler_significance_0_10": 5.0,
+      "creates_questions": [
+        "Who betrayed Juliana?",
+        "What did her family do to her?"
+      ]
+    },
+    {
+      "id": "R3",
+      "event_refs": [
+        "EP04:E87",
+        "EP04:E97",
+        "EP04:E99"
+      ],
+      "claim": "Lady Ashcroft formally disowns Juliana and forbids the groom from Ashcroft Manor.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "Will the family try to reverse the disownment or retaliate?"
+      ]
+    },
+    {
+      "id": "R4",
+      "event_refs": [
+        "EP04:E84"
+      ],
+      "claim": "The priest pronounces the couple husband and wife in an off-screen voice.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "Is the marriage legally valid given the priest's earlier hesitation?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "Who is the Mysterious Bearded Man and what is his name and background?",
+      "introduced_by": [
+        "EP04:E1",
+        "EP04:E16",
+        "EP04:E24"
+      ]
+    },
+    {
+      "question": "Who betrayed Juliana and what did her family do to her?",
+      "introduced_by": [
+        "EP04:E29",
+        "EP04:E34"
+      ]
+    },
+    {
+      "question": "Is the marriage legally valid given the priest's hesitation and the off-screen pronouncement?",
+      "introduced_by": [
+        "EP04:E63",
+        "EP04:E68",
+        "EP04:E84"
+      ]
+    },
+    {
+      "question": "What does Gerald mean by calling the groom a penniless nobody and what is his stake in the marriage?",
+      "introduced_by": [
+        "EP04:E7",
+        "EP04:E89"
+      ]
+    },
+    {
+      "question": "What is the outcome for Juliana and the groom outside the chapel after they leave?",
+      "introduced_by": [
+        "EP04:E109"
+      ]
+    }
+  ]
+}

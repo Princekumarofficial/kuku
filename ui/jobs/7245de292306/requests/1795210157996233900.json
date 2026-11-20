@@ -1,0 +1,141 @@
+{
+  "stage": "candidate_discovery",
+  "system": "Find diverse promo opportunities, preferably 8-12 if supported. Return hook and unresolved ending anchors, not timestamps. A continuous clip must last 20-60 seconds with its hook in the first 3 seconds, understandable without prior context. Check the anchor timestamps: ending.end_ms minus hook.start_ms should be 20,000-60,000ms. Do not propose isolated 2-10 second moments. Both anchors and required context must fit in one supplied coverage interval. Ending anchors should precede resolution. Context refs must occur within the clip. Empty opportunities are valid when evidence is insufficient.",
+  "user": "EP=ep_042; timestamps are integer milliseconds\nSOURCE_SHA256=338a2e4416e23ccbdd35fce7a7bef8fe67e442cb023bacc55ae9a3f512aca696\nMETADATA ONLY (not on-screen evidence): {'logline': 'Emerging from the smoke of the shattered cathedral gates in full ducal regalia, Alexander confronts Rupert, wins the loyalty of the royal guards, and is proclaimed the rightful Duke of Ashburn by his weeping mother.', 'continuity_notes': \"Directly follows Episode 41 where Alexander's forces breached the cathedral entrance; Alexander now steps through the ruins, halting the wedding and unmasking Rupert's illegitimate reign.\"}\nSOURCE WARNINGS=['sc_001: incomplete source coverage; gaps are unavailable']\nSCENE sc_001 0-77800 INT. CATHEDRAL – CONTINUOUS\nEP42:E1 0-10500 CAMERA: Low-angle shot through drifting smoke and rubble across the stone floor, tilting up as polished boots step over splintered wood, revealing an imposing nobleman in a gold-embroidered navy coat.\nEP42:E2 1000-10500 ACTION: Alexander strides deliberately through the pulverized cathedral doorway. Dressed in the regal ducal coat with gold braided cuffs and a lion crest, his scarred face is set with cold, unyielding authority.\nEP42:E3 11200-12600 BLOND NOBLEMAN [Shocked, Trembling]: \"Who are you?\"\nEP42:E4 12800-14600 ALEXANDER [Low, Resonant]: \"You already know.\"\nEP42:E5 14600-16600 CAMERA: Close-up on Juliana, her manacled hands clutching at her smock as tears well in her eyes.\nEP42:E6 15000-16400 JULIANA [Breathless, Tearful Whisper]: \"Alexander...\"\nEP42:E7 16600-17900 CAMERA: Close-up on Alexander, his gaze softening momentarily toward her.\nEP42:E8 16800-17900 ALEXANDER [Gentle, Reassuring]: \"Juliana.\"\nEP42:E9 17900-21500 CAMERA: Medium shot of Rupert descending the altar steps, furiously pointing toward Alexander.\nEP42:E10 18000-21200 BLOND NOBLEMAN [Furious, Hysterical]: \"Guards! Arrest this imposter!\"\nEP42:E11 21500-23400 CAMERA: Medium shot of the royal guardsman standing rigidly in red uniform and bearskin cap, resting his white-gloved hand on his sabre.\nEP42:E12 22000-23400 ROYAL GUARD [Stoic, Defiant]: \"We will not.\"\nEP42:E13 23400-26500 CAMERA: Close-up on Rupert, veins bulging in his neck as his composure shatters.\nEP42:E14 23500-25200 BLOND NOBLEMAN [Screaming, Outraged]: \"I said arrest him!\"\nEP42:E15 25500-26500 BLOND NOBLEMAN [Desperate, Unhinged]: \"Why?!\"\nEP42:E16 26500-28800 CAMERA: Close-up on the Royal Guard holding his upright blade with unwavering conviction.\nEP42:E17 26700-28800 ROYAL GUARD [Firm, Reverent]: \"Because we know who he is.\"\nEP42:E18 28800-30400 CAMERA: Medium shot of Catherine clutching her father's arm, her bridal bouquet drooping as panic seizes her face.\nEP42:E19 29000-30300 CATHERINE [Trembling, Apprehensive]: \"Rupert...\"\nEP42:E20 30400-33800 CAMERA: Medium close-up of Rupert gripping the edge of a pew for balance, his eyes wild with terror.\nEP42:E21 30500-33800 BLOND NOBLEMAN [Denial, Shaken]: \"You cannot be him. Alexander died!\"\nEP42:E22 33800-39900 CAMERA: Wide tracking shot behind Alexander as he advances down the center aisle, silhouetted against the ruins of the cathedral nave.\nEP42:E23 34000-39800 ALEXANDER [Cold, Commanding]: \"And yet, here I stand. That is the lie you built your life upon.\"\nEP42:E24 39900-44800 CAMERA: Medium shot of an elderly silver-haired woman in simple ivory robes stepping into the aisle, her hands outstretched in trembling awe.\nEP42:E25 40200-42500 ALEXANDER'S MOTHER [Choked with Tears]: \"Alexander...\"\nEP42:E26 44800-48000 ACTION: Alexander halts his march as his mother reaches him, placing her frail hands gently upon his chest.\nEP42:E27 48000-49000 ALEXANDER [Soft, Reverent]: \"Mother.\"\nEP42:E28 49000-54000 ACTION: His mother gently cradles Alexander's scarred cheek, tears streaming down her face as guests in the background watch in stunned silence.\nEP42:E29 49200-53800 ALEXANDER'S MOTHER [Overcome, Loving]: \"Look at you... my beautiful boy.\"\nEP42:E30 54000-63500 CAMERA: Medium two-shot framed down the ruined nave between Alexander and his mother.\nEP42:E31 54000-61800 ALEXANDER'S MOTHER [Tearful, Proud]: \"I saw you again... but seeing you like this... I see my son as he was always meant to be.\"\nEP42:E32 62000-64000 ALEXANDER [Tender, Resolute]: \"I have come home, Mother.\"\nEP42:E33 64000-72500 ACTION: Alexander's mother turns toward the gathered nobility and guards, raising her chin and pointing proudly toward Alexander.\nEP42:E34 64200-72400 ALEXANDER'S MOTHER [Ringing, Authoritative]: \"Let everyone hear me! This is my son... Alexander Ashburn. The rightful Duke of Ashburn!\"\nEP42:E35 72500-73800 CAMERA: Medium shot of Rupert cowering on the altar steps beside Catherine and her father, utterly defeated.\nEP42:E36 73800-77800 CAMERA: Tight close-up on Alexander, his hand resting on the hilt of his sabre as his eyes burn with fierce, cold retribution.\nEP42:E37 73800-77500 ALEXANDER [Grim, Vengeful]: \"And now, Rupert... we settle what you stole.\"\nAVAILABLE COVERAGE (milliseconds)=[{\"start_ms\": 0, \"end_ms\": 10500}, {\"start_ms\": 11200, \"end_ms\": 12600}, {\"start_ms\": 12800, \"end_ms\": 77800}]\nEPISODE ANALYSIS={\"episode_id\":\"ep_042\",\"summary\":\"Evidence is limited to on-screen event text for scene sc_001 (EP42:E1 to EP42:E37, 0-77800 ms). The source is flagged as incomplete with unavailable gaps, so the sequence beyond these events is unknown. Metadata was not treated as evidence. The speaker tagged BLOND NOBLEMAN is identified as Rupert from camera labels (EP42:E9, EP42:E13, EP42:E35) and Catherine's address (EP42:E19); this identification is inferred. Alexander's mother is unnamed on screen apart from the proclamation of Alexander Ashburn (EP42:E34). Alexander's survival and the reason he was presumed dead remain unexplained. The on-screen events show Alexander entering the ruined cathedral, Rupert denying him, the royal guard refusing to arrest him, Alexander's mother recognizing and proclaiming him rightful Duke, and Alexander vowing retribution against Rupert. Nothing on screen confirms the wider legal status of the claim or what was stolen.\",\"characters\":[{\"name\":\"Alexander\",\"role\":\"Returning claimant in ducal regalia, recognized by his mother and the royal guard, who declares his intent to settle accounts with Rupert\"},{\"name\":\"Rupert\",\"role\":\"Blond nobleman at the wedding who orders Alexander's arrest, is presumed to hold the title, and is left defeated\"},{\"name\":\"Juliana\",\"role\":\"Manacled woman who reacts tearfully to Alexander; her circumstances are not explained\"},{\"name\":\"Royal Guard\",\"role\":\"Unnamed guardsman in red uniform who refuses Rupert's order and declares Alexander's identity is known\"},{\"name\":\"Catherine\",\"role\":\"Bride at the wedding, daughter of an unnamed father, who reacts with panic to Rupert\"},{\"name\":\"Alexander's Mother\",\"role\":\"Elderly silver-haired woman who recognizes Alexander and publicly proclaims him the rightful Duke of Ashburn\"}],\"beats\":[{\"id\":\"b1\",\"kind\":\"entrance\",\"event_refs\":[\"EP42:E1\",\"EP42:E2\"],\"description\":\"Alexander strides through the shattered cathedral doorway in ducal regalia with an authoritative bearing.\",\"intensity_0_10\":6.0},{\"id\":\"b2\",\"kind\":\"confrontation\",\"event_refs\":[\"EP42:E3\",\"EP42:E4\"],\"description\":\"The blond nobleman asks who Alexander is, and Alexander replies that he already knows.\",\"intensity_0_10\":7.0},{\"id\":\"b3\",\"kind\":\"reunion\",\"event_refs\":[\"EP42:E5\",\"EP42:E6\",\"EP42:E7\",\"EP42:E8\"],\"description\":\"Juliana, manacled, reacts tearfully to Alexander, who answers her softly.\",\"intensity_0_10\":5.0},{\"id\":\"b4\",\"kind\":\"authority_challenge\",\"event_refs\":[\"EP42:E9\",\"EP42:E10\",\"EP42:E11\",\"EP42:E12\"],\"description\":\"Rupert orders the guards to arrest the imposter, and the royal guard openly refuses.\",\"intensity_0_10\":8.0},{\"id\":\"b5\",\"kind\":\"breakdown\",\"event_refs\":[\"EP42:E13\",\"EP42:E14\",\"EP42:E15\",\"EP42:E16\",\"EP42:E17\"],\"description\":\"Rupert's composure collapses as he demands to know why, and the guard states they know who Alexander is.\",\"intensity_0_10\":8.0},{\"id\":\"b6\",\"kind\":\"denial\",\"event_refs\":[\"EP42:E18\",\"EP42:E19\",\"EP42:E20\",\"EP42:E21\"],\"description\":\"Catherine reacts with panic to Rupert, who in terror denies that Alexander can be the man he claims to be, saying Alexander died.\",\"intensity_0_10\":6.0},{\"id\":\"b7\",\"kind\":\"advance\",\"event_refs\":[\"EP42:E22\",\"EP42:E23\"],\"description\":\"Alexander advances down the aisle and declares that he stands here and that Rupert's life rests on a lie.\",\"intensity_0_10\":7.0},{\"id\":\"b8\",\"kind\":\"maternal_recognition\",\"event_refs\":[\"EP42:E24\",\"EP42:E25\",\"EP42:E26\",\"EP42:E27\",\"EP42:E28\",\"EP42:E29\"],\"description\":\"Alexander's mother steps into the aisle, reaches him, and embraces his scarred face in tears.\",\"intensity_0_10\":8.0},{\"id\":\"b9\",\"kind\":\"homecoming\",\"event_refs\":[\"EP42:E30\",\"EP42:E31\",\"EP42:E32\"],\"description\":\"Alexander's mother says she sees her son as he was meant to be, and Alexander states he has come home.\",\"intensity_0_10\":6.0},{\"id\":\"b10\",\"kind\":\"proclamation\",\"event_refs\":[\"EP42:E33\",\"EP42:E34\"],\"description\":\"Alexander's mother publicly proclaims him Alexander Ashburn, the rightful Duke of Ashburn, to the gathered nobility and guards.\",\"intensity_0_10\":9.0},{\"id\":\"b11\",\"kind\":\"defeat_and_vow\",\"event_refs\":[\"EP42:E35\",\"EP42:E36\",\"EP42:E37\"],\"description\":\"Rupert cowers on the altar steps, and Alexander, hand on his sabre, vows to settle what Rupert stole.\",\"intensity_0_10\":9.0}],\"revelations\":[{\"id\":\"r1\",\"event_refs\":[\"EP42:E21\",\"EP42:E23\",\"EP42:E34\"],\"claim\":\"The man before the court is claimed to be Alexander Ashburn, whom Rupert had said died; this identity is asserted on screen, not independently verified.\",\"spoiler_significance_0_10\":8.0,\"creates_questions\":[\"How did Alexander survive and where was he before returning?\",\"Is the claim to be Alexander Ashburn accepted beyond the cathedral?\"]},{\"id\":\"r2\",\"event_refs\":[\"EP42:E12\",\"EP42:E17\"],\"claim\":\"The royal guard refuses to arrest Alexander and states they know who he is, indicating recognition by at least one guard.\",\"spoiler_significance_0_10\":5.0,\"creates_questions\":[\"What do the other guards and nobles know or believe about Alexander?\"]},{\"id\":\"r3\",\"event_refs\":[\"EP42:E34\"],\"claim\":\"Alexander's mother publicly proclaims him the rightful Duke of Ashburn.\",\"spoiler_significance_0_10\":7.0,\"creates_questions\":[\"What legal or political basis supports the rightful title claim?\",\"What becomes of Rupert's rule after the proclamation?\"]},{\"id\":\"r4\",\"event_refs\":[\"EP42:E37\"],\"claim\":\"Alexander states that Rupert stole something he intends to settle, though what was stolen is not specified.\",\"spoiler_significance_0_10\":6.0,\"creates_questions\":[\"What exactly did Rupert steal, and how will Alexander settle it?\"]}],\"unresolved_questions\":[{\"question\":\"How did Alexander survive and why was he believed dead?\",\"introduced_by\":[\"EP42:E21\",\"EP42:E23\"]},{\"question\":\"Will the guards' and mother's recognition be accepted by the wider court and nobility?\",\"introduced_by\":[\"EP42:E12\",\"EP42:E17\",\"EP42:E34\"]},{\"question\":\"What did Rupert steal, and what form will Alexander's retribution take?\",\"introduced_by\":[\"EP42:E37\"]},{\"question\":\"What is Juliana's situation and why is she manacled?\",\"introduced_by\":[\"EP42:E5\",\"EP42:E6\"]},{\"question\":\"What is Catherine's relationship to Rupert and her father, and how will the wedding's collapse affect her?\",\"introduced_by\":[\"EP42:E18\",\"EP42:E19\"]}]}\nSERIES CONTEXT={\"series_id\":\"series_001\",\"premise\":\"Lady Juliana is publicly jilted at the altar when her fiance Gerald chooses her sister Clarissa, and her family rejects her. She marries a scarred, unnamed Bearded Man (later revealed on screen as Alexander, a presumed-dead soldier and Duke), and the couple is repeatedly targeted by antagonists. Juliana uses her late mother's herbal knowledge to heal the sick, which draws accusations of witchcraft and poisoning, while Alexander's return and claim to his ducal title set up a confrontation with the conspirators who hid his survival.\",\"arcs\":[{\"id\":\"arc_jilting_and_family_rejection\",\"description\":\"Juliana is jilted at the altar by Gerald, humiliated by her sister Clarissa and disowned by her family, which sets off the series' central betrayal.\",\"beat_refs\":[{\"episode_id\":\"ep_001\",\"beat_id\":\"B02\"},{\"episode_id\":\"ep_001\",\"beat_id\":\"B03\"},{\"episode_id\":\"ep_001\",\"beat_id\":\"B09\"},{\"episode_id\":\"ep_001\",\"beat_id\":\"B10\"},{\"episode_id\":\"ep_002\",\"beat_id\":\"b01\"},{\"episode_id\":\"ep_002\",\"beat_id\":\"b05\"},{\"episode_id\":\"ep_003\",\"beat_id\":\"b3\"},{\"episode_id\":\"ep_004\",\"beat_id\":\"B11\"}]},{\"id\":\"arc_exile_and_marriage_to_the_bearded_man\",\"description\":\"After the rejection, the unnamed Bearded Man intervenes, offers Juliana a ring and a vow, and the couple leaves the family behind to live in hardship in a cottage.\",\"beat_refs\":[{\"episode_id\":\"ep_003\",\"beat_id\":\"b9\"},{\"episode_id\":\"ep_004\",\"beat_id\":\"B8\"},{\"episode_id\":\"ep_004\",\"beat_id\":\"B9\"},{\"episode_id\":\"ep_005\",\"beat_id\":\"b1\"},{\"episode_id\":\"ep_005\",\"beat_id\":\"b3\"},{\"episode_id\":\"ep_006\",\"beat_id\":\"b2\"},{\"episode_id\":\"ep_006\",\"beat_id\":\"b8\"}]},{\"id\":\"arc_healing_and_poisoning_conspiracy\",\"description\":\"Juliana's herbal healing draws her into the household of the ailing Dowager Duchess, where she uncovers evidence of arsenic poisoning and is pulled into a dangerous conflict with Catherine and Rupert.\",\"beat_refs\":[{\"episode_id\":\"ep_009\",\"beat_id\":\"b02\"},{\"episode_id\":\"ep_022\",\"beat_id\":\"B6\"},{\"episode_id\":\"ep_023\",\"beat_id\":\"beat_2\"},{\"episode_id\":\"ep_023\",\"beat_id\":\"beat_6\"},{\"episode_id\":\"ep_024\",\"beat_id\":\"B7\"},{\"episode_id\":\"ep_025\",\"beat_id\":\"b5\"},{\"episode_id\":\"ep_026\",\"beat_id\":\"b6\"},{\"episode_id\":\"ep_028\",\"beat_id\":\"b4\"}]},{\"id\":\"arc_frame_up_and_imprisonment\",\"description\":\"Juliana and Alexander are framed with a stolen watch and with witchcraft and poisoning charges, leading to Juliana's arrest, torture and public trial.\",\"beat_refs\":[{\"episode_id\":\"ep_011\",\"beat_id\":\"b6\"},{\"episode_id\":\"ep_012\",\"beat_id\":\"B6\"},{\"episode_id\":\"ep_029\",\"beat_id\":\"b07\"},{\"episode_id\":\"ep_031\",\"beat_id\":\"b9\"},{\"episode_id\":\"ep_034\",\"beat_id\":\"B9\"}]},{\"id\":\"arc_alexander_return_and_reclamation\",\"description\":\"Alexander's survival is revealed after an ambush he was believed to have died in, and he moves to expose the conspirators who hid him, reclaim his title and rescue Juliana before her execution.\",\"beat_refs\":[{\"episode_id\":\"ep_035\",\"beat_id\":\"b7\"},{\"episode_id\":\"ep_036\",\"beat_id\":\"b8\"},{\"episode_id\":\"ep_039\",\"beat_id\":\"B5\"},{\"episode_id\":\"ep_042\",\"beat_id\":\"b11\"},{\"episode_id\":\"ep_045\",\"beat_id\":\"B6\"},{\"episode_id\":\"ep_046\",\"beat_id\":\"B2\"}]}],\"key_revelations\":[{\"episode_id\":\"ep_001\",\"revelation_id\":\"R01\",\"prerequisite_context\":[\"Gerald is holding the hand of the Lady in Gold Gown at the altar\",\"The Lady in Gold Gown states that Gerald is marrying her\"]},{\"episode_id\":\"ep_001\",\"revelation_id\":\"R02\",\"prerequisite_context\":[\"The Lady in Gold Gown knew of the betrayal in advance\",\"She says Gerald was never going to marry Juliana\"]},{\"episode_id\":\"ep_004\",\"revelation_id\":\"R4\",\"prerequisite_context\":[\"The priest pronounces the couple husband and wife in an off-screen voice\",\"The priest had earlier hesitated before proceeding\"]},{\"episode_id\":\"ep_011\",\"revelation_id\":\"r1\",\"prerequisite_context\":[\"Gerald accuses Alexander of stealing his gold pocket watch\",\"The Constable finds a gold pocket watch inside Alexander's coat\"]},{\"episode_id\":\"ep_023\",\"revelation_id\":\"rev_2\",\"prerequisite_context\":[\"Juliana's late mother's journal records toxic symptoms matching the Duchess's condition\",\"Juliana asserts that someone is poisoning the Duchess\"]},{\"episode_id\":\"ep_027\",\"revelation_id\":\"r1\",\"prerequisite_context\":[\"The Duchess says the ring bears the Ashbourne crest\",\"Juliana says her husband gave her the ring\"]},{\"episode_id\":\"ep_028\",\"revelation_id\":\"r3\",\"prerequisite_context\":[\"Catherine reads the herbarium inscription Juliana Ashcroft\",\"Catherine names her Lady Juliana Ashcroft\"]},{\"episode_id\":\"ep_035\",\"revelation_id\":\"r2\",\"prerequisite_context\":[\"Alexander says the ambush was ordered to erase him\",\"Alexander says someone wanted his mother to believe he was dead\"]},{\"episode_id\":\"ep_036\",\"revelation_id\":\"r7\",\"prerequisite_context\":[\"Juliana was arrested and accused of poisoning Alexander\",\"The mother reports that Juliana was condemned by a magistrate\"]},{\"episode_id\":\"ep_045\",\"revelation_id\":\"R1\",\"prerequisite_context\":[\"Alexander kneels before Juliana and unchains her\",\"Alexander identifies himself as Alexander Ashburton, the rightful Duke\"]}]}",
+  "schema": {
+    "$defs": {
+      "EpisodeOpportunity": {
+        "additionalProperties": false,
+        "properties": {
+          "scope": {
+            "const": "episode",
+            "title": "Scope",
+            "type": "string"
+          },
+          "local_id": {
+            "title": "Local Id",
+            "type": "string"
+          },
+          "episode_id": {
+            "title": "Episode Id",
+            "type": "string"
+          },
+          "concept": {
+            "title": "Concept",
+            "type": "string"
+          },
+          "hook_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Hook Refs",
+            "type": "array"
+          },
+          "ending_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Ending Refs",
+            "type": "array"
+          },
+          "context_refs": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Context Refs",
+            "type": "array"
+          },
+          "why_promising": {
+            "title": "Why Promising",
+            "type": "string"
+          }
+        },
+        "required": [
+          "scope",
+          "local_id",
+          "episode_id",
+          "concept",
+          "hook_refs",
+          "ending_refs",
+          "context_refs",
+          "why_promising"
+        ],
+        "title": "EpisodeOpportunity",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "opportunities": {
+        "items": {
+          "$ref": "#/$defs/EpisodeOpportunity"
+        },
+        "title": "Opportunities",
+        "type": "array"
+      }
+    },
+    "required": [
+      "opportunities"
+    ],
+    "title": "EpisodeDiscovery",
+    "type": "object"
+  },
+  "state": "complete",
+  "output": {
+    "opportunities": [
+      {
+        "scope": "episode",
+        "local_id": "opp_1",
+        "episode_id": "ep_042",
+        "concept": "Rupert orders the guards to arrest the imposter and the royal guard refuses, through the mother's public proclamation of Alexander as rightful Duke, ending on Alexander's vow to settle what Rupert stole.",
+        "hook_refs": [
+          "EP42:E10"
+        ],
+        "ending_refs": [
+          "EP42:E37"
+        ],
+        "context_refs": [
+          "EP42:E12",
+          "EP42:E17",
+          "EP42:E34"
+        ],
+        "why_promising": "A 59.5-second span from 18000 to 77500 ms opens on a direct command, builds through defiance and recognition, and closes on an unresolved threat against Rupert. It stays within the continuous 12800-77800 ms coverage."
+      },
+      {
+        "scope": "episode",
+        "local_id": "opp_2",
+        "episode_id": "ep_042",
+        "concept": "Alexander advances on Rupert with the line 'That is the lie you built your life upon,' then his mother embraces him and proclaims him the rightful Duke, ending on his vow of retribution.",
+        "hook_refs": [
+          "EP42:E23"
+        ],
+        "ending_refs": [
+          "EP42:E37"
+        ],
+        "context_refs": [
+          "EP42:E34"
+        ],
+        "why_promising": "A 43.5-second span from 34000 to 77500 ms starts on a strong confrontational line and reaches a payoff in the mother's proclamation before the unresolved vow. Both anchors and the proclamation lie within the 12800-77800 ms coverage."
+      },
+      {
+        "scope": "episode",
+        "local_id": "opp_3",
+        "episode_id": "ep_042",
+        "concept": "Alexander answers 'You already know' to the blond nobleman, and the clip runs through Rupert's demand for arrest and guard defiance to Rupert's denial that Alexander died.",
+        "hook_refs": [
+          "EP42:E4"
+        ],
+        "ending_refs": [
+          "EP42:E21"
+        ],
+        "context_refs": [
+          "EP42:E10",
+          "EP42:E12"
+        ],
+        "why_promising": "A 21-second span from 12800 to 33800 ms opens on a challenging line and ends on a shocked denial that leaves the question of Alexander's survival open. It stays within the 12800-77800 ms coverage and does not depend on the gap-adjacent 11200-12600 ms segment."
+      }
+    ]
+  }
+}

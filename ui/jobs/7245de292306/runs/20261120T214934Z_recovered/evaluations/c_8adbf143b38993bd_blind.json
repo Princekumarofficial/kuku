@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_8adbf143b38993bd",
+  "hook": {
+    "score_0_10": 5.0,
+    "evidence_refs": [
+      "EP06:E37",
+      "EP06:E38"
+    ],
+    "reason": "The opening line 'I am sorry.' from a man in dim light creates a mild question, but with no visible stakes or known setup the hook is modest. Evidence starts within 0-3000ms as required."
+  },
+  "cliffhanger": {
+    "score_0_10": 3.0,
+    "evidence_refs": [
+      "EP06:E63",
+      "EP06:E64"
+    ],
+    "reason": "The clip ends on Juliana's line about what she lost and the man's motionless empathetic look, which leaves her emotional thread open. The plot does not pose a concrete unanswered question, so the cliffhanger is weak.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Identity and relationship of the Mysterious Bearded Man and Juliana",
+      "What 'this' home and the earlier 'comfort' refer to",
+      "Why Juliana is damp and wearing a bridal dress",
+      "What she lost and why the man is apologizing",
+      "Why the rustic interior is a significant change"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 6.0,
+    "reason": "Juliana's suppressed grief in the closing line and the man's empathetic stillness create real emotional weight, though the viewer lacks the backstory to feel it fully."
+  },
+  "weaknesses": [
+    "Heavy reliance on unexplained references such as 'comfort' and 'everything I lost' without context",
+    "Hook depends on an apology with no stated cause",
+    "Ending is emotional rather than a plot-driven unresolved question",
+    "Scene is slow with long static shots and little action beyond cleaning",
+    "Dialogue and visuals imply a backstory the clip does not establish"
+  ],
+  "one_line_why_it_works": "A quiet, emotionally raw moment of a woman scrubbing a table to hold back grief, mirrored by a silent, empathetic man, gives the clip a clear emotional tone even without context."
+}

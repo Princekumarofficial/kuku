@@ -1,0 +1,142 @@
+{
+  "schema_version": "1.0",
+  "series_id": "series_001",
+  "scope": {
+    "type": "episode",
+    "episode_id": "ep_039"
+  },
+  "promos": [
+    {
+      "candidate_id": "c_10693ed7c7cf2c82",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 29600,
+          "end_ms": 82200,
+          "episode_id": "ep_039"
+        }
+      ],
+      "duration_ms": 52600,
+      "hook": {
+        "description": "The clip opens within 0-3000ms on a tense checkpoint: a royal sentry halts a cart with 'Stop!' and the driver suddenly lunges and tackles him. The sudden violence gives an immediate reason to keep watching.",
+        "evidence_refs": [
+          "EP39:E18",
+          "EP39:E19",
+          "EP39:E21",
+          "EP39:E22"
+        ]
+      },
+      "cliffhanger": {
+        "description": "The final 3000ms ends on Alexander's hardened expression and the order 'Secure the chapel' while his loyalists are still mid-operation. The clip does not show the chapel outcome, so the situation is open, though the tension is partly a call to action rather than a sharp unanswered question.",
+        "evidence_refs": [
+          "EP39:E49",
+          "EP39:E50"
+        ]
+      },
+      "why_it_works": "A sudden violent ambush at the opening creates immediate tension, and the dramatic transformation of Alexander into a ducal figure ends on a clear order that leaves the mission open.",
+      "scores": {
+        "hook": 8.0,
+        "cliffhanger": 6.0,
+        "standalone": 5.0,
+        "emotion": 7.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 6.5
+      },
+      "warnings": [
+        "Without prior context, the stakes of the operation and Alexander's identity are unclear to a first-time viewer",
+        "The motives and relationships of the loyalists are not established",
+        "The chapel's significance is never explained, so 'Secure the chapel' lacks weight",
+        "The transformation sequence is long relative to the plot advancement, which slows momentum after the opening action",
+        "Spoilers not checked",
+        "Who Alexander Ashwin is and why he was exiled or presumed dead",
+        "What the Duke's role is and why the loyalists are acting against the royal guard",
+        "Why the cathedral or chapel matters and what the coup or uprising is",
+        "What 'Today, he comes home' implies about his former status",
+        "Who the cart driver and second loyalist are beyond their actions",
+        "Why the royal guards are at the cathedral steps and what the stakes are",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 1,
+      "promo_id": "p_001"
+    },
+    {
+      "candidate_id": "c_ec6117177e5de0eb",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 59800,
+          "end_ms": 98000,
+          "episode_id": "ep_039"
+        }
+      ],
+      "duration_ms": 38200,
+      "hook": {
+        "description": "The opening shear sounds and the grooming shot draw attention, and the spoken line 'Enough hiding.' at 2200-3000ms gives a strong early promise of a dramatic reversal. The hook is strong but depends on the viewer accepting a 'buried' identity that is not explained in the clip.",
+        "evidence_refs": [
+          "EP39:E36",
+          "EP39:E40",
+          "EP39:E41"
+        ]
+      },
+      "cliffhanger": {
+        "description": "The clip ends on the declaration 'And I am bringing my wife home' followed by a sharp cut to black, which leaves the stated goal of retrieving his wife unfulfilled. It reads more as a dramatic declaration than a true cliffhanger, since the clip contains no visible threat or revelation at its end.",
+        "evidence_refs": [
+          "EP39:E58",
+          "EP39:E57",
+          "EP39:E59"
+        ]
+      },
+      "why_it_works": "A visually polished reclaiming-of-power sequence with a defiant escalation of spoken declarations that ends on a stated personal goal and a hard cut to black.",
+      "scores": {
+        "hook": 7.0,
+        "cliffhanger": 6.0,
+        "standalone": 5.0,
+        "emotion": 7.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 6.2
+      },
+      "warnings": [
+        "Heavy reliance on unexplained backstory such as the burial, the house, and the wife",
+        "The chapel's significance is never established before the soldier is ordered to secure it",
+        "The ending line about the wife lands without visible personal stakes shown in the clip",
+        "Dialogue-heavy declarations may feel expository to a viewer with no prior context",
+        "Spoilers not checked",
+        "Who Alexander Ashwin is and why he was buried three years ago",
+        "Who the wife is and why she is absent or needs bringing home",
+        "What the chapel is and why the loyalist must secure it",
+        "Why Alexander's house was taken and who holds it",
+        "The meaning of his ducal title and the political situation",
+        "The source of the combat scar and reclaimed power",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 2,
+      "promo_id": "p_002"
+    }
+  ],
+  "construction": {
+    "opportunities": 4,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "PARTIAL_DIALOGUE": 109,
+      "DURATION_OUT_OF_RANGE": 1032
+    }
+  },
+  "rejected_candidates": [
+    {
+      "candidate_id": "c_3d4c709012cb38e5",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_e65480595f10cc66",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    }
+  ]
+}

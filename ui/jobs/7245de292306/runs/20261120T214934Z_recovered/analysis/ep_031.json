@@ -1,0 +1,291 @@
+{
+  "episode_id": "ep_031",
+  "summary": "Scene sc_001 (0-160000 ms, subterranean wet cells, night) shows Catherine interrogating the chained Juliana with a red-hot poker and her mother's botanical book, ending on a cliffhanger with the iron swung toward Juliana's face. Source coverage is incomplete per the warning 'sc_001: incomplete source coverage; gaps are unavailable', so unseen events and timing between gaps are uncertain. Metadata is not on-screen evidence; its references to Episode 30, Rupert, and the framing plot are unverified here and are not used as event evidence. Gerald's and Clarisse's/Clarissa's roles and the nature of Juliana's marriage rest only on spoken claims by Catherine and Juliana, and the name is spelled Clarisse at EP31:E29 and Clarissa at EP31:E35, which may be a transcription inconsistency. Whether Juliana is actually married, and the truth of Gerald's motives, are not established on screen.",
+  "characters": [
+    {
+      "name": "Juliana Ashcroft",
+      "role": "Chained heiress and prisoner in the wet cells; proud, defiant protagonist under psychological attack"
+    },
+    {
+      "name": "Catherine",
+      "role": "Antagonist who holds the poker and the botanical book and torments Juliana; surname not given on screen"
+    },
+    {
+      "name": "Gerald",
+      "role": "Referenced only; per Catherine and Juliana's claims, he left Juliana at the altar and chose money; not seen on screen"
+    },
+    {
+      "name": "Clarisse/Clarissa",
+      "role": "Referenced only; per claims, the woman Gerald chose; not seen on screen; spelling inconsistent"
+    },
+    {
+      "name": "Stone-faced guards",
+      "role": "Unnamed guards with lanterns who flank Catherine at the door; present only at EP31:E5"
+    }
+  ],
+  "beats": [
+    {
+      "id": "b1",
+      "kind": "setup",
+      "event_refs": [
+        "EP31:E1",
+        "EP31:E2",
+        "EP31:E3",
+        "EP31:E4"
+      ],
+      "description": "The cell door is unbolted and opened; Juliana, chained against the wall, recoils in terror as light floods in.",
+      "intensity_0_10": 4.0
+    },
+    {
+      "id": "b2",
+      "kind": "confrontation",
+      "event_refs": [
+        "EP31:E5",
+        "EP31:E6",
+        "EP31:E7",
+        "EP31:E8",
+        "EP31:E9",
+        "EP31:E10",
+        "EP31:E11",
+        "EP31:E12",
+        "EP31:E13"
+      ],
+      "description": "Catherine enters with a smoldering poker and charred book and taunts the chained Juliana; Juliana answers with steady defiance.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b3",
+      "kind": "escalation",
+      "event_refs": [
+        "EP31:E16",
+        "EP31:E17",
+        "EP31:E18",
+        "EP31:E19",
+        "EP31:E20",
+        "EP31:E21",
+        "EP31:E22",
+        "EP31:E23"
+      ],
+      "description": "Catherine presents the singed botanical book and mocks Juliana's upbringing; Juliana retorts that she became a disgrace only by refusing cruelty.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b4",
+      "kind": "escalation",
+      "event_refs": [
+        "EP31:E24",
+        "EP31:E25",
+        "EP31:E26",
+        "EP31:E27",
+        "EP31:E28",
+        "EP31:E29",
+        "EP31:E30",
+        "EP31:E31",
+        "EP31:E32"
+      ],
+      "description": "Catherine brings up Gerald leaving Juliana at the altar and Clarisse/Clarissa, while the red-hot iron hovers near the floor.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b5",
+      "kind": "counterattack",
+      "event_refs": [
+        "EP31:E33",
+        "EP31:E34",
+        "EP31:E35",
+        "EP31:E36",
+        "EP31:E37",
+        "EP31:E38",
+        "EP31:E39",
+        "EP31:E40",
+        "EP31:E41",
+        "EP31:E42",
+        "EP31:E43",
+        "EP31:E44"
+      ],
+      "description": "Juliana states her own choices, asserting that she chose herself and a man of honor; Catherine sneers at him as a beggar and scarred nobody.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b6",
+      "kind": "confrontation",
+      "event_refs": [
+        "EP31:E45",
+        "EP31:E46",
+        "EP31:E47",
+        "EP31:E48",
+        "EP31:E49",
+        "EP31:E50",
+        "EP31:E51",
+        "EP31:E52",
+        "EP31:E53",
+        "EP31:E54",
+        "EP31:E55",
+        "EP31:E56"
+      ],
+      "description": "Catherine questions whether Juliana's marriage is real; Juliana answers that it is love, and the two trade cutting remarks on love and cruelty.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b7",
+      "kind": "confrontation",
+      "event_refs": [
+        "EP31:E57",
+        "EP31:E58",
+        "EP31:E59",
+        "EP31:E60",
+        "EP31:E61",
+        "EP31:E62",
+        "EP31:E63",
+        "EP31:E64",
+        "EP31:E65",
+        "EP31:E66",
+        "EP31:E67",
+        "EP31:E68",
+        "EP31:E69"
+      ],
+      "description": "Catherine boasts of her privilege; Juliana counters with knowledge, love, and people who need her, and her challenge to Catherine's power lands.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "b8",
+      "kind": "turning_point",
+      "event_refs": [
+        "EP31:E70",
+        "EP31:E71",
+        "EP31:E72",
+        "EP31:E73",
+        "EP31:E74",
+        "EP31:E75",
+        "EP31:E76",
+        "EP31:E77",
+        "EP31:E78",
+        "EP31:E79",
+        "EP31:E80",
+        "EP31:E81",
+        "EP31:E82"
+      ],
+      "description": "Catherine loses control, presses the poker onto the botanical book, and Juliana breaks into grief and pleads for its return.",
+      "intensity_0_10": 9.0
+    },
+    {
+      "id": "b9",
+      "kind": "cliffhanger",
+      "event_refs": [
+        "EP31:E83",
+        "EP31:E84",
+        "EP31:E85",
+        "EP31:E86",
+        "EP31:E87"
+      ],
+      "description": "Catherine threatens to burn the book entirely, then swings the glowing iron toward Juliana's face; it stops inches from her eyes and the episode cuts on the reflected ember in her pupil.",
+      "intensity_0_10": 10.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "r1",
+      "event_refs": [
+        "EP31:E25",
+        "EP31:E29",
+        "EP31:E32"
+      ],
+      "claim": "Catherine claims Gerald left Juliana standing at the altar and chose Clarisse/Clarissa, and that everyone saw it.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "Why did Gerald leave Juliana at the altar?",
+        "Is Catherine's account of the wedding accurate?"
+      ]
+    },
+    {
+      "id": "r2",
+      "event_refs": [
+        "EP31:E34",
+        "EP31:E35",
+        "EP31:E36"
+      ],
+      "claim": "Juliana claims Gerald chose money and that Clarissa chose a coward, while she herself chose herself.",
+      "spoiler_significance_0_10": 5.0,
+      "creates_questions": [
+        "What did Gerald and Clarisse/Clarissa actually do?",
+        "Is Juliana's account reliable?"
+      ]
+    },
+    {
+      "id": "r3",
+      "event_refs": [
+        "EP31:E40",
+        "EP31:E42",
+        "EP31:E44",
+        "EP31:E46",
+        "EP31:E48"
+      ],
+      "claim": "Juliana claims she married a man of honor whom Catherine calls a beggar and a scarred nobody; Juliana insists it is love, not a mere marriage, and Catherine disputes that it is a marriage.",
+      "spoiler_significance_0_10": 7.0,
+      "creates_questions": [
+        "Who is Juliana's husband and where is he?",
+        "Is Juliana legally married?"
+      ]
+    },
+    {
+      "id": "r4",
+      "event_refs": [
+        "EP31:E61",
+        "EP31:E72",
+        "EP31:E75",
+        "EP31:E83"
+      ],
+      "claim": "Catherine states the botanical book is the only thing Juliana still has from her mother, and it is partly burned.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "Will the book be destroyed completely?",
+        "What does the book mean to Juliana beyond sentiment?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "Will Catherine burn the rest of the botanical book?",
+      "introduced_by": [
+        "EP31:E83",
+        "EP31:E84"
+      ]
+    },
+    {
+      "question": "Will Catherine's glowing iron strike Juliana's face?",
+      "introduced_by": [
+        "EP31:E85",
+        "EP31:E86",
+        "EP31:E87"
+      ]
+    },
+    {
+      "question": "Who is Juliana's husband, and is he alive, present, or looking for her?",
+      "introduced_by": [
+        "EP31:E40",
+        "EP31:E44",
+        "EP31:E46"
+      ]
+    },
+    {
+      "question": "Why did Gerald leave Juliana at the altar and choose Clarisse/Clarissa?",
+      "introduced_by": [
+        "EP31:E25",
+        "EP31:E29"
+      ]
+    },
+    {
+      "question": "Is the spelling Clarisse or Clarissa correct, and are they the same person?",
+      "introduced_by": [
+        "EP31:E29",
+        "EP31:E35"
+      ]
+    },
+    {
+      "question": "What happened in the unseen gaps of sc_001, and how do the Episode 30 events referenced in metadata connect?",
+      "introduced_by": [
+        "EP31:E87"
+      ]
+    }
+  ]
+}

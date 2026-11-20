@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.0",
+  "series_id": "series_001",
+  "scope": {
+    "type": "episode",
+    "episode_id": "ep_040"
+  },
+  "promos": [
+    {
+      "candidate_id": "c_ee76ac2c46d18ae1",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 28900,
+          "end_ms": 53200,
+          "episode_id": "ep_040"
+        }
+      ],
+      "duration_ms": 24300,
+      "hook": {
+        "description": "The opening close-up of a cold, ruthless man looking down at a woman, followed by a curt 'Good.', creates immediate tension, but no stakes are yet clear to a first-time viewer.",
+        "evidence_refs": [
+          "EP40:E13",
+          "EP40:E15",
+          "EP40:E16"
+        ]
+      },
+      "cliffhanger": {
+        "description": "The clip ends with Rupert nervously stressing that everything must go perfectly as the wedding is about to begin, while the Harringtons watch with a knowing smirk. The outcome of the wedding is not shown, so the tension is left open.",
+        "evidence_refs": [
+          "EP40:E24",
+          "EP40:E25",
+          "EP40:E26",
+          "EP40:E27"
+        ]
+      },
+      "why_it_works": "Cold, smug villains gloat in a church as a nervous groom-side figure fears the wedding will go wrong, leaving the outcome unresolved.",
+      "scores": {
+        "hook": 6.0,
+        "cliffhanger": 7.0,
+        "standalone": 5.0,
+        "emotion": 7.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 6.2
+      },
+      "warnings": [
+        "Several lines reference unexplained people and events, so a first-time viewer cannot tell who the characters are to each other",
+        "The reason for the hostility toward Juliana is never established",
+        "Rupert's role is unclear beyond a label, reducing the impact of his nervousness",
+        "The hook depends on the viewer caring about the Harringtons before any stakes are shown",
+        "Spoilers not checked",
+        "Who Juliana is and why the place is unlucky for her",
+        "Which wedding is taking place and who is marrying whom",
+        "Who Rupert is and his relationship to the Harringtons",
+        "The meaning of 'Good.' and what Lady Harrington has done to deserve the remark",
+        "The significance of 'exactly what she deserves' and the reference to 'everything that comes after it'",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 1,
+      "promo_id": "p_001"
+    }
+  ],
+  "construction": {
+    "opportunities": 4,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "REQUIRED_CONTEXT_OUTSIDE_CLIP": 3,
+      "PARTIAL_DIALOGUE": 1,
+      "DURATION_OUT_OF_RANGE": 228
+    }
+  },
+  "rejected_candidates": [
+    {
+      "candidate_id": "c_d0309feb9df5ccd8",
+      "reasons": [
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_d038d3f2df46b782",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_de7243504249b884",
+      "reasons": [
+        "WEAK_HOOK",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "candidate_id": "c_51983e8a35ddc017",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP18:E66",
+      "EP18:E67"
+    ],
+    "reason": "The clip opens within 0-3000ms on a wide shot of a cottage fully engulfed in flames, and the first line, 'Our home...', signals an immediate loss."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP18:E71",
+      "EP18:E74"
+    ],
+    "reason": "The clip ends on 'Someone wanted us out.' within the final 3000ms, which implies deliberate arson, but the culprit and motive stay unknown, so the question 'Why would anyone do this?' is left open. The ending is not a resolved intense moment.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Identity and relationship of Juliana and Alexander",
+      "Why the cottage mattered and what was lost beyond the home",
+      "Who might have wanted them out and why",
+      "How the fire started and what happened before the clip"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Juliana's trembling hand, Alexander's protective embrace, and her uncontrolled weeping convey strong grief and distress."
+  },
+  "weaknesses": [
+    "Characters are not introduced, so their roles and stakes are unclear to a first-time viewer.",
+    "The threat behind 'Someone wanted us out' is unexplained, which weakens the payoff of the final line.",
+    "Long action beats with little dialogue make the middle section feel slow without context.",
+    "The clip gives no indication of what the couple will do next, so the emotional beat lacks forward momentum."
+  ],
+  "one_line_why_it_works": "A devastating opening image of a burning home leads into raw grief and a chilling final line that suggests the fire was deliberate."
+}

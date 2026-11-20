@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_dd824cbfee62a14e DURATION_MS=27500\nSEGMENT 1 (playback order)\nEP43:E32 0-2000 CAMERA: Two-shot of Alexander handing the dossier to a Crown Military Magistrate wearing white gloves and a high-collared black uniform.\nEP43:E33 200-2000 ACTION: The Crown Official receives the dossier solemnly with both hands.\nEP43:E34 2000-7800 CAMERA: Medium close-up on the Crown Official opening the binder and reading aloud.\nEP43:E35 2200-3600 SOUND: Crisp sound of parchment turning.\nEP43:E36 2800-7500 CROWN OFFICIAL: \"Military Intelligence Report, Iberian front, three years ago.\"\nEP43:E37 7800-8900 CAMERA: Close-up on Rupert staring wide-eyed, completely petrified.\nEP43:E38 8900-12800 CAMERA: Medium close-up on the Crown Official continuing the official reading.\nEP43:E39 9000-12400 CROWN OFFICIAL: \"Duke Alexander Ashburn's unit was ambushed after his location was compromised.\"\nEP43:E40 12800-15800 CAMERA: Frontal medium shot of the Crown Official turning a page as the congregation listens in breathless silence.\nEP43:E41 12800-15800 CROWN OFFICIAL: \"The report identifies the leak as deliberate.\"\nEP43:E42 15800-19800 CAMERA: Wide shot across the rubble of the cathedral floor showing Rupert crumbling in fear against the choir railing.\nEP43:E43 16000-19400 CROWN OFFICIAL: \"Information regarding the Duke's position was transmitted through British channels.\"\nEP43:E44 16800-19800 ACTION: Rupert staggers backward, his knees buckling as he leans his weight heavily on the stone balustrade.\nEP43:E45 19800-22000 CAMERA: Close-up on Rupert clinging to the stone pillar, his breath shallow and terrified.\nEP43:E46 20000-21500 BLOND NOBLEMAN: \"No...\"\nEP43:E47 22000-25000 CAMERA: Medium shot on Alexander stepping forward, thrusting the secondary dossier forward.\nEP43:E48 23500-25000 ALEXANDER: \"Read the names.\"\nEP43:E49 25000-27500 CAMERA: Medium close-up on the Crown Official reading the concluding section.\nEP43:E50 25600-27500 CROWN OFFICIAL: \"Lord Henry Sterling.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

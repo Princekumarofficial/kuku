@@ -1,0 +1,40 @@
+{
+  "candidate_id": "c_357065232913879f",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP18:E10",
+      "EP18:E11",
+      "EP18:E12"
+    ],
+    "reason": "The clip opens within 0-3000ms with Juliana huddled, coughing and sobbing, then a violent door kick at 1700ms, which creates immediate tension and urgency."
+  },
+  "cliffhanger": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP18:E23",
+      "EP18:E25"
+    ],
+    "reason": "In the final 3000ms, flames completely seal their exit and Juliana says 'We cannot get through!' No escape is shown, so the situation is left unresolved at the clip's end.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 6.0,
+    "missing_context": [
+      "Who Juliana and Alexander are and how they relate",
+      "Where the building is and how the fire started",
+      "Why Juliana's hands are bandaged and why she is sobbing before the clip begins",
+      "What happened before Alexander arrived"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Juliana's coughing, sobbing and recoil from the heat, together with Alexander's urgent embrace and protective coat, produce strong fear and tension."
+  },
+  "weaknesses": [
+    "Without prior context, the relationship between the characters and the stakes beyond immediate danger are unclear",
+    "The clip relies on visible fire and urgency rather than established personal stakes",
+    "Dialogue is sparse, so the characters' motives are only partly conveyed"
+  ],
+  "one_line_why_it_works": "A sudden door breach, a sealed fire-filled exit and Juliana's cry 'We cannot get through!' deliver immediate peril and an unresolved ending."
+}

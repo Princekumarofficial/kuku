@@ -1,0 +1,1155 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "ep_037",
+  "episode_number": 37,
+  "metadata": {
+    "logline": "As Rupert and Catherine issue wedding invitations paired with Juliana's public execution decree to terrorize the county, Juliana endures starvation in the dungeon, refusing to break her spirit.",
+    "continuity_notes": "Following Alexander's vow to return in two days to disrupt the wedding, Rupert and Catherine prepare to cement their coup by inviting high society to celebrate their nuptials and witness Juliana's execution."
+  },
+  "source": {
+    "file": "036_episode-037-Episode 1681370.txt",
+    "sha256": "a76d8261a5e8423038f50c4f78f9dfd15fe90fbbc900e06f579de5e943163e2e",
+    "complete": true
+  },
+  "scenes": [
+    {
+      "start_ms": 0,
+      "end_ms": 34500,
+      "id": "sc_001",
+      "heading": "INT. ASHBRIDGE MANOR - GRAND CORRIDOR – DAY"
+    },
+    {
+      "start_ms": 34500,
+      "end_ms": 88000,
+      "id": "sc_002",
+      "heading": "INT. NOBLE MANOR - PARLOR – DAY"
+    },
+    {
+      "start_ms": 88000,
+      "end_ms": 116500,
+      "id": "sc_003",
+      "heading": "INT. ASHBRIDGE DUNGEON – CONTINUOUS"
+    },
+    {
+      "start_ms": 116500,
+      "end_ms": 156470,
+      "id": "sc_004",
+      "heading": "INT. NOBLE MANOR - PARLOR – NIGHT"
+    }
+  ],
+  "events": [
+    {
+      "start_ms": 0,
+      "end_ms": 5500,
+      "id": "e_001",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle shot tilting down to a polished mahogany table as a white-gloved servant places a tall stack of wax-sealed wedding invitations onto a silver tray.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        14,
+        16
+      ]
+    },
+    {
+      "start_ms": 1500,
+      "end_ms": 3200,
+      "id": "e_002",
+      "scene_id": "sc_001",
+      "type": "sound",
+      "text": "The crisp tap of heavy cardstock envelopes being set down onto silver.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        18,
+        20
+      ]
+    },
+    {
+      "start_ms": 5500,
+      "end_ms": 9500,
+      "id": "e_003",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium two-shot framed symmetrically down the vaulted, sunlit hallway. Blond Nobleman Rupert stands tall in a black embroidered frock coat, facing Catherine in an ornate pink gown.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        22,
+        24
+      ]
+    },
+    {
+      "start_ms": 6000,
+      "end_ms": 9300,
+      "id": "e_004",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Every important family in the county should witness it.\"",
+      "speaker": "BLOND NOBLEMAN",
+      "delivery": "Rupert) (Cold, Calculating",
+      "source_lines": [
+        26,
+        28
+      ]
+    },
+    {
+      "start_ms": 9500,
+      "end_ms": 12500,
+      "id": "e_005",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Catherine looking down at the invitations, her braided blonde hair immaculately pinned, before she raises her eyes with a slight smirk.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        30,
+        32
+      ]
+    },
+    {
+      "start_ms": 10800,
+      "end_ms": 12400,
+      "id": "e_006",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"The wedding?\"",
+      "speaker": "CATHERINE",
+      "delivery": "Inquiring, Smug",
+      "source_lines": [
+        34,
+        36
+      ]
+    },
+    {
+      "start_ms": 12500,
+      "end_ms": 15000,
+      "id": "e_007",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on Rupert, his sharp aristocratic features set in cold conviction.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        38,
+        40
+      ]
+    },
+    {
+      "start_ms": 12800,
+      "end_ms": 14800,
+      "id": "e_008",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"The transfer of Ashbridge.\"",
+      "speaker": "BLOND NOBLEMAN",
+      "delivery": "Rupert) (Authoritative",
+      "source_lines": [
+        42,
+        44
+      ]
+    },
+    {
+      "start_ms": 15000,
+      "end_ms": 18800,
+      "id": "e_009",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Catherine picking up one of the invitations, turning it over in her gloved hands with predatory delight.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        46,
+        48
+      ]
+    },
+    {
+      "start_ms": 15600,
+      "end_ms": 18800,
+      "id": "e_010",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"After the ceremony, no one will question who owns this house.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Gloating",
+      "source_lines": [
+        50,
+        52
+      ]
+    },
+    {
+      "start_ms": 18800,
+      "end_ms": 23200,
+      "id": "e_011",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Intense close-up of Rupert leaning in slightly, his eyes narrowing with venomous malice.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        54,
+        56
+      ]
+    },
+    {
+      "start_ms": 19000,
+      "end_ms": 23000,
+      "id": "e_012",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"And no one will question what happened to the woman who tried to stop us.\"",
+      "speaker": "BLOND NOBLEMAN",
+      "delivery": "Rupert) (Sinister, Ruthless",
+      "source_lines": [
+        58,
+        60
+      ]
+    },
+    {
+      "start_ms": 23200,
+      "end_ms": 26500,
+      "id": "e_013",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Tight close-up of Catherine as a cruel sneer twists her lips.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        62,
+        64
+      ]
+    },
+    {
+      "start_ms": 23800,
+      "end_ms": 26400,
+      "id": "e_014",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Juliana's execution comes after the wedding.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Venomous Satisfaction",
+      "source_lines": [
+        66,
+        68
+      ]
+    },
+    {
+      "start_ms": 26500,
+      "end_ms": 30000,
+      "id": "e_015",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Wide shot framing the two conspirators beneath the towering archways of the estate.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        70,
+        72
+      ]
+    },
+    {
+      "start_ms": 26600,
+      "end_ms": 29800,
+      "id": "e_016",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Perfect timing. It will be a feast for our guests.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Gleeful",
+      "source_lines": [
+        74,
+        76
+      ]
+    },
+    {
+      "start_ms": 30000,
+      "end_ms": 32500,
+      "id": "e_017",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Rupert turning his gaze toward the grand entrance.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        78,
+        80
+      ]
+    },
+    {
+      "start_ms": 30200,
+      "end_ms": 32200,
+      "id": "e_018",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Send the invitations.\"",
+      "speaker": "BLOND NOBLEMAN",
+      "delivery": "Rupert) (Decisive",
+      "source_lines": [
+        82,
+        84
+      ]
+    },
+    {
+      "start_ms": 32500,
+      "end_ms": 34500,
+      "id": "e_019",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Catherine looking sideways with narrowed eyes.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        86,
+        88
+      ]
+    },
+    {
+      "start_ms": 32800,
+      "end_ms": 34500,
+      "id": "e_020",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Especially to the Ashcrofts.\"",
+      "speaker": "CATHERINE",
+      "delivery": "Spiteful",
+      "source_lines": [
+        90,
+        92
+      ]
+    },
+    {
+      "start_ms": 34500,
+      "end_ms": 37000,
+      "id": "e_021",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Wide tracking shot down a palatial marble hall as a butler carries a silver tray toward double doors.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        101,
+        103
+      ]
+    },
+    {
+      "start_ms": 37000,
+      "end_ms": 39800,
+      "id": "e_022",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium shot inside an opulent drawing room with a roaring fireplace. Lady Clarissa sits gracefully in an emerald satin gown as the butler presents the tray.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        105,
+        107
+      ]
+    },
+    {
+      "start_ms": 37000,
+      "end_ms": 39800,
+      "id": "e_023",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Lady Clarissa, an invitation from Ashbridge Manor.\"",
+      "speaker": "BUTLER",
+      "delivery": "Formal",
+      "source_lines": [
+        109,
+        111
+      ]
+    },
+    {
+      "start_ms": 39500,
+      "end_ms": 44000,
+      "id": "e_024",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "Clarissa takes the cream envelope, breaks the red wax seal with her gloved thumbs, and slides out the heavy card.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        113,
+        115
+      ]
+    },
+    {
+      "start_ms": 44000,
+      "end_ms": 46800,
+      "id": "e_025",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up of Clarissa's face lighting up with malicious excitement, the warm hearth flickering in the background.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        117,
+        119
+      ]
+    },
+    {
+      "start_ms": 44500,
+      "end_ms": 46500,
+      "id": "e_026",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Catherine's wedding.\"",
+      "speaker": "LADY CLARISSA",
+      "delivery": "Amused, Thrilled",
+      "source_lines": [
+        121,
+        123
+      ]
+    },
+    {
+      "start_ms": 46800,
+      "end_ms": 49500,
+      "id": "e_027",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium two-shot as her dark-haired husband steps up behind her chair, crossing his arms.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        125,
+        127
+      ]
+    },
+    {
+      "start_ms": 47000,
+      "end_ms": 49200,
+      "id": "e_028",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"So it is finally official.\"",
+      "speaker": "NOBLEMAN",
+      "delivery": "Observant",
+      "source_lines": [
+        129,
+        131
+      ]
+    },
+    {
+      "start_ms": 49500,
+      "end_ms": 53000,
+      "id": "e_029",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up of Clarissa smiling down at the calligraphy.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        133,
+        135
+      ]
+    },
+    {
+      "start_ms": 50000,
+      "end_ms": 52800,
+      "id": "e_030",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Lady Catherine Ashbridge.\"",
+      "speaker": "LADY CLARISSA",
+      "delivery": "Mockingly Reverent",
+      "source_lines": [
+        137,
+        139
+      ]
+    },
+    {
+      "start_ms": 53000,
+      "end_ms": 56000,
+      "id": "e_031",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium shot as Clarissa unfolds the second page attached to the invitation, her expression shifting to intrigue.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        141,
+        143
+      ]
+    },
+    {
+      "start_ms": 54000,
+      "end_ms": 56200,
+      "id": "e_032",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"And after the ceremony...\"",
+      "speaker": "LADY CLARISSA",
+      "delivery": "Intrigued",
+      "source_lines": [
+        145,
+        147
+      ]
+    },
+    {
+      "start_ms": 56200,
+      "end_ms": 57200,
+      "id": "e_033",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"What?\"",
+      "speaker": "NOBLEMAN",
+      "delivery": "Curious",
+      "source_lines": [
+        149,
+        151
+      ]
+    },
+    {
+      "start_ms": 56800,
+      "end_ms": 58500,
+      "id": "e_034",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "Clarissa hands the letter upward to him. He takes it and looks down at the bold heading.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        153,
+        155
+      ]
+    },
+    {
+      "start_ms": 58500,
+      "end_ms": 62000,
+      "id": "e_035",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up of the nobleman reading, his eyes widening in shock before breaking into a grin.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        157,
+        159
+      ]
+    },
+    {
+      "start_ms": 58800,
+      "end_ms": 61800,
+      "id": "e_036",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"The sentencing of the condemned.\"",
+      "speaker": "NOBLEMAN",
+      "delivery": "Reading in Awe",
+      "source_lines": [
+        161,
+        163
+      ]
+    },
+    {
+      "start_ms": 62000,
+      "end_ms": 65500,
+      "id": "e_037",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up of Clarissa turning back to the fire, laughing softly with dark delight.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        165,
+        167
+      ]
+    },
+    {
+      "start_ms": 62800,
+      "end_ms": 65500,
+      "id": "e_038",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"They want the families to witness it.\"",
+      "speaker": "LADY CLARISSA",
+      "delivery": "Gloating, Mocking",
+      "source_lines": [
+        169,
+        171
+      ]
+    },
+    {
+      "start_ms": 65500,
+      "end_ms": 69000,
+      "id": "e_039",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium shot of the nobleman holding the invitation, chuckling at the audacity.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        173,
+        175
+      ]
+    },
+    {
+      "start_ms": 66500,
+      "end_ms": 68800,
+      "id": "e_040",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"A public execution after a wedding.\"",
+      "speaker": "NOBLEMAN",
+      "delivery": "Fascinated",
+      "source_lines": [
+        177,
+        179
+      ]
+    },
+    {
+      "start_ms": 69000,
+      "end_ms": 72500,
+      "id": "e_041",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium profile shot of Clarissa gazing back at him over her shoulder.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        181,
+        183
+      ]
+    },
+    {
+      "start_ms": 69500,
+      "end_ms": 72200,
+      "id": "e_042",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Not just an execution. A warning.\"",
+      "speaker": "LADY CLARISSA",
+      "delivery": "Chilling, Sharp",
+      "source_lines": [
+        185,
+        187
+      ]
+    },
+    {
+      "start_ms": 72500,
+      "end_ms": 75500,
+      "id": "e_043",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up of the nobleman's stern face, leaning down.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        189,
+        191
+      ]
+    },
+    {
+      "start_ms": 73000,
+      "end_ms": 74200,
+      "id": "e_044",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"To whom?\"",
+      "speaker": "NOBLEMAN",
+      "delivery": "Curious",
+      "source_lines": [
+        193,
+        195
+      ]
+    },
+    {
+      "start_ms": 75500,
+      "end_ms": 82500,
+      "id": "e_045",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up on Clarissa taking the letter back into her gloved fingers, her eyes gleaming with aristocratic cruelty.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        197,
+        199
+      ]
+    },
+    {
+      "start_ms": 77000,
+      "end_ms": 81800,
+      "id": "e_046",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"To every woman who thinks she can rise above the place she was given.\"",
+      "speaker": "LADY CLARISSA",
+      "delivery": "Contemptuous, Scornful",
+      "source_lines": [
+        201,
+        203
+      ]
+    },
+    {
+      "start_ms": 82500,
+      "end_ms": 88000,
+      "id": "e_047",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Wide shot of the parlor as Clarissa tosses the invitation dismissively onto the side table and looks directly toward the viewer.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        205,
+        207
+      ]
+    },
+    {
+      "start_ms": 83000,
+      "end_ms": 87500,
+      "id": "e_048",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Juliana's ruin will be a lesson. And we will be there to watch.\"",
+      "speaker": "LADY CLARISSA",
+      "delivery": "Smug Triumph",
+      "source_lines": [
+        209,
+        211
+      ]
+    },
+    {
+      "start_ms": 88000,
+      "end_ms": 92000,
+      "id": "e_049",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Wide, dim shot of the subterranean stone dungeon. Juliana sits slumped against a weeping stone wall on the wet floor, dressed in a tattered prison smock, illuminated only by faint overhead moonlight piercing a ceiling grate.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        220,
+        222
+      ]
+    },
+    {
+      "start_ms": 88500,
+      "end_ms": 92000,
+      "id": "e_050",
+      "scene_id": "sc_003",
+      "type": "sound",
+      "text": "Rhythmic water drips splashing onto stagnant dungeon puddles and a low, mournful ambient drone.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        224,
+        226
+      ]
+    },
+    {
+      "start_ms": 92000,
+      "end_ms": 95500,
+      "id": "e_051",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Close-up on Juliana's bruised hand, locked in a heavy iron shackle chained to the wall, trembling as she hesitates inches away from a dirty earthen bowl filled with murky liquid.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        228,
+        230
+      ]
+    },
+    {
+      "start_ms": 93500,
+      "end_ms": 95500,
+      "id": "e_052",
+      "scene_id": "sc_003",
+      "type": "action",
+      "text": "Juliana curls her fingers back, pulling away from the foul sustenance in defiance.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        232,
+        234
+      ]
+    },
+    {
+      "start_ms": 95500,
+      "end_ms": 100500,
+      "id": "e_053",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Tight close-up of Juliana's dirty, tear-stained face. Her eyes squeeze shut as tears stream down her cheeks from overwhelming physical agony and hunger.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        236,
+        238
+      ]
+    },
+    {
+      "start_ms": 96000,
+      "end_ms": 99500,
+      "id": "e_054",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"They think hunger will make me surrender.\"",
+      "speaker": "JULIANA",
+      "delivery": "Weak, Whispering through Tears",
+      "source_lines": [
+        240,
+        242
+      ]
+    },
+    {
+      "start_ms": 100500,
+      "end_ms": 103500,
+      "id": "e_055",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Extreme close-up of Juliana's blue eyes snapping open, blazing with unyielding defiance.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        244,
+        246
+      ]
+    },
+    {
+      "start_ms": 100800,
+      "end_ms": 103200,
+      "id": "e_056",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"They think fear will make me beg.\"",
+      "speaker": "JULIANA",
+      "delivery": "Fierce Resolve",
+      "source_lines": [
+        248,
+        250
+      ]
+    },
+    {
+      "start_ms": 103500,
+      "end_ms": 108500,
+      "id": "e_057",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Full shot of Juliana using her bare hands against the slimy stone floor to drag herself upright to her knees, chains rattling loudly.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        252,
+        254
+      ]
+    },
+    {
+      "start_ms": 104000,
+      "end_ms": 107000,
+      "id": "e_058",
+      "scene_id": "sc_003",
+      "type": "sound",
+      "text": "The harsh scrape and clatter of heavy iron chains dragging across wet stone.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        256,
+        258
+      ]
+    },
+    {
+      "start_ms": 105500,
+      "end_ms": 107800,
+      "id": "e_059",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"I will not!\"",
+      "speaker": "JULIANA",
+      "delivery": "Straining, Defiant Gasps",
+      "source_lines": [
+        260,
+        262
+      ]
+    },
+    {
+      "start_ms": 108500,
+      "end_ms": 113500,
+      "id": "e_060",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Low-angle shot looking up at Juliana as she thrusts her chin high toward the iron ceiling grate, bathed in cold shafts of light.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        264,
+        266
+      ]
+    },
+    {
+      "start_ms": 109000,
+      "end_ms": 112500,
+      "id": "e_061",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"They can take my name. They can take my home.\"",
+      "speaker": "JULIANA",
+      "delivery": "Passionate Defiance",
+      "source_lines": [
+        268,
+        270
+      ]
+    },
+    {
+      "start_ms": 113500,
+      "end_ms": 116500,
+      "id": "e_062",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Tight close-up of Juliana's iron-shackled hand reaching out and gripping the massive iron ring anchored into the dungeon pillar with crushing determination.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        272,
+        274
+      ]
+    },
+    {
+      "start_ms": 113600,
+      "end_ms": 116200,
+      "id": "e_063",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"They cannot take who I am!\"",
+      "speaker": "JULIANA",
+      "delivery": "Indomitable Spirit",
+      "source_lines": [
+        276,
+        278
+      ]
+    },
+    {
+      "start_ms": 116500,
+      "end_ms": 120000,
+      "id": "e_064",
+      "scene_id": "sc_004",
+      "type": "camera",
+      "text": "Medium two-shot in the dimly lit parlor, illuminated by the warm glow of the fireplace. Clarissa now wears a deep blue velvet gown, reclining in an armchair beside the nobleman.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        287,
+        289
+      ]
+    },
+    {
+      "start_ms": 117200,
+      "end_ms": 119800,
+      "id": "e_065",
+      "scene_id": "sc_004",
+      "type": "dialogue",
+      "text": "\"Do you think she'll actually be executed?\"",
+      "speaker": "NOBLEMAN",
+      "delivery": "Quietly Skeptical",
+      "source_lines": [
+        291,
+        293
+      ]
+    },
+    {
+      "start_ms": 120000,
+      "end_ms": 124500,
+      "id": "e_066",
+      "scene_id": "sc_004",
+      "type": "camera",
+      "text": "Close-up of Clarissa giving a slight, dismissive scoff before turning to him with cold certainty.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        295,
+        297
+      ]
+    },
+    {
+      "start_ms": 120500,
+      "end_ms": 124200,
+      "id": "e_067",
+      "scene_id": "sc_004",
+      "type": "dialogue",
+      "text": "\"After what she has been accused of? Of course.\"",
+      "speaker": "LADY CLARISSA",
+      "delivery": "Dismissive, Certain",
+      "source_lines": [
+        299,
+        301
+      ]
+    },
+    {
+      "start_ms": 124500,
+      "end_ms": 127000,
+      "id": "e_068",
+      "scene_id": "sc_004",
+      "type": "camera",
+      "text": "Medium close-up of the nobleman looking down pensively at the open execution clause on the table.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        303,
+        305
+      ]
+    },
+    {
+      "start_ms": 124800,
+      "end_ms": 126500,
+      "id": "e_069",
+      "scene_id": "sc_004",
+      "type": "dialogue",
+      "text": "\"She was always stubborn.\"",
+      "speaker": "NOBLEMAN",
+      "delivery": "Musing",
+      "source_lines": [
+        307,
+        309
+      ]
+    },
+    {
+      "start_ms": 127000,
+      "end_ms": 132500,
+      "id": "e_070",
+      "scene_id": "sc_004",
+      "type": "camera",
+      "text": "Close-up on Clarissa's face hardening with bitter resentment.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        311,
+        313
+      ]
+    },
+    {
+      "start_ms": 127500,
+      "end_ms": 132000,
+      "id": "e_071",
+      "scene_id": "sc_004",
+      "type": "dialogue",
+      "text": "\"That was her greatest mistake. She could have accepted what happened. She could have disappeared quietly.\"",
+      "speaker": "LADY CLARISSA",
+      "delivery": "Bitter, Cold",
+      "source_lines": [
+        315,
+        317
+      ]
+    },
+    {
+      "start_ms": 132500,
+      "end_ms": 136000,
+      "id": "e_072",
+      "scene_id": "sc_004",
+      "type": "action",
+      "text": "Clarissa rises from her armchair holding a cut crystal glass filled with dark red wine, pacing toward the fireplace.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        319,
+        321
+      ]
+    },
+    {
+      "start_ms": 132500,
+      "end_ms": 141500,
+      "id": "e_073",
+      "scene_id": "sc_004",
+      "type": "camera",
+      "text": "Medium tracking shot showing Clarissa standing tall beside her husband, her posture regal and vindictive.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        323,
+        325
+      ]
+    },
+    {
+      "start_ms": 134000,
+      "end_ms": 141000,
+      "id": "e_074",
+      "scene_id": "sc_004",
+      "type": "dialogue",
+      "text": "\"Instead she married a nobody, played healer to peasants, challenged people above her. And now the whole county will watch her pay for it.\"",
+      "speaker": "LADY CLARISSA",
+      "delivery": "Venomous Monologue",
+      "source_lines": [
+        327,
+        329
+      ]
+    },
+    {
+      "start_ms": 141500,
+      "end_ms": 147500,
+      "id": "e_075",
+      "scene_id": "sc_004",
+      "type": "camera",
+      "text": "Tight close-up on Clarissa's face glowing in the firelight. Her lips curl into a merciless smile as she lifts the crystal glass to her mouth and drinks.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        331,
+        333
+      ]
+    },
+    {
+      "start_ms": 142500,
+      "end_ms": 146500,
+      "id": "e_076",
+      "scene_id": "sc_004",
+      "type": "dialogue",
+      "text": "\"Let them see what happens when a woman forgets her place.\"",
+      "speaker": "LADY CLARISSA",
+      "delivery": "Chilling Proclamation",
+      "source_lines": [
+        335,
+        337
+      ]
+    },
+    {
+      "start_ms": 145500,
+      "end_ms": 148000,
+      "id": "e_077",
+      "scene_id": "sc_004",
+      "type": "action",
+      "text": "Clarissa takes a slow sip of the red wine, her eyes gleaming with dark relish.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        339,
+        341
+      ]
+    },
+    {
+      "start_ms": 147500,
+      "end_ms": 156470,
+      "id": "e_078",
+      "scene_id": "sc_004",
+      "type": "camera",
+      "text": "Slow push-in on the dark polished tabletop where the open invitation lies beside the wax seal. The bold Gothic lettering \"EXECUTION CLAUSE\" sits beneath the gold crest, while the fire dances reflected on the mahogany.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        343,
+        345
+      ]
+    },
+    {
+      "start_ms": 148000,
+      "end_ms": 156470,
+      "id": "e_079",
+      "scene_id": "sc_004",
+      "type": "sound",
+      "text": "A deep, ominous cello rumble builds alongside the crackle of the fireplace into an unresolved, tension-filled cliffhanger sting before fading out.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        347,
+        349
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "start_ms": 0,
+      "end_ms": 156470
+    }
+  ],
+  "warnings": []
+}

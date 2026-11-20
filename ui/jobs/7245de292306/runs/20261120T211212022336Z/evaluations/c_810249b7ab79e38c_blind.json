@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_810249b7ab79e38c",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP13:E7",
+      "EP13:E8"
+    ],
+    "reason": "The opening within 0-3000ms shows a hooded Juliana with resolute sorrow saying \"I must.\" This creates immediate tension, but with no prior context the stakes are unclear to a first-time viewer."
+  },
+  "cliffhanger": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP13:E22",
+      "EP13:E23",
+      "EP13:E20"
+    ],
+    "reason": "The clip ends in the final 3000ms with Juliana walking toward the frozen briar thicket while Clarissa smirks and warns that the garden has swallowed better women. Her fate is left open, so the ending is unresolved rather than resolved.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Identity and relationship of Juliana, Alexander, Gerald, and Clarissa",
+      "Why Alexander and Juliana are handcuffed and restrained by a Constable",
+      "What the 'they' who will tear her hands apart refers to",
+      "What the gallows threat means in this situation",
+      "What the frozen briar garden is and why it is dangerous",
+      "What Juliana's 'I will not abandon you now' is responding to"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "The clip builds strong emotion through Juliana's tender courage, Alexander's pained struggle against his bonds, the smug cruelty of Gerald and Clarissa, and the dread of Juliana walking toward the briars."
+  },
+  "weaknesses": [
+    "Heavy reliance on unexplained names and events makes the clip hard to follow without prior context",
+    "Hook is strong emotionally but the stakes are not clearly established for a new viewer",
+    "The threat of the briar garden is ambiguous and depends on unstated backstory",
+    "Dialogue about hands and gallows is not explained, weakening comprehension"
+  ],
+  "one_line_why_it_works": "Emotional close-ups and an ominous final line from Clarissa create a strong sense of danger and an unresolved ending for Juliana."
+}

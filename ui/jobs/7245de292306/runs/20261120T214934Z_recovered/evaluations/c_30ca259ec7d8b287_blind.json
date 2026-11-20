@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_30ca259ec7d8b287",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP11:E8",
+      "EP11:E9"
+    ],
+    "reason": "The opening starts within 0-3000ms with Juliana stepping defensively toward Gerald, shocked and angry, and asking what he is doing here. That creates an immediate confrontation, though the stakes are not yet clear."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP11:E31",
+      "EP11:E32",
+      "EP11:E33"
+    ],
+    "reason": "The clip ends with the Constable marching in during an unresolved accusation of theft and a threat against Alexander. Nothing is settled, so the ending reads as an open cliffhanger rather than a resolved climax.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Clarissa is and why she watches from the carriage",
+      "What the cottage is and why Gerald claims a right to enter it",
+      "Relationship between Gerald, Juliana and Alexander",
+      "Why Alexander is described as a beggar and what the marriage history is",
+      "Whether the gold pocket watch theft has any prior established basis"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Anger, shock, mockery and a rising threat of violence are conveyed through close-ups, gestures and sharp dialogue, producing strong tension throughout."
+  },
+  "weaknesses": [
+    "Clarissa's introduction is a silent close-up with no explanation, which weakens standalone clarity",
+    "The stolen watch accusation lacks any visible evidence in the clip",
+    "Several key relationships and backstory terms are unexplained for a first-time viewer",
+    "The Constable's arrival is brief, so the tension resolves into an abrupt cut"
+  ],
+  "one_line_why_it_works": "Escalating accusations and a threatened confrontation, ending on the Constable's arrival, create strong tension even without full backstory."
+}

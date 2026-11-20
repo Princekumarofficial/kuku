@@ -1,0 +1,952 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "ep_019",
+  "episode_number": 19,
+  "metadata": {
+    "logline": "Standing before the smoldering ash of their home, Juliana and Alexander receive shelter and food from grateful villagers before Alexander meets in secret with a loyal spy, learning that his usurping enemies have imprisoned his mother and claimed his ducal seat.",
+    "continuity_notes": "Picks up directly from Episode 18's devastating fire; Juliana and Alexander stand amidst the morning ruins of Blackwood cottage with her mother's surviving herbal book before retreating to an abandoned barn."
+  },
+  "source": {
+    "file": "018_episode-019-Episode 1671721.txt",
+    "sha256": "45e16ab1556cb4afe16777d1538079263f933b85ecb63e1e44a462d33541fb24",
+    "complete": false
+  },
+  "scenes": [
+    {
+      "start_ms": 0,
+      "end_ms": 41500,
+      "id": "sc_001",
+      "heading": "EXT. BLACKWOOD COTTAGE RUINS – DAY"
+    },
+    {
+      "start_ms": 41500,
+      "end_ms": 89500,
+      "id": "sc_002",
+      "heading": "EXT. MISTY DEEP WOODS – DAY"
+    },
+    {
+      "start_ms": 89500,
+      "end_ms": 119630,
+      "id": "sc_003",
+      "heading": "INT. ABANDONED BARN – NIGHT"
+    }
+  ],
+  "events": [
+    {
+      "start_ms": 0,
+      "end_ms": 4500,
+      "id": "e_001",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Full shot of Juliana and Alexander standing side by side amidst the charred, smoldering wreckage of their destroyed cottage, thick smoke rising behind them into the overcast sky.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        14,
+        16
+      ]
+    },
+    {
+      "start_ms": 0,
+      "end_ms": 4500,
+      "id": "e_002",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana clutches her mother's scorched leather-bound herbal book against her chest, her face streaked with soot as she stares at the ruin in disbelief.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        18,
+        20
+      ]
+    },
+    {
+      "start_ms": 1800,
+      "end_ms": 3500,
+      "id": "e_003",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"This was our home.\"",
+      "speaker": "JULIANA",
+      "delivery": "Sorrowful, Hollow",
+      "source_lines": [
+        22,
+        24
+      ]
+    },
+    {
+      "start_ms": 4500,
+      "end_ms": 9500,
+      "id": "e_004",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the blackened, heat-damaged leather ledger held in Juliana's linen-bandaged hands.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        26,
+        28
+      ]
+    },
+    {
+      "start_ms": 5100,
+      "end_ms": 8200,
+      "id": "e_005",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"My mother's book almost burned with it.\"",
+      "speaker": "JULIANA",
+      "delivery": "Emotional, Fragile",
+      "source_lines": [
+        30,
+        32
+      ]
+    },
+    {
+      "start_ms": 6500,
+      "end_ms": 9200,
+      "id": "e_006",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana tenderly lifts a scorched corner of parchment, revealing the surviving botanical drawing of medicinal herbs inside.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        34,
+        36
+      ]
+    },
+    {
+      "start_ms": 9500,
+      "end_ms": 11800,
+      "id": "e_007",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Alexander looking down at Juliana with quiet, stoic concern.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        38,
+        40
+      ]
+    },
+    {
+      "start_ms": 11800,
+      "end_ms": 15500,
+      "id": "e_008",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of three villagers approaching through the burnt clearing: an elder villager carrying folded wool blankets, followed by a man and woman holding loaves of baked bread.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        42,
+        44
+      ]
+    },
+    {
+      "start_ms": 12100,
+      "end_ms": 15200,
+      "id": "e_009",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"My lady. You cannot stay here.\"",
+      "speaker": "ELDER VILLAGER",
+      "delivery": "Respectful, Sincere",
+      "source_lines": [
+        46,
+        48
+      ]
+    },
+    {
+      "start_ms": 15500,
+      "end_ms": 18500,
+      "id": "e_010",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana's tearful, soot-stained face as she listens.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        50,
+        52
+      ]
+    },
+    {
+      "start_ms": 16100,
+      "end_ms": 19000,
+      "id": "e_011",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"There is an old barn near the village. It is empty.\"",
+      "speaker": "ELDER VILLAGER",
+      "delivery": "O.S.",
+      "source_lines": [
+        54,
+        56
+      ]
+    },
+    {
+      "start_ms": 18500,
+      "end_ms": 20500,
+      "id": "e_012",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "The elder villager steps closer, resting a gentle, reassuring hand on Juliana's shoulder.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        58,
+        60
+      ]
+    },
+    {
+      "start_ms": 19400,
+      "end_ms": 20400,
+      "id": "e_013",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Take it.\"",
+      "speaker": "ELDER VILLAGER",
+      "delivery": "Gentle, Earnest",
+      "source_lines": [
+        62,
+        64
+      ]
+    },
+    {
+      "start_ms": 20600,
+      "end_ms": 22600,
+      "id": "e_014",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"We cannot ask the village to feed us.\"",
+      "speaker": "JULIANA",
+      "delivery": "Hesitant, Humble",
+      "source_lines": [
+        66,
+        68
+      ]
+    },
+    {
+      "start_ms": 23200,
+      "end_ms": 25200,
+      "id": "e_015",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You saved my son's life.\"",
+      "speaker": "ELDER VILLAGER",
+      "delivery": "Warm, Grateful",
+      "source_lines": [
+        70,
+        72
+      ]
+    },
+    {
+      "start_ms": 25800,
+      "end_ms": 28200,
+      "id": "e_016",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the elder villager's rough, weathered hands offering a fresh loaf of artisan bread wrapped in cloth against the smoking timber ruins.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        74,
+        76
+      ]
+    },
+    {
+      "start_ms": 26400,
+      "end_ms": 27800,
+      "id": "e_017",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You saved mine, too.\"",
+      "speaker": "ELDER VILLAGER",
+      "delivery": "O.S.",
+      "source_lines": [
+        78,
+        80
+      ]
+    },
+    {
+      "start_ms": 28200,
+      "end_ms": 30800,
+      "id": "e_018",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana, tears spilling down her cheeks as she smiles through her grief.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        82,
+        84
+      ]
+    },
+    {
+      "start_ms": 28500,
+      "end_ms": 29800,
+      "id": "e_019",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Thank you.\"",
+      "speaker": "JULIANA",
+      "delivery": "Whispering, Tearful",
+      "source_lines": [
+        86,
+        88
+      ]
+    },
+    {
+      "start_ms": 30800,
+      "end_ms": 34500,
+      "id": "e_020",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Alexander steps forward and accepts the thick folded blankets and a wooden bucket from the villager.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        90,
+        92
+      ]
+    },
+    {
+      "start_ms": 31200,
+      "end_ms": 33200,
+      "id": "e_021",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"We will not forget this kindness.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Deep, Solemn",
+      "source_lines": [
+        94,
+        96
+      ]
+    },
+    {
+      "start_ms": 33300,
+      "end_ms": 34800,
+      "id": "e_022",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Neither will the village.\"",
+      "speaker": "ELDER VILLAGER",
+      "delivery": "Nodding, Earnest",
+      "source_lines": [
+        98,
+        100
+      ]
+    },
+    {
+      "start_ms": 34800,
+      "end_ms": 38200,
+      "id": "e_023",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Juliana looking back one last time at the devastated doorway of her ruined sanctuary, hugging the ledger tightly.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        102,
+        104
+      ]
+    },
+    {
+      "start_ms": 35500,
+      "end_ms": 37400,
+      "id": "e_024",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Goodbye, Blackwood.\"",
+      "speaker": "JULIANA",
+      "delivery": "Choked Up, Mournful",
+      "source_lines": [
+        106,
+        108
+      ]
+    },
+    {
+      "start_ms": 38000,
+      "end_ms": 41500,
+      "id": "e_025",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana turns her back on the ruins. Wide tracking shot from behind as Alexander and Juliana walk side by side down the stone path, leaving the smoldering ash behind as the scene fades into black.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        110,
+        112
+      ]
+    },
+    {
+      "start_ms": 41500,
+      "end_ms": 44200,
+      "id": "e_026",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium shot tracking Alexander from behind as he stands waiting beside a moss-covered ancient tree trunk in the dense, fog-laden forest.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        121,
+        123
+      ]
+    },
+    {
+      "start_ms": 43000,
+      "end_ms": 46000,
+      "id": "e_027",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "A bald, scarred man dressed in a dark coat emerges from between the trees, immediately coming to a halt and bowing with clasped hands in formal deference.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        125,
+        127
+      ]
+    },
+    {
+      "start_ms": 44300,
+      "end_ms": 45800,
+      "id": "e_028",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Your Grace.\"",
+      "speaker": "INFORMANT",
+      "delivery": "Subservient, Urgent",
+      "source_lines": [
+        129,
+        131
+      ]
+    },
+    {
+      "start_ms": 46000,
+      "end_ms": 49200,
+      "id": "e_029",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium close-up of Alexander turning toward his operative, his eyes dark with calculating authority.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        133,
+        135
+      ]
+    },
+    {
+      "start_ms": 47100,
+      "end_ms": 49200,
+      "id": "e_030",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Tell me what is happening in Ashburg.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Authoritative, Direct",
+      "source_lines": [
+        137,
+        139
+      ]
+    },
+    {
+      "start_ms": 49500,
+      "end_ms": 54800,
+      "id": "e_031",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Lord Sterling's influence has grown since your disappearance. He has men in the county offices, the courts, even among the household staff.\"",
+      "speaker": "INFORMANT",
+      "delivery": "Grave, Cautious",
+      "source_lines": [
+        141,
+        143
+      ]
+    },
+    {
+      "start_ms": 55300,
+      "end_ms": 61400,
+      "id": "e_032",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Slow push-in on Alexander's rugged, scarred face, his jaw tightening with simmering rage as he listens.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        145,
+        147
+      ]
+    },
+    {
+      "start_ms": 55300,
+      "end_ms": 61300,
+      "id": "e_033",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Rupert has become the face of Ashburg. He sits in your father's room, signs your estate papers, gives orders as though the title already belongs to him.\"",
+      "speaker": "INFORMANT",
+      "delivery": "O.S.",
+      "source_lines": [
+        149,
+        151
+      ]
+    },
+    {
+      "start_ms": 61400,
+      "end_ms": 64800,
+      "id": "e_034",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium shot of the bald informant standing among the towering trees, reporting solemnly.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        153,
+        155
+      ]
+    },
+    {
+      "start_ms": 61600,
+      "end_ms": 64800,
+      "id": "e_035",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"And Lady Catherine, she behaves as though she is already the future duchess.\"",
+      "speaker": "INFORMANT",
+      "delivery": "Earnest",
+      "source_lines": [
+        157,
+        159
+      ]
+    },
+    {
+      "start_ms": 64800,
+      "end_ms": 70600,
+      "id": "e_036",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up of the informant, his voice dropping into urgent, discreet concern.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        161,
+        163
+      ]
+    },
+    {
+      "start_ms": 65100,
+      "end_ms": 70500,
+      "id": "e_037",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"But they have separated her from the household. She is watched constantly. Every letter she sends is checked. Every visitor is questioned.\"",
+      "speaker": "INFORMANT",
+      "delivery": "Whispering, Alarmed",
+      "source_lines": [
+        165,
+        167
+      ]
+    },
+    {
+      "start_ms": 70600,
+      "end_ms": 73300,
+      "id": "e_038",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Extreme close-up of Alexander's right hand clenching into a powerful, trembling fist at his coat seam, veins bulging with restrained violence.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        169,
+        171
+      ]
+    },
+    {
+      "start_ms": 70900,
+      "end_ms": 73200,
+      "id": "e_039",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"There are almost no loyal servants left around her.\"",
+      "speaker": "INFORMANT",
+      "delivery": "O.S.",
+      "source_lines": [
+        173,
+        175
+      ]
+    },
+    {
+      "start_ms": 73300,
+      "end_ms": 76200,
+      "id": "e_040",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Low-angle shot past Alexander toward the informant.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        177,
+        179
+      ]
+    },
+    {
+      "start_ms": 73500,
+      "end_ms": 76400,
+      "id": "e_041",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"The people who served your family for years have been dismissed, frightened away, or replaced.\"",
+      "speaker": "INFORMANT",
+      "delivery": "Grave",
+      "source_lines": [
+        181,
+        183
+      ]
+    },
+    {
+      "start_ms": 76200,
+      "end_ms": 78800,
+      "id": "e_042",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "Alexander lifts his gaze toward the cold forest canopy, his breathing heavy with profound anguish.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        185,
+        187
+      ]
+    },
+    {
+      "start_ms": 76500,
+      "end_ms": 78800,
+      "id": "e_043",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"My mother is a prisoner in her own house.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Cold, Pained Fury",
+      "source_lines": [
+        189,
+        191
+      ]
+    },
+    {
+      "start_ms": 78800,
+      "end_ms": 81200,
+      "id": "e_044",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up of the informant looking steadily at Alexander.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        193,
+        195
+      ]
+    },
+    {
+      "start_ms": 79000,
+      "end_ms": 81000,
+      "id": "e_045",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"And everyone believes you are dead.\"",
+      "speaker": "INFORMANT",
+      "delivery": "Quiet, Solemn",
+      "source_lines": [
+        197,
+        199
+      ]
+    },
+    {
+      "start_ms": 81200,
+      "end_ms": 83800,
+      "id": "e_046",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Extreme close-up of Alexander's scarred eye and grimly set mouth.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        201,
+        203
+      ]
+    },
+    {
+      "start_ms": 81500,
+      "end_ms": 83700,
+      "id": "e_047",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Then let them believe it a little longer.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Lethal, Calculating",
+      "source_lines": [
+        205,
+        207
+      ]
+    },
+    {
+      "start_ms": 84000,
+      "end_ms": 85500,
+      "id": "e_048",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"And when we have the proof?\"",
+      "speaker": "INFORMANT",
+      "delivery": "Inquiring, Tense",
+      "source_lines": [
+        209,
+        211
+      ]
+    },
+    {
+      "start_ms": 85500,
+      "end_ms": 89500,
+      "id": "e_049",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Dramatic low-angle push-in on Alexander's commanding silhouette, his combat scar etched sharply against the fog.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        213,
+        215
+      ]
+    },
+    {
+      "start_ms": 85900,
+      "end_ms": 88900,
+      "id": "e_050",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Then Ashburg will remember who it belongs to.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Vow of Vengeance, Resolute",
+      "source_lines": [
+        217,
+        219
+      ]
+    },
+    {
+      "start_ms": 89500,
+      "end_ms": 94000,
+      "id": "e_051",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Wide atmospheric shot of the shadowy barn loft. Moonlight filters through vertical wooden slats, illuminating Juliana seated on a pile of straw beside a warm, glowing kerosene lantern.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        228,
+        230
+      ]
+    },
+    {
+      "start_ms": 94000,
+      "end_ms": 96800,
+      "id": "e_052",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Over-the-shoulder close-up of Juliana's bandaged hands tracing the detailed botanical drawing on the charred page of her mother's herbal.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        232,
+        234
+      ]
+    },
+    {
+      "start_ms": 96800,
+      "end_ms": 97800,
+      "id": "e_053",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Close-up of Juliana's face, silent tears streaming down her soot-smudged cheeks as her chin quivers.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        236,
+        238
+      ]
+    },
+    {
+      "start_ms": 97200,
+      "end_ms": 100000,
+      "id": "e_054",
+      "scene_id": "sc_003",
+      "type": "action",
+      "text": "The heavy wooden barn doors creak open. Alexander steps into the lantern light, carrying a bundle of firewood and a thick blanket under his arm.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        240,
+        242
+      ]
+    },
+    {
+      "start_ms": 97400,
+      "end_ms": 99400,
+      "id": "e_055",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"We have lost everything.\"",
+      "speaker": "JULIANA",
+      "delivery": "O.S.",
+      "source_lines": [
+        244,
+        246
+      ]
+    },
+    {
+      "start_ms": 99900,
+      "end_ms": 103000,
+      "id": "e_056",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Medium shot of Juliana breaking down in tears over her open book, struggling to breathe through her weeping.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        248,
+        250
+      ]
+    },
+    {
+      "start_ms": 100400,
+      "end_ms": 102600,
+      "id": "e_057",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"I don't know what we will do tomorrow.\"",
+      "speaker": "JULIANA",
+      "delivery": "Despairing, Broken",
+      "source_lines": [
+        252,
+        254
+      ]
+    },
+    {
+      "start_ms": 103000,
+      "end_ms": 106000,
+      "id": "e_058",
+      "scene_id": "sc_003",
+      "type": "action",
+      "text": "Alexander steps up behind her and gently drapes the thick woolen blanket over her trembling shoulders, resting his hands reassuringly on her.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        256,
+        258
+      ]
+    },
+    {
+      "start_ms": 104200,
+      "end_ms": 106200,
+      "id": "e_059",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"Tomorrow, we begin again.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Soft, Steadfast",
+      "source_lines": [
+        260,
+        262
+      ]
+    },
+    {
+      "start_ms": 106000,
+      "end_ms": 109800,
+      "id": "e_060",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Close-up of Juliana turning her tear-drenched eyes up toward Alexander, her face filled with longing and newfound hope.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        264,
+        266
+      ]
+    },
+    {
+      "start_ms": 107300,
+      "end_ms": 109200,
+      "id": "e_061",
+      "scene_id": "sc_003",
+      "type": "dialogue",
+      "text": "\"You make it sound so simple.\"",
+      "speaker": "JULIANA",
+      "delivery": "Faint Smile, Emotional",
+      "source_lines": [
+        268,
+        270
+      ]
+    },
+    {
+      "start_ms": 109800,
+      "end_ms": 112500,
+      "id": "e_062",
+      "scene_id": "sc_003",
+      "type": "action",
+      "text": "Alexander sits down beside her in the straw. Juliana leans gently against his shoulder, letting her weary head rest against his broad chest.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        272,
+        274
+      ]
+    },
+    {
+      "start_ms": 112500,
+      "end_ms": 119630,
+      "id": "e_063",
+      "scene_id": "sc_003",
+      "type": "camera",
+      "text": "Slow cinematic push-in on the couple nestled together in the warm lantern glow. Alexander wraps his arm firmly around Juliana as she closes her eyes in exhausted relief, while his piercing gaze stares resolutely into the darkness, determined to reclaim everything that was stolen.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        276,
+        278
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "start_ms": 0,
+      "end_ms": 20500
+    },
+    {
+      "start_ms": 20600,
+      "end_ms": 22600
+    },
+    {
+      "start_ms": 23200,
+      "end_ms": 25200
+    },
+    {
+      "start_ms": 25800,
+      "end_ms": 49200
+    },
+    {
+      "start_ms": 49500,
+      "end_ms": 54800
+    },
+    {
+      "start_ms": 55300,
+      "end_ms": 83800
+    },
+    {
+      "start_ms": 84000,
+      "end_ms": 119630
+    }
+  ],
+  "warnings": [
+    "sc_001: incomplete source coverage; gaps are unavailable",
+    "sc_002: incomplete source coverage; gaps are unavailable"
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "series_id": "series_001",
+  "premise": "Lady Juliana is publicly jilted at the altar when her fiance Gerald chooses her sister Clarissa, and her family rejects her. She marries a scarred, unnamed Bearded Man (later revealed on screen as Alexander, a presumed-dead soldier and Duke), and the couple is repeatedly targeted by antagonists. Juliana uses her late mother's herbal knowledge to heal the sick, which draws accusations of witchcraft and poisoning, while Alexander's return and claim to his ducal title set up a confrontation with the conspirators who hid his survival.",
+  "arcs": [
+    {
+      "id": "arc_jilting_and_family_rejection",
+      "description": "Juliana is jilted at the altar by Gerald, humiliated by her sister Clarissa and disowned by her family, which sets off the series' central betrayal.",
+      "beat_refs": [
+        {
+          "episode_id": "ep_001",
+          "beat_id": "B02"
+        },
+        {
+          "episode_id": "ep_001",
+          "beat_id": "B03"
+        },
+        {
+          "episode_id": "ep_001",
+          "beat_id": "B09"
+        },
+        {
+          "episode_id": "ep_001",
+          "beat_id": "B10"
+        },
+        {
+          "episode_id": "ep_002",
+          "beat_id": "b01"
+        },
+        {
+          "episode_id": "ep_002",
+          "beat_id": "b05"
+        },
+        {
+          "episode_id": "ep_003",
+          "beat_id": "b3"
+        },
+        {
+          "episode_id": "ep_004",
+          "beat_id": "B11"
+        }
+      ]
+    },
+    {
+      "id": "arc_exile_and_marriage_to_the_bearded_man",
+      "description": "After the rejection, the unnamed Bearded Man intervenes, offers Juliana a ring and a vow, and the couple leaves the family behind to live in hardship in a cottage.",
+      "beat_refs": [
+        {
+          "episode_id": "ep_003",
+          "beat_id": "b9"
+        },
+        {
+          "episode_id": "ep_004",
+          "beat_id": "B8"
+        },
+        {
+          "episode_id": "ep_004",
+          "beat_id": "B9"
+        },
+        {
+          "episode_id": "ep_005",
+          "beat_id": "b1"
+        },
+        {
+          "episode_id": "ep_005",
+          "beat_id": "b3"
+        },
+        {
+          "episode_id": "ep_006",
+          "beat_id": "b2"
+        },
+        {
+          "episode_id": "ep_006",
+          "beat_id": "b8"
+        }
+      ]
+    },
+    {
+      "id": "arc_healing_and_poisoning_conspiracy",
+      "description": "Juliana's herbal healing draws her into the household of the ailing Dowager Duchess, where she uncovers evidence of arsenic poisoning and is pulled into a dangerous conflict with Catherine and Rupert.",
+      "beat_refs": [
+        {
+          "episode_id": "ep_009",
+          "beat_id": "b02"
+        },
+        {
+          "episode_id": "ep_022",
+          "beat_id": "B6"
+        },
+        {
+          "episode_id": "ep_023",
+          "beat_id": "beat_2"
+        },
+        {
+          "episode_id": "ep_023",
+          "beat_id": "beat_6"
+        },
+        {
+          "episode_id": "ep_024",
+          "beat_id": "B7"
+        },
+        {
+          "episode_id": "ep_025",
+          "beat_id": "b5"
+        },
+        {
+          "episode_id": "ep_026",
+          "beat_id": "b6"
+        },
+        {
+          "episode_id": "ep_028",
+          "beat_id": "b4"
+        }
+      ]
+    },
+    {
+      "id": "arc_frame_up_and_imprisonment",
+      "description": "Juliana and Alexander are framed with a stolen watch and with witchcraft and poisoning charges, leading to Juliana's arrest, torture and public trial.",
+      "beat_refs": [
+        {
+          "episode_id": "ep_011",
+          "beat_id": "b6"
+        },
+        {
+          "episode_id": "ep_012",
+          "beat_id": "B6"
+        },
+        {
+          "episode_id": "ep_029",
+          "beat_id": "b07"
+        },
+        {
+          "episode_id": "ep_031",
+          "beat_id": "b9"
+        },
+        {
+          "episode_id": "ep_034",
+          "beat_id": "B9"
+        }
+      ]
+    },
+    {
+      "id": "arc_alexander_return_and_reclamation",
+      "description": "Alexander's survival is revealed after an ambush he was believed to have died in, and he moves to expose the conspirators who hid him, reclaim his title and rescue Juliana before her execution.",
+      "beat_refs": [
+        {
+          "episode_id": "ep_035",
+          "beat_id": "b7"
+        },
+        {
+          "episode_id": "ep_036",
+          "beat_id": "b8"
+        },
+        {
+          "episode_id": "ep_039",
+          "beat_id": "B5"
+        },
+        {
+          "episode_id": "ep_042",
+          "beat_id": "b11"
+        },
+        {
+          "episode_id": "ep_045",
+          "beat_id": "B6"
+        },
+        {
+          "episode_id": "ep_046",
+          "beat_id": "B2"
+        }
+      ]
+    }
+  ],
+  "key_revelations": [
+    {
+      "episode_id": "ep_001",
+      "revelation_id": "R01",
+      "prerequisite_context": [
+        "Gerald is holding the hand of the Lady in Gold Gown at the altar",
+        "The Lady in Gold Gown states that Gerald is marrying her"
+      ]
+    },
+    {
+      "episode_id": "ep_001",
+      "revelation_id": "R02",
+      "prerequisite_context": [
+        "The Lady in Gold Gown knew of the betrayal in advance",
+        "She says Gerald was never going to marry Juliana"
+      ]
+    },
+    {
+      "episode_id": "ep_004",
+      "revelation_id": "R4",
+      "prerequisite_context": [
+        "The priest pronounces the couple husband and wife in an off-screen voice",
+        "The priest had earlier hesitated before proceeding"
+      ]
+    },
+    {
+      "episode_id": "ep_011",
+      "revelation_id": "r1",
+      "prerequisite_context": [
+        "Gerald accuses Alexander of stealing his gold pocket watch",
+        "The Constable finds a gold pocket watch inside Alexander's coat"
+      ]
+    },
+    {
+      "episode_id": "ep_023",
+      "revelation_id": "rev_2",
+      "prerequisite_context": [
+        "Juliana's late mother's journal records toxic symptoms matching the Duchess's condition",
+        "Juliana asserts that someone is poisoning the Duchess"
+      ]
+    },
+    {
+      "episode_id": "ep_027",
+      "revelation_id": "r1",
+      "prerequisite_context": [
+        "The Duchess says the ring bears the Ashbourne crest",
+        "Juliana says her husband gave her the ring"
+      ]
+    },
+    {
+      "episode_id": "ep_028",
+      "revelation_id": "r3",
+      "prerequisite_context": [
+        "Catherine reads the herbarium inscription Juliana Ashcroft",
+        "Catherine names her Lady Juliana Ashcroft"
+      ]
+    },
+    {
+      "episode_id": "ep_035",
+      "revelation_id": "r2",
+      "prerequisite_context": [
+        "Alexander says the ambush was ordered to erase him",
+        "Alexander says someone wanted his mother to believe he was dead"
+      ]
+    },
+    {
+      "episode_id": "ep_036",
+      "revelation_id": "r7",
+      "prerequisite_context": [
+        "Juliana was arrested and accused of poisoning Alexander",
+        "The mother reports that Juliana was condemned by a magistrate"
+      ]
+    },
+    {
+      "episode_id": "ep_045",
+      "revelation_id": "R1",
+      "prerequisite_context": [
+        "Alexander kneels before Juliana and unchains her",
+        "Alexander identifies himself as Alexander Ashburton, the rightful Duke"
+      ]
+    }
+  ]
+}

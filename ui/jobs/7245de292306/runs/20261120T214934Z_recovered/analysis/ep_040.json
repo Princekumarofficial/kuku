@@ -1,0 +1,234 @@
+{
+  "episode_id": "ep_040",
+  "summary": "Coverage is incomplete: the source warning notes gaps that are unavailable, and the on-screen evidence runs only through EP40:E51 (scenes sc_001 to sc_004, ending at 110080 ms with a cut to black). Analysis rests solely on event text; the supplied metadata (logline and continuity notes) is not on-screen evidence and was not used for any claims. Lord and Lady Harrington arrive at the cathedral and discuss a Juliana they expect to be harmed, with the Duchess of Ashburgh connection implied. An elder nobleman and a Royal Guard confirm all entrances are covered, and the elder nobleman says Ashburgh will have a new Duke and Duchess by sunset and that its witch will be dead. Rupert and Catherine's wedding then proceeds, with a conspiratorial exchange at the altar. Whether Rupert and Catherine are knowing conspirators, the identities of the elder nobleman and guard beyond on-screen roles, and the fate of Juliana are not established by the visible evidence; these are reported as uncertain.",
+  "characters": [
+    {
+      "name": "Lord Harrington",
+      "role": "Noble, ambitious and proud; arrives with Lady Harrington and speaks of the Duchess of Ashburgh connection and Juliana's fate (E10, E14, E16, E23)"
+    },
+    {
+      "name": "Lady Harrington",
+      "role": "Noble, malicious and smug; taunts about Juliana and expresses vindictive anticipation (E7, E12, E19, E22, E25, E45)"
+    },
+    {
+      "name": "Rupert (the Blond Nobleman)",
+      "role": "Groom at the altar; speaks nervously and smugly at the ceremony (E26, E27, E48)"
+    },
+    {
+      "name": "Catherine",
+      "role": "Bride entering the cathedral; speaks with coquettish smugness (E42, E50)"
+    },
+    {
+      "name": "Elder Nobleman",
+      "role": "Unnamed elder conspirator on the balcony; gives orders and voices the threat against Ashburgh's witch (E29, E32, E34, E36, E38)"
+    },
+    {
+      "name": "Royal Guard",
+      "role": "Unnamed guard in red uniform reporting that all entrances are covered (E31, E33)"
+    },
+    {
+      "name": "Footman",
+      "role": "Unnamed footman who announces the Harrington family (E3, E4)"
+    }
+  ],
+  "beats": [
+    {
+      "id": "b_001",
+      "kind": "arrival",
+      "event_refs": [
+        "EP40:E1",
+        "EP40:E2",
+        "EP40:E3",
+        "EP40:E4",
+        "EP40:E5",
+        "EP40:E6"
+      ],
+      "description": "Noble guests ascend the cathedral steps as the Harringtons arrive by carriage and are announced.",
+      "intensity_0_10": 3.0
+    },
+    {
+      "id": "b_002",
+      "kind": "menace_setup",
+      "event_refs": [
+        "EP40:E7",
+        "EP40:E8",
+        "EP40:E9",
+        "EP40:E10",
+        "EP40:E11",
+        "EP40:E12",
+        "EP40:E13",
+        "EP40:E14",
+        "EP40:E15",
+        "EP40:E16",
+        "EP40:E17"
+      ],
+      "description": "The Harringtons speak of connection to the Duchess of Ashburgh and of Juliana, whom Lord Harrington says will not be seeing anything for long; the exchange is ominous but its exact nature is not fully explained on screen.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b_003",
+      "kind": "anticipation",
+      "event_refs": [
+        "EP40:E18",
+        "EP40:E19",
+        "EP40:E20",
+        "EP40:E21",
+        "EP40:E22",
+        "EP40:E23",
+        "EP40:E24",
+        "EP40:E25"
+      ],
+      "description": "The Harringtons take their pew and Lady Harrington hints at a sinister outcome 'after' the wedding.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b_004",
+      "kind": "conspiracy_reveal",
+      "event_refs": [
+        "EP40:E29",
+        "EP40:E30",
+        "EP40:E31",
+        "EP40:E32",
+        "EP40:E33",
+        "EP40:E34",
+        "EP40:E35",
+        "EP40:E36",
+        "EP40:E37",
+        "EP40:E38"
+      ],
+      "description": "On the balcony an elder nobleman confirms through a Royal Guard that all entrances are covered and voices a plan for Ashburgh's new rulers and the death of its witch by sunset.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "b_005",
+      "kind": "ceremony_entrance",
+      "event_refs": [
+        "EP40:E39",
+        "EP40:E40",
+        "EP40:E41",
+        "EP40:E42",
+        "EP40:E43",
+        "EP40:E44",
+        "EP40:E45",
+        "EP40:E46",
+        "EP40:E47"
+      ],
+      "description": "Catherine enters the cathedral in a bridal gown to organ music and approaches the altar where Rupert waits.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "b_006",
+      "kind": "ceremony_exchange",
+      "event_refs": [
+        "EP40:E48",
+        "EP40:E49",
+        "EP40:E50",
+        "EP40:E51"
+      ],
+      "description": "Rupert and Catherine exchange flattering and smug remarks and a conspiratorial look at the altar before the scene cuts to black.",
+      "intensity_0_10": 5.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "r_001",
+      "event_refs": [
+        "EP40:E32",
+        "EP40:E33",
+        "EP40:E34"
+      ],
+      "claim": "The cathedral's exits are reportedly covered on the elder nobleman's orders, suggesting a planned containment of guests.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "Who exactly is the elder nobleman and how is he tied to the Harringtons?",
+        "Why are all entrances being covered?"
+      ]
+    },
+    {
+      "id": "r_002",
+      "event_refs": [
+        "EP40:E36",
+        "EP40:E38"
+      ],
+      "claim": "The elder nobleman plans for Ashburgh to have a new Duke and Duchess by sunset and states that its witch will be dead.",
+      "spoiler_significance_0_10": 8.0,
+      "creates_questions": [
+        "Who is the witch the elder nobleman refers to, and is it Juliana?",
+        "Who are the intended new Duke and Duchess?",
+        "Does the plan succeed?"
+      ]
+    },
+    {
+      "id": "r_003",
+      "event_refs": [
+        "EP40:E14",
+        "EP40:E16"
+      ],
+      "claim": "Lord Harrington implies Juliana will soon be unable to see anything and mocks her unluckiness at this place, suggesting harm is planned against her.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "What exactly is planned for Juliana?",
+        "Is Juliana present at the cathedral?"
+      ]
+    },
+    {
+      "id": "r_004",
+      "event_refs": [
+        "EP40:E48",
+        "EP40:E50",
+        "EP40:E51"
+      ],
+      "claim": "Catherine's remark about Rupert being an ignored cousin and the conspiratorial exchange at the altar hint that the couple may be part of the plot, though this is not confirmed on screen.",
+      "spoiler_significance_0_10": 5.0,
+      "creates_questions": [
+        "Are Rupert and Catherine knowingly involved in the conspiracy?",
+        "What is the family relationship and history between Rupert and Catherine?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "What is Juliana's fate and where is she?",
+      "introduced_by": [
+        "EP40:E12",
+        "EP40:E14",
+        "EP40:E16"
+      ]
+    },
+    {
+      "question": "Who is the elder nobleman and what is his relationship to the Harringtons?",
+      "introduced_by": [
+        "EP40:E29",
+        "EP40:E32",
+        "EP40:E36"
+      ]
+    },
+    {
+      "question": "Who is the witch the elder nobleman plans to kill?",
+      "introduced_by": [
+        "EP40:E38"
+      ]
+    },
+    {
+      "question": "Who will become the new Duke and Duchess of Ashburgh, and how do the Harringtons connect to them?",
+      "introduced_by": [
+        "EP40:E10",
+        "EP40:E36"
+      ]
+    },
+    {
+      "question": "Are Rupert and Catherine knowing participants in the conspiracy?",
+      "introduced_by": [
+        "EP40:E50",
+        "EP40:E51"
+      ]
+    },
+    {
+      "question": "What happens at sunset and during the events beyond the wedding, given that the source coverage is incomplete?",
+      "introduced_by": [
+        "EP40:E25",
+        "EP40:E36"
+      ]
+    }
+  ]
+}

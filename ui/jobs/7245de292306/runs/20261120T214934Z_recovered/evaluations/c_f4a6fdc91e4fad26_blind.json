@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_f4a6fdc91e4fad26",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP19:E38",
+      "EP19:E41"
+    ],
+    "reason": "The opening extreme close-up of a trembling fist at 0-100ms signals tension immediately, and the informant's line from 300ms says the household has been dismantled. A first-time viewer has no idea who Alexander is or why the servants were dismissed, so the hook is intriguing but not fully grounded."
+  },
+  "cliffhanger": {
+    "score_0_10": 4.0,
+    "evidence_refs": [
+      "EP19:E50",
+      "EP19:E51"
+    ],
+    "reason": "The clip ends on the line 'Then Ashburg will remember who it belongs to' and then cuts to a barn loft where Juliana sits by a lantern. The unresolved feeling comes mainly from the abrupt shift to an unfamiliar character, not from a suspenseful event that is left hanging, so it is only a weak cliffhanger.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Identity and background of Alexander",
+      "Who the informant is and what the 'proof' refers to",
+      "What Ashburg is and why it belongs to Alexander",
+      "Why Alexander is presumed dead and what he has been hiding",
+      "Who Juliana is and how she connects to Alexander or the informant",
+      "Why the family's servants were dismissed or replaced"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 6.0,
+    "reason": "Alexander's trembling restraint, his anguish at 'My mother is a prisoner in her own house', and his grim resolve in 'Then let them believe it a little longer' convey strong feeling. The emotion is clear, but without backstory it reads more as tone than as personal investment."
+  },
+  "weaknesses": [
+    "Key names and places (Alexander, Ashburg, Juliana) are introduced without explanation for a viewer who knows only this clip",
+    "The informant's identity and role are unclear",
+    "The final shot shifts to Juliana with no visible link to the preceding dialogue",
+    "The 'believes you are dead' reveal has no context for why it matters",
+    "The last shot is descriptive rather than a tense moment, so the ending does not create urgency"
+  ],
+  "one_line_why_it_works": "Tight visual framing and clipped dialogue create a sense of suppressed anger and secrecy around Alexander, which makes the viewer want to know what he is planning."
+}

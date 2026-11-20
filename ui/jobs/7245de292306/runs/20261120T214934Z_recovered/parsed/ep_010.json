@@ -1,0 +1,871 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "ep_010",
+  "episode_number": 10,
+  "metadata": {
+    "logline": "When Alexander returns to the cottage gravely wounded and soaked in blood, Juliana tends to his injuries, leading to an intimate confrontation where their unspoken feelings and scarred pasts finally collide.",
+    "continuity_notes": "Follows the ominous revelation from Episode 9 of rumors circulating about a scarred war veteran, cutting directly to the secluded cottage where Alexander arrives bearing fresh wounds."
+  },
+  "source": {
+    "file": "009_episode-010-Episode 1671712.txt",
+    "sha256": "474a02d035632a75787ddf6796abafcb7a5dac806f9739e25b3de09e0de5841f",
+    "complete": true
+  },
+  "scenes": [
+    {
+      "start_ms": 0,
+      "end_ms": 94000,
+      "id": "sc_001",
+      "heading": "INT. WOODLAND COTTAGE – NIGHT"
+    }
+  ],
+  "events": [
+    {
+      "start_ms": 0,
+      "end_ms": 2500,
+      "id": "e_001",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium profile shot of Juliana sitting at a wooden table beside the glowing fireplace, reading an old herbal medicine book.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        14,
+        16
+      ]
+    },
+    {
+      "start_ms": 0,
+      "end_ms": 2200,
+      "id": "e_002",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana quietly studies the botanical illustrations by firelight, a bundle of fresh dried herbs resting on the table.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        18,
+        20
+      ]
+    },
+    {
+      "start_ms": 2100,
+      "end_ms": 3300,
+      "id": "e_003",
+      "scene_id": "sc_001",
+      "type": "sound",
+      "text": "A heavy wooden door suddenly creaks and bangs open in the quiet cottage.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        22,
+        24
+      ]
+    },
+    {
+      "start_ms": 2200,
+      "end_ms": 3500,
+      "id": "e_004",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana jerks her head up from the book, startled by the sudden intrusion.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        26,
+        28
+      ]
+    },
+    {
+      "start_ms": 2600,
+      "end_ms": 4200,
+      "id": "e_005",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium wide shot framing the doorway as Alexander stands framed in the dark threshold, panting heavily, his hand pressed against his blood-soaked chest.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        30,
+        32
+      ]
+    },
+    {
+      "start_ms": 4200,
+      "end_ms": 6800,
+      "id": "e_006",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Juliana rising swiftly from her chair, shock and terror flashing across her face.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        34,
+        36
+      ]
+    },
+    {
+      "start_ms": 5100,
+      "end_ms": 6600,
+      "id": "e_007",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Alexander!\"",
+      "speaker": "JULIANA",
+      "delivery": "Alarmed, Breathless",
+      "source_lines": [
+        38,
+        40
+      ]
+    },
+    {
+      "start_ms": 6800,
+      "end_ms": 9100,
+      "id": "e_008",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Alexander struggling to breathe, clutching his bloodied coat over his chest.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        42,
+        44
+      ]
+    },
+    {
+      "start_ms": 7500,
+      "end_ms": 9000,
+      "id": "e_009",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"It is nothing.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Gruff, Strained",
+      "source_lines": [
+        46,
+        48
+      ]
+    },
+    {
+      "start_ms": 9100,
+      "end_ms": 11500,
+      "id": "e_010",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Juliana hurriedly stepping toward him across the stone floor.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        50,
+        52
+      ]
+    },
+    {
+      "start_ms": 9150,
+      "end_ms": 11450,
+      "id": "e_011",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"There is blood running down your arm.\"",
+      "speaker": "JULIANA",
+      "delivery": "Urgent, Worried",
+      "source_lines": [
+        54,
+        56
+      ]
+    },
+    {
+      "start_ms": 11500,
+      "end_ms": 14200,
+      "id": "e_012",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium profile two-shot as Alexander stands rigid while Juliana confronts him.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        58,
+        60
+      ]
+    },
+    {
+      "start_ms": 11900,
+      "end_ms": 14300,
+      "id": "e_013",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"A cut from the tenant fields.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Stiff, Dismissive",
+      "source_lines": [
+        62,
+        64
+      ]
+    },
+    {
+      "start_ms": 14200,
+      "end_ms": 16000,
+      "id": "e_014",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Wide shot of the hearth room as Juliana firmly points toward a wooden armchair beside the fire.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        66,
+        68
+      ]
+    },
+    {
+      "start_ms": 14500,
+      "end_ms": 16000,
+      "id": "e_015",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Sit down.\"",
+      "speaker": "JULIANA",
+      "delivery": "Commanding, Resolute",
+      "source_lines": [
+        70,
+        72
+      ]
+    },
+    {
+      "start_ms": 16000,
+      "end_ms": 17800,
+      "id": "e_016",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana's determined, unyielding expression.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        74,
+        76
+      ]
+    },
+    {
+      "start_ms": 16200,
+      "end_ms": 17300,
+      "id": "e_017",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Now.\"",
+      "speaker": "JULIANA",
+      "delivery": "Stern",
+      "source_lines": [
+        78,
+        80
+      ]
+    },
+    {
+      "start_ms": 17800,
+      "end_ms": 20000,
+      "id": "e_018",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Alexander reluctantly lowering his heavy frame onto the chair in front of the fire.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        82,
+        84
+      ]
+    },
+    {
+      "start_ms": 20000,
+      "end_ms": 23000,
+      "id": "e_019",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium tracking shot following Juliana as she brings a wooden washbowl, fresh cloth, and an earthen jar of ointment to the foot of his chair.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        86,
+        88
+      ]
+    },
+    {
+      "start_ms": 20900,
+      "end_ms": 22900,
+      "id": "e_020",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I need to see the wound.\"",
+      "speaker": "JULIANA",
+      "delivery": "Gentle, Insistent",
+      "source_lines": [
+        90,
+        92
+      ]
+    },
+    {
+      "start_ms": 23000,
+      "end_ms": 25200,
+      "id": "e_021",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle close-up of Alexander looking up at her stubbornly.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        94,
+        96
+      ]
+    },
+    {
+      "start_ms": 23200,
+      "end_ms": 24900,
+      "id": "e_022",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"It is only a scratch.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Low, Defiant",
+      "source_lines": [
+        98,
+        100
+      ]
+    },
+    {
+      "start_ms": 25200,
+      "end_ms": 28000,
+      "id": "e_023",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Juliana crossing her arms over her chest, eyeing him with quiet defiance.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        102,
+        104
+      ]
+    },
+    {
+      "start_ms": 25500,
+      "end_ms": 28000,
+      "id": "e_024",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Then removing your shirt should not trouble you.\"",
+      "speaker": "JULIANA",
+      "delivery": "Sarcastic, Challenging",
+      "source_lines": [
+        106,
+        108
+      ]
+    },
+    {
+      "start_ms": 28000,
+      "end_ms": 31800,
+      "id": "e_025",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot as Alexander stares at her for a beat before pushing himself up from the chair and shedding his heavy leather coat.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        110,
+        112
+      ]
+    },
+    {
+      "start_ms": 31800,
+      "end_ms": 33200,
+      "id": "e_026",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana observing him with guarded anticipation.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        114,
+        116
+      ]
+    },
+    {
+      "start_ms": 33200,
+      "end_ms": 36500,
+      "id": "e_027",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up shot of Alexander pulling his dark shirt over his head, revealing his muscular torso crisscrossed with jagged battle scars and fresh bleeding lacerations.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        118,
+        120
+      ]
+    },
+    {
+      "start_ms": 36500,
+      "end_ms": 38000,
+      "id": "e_028",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Tight pan over the scarred, wounded flesh along his chest and ribs.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        122,
+        124
+      ]
+    },
+    {
+      "start_ms": 38000,
+      "end_ms": 39200,
+      "id": "e_029",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana's eyes widening in horror and deep pity.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        126,
+        128
+      ]
+    },
+    {
+      "start_ms": 38100,
+      "end_ms": 38900,
+      "id": "e_030",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Dear God.\"",
+      "speaker": "JULIANA",
+      "delivery": "Whispering, Distressed",
+      "source_lines": [
+        130,
+        132
+      ]
+    },
+    {
+      "start_ms": 39200,
+      "end_ms": 43000,
+      "id": "e_031",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium wide shot as Alexander sinks back into the chair, exhausted, while Juliana slowly kneels before him on the stone floor.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        134,
+        136
+      ]
+    },
+    {
+      "start_ms": 43000,
+      "end_ms": 45000,
+      "id": "e_032",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Extreme close-up macro shot of Juliana's trembling fingers hovering tenderly over the raised, jagged scar across Alexander's chest.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        138,
+        140
+      ]
+    },
+    {
+      "start_ms": 45000,
+      "end_ms": 47300,
+      "id": "e_033",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana looking up at him, her eyes softened with profound empathy.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        142,
+        144
+      ]
+    },
+    {
+      "start_ms": 45300,
+      "end_ms": 47100,
+      "id": "e_034",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You have suffered terribly.\"",
+      "speaker": "JULIANA",
+      "delivery": "Soft, Sorrowful",
+      "source_lines": [
+        146,
+        148
+      ]
+    },
+    {
+      "start_ms": 47300,
+      "end_ms": 49500,
+      "id": "e_035",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Alexander's weathered, scarred face gazing down at her with quiet stoicism.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        150,
+        152
+      ]
+    },
+    {
+      "start_ms": 47800,
+      "end_ms": 49000,
+      "id": "e_036",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"It is over.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Quiet, Somber",
+      "source_lines": [
+        154,
+        156
+      ]
+    },
+    {
+      "start_ms": 49500,
+      "end_ms": 51500,
+      "id": "e_037",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Juliana dipping a linen cloth into the water bowl.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        158,
+        160
+      ]
+    },
+    {
+      "start_ms": 49700,
+      "end_ms": 51300,
+      "id": "e_038",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Your scars disagree.\"",
+      "speaker": "JULIANA",
+      "delivery": "Gentle",
+      "source_lines": [
+        162,
+        164
+      ]
+    },
+    {
+      "start_ms": 51500,
+      "end_ms": 54000,
+      "id": "e_039",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up shot of Juliana carefully dabbing the damp cloth against the bloody cut on Alexander's shoulder.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        166,
+        168
+      ]
+    },
+    {
+      "start_ms": 52000,
+      "end_ms": 53300,
+      "id": "e_040",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Does it hurt?\"",
+      "speaker": "JULIANA",
+      "delivery": "Tender",
+      "source_lines": [
+        170,
+        172
+      ]
+    },
+    {
+      "start_ms": 54000,
+      "end_ms": 55500,
+      "id": "e_041",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Alexander trying not to wince under her touch.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        174,
+        176
+      ]
+    },
+    {
+      "start_ms": 54000,
+      "end_ms": 55200,
+      "id": "e_042",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Not much.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Gruff",
+      "source_lines": [
+        178,
+        180
+      ]
+    },
+    {
+      "start_ms": 55500,
+      "end_ms": 58000,
+      "id": "e_043",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana smiling softly, amused by his stubborn pride.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        182,
+        184
+      ]
+    },
+    {
+      "start_ms": 55600,
+      "end_ms": 57600,
+      "id": "e_044",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You are a terrible liar.\"",
+      "speaker": "JULIANA",
+      "delivery": "Playful, Whispering",
+      "source_lines": [
+        186,
+        188
+      ]
+    },
+    {
+      "start_ms": 58000,
+      "end_ms": 60000,
+      "id": "e_045",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Extreme close-up of Juliana's fingers taking a dollop of green herbal salve and smoothing it gently over his shoulder wound.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        190,
+        192
+      ]
+    },
+    {
+      "start_ms": 60000,
+      "end_ms": 63000,
+      "id": "e_046",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up over Juliana's shoulder looking at Alexander, who stares intently into her face, oblivious to the wound.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        194,
+        196
+      ]
+    },
+    {
+      "start_ms": 63000,
+      "end_ms": 66200,
+      "id": "e_047",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana looking up from his shoulder into his eyes, sensing the intensity of his gaze.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        198,
+        200
+      ]
+    },
+    {
+      "start_ms": 63900,
+      "end_ms": 66100,
+      "id": "e_048",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Why do you look at me like that?\"",
+      "speaker": "JULIANA",
+      "delivery": "Soft, Breathless",
+      "source_lines": [
+        202,
+        204
+      ]
+    },
+    {
+      "start_ms": 66200,
+      "end_ms": 68800,
+      "id": "e_049",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Alexander, his voice deep and laden with restrained emotion.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        206,
+        208
+      ]
+    },
+    {
+      "start_ms": 66500,
+      "end_ms": 68400,
+      "id": "e_050",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Because you are looking at me.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Intense, Sincere",
+      "source_lines": [
+        210,
+        212
+      ]
+    },
+    {
+      "start_ms": 68800,
+      "end_ms": 71500,
+      "id": "e_051",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Juliana looking back down at his shoulder to hide her growing fluster, applying the salve carefully.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        214,
+        216
+      ]
+    },
+    {
+      "start_ms": 69600,
+      "end_ms": 70900,
+      "id": "e_052",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Hold still.\"",
+      "speaker": "JULIANA",
+      "delivery": "Flustered, Whispering",
+      "source_lines": [
+        218,
+        220
+      ]
+    },
+    {
+      "start_ms": 71500,
+      "end_ms": 74500,
+      "id": "e_053",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Alexander leaning closer to her, his breathing heavy.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        222,
+        224
+      ]
+    },
+    {
+      "start_ms": 72100,
+      "end_ms": 74200,
+      "id": "e_054",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I am holding still.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Low, Husky",
+      "source_lines": [
+        226,
+        228
+      ]
+    },
+    {
+      "start_ms": 74500,
+      "end_ms": 77000,
+      "id": "e_055",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up two-shot of their faces drawing mere inches apart in the warm firelight.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        230,
+        232
+      ]
+    },
+    {
+      "start_ms": 76800,
+      "end_ms": 79000,
+      "id": "e_056",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Perhaps it is your hand.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Whispering, Vulnerable",
+      "source_lines": [
+        234,
+        236
+      ]
+    },
+    {
+      "start_ms": 79000,
+      "end_ms": 82500,
+      "id": "e_057",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Alexander's large, rough hands reaching up and gently enveloping Juliana's slender hands, bringing them against his bare chest over his racing heart.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        238,
+        240
+      ]
+    },
+    {
+      "start_ms": 82500,
+      "end_ms": 86500,
+      "id": "e_058",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up shot of Alexander gazing into Juliana's eyes with raw, unmasked devotion.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        242,
+        244
+      ]
+    },
+    {
+      "start_ms": 82600,
+      "end_ms": 85900,
+      "id": "e_059",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Your touch is the only medicine that has ever eased my pain.\"",
+      "speaker": "ALEXANDER",
+      "delivery": "Deep, Emotional",
+      "source_lines": [
+        246,
+        248
+      ]
+    },
+    {
+      "start_ms": 86500,
+      "end_ms": 94000,
+      "id": "e_060",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up shot holding on Juliana's wide, luminous blue eyes, completely captivated and overwhelmed by his confession, the firelight dancing across their intertwined hands as the scene lingers and fades.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        250,
+        252
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "start_ms": 0,
+      "end_ms": 94000
+    }
+  ],
+  "warnings": []
+}

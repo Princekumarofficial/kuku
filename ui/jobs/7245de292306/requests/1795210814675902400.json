@@ -1,0 +1,207 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_6fef83f5f89d45fe DURATION_MS=31500\nSEGMENT 1 (playback order)\nEP04:E58 0-300 CAMERA: Close-up of Juliana's slender hand resting gently into his large, weathered palm.\nEP04:E60 300-2500 CAMERA: Medium close-up of the Priest holding his open liturgical book, bewildered and trembling.\nEP04:E61 500-2300 THE PRIEST: \"My- My Lady...\"\nEP04:E63 2500-4300 THE PRIEST: \"Are you certain?\"\nEP04:E62 2500-4500 CAMERA: Tight close-up of the Priest's alarmed, questioning eyes.\nEP04:E64 4500-7300 CAMERA: Medium shot of Lord Ashcroft seated in his pew, gripping his cane, bowed in grim silence.\nEP04:E65 7300-10000 CAMERA: Close-up profile of Juliana, her expression clear and unshakable.\nEP04:E66 8300-9500 JULIANA: \"I am.\"\nEP04:E67 10000-13300 CAMERA: Medium close-up of the Priest swallowing hard and looking down at his book.\nEP04:E68 10500-13000 THE PRIEST: \"Then... let us proceed.\"\nEP04:E69 13300-16300 CAMERA: Close two-shot of the Mysterious Bearded Man and Juliana gazing intimately into each other's eyes.\nEP04:E70 14300-16500 MYSTERIOUS BEARDED MAN: \"You need not say anything you do not mean.\"\nEP04:E71 16300-18700 CAMERA: Close-up of Juliana smiling softly up at him.\nEP04:E72 16700-18500 JULIANA: \"I truly mean it.\"\nEP04:E73 18700-20700 CAMERA: Close-up shot of his hands sliding the silver ring over her ring finger.\nEP04:E74 18700-20700 ACTION: The Mysterious Bearded Man carefully slides the band onto Juliana's finger.\nEP04:E75 20700-23500 CAMERA: Medium close-up of the Mysterious Bearded Man holding her hands tenderly.\nEP04:E76 21000-22700 MYSTERIOUS BEARDED MAN: \"You have my protection.\"\nEP04:E77 23500-26300 CAMERA: Tight shot of the warrior's face, his eyes full of devotion.\nEP04:E78 23700-25500 MYSTERIOUS BEARDED MAN: \"You have my respect.\"\nEP04:E80 26300-28300 MYSTERIOUS BEARDED MAN: \"And you have my word.\"\nEP04:E79 26300-28500 CAMERA: Extreme close-up of his intense gaze.\nEP04:E81 28500-31300 CAMERA: Medium three-shot with the Priest standing between them, raising both hands in blessing over their joined hands.\nEP04:E82 28500-31500 THE PRIEST: \"By the authority entrusted to me, I now pronounce you...\"\nEP04:E83 31300-31500 CAMERA: High wide establishing shot looking down from the ceiling vaults of the cathedral onto the altar.",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "complete",
+  "output": {
+    "candidate_id": "c_6fef83f5f89d45fe",
+    "hook": {
+      "score_0_10": 6.0,
+      "evidence_refs": [
+        "EP04:E58",
+        "EP04:E60",
+        "EP04:E61",
+        "EP04:E82",
+        "EP04:E83"
+      ],
+      "reason": "The opening within 0-3000ms shows a hand joining and a trembling priest stammering \"My- My Lady...\", which creates a question about the situation. The final 3000ms shows the priest beginning a pronouncement and a wide cathedral shot, but the hook depends on a tension the clip never explains."
+    },
+    "cliffhanger": {
+      "score_0_10": 4.0,
+      "evidence_refs": [
+        "EP04:E82",
+        "EP04:E83"
+      ],
+      "reason": "The priest's pronouncement is cut off mid-sentence at \"I now pronounce you...\", which leaves the final words unresolved. The ceremony itself appears to be proceeding without conflict, so the open ending is mainly a cut-off line rather than a dangling plot threat.",
+      "unresolved_at_end": true
+    },
+    "standalone": {
+      "score_0_10": 4.0,
+      "missing_context": [
+        "Identity and background of Juliana and the Mysterious Bearded Man",
+        "Reason the priest is bewildered and asks \"Are you certain?\"",
+        "Why Lord Ashcroft sits in grim silence and what his silence means",
+        "Why the ceremony is unusual or who is objecting, if anyone",
+        "What \"protection\", \"respect\" and \"word\" refer to in the couple's relationship",
+        "The final pronouncement is incomplete, so the outcome of the marriage is not shown"
+      ]
+    },
+    "emotion": {
+      "score_0_10": 7.0,
+      "reason": "The clip builds tension through the trembling priest, the grim onlooker and the questioning eyes, then shifts into tender, intimate vows and a sincere exchange of promises. The emotional tone is strong even without background context."
+    },
+    "weaknesses": [
+      "Opening tension is not explained, so the first-time viewer cannot tell what the priest fears or why the wedding is irregular",
+      "Lord Ashcroft's grim silence is shown without any cue for what he represents",
+      "The clip ends mid-sentence, which reads as an abrupt cut rather than a deliberate hook",
+      "Vows are emotionally charged but their meaning depends on unseen story context",
+      "Several short shots in the middle make the scene feel rushed"
+    ],
+    "one_line_why_it_works": "A trembling priest's hesitant \"Are you certain?\" and Juliana's firm \"I am.\" create immediate tension that is then softened by tender vows and an interrupted pronouncement."
+  }
+}

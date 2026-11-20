@@ -1,0 +1,1581 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "ep_004",
+  "episode_number": 4,
+  "metadata": {
+    "logline": "Defying Gerald and Clarissa's cruel mockery, Juliana accepts the mysterious scarred warrior's solemn proposal and is officially wed, choosing exile and dignity over her family's cruelty as they walk out into the light together.",
+    "continuity_notes": "Picks up directly from Episode 3's cliffhanger where the Mysterious Bearded Man dropped to one knee before the altar, presenting a ring to Lady Juliana."
+  },
+  "source": {
+    "file": "003_episode-004-Episode 1671706.txt",
+    "sha256": "65f7f9c356a21c86dddfd4808bbdbc65dcd22f0ce220cc2de2cbcdc0371fc51b",
+    "complete": false
+  },
+  "scenes": [
+    {
+      "start_ms": 0,
+      "end_ms": 151400,
+      "id": "sc_001",
+      "heading": "INT. CHAPEL – CONTINUOUS"
+    }
+  ],
+  "events": [
+    {
+      "start_ms": 0,
+      "end_ms": 1500,
+      "id": "e_001",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the Mysterious Bearded Man's scarred hand holding out the silver band ring.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        14,
+        16
+      ]
+    },
+    {
+      "start_ms": 1500,
+      "end_ms": 3200,
+      "id": "e_002",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Juliana, staring down in disbelief at the offered ring.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        18,
+        20
+      ]
+    },
+    {
+      "start_ms": 1500,
+      "end_ms": 3200,
+      "id": "e_003",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana's eyes widen, stunned breath catching in her throat.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        22,
+        24
+      ]
+    },
+    {
+      "start_ms": 3200,
+      "end_ms": 5000,
+      "id": "e_004",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Gerald stepping forward from his pew with a smug, sneering grin.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        26,
+        28
+      ]
+    },
+    {
+      "start_ms": 3400,
+      "end_ms": 4900,
+      "id": "e_005",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Look at him.\"",
+      "speaker": "GERALD",
+      "delivery": "Mocking, Arrogant",
+      "source_lines": [
+        30,
+        32
+      ]
+    },
+    {
+      "start_ms": 5000,
+      "end_ms": 7500,
+      "id": "e_006",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Tight close-up of Gerald's venomous, self-satisfied face.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        34,
+        36
+      ]
+    },
+    {
+      "start_ms": 5000,
+      "end_ms": 7500,
+      "id": "e_007",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"A penniless nobody for a discarded bride.\"",
+      "speaker": "GERALD",
+      "delivery": "Scornful",
+      "source_lines": [
+        38,
+        40
+      ]
+    },
+    {
+      "start_ms": 7600,
+      "end_ms": 10500,
+      "id": "e_008",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Clarissa covering her mouth with her gloved hand, bursting into cruel laughter.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        42,
+        44
+      ]
+    },
+    {
+      "start_ms": 7800,
+      "end_ms": 9500,
+      "id": "e_009",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Clarissa giggles spitefully, lowering her gloved hand to gloat.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        46,
+        48
+      ]
+    },
+    {
+      "start_ms": 9000,
+      "end_ms": 10500,
+      "id": "e_010",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"How fitting.\"",
+      "speaker": "CLARISSA",
+      "delivery": "Gleeful, Condescending",
+      "source_lines": [
+        50,
+        52
+      ]
+    },
+    {
+      "start_ms": 10500,
+      "end_ms": 12000,
+      "id": "e_011",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Two-shot of Clarissa and Gerald standing proudly side-by-side in their pew as Clarissa points mocking fingers.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        54,
+        56
+      ]
+    },
+    {
+      "start_ms": 10600,
+      "end_ms": 14200,
+      "id": "e_012",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You have finally found a man as worthless as everyone thinks you are.\"",
+      "speaker": "CLARISSA",
+      "delivery": "Taunting",
+      "source_lines": [
+        58,
+        60
+      ]
+    },
+    {
+      "start_ms": 12000,
+      "end_ms": 15000,
+      "id": "e_013",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana's side profile, hurt glistening in her eyes as the insult cuts deep.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        62,
+        64
+      ]
+    },
+    {
+      "start_ms": 15000,
+      "end_ms": 17500,
+      "id": "e_014",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Juliana looking up toward the high arches of the chapel, drawing inward strength.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        66,
+        68
+      ]
+    },
+    {
+      "start_ms": 15500,
+      "end_ms": 17500,
+      "id": "e_015",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana closes her eyes briefly and releases a steadying breath.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        70,
+        72
+      ]
+    },
+    {
+      "start_ms": 17500,
+      "end_ms": 21800,
+      "id": "e_016",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle shot looking past the kneeling Mysterious Bearded Man up at Juliana.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        74,
+        76
+      ]
+    },
+    {
+      "start_ms": 20000,
+      "end_ms": 21800,
+      "id": "e_017",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You don't even know me.\"",
+      "speaker": "JULIANA",
+      "delivery": "Vulnerable, Trembling",
+      "source_lines": [
+        78,
+        80
+      ]
+    },
+    {
+      "start_ms": 21900,
+      "end_ms": 23400,
+      "id": "e_018",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the Mysterious Bearded Man gazing upward with unwavering earnestness.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        82,
+        84
+      ]
+    },
+    {
+      "start_ms": 23400,
+      "end_ms": 25800,
+      "id": "e_019",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Tight close-up of Juliana's anguished face.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        86,
+        88
+      ]
+    },
+    {
+      "start_ms": 23500,
+      "end_ms": 25800,
+      "id": "e_020",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You heard what they think I am.\"",
+      "speaker": "JULIANA",
+      "delivery": "Conflicted, Pained",
+      "source_lines": [
+        90,
+        92
+      ]
+    },
+    {
+      "start_ms": 25800,
+      "end_ms": 27900,
+      "id": "e_021",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot looking down as Juliana addresses the kneeling stranger directly.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        94,
+        96
+      ]
+    },
+    {
+      "start_ms": 25900,
+      "end_ms": 27700,
+      "id": "e_022",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Why would you offer me your name?\"",
+      "speaker": "JULIANA",
+      "delivery": "Searching",
+      "source_lines": [
+        98,
+        100
+      ]
+    },
+    {
+      "start_ms": 27900,
+      "end_ms": 30500,
+      "id": "e_023",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle close-up of the Mysterious Bearded Man.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        102,
+        104
+      ]
+    },
+    {
+      "start_ms": 28000,
+      "end_ms": 30200,
+      "id": "e_024",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Because I know what I see.\"",
+      "speaker": "MYSTERIOUS BEARDED MAN",
+      "delivery": "Grave, Certain",
+      "source_lines": [
+        106,
+        108
+      ]
+    },
+    {
+      "start_ms": 30500,
+      "end_ms": 32000,
+      "id": "e_025",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Juliana reacting with a mix of suspicion and wonder.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        110,
+        112
+      ]
+    },
+    {
+      "start_ms": 32000,
+      "end_ms": 33800,
+      "id": "e_026",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Intimate tight shot framing Juliana's profile beside his dark silhouette.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        114,
+        116
+      ]
+    },
+    {
+      "start_ms": 32100,
+      "end_ms": 33700,
+      "id": "e_027",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"And what do you see?\"",
+      "speaker": "JULIANA",
+      "delivery": "Quiet, Hesitant",
+      "source_lines": [
+        118,
+        120
+      ]
+    },
+    {
+      "start_ms": 33800,
+      "end_ms": 36000,
+      "id": "e_028",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of the Mysterious Bearded Man.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        122,
+        124
+      ]
+    },
+    {
+      "start_ms": 34000,
+      "end_ms": 36000,
+      "id": "e_029",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"A woman who was betrayed.\"",
+      "speaker": "MYSTERIOUS BEARDED MAN",
+      "delivery": "Firm, Sincere",
+      "source_lines": [
+        126,
+        128
+      ]
+    },
+    {
+      "start_ms": 36000,
+      "end_ms": 38900,
+      "id": "e_030",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Over-the-shoulder shot past the bearded warrior toward Gerald watching nervously from the family pew.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        130,
+        132
+      ]
+    },
+    {
+      "start_ms": 36500,
+      "end_ms": 38800,
+      "id": "e_031",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Not a woman who deserves to be discarded.\"",
+      "speaker": "MYSTERIOUS BEARDED MAN",
+      "delivery": "Resolute",
+      "source_lines": [
+        134,
+        136
+      ]
+    },
+    {
+      "start_ms": 38900,
+      "end_ms": 41500,
+      "id": "e_032",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle medium shot of Juliana bending slightly forward, shaken by his words.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        138,
+        140
+      ]
+    },
+    {
+      "start_ms": 41500,
+      "end_ms": 45000,
+      "id": "e_033",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Juliana.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        142,
+        144
+      ]
+    },
+    {
+      "start_ms": 42000,
+      "end_ms": 44800,
+      "id": "e_034",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You don't know what my family has done to me.\"",
+      "speaker": "JULIANA",
+      "delivery": "Soft, Bitter",
+      "source_lines": [
+        146,
+        148
+      ]
+    },
+    {
+      "start_ms": 45000,
+      "end_ms": 49800,
+      "id": "e_035",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle shot of the Mysterious Bearded Man still on one knee, framed against the stained-glass window.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        150,
+        152
+      ]
+    },
+    {
+      "start_ms": 46000,
+      "end_ms": 48800,
+      "id": "e_036",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I know they have made you stand alone.\"",
+      "speaker": "MYSTERIOUS BEARDED MAN",
+      "delivery": "Solemn",
+      "source_lines": [
+        154,
+        156
+      ]
+    },
+    {
+      "start_ms": 49800,
+      "end_ms": 52800,
+      "id": "e_037",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Extreme close-up of the ring held in his weathered fingers, Juliana's white silk gown blurred in background.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        158,
+        160
+      ]
+    },
+    {
+      "start_ms": 50000,
+      "end_ms": 52500,
+      "id": "e_038",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You don't have to stand alone now.\"",
+      "speaker": "MYSTERIOUS BEARDED MAN",
+      "delivery": "Gentle",
+      "source_lines": [
+        162,
+        164
+      ]
+    },
+    {
+      "start_ms": 52800,
+      "end_ms": 55800,
+      "id": "e_039",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Juliana, her pride flaring through her sadness.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        166,
+        168
+      ]
+    },
+    {
+      "start_ms": 53600,
+      "end_ms": 55800,
+      "id": "e_040",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"If this is pity, take back your ring.\"",
+      "speaker": "JULIANA",
+      "delivery": "Defiant, Dignified",
+      "source_lines": [
+        170,
+        172
+      ]
+    },
+    {
+      "start_ms": 55800,
+      "end_ms": 59000,
+      "id": "e_041",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Tight close-up on Juliana's face, a tear clinging to her cheek.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        174,
+        176
+      ]
+    },
+    {
+      "start_ms": 56800,
+      "end_ms": 58800,
+      "id": "e_042",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I will not become anyone's charity.\"",
+      "speaker": "JULIANA",
+      "delivery": "Fierce",
+      "source_lines": [
+        178,
+        180
+      ]
+    },
+    {
+      "start_ms": 59000,
+      "end_ms": 62800,
+      "id": "e_043",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of the Mysterious Bearded Man holding her gaze directly.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        182,
+        184
+      ]
+    },
+    {
+      "start_ms": 59500,
+      "end_ms": 62500,
+      "id": "e_044",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"It is not pity, Lady Juliana.\"",
+      "speaker": "MYSTERIOUS BEARDED MAN",
+      "delivery": "Earnest",
+      "source_lines": [
+        186,
+        188
+      ]
+    },
+    {
+      "start_ms": 62800,
+      "end_ms": 65800,
+      "id": "e_045",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Intense tight close-up on his piercing blue-green eyes and facial scars.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        190,
+        192
+      ]
+    },
+    {
+      "start_ms": 63500,
+      "end_ms": 65500,
+      "id": "e_046",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"It is a vow.\"",
+      "speaker": "MYSTERIOUS BEARDED MAN",
+      "delivery": "Deep, Absolute",
+      "source_lines": [
+        194,
+        196
+      ]
+    },
+    {
+      "start_ms": 65800,
+      "end_ms": 67500,
+      "id": "e_047",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana, completely disarmed by the gravity of his promise.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        198,
+        200
+      ]
+    },
+    {
+      "start_ms": 66000,
+      "end_ms": 68000,
+      "id": "e_048",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I don't know this man.\"",
+      "speaker": "JULIANA",
+      "delivery": "V.O.",
+      "source_lines": [
+        202,
+        204
+      ]
+    },
+    {
+      "start_ms": 67500,
+      "end_ms": 69500,
+      "id": "e_049",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Lady Ashcroft, Clarissa, and Lord Ashcroft seated coldly in the family pew.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        206,
+        208
+      ]
+    },
+    {
+      "start_ms": 68000,
+      "end_ms": 69600,
+      "id": "e_050",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I don't know what waits beyond these doors.\"",
+      "speaker": "JULIANA",
+      "delivery": "V.O.",
+      "source_lines": [
+        210,
+        212
+      ]
+    },
+    {
+      "start_ms": 69500,
+      "end_ms": 71800,
+      "id": "e_051",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Side profile close-up of Juliana looking toward her estranged family, then turning back.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        214,
+        216
+      ]
+    },
+    {
+      "start_ms": 69800,
+      "end_ms": 72000,
+      "id": "e_052",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"But he looked at me when everyone else turned away.\"",
+      "speaker": "JULIANA",
+      "delivery": "V.O.",
+      "source_lines": [
+        218,
+        220
+      ]
+    },
+    {
+      "start_ms": 71800,
+      "end_ms": 74800,
+      "id": "e_053",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Juliana facing down at him, a faint, tender smile breaking across her lips.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        222,
+        224
+      ]
+    },
+    {
+      "start_ms": 72800,
+      "end_ms": 74500,
+      "id": "e_054",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Then I accept.\"",
+      "speaker": "JULIANA",
+      "delivery": "Resolved",
+      "source_lines": [
+        226,
+        228
+      ]
+    },
+    {
+      "start_ms": 74800,
+      "end_ms": 76200,
+      "id": "e_055",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Wide shot of the altar with the high cathedral stained glass overhead as the Priest looks on between them.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        230,
+        232
+      ]
+    },
+    {
+      "start_ms": 76200,
+      "end_ms": 79000,
+      "id": "e_056",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of the Mysterious Bearded Man rising smoothly to his feet before Juliana.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        234,
+        236
+      ]
+    },
+    {
+      "start_ms": 76200,
+      "end_ms": 79000,
+      "id": "e_057",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "The Mysterious Bearded Man stands tall, extending his scarred hand toward Juliana.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        238,
+        240
+      ]
+    },
+    {
+      "start_ms": 79000,
+      "end_ms": 81800,
+      "id": "e_058",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana's slender hand resting gently into his large, weathered palm.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        242,
+        244
+      ]
+    },
+    {
+      "start_ms": 79200,
+      "end_ms": 81500,
+      "id": "e_059",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "He folds his fingers over hers, holding her hand with protective firmness.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        246,
+        248
+      ]
+    },
+    {
+      "start_ms": 81800,
+      "end_ms": 84000,
+      "id": "e_060",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of the Priest holding his open liturgical book, bewildered and trembling.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        250,
+        252
+      ]
+    },
+    {
+      "start_ms": 82000,
+      "end_ms": 83800,
+      "id": "e_061",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"My- My Lady...\"",
+      "speaker": "THE PRIEST",
+      "delivery": "Hesitant, Anxious",
+      "source_lines": [
+        254,
+        256
+      ]
+    },
+    {
+      "start_ms": 84000,
+      "end_ms": 86000,
+      "id": "e_062",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Tight close-up of the Priest's alarmed, questioning eyes.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        258,
+        260
+      ]
+    },
+    {
+      "start_ms": 84000,
+      "end_ms": 85800,
+      "id": "e_063",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Are you certain?\"",
+      "speaker": "THE PRIEST",
+      "delivery": "Tentative",
+      "source_lines": [
+        262,
+        264
+      ]
+    },
+    {
+      "start_ms": 86000,
+      "end_ms": 88800,
+      "id": "e_064",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Lord Ashcroft seated in his pew, gripping his cane, bowed in grim silence.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        266,
+        268
+      ]
+    },
+    {
+      "start_ms": 88800,
+      "end_ms": 91500,
+      "id": "e_065",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up profile of Juliana, her expression clear and unshakable.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        270,
+        272
+      ]
+    },
+    {
+      "start_ms": 89800,
+      "end_ms": 91000,
+      "id": "e_066",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I am.\"",
+      "speaker": "JULIANA",
+      "delivery": "Unwavering",
+      "source_lines": [
+        274,
+        276
+      ]
+    },
+    {
+      "start_ms": 91500,
+      "end_ms": 94800,
+      "id": "e_067",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of the Priest swallowing hard and looking down at his book.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        278,
+        280
+      ]
+    },
+    {
+      "start_ms": 92000,
+      "end_ms": 94500,
+      "id": "e_068",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Then... let us proceed.\"",
+      "speaker": "THE PRIEST",
+      "delivery": "Resigned, Solemn",
+      "source_lines": [
+        282,
+        284
+      ]
+    },
+    {
+      "start_ms": 94800,
+      "end_ms": 97800,
+      "id": "e_069",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close two-shot of the Mysterious Bearded Man and Juliana gazing intimately into each other's eyes.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        286,
+        288
+      ]
+    },
+    {
+      "start_ms": 95800,
+      "end_ms": 98000,
+      "id": "e_070",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You need not say anything you do not mean.\"",
+      "speaker": "MYSTERIOUS BEARDED MAN",
+      "delivery": "Low, Reassuring",
+      "source_lines": [
+        290,
+        292
+      ]
+    },
+    {
+      "start_ms": 97800,
+      "end_ms": 100200,
+      "id": "e_071",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana smiling softly up at him.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        294,
+        296
+      ]
+    },
+    {
+      "start_ms": 98200,
+      "end_ms": 100000,
+      "id": "e_072",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I truly mean it.\"",
+      "speaker": "JULIANA",
+      "delivery": "Warm, Sincere",
+      "source_lines": [
+        298,
+        300
+      ]
+    },
+    {
+      "start_ms": 100200,
+      "end_ms": 102200,
+      "id": "e_073",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up shot of his hands sliding the silver ring over her ring finger.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        302,
+        304
+      ]
+    },
+    {
+      "start_ms": 100200,
+      "end_ms": 102200,
+      "id": "e_074",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "The Mysterious Bearded Man carefully slides the band onto Juliana's finger.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        306,
+        308
+      ]
+    },
+    {
+      "start_ms": 102200,
+      "end_ms": 105000,
+      "id": "e_075",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of the Mysterious Bearded Man holding her hands tenderly.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        310,
+        312
+      ]
+    },
+    {
+      "start_ms": 102500,
+      "end_ms": 104200,
+      "id": "e_076",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You have my protection.\"",
+      "speaker": "MYSTERIOUS BEARDED MAN",
+      "delivery": "Solemn",
+      "source_lines": [
+        314,
+        316
+      ]
+    },
+    {
+      "start_ms": 105000,
+      "end_ms": 107800,
+      "id": "e_077",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Tight shot of the warrior's face, his eyes full of devotion.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        318,
+        320
+      ]
+    },
+    {
+      "start_ms": 105200,
+      "end_ms": 107000,
+      "id": "e_078",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You have my respect.\"",
+      "speaker": "MYSTERIOUS BEARDED MAN",
+      "delivery": "Steadfast",
+      "source_lines": [
+        322,
+        324
+      ]
+    },
+    {
+      "start_ms": 107800,
+      "end_ms": 110000,
+      "id": "e_079",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Extreme close-up of his intense gaze.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        326,
+        328
+      ]
+    },
+    {
+      "start_ms": 107800,
+      "end_ms": 109800,
+      "id": "e_080",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"And you have my word.\"",
+      "speaker": "MYSTERIOUS BEARDED MAN",
+      "delivery": "Grave",
+      "source_lines": [
+        330,
+        332
+      ]
+    },
+    {
+      "start_ms": 110000,
+      "end_ms": 112800,
+      "id": "e_081",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium three-shot with the Priest standing between them, raising both hands in blessing over their joined hands.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        334,
+        336
+      ]
+    },
+    {
+      "start_ms": 110000,
+      "end_ms": 113000,
+      "id": "e_082",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"By the authority entrusted to me, I now pronounce you...\"",
+      "speaker": "THE PRIEST",
+      "delivery": "Ceremonial",
+      "source_lines": [
+        338,
+        340
+      ]
+    },
+    {
+      "start_ms": 112800,
+      "end_ms": 114800,
+      "id": "e_083",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "High wide establishing shot looking down from the ceiling vaults of the cathedral onto the altar.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        342,
+        344
+      ]
+    },
+    {
+      "start_ms": 113000,
+      "end_ms": 114800,
+      "id": "e_084",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"...husband and wife!\"",
+      "speaker": "THE PRIEST",
+      "delivery": "Off-Screen, Booming",
+      "source_lines": [
+        346,
+        348
+      ]
+    },
+    {
+      "start_ms": 114000,
+      "end_ms": 115200,
+      "id": "e_085",
+      "scene_id": "sc_001",
+      "type": "sound",
+      "text": "Dramatic musical chord swelling.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        350,
+        352
+      ]
+    },
+    {
+      "start_ms": 114800,
+      "end_ms": 116800,
+      "id": "e_086",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Gerald lunging forward, pointing an enraged finger.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        354,
+        356
+      ]
+    },
+    {
+      "start_ms": 115000,
+      "end_ms": 116800,
+      "id": "e_087",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You have thrown yourself away!\"",
+      "speaker": "GERALD",
+      "delivery": "Furious, Shouting",
+      "source_lines": [
+        358,
+        360
+      ]
+    },
+    {
+      "start_ms": 116800,
+      "end_ms": 119000,
+      "id": "e_088",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Tight close-up of Gerald, face contorted in rage.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        362,
+        364
+      ]
+    },
+    {
+      "start_ms": 117000,
+      "end_ms": 119000,
+      "id": "e_089",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"For a penniless nobody!\"",
+      "speaker": "GERALD",
+      "delivery": "Livid",
+      "source_lines": [
+        366,
+        368
+      ]
+    },
+    {
+      "start_ms": 119000,
+      "end_ms": 122800,
+      "id": "e_090",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium two-shot of Juliana standing tall before Gerald in the chapel aisle, her husband standing guard behind her.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        370,
+        372
+      ]
+    },
+    {
+      "start_ms": 120500,
+      "end_ms": 122800,
+      "id": "e_091",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I would rather choose my own life...\"",
+      "speaker": "JULIANA",
+      "delivery": "Calm, Cutting",
+      "source_lines": [
+        374,
+        376
+      ]
+    },
+    {
+      "start_ms": 122800,
+      "end_ms": 125800,
+      "id": "e_092",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana, her jaw set with unshakable pride.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        378,
+        380
+      ]
+    },
+    {
+      "start_ms": 123000,
+      "end_ms": 125500,
+      "id": "e_093",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"...than spend another moment begging for yours.\"",
+      "speaker": "JULIANA",
+      "delivery": "Firm, Final",
+      "source_lines": [
+        382,
+        384
+      ]
+    },
+    {
+      "start_ms": 125800,
+      "end_ms": 127400,
+      "id": "e_094",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Tight close-up of Gerald, eyes wide with speechless shock and wounded pride.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        386,
+        388
+      ]
+    },
+    {
+      "start_ms": 126000,
+      "end_ms": 127400,
+      "id": "e_095",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Gerald recoils slightly, mouth agape.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        390,
+        392
+      ]
+    },
+    {
+      "start_ms": 127400,
+      "end_ms": 131500,
+      "id": "e_096",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Wide shot of Lady Ashcroft rising abruptly from the front pew, pointing an accusatory hand toward the doors.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        394,
+        396
+      ]
+    },
+    {
+      "start_ms": 127500,
+      "end_ms": 131500,
+      "id": "e_097",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Do not bring this man anywhere near Ashcroft Manor!\"",
+      "speaker": "LADY ASHCROFT",
+      "delivery": "Imperious, Shouting",
+      "source_lines": [
+        398,
+        400
+      ]
+    },
+    {
+      "start_ms": 131500,
+      "end_ms": 134800,
+      "id": "e_098",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Tight close-up of Lady Ashcroft, eyes blazing with cold malice.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        402,
+        404
+      ]
+    },
+    {
+      "start_ms": 132000,
+      "end_ms": 134500,
+      "id": "e_099",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You are disowned!\"",
+      "speaker": "LADY ASHCROFT",
+      "delivery": "Venomous",
+      "source_lines": [
+        406,
+        408
+      ]
+    },
+    {
+      "start_ms": 134800,
+      "end_ms": 136000,
+      "id": "e_100",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Lord Ashcroft bowing his head deeply over his cane in shame.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        410,
+        412
+      ]
+    },
+    {
+      "start_ms": 136000,
+      "end_ms": 138800,
+      "id": "e_101",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana. Tears brim in her eyes at the formal rejection, but she does not break.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        414,
+        416
+      ]
+    },
+    {
+      "start_ms": 138800,
+      "end_ms": 140800,
+      "id": "e_102",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium two-shot as the Mysterious Bearded Man turns gently to Juliana, reaching his hand out once more.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        418,
+        420
+      ]
+    },
+    {
+      "start_ms": 139500,
+      "end_ms": 140800,
+      "id": "e_103",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Come, Lady Juliana.\"",
+      "speaker": "MYSTERIOUS BEARDED MAN",
+      "delivery": "Soft, Protective",
+      "source_lines": [
+        422,
+        424
+      ]
+    },
+    {
+      "start_ms": 140800,
+      "end_ms": 142800,
+      "id": "e_104",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana placing her hand securely into his, gripping his scarred hand.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        426,
+        428
+      ]
+    },
+    {
+      "start_ms": 142800,
+      "end_ms": 144800,
+      "id": "e_105",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Wide tracking shot behind Juliana and the warrior as they begin walking down the central aisle toward the chapel doors.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        430,
+        432
+      ]
+    },
+    {
+      "start_ms": 144800,
+      "end_ms": 146500,
+      "id": "e_106",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium three-shot of Gerald, Clarissa, and Lady Ashcroft watching in stunned silence and disbelief.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        434,
+        436
+      ]
+    },
+    {
+      "start_ms": 145000,
+      "end_ms": 146500,
+      "id": "e_107",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Clarissa gapes in shock while Lady Ashcroft exhales in exasperation.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        438,
+        440
+      ]
+    },
+    {
+      "start_ms": 146500,
+      "end_ms": 151400,
+      "id": "e_108",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Wide shot from the back of the chapel as the massive oak doors swing wide open, revealing bright daylight and the courtyard outside.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        442,
+        444
+      ]
+    },
+    {
+      "start_ms": 147500,
+      "end_ms": 151400,
+      "id": "e_109",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana and the Mysterious Bearded Man walk hand-in-hand through the towering doors into the sunlight together, turning their backs on the ruined wedding as the screen fades out.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        446,
+        448
+      ]
+    },
+    {
+      "start_ms": 147000,
+      "end_ms": 149000,
+      "id": "e_110",
+      "scene_id": "sc_001",
+      "type": "sound",
+      "text": "Heavy oak doors creaking open, followed by a triumphant musical swell fading out into silence.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        450,
+        452
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "start_ms": 0,
+      "end_ms": 7500
+    },
+    {
+      "start_ms": 7600,
+      "end_ms": 21800
+    },
+    {
+      "start_ms": 21900,
+      "end_ms": 151400
+    }
+  ],
+  "warnings": [
+    "sc_001: incomplete source coverage; gaps are unavailable"
+  ]
+}

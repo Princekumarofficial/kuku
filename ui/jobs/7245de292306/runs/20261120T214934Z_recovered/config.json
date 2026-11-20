@@ -1,0 +1,66 @@
+{
+  "providers": {
+    "episode_analysis": {
+      "base_url": "https://api.anthropic.com/v1",
+      "api_key_env": "DASHBOARD_ONLY",
+      "model": "claude-haiku-5-5",
+      "structured_output": "json_schema"
+    },
+    "series_analysis": {
+      "base_url": "https://api.anthropic.com/v1",
+      "api_key_env": "DASHBOARD_ONLY",
+      "model": "claude-haiku-5-5",
+      "structured_output": "json_schema"
+    },
+    "candidate_discovery": {
+      "base_url": "https://api.anthropic.com/v1",
+      "api_key_env": "DASHBOARD_ONLY",
+      "model": "claude-haiku-5-5",
+      "structured_output": "json_schema"
+    },
+    "blind_evaluation": {
+      "base_url": "https://api.anthropic.com/v1",
+      "api_key_env": "DASHBOARD_ONLY",
+      "model": "claude-haiku-5-5",
+      "structured_output": "json_schema"
+    },
+    "spoiler_analysis": {
+      "base_url": "https://api.anthropic.com/v1",
+      "api_key_env": "DASHBOARD_ONLY",
+      "model": "claude-haiku-5-5",
+      "structured_output": "json_schema"
+    }
+  },
+  "routes": {
+    "episode_analysis": [
+      "episode_analysis"
+    ],
+    "series_analysis": [
+      "series_analysis"
+    ],
+    "candidate_discovery": [
+      "candidate_discovery"
+    ],
+    "blind_evaluation": [
+      "blind_evaluation"
+    ],
+    "spoiler_analysis": [
+      "spoiler_analysis"
+    ]
+  },
+  "llm": {
+    "temperature": 0.2,
+    "max_tokens": 8192,
+    "timeout_seconds": 120.0,
+    "attempts_per_provider": 2
+  },
+  "pipeline": {
+    "series_id": "series_001",
+    "max_candidates_per_episode": 4,
+    "top_k_episode": 5,
+    "top_k_series": 10,
+    "check_spoilers": false,
+    "cross_episode": false,
+    "max_cross_candidates": 8
+  }
+}

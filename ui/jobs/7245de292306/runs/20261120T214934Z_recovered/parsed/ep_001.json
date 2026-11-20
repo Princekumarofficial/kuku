@@ -1,0 +1,1371 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "ep_001",
+  "episode_number": 1,
+  "metadata": {
+    "logline": "Lady Juliana arrives at the cathedral in her late mother's bridal gown, only to suffer the ultimate betrayal when her fiancé Gerald abandons her at the altar for her cruel sister Clarissa with her family's full blessing.",
+    "continuity_notes": "First episode of the series. Establishes Juliana's humiliation and abandonment by her betrothed, Gerald, and her noble family in favor of her sister, Clarissa."
+  },
+  "source": {
+    "file": "000_episode-001-Episode 1671703.txt",
+    "sha256": "9787df1d0983957589fc407cb0f2cdc0a89fcde7100c022a4741b8abfeedfa81",
+    "complete": false
+  },
+  "scenes": [
+    {
+      "start_ms": 0,
+      "end_ms": 138000,
+      "id": "sc_001",
+      "heading": "INT. CATHEDRAL – DAY"
+    }
+  ],
+  "events": [
+    {
+      "start_ms": 0,
+      "end_ms": 4800,
+      "id": "e_001",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Symmetrical framing on the heavy church doors as they slowly part, pushing in slightly as Juliana stands framed in the light, dressed in an elegant white silk gown.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        14,
+        16
+      ]
+    },
+    {
+      "start_ms": 1000,
+      "end_ms": 4800,
+      "id": "e_002",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana pauses at the threshold, her expression bright with joyful anticipation, wearing her mother's vintage gown and an oval pendant necklace.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        18,
+        20
+      ]
+    },
+    {
+      "start_ms": 4800,
+      "end_ms": 6800,
+      "id": "e_003",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "High wide tracking shot following behind Juliana as she steps into the grand cathedral nave, facing the distant altar flanked by seated guests.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        22,
+        24
+      ]
+    },
+    {
+      "start_ms": 6800,
+      "end_ms": 9800,
+      "id": "e_004",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on Juliana's face as her warm smile begins to falter into confusion.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        26,
+        28
+      ]
+    },
+    {
+      "start_ms": 7200,
+      "end_ms": 9800,
+      "id": "e_005",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana's eyes widen slightly in bewilderment as she notices something amiss at the altar.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        30,
+        32
+      ]
+    },
+    {
+      "start_ms": 9800,
+      "end_ms": 11000,
+      "id": "e_006",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium profile shot at the altar showing Gerald in his dark tailcoat holding the gloved hand of the Lady in Gold Gown, with Juliana visible walking down the distant aisle.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        34,
+        36
+      ]
+    },
+    {
+      "start_ms": 11000,
+      "end_ms": 13200,
+      "id": "e_007",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot as Juliana stops midway down the aisle, confronted by a haughty matriarch in black velvet stepping into the foreground.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        38,
+        40
+      ]
+    },
+    {
+      "start_ms": 11300,
+      "end_ms": 13100,
+      "id": "e_008",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You should turn around, Juliana.\"",
+      "speaker": "MATRIARCH",
+      "delivery": "Cold, Commanding",
+      "source_lines": [
+        42,
+        44
+      ]
+    },
+    {
+      "start_ms": 13500,
+      "end_ms": 14300,
+      "id": "e_009",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Why?\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Confused, Breathless",
+      "source_lines": [
+        46,
+        48
+      ]
+    },
+    {
+      "start_ms": 14300,
+      "end_ms": 17800,
+      "id": "e_010",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Over-the-shoulder medium close-up past the Matriarch to Juliana, looking past her toward the altar.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        50,
+        52
+      ]
+    },
+    {
+      "start_ms": 15500,
+      "end_ms": 17500,
+      "id": "e_011",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Gerald is waiting for me.\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Desperate, Unbelieving",
+      "source_lines": [
+        54,
+        56
+      ]
+    },
+    {
+      "start_ms": 17800,
+      "end_ms": 20500,
+      "id": "e_012",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on the Matriarch wearing an ornate tiara and sapphire jewelry, gazing down with merciless disdain.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        58,
+        60
+      ]
+    },
+    {
+      "start_ms": 18000,
+      "end_ms": 19400,
+      "id": "e_013",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Not anymore.\"",
+      "speaker": "MATRIARCH",
+      "delivery": "Blunt, Unforgiving",
+      "source_lines": [
+        62,
+        64
+      ]
+    },
+    {
+      "start_ms": 20500,
+      "end_ms": 23600,
+      "id": "e_014",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on Juliana's stricken face as the weight of the words sinks in.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        66,
+        68
+      ]
+    },
+    {
+      "start_ms": 21800,
+      "end_ms": 23500,
+      "id": "e_015",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"What do you mean?\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Trembling, Pleading",
+      "source_lines": [
+        70,
+        72
+      ]
+    },
+    {
+      "start_ms": 23600,
+      "end_ms": 25800,
+      "id": "e_016",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of the Matriarch gesturing dismissively toward the altar.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        74,
+        76
+      ]
+    },
+    {
+      "start_ms": 23800,
+      "end_ms": 25500,
+      "id": "e_017",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Look for yourself.\"",
+      "speaker": "MATRIARCH",
+      "delivery": "Dismissive",
+      "source_lines": [
+        78,
+        80
+      ]
+    },
+    {
+      "start_ms": 25600,
+      "end_ms": 29800,
+      "id": "e_018",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana walks forward past the Matriarch, her breath hitching as she approaches the altar steps, looking up in shock.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        82,
+        84
+      ]
+    },
+    {
+      "start_ms": 25800,
+      "end_ms": 29800,
+      "id": "e_019",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium front tracking shot moving backward ahead of Juliana as she advances down the center aisle.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        86,
+        88
+      ]
+    },
+    {
+      "start_ms": 29800,
+      "end_ms": 32800,
+      "id": "e_020",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Panning shot across the seated wedding guests whispering and casting judging glances from the wooden pews.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        90,
+        92
+      ]
+    },
+    {
+      "start_ms": 32800,
+      "end_ms": 33700,
+      "id": "e_021",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle shot from behind Juliana looking up at Gerald and the Lady in Gold Gown standing proudly before the altar.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        94,
+        96
+      ]
+    },
+    {
+      "start_ms": 33700,
+      "end_ms": 35300,
+      "id": "e_022",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on Juliana's trembling lips and shocked, tearful blue eyes.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        98,
+        100
+      ]
+    },
+    {
+      "start_ms": 33800,
+      "end_ms": 35000,
+      "id": "e_023",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Gerald?\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Shaken, Whispering",
+      "source_lines": [
+        102,
+        104
+      ]
+    },
+    {
+      "start_ms": 35400,
+      "end_ms": 37700,
+      "id": "e_024",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Why are you holding her hand?\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Heartbroken",
+      "source_lines": [
+        106,
+        108
+      ]
+    },
+    {
+      "start_ms": 36500,
+      "end_ms": 39000,
+      "id": "e_025",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up insert of Gerald's fingers firmly interlocked with the white-gloved hand of the Lady in Gold Gown.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        110,
+        112
+      ]
+    },
+    {
+      "start_ms": 39000,
+      "end_ms": 41500,
+      "id": "e_026",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on the Lady in Gold Gown beaming with cruel triumph.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        114,
+        116
+      ]
+    },
+    {
+      "start_ms": 39100,
+      "end_ms": 41200,
+      "id": "e_027",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Because he is marrying me.\"",
+      "speaker": "LADY IN GOLD GOWN",
+      "delivery": "Gloating, Smug",
+      "source_lines": [
+        118,
+        120
+      ]
+    },
+    {
+      "start_ms": 41500,
+      "end_ms": 43900,
+      "id": "e_028",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on Juliana as tears spill over her eyelashes.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        122,
+        124
+      ]
+    },
+    {
+      "start_ms": 41700,
+      "end_ms": 43100,
+      "id": "e_029",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"No...\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Gasping, Devastated",
+      "source_lines": [
+        126,
+        128
+      ]
+    },
+    {
+      "start_ms": 43900,
+      "end_ms": 46800,
+      "id": "e_030",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Wide profile shot showing Juliana standing below the altar platform, looking up at Gerald and her sister.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        130,
+        132
+      ]
+    },
+    {
+      "start_ms": 46800,
+      "end_ms": 50400,
+      "id": "e_031",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on Juliana clutching her chest, her sorrow turning into burning outrage.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        134,
+        136
+      ]
+    },
+    {
+      "start_ms": 46800,
+      "end_ms": 50000,
+      "id": "e_032",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You knew this before I walked through those doors!\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Outraged, Accusing",
+      "source_lines": [
+        138,
+        140
+      ]
+    },
+    {
+      "start_ms": 50400,
+      "end_ms": 52000,
+      "id": "e_033",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Gerald standing stoic and impassive next to the smug Lady in Gold Gown.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        142,
+        144
+      ]
+    },
+    {
+      "start_ms": 52000,
+      "end_ms": 54600,
+      "id": "e_034",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on Juliana's hands desperately clenching fistfuls of her white dress fabric.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        146,
+        148
+      ]
+    },
+    {
+      "start_ms": 52800,
+      "end_ms": 54600,
+      "id": "e_035",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You let me come here...\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Choking on Tears",
+      "source_lines": [
+        150,
+        152
+      ]
+    },
+    {
+      "start_ms": 54600,
+      "end_ms": 57600,
+      "id": "e_036",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on Juliana's tear-streaked face as she shakes with grief.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        154,
+        156
+      ]
+    },
+    {
+      "start_ms": 54700,
+      "end_ms": 56900,
+      "id": "e_037",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You let me dress in my mother's gown...\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Crushed, Shaking",
+      "source_lines": [
+        158,
+        160
+      ]
+    },
+    {
+      "start_ms": 57000,
+      "end_ms": 60000,
+      "id": "e_038",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You let me believe I was walking toward my husband!\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Crying Out",
+      "source_lines": [
+        162,
+        164
+      ]
+    },
+    {
+      "start_ms": 57600,
+      "end_ms": 60100,
+      "id": "e_039",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot on Gerald stepping forward, cold and indifferent, with the Lady in Gold Gown lingering in soft focus behind him.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        166,
+        168
+      ]
+    },
+    {
+      "start_ms": 60100,
+      "end_ms": 63000,
+      "id": "e_040",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Tight close-up on Gerald's hardened profile as he glances down.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        170,
+        172
+      ]
+    },
+    {
+      "start_ms": 60100,
+      "end_ms": 61800,
+      "id": "e_041",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I changed my mind.\"",
+      "speaker": "THE FORMER GROOM",
+      "delivery": "Cold, Callous",
+      "source_lines": [
+        174,
+        176
+      ]
+    },
+    {
+      "start_ms": 63000,
+      "end_ms": 66000,
+      "id": "e_042",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Extreme close-up on Juliana's furious, weeping face.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        178,
+        180
+      ]
+    },
+    {
+      "start_ms": 63400,
+      "end_ms": 65600,
+      "id": "e_043",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You swore you loved me!\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Betrayed, Piercing",
+      "source_lines": [
+        182,
+        184
+      ]
+    },
+    {
+      "start_ms": 66000,
+      "end_ms": 68800,
+      "id": "e_044",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on the Lady in Gold Gown smiling condescendingly.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        186,
+        188
+      ]
+    },
+    {
+      "start_ms": 66500,
+      "end_ms": 68800,
+      "id": "e_045",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"People change their minds, sister.\"",
+      "speaker": "LADY IN GOLD GOWN",
+      "delivery": "Mocking",
+      "source_lines": [
+        190,
+        192
+      ]
+    },
+    {
+      "start_ms": 68800,
+      "end_ms": 72400,
+      "id": "e_046",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium profile shot of the Lady in Gold Gown turning her head subtly toward Gerald with satisfied malice.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        194,
+        196
+      ]
+    },
+    {
+      "start_ms": 69100,
+      "end_ms": 70400,
+      "id": "e_047",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"And you knew?\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Horrified",
+      "source_lines": [
+        198,
+        200
+      ]
+    },
+    {
+      "start_ms": 70600,
+      "end_ms": 72100,
+      "id": "e_048",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Of course I knew.\"",
+      "speaker": "LADY IN GOLD GOWN",
+      "delivery": "Unapologetic, Cheerful",
+      "source_lines": [
+        202,
+        204
+      ]
+    },
+    {
+      "start_ms": 72400,
+      "end_ms": 74600,
+      "id": "e_049",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on Juliana, stunned by the callous depth of the conspiracy.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        206,
+        208
+      ]
+    },
+    {
+      "start_ms": 73100,
+      "end_ms": 74300,
+      "id": "e_050",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"How long?\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Trembling",
+      "source_lines": [
+        210,
+        212
+      ]
+    },
+    {
+      "start_ms": 74600,
+      "end_ms": 79000,
+      "id": "e_051",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium two-shot of the Lady in Gold Gown and Gerald looking together down at Juliana.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        214,
+        216
+      ]
+    },
+    {
+      "start_ms": 75000,
+      "end_ms": 78500,
+      "id": "e_052",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Long enough to know he was never going to marry you.\"",
+      "speaker": "LADY IN GOLD GOWN",
+      "delivery": "Cruel, Poised",
+      "source_lines": [
+        218,
+        220
+      ]
+    },
+    {
+      "start_ms": 79000,
+      "end_ms": 81000,
+      "id": "e_053",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana turns abruptly toward the first row of pews, where her elderly father sits gripping an ornate brass cane.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        222,
+        224
+      ]
+    },
+    {
+      "start_ms": 79000,
+      "end_ms": 81400,
+      "id": "e_054",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on the father's hand tightly gripping the gold curved handle of his walking cane.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        226,
+        228
+      ]
+    },
+    {
+      "start_ms": 80100,
+      "end_ms": 81200,
+      "id": "e_055",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Father...\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Desperate",
+      "source_lines": [
+        230,
+        232
+      ]
+    },
+    {
+      "start_ms": 81400,
+      "end_ms": 83700,
+      "id": "e_056",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Wide shot showing Juliana dropping to her knees beside her seated father, pleading with him.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        234,
+        236
+      ]
+    },
+    {
+      "start_ms": 81400,
+      "end_ms": 83600,
+      "id": "e_057",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Tell them this is a mistake.\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Begging",
+      "source_lines": [
+        238,
+        240
+      ]
+    },
+    {
+      "start_ms": 83700,
+      "end_ms": 86000,
+      "id": "e_058",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on the father's weathered face, looking fixedly at the floor, refusing to meet her gaze.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        242,
+        244
+      ]
+    },
+    {
+      "start_ms": 86000,
+      "end_ms": 89500,
+      "id": "e_059",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on Juliana looking up at him, tears streaming uncontrollably down her cheeks.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        246,
+        248
+      ]
+    },
+    {
+      "start_ms": 86000,
+      "end_ms": 88900,
+      "id": "e_060",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Father... please look at me.\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Choking, Broken",
+      "source_lines": [
+        250,
+        252
+      ]
+    },
+    {
+      "start_ms": 89500,
+      "end_ms": 90800,
+      "id": "e_061",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "The father tightens his jaw and stony expression, refusing to offer a single word or look.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        254,
+        256
+      ]
+    },
+    {
+      "start_ms": 89500,
+      "end_ms": 90800,
+      "id": "e_062",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Profile close-up of the father staring blankly forward.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        258,
+        260
+      ]
+    },
+    {
+      "start_ms": 90800,
+      "end_ms": 95800,
+      "id": "e_063",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle shot looking up at the Matriarch commanding the space with regal severity.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        262,
+        264
+      ]
+    },
+    {
+      "start_ms": 90900,
+      "end_ms": 91900,
+      "id": "e_064",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Enough!\"",
+      "speaker": "MATRIARCH",
+      "delivery": "Stern, Resolute",
+      "source_lines": [
+        266,
+        268
+      ]
+    },
+    {
+      "start_ms": 92100,
+      "end_ms": 95500,
+      "id": "e_065",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You have embarrassed this family long enough.\"",
+      "speaker": "MATRIARCH",
+      "delivery": "Disgusted",
+      "source_lines": [
+        270,
+        272
+      ]
+    },
+    {
+      "start_ms": 95800,
+      "end_ms": 98600,
+      "id": "e_066",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on Juliana as she rises, stung by the utter betrayal.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        274,
+        276
+      ]
+    },
+    {
+      "start_ms": 96200,
+      "end_ms": 98200,
+      "id": "e_067",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Embarrassed you?\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Incredulous",
+      "source_lines": [
+        278,
+        280
+      ]
+    },
+    {
+      "start_ms": 98600,
+      "end_ms": 102500,
+      "id": "e_068",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of the Matriarch gesturing toward Clarissa, who stands elegantly in gold.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        282,
+        284
+      ]
+    },
+    {
+      "start_ms": 98800,
+      "end_ms": 101500,
+      "id": "e_069",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Clarissa knows how to carry herself.\"",
+      "speaker": "MATRIARCH",
+      "delivery": "Haughty",
+      "source_lines": [
+        286,
+        288
+      ]
+    },
+    {
+      "start_ms": 101600,
+      "end_ms": 105000,
+      "id": "e_070",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"She has beauty, connections, and a future worth protecting.\"",
+      "speaker": "MATRIARCH",
+      "delivery": "Proud",
+      "source_lines": [
+        290,
+        292
+      ]
+    },
+    {
+      "start_ms": 102500,
+      "end_ms": 105300,
+      "id": "e_071",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium profile two-shot of the Matriarch confronting Juliana face to face.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        294,
+        296
+      ]
+    },
+    {
+      "start_ms": 105300,
+      "end_ms": 107400,
+      "id": "e_072",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on Juliana, demanding answers in spite of her humiliation.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        298,
+        300
+      ]
+    },
+    {
+      "start_ms": 105400,
+      "end_ms": 107300,
+      "id": "e_073",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"And I am what?\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Raw, Painful",
+      "source_lines": [
+        302,
+        304
+      ]
+    },
+    {
+      "start_ms": 107400,
+      "end_ms": 110000,
+      "id": "e_074",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium tracking shot showing the Lady in Gold Gown stepping past Juliana toward the center.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        306,
+        308
+      ]
+    },
+    {
+      "start_ms": 107500,
+      "end_ms": 110800,
+      "id": "e_075",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You are the daughter people tolerate because they have to.\"",
+      "speaker": "LADY IN GOLD GOWN",
+      "delivery": "Viciously Calm",
+      "source_lines": [
+        310,
+        312
+      ]
+    },
+    {
+      "start_ms": 110000,
+      "end_ms": 113000,
+      "id": "e_076",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on Juliana absorbing the venomous words, her breathing shallow.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        314,
+        316
+      ]
+    },
+    {
+      "start_ms": 111100,
+      "end_ms": 113000,
+      "id": "e_077",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I am the daughter they choose.\"",
+      "speaker": "LADY IN GOLD GOWN",
+      "delivery": "Gloating",
+      "source_lines": [
+        318,
+        320
+      ]
+    },
+    {
+      "start_ms": 113000,
+      "end_ms": 115200,
+      "id": "e_078",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of the Lady in Gold Gown smiling warmly at Gerald beside the altar candles.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        322,
+        324
+      ]
+    },
+    {
+      "start_ms": 113300,
+      "end_ms": 115700,
+      "id": "e_079",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Clarissa is the jewel of this family.\"",
+      "speaker": "MATRIARCH",
+      "delivery": "O.S.) (Firm",
+      "source_lines": [
+        326,
+        328
+      ]
+    },
+    {
+      "start_ms": 115200,
+      "end_ms": 117000,
+      "id": "e_080",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close two-shot of the Matriarch and Juliana standing side by side in profile.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        330,
+        332
+      ]
+    },
+    {
+      "start_ms": 117000,
+      "end_ms": 119500,
+      "id": "e_081",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot framing Juliana looking directly at Gerald, who towers over her coldly.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        334,
+        336
+      ]
+    },
+    {
+      "start_ms": 117000,
+      "end_ms": 119000,
+      "id": "e_082",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"So that is what I was worth to you?\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Trembling, Dignified",
+      "source_lines": [
+        338,
+        340
+      ]
+    },
+    {
+      "start_ms": 119500,
+      "end_ms": 122500,
+      "id": "e_083",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on Gerald's sharp jawline as he looks down at her without an ounce of remorse.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        342,
+        344
+      ]
+    },
+    {
+      "start_ms": 119800,
+      "end_ms": 122300,
+      "id": "e_084",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You have nothing to offer me anymore.\"",
+      "speaker": "THE FORMER GROOM",
+      "delivery": "Scornful, Hard",
+      "source_lines": [
+        346,
+        348
+      ]
+    },
+    {
+      "start_ms": 122500,
+      "end_ms": 124200,
+      "id": "e_085",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Extreme close-up on Juliana's eye as a single tear rolls down her cheek.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        350,
+        352
+      ]
+    },
+    {
+      "start_ms": 124200,
+      "end_ms": 128500,
+      "id": "e_086",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Full shot tracking Gerald as he turns his back on Juliana and walks back toward Clarissa and the altar.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        354,
+        356
+      ]
+    },
+    {
+      "start_ms": 124200,
+      "end_ms": 127500,
+      "id": "e_087",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I cannot marry a woman of such plainness and low value...\"",
+      "speaker": "THE FORMER GROOM",
+      "delivery": "Arrogant, Dismissive",
+      "source_lines": [
+        358,
+        360
+      ]
+    },
+    {
+      "start_ms": 128500,
+      "end_ms": 131300,
+      "id": "e_088",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on Clarissa's radiant, conceited smile basking in Gerald's words.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        362,
+        364
+      ]
+    },
+    {
+      "start_ms": 128500,
+      "end_ms": 131200,
+      "id": "e_089",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"...when Clarissa is the true jewel of the county.\"",
+      "speaker": "THE FORMER GROOM",
+      "delivery": "Reverent toward Clarissa",
+      "source_lines": [
+        366,
+        368
+      ]
+    },
+    {
+      "start_ms": 131300,
+      "end_ms": 133800,
+      "id": "e_090",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana's hand clenches fiercely into the folds of her mother's silk bridal gown, knuckles whitening with suppressed fury.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        370,
+        372
+      ]
+    },
+    {
+      "start_ms": 131300,
+      "end_ms": 133800,
+      "id": "e_091",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Tight insert on Juliana's white-knuckled hand clutching the gown fabric.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        374,
+        376
+      ]
+    },
+    {
+      "start_ms": 133800,
+      "end_ms": 137000,
+      "id": "e_092",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Push-in close-up on Juliana's tearful face. Her trembling mouth straightens, her tear-filled blue eyes hardening from sheer devastation into cold, resolute defiance.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        378,
+        380
+      ]
+    },
+    {
+      "start_ms": 133800,
+      "end_ms": 137000,
+      "id": "e_093",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana breathes through the agony, refusing to break down further in front of the congregation.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        382,
+        384
+      ]
+    },
+    {
+      "start_ms": 135000,
+      "end_ms": 137500,
+      "id": "e_094",
+      "scene_id": "sc_001",
+      "type": "sound",
+      "text": "Solemn low-pitched string drone swells to an ominous cliffhanger peak.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        386,
+        388
+      ]
+    },
+    {
+      "start_ms": 137000,
+      "end_ms": 138000,
+      "id": "e_095",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Cut to black.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        390,
+        392
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "start_ms": 0,
+      "end_ms": 13200
+    },
+    {
+      "start_ms": 13500,
+      "end_ms": 35300
+    },
+    {
+      "start_ms": 35400,
+      "end_ms": 138000
+    }
+  ],
+  "warnings": [
+    "sc_001: incomplete source coverage; gaps are unavailable"
+  ]
+}

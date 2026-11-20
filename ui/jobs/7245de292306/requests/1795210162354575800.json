@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_ab1bfa5f9ce0e227 DURATION_MS=26300\nSEGMENT 1 (playback order)\nEP24:E45 0-300 CAMERA: Extreme close-up two-shot as the noblewoman steps unnervingly close to Juliana's face, whispering with sadistic relish.\nEP24:E47 300-2500 ACTION: Juliana slowly drops to her knees on the cold flagstones before the soot-filled fireplace.\nEP24:E48 300-2700 CAMERA: Medium shot of Juliana sinking to her knees, her face grim and composed.\nEP24:E49 2500-4000 ACTION: Prudence steps toward the noblewoman in distress, her hands clasped tightly.\nEP24:E51 2700-4000 PRUDENCE: \"My lady—\"\nEP24:E50 2700-4300 CAMERA: Close-up of Prudence's anxious, trembling face.\nEP24:E52 4000-6000 ACTION: The noblewoman whips around sharply, thrusting the tip of her riding crop directly into Prudence's face.\nEP24:E53 4300-7000 CAMERA: Medium close-up of the noblewoman baring her teeth in rage, aiming the crop threateningly.\nEP24:E54 4500-7000 NOBLEWOMAN: \"Do you want the same punishment?\"\nEP24:E55 7000-9300 CAMERA: Close-up of Prudence flinching in terror, lowering her eyes immediately.\nEP24:E56 7100-8900 PRUDENCE: \"No, my lady.\"\nEP24:E57 9000-11000 ACTION: Juliana grips a coarse scrubbing brush with both hands and begins vigorously scraping the thick black ash across the hearthstones.\nEP24:E58 9300-11300 CAMERA: Close-up shot of Juliana's soot-covered hands fiercely scrubbing the black ash along the stone floor.\nEP24:E59 9500-17500 SOUND: Rhythmic, harsh rasping sound of bristles scraping against stone.\nEP24:E60 11300-15000 CAMERA: Medium shot of the noblewoman leaning casually against the wooden doorframe, watching Juliana toil with smug condescension.\nEP24:E61 11500-14500 NOBLEWOMAN: \"That is where clever little servants belong.\"\nEP24:E62 15000-17700 CAMERA: Medium profile shot of Juliana kneeling by the hearth in the dim window light, scrubbing steadily.\nEP24:E63 15100-17500 LADY JULIANA: \"Let her think I am only a maid.\"\nEP24:E64 17700-21500 ACTION: Juliana pauses scrubbing. Her soot-caked fingers reach into the deep pocket of her apron, carefully feeling the worn leather cover of her mother's remedy journal and the glass dropper bottle securely concealed within.\nEP24:E65 17700-21700 CAMERA: Close-up of Juliana's soot-stained hand touching the hidden remedy book and the antidote vial inside her apron pocket.\nEP24:E66 18000-21300 LADY JULIANA: \"Let her believe I am ignorant.\"\nEP24:E67 21700-26300 ACTION: Juliana raises her head. Smudges of dark soot stain her fair cheek, but her piercing blue eyes burn with unwavering defiance and unyielding resolve as she stares toward the hallway.\nEP24:E68 21700-26300 CAMERA: Tight close-up of Juliana's soot-streaked face turning slowly toward the chamber exit, her jaw set firm as dramatic music builds to a powerful crescendo.\nEP24:E69 22100-26300 LADY JULIANA: \"I will return. You cannot stop the healer.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

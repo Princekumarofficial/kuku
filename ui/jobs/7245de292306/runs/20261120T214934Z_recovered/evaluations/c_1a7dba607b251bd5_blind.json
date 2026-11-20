@@ -1,0 +1,40 @@
+{
+  "candidate_id": "c_1a7dba607b251bd5",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP37:E51",
+      "EP37:E54"
+    ],
+    "reason": "The opening shows a shackled, bruised hand hesitating over a dirty bowl, and within seconds Juliana's tear-stained face and defiant line draw attention. The defiance is immediate, though the stakes are not yet explained."
+  },
+  "cliffhanger": {
+    "score_0_10": 2.0,
+    "evidence_refs": [
+      "EP37:E62",
+      "EP37:E63"
+    ],
+    "reason": "The final 3000ms show Juliana gripping an iron ring and declaring 'They cannot take who I am!', which is a defiant resolution of the moment rather than an unanswered question or threat. Nothing is left pending beyond the clip, so it is intense but resolved.",
+    "unresolved_at_end": false
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Identity and motivation of 'they' who are hunger-starving and threatening Juliana",
+      "Why Juliana is chained in a dungeon and what her name and home represent",
+      "Purpose of the iron ring and what Juliana intends to do with it",
+      "Who Juliana is and what relationship, if any, the viewer should assume"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Visible tears, trembling, chains rattling, and escalating defiant lines create a strong sense of suffering turning into resolve."
+  },
+  "weaknesses": [
+    "Antagonists are referenced but never visible or identified, so the conflict is abstract.",
+    "Dialogue is generic and somewhat repetitive in structure ('They think...', 'They can...').",
+    "The ending gestures at a plan through the iron ring without showing its meaning, leaving the action ambiguous.",
+    "Viewer must infer the setting and captivity entirely from visuals with no establishing context."
+  ],
+  "one_line_why_it_works": "Visceral physical suffering swiftly transitions into a defiant refusal, giving a clear emotional arc of despair to resolve within 23 seconds."
+}

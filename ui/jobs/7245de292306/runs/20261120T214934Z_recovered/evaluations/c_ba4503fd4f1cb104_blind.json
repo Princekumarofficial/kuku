@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_ba4503fd4f1cb104",
+  "hook": {
+    "score_0_10": 6.5,
+    "evidence_refs": [
+      "EP47:E51",
+      "EP47:E53",
+      "EP47:E67"
+    ],
+    "reason": "The opening line from Catherine, 'You want me? As a guest?', starts within 0-3000ms and sets up a reversal. Juliana's 'As a scullery maid.' at 4200-6000ms gives a sharp twist. The final ultimatum, 'Take the apron, or leave the county.', runs into the last 3000ms, so the hook is clear but its stakes depend on context the viewer does not have."
+  },
+  "cliffhanger": {
+    "score_0_10": 5.0,
+    "evidence_refs": [
+      "EP47:E67",
+      "EP47:E64"
+    ],
+    "reason": "The clip ends on Juliana's ultimatum with no shown response from Catherine, so the choice is left open. The tension is real, but the ending is a pending decision rather than a strong unresolved hook, and the stakes of refusing are only partly defined.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Catherine and Juliana are to each other and why Juliana holds power over Catherine",
+      "Meaning of the accusation that Catherine is an 'impostor' (E57)",
+      "What the estate, manor, and county are and why Catherine is being brought there",
+      "Role and importance of the housekeeper and the ring of iron keys",
+      "Why Catherine is in despair at the start (E50) and what she is refusing or accepting"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Catherine's shift from despair to offended shock and then humiliated tears (E50, E64, E65) conveys strong emotional stakes. Juliana's cold, controlled domination adds tension, though the viewer does not know the history behind the feeling."
+  },
+  "weaknesses": [
+    "Core relationship and backstory are never established, so the confrontation feels unanchored for a first-time viewer",
+    "The term 'impostor' is introduced without explanation",
+    "Juliana's commands repeat a similar pattern of demands, which flattens escalation after the first few lines",
+    "The ultimatum's consequences ('cast out with nothing', 'leave the county') are stated but the outcome is not shown",
+    "Camera directions are dense and sometimes duplicate what the dialogue already conveys"
+  ],
+  "one_line_why_it_works": "A sharp status reversal and a humiliating ultimatum delivered with cold control create strong emotional pull, even though the clip depends on unexplained backstory and ends on an open choice."
+}

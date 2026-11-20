@@ -1,0 +1,40 @@
+{
+  "candidate_id": "c_458f36d8f36b80bf",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP34:E18",
+      "EP34:E19"
+    ],
+    "reason": "The gavel strike at 200-2300ms and the shouted 'Silence!' at 300-1500ms open with immediate, forceful conflict inside the opening three seconds."
+  },
+  "cliffhanger": {
+    "score_0_10": 5.0,
+    "evidence_refs": [
+      "EP34:E33",
+      "EP34:E32"
+    ],
+    "reason": "The clip ends on Juliana's flicker of hurt after Prudence's incriminating 'Yes', which leaves the trial outcome unshown. The closing beat is a reaction rather than a direct question, so the tension is only moderately open.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Lady Juliana is and what she is accused of",
+      "What the 'treatments' referenced by the Judge are",
+      "Why Prudence served beside the accused and what her testimony means",
+      "The overall stakes of the trial and what verdict is pending"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Prudence's shame, tears and guilt are visible, and Juliana's brief hurt before she settles into stoic composure gives the ending emotional weight."
+  },
+  "weaknesses": [
+    "Without prior context, the treatments and the charge remain unexplained, so the stakes are unclear to a first-time viewer.",
+    "The Judge's opening outburst is abrupt and its cause is not shown.",
+    "The ending reads as a mid-trial reaction shot rather than a clear suspense hook.",
+    "Juliana's line 'Tell the truth.' is ambiguous without knowing her relationship to Prudence."
+  ],
+  "one_line_why_it_works": "A furious judge, a visibly guilty witness and a flicker of betrayal on the accused's face create strong emotional tension within a short, self-contained courtroom moment."
+}

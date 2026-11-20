@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_be3ba494a3f9afb1",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP21:E28",
+      "EP21:E29",
+      "EP21:E32"
+    ],
+    "reason": "Opens within 0-3000ms on a sick child coughing on a pallet with heavy raspy sounds, and a rushed entrance and 'His skin is burning hot' quickly signal urgency, though no direct question or stakes beyond illness are set up."
+  },
+  "cliffhanger": {
+    "score_0_10": 3.0,
+    "evidence_refs": [
+      "EP21:E43",
+      "EP21:E45"
+    ],
+    "reason": "Ends within the final 3000ms mid-treatment with Toby's condition still unknown, but it closes on a steady instruction to inhale the steam rather than a sharp reveal or threat, so suspense is mild.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Who Toby is and his relation to Lady Juliana or Prudence",
+      "Why the ledger belongs to Lady Juliana's mother and why its remedies matter",
+      "The cause and severity of Toby's illness before this point",
+      "Whether the chamomile remedy is the one that works or is still being tested",
+      "Lady Juliana's stated weariness and what it refers to"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 6.0,
+    "reason": "Visible distress from a coughing, wheezing child and the urgency of Lady Juliana's rushed actions and Prudence's anxious nodding create tension and concern."
+  },
+  "weaknesses": [
+    "Relationships and setting are not established, so the caregiving stakes feel generic to a first-time viewer",
+    "Ledger and remedy references are introduced without explanation",
+    "Ending lacks a clear dramatic beat, so the cliffhanger is weak",
+    "Dialogue is expository, e.g. 'This boy needs my mother's knowledge', and lacks grounding",
+    "Multiple overlapping actions make the sequence somewhat busy to follow"
+  ],
+  "one_line_why_it_works": "A sick child, a rushed search through a book, and an immediate treatment create clear urgency and concern even without backstory."
+}

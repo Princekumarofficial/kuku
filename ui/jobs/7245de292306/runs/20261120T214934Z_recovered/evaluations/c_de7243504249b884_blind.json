@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_de7243504249b884",
+  "hook": {
+    "score_0_10": 4.0,
+    "evidence_refs": [
+      "EP40:E26",
+      "EP40:E28"
+    ],
+    "reason": "The opening starts within 0-3000ms with a formal cathedral wedding setup and a nervous groom-like figure, which signals a ceremony but no immediate conflict or question beyond waiting for the bride."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP40:E35",
+      "EP40:E36"
+    ],
+    "reason": "The ending has a hidden elder nobleman confirming that all entrances are covered and saying that by sunset Ashburgh will have a new Duke and Duchess, which leaves the intent and outcome unresolved within the clip.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Rupert is in relation to Ashburgh and the bride",
+      "Who the bride is and why she is expected",
+      "What the elder nobleman's plan is and why entrances must be covered",
+      "Why Royal Guards are placed at entrances and what threat they guard against",
+      "What Ashburgh's current power situation is"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 6.0,
+    "reason": "Tension builds through the nervous groom, the watching conspirator, and the guard's confirmation, but the emotional stakes are not personalized beyond implied menace."
+  },
+  "weaknesses": [
+    "The first 10 seconds are static establishing shots with little narrative movement",
+    "The conspiracy is implied only through dialogue and staging, so viewers cannot tell who is threatened",
+    "Rupert's role and motives are not clarified before the ending",
+    "The bride is never shown or introduced",
+    "The ending dialogue is vague about what will happen by sunset"
+  ],
+  "one_line_why_it_works": "The clip closes on an ominous, unresolved line from a hidden conspirator that makes the wedding feel like a trap, which creates a question about what happens next."
+}

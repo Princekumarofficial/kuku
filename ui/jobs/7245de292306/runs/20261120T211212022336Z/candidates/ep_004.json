@@ -1,0 +1,890 @@
+[
+  {
+    "candidate_id": "c_08cefcd5985ef1d5",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 113000,
+        "end_ms": 140800,
+        "episode_id": "ep_004"
+      }
+    ],
+    "duration_ms": 27800,
+    "origin": "ep004_opp_01",
+    "clip_events": [
+      {
+        "ref": "EP04:E83",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1800,
+        "type": "camera",
+        "speaker": null,
+        "text": "High wide establishing shot looking down from the ceiling vaults of the cathedral onto the altar."
+      },
+      {
+        "ref": "EP04:E84",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1800,
+        "type": "dialogue",
+        "speaker": "THE PRIEST",
+        "text": "\"...husband and wife!\""
+      },
+      {
+        "ref": "EP04:E85",
+        "segment_index": 0,
+        "relative_start_ms": 1000,
+        "relative_end_ms": 2200,
+        "type": "sound",
+        "speaker": null,
+        "text": "Dramatic musical chord swelling."
+      },
+      {
+        "ref": "EP04:E86",
+        "segment_index": 0,
+        "relative_start_ms": 1800,
+        "relative_end_ms": 3800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Gerald lunging forward, pointing an enraged finger."
+      },
+      {
+        "ref": "EP04:E87",
+        "segment_index": 0,
+        "relative_start_ms": 2000,
+        "relative_end_ms": 3800,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"You have thrown yourself away!\""
+      },
+      {
+        "ref": "EP04:E88",
+        "segment_index": 0,
+        "relative_start_ms": 3800,
+        "relative_end_ms": 6000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of Gerald, face contorted in rage."
+      },
+      {
+        "ref": "EP04:E89",
+        "segment_index": 0,
+        "relative_start_ms": 4000,
+        "relative_end_ms": 6000,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"For a penniless nobody!\""
+      },
+      {
+        "ref": "EP04:E90",
+        "segment_index": 0,
+        "relative_start_ms": 6000,
+        "relative_end_ms": 9800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot of Juliana standing tall before Gerald in the chapel aisle, her husband standing guard behind her."
+      },
+      {
+        "ref": "EP04:E91",
+        "segment_index": 0,
+        "relative_start_ms": 7500,
+        "relative_end_ms": 9800,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I would rather choose my own life...\""
+      },
+      {
+        "ref": "EP04:E92",
+        "segment_index": 0,
+        "relative_start_ms": 9800,
+        "relative_end_ms": 12800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana, her jaw set with unshakable pride."
+      },
+      {
+        "ref": "EP04:E93",
+        "segment_index": 0,
+        "relative_start_ms": 10000,
+        "relative_end_ms": 12500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"...than spend another moment begging for yours.\""
+      },
+      {
+        "ref": "EP04:E94",
+        "segment_index": 0,
+        "relative_start_ms": 12800,
+        "relative_end_ms": 14400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of Gerald, eyes wide with speechless shock and wounded pride."
+      },
+      {
+        "ref": "EP04:E95",
+        "segment_index": 0,
+        "relative_start_ms": 13000,
+        "relative_end_ms": 14400,
+        "type": "action",
+        "speaker": null,
+        "text": "Gerald recoils slightly, mouth agape."
+      },
+      {
+        "ref": "EP04:E96",
+        "segment_index": 0,
+        "relative_start_ms": 14400,
+        "relative_end_ms": 18500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot of Lady Ashcroft rising abruptly from the front pew, pointing an accusatory hand toward the doors."
+      },
+      {
+        "ref": "EP04:E97",
+        "segment_index": 0,
+        "relative_start_ms": 14500,
+        "relative_end_ms": 18500,
+        "type": "dialogue",
+        "speaker": "LADY ASHCROFT",
+        "text": "\"Do not bring this man anywhere near Ashcroft Manor!\""
+      },
+      {
+        "ref": "EP04:E98",
+        "segment_index": 0,
+        "relative_start_ms": 18500,
+        "relative_end_ms": 21800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of Lady Ashcroft, eyes blazing with cold malice."
+      },
+      {
+        "ref": "EP04:E99",
+        "segment_index": 0,
+        "relative_start_ms": 19000,
+        "relative_end_ms": 21500,
+        "type": "dialogue",
+        "speaker": "LADY ASHCROFT",
+        "text": "\"You are disowned!\""
+      },
+      {
+        "ref": "EP04:E100",
+        "segment_index": 0,
+        "relative_start_ms": 21800,
+        "relative_end_ms": 23000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Lord Ashcroft bowing his head deeply over his cane in shame."
+      },
+      {
+        "ref": "EP04:E101",
+        "segment_index": 0,
+        "relative_start_ms": 23000,
+        "relative_end_ms": 25800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana. Tears brim in her eyes at the formal rejection, but she does not break."
+      },
+      {
+        "ref": "EP04:E102",
+        "segment_index": 0,
+        "relative_start_ms": 25800,
+        "relative_end_ms": 27800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot as the Mysterious Bearded Man turns gently to Juliana, reaching his hand out once more."
+      },
+      {
+        "ref": "EP04:E103",
+        "segment_index": 0,
+        "relative_start_ms": 26500,
+        "relative_end_ms": 27800,
+        "type": "dialogue",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "text": "\"Come, Lady Juliana.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_93ec58705d004b19",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 23400,
+        "end_ms": 65500,
+        "episode_id": "ep_004"
+      }
+    ],
+    "duration_ms": 42100,
+    "origin": "ep004_opp_02",
+    "clip_events": [
+      {
+        "ref": "EP04:E19",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of Juliana's anguished face."
+      },
+      {
+        "ref": "EP04:E20",
+        "segment_index": 0,
+        "relative_start_ms": 100,
+        "relative_end_ms": 2400,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You heard what they think I am.\""
+      },
+      {
+        "ref": "EP04:E21",
+        "segment_index": 0,
+        "relative_start_ms": 2400,
+        "relative_end_ms": 4500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot looking down as Juliana addresses the kneeling stranger directly."
+      },
+      {
+        "ref": "EP04:E22",
+        "segment_index": 0,
+        "relative_start_ms": 2500,
+        "relative_end_ms": 4300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Why would you offer me your name?\""
+      },
+      {
+        "ref": "EP04:E23",
+        "segment_index": 0,
+        "relative_start_ms": 4500,
+        "relative_end_ms": 7100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle close-up of the Mysterious Bearded Man."
+      },
+      {
+        "ref": "EP04:E24",
+        "segment_index": 0,
+        "relative_start_ms": 4600,
+        "relative_end_ms": 6800,
+        "type": "dialogue",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "text": "\"Because I know what I see.\""
+      },
+      {
+        "ref": "EP04:E25",
+        "segment_index": 0,
+        "relative_start_ms": 7100,
+        "relative_end_ms": 8600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana reacting with a mix of suspicion and wonder."
+      },
+      {
+        "ref": "EP04:E26",
+        "segment_index": 0,
+        "relative_start_ms": 8600,
+        "relative_end_ms": 10400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Intimate tight shot framing Juliana's profile beside his dark silhouette."
+      },
+      {
+        "ref": "EP04:E27",
+        "segment_index": 0,
+        "relative_start_ms": 8700,
+        "relative_end_ms": 10300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"And what do you see?\""
+      },
+      {
+        "ref": "EP04:E28",
+        "segment_index": 0,
+        "relative_start_ms": 10400,
+        "relative_end_ms": 12600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the Mysterious Bearded Man."
+      },
+      {
+        "ref": "EP04:E29",
+        "segment_index": 0,
+        "relative_start_ms": 10600,
+        "relative_end_ms": 12600,
+        "type": "dialogue",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "text": "\"A woman who was betrayed.\""
+      },
+      {
+        "ref": "EP04:E30",
+        "segment_index": 0,
+        "relative_start_ms": 12600,
+        "relative_end_ms": 15500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Over-the-shoulder shot past the bearded warrior toward Gerald watching nervously from the family pew."
+      },
+      {
+        "ref": "EP04:E31",
+        "segment_index": 0,
+        "relative_start_ms": 13100,
+        "relative_end_ms": 15400,
+        "type": "dialogue",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "text": "\"Not a woman who deserves to be discarded.\""
+      },
+      {
+        "ref": "EP04:E32",
+        "segment_index": 0,
+        "relative_start_ms": 15500,
+        "relative_end_ms": 18100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle medium shot of Juliana bending slightly forward, shaken by his words."
+      },
+      {
+        "ref": "EP04:E33",
+        "segment_index": 0,
+        "relative_start_ms": 18100,
+        "relative_end_ms": 21600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana."
+      },
+      {
+        "ref": "EP04:E34",
+        "segment_index": 0,
+        "relative_start_ms": 18600,
+        "relative_end_ms": 21400,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You don't know what my family has done to me.\""
+      },
+      {
+        "ref": "EP04:E35",
+        "segment_index": 0,
+        "relative_start_ms": 21600,
+        "relative_end_ms": 26400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle shot of the Mysterious Bearded Man still on one knee, framed against the stained-glass window."
+      },
+      {
+        "ref": "EP04:E36",
+        "segment_index": 0,
+        "relative_start_ms": 22600,
+        "relative_end_ms": 25400,
+        "type": "dialogue",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "text": "\"I know they have made you stand alone.\""
+      },
+      {
+        "ref": "EP04:E37",
+        "segment_index": 0,
+        "relative_start_ms": 26400,
+        "relative_end_ms": 29400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of the ring held in his weathered fingers, Juliana's white silk gown blurred in background."
+      },
+      {
+        "ref": "EP04:E38",
+        "segment_index": 0,
+        "relative_start_ms": 26600,
+        "relative_end_ms": 29100,
+        "type": "dialogue",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "text": "\"You don't have to stand alone now.\""
+      },
+      {
+        "ref": "EP04:E39",
+        "segment_index": 0,
+        "relative_start_ms": 29400,
+        "relative_end_ms": 32400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana, her pride flaring through her sadness."
+      },
+      {
+        "ref": "EP04:E40",
+        "segment_index": 0,
+        "relative_start_ms": 30200,
+        "relative_end_ms": 32400,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"If this is pity, take back your ring.\""
+      },
+      {
+        "ref": "EP04:E41",
+        "segment_index": 0,
+        "relative_start_ms": 32400,
+        "relative_end_ms": 35600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up on Juliana's face, a tear clinging to her cheek."
+      },
+      {
+        "ref": "EP04:E42",
+        "segment_index": 0,
+        "relative_start_ms": 33400,
+        "relative_end_ms": 35400,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I will not become anyone's charity.\""
+      },
+      {
+        "ref": "EP04:E43",
+        "segment_index": 0,
+        "relative_start_ms": 35600,
+        "relative_end_ms": 39400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the Mysterious Bearded Man holding her gaze directly."
+      },
+      {
+        "ref": "EP04:E44",
+        "segment_index": 0,
+        "relative_start_ms": 36100,
+        "relative_end_ms": 39100,
+        "type": "dialogue",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "text": "\"It is not pity, Lady Juliana.\""
+      },
+      {
+        "ref": "EP04:E45",
+        "segment_index": 0,
+        "relative_start_ms": 39400,
+        "relative_end_ms": 42100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Intense tight close-up on his piercing blue-green eyes and facial scars."
+      },
+      {
+        "ref": "EP04:E46",
+        "segment_index": 0,
+        "relative_start_ms": 40100,
+        "relative_end_ms": 42100,
+        "type": "dialogue",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "text": "\"It is a vow.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_6fef83f5f89d45fe",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 81500,
+        "end_ms": 113000,
+        "episode_id": "ep_004"
+      }
+    ],
+    "duration_ms": 31500,
+    "origin": "ep004_opp_03",
+    "clip_events": [
+      {
+        "ref": "EP04:E58",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana's slender hand resting gently into his large, weathered palm."
+      },
+      {
+        "ref": "EP04:E60",
+        "segment_index": 0,
+        "relative_start_ms": 300,
+        "relative_end_ms": 2500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the Priest holding his open liturgical book, bewildered and trembling."
+      },
+      {
+        "ref": "EP04:E61",
+        "segment_index": 0,
+        "relative_start_ms": 500,
+        "relative_end_ms": 2300,
+        "type": "dialogue",
+        "speaker": "THE PRIEST",
+        "text": "\"My- My Lady...\""
+      },
+      {
+        "ref": "EP04:E63",
+        "segment_index": 0,
+        "relative_start_ms": 2500,
+        "relative_end_ms": 4300,
+        "type": "dialogue",
+        "speaker": "THE PRIEST",
+        "text": "\"Are you certain?\""
+      },
+      {
+        "ref": "EP04:E62",
+        "segment_index": 0,
+        "relative_start_ms": 2500,
+        "relative_end_ms": 4500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of the Priest's alarmed, questioning eyes."
+      },
+      {
+        "ref": "EP04:E64",
+        "segment_index": 0,
+        "relative_start_ms": 4500,
+        "relative_end_ms": 7300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Lord Ashcroft seated in his pew, gripping his cane, bowed in grim silence."
+      },
+      {
+        "ref": "EP04:E65",
+        "segment_index": 0,
+        "relative_start_ms": 7300,
+        "relative_end_ms": 10000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up profile of Juliana, her expression clear and unshakable."
+      },
+      {
+        "ref": "EP04:E66",
+        "segment_index": 0,
+        "relative_start_ms": 8300,
+        "relative_end_ms": 9500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I am.\""
+      },
+      {
+        "ref": "EP04:E67",
+        "segment_index": 0,
+        "relative_start_ms": 10000,
+        "relative_end_ms": 13300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the Priest swallowing hard and looking down at his book."
+      },
+      {
+        "ref": "EP04:E68",
+        "segment_index": 0,
+        "relative_start_ms": 10500,
+        "relative_end_ms": 13000,
+        "type": "dialogue",
+        "speaker": "THE PRIEST",
+        "text": "\"Then... let us proceed.\""
+      },
+      {
+        "ref": "EP04:E69",
+        "segment_index": 0,
+        "relative_start_ms": 13300,
+        "relative_end_ms": 16300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close two-shot of the Mysterious Bearded Man and Juliana gazing intimately into each other's eyes."
+      },
+      {
+        "ref": "EP04:E70",
+        "segment_index": 0,
+        "relative_start_ms": 14300,
+        "relative_end_ms": 16500,
+        "type": "dialogue",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "text": "\"You need not say anything you do not mean.\""
+      },
+      {
+        "ref": "EP04:E71",
+        "segment_index": 0,
+        "relative_start_ms": 16300,
+        "relative_end_ms": 18700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana smiling softly up at him."
+      },
+      {
+        "ref": "EP04:E72",
+        "segment_index": 0,
+        "relative_start_ms": 16700,
+        "relative_end_ms": 18500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I truly mean it.\""
+      },
+      {
+        "ref": "EP04:E73",
+        "segment_index": 0,
+        "relative_start_ms": 18700,
+        "relative_end_ms": 20700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up shot of his hands sliding the silver ring over her ring finger."
+      },
+      {
+        "ref": "EP04:E74",
+        "segment_index": 0,
+        "relative_start_ms": 18700,
+        "relative_end_ms": 20700,
+        "type": "action",
+        "speaker": null,
+        "text": "The Mysterious Bearded Man carefully slides the band onto Juliana's finger."
+      },
+      {
+        "ref": "EP04:E75",
+        "segment_index": 0,
+        "relative_start_ms": 20700,
+        "relative_end_ms": 23500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the Mysterious Bearded Man holding her hands tenderly."
+      },
+      {
+        "ref": "EP04:E76",
+        "segment_index": 0,
+        "relative_start_ms": 21000,
+        "relative_end_ms": 22700,
+        "type": "dialogue",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "text": "\"You have my protection.\""
+      },
+      {
+        "ref": "EP04:E77",
+        "segment_index": 0,
+        "relative_start_ms": 23500,
+        "relative_end_ms": 26300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight shot of the warrior's face, his eyes full of devotion."
+      },
+      {
+        "ref": "EP04:E78",
+        "segment_index": 0,
+        "relative_start_ms": 23700,
+        "relative_end_ms": 25500,
+        "type": "dialogue",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "text": "\"You have my respect.\""
+      },
+      {
+        "ref": "EP04:E80",
+        "segment_index": 0,
+        "relative_start_ms": 26300,
+        "relative_end_ms": 28300,
+        "type": "dialogue",
+        "speaker": "MYSTERIOUS BEARDED MAN",
+        "text": "\"And you have my word.\""
+      },
+      {
+        "ref": "EP04:E79",
+        "segment_index": 0,
+        "relative_start_ms": 26300,
+        "relative_end_ms": 28500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of his intense gaze."
+      },
+      {
+        "ref": "EP04:E81",
+        "segment_index": 0,
+        "relative_start_ms": 28500,
+        "relative_end_ms": 31300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium three-shot with the Priest standing between them, raising both hands in blessing over their joined hands."
+      },
+      {
+        "ref": "EP04:E82",
+        "segment_index": 0,
+        "relative_start_ms": 28500,
+        "relative_end_ms": 31500,
+        "type": "dialogue",
+        "speaker": "THE PRIEST",
+        "text": "\"By the authority entrusted to me, I now pronounce you...\""
+      },
+      {
+        "ref": "EP04:E83",
+        "segment_index": 0,
+        "relative_start_ms": 31300,
+        "relative_end_ms": 31500,
+        "type": "camera",
+        "speaker": null,
+        "text": "High wide establishing shot looking down from the ceiling vaults of the cathedral onto the altar."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_bc3a2314b0788f51",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 109800,
+        "end_ms": 131500,
+        "episode_id": "ep_004"
+      }
+    ],
+    "duration_ms": 21700,
+    "origin": "recovery_B9",
+    "clip_events": [
+      {
+        "ref": "EP04:E79",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of his intense gaze."
+      },
+      {
+        "ref": "EP04:E81",
+        "segment_index": 0,
+        "relative_start_ms": 200,
+        "relative_end_ms": 3000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium three-shot with the Priest standing between them, raising both hands in blessing over their joined hands."
+      },
+      {
+        "ref": "EP04:E82",
+        "segment_index": 0,
+        "relative_start_ms": 200,
+        "relative_end_ms": 3200,
+        "type": "dialogue",
+        "speaker": "THE PRIEST",
+        "text": "\"By the authority entrusted to me, I now pronounce you...\""
+      },
+      {
+        "ref": "EP04:E83",
+        "segment_index": 0,
+        "relative_start_ms": 3000,
+        "relative_end_ms": 5000,
+        "type": "camera",
+        "speaker": null,
+        "text": "High wide establishing shot looking down from the ceiling vaults of the cathedral onto the altar."
+      },
+      {
+        "ref": "EP04:E84",
+        "segment_index": 0,
+        "relative_start_ms": 3200,
+        "relative_end_ms": 5000,
+        "type": "dialogue",
+        "speaker": "THE PRIEST",
+        "text": "\"...husband and wife!\""
+      },
+      {
+        "ref": "EP04:E85",
+        "segment_index": 0,
+        "relative_start_ms": 4200,
+        "relative_end_ms": 5400,
+        "type": "sound",
+        "speaker": null,
+        "text": "Dramatic musical chord swelling."
+      },
+      {
+        "ref": "EP04:E86",
+        "segment_index": 0,
+        "relative_start_ms": 5000,
+        "relative_end_ms": 7000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Gerald lunging forward, pointing an enraged finger."
+      },
+      {
+        "ref": "EP04:E87",
+        "segment_index": 0,
+        "relative_start_ms": 5200,
+        "relative_end_ms": 7000,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"You have thrown yourself away!\""
+      },
+      {
+        "ref": "EP04:E88",
+        "segment_index": 0,
+        "relative_start_ms": 7000,
+        "relative_end_ms": 9200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of Gerald, face contorted in rage."
+      },
+      {
+        "ref": "EP04:E89",
+        "segment_index": 0,
+        "relative_start_ms": 7200,
+        "relative_end_ms": 9200,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"For a penniless nobody!\""
+      },
+      {
+        "ref": "EP04:E90",
+        "segment_index": 0,
+        "relative_start_ms": 9200,
+        "relative_end_ms": 13000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot of Juliana standing tall before Gerald in the chapel aisle, her husband standing guard behind her."
+      },
+      {
+        "ref": "EP04:E91",
+        "segment_index": 0,
+        "relative_start_ms": 10700,
+        "relative_end_ms": 13000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I would rather choose my own life...\""
+      },
+      {
+        "ref": "EP04:E92",
+        "segment_index": 0,
+        "relative_start_ms": 13000,
+        "relative_end_ms": 16000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana, her jaw set with unshakable pride."
+      },
+      {
+        "ref": "EP04:E93",
+        "segment_index": 0,
+        "relative_start_ms": 13200,
+        "relative_end_ms": 15700,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"...than spend another moment begging for yours.\""
+      },
+      {
+        "ref": "EP04:E94",
+        "segment_index": 0,
+        "relative_start_ms": 16000,
+        "relative_end_ms": 17600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of Gerald, eyes wide with speechless shock and wounded pride."
+      },
+      {
+        "ref": "EP04:E95",
+        "segment_index": 0,
+        "relative_start_ms": 16200,
+        "relative_end_ms": 17600,
+        "type": "action",
+        "speaker": null,
+        "text": "Gerald recoils slightly, mouth agape."
+      },
+      {
+        "ref": "EP04:E96",
+        "segment_index": 0,
+        "relative_start_ms": 17600,
+        "relative_end_ms": 21700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot of Lady Ashcroft rising abruptly from the front pew, pointing an accusatory hand toward the doors."
+      },
+      {
+        "ref": "EP04:E97",
+        "segment_index": 0,
+        "relative_start_ms": 17700,
+        "relative_end_ms": 21700,
+        "type": "dialogue",
+        "speaker": "LADY ASHCROFT",
+        "text": "\"Do not bring this man anywhere near Ashcroft Manor!\""
+      }
+    ]
+  }
+]

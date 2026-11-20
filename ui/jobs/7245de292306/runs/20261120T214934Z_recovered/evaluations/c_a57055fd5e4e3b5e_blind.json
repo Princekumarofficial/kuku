@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_a57055fd5e4e3b5e",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP27:E25",
+      "EP27:E26",
+      "EP27:E27"
+    ],
+    "reason": "The clip opens on a quiet, odd question from the Duchess and within the first 3000ms a violent pounding on the doors (starting at 2200ms) jolts Juliana into alarm, creating immediate tension."
+  },
+  "cliffhanger": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP27:E38",
+      "EP27:E39"
+    ],
+    "reason": "In the final 3000ms Lady Catherine points at Juliana and demands 'Show me your hand' while Juliana has just denied hiding anything, leaving the question of what is concealed unanswered at the clip's end.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Identity and relationship of the Duchess, Juliana, Lady Catherine and the Blond Nobleman",
+      "Who the husband referenced by the Duchess is and why the question matters",
+      "Why the maid is in the private chamber and what Juliana was doing there",
+      "What Juliana is hiding and why the hand matters",
+      "Significance of the royal guard's presence"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Escalating confrontation, a sudden violent intrusion, and open accusation with Juliana's defiant denial create strong suspense and unease."
+  },
+  "weaknesses": [
+    "Characters and stakes are not introduced, so the confrontation lacks grounding for a first-time viewer",
+    "The opening question about the husband's name is left unexplained and may read as arbitrary",
+    "Juliana's denial and the hidden hand are set up without any evidence of what is concealed",
+    "Some camera-only segments carry the scene without establishing relationships"
+  ],
+  "one_line_why_it_works": "A sudden pounding at the door and an accusatory demand to reveal a hidden hand create immediate tension and an open question that pulls the viewer forward."
+}

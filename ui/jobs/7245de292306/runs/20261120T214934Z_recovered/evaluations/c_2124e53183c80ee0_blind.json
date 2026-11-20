@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_2124e53183c80ee0",
+  "hook": {
+    "score_0_10": 7.5,
+    "evidence_refs": [
+      "EP36:E43",
+      "EP36:E44"
+    ],
+    "reason": "The clip opens mid-confrontation with urgent body language and an immediate, unexplained name, which creates a pull to know what happened. A first-time viewer lacks context for who Juliana is, so the hook is strong in tension but weakened by missing reference points."
+  },
+  "cliffhanger": {
+    "score_0_10": 8.5,
+    "evidence_refs": [
+      "EP36:E65",
+      "EP36:E66"
+    ],
+    "reason": "The clip ends on a new accusation that is not resolved: Juliana has been arrested for an alleged poisoning, and Alexander's reaction and the outcome are not shown. The ending is an unresolved revelation, not a resolved intense moment.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.5,
+    "missing_context": [
+      "Who Juliana is and her relationship to Alexander",
+      "What Ashbourne Manor is and why Juliana went there to save Alexander",
+      "Who Rupert and Catherine are and why they accused Juliana",
+      "Who Alexander's mother is beyond being addressed as mother",
+      "Who was poisoned and what the poisoning refers to",
+      "Who arrested Juliana and what the arrest means for the situation"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.5,
+    "reason": "Escalating desperation, tears, ragged breathing, and pleading hands build steadily to a shocking accusation. The emotional intensity is high and sustained across the clip."
+  },
+  "weaknesses": [
+    "Heavy reliance on unnamed characters and places makes the clip hard to follow for a first-time viewer",
+    "The opening lines assume prior knowledge of Juliana and the stakes",
+    "The poisoning accusation is introduced without any supporting detail",
+    "Alexander's reaction to the arrest is cut off, leaving the emotional beat incomplete"
+  ],
+  "one_line_why_it_works": "A desperate chain of questions escalates into a shocking accusation at the end, so the viewer is left needing to know what happens to Juliana next."
+}

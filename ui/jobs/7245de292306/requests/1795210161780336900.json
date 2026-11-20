@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_bc3a2314b0788f51 DURATION_MS=21700\nSEGMENT 1 (playback order)\nEP04:E79 0-200 CAMERA: Extreme close-up of his intense gaze.\nEP04:E81 200-3000 CAMERA: Medium three-shot with the Priest standing between them, raising both hands in blessing over their joined hands.\nEP04:E82 200-3200 THE PRIEST: \"By the authority entrusted to me, I now pronounce you...\"\nEP04:E83 3000-5000 CAMERA: High wide establishing shot looking down from the ceiling vaults of the cathedral onto the altar.\nEP04:E84 3200-5000 THE PRIEST: \"...husband and wife!\"\nEP04:E85 4200-5400 SOUND: Dramatic musical chord swelling.\nEP04:E86 5000-7000 CAMERA: Medium close-up of Gerald lunging forward, pointing an enraged finger.\nEP04:E87 5200-7000 GERALD: \"You have thrown yourself away!\"\nEP04:E88 7000-9200 CAMERA: Tight close-up of Gerald, face contorted in rage.\nEP04:E89 7200-9200 GERALD: \"For a penniless nobody!\"\nEP04:E90 9200-13000 CAMERA: Medium two-shot of Juliana standing tall before Gerald in the chapel aisle, her husband standing guard behind her.\nEP04:E91 10700-13000 JULIANA: \"I would rather choose my own life...\"\nEP04:E92 13000-16000 CAMERA: Close-up of Juliana, her jaw set with unshakable pride.\nEP04:E93 13200-15700 JULIANA: \"...than spend another moment begging for yours.\"\nEP04:E94 16000-17600 CAMERA: Tight close-up of Gerald, eyes wide with speechless shock and wounded pride.\nEP04:E95 16200-17600 ACTION: Gerald recoils slightly, mouth agape.\nEP04:E96 17600-21700 CAMERA: Wide shot of Lady Ashcroft rising abruptly from the front pew, pointing an accusatory hand toward the doors.\nEP04:E97 17700-21700 LADY ASHCROFT: \"Do not bring this man anywhere near Ashcroft Manor!\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

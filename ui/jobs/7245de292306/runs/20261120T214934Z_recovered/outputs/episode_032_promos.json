@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0",
+  "series_id": "series_001",
+  "scope": {
+    "type": "episode",
+    "episode_id": "ep_032"
+  },
+  "promos": [
+    {
+      "candidate_id": "c_d566d29d2d4dcfb4",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 122800,
+          "end_ms": 154380,
+          "episode_id": "ep_032"
+        }
+      ],
+      "duration_ms": 31580,
+      "hook": {
+        "description": "The clip opens within 0-2200ms on Juliana crying out her defiance, and her line 'Because I am right!' at 200-2400ms grabs attention immediately. The opening lacks any stated stakes, so the hook is strong on emotion but thin on context.",
+        "evidence_refs": [
+          "EP32:E94",
+          "EP32:E95"
+        ]
+      },
+      "cliffhanger": {
+        "description": "In the final 3000ms, the glowing iron stops millimeters from Juliana's right eye (E116, 28400-31580ms), and the extreme close-up holds on her eye as the frame cuts to black (E117, 29200-31580ms). Nothing in the clip shows whether the iron touches her, so the tension is unresolved at the end.",
+        "evidence_refs": [
+          "EP32:E116",
+          "EP32:E117"
+        ]
+      },
+      "why_it_works": "Escalating defiance and rage culminate in a glowing iron stopping millimeters from Juliana's eye, cut to black before any outcome is shown.",
+      "scores": {
+        "hook": 7.5,
+        "cliffhanger": 8.5,
+        "standalone": 5.0,
+        "emotion": 8.5,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 7.325
+      },
+      "warnings": [
+        "A first-time viewer cannot tell who the characters are or why they are in conflict",
+        "Opening line 'Because I am right!' lacks a stated subject, weakening early clarity",
+        "The title and power dispute in the dialogue is not anchored to visible events",
+        "Cliffhanger depends on prior unexplained stakes for full impact",
+        "Several camera descriptions repeat the same tension beat, slowing the escalation in the middle section",
+        "Spoilers not checked",
+        "Identities and relationship of Catherine and Juliana are never established",
+        "The reason for the imprisonment and chains is not explained",
+        "The 'title' Juliana refers to in E107 has no stated referent",
+        "'Because I am right!' in E95 has no stated subject or prior claim",
+        "The significance of the branding iron as a punishment or threat is only implied",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 1,
+      "promo_id": "p_001"
+    }
+  ],
+  "construction": {
+    "opportunities": 3,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "PARTIAL_DIALOGUE": 1190,
+      "DURATION_OUT_OF_RANGE": 1369
+    }
+  },
+  "rejected_candidates": [
+    {
+      "candidate_id": "c_b5af9aaea1a03cc6",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_e81bed24a80a87bc",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_a6cd278531d9e2c9",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    }
+  ]
+}

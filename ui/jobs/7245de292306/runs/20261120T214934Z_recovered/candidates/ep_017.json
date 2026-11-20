@@ -1,0 +1,971 @@
+[
+  {
+    "candidate_id": "c_a6091b1effa13ede",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 25800,
+        "end_ms": 62200,
+        "episode_id": "ep_017"
+      }
+    ],
+    "duration_ms": 36400,
+    "origin": "ep17_opp_01",
+    "clip_events": [
+      {
+        "ref": "EP17:E20",
+        "segment_index": 0,
+        "relative_start_ms": 200,
+        "relative_end_ms": 1900,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"As long as I draw breath...\""
+      },
+      {
+        "ref": "EP17:E21",
+        "segment_index": 0,
+        "relative_start_ms": 700,
+        "relative_end_ms": 4200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tracking shot following Alexander as he strides across the muddy garden and approaches Juliana."
+      },
+      {
+        "ref": "EP17:E22",
+        "segment_index": 0,
+        "relative_start_ms": 2200,
+        "relative_end_ms": 5700,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander drops to one knee before Juliana, gently taking her trembling, bandaged hands into his large, weathered palms."
+      },
+      {
+        "ref": "EP17:E23",
+        "segment_index": 0,
+        "relative_start_ms": 3000,
+        "relative_end_ms": 5200,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"...no one will hurt you again.\""
+      },
+      {
+        "ref": "EP17:E24",
+        "segment_index": 0,
+        "relative_start_ms": 5700,
+        "relative_end_ms": 8700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana's tear-filled face, overwhelmed by his fierce devotion."
+      },
+      {
+        "ref": "EP17:E25",
+        "segment_index": 0,
+        "relative_start_ms": 7000,
+        "relative_end_ms": 8400,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You cannot promise that.\""
+      },
+      {
+        "ref": "EP17:E26",
+        "segment_index": 0,
+        "relative_start_ms": 8700,
+        "relative_end_ms": 10700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of Alexander's intense, protective gaze locking onto hers."
+      },
+      {
+        "ref": "EP17:E27",
+        "segment_index": 0,
+        "relative_start_ms": 9000,
+        "relative_end_ms": 10000,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"I just did.\""
+      },
+      {
+        "ref": "EP17:E28",
+        "segment_index": 0,
+        "relative_start_ms": 10700,
+        "relative_end_ms": 13200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of their joined hands, his rugged, scarred fingers wrapping securely around her bandaged fingers."
+      },
+      {
+        "ref": "EP17:E29",
+        "segment_index": 0,
+        "relative_start_ms": 10700,
+        "relative_end_ms": 13200,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander squeezes Juliana's hands reassuringly as she rests her fingertips against his skin. The scene fades to black."
+      },
+      {
+        "ref": "EP17:E30",
+        "segment_index": 0,
+        "relative_start_ms": 13200,
+        "relative_end_ms": 16200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot in the warm, flickering firelight of the stone cottage. Juliana kneels on the stone floor beside a washbasin of water while Alexander sits quietly in a chair beside the blazing hearth."
+      },
+      {
+        "ref": "EP17:E31",
+        "segment_index": 0,
+        "relative_start_ms": 14200,
+        "relative_end_ms": 18700,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana wrings out a clean linen cloth from the basin and tenderly dabs at the fresh cuts and abrasions on the back of Alexander's right hand."
+      },
+      {
+        "ref": "EP17:E32",
+        "segment_index": 0,
+        "relative_start_ms": 16200,
+        "relative_end_ms": 19200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana's bandaged hands delicately pressing the white cloth against Alexander's wounded knuckles."
+      },
+      {
+        "ref": "EP17:E33",
+        "segment_index": 0,
+        "relative_start_ms": 17000,
+        "relative_end_ms": 18900,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You were bleeding last night.\""
+      },
+      {
+        "ref": "EP17:E34",
+        "segment_index": 0,
+        "relative_start_ms": 19200,
+        "relative_end_ms": 22700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up showing Alexander gazing down at her, his expression softening with unspoken affection as he gently takes hold of her wrist."
+      },
+      {
+        "ref": "EP17:E35",
+        "segment_index": 0,
+        "relative_start_ms": 20200,
+        "relative_end_ms": 21500,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"So were you.\""
+      },
+      {
+        "ref": "EP17:E36",
+        "segment_index": 0,
+        "relative_start_ms": 22700,
+        "relative_end_ms": 25700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana looking up into his eyes, a faint, tender smile gracing her lips."
+      },
+      {
+        "ref": "EP17:E37",
+        "segment_index": 0,
+        "relative_start_ms": 23200,
+        "relative_end_ms": 25700,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You make it very difficult to argue with you.\""
+      },
+      {
+        "ref": "EP17:E38",
+        "segment_index": 0,
+        "relative_start_ms": 25700,
+        "relative_end_ms": 28200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander ducking his chin, a subtle, bashful smile fleetingly touching his scarred face."
+      },
+      {
+        "ref": "EP17:E39",
+        "segment_index": 0,
+        "relative_start_ms": 27700,
+        "relative_end_ms": 30200,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana returns the damp cloth to the ceramic basin, her expression turning somber and reflective."
+      },
+      {
+        "ref": "EP17:E40",
+        "segment_index": 0,
+        "relative_start_ms": 28200,
+        "relative_end_ms": 32700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana looking up at him, her vulnerability resurfacing in the warm amber glow."
+      },
+      {
+        "ref": "EP17:E41",
+        "segment_index": 0,
+        "relative_start_ms": 30700,
+        "relative_end_ms": 32200,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I was frightened.\""
+      },
+      {
+        "ref": "EP17:E42",
+        "segment_index": 0,
+        "relative_start_ms": 32700,
+        "relative_end_ms": 34700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander, his brow furrowing with sudden concern."
+      },
+      {
+        "ref": "EP17:E43",
+        "segment_index": 0,
+        "relative_start_ms": 33000,
+        "relative_end_ms": 34000,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Of them?\""
+      },
+      {
+        "ref": "EP17:E44",
+        "segment_index": 0,
+        "relative_start_ms": 34700,
+        "relative_end_ms": 36400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana gazing directly into his eyes, her heart laid bare."
+      },
+      {
+        "ref": "EP17:E45",
+        "segment_index": 0,
+        "relative_start_ms": 35000,
+        "relative_end_ms": 36400,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Of losing you.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_c62897bc3307358a",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 40000,
+        "end_ms": 99200,
+        "episode_id": "ep_017"
+      }
+    ],
+    "duration_ms": 59200,
+    "origin": "ep17_opp_02",
+    "clip_events": [
+      {
+        "ref": "EP17:E30",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot in the warm, flickering firelight of the stone cottage. Juliana kneels on the stone floor beside a washbasin of water while Alexander sits quietly in a chair beside the blazing hearth."
+      },
+      {
+        "ref": "EP17:E31",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 4500,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana wrings out a clean linen cloth from the basin and tenderly dabs at the fresh cuts and abrasions on the back of Alexander's right hand."
+      },
+      {
+        "ref": "EP17:E32",
+        "segment_index": 0,
+        "relative_start_ms": 2000,
+        "relative_end_ms": 5000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana's bandaged hands delicately pressing the white cloth against Alexander's wounded knuckles."
+      },
+      {
+        "ref": "EP17:E33",
+        "segment_index": 0,
+        "relative_start_ms": 2800,
+        "relative_end_ms": 4700,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You were bleeding last night.\""
+      },
+      {
+        "ref": "EP17:E34",
+        "segment_index": 0,
+        "relative_start_ms": 5000,
+        "relative_end_ms": 8500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up showing Alexander gazing down at her, his expression softening with unspoken affection as he gently takes hold of her wrist."
+      },
+      {
+        "ref": "EP17:E35",
+        "segment_index": 0,
+        "relative_start_ms": 6000,
+        "relative_end_ms": 7300,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"So were you.\""
+      },
+      {
+        "ref": "EP17:E36",
+        "segment_index": 0,
+        "relative_start_ms": 8500,
+        "relative_end_ms": 11500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana looking up into his eyes, a faint, tender smile gracing her lips."
+      },
+      {
+        "ref": "EP17:E37",
+        "segment_index": 0,
+        "relative_start_ms": 9000,
+        "relative_end_ms": 11500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You make it very difficult to argue with you.\""
+      },
+      {
+        "ref": "EP17:E38",
+        "segment_index": 0,
+        "relative_start_ms": 11500,
+        "relative_end_ms": 14000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander ducking his chin, a subtle, bashful smile fleetingly touching his scarred face."
+      },
+      {
+        "ref": "EP17:E39",
+        "segment_index": 0,
+        "relative_start_ms": 13500,
+        "relative_end_ms": 16000,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana returns the damp cloth to the ceramic basin, her expression turning somber and reflective."
+      },
+      {
+        "ref": "EP17:E40",
+        "segment_index": 0,
+        "relative_start_ms": 14000,
+        "relative_end_ms": 18500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana looking up at him, her vulnerability resurfacing in the warm amber glow."
+      },
+      {
+        "ref": "EP17:E41",
+        "segment_index": 0,
+        "relative_start_ms": 16500,
+        "relative_end_ms": 18000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I was frightened.\""
+      },
+      {
+        "ref": "EP17:E42",
+        "segment_index": 0,
+        "relative_start_ms": 18500,
+        "relative_end_ms": 20500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander, his brow furrowing with sudden concern."
+      },
+      {
+        "ref": "EP17:E43",
+        "segment_index": 0,
+        "relative_start_ms": 18800,
+        "relative_end_ms": 19800,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Of them?\""
+      },
+      {
+        "ref": "EP17:E44",
+        "segment_index": 0,
+        "relative_start_ms": 20500,
+        "relative_end_ms": 23500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana gazing directly into his eyes, her heart laid bare."
+      },
+      {
+        "ref": "EP17:E45",
+        "segment_index": 0,
+        "relative_start_ms": 20800,
+        "relative_end_ms": 22200,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Of losing you.\""
+      },
+      {
+        "ref": "EP17:E46",
+        "segment_index": 0,
+        "relative_start_ms": 23500,
+        "relative_end_ms": 26000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander visibly moved, his gaze softening with profound emotion."
+      },
+      {
+        "ref": "EP17:E47",
+        "segment_index": 0,
+        "relative_start_ms": 26000,
+        "relative_end_ms": 33500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as Alexander stands and pulls Juliana gently to her feet against his broad chest."
+      },
+      {
+        "ref": "EP17:E48",
+        "segment_index": 0,
+        "relative_start_ms": 26000,
+        "relative_end_ms": 33500,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana rests her cheek against Alexander's chest, closing her eyes as his strong arms wrap around her shoulders, holding her safe against his frame."
+      },
+      {
+        "ref": "EP17:E49",
+        "segment_index": 0,
+        "relative_start_ms": 33500,
+        "relative_end_ms": 38000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on their faces nestled together in the firelight, Alexander resting his bearded chin against her hair."
+      },
+      {
+        "ref": "EP17:E50",
+        "segment_index": 0,
+        "relative_start_ms": 37000,
+        "relative_end_ms": 41000,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana nestles deeper into his coat, listening intently to the rapid thudding beneath his chest."
+      },
+      {
+        "ref": "EP17:E51",
+        "segment_index": 0,
+        "relative_start_ms": 38500,
+        "relative_end_ms": 40000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Your heart is racing.\""
+      },
+      {
+        "ref": "EP17:E52",
+        "segment_index": 0,
+        "relative_start_ms": 40500,
+        "relative_end_ms": 43500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander tilting his head down toward her, a tender smile breaking through his rugged beard."
+      },
+      {
+        "ref": "EP17:E53",
+        "segment_index": 0,
+        "relative_start_ms": 41200,
+        "relative_end_ms": 42500,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"So is yours.\""
+      },
+      {
+        "ref": "EP17:E54",
+        "segment_index": 0,
+        "relative_start_ms": 43500,
+        "relative_end_ms": 47500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot framing the couple embraced in front of the roaring, glowing fireplace."
+      },
+      {
+        "ref": "EP17:E55",
+        "segment_index": 0,
+        "relative_start_ms": 46500,
+        "relative_end_ms": 50000,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana slowly raises her hand, gently twirling a lock of Alexander's long, unruly dark hair between her fingers."
+      },
+      {
+        "ref": "EP17:E56",
+        "segment_index": 0,
+        "relative_start_ms": 47500,
+        "relative_end_ms": 50000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of her delicate fingers running through his thick strands of hair."
+      },
+      {
+        "ref": "EP17:E57",
+        "segment_index": 0,
+        "relative_start_ms": 48000,
+        "relative_end_ms": 49800,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"This is becoming impossible.\""
+      },
+      {
+        "ref": "EP17:E58",
+        "segment_index": 0,
+        "relative_start_ms": 50000,
+        "relative_end_ms": 53000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana beaming up at him with affectionate humor."
+      },
+      {
+        "ref": "EP17:E59",
+        "segment_index": 0,
+        "relative_start_ms": 50400,
+        "relative_end_ms": 52500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Soon birds will start nesting in it.\""
+      },
+      {
+        "ref": "EP17:E60",
+        "segment_index": 0,
+        "relative_start_ms": 53000,
+        "relative_end_ms": 56000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander regarding her with a subtle, affectionate smirk."
+      },
+      {
+        "ref": "EP17:E61",
+        "segment_index": 0,
+        "relative_start_ms": 53500,
+        "relative_end_ms": 55200,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"They have not complained yet.\""
+      },
+      {
+        "ref": "EP17:E62",
+        "segment_index": 0,
+        "relative_start_ms": 55500,
+        "relative_end_ms": 57000,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana lets out a quiet, melodic laugh."
+      },
+      {
+        "ref": "EP17:E63",
+        "segment_index": 0,
+        "relative_start_ms": 56000,
+        "relative_end_ms": 59200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up as Juliana lifts her bandaged hand toward his beard playfully."
+      },
+      {
+        "ref": "EP17:E64",
+        "segment_index": 0,
+        "relative_start_ms": 56500,
+        "relative_end_ms": 59200,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Then I shall have to save you from the birds.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_027e8e52f36304eb",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 46000,
+        "end_ms": 89800,
+        "episode_id": "ep_017"
+      }
+    ],
+    "duration_ms": 43800,
+    "origin": "ep17_opp_03",
+    "clip_events": [
+      {
+        "ref": "EP17:E34",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up showing Alexander gazing down at her, his expression softening with unspoken affection as he gently takes hold of her wrist."
+      },
+      {
+        "ref": "EP17:E35",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1300,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"So were you.\""
+      },
+      {
+        "ref": "EP17:E36",
+        "segment_index": 0,
+        "relative_start_ms": 2500,
+        "relative_end_ms": 5500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana looking up into his eyes, a faint, tender smile gracing her lips."
+      },
+      {
+        "ref": "EP17:E37",
+        "segment_index": 0,
+        "relative_start_ms": 3000,
+        "relative_end_ms": 5500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You make it very difficult to argue with you.\""
+      },
+      {
+        "ref": "EP17:E38",
+        "segment_index": 0,
+        "relative_start_ms": 5500,
+        "relative_end_ms": 8000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander ducking his chin, a subtle, bashful smile fleetingly touching his scarred face."
+      },
+      {
+        "ref": "EP17:E39",
+        "segment_index": 0,
+        "relative_start_ms": 7500,
+        "relative_end_ms": 10000,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana returns the damp cloth to the ceramic basin, her expression turning somber and reflective."
+      },
+      {
+        "ref": "EP17:E40",
+        "segment_index": 0,
+        "relative_start_ms": 8000,
+        "relative_end_ms": 12500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana looking up at him, her vulnerability resurfacing in the warm amber glow."
+      },
+      {
+        "ref": "EP17:E41",
+        "segment_index": 0,
+        "relative_start_ms": 10500,
+        "relative_end_ms": 12000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I was frightened.\""
+      },
+      {
+        "ref": "EP17:E42",
+        "segment_index": 0,
+        "relative_start_ms": 12500,
+        "relative_end_ms": 14500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander, his brow furrowing with sudden concern."
+      },
+      {
+        "ref": "EP17:E43",
+        "segment_index": 0,
+        "relative_start_ms": 12800,
+        "relative_end_ms": 13800,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Of them?\""
+      },
+      {
+        "ref": "EP17:E44",
+        "segment_index": 0,
+        "relative_start_ms": 14500,
+        "relative_end_ms": 17500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana gazing directly into his eyes, her heart laid bare."
+      },
+      {
+        "ref": "EP17:E45",
+        "segment_index": 0,
+        "relative_start_ms": 14800,
+        "relative_end_ms": 16200,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Of losing you.\""
+      },
+      {
+        "ref": "EP17:E46",
+        "segment_index": 0,
+        "relative_start_ms": 17500,
+        "relative_end_ms": 20000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander visibly moved, his gaze softening with profound emotion."
+      },
+      {
+        "ref": "EP17:E47",
+        "segment_index": 0,
+        "relative_start_ms": 20000,
+        "relative_end_ms": 27500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as Alexander stands and pulls Juliana gently to her feet against his broad chest."
+      },
+      {
+        "ref": "EP17:E48",
+        "segment_index": 0,
+        "relative_start_ms": 20000,
+        "relative_end_ms": 27500,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana rests her cheek against Alexander's chest, closing her eyes as his strong arms wrap around her shoulders, holding her safe against his frame."
+      },
+      {
+        "ref": "EP17:E49",
+        "segment_index": 0,
+        "relative_start_ms": 27500,
+        "relative_end_ms": 32000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on their faces nestled together in the firelight, Alexander resting his bearded chin against her hair."
+      },
+      {
+        "ref": "EP17:E50",
+        "segment_index": 0,
+        "relative_start_ms": 31000,
+        "relative_end_ms": 35000,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana nestles deeper into his coat, listening intently to the rapid thudding beneath his chest."
+      },
+      {
+        "ref": "EP17:E51",
+        "segment_index": 0,
+        "relative_start_ms": 32500,
+        "relative_end_ms": 34000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Your heart is racing.\""
+      },
+      {
+        "ref": "EP17:E52",
+        "segment_index": 0,
+        "relative_start_ms": 34500,
+        "relative_end_ms": 37500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander tilting his head down toward her, a tender smile breaking through his rugged beard."
+      },
+      {
+        "ref": "EP17:E53",
+        "segment_index": 0,
+        "relative_start_ms": 35200,
+        "relative_end_ms": 36500,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"So is yours.\""
+      },
+      {
+        "ref": "EP17:E54",
+        "segment_index": 0,
+        "relative_start_ms": 37500,
+        "relative_end_ms": 41500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot framing the couple embraced in front of the roaring, glowing fireplace."
+      },
+      {
+        "ref": "EP17:E55",
+        "segment_index": 0,
+        "relative_start_ms": 40500,
+        "relative_end_ms": 43800,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana slowly raises her hand, gently twirling a lock of Alexander's long, unruly dark hair between her fingers."
+      },
+      {
+        "ref": "EP17:E56",
+        "segment_index": 0,
+        "relative_start_ms": 41500,
+        "relative_end_ms": 43800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of her delicate fingers running through his thick strands of hair."
+      },
+      {
+        "ref": "EP17:E57",
+        "segment_index": 0,
+        "relative_start_ms": 42000,
+        "relative_end_ms": 43800,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"This is becoming impossible.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_9f38e707ea25052e",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 23500,
+        "end_ms": 45000,
+        "episode_id": "ep_017"
+      }
+    ],
+    "duration_ms": 21500,
+    "origin": "recovery_b_004",
+    "clip_events": [
+      {
+        "ref": "EP17:E18",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana, her lips parting as her voice wavers with emotion."
+      },
+      {
+        "ref": "EP17:E19",
+        "segment_index": 0,
+        "relative_start_ms": 500,
+        "relative_end_ms": 2200,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Even if there were ten of them?\""
+      },
+      {
+        "ref": "EP17:E20",
+        "segment_index": 0,
+        "relative_start_ms": 2500,
+        "relative_end_ms": 4200,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"As long as I draw breath...\""
+      },
+      {
+        "ref": "EP17:E21",
+        "segment_index": 0,
+        "relative_start_ms": 3000,
+        "relative_end_ms": 6500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tracking shot following Alexander as he strides across the muddy garden and approaches Juliana."
+      },
+      {
+        "ref": "EP17:E22",
+        "segment_index": 0,
+        "relative_start_ms": 4500,
+        "relative_end_ms": 8000,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander drops to one knee before Juliana, gently taking her trembling, bandaged hands into his large, weathered palms."
+      },
+      {
+        "ref": "EP17:E23",
+        "segment_index": 0,
+        "relative_start_ms": 5300,
+        "relative_end_ms": 7500,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"...no one will hurt you again.\""
+      },
+      {
+        "ref": "EP17:E24",
+        "segment_index": 0,
+        "relative_start_ms": 8000,
+        "relative_end_ms": 11000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana's tear-filled face, overwhelmed by his fierce devotion."
+      },
+      {
+        "ref": "EP17:E25",
+        "segment_index": 0,
+        "relative_start_ms": 9300,
+        "relative_end_ms": 10700,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You cannot promise that.\""
+      },
+      {
+        "ref": "EP17:E26",
+        "segment_index": 0,
+        "relative_start_ms": 11000,
+        "relative_end_ms": 13000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of Alexander's intense, protective gaze locking onto hers."
+      },
+      {
+        "ref": "EP17:E27",
+        "segment_index": 0,
+        "relative_start_ms": 11300,
+        "relative_end_ms": 12300,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"I just did.\""
+      },
+      {
+        "ref": "EP17:E28",
+        "segment_index": 0,
+        "relative_start_ms": 13000,
+        "relative_end_ms": 15500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of their joined hands, his rugged, scarred fingers wrapping securely around her bandaged fingers."
+      },
+      {
+        "ref": "EP17:E29",
+        "segment_index": 0,
+        "relative_start_ms": 13000,
+        "relative_end_ms": 15500,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander squeezes Juliana's hands reassuringly as she rests her fingertips against his skin. The scene fades to black."
+      },
+      {
+        "ref": "EP17:E30",
+        "segment_index": 0,
+        "relative_start_ms": 15500,
+        "relative_end_ms": 18500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot in the warm, flickering firelight of the stone cottage. Juliana kneels on the stone floor beside a washbasin of water while Alexander sits quietly in a chair beside the blazing hearth."
+      },
+      {
+        "ref": "EP17:E31",
+        "segment_index": 0,
+        "relative_start_ms": 16500,
+        "relative_end_ms": 21000,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana wrings out a clean linen cloth from the basin and tenderly dabs at the fresh cuts and abrasions on the back of Alexander's right hand."
+      },
+      {
+        "ref": "EP17:E32",
+        "segment_index": 0,
+        "relative_start_ms": 18500,
+        "relative_end_ms": 21500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana's bandaged hands delicately pressing the white cloth against Alexander's wounded knuckles."
+      },
+      {
+        "ref": "EP17:E33",
+        "segment_index": 0,
+        "relative_start_ms": 19300,
+        "relative_end_ms": 21200,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You were bleeding last night.\""
+      }
+    ]
+  }
+]

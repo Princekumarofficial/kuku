@@ -1,0 +1,266 @@
+{
+  "episode_id": "ep_029",
+  "summary": "Episode 29 (ep_029) on-screen events EP29:E1-EP29:E74 show Juliana dragged to the dungeon after Catherine seizes her mother's herbarium, threatens to burn it and frame her for witchcraft, and Juliana breaks down in the cell before vowing that they will not take Alexander from her. This analysis uses only on-screen event text. The metadata logline and continuity notes were not treated as evidence and no claims rely on them. Uncertainty: the identities and relationships of Alexander, the scarred soldier, Ashbrook, the magistrate and the unnamed him are not established on screen. Juliana's claims about saving the Duchess and about her husband are unverified assertions. Speaker tags at EP29:E20, EP29:E32 and EP29:E69 have malformed markup, though the speakers are evident from context.",
+  "characters": [
+    {
+      "name": "Juliana",
+      "role": "Protagonist, accused healer whose mother's herbarium is seized; claims she saved and healed the Duchess"
+    },
+    {
+      "name": "Catherine",
+      "role": "Antagonist who seizes the herbarium, threatens to burn it and plans to frame Juliana for witchcraft"
+    },
+    {
+      "name": "Guard",
+      "role": "Unnamed castle guard who restrains and moves Juliana to the cell"
+    },
+    {
+      "name": "Juliana's mother",
+      "role": "Deceased woman referenced as the author of the herbarium and ledger; not seen on screen"
+    },
+    {
+      "name": "Alexander",
+      "role": "Person Juliana says will not be taken from her; relationship unclear on screen"
+    }
+  ],
+  "beats": [
+    {
+      "id": "b01",
+      "kind": "setting",
+      "event_refs": [
+        "EP29:E1",
+        "EP29:E2",
+        "EP29:E3",
+        "EP29:E4",
+        "EP29:E5"
+      ],
+      "description": "Guards haul a resisting Juliana down a dungeon stairwell while Catherine stands under an archway holding the herbarium.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "b02",
+      "kind": "plea",
+      "event_refs": [
+        "EP29:E6",
+        "EP29:E7",
+        "EP29:E8",
+        "EP29:E9",
+        "EP29:E10",
+        "EP29:E11"
+      ],
+      "description": "Juliana pleads for the herbarium as her mother's legacy; Catherine ignores her and turns away on the steps.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b03",
+      "kind": "confrontation",
+      "event_refs": [
+        "EP29:E12",
+        "EP29:E13",
+        "EP29:E14",
+        "EP29:E15",
+        "EP29:E16",
+        "EP29:E17",
+        "EP29:E18",
+        "EP29:E19",
+        "EP29:E20",
+        "EP29:E21",
+        "EP29:E22"
+      ],
+      "description": "Catherine mocks the herbarium as weeds and dismisses it; Juliana insists it is medicine; Catherine says the magistrate will call it witchcraft.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b04",
+      "kind": "threat",
+      "event_refs": [
+        "EP29:E23",
+        "EP29:E24",
+        "EP29:E25",
+        "EP29:E26",
+        "EP29:E27",
+        "EP29:E28",
+        "EP29:E29",
+        "EP29:E30",
+        "EP29:E31",
+        "EP29:E32",
+        "EP29:E33",
+        "EP29:E34"
+      ],
+      "description": "Catherine states she will burn the book and implies Juliana will be hanged, saying no one will remember what was written inside.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "b05",
+      "kind": "verbal_clash",
+      "event_refs": [
+        "EP29:E35",
+        "EP29:E36",
+        "EP29:E37",
+        "EP29:E38",
+        "EP29:E39",
+        "EP29:E40",
+        "EP29:E41",
+        "EP29:E42",
+        "EP29:E43"
+      ],
+      "description": "Juliana says Catherine acts because she saved the Duchess; Catherine says women like her forget their place and reminds her she was cast out once.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b06",
+      "kind": "defiance_and_mockery",
+      "event_refs": [
+        "EP29:E44",
+        "EP29:E45",
+        "EP29:E46",
+        "EP29:E47",
+        "EP29:E48"
+      ],
+      "description": "Juliana declares her husband will find her; Catherine mocks her scarred soldier and asks what a penniless veteran can do against Ashbrook.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b07",
+      "kind": "imprisonment",
+      "event_refs": [
+        "EP29:E49",
+        "EP29:E50",
+        "EP29:E51",
+        "EP29:E52",
+        "EP29:E53",
+        "EP29:E54",
+        "EP29:E55",
+        "EP29:E56"
+      ],
+      "description": "A guard shoves Juliana down the corridor into a dark cell; she falls to the wet floor and the iron door locks.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b08",
+      "kind": "breakdown",
+      "event_refs": [
+        "EP29:E57",
+        "EP29:E58",
+        "EP29:E59",
+        "EP29:E60",
+        "EP29:E61",
+        "EP29:E62",
+        "EP29:E63",
+        "EP29:E64",
+        "EP29:E65",
+        "EP29:E66",
+        "EP29:E67",
+        "EP29:E68",
+        "EP29:E69"
+      ],
+      "description": "Juliana hyperventilates, calls for her mother, pleads innocence and pounds the door, then slumps weeping against the wall while mourning the lost ledger.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "b09",
+      "kind": "resolve",
+      "event_refs": [
+        "EP29:E70",
+        "EP29:E71",
+        "EP29:E72",
+        "EP29:E73",
+        "EP29:E74"
+      ],
+      "description": "Juliana rises, her tears stop and she vows they will not take Alexander from her as a portcullis crashes down and moonlight filters through the grate.",
+      "intensity_0_10": 7.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "r01",
+      "event_refs": [
+        "EP29:E40"
+      ],
+      "claim": "Catherine states that Juliana was cast out once before.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "Why was Juliana cast out and by whom?"
+      ]
+    },
+    {
+      "id": "r02",
+      "event_refs": [
+        "EP29:E22",
+        "EP29:E26"
+      ],
+      "claim": "Catherine plans to have the magistrate label the herbarium as witchcraft and says she knows exactly what 'him' needs to believe.",
+      "spoiler_significance_0_10": 5.0,
+      "creates_questions": [
+        "Who is the him that Catherine intends to deceive?",
+        "Will the magistrate act on the witchcraft accusation?"
+      ]
+    },
+    {
+      "id": "r03",
+      "event_refs": [
+        "EP29:E36",
+        "EP29:E64",
+        "EP29:E67"
+      ],
+      "claim": "Juliana asserts that she saved and healed the Duchess, which she presents as the reason for Catherine's hostility.",
+      "spoiler_significance_0_10": 4.0,
+      "creates_questions": [
+        "Did Juliana actually heal the Duchess, and what was the Duchess's condition?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "Who is the him that Catherine says she needs to believe the witchcraft accusation?",
+      "introduced_by": [
+        "EP29:E26"
+      ]
+    },
+    {
+      "question": "Why was Juliana cast out in the past, and what were the circumstances?",
+      "introduced_by": [
+        "EP29:E40",
+        "EP29:E42"
+      ]
+    },
+    {
+      "question": "Who is Alexander and what is his relationship to Juliana?",
+      "introduced_by": [
+        "EP29:E71"
+      ]
+    },
+    {
+      "question": "Who is Juliana's husband and will he find her as she claims?",
+      "introduced_by": [
+        "EP29:E44"
+      ]
+    },
+    {
+      "question": "Who is the scarred soldier Catherine mocks, and is he the husband Juliana references?",
+      "introduced_by": [
+        "EP29:E46"
+      ]
+    },
+    {
+      "question": "What role does Ashbrook play, and will the penniless veteran challenge it?",
+      "introduced_by": [
+        "EP29:E48"
+      ]
+    },
+    {
+      "question": "Will the magistrate pursue the witchcraft charge and will the herbarium be burned?",
+      "introduced_by": [
+        "EP29:E22",
+        "EP29:E30"
+      ]
+    },
+    {
+      "question": "What happened to the Duchess, and was Juliana's healing claim true?",
+      "introduced_by": [
+        "EP29:E36",
+        "EP29:E64"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "opp_1",
+      "episode_id": "ep_010",
+      "concept": "A bloodied Alexander bursts into the cottage and forces his way into a confrontation with Juliana, who refuses to accept his claim that it is only a scratch.",
+      "hook_refs": [
+        "EP10:E3",
+        "EP10:E5"
+      ],
+      "ending_refs": [
+        "EP10:E24"
+      ],
+      "context_refs": [
+        "EP10:E13"
+      ],
+      "why_promising": "The clip opens on a sudden door-bang and a bloodied figure in the doorway, then builds a standoff over his injuries that ends on Juliana's unanswered challenge to remove his shirt, leaving the reveal unresolved."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_2",
+      "episode_id": "ep_010",
+      "concept": "Alexander removes his shirt to reveal battle scars and fresh lacerations, and Juliana's horrified reaction is followed by a dismissive claim that the wound does not hurt.",
+      "hook_refs": [
+        "EP10:E27"
+      ],
+      "ending_refs": [
+        "EP10:E42"
+      ],
+      "context_refs": [
+        "EP10:E36"
+      ],
+      "why_promising": "The shirt reveal of scars and bleeding wounds is a strong visual hook, and the clip ends on his unconvincing 'Not much', leaving his injuries and past unexplained."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_3",
+      "episode_id": "ep_010",
+      "concept": "Juliana tends Alexander's shoulder, and his intense gaze turns the moment into a charged, unspoken attraction that she questions aloud.",
+      "hook_refs": [
+        "EP10:E48",
+        "EP10:E50"
+      ],
+      "ending_refs": [
+        "EP10:E60"
+      ],
+      "context_refs": [
+        "EP10:E55"
+      ],
+      "why_promising": "The clip opens on Juliana asking why he looks at her that way and builds toward his open declaration, ending on her overwhelmed reaction with her feelings still unresolved."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_4",
+      "episode_id": "ep_010",
+      "concept": "Juliana sees blood running down Alexander's arm and calls out his lie, and the clip moves through his denials to his quiet 'It is over' over the wounds.",
+      "hook_refs": [
+        "EP10:E11"
+      ],
+      "ending_refs": [
+        "EP10:E36"
+      ],
+      "context_refs": [
+        "EP10:E13"
+      ],
+      "why_promising": "The opening line about blood running down his arm sets up a direct contradiction of his claim, and the clip ends on the ambiguous 'It is over', which leaves his past and the cause of his wounds unanswered."
+    }
+  ]
+}

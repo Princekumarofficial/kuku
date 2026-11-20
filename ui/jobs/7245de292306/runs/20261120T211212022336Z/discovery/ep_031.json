@@ -1,0 +1,70 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "ep31_opp_1",
+      "episode_id": "ep_031",
+      "concept": "Catherine's taunting of the chained Juliana escalates to a challenge that Juliana answers with her own pride and choices.",
+      "hook_refs": [
+        "EP31:E6"
+      ],
+      "ending_refs": [
+        "EP31:E36"
+      ],
+      "context_refs": [
+        "EP31:E9",
+        "EP31:E13"
+      ],
+      "why_promising": "Opens on a cruel one-line taunt and closes on Juliana's unresolved defiant declaration, with a 58400ms span inside covered source and a self-contained confrontation."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep31_opp_2",
+      "episode_id": "ep_031",
+      "concept": "Juliana declares that she became a disgrace only by refusing cruelty, and the exchange over love and cruelty builds to her sharp rebuke.",
+      "hook_refs": [
+        "EP31:E23"
+      ],
+      "ending_refs": [
+        "EP31:E56"
+      ],
+      "context_refs": [
+        "EP31:E25"
+      ],
+      "why_promising": "Opens on a strong, self-contained moral line and ends on a razor-sharp unresolved retort; the 59000ms span fits within covered source."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep31_opp_3",
+      "episode_id": "ep_031",
+      "concept": "Catherine's mocking taunt about Juliana's situation escalates to Juliana's sardonic reply that Catherine is pleased.",
+      "hook_refs": [
+        "EP31:E13"
+      ],
+      "ending_refs": [
+        "EP31:E40"
+      ],
+      "context_refs": [
+        "EP31:E15"
+      ],
+      "why_promising": "Opens on a defiant line that works without prior context and ends on the unresolved 'I chose a man' declaration, spanning 52000ms of covered source."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep31_opp_4",
+      "episode_id": "ep_031",
+      "concept": "Catherine's reach for the mother's book and her 'Do you remember?' taunt escalate to Juliana's cutting rebuke, leaving her pleading for the book.",
+      "hook_refs": [
+        "EP31:E66"
+      ],
+      "ending_refs": [
+        "EP31:E78"
+      ],
+      "context_refs": [
+        "EP31:E67",
+        "EP31:E69"
+      ],
+      "why_promising": "Opens on a provocative challenge and ends on Juliana's unresolved plea to return the book, spanning 22000ms inside covered source."
+    }
+  ]
+}

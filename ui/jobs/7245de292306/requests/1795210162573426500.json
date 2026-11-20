@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_c60fba4554a7e90f DURATION_MS=52200\nSEGMENT 1 (playback order)\nEP31:E12 0-3200 CAMERA: Close-up of Juliana, her eyes glistening with unshed tears, speaking with quiet defiance.\nEP31:E13 200-2900 JULIANA: \"You seem very pleased.\"\nEP31:E14 3200-6900 CAMERA: Low-angle shot looking up at Catherine towering over Juliana, holding the glowing poker at her side.\nEP31:E15 3400-5900 CATHERINE: \"I am.\"\nEP31:E16 6900-11400 CAMERA: Extreme close-up of the bent, white-hot tip of the poker radiating heat, with Catherine's face blurred in the background as she gazes down with predatory pleasure.\nEP31:E17 7400-11300 CATHERINE: \"Because this is what you were always meant to be.\"\nEP31:E18 11400-17200 CAMERA: Over-the-shoulder medium shot focusing on Juliana as Catherine presents the charred, singed pages of the botanical book.\nEP31:E19 11700-17200 CATHERINE: \"Your family dressed you like a lady. They educated you. They gave you a respectable name.\"\nEP31:E20 17200-21400 CAMERA: Close-up of Catherine's face breaking into an arrogant, haughty laugh.\nEP31:E21 17400-21300 CATHERINE: \"[chuckles] And still you became a disgrace.\"\nEP31:E22 21400-25400 CAMERA: Tight close-up of Juliana's fierce, unwavering gaze as she retorts without hesitation.\nEP31:E23 21600-25400 JULIANA: \"I became a disgrace when I refused to become cruel.\"\nEP31:E24 25400-30900 CAMERA: Close-up of Catherine scowling, cutting back to a shot of Juliana's bare, chained feet locked in iron manacles against the cold stone floor.\nEP31:E25 25600-30900 CATHERINE: \"No. You became a disgrace when Gerald left you standing at the altar.\"\nEP31:E26 30900-37200 CAMERA: Medium shot from floor level looking up at Catherine leaning closer, savoring Juliana's humiliation.\nEP31:E27 31300-33200 CATHERINE: \"Do you remember?\"\nEP31:E28 31400-34400 ACTION: Juliana stares up, her breathing steadying as she refuses to break under Catherine's barbs.\nEP31:E29 33400-37200 CATHERINE: \"Everyone saw you. Everyone watched him chose Clarisse.\"\nEP31:E30 37200-41400 CAMERA: Close-up of the red-hot iron hovering over the damp stone floor, rising steam and heat waves warping the air, before cutting to Catherine's gloating expression.\nEP31:E31 37600-39900 SOUND: Faint sizzling and hissing as ambient moisture touches the scalding iron tip.\nEP31:E32 37900-41200 CATHERINE: \"And everyone watched you walk away alone.\"\nEP31:E33 41400-47900 CAMERA: Close-up pushing in on Juliana's illuminated, dignified face.\nEP31:E34 41600-43700 JULIANA: \"Gerald chose money.\"\nEP31:E35 43900-45900 JULIANA: \"Clarissa chose a coward.\"\nEP31:E36 46200-47700 JULIANA: \"I chose myself.\"\nEP31:E37 47900-49900 CAMERA: Close-up of Catherine's face tightening in disgust.\nEP31:E38 48000-49800 CATHERINE: \"You chose a beggar.\"\nEP31:E39 49900-52200 CAMERA: Low-angle shot of Juliana lifting her chin with unwavering pride.\nEP31:E40 50000-52200 JULIANA: \"I chose a man.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

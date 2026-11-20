@@ -1,0 +1,54 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "opp_1",
+      "episode_id": "ep_050",
+      "concept": "Catherine demands a price for silence, and Father Thomas answers with control of west territory tax collection, setting up a bargain the hearing may end.",
+      "hook_refs": [
+        "EP50:E11"
+      ],
+      "ending_refs": [
+        "EP50:E23"
+      ],
+      "context_refs": [
+        "EP50:E13",
+        "EP50:E17"
+      ],
+      "why_promising": "The opening line Name your price is a direct, self-contained hook. The clip runs 31.2 seconds from E11 start (16800ms) to E23 end (48000ms), and the unresolved hearing in E23 leaves a clear open question."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_2",
+      "episode_id": "ep_050",
+      "concept": "A bedroom confession turns into a negotiated pact, ending on the hearing deadline that frames the arrangement as temporary.",
+      "hook_refs": [
+        "EP50:E9"
+      ],
+      "ending_refs": [
+        "EP50:E23"
+      ],
+      "context_refs": [
+        "EP50:E11"
+      ],
+      "why_promising": "Then let's stop pretending this was only appetite is a sharp, direct opening line. The clip runs 36 seconds from E9 start (12000ms) to E23 end (48000ms), moving from intimacy to a transactional deal and ending on an unresolved hearing."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_3",
+      "episode_id": "ep_050",
+      "concept": "A bargain struck in bed shifts into intimacy, then Agnes stumbles on the pair and the clip ends on her horrified discovery of a lethal secret.",
+      "hook_refs": [
+        "EP50:E19"
+      ],
+      "ending_refs": [
+        "EP50:E40"
+      ],
+      "context_refs": [
+        "EP50:E21",
+        "EP50:E36"
+      ],
+      "why_promising": "The hook Unsupervised. In your hands alone. is a striking line that starts the clip at 36500ms. The clip runs 43.5 seconds to E40 end (80000ms), and Agnes's witnessing in E36 provides a strong, unresolved cliffhanger."
+    }
+  ]
+}

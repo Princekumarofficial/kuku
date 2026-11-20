@@ -1,0 +1,926 @@
+[
+  {
+    "candidate_id": "c_190210ee326ae192",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 7400,
+        "end_ms": 63200,
+        "episode_id": "ep_015"
+      }
+    ],
+    "duration_ms": 55800,
+    "origin": "opp_01",
+    "clip_events": [
+      {
+        "ref": "EP15:E6",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of a bald thug leaning over a lush bed of white medicinal chamomile herbs."
+      },
+      {
+        "ref": "EP15:E8",
+        "segment_index": 0,
+        "relative_start_ms": 100,
+        "relative_end_ms": 4400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot framing the open doorway of the stone cottage, bathed in warm interior light against the dark night."
+      },
+      {
+        "ref": "EP15:E9",
+        "segment_index": 0,
+        "relative_start_ms": 200,
+        "relative_end_ms": 4400,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana bursts through the cottage doorway, her hands wrapped in clean white bandages, freezing in horror at the destruction."
+      },
+      {
+        "ref": "EP15:E10",
+        "segment_index": 0,
+        "relative_start_ms": 1100,
+        "relative_end_ms": 4300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Stop! What are you doing?!\""
+      },
+      {
+        "ref": "EP15:E11",
+        "segment_index": 0,
+        "relative_start_ms": 4400,
+        "relative_end_ms": 8400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the Thug with Cap holding the uprooted chamomile bouquet, sneering with cruel amusement."
+      },
+      {
+        "ref": "EP15:E12",
+        "segment_index": 0,
+        "relative_start_ms": 5600,
+        "relative_end_ms": 8300,
+        "type": "dialogue",
+        "speaker": "THUG WITH CAP",
+        "text": "\"We're clearing this rubbish.\""
+      },
+      {
+        "ref": "EP15:E13",
+        "segment_index": 0,
+        "relative_start_ms": 8400,
+        "relative_end_ms": 11400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana, her face tight with anguish and fury as she clutches her bandaged hands against her chest."
+      },
+      {
+        "ref": "EP15:E14",
+        "segment_index": 0,
+        "relative_start_ms": 9000,
+        "relative_end_ms": 11300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Those are medicinal plants!\""
+      },
+      {
+        "ref": "EP15:E15",
+        "segment_index": 0,
+        "relative_start_ms": 11400,
+        "relative_end_ms": 15100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle shot tracking down from the bald thug's grinning face to his worn leather boots on the muddy flagstones."
+      },
+      {
+        "ref": "EP15:E16",
+        "segment_index": 0,
+        "relative_start_ms": 12600,
+        "relative_end_ms": 14900,
+        "type": "dialogue",
+        "speaker": "BALD THUG",
+        "text": "\"They look like weeds to me.\""
+      },
+      {
+        "ref": "EP15:E17",
+        "segment_index": 0,
+        "relative_start_ms": 13100,
+        "relative_end_ms": 15100,
+        "type": "action",
+        "speaker": null,
+        "text": "The bald thug flings the bouquet into the mud and grinds his heavy boot directly onto the delicate flowers."
+      },
+      {
+        "ref": "EP15:E18",
+        "segment_index": 0,
+        "relative_start_ms": 15100,
+        "relative_end_ms": 19400,
+        "type": "camera",
+        "speaker": null,
+        "text": "High-angle two-shot as Juliana rushes forward and drops directly onto her knees in the cold mud before the thug."
+      },
+      {
+        "ref": "EP15:E19",
+        "segment_index": 0,
+        "relative_start_ms": 15400,
+        "relative_end_ms": 19100,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana frantically tries to scoop the crushed soil and torn stems back into the bed with her bandaged hands."
+      },
+      {
+        "ref": "EP15:E20",
+        "segment_index": 0,
+        "relative_start_ms": 15800,
+        "relative_end_ms": 18900,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Please! Those plants took months to grow!\""
+      },
+      {
+        "ref": "EP15:E21",
+        "segment_index": 0,
+        "relative_start_ms": 19400,
+        "relative_end_ms": 24100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot of the Tall Thug with the club and the Thug with Cap bursting into raucous laughter under the full moon."
+      },
+      {
+        "ref": "EP15:E22",
+        "segment_index": 0,
+        "relative_start_ms": 20100,
+        "relative_end_ms": 23800,
+        "type": "dialogue",
+        "speaker": "TALL THUG",
+        "text": "\"Months? You actually spend your days growing this filth?\""
+      },
+      {
+        "ref": "EP15:E23",
+        "segment_index": 0,
+        "relative_start_ms": 24100,
+        "relative_end_ms": 26600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of Juliana's bandaged hands trembling as she tenderly gathers the soiled white flowers from the puddles."
+      },
+      {
+        "ref": "EP15:E24",
+        "segment_index": 0,
+        "relative_start_ms": 26600,
+        "relative_end_ms": 29600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle medium shot tilting up as Juliana rises from the ground, standing tall despite her trembling frame."
+      },
+      {
+        "ref": "EP15:E25",
+        "segment_index": 0,
+        "relative_start_ms": 27400,
+        "relative_end_ms": 29400,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Leave my garden alone.\""
+      },
+      {
+        "ref": "EP15:E26",
+        "segment_index": 0,
+        "relative_start_ms": 29600,
+        "relative_end_ms": 33100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the Thug with Cap scoffing derisively."
+      },
+      {
+        "ref": "EP15:E27",
+        "segment_index": 0,
+        "relative_start_ms": 29800,
+        "relative_end_ms": 33000,
+        "type": "dialogue",
+        "speaker": "THUG WITH CAP",
+        "text": "\"A noble lady playing in the dirt. What a joke.\""
+      },
+      {
+        "ref": "EP15:E28",
+        "segment_index": 0,
+        "relative_start_ms": 33100,
+        "relative_end_ms": 36800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana, her eyes blazing with indignation and wounded pride."
+      },
+      {
+        "ref": "EP15:E29",
+        "segment_index": 0,
+        "relative_start_ms": 33600,
+        "relative_end_ms": 36600,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"It is my home. You have no right to destroy anything here.\""
+      },
+      {
+        "ref": "EP15:E30",
+        "segment_index": 0,
+        "relative_start_ms": 36800,
+        "relative_end_ms": 39100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of the Thug with Cap stepping aggressively into Juliana's personal space, snarling with venom."
+      },
+      {
+        "ref": "EP15:E31",
+        "segment_index": 0,
+        "relative_start_ms": 37400,
+        "relative_end_ms": 39000,
+        "type": "dialogue",
+        "speaker": "THUG WITH CAP",
+        "text": "\"Get out of the way!\""
+      },
+      {
+        "ref": "EP15:E33",
+        "segment_index": 0,
+        "relative_start_ms": 39100,
+        "relative_end_ms": 39900,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"No.\""
+      },
+      {
+        "ref": "EP15:E32",
+        "segment_index": 0,
+        "relative_start_ms": 39100,
+        "relative_end_ms": 40600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up on Juliana's piercing blue eyes and set jaw, unflinching."
+      },
+      {
+        "ref": "EP15:E34",
+        "segment_index": 0,
+        "relative_start_ms": 40000,
+        "relative_end_ms": 42100,
+        "type": "action",
+        "speaker": null,
+        "text": "The Thug with Cap violently shoves Juliana back with both hands; she cries out as she loses her balance and crashes hard onto the wet stone path."
+      },
+      {
+        "ref": "EP15:E35",
+        "segment_index": 0,
+        "relative_start_ms": 40400,
+        "relative_end_ms": 41600,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Ah!\""
+      },
+      {
+        "ref": "EP15:E36",
+        "segment_index": 0,
+        "relative_start_ms": 42100,
+        "relative_end_ms": 46100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up tracking down to Juliana's hand hitting the mud next to the crushed chamomile flowers."
+      },
+      {
+        "ref": "EP15:E37",
+        "segment_index": 0,
+        "relative_start_ms": 42600,
+        "relative_end_ms": 46100,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana crawls forward on her elbows; fresh crimson blood seeps profusely through her white gauze bandages as she reaches for the ruined blossoms."
+      },
+      {
+        "ref": "EP15:E39",
+        "segment_index": 0,
+        "relative_start_ms": 46100,
+        "relative_end_ms": 48300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"My mother's plants...\""
+      },
+      {
+        "ref": "EP15:E38",
+        "segment_index": 0,
+        "relative_start_ms": 46100,
+        "relative_end_ms": 49100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up on Juliana's mud-streaked, tear-stained face trembling in heartbreaking agony."
+      },
+      {
+        "ref": "EP15:E40",
+        "segment_index": 0,
+        "relative_start_ms": 49100,
+        "relative_end_ms": 52600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle wide shot of the three thugs pointing and laughing hysterically at her kneeling form."
+      },
+      {
+        "ref": "EP15:E41",
+        "segment_index": 0,
+        "relative_start_ms": 49900,
+        "relative_end_ms": 52400,
+        "type": "dialogue",
+        "speaker": "BALD THUG",
+        "text": "\"Look at her! Crying over weeds!\""
+      },
+      {
+        "ref": "EP15:E43",
+        "segment_index": 0,
+        "relative_start_ms": 52600,
+        "relative_end_ms": 53600,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Stop!\""
+      },
+      {
+        "ref": "EP15:E42",
+        "segment_index": 0,
+        "relative_start_ms": 52600,
+        "relative_end_ms": 54600,
+        "type": "action",
+        "speaker": null,
+        "text": "The Tall Thug hoists his heavy wooden club above his head to crush the remaining herbs right before Juliana."
+      },
+      {
+        "ref": "EP15:E44",
+        "segment_index": 0,
+        "relative_start_ms": 54600,
+        "relative_end_ms": 55800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the Thug with Cap suddenly stiffening, his smug smile dropping as footsteps pound in the darkness."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_41f4a37199a36fda",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 40400,
+        "end_ms": 86000,
+        "episode_id": "ep_015"
+      }
+    ],
+    "duration_ms": 45600,
+    "origin": "opp_02",
+    "clip_events": [
+      {
+        "ref": "EP15:E26",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the Thug with Cap scoffing derisively."
+      },
+      {
+        "ref": "EP15:E28",
+        "segment_index": 0,
+        "relative_start_ms": 100,
+        "relative_end_ms": 3800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana, her eyes blazing with indignation and wounded pride."
+      },
+      {
+        "ref": "EP15:E29",
+        "segment_index": 0,
+        "relative_start_ms": 600,
+        "relative_end_ms": 3600,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"It is my home. You have no right to destroy anything here.\""
+      },
+      {
+        "ref": "EP15:E30",
+        "segment_index": 0,
+        "relative_start_ms": 3800,
+        "relative_end_ms": 6100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of the Thug with Cap stepping aggressively into Juliana's personal space, snarling with venom."
+      },
+      {
+        "ref": "EP15:E31",
+        "segment_index": 0,
+        "relative_start_ms": 4400,
+        "relative_end_ms": 6000,
+        "type": "dialogue",
+        "speaker": "THUG WITH CAP",
+        "text": "\"Get out of the way!\""
+      },
+      {
+        "ref": "EP15:E33",
+        "segment_index": 0,
+        "relative_start_ms": 6100,
+        "relative_end_ms": 6900,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"No.\""
+      },
+      {
+        "ref": "EP15:E32",
+        "segment_index": 0,
+        "relative_start_ms": 6100,
+        "relative_end_ms": 7600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up on Juliana's piercing blue eyes and set jaw, unflinching."
+      },
+      {
+        "ref": "EP15:E34",
+        "segment_index": 0,
+        "relative_start_ms": 7000,
+        "relative_end_ms": 9100,
+        "type": "action",
+        "speaker": null,
+        "text": "The Thug with Cap violently shoves Juliana back with both hands; she cries out as she loses her balance and crashes hard onto the wet stone path."
+      },
+      {
+        "ref": "EP15:E35",
+        "segment_index": 0,
+        "relative_start_ms": 7400,
+        "relative_end_ms": 8600,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Ah!\""
+      },
+      {
+        "ref": "EP15:E36",
+        "segment_index": 0,
+        "relative_start_ms": 9100,
+        "relative_end_ms": 13100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up tracking down to Juliana's hand hitting the mud next to the crushed chamomile flowers."
+      },
+      {
+        "ref": "EP15:E37",
+        "segment_index": 0,
+        "relative_start_ms": 9600,
+        "relative_end_ms": 13100,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana crawls forward on her elbows; fresh crimson blood seeps profusely through her white gauze bandages as she reaches for the ruined blossoms."
+      },
+      {
+        "ref": "EP15:E39",
+        "segment_index": 0,
+        "relative_start_ms": 13100,
+        "relative_end_ms": 15300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"My mother's plants...\""
+      },
+      {
+        "ref": "EP15:E38",
+        "segment_index": 0,
+        "relative_start_ms": 13100,
+        "relative_end_ms": 16100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up on Juliana's mud-streaked, tear-stained face trembling in heartbreaking agony."
+      },
+      {
+        "ref": "EP15:E40",
+        "segment_index": 0,
+        "relative_start_ms": 16100,
+        "relative_end_ms": 19600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle wide shot of the three thugs pointing and laughing hysterically at her kneeling form."
+      },
+      {
+        "ref": "EP15:E41",
+        "segment_index": 0,
+        "relative_start_ms": 16900,
+        "relative_end_ms": 19400,
+        "type": "dialogue",
+        "speaker": "BALD THUG",
+        "text": "\"Look at her! Crying over weeds!\""
+      },
+      {
+        "ref": "EP15:E43",
+        "segment_index": 0,
+        "relative_start_ms": 19600,
+        "relative_end_ms": 20600,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Stop!\""
+      },
+      {
+        "ref": "EP15:E42",
+        "segment_index": 0,
+        "relative_start_ms": 19600,
+        "relative_end_ms": 21600,
+        "type": "action",
+        "speaker": null,
+        "text": "The Tall Thug hoists his heavy wooden club above his head to crush the remaining herbs right before Juliana."
+      },
+      {
+        "ref": "EP15:E44",
+        "segment_index": 0,
+        "relative_start_ms": 21600,
+        "relative_end_ms": 22800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the Thug with Cap suddenly stiffening, his smug smile dropping as footsteps pound in the darkness."
+      },
+      {
+        "ref": "EP15:E45",
+        "segment_index": 0,
+        "relative_start_ms": 22800,
+        "relative_end_ms": 27100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium tracking shot as Alexander charges past the corner of the cottage into the misty moonlight, his dark coat billowing behind him."
+      },
+      {
+        "ref": "EP15:E46",
+        "segment_index": 0,
+        "relative_start_ms": 23100,
+        "relative_end_ms": 27100,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander storms forward with lethal intensity, dark hair flying, breath misting in the cold, radiating untamed rage."
+      },
+      {
+        "ref": "EP15:E47",
+        "segment_index": 0,
+        "relative_start_ms": 27100,
+        "relative_end_ms": 33100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana looking up through wet lashes, trembling as shock transforms into overwhelming relief."
+      },
+      {
+        "ref": "EP15:E48",
+        "segment_index": 0,
+        "relative_start_ms": 30100,
+        "relative_end_ms": 32200,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Alexander...\""
+      },
+      {
+        "ref": "EP15:E49",
+        "segment_index": 0,
+        "relative_start_ms": 33100,
+        "relative_end_ms": 35100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot of the three thugs wheeling around to face the dark figure approaching from the mist."
+      },
+      {
+        "ref": "EP15:E50",
+        "segment_index": 0,
+        "relative_start_ms": 35100,
+        "relative_end_ms": 38100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle tracking shot from behind Alexander's broad shoulders as he steadily steps past the fallen Juliana, towering over the intruders."
+      },
+      {
+        "ref": "EP15:E51",
+        "segment_index": 0,
+        "relative_start_ms": 35600,
+        "relative_end_ms": 38100,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander places himself directly between Juliana and the three thugs, staring them down with cold, deadly intent."
+      },
+      {
+        "ref": "EP15:E52",
+        "segment_index": 0,
+        "relative_start_ms": 38100,
+        "relative_end_ms": 42400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the three thugs regrouping, the Thug with Cap feigning swagger as he grips his club."
+      },
+      {
+        "ref": "EP15:E53",
+        "segment_index": 0,
+        "relative_start_ms": 38600,
+        "relative_end_ms": 42000,
+        "type": "dialogue",
+        "speaker": "THUG WITH CAP",
+        "text": "\"What? You want to fight us, veteran?\""
+      },
+      {
+        "ref": "EP15:E54",
+        "segment_index": 0,
+        "relative_start_ms": 42400,
+        "relative_end_ms": 45600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana looking up with wide, anxious eyes, breath hitching in suspense as violence hangs on a knife's edge."
+      },
+      {
+        "ref": "EP15:E55",
+        "segment_index": 0,
+        "relative_start_ms": 43600,
+        "relative_end_ms": 45600,
+        "type": "sound",
+        "speaker": null,
+        "text": "Tense, low dramatic cello swell holding into an abrupt cliffhanger cut."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_27d98af6ac7900fb",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 57300,
+        "end_ms": 86000,
+        "episode_id": "ep_015"
+      }
+    ],
+    "duration_ms": 28700,
+    "origin": "opp_03",
+    "clip_events": [
+      {
+        "ref": "EP15:E40",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle wide shot of the three thugs pointing and laughing hysterically at her kneeling form."
+      },
+      {
+        "ref": "EP15:E41",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2500,
+        "type": "dialogue",
+        "speaker": "BALD THUG",
+        "text": "\"Look at her! Crying over weeds!\""
+      },
+      {
+        "ref": "EP15:E43",
+        "segment_index": 0,
+        "relative_start_ms": 2700,
+        "relative_end_ms": 3700,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Stop!\""
+      },
+      {
+        "ref": "EP15:E42",
+        "segment_index": 0,
+        "relative_start_ms": 2700,
+        "relative_end_ms": 4700,
+        "type": "action",
+        "speaker": null,
+        "text": "The Tall Thug hoists his heavy wooden club above his head to crush the remaining herbs right before Juliana."
+      },
+      {
+        "ref": "EP15:E44",
+        "segment_index": 0,
+        "relative_start_ms": 4700,
+        "relative_end_ms": 5900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the Thug with Cap suddenly stiffening, his smug smile dropping as footsteps pound in the darkness."
+      },
+      {
+        "ref": "EP15:E45",
+        "segment_index": 0,
+        "relative_start_ms": 5900,
+        "relative_end_ms": 10200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium tracking shot as Alexander charges past the corner of the cottage into the misty moonlight, his dark coat billowing behind him."
+      },
+      {
+        "ref": "EP15:E46",
+        "segment_index": 0,
+        "relative_start_ms": 6200,
+        "relative_end_ms": 10200,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander storms forward with lethal intensity, dark hair flying, breath misting in the cold, radiating untamed rage."
+      },
+      {
+        "ref": "EP15:E47",
+        "segment_index": 0,
+        "relative_start_ms": 10200,
+        "relative_end_ms": 16200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana looking up through wet lashes, trembling as shock transforms into overwhelming relief."
+      },
+      {
+        "ref": "EP15:E48",
+        "segment_index": 0,
+        "relative_start_ms": 13200,
+        "relative_end_ms": 15300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Alexander...\""
+      },
+      {
+        "ref": "EP15:E49",
+        "segment_index": 0,
+        "relative_start_ms": 16200,
+        "relative_end_ms": 18200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot of the three thugs wheeling around to face the dark figure approaching from the mist."
+      },
+      {
+        "ref": "EP15:E50",
+        "segment_index": 0,
+        "relative_start_ms": 18200,
+        "relative_end_ms": 21200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle tracking shot from behind Alexander's broad shoulders as he steadily steps past the fallen Juliana, towering over the intruders."
+      },
+      {
+        "ref": "EP15:E51",
+        "segment_index": 0,
+        "relative_start_ms": 18700,
+        "relative_end_ms": 21200,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander places himself directly between Juliana and the three thugs, staring them down with cold, deadly intent."
+      },
+      {
+        "ref": "EP15:E52",
+        "segment_index": 0,
+        "relative_start_ms": 21200,
+        "relative_end_ms": 25500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the three thugs regrouping, the Thug with Cap feigning swagger as he grips his club."
+      },
+      {
+        "ref": "EP15:E53",
+        "segment_index": 0,
+        "relative_start_ms": 21700,
+        "relative_end_ms": 25100,
+        "type": "dialogue",
+        "speaker": "THUG WITH CAP",
+        "text": "\"What? You want to fight us, veteran?\""
+      },
+      {
+        "ref": "EP15:E54",
+        "segment_index": 0,
+        "relative_start_ms": 25500,
+        "relative_end_ms": 28700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana looking up with wide, anxious eyes, breath hitching in suspense as violence hangs on a knife's edge."
+      },
+      {
+        "ref": "EP15:E55",
+        "segment_index": 0,
+        "relative_start_ms": 26700,
+        "relative_end_ms": 28700,
+        "type": "sound",
+        "speaker": null,
+        "text": "Tense, low dramatic cello swell holding into an abrupt cliffhanger cut."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_6afd9957ed4432f5",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 61000,
+        "end_ms": 86000,
+        "episode_id": "ep_015"
+      }
+    ],
+    "duration_ms": 25000,
+    "origin": "opp_04",
+    "clip_events": [
+      {
+        "ref": "EP15:E42",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1000,
+        "type": "action",
+        "speaker": null,
+        "text": "The Tall Thug hoists his heavy wooden club above his head to crush the remaining herbs right before Juliana."
+      },
+      {
+        "ref": "EP15:E44",
+        "segment_index": 0,
+        "relative_start_ms": 1000,
+        "relative_end_ms": 2200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the Thug with Cap suddenly stiffening, his smug smile dropping as footsteps pound in the darkness."
+      },
+      {
+        "ref": "EP15:E45",
+        "segment_index": 0,
+        "relative_start_ms": 2200,
+        "relative_end_ms": 6500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium tracking shot as Alexander charges past the corner of the cottage into the misty moonlight, his dark coat billowing behind him."
+      },
+      {
+        "ref": "EP15:E46",
+        "segment_index": 0,
+        "relative_start_ms": 2500,
+        "relative_end_ms": 6500,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander storms forward with lethal intensity, dark hair flying, breath misting in the cold, radiating untamed rage."
+      },
+      {
+        "ref": "EP15:E47",
+        "segment_index": 0,
+        "relative_start_ms": 6500,
+        "relative_end_ms": 12500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana looking up through wet lashes, trembling as shock transforms into overwhelming relief."
+      },
+      {
+        "ref": "EP15:E48",
+        "segment_index": 0,
+        "relative_start_ms": 9500,
+        "relative_end_ms": 11600,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Alexander...\""
+      },
+      {
+        "ref": "EP15:E49",
+        "segment_index": 0,
+        "relative_start_ms": 12500,
+        "relative_end_ms": 14500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot of the three thugs wheeling around to face the dark figure approaching from the mist."
+      },
+      {
+        "ref": "EP15:E50",
+        "segment_index": 0,
+        "relative_start_ms": 14500,
+        "relative_end_ms": 17500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle tracking shot from behind Alexander's broad shoulders as he steadily steps past the fallen Juliana, towering over the intruders."
+      },
+      {
+        "ref": "EP15:E51",
+        "segment_index": 0,
+        "relative_start_ms": 15000,
+        "relative_end_ms": 17500,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander places himself directly between Juliana and the three thugs, staring them down with cold, deadly intent."
+      },
+      {
+        "ref": "EP15:E52",
+        "segment_index": 0,
+        "relative_start_ms": 17500,
+        "relative_end_ms": 21800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the three thugs regrouping, the Thug with Cap feigning swagger as he grips his club."
+      },
+      {
+        "ref": "EP15:E53",
+        "segment_index": 0,
+        "relative_start_ms": 18000,
+        "relative_end_ms": 21400,
+        "type": "dialogue",
+        "speaker": "THUG WITH CAP",
+        "text": "\"What? You want to fight us, veteran?\""
+      },
+      {
+        "ref": "EP15:E54",
+        "segment_index": 0,
+        "relative_start_ms": 21800,
+        "relative_end_ms": 25000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana looking up with wide, anxious eyes, breath hitching in suspense as violence hangs on a knife's edge."
+      },
+      {
+        "ref": "EP15:E55",
+        "segment_index": 0,
+        "relative_start_ms": 23000,
+        "relative_end_ms": 25000,
+        "type": "sound",
+        "speaker": null,
+        "text": "Tense, low dramatic cello swell holding into an abrupt cliffhanger cut."
+      }
+    ]
+  }
+]

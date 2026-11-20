@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0",
+  "series_id": "series_001",
+  "scope": {
+    "type": "episode",
+    "episode_id": "ep_029"
+  },
+  "promos": [
+    {
+      "candidate_id": "c_2008e1edd290c0e6",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 20100,
+          "end_ms": 44200,
+          "episode_id": "ep_029"
+        }
+      ],
+      "duration_ms": 24100,
+      "hook": {
+        "description": "The clip opens on a worn botanical book held up by Catherine, and her dismissive line about a 'little book of weeds' within the first second sets up a clear contrast. The open accusation and Juliana's defiance follow quickly.",
+        "evidence_refs": [
+          "EP29:E12",
+          "EP29:E13",
+          "EP29:E14"
+        ]
+      },
+      "cliffhanger": {
+        "description": "In the final seconds Juliana insists Catherine is lying and Catherine answers that she knows what she needs 'him' to believe. The threatened witchcraft accusation and the outcome for Juliana are not resolved within the clip, so the ending leaves a pending threat.",
+        "evidence_refs": [
+          "EP29:E24",
+          "EP29:E25",
+          "EP29:E26"
+        ]
+      },
+      "why_it_works": "A sharp contrast between a condescending antagonist and a defiant captive, ending on a menacing line that promises a looming threat against Juliana.",
+      "scores": {
+        "hook": 7.0,
+        "cliffhanger": 7.0,
+        "standalone": 5.0,
+        "emotion": 7.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 6.5
+      },
+      "warnings": [
+        "Narrative stakes and characters are not introduced, so the conflict depends on unexplained context",
+        "The witchcraft accusation is stated but its consequences are not shown",
+        "Catherine's motive is implied but not clarified within the clip",
+        "Spoilers not checked",
+        "Identity and relationship of Catherine, Juliana, and the magistrate ('him') are not established",
+        "Whose 'mother' owned the herbarium and why it matters is not explained",
+        "Why Juliana is held by guards and what charge or prior event led to this confrontation is not shown",
+        "The witchcraft accusation's stakes and legal consequences are not explained",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 1,
+      "promo_id": "p_001"
+    }
+  ],
+  "construction": {
+    "opportunities": 4,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "REQUIRED_CONTEXT_OUTSIDE_CLIP": 4,
+      "DURATION_OUT_OF_RANGE": 1139,
+      "PARTIAL_DIALOGUE": 71
+    }
+  },
+  "rejected_candidates": [
+    {
+      "candidate_id": "c_2185fde0c7ba67bb",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_6ab2f746a4640b80",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_b78fac295bbbb1a0",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    }
+  ]
+}

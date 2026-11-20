@@ -1,0 +1,60 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "opp_01",
+      "episode_id": "ep_018",
+      "concept": "Cold open: flames under the bedroom door wake Juliana, and the clip ends on her refusal to accept the blocked exit.",
+      "hook_refs": [
+        "EP18:E1",
+        "EP18:E2"
+      ],
+      "ending_refs": [
+        "EP18:E25"
+      ],
+      "context_refs": [
+        "EP18:E3",
+        "EP18:E5",
+        "EP18:E9"
+      ],
+      "why_promising": "The clip opens on a visual threat within the first seconds and runs 41.8 seconds to an unresolved obstacle: the exit is sealed and Juliana cries 'We cannot get through!' before Alexander answers."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_02",
+      "episode_id": "ep_018",
+      "concept": "Rescue: Alexander kicks open the burning door and reaches Juliana, ending on the sealed exit.",
+      "hook_refs": [
+        "EP18:E12",
+        "EP18:E13"
+      ],
+      "ending_refs": [
+        "EP18:E25"
+      ],
+      "context_refs": [
+        "EP18:E14",
+        "EP18:E16",
+        "EP18:E18"
+      ],
+      "why_promising": "The hook is an immediate door-breaking crash and an entrance framed in fire. The clip spans about 21.7 seconds, stays within one coverage interval, and ends on Juliana's panicked line about the blocked exit."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_03",
+      "episode_id": "ep_018",
+      "concept": "Aftermath: the burning cottage is shown as Juliana grieves, and the clip ends on her doubt that anyone is safe.",
+      "hook_refs": [
+        "EP18:E66"
+      ],
+      "ending_refs": [
+        "EP18:E74"
+      ],
+      "context_refs": [
+        "EP18:E67",
+        "EP18:E68",
+        "EP18:E69"
+      ],
+      "why_promising": "The hook is a wide shot of the cottage consumed by flames. The clip runs 26.3 seconds to Alexander's line 'Someone wanted us out.' That line raises an unresolved question about who set the fire, and it stays within one coverage interval."
+    }
+  ]
+}

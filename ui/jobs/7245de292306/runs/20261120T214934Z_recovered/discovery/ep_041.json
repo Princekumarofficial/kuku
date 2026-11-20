@@ -1,0 +1,57 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "opp_1",
+      "episode_id": "ep_041",
+      "concept": "Catherine halts her own wedding vows to publicly humiliate the chained Juliana, who is marched into the cathedral and answers Catherine with open defiance.",
+      "hook_refs": [
+        "EP41:E2",
+        "EP41:E3"
+      ],
+      "ending_refs": [
+        "EP41:E34"
+      ],
+      "context_refs": [
+        "EP41:E13",
+        "EP41:E26",
+        "EP41:E30"
+      ],
+      "why_promising": "Clear, self-contained confrontation with a strong opening command and a defiant closing line from Juliana. The clip spans 1800-60500 ms (58700 ms), within the 20-60 second range, and the hook starts at the clip's first frame. The episode's explosion and armed group are excluded, so the clip stays unresolved."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_2",
+      "episode_id": "ep_041",
+      "concept": "Juliana is paraded before high society and publicly named, and the cathedral entrance then explodes, bringing armed figures through the smoke.",
+      "hook_refs": [
+        "EP41:E26"
+      ],
+      "ending_refs": [
+        "EP41:E53"
+      ],
+      "context_refs": [
+        "EP41:E47",
+        "EP41:E52"
+      ],
+      "why_promising": "Pairs a public-shaming hook with the episode's strongest cliffhanger, the breach and Juliana's shift to hope. The clip spans 41000-96090 ms (55090 ms), within range, and the hook opens the clip. The explosion's cause and the identity of the armed figures stay unresolved."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_3",
+      "episode_id": "ep_041",
+      "concept": "Catherine and Rupert openly plot over the Ashburgh title just before the cathedral is blown open and their ceremony is interrupted.",
+      "hook_refs": [
+        "EP41:E41"
+      ],
+      "ending_refs": [
+        "EP41:E53"
+      ],
+      "context_refs": [
+        "EP41:E43",
+        "EP41:E47"
+      ],
+      "why_promising": "Gives a villainous ambition hook followed by a sudden disruption, which creates tension. The clip spans 70500-96090 ms (25590 ms), within range, and the hook is the clip's opening line. The Ashburgh title is an unresolved question, and the clip ends on the unresolved cliffhanger."
+    }
+  ]
+}

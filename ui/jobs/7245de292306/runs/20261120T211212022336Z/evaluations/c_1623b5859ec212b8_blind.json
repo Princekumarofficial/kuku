@@ -1,0 +1,44 @@
+{
+  "candidate_id": "c_1623b5859ec212b8",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP11:E49",
+      "EP11:E50",
+      "EP11:E52"
+    ],
+    "reason": "The clip opens within 0-3000ms with a forceful boot entry and the Constable overturning crates, and Juliana's immediate plea that the herbs are her mother's medicines creates instant tension and a question about what is happening."
+  },
+  "cliffhanger": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP11:E67",
+      "EP11:E68",
+      "EP11:E69"
+    ],
+    "reason": "In the final 3000ms Alexander's fist tightens, Gerald baits him directly, and the confrontation is left open with no resolution shown, so the threatened violence is unresolved at the end.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Identity and role of Alexander and his relationship to Juliana and Gerald",
+      "Why the Constable is searching the cottage and what the accusation of theft refers to",
+      "Meaning of the 'accusation' and of Gerald's earlier claim about hiding places",
+      "Relationship history implied by 'You planted this accusation' and 'Happy without you'",
+      "Significance of the keepsake box and why the medicines matter beyond Juliana's plea"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Juliana's tears, her voice breaking, her rage, and the escalating tension between Gerald and Alexander create strong emotional intensity throughout the clip."
+  },
+  "weaknesses": [
+    "A first-time viewer cannot tell who Alexander is or what his stake in the confrontation is",
+    "The Constable's motive and authority are not explained",
+    "The stolen-item accusation is never clarified, so the stakes of the search are vague",
+    "Gerald's dialogue implies a prior romantic or personal history that is not established within the clip",
+    "The search ends on the confrontation without showing what was found, weakening the thread of the theft plot"
+  ],
+  "one_line_why_it_works": "A rapid escalation of a violent search and personal humiliation ends on a direct physical challenge that leaves the confrontation unresolved, which drives tension even without full context."
+}

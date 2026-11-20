@@ -1,0 +1,203 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_b4968985f372a4b6 DURATION_MS=52200\nSEGMENT 1 (playback order)\nEP16:E1 0-2100 CAMERA: Wide shot from behind Alexander's trench coat looking toward the three thugs standing across the trampled garden under the full moon.\nEP16:E2 0-2100 ACTION: Alexander stands tall and unyielding, blocking the path to Juliana, while the Thug with Cap steps forward clutching an iron pipe.\nEP16:E4 2100-4200 THUG WITH CAP: \"Move aside, soldier.\"\nEP16:E3 2100-4500 CAMERA: Medium close-up of the Thug with Cap, his eyes wide and sneering with false bravado as his bald accomplice watches from behind.\nEP16:E5 4500-6400 CAMERA: Extreme close-up of Alexander's scarred, weathered face, his cold blue-grey eyes fixed intently on his opponent.\nEP16:E7 6400-8800 THUG WITH CAP: \"I said, move!\"\nEP16:E6 6400-9500 CAMERA: Low-angle medium shot of the Thug with Cap gripping his weapon with both hands and roaring into the night air.\nEP16:E8 9500-11200 CAMERA: Medium close-up of Alexander remaining completely motionless, his jaw clenched in stoic calm.\nEP16:E10 11200-12700 JULIANA: \"Alexander...\"\nEP16:E9 11200-13100 CAMERA: Close-up of Juliana kneeling in the mud against the ruined planter, clutching her bandaged hands to her chest in trembling fear.\nEP16:E11 13100-14300 ALEXANDER: \"Stay behind me.\"\nEP16:E12 14300-16000 CAMERA: Medium action shot as the Thug with Cap lunges forward with his weapon raised high.\nEP16:E13 14400-15500 THUG WITH CAP: \"Aaargh!\"\nEP16:E14 14400-16800 ACTION: The thug swings the club down with full force, but Alexander catches the weapon mid-air in his bare hand with chilling ease.\nEP16:E15 15800-16500 SOUND: Heavy blunt impact of a solid hand gripping wood.\nEP16:E16 16800-19500 CAMERA: Close-up of the Thug with Cap staring in wide-eyed terror as Alexander grips the bar and wrenches it away effortlessly.\nEP16:E17 19200-21800 ACTION: Alexander strikes the thug across the chest and slams him violently into the muddy ground beside the stone wall.\nEP16:E18 19800-21200 SOUND: Heavy thud of a body crashing into soil and wood.\nEP16:E19 21800-23000 CAMERA: Close-up of Juliana watching in breathless astonishment.\nEP16:E21 23000-23800 BALD THUG: \"Aaargh!\"\nEP16:E20 23000-25800 CAMERA: Medium tracking shot as the Bald Thug charges in with a shout, only for Alexander to pivot and seize him by the neck, hurling him across the garden path.\nEP16:E22 24200-25500 SOUND: Loud wooden scrape and crunch as the Bald Thug slides across the planks into the fence.\nEP16:E24 25800-27100 THIRD THUG: \"Stay back!\"\nEP16:E23 25800-28500 CAMERA: Medium shot of the Third Thug backing away nervously, raising a blunt rod with trembling arms before lunging.\nEP16:E25 26500-28500 ACTION: Alexander deflects the strike with his forearm, drives a swift counter-blow into the thug's torso, and spins him violently to the ground.\nEP16:E26 27000-28200 SOUND: Solid bone-and-fist impact followed by a groaning thud.\nEP16:E27 28500-31000 CAMERA: Wide cinematic shot under the full moon. Alexander towers over the three writhing thugs groaning in the mud as Juliana looks up from her knees.\nEP16:E28 31000-34500 CAMERA: Low-angle close-up of Juliana looking up at Alexander, tears glistening on her mud-splattered cheeks in profound relief.\nEP16:E29 32000-33800 JULIANA: \"Alexander...\"\nEP16:E30 34500-38200 CAMERA: Medium shot over Juliana's shoulder as Alexander turns his gaze toward her, his stern demeanor softening with concern.\nEP16:E31 36200-37800 ALEXANDER: \"Are you hurt?\"\nEP16:E33 38200-40000 JULIANA: \"Only my hands.\"\nEP16:E32 38200-40800 CAMERA: Close-up of Juliana's trembling, soil-stained hands wrapped in blood-soaked bandages.\nEP16:E34 40800-44200 CAMERA: Medium shot as Alexander suddenly wheels around, strides to the groaning Thug with Cap, and yanks him straight off the ground by his coat collar with one arm.\nEP16:E35 41200-44000 ACTION: Alexander lifts the thug onto his tiptoes against the cottage wall, glaring with lethal intensity.\nEP16:E36 42500-44000 ALEXANDER: \"Who sent you?\"\nEP16:E38 44200-45300 THUG WITH CAP: \"No one!\"\nEP16:E37 44200-46200 CAMERA: Close-up of the Thug with Cap gagging under Alexander's iron fist.\nEP16:E39 46200-48500 CAMERA: Close-up of Alexander, his eyes darkening with lethal fury.\nEP16:E40 46300-47400 ALEXANDER: \"Wrong answer.\"\nEP16:E41 48000-50000 ACTION: Alexander tightens his grip on the thug's throat, lifting him higher against the stone wall.\nEP16:E42 48800-49600 ALEXANDER: \"Who?!\"\nEP16:E44 49800-52200 THUG WITH CAP: \"Harrington! Gerald Harrington paid us!\"\nEP16:E43 49800-52200 CAMERA: Extreme close-up of the terrified thug gasping for air, his eyes bulging.",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "complete",
+  "output": {
+    "candidate_id": "c_b4968985f372a4b6",
+    "hook": {
+      "score_0_10": 7.0,
+      "evidence_refs": [
+        "EP16:E1",
+        "EP16:E2",
+        "EP16:E4"
+      ],
+      "reason": "The opening within 0-3000ms shows a tense standoff: a masked-off, unyielding man blocks a woman from three armed thugs under a full moon, and the thug's 'Move aside, soldier' raises immediate stakes."
+    },
+    "cliffhanger": {
+      "score_0_10": 6.0,
+      "evidence_refs": [
+        "EP16:E44",
+        "EP16:E43"
+      ],
+      "reason": "The final seconds reveal a named backer, 'Gerald Harrington paid us!', which opens a new question about who Harrington is and why he targets the characters. The immediate fight is resolved, so the open thread is the revelation itself, not the physical danger.",
+      "unresolved_at_end": true
+    },
+    "standalone": {
+      "score_0_10": 4.0,
+      "missing_context": [
+        "Who Alexander is and why the thug calls him 'soldier'",
+        "Who Juliana is and her relationship to Alexander",
+        "Why Juliana's hands are bandaged and bloodied",
+        "What the thugs were sent to do and why they target Juliana",
+        "Who Gerald Harrington is and why he would pay for this"
+      ]
+    },
+    "emotion": {
+      "score_0_10": 7.0,
+      "reason": "Fear, menace and then relief build clearly through Juliana's trembling and tears and the thug's terror, with the lethal intensity of Alexander's interrogation heightening tension at the end."
+    },
+    "weaknesses": [
+      "Clip depends on unexplained prior events, so a first-time viewer cannot place the characters or stakes",
+      "Juliana's bandaged hands are shown without any explanation",
+      "The final name reveal lacks context, which weakens its impact as a hook for the next moment",
+      "Thugs are one-dimensional, and their motives beyond the name are absent"
+    ],
+    "one_line_why_it_works": "A bare-handed hero stopping armed thugs under moonlight builds quick tension, and the interrogation ends on a named villain that makes viewers want to know more."
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "episode_id": "ep_007",
+  "summary": "Episode ep_007 (EP07) shows Juliana working at a woodland cottage when Gerald and an unnamed Aristocratic Woman arrive by carriage to mock her fallen status. Their confrontation ends when the Scarred Bearded Man, Juliana's husband, returns from the forest carrying firewood and silently drives Gerald away. Uncertainty: source sc_003 has incomplete coverage and its gaps are unavailable, so events between 75500 and 116000 ms may be partial. The logline and continuity notes are metadata only and were not used as on-screen evidence. The husband is never named and the Aristocratic Woman is never named. Gerald's V.O. line at E35 is placed in sc_002 while Gerald is at the cottage in sc_001, so its exact placement is uncertain. Several speaker tags contain a malformed O.S.) marker (E17, E44). Timestamps are integer milliseconds as supplied.",
+  "characters": [
+    {
+      "name": "Juliana",
+      "role": "Protagonist; Gerald's former fiancee who chose a penniless soldier and now lives in the woodland cottage with her husband"
+    },
+    {
+      "name": "Gerald",
+      "role": "Antagonist; arrogant man who mocks Juliana and is driven off by her husband"
+    },
+    {
+      "name": "Aristocratic Woman",
+      "role": "Antagonist; unnamed woman who accompanies Gerald and mocks Juliana"
+    },
+    {
+      "name": "Scarred Bearded Man",
+      "role": "Juliana's husband; silent, imposing figure who intimidates Gerald without speaking"
+    }
+  ],
+  "beats": [
+    {
+      "id": "B1",
+      "kind": "setup",
+      "event_refs": [
+        "EP07:E1",
+        "EP07:E2",
+        "EP07:E3",
+        "EP07:E4",
+        "EP07:E5",
+        "EP07:E6",
+        "EP07:E7",
+        "EP07:E8"
+      ],
+      "description": "Juliana works alone at the cottage until a carriage arrives carrying the Aristocratic Woman and Gerald, who survey her home with contempt.",
+      "intensity_0_10": 3.0
+    },
+    {
+      "id": "B2",
+      "kind": "confrontation",
+      "event_refs": [
+        "EP07:E9",
+        "EP07:E10",
+        "EP07:E11",
+        "EP07:E12",
+        "EP07:E13",
+        "EP07:E14",
+        "EP07:E15",
+        "EP07:E16",
+        "EP07:E17",
+        "EP07:E18",
+        "EP07:E19",
+        "EP07:E20",
+        "EP07:E21",
+        "EP07:E22",
+        "EP07:E23",
+        "EP07:E24",
+        "EP07:E25",
+        "EP07:E26",
+        "EP07:E27",
+        "EP07:E28",
+        "EP07:E29",
+        "EP07:E30",
+        "EP07:E31",
+        "EP07:E32",
+        "EP07:E33"
+      ],
+      "description": "Gerald and the Aristocratic Woman mock Juliana's work and marriage; Juliana defies them, and Gerald threatens her with influence and asks about her husband.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "B3",
+      "kind": "turn",
+      "event_refs": [
+        "EP07:E34",
+        "EP07:E35",
+        "EP07:E36",
+        "EP07:E37"
+      ],
+      "description": "The Scarred Bearded Man is seen approaching the cottage through the forest carrying firewood while Gerald calls for the beggar husband.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "B4",
+      "kind": "climax",
+      "event_refs": [
+        "EP07:E38",
+        "EP07:E39",
+        "EP07:E40",
+        "EP07:E41",
+        "EP07:E42",
+        "EP07:E43",
+        "EP07:E44",
+        "EP07:E45",
+        "EP07:E46",
+        "EP07:E47",
+        "EP07:E48",
+        "EP07:E49",
+        "EP07:E50",
+        "EP07:E51",
+        "EP07:E52"
+      ],
+      "description": "The husband drops the firewood and confronts Gerald in silence; Gerald is terrified and flees, and the Aristocratic Woman follows him back to the carriage as it leaves.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "B5",
+      "kind": "resolution",
+      "event_refs": [
+        "EP07:E53",
+        "EP07:E54",
+        "EP07:E55",
+        "EP07:E56",
+        "EP07:E57",
+        "EP07:E58"
+      ],
+      "description": "Juliana admires her husband, who says he did not need to speak; he carries the firewood inside as Juliana smiles and the scene fades out.",
+      "intensity_0_10": 4.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "R1",
+      "event_refs": [
+        "EP07:E28"
+      ],
+      "claim": "Juliana says she chose a man who stood beside her when Gerald walked away.",
+      "spoiler_significance_0_10": 4.0,
+      "creates_questions": [
+        "What did the husband do when Gerald walked away from Juliana?",
+        "Is the Scarred Bearded Man the penniless soldier Gerald mentioned?"
+      ]
+    },
+    {
+      "id": "R2",
+      "event_refs": [
+        "EP07:E32"
+      ],
+      "claim": "Gerald claims he has enough influence to make a beggar disappear.",
+      "spoiler_significance_0_10": 5.0,
+      "creates_questions": [
+        "Does Gerald have the power to harm Juliana's husband?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "Is the Scarred Bearded Man the penniless soldier Juliana chose, and what is his true background?",
+      "introduced_by": [
+        "EP07:E11",
+        "EP07:E26"
+      ]
+    },
+    {
+      "question": "Will Gerald's claimed influence threaten Juliana and her husband after this encounter?",
+      "introduced_by": [
+        "EP07:E32"
+      ]
+    },
+    {
+      "question": "What did the husband do when Gerald walked away from Juliana, and what does his silence mean for Gerald?",
+      "introduced_by": [
+        "EP07:E28",
+        "EP07:E41"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c_ffee80337a1cebc1",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP33:E32",
+      "EP33:E33"
+    ],
+    "reason": "Within 0-3000ms the Lord's predatory close-up and his pointed question 'And did she perform anything unusual?' create immediate menace and a sense that someone is being interrogated."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP33:E65",
+      "EP33:E66"
+    ],
+    "reason": "The clip ends on the Lord's open question 'Praying... or chanting?' with the maid's fate and the accusation unresolved, so the outcome is left hanging rather than resolved.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who the maid is and her relationship to the household",
+      "Who the brother is and why his poverty and the county gaol threat matter",
+      "What the dried herbs circle and the mother's book signify",
+      "Why praying or chanting would be treated as an accusation",
+      "The stakes and prior events that set up the Lord's interrogation"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Sustained distress from the maid, including terror, tears, and pleading over her seven-year-old brother, paired with the Lord's cold menace, produces strong tension and sympathy."
+  },
+  "weaknesses": [
+    "Viewer cannot tell what the accusation implies without prior context",
+    "The brother and county gaol threat are introduced without explanation of their stakes",
+    "The herbs circle and mother's book are presented without meaning, weakening the reveal",
+    "The Lord's motive and power are not established within the clip"
+  ],
+  "one_line_why_it_works": "A cornered servant is pressed under threat to a child's safety, and the Lord's final question leaves her fate suspended in an unanswered accusation."
+}

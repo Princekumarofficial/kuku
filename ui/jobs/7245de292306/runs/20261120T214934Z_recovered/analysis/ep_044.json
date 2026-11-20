@@ -1,0 +1,248 @@
+{
+  "episode_id": "ep_044",
+  "summary": "Based only on on-screen event text (EP44:E1 to EP44:E54, scene sc_001 and sc_002, integer millisecond timestamps 0 to 70500): a Police Constable arrests Lord Henry Sterling under Crown order, and redcoat guards force Rupert (named only in camera text) to his knees. Catherine pleads with Alexander, who rejects her touch and her claims, then walks toward the chained Juliana. The metadata logline and continuity notes (Sterling's escape blocked, Rupert and Sterling apprehended, picking up from Episode 43) are not on-screen evidence and are not verified here. Uncertainty: the scene does not show whether Sterling attempts escape, Rupert's fate, Alexander's title beyond the ducal coat, or why Alexander seems to have forgotten Catherine. The speaker tag at EP44:E22 is malformed in the source and is read as Catherine.",
+  "characters": [
+    {
+      "name": "Police Constable",
+      "role": "Crown officer who arrests Lord Sterling and presents a sealed dossier"
+    },
+    {
+      "name": "Lord Henry Sterling",
+      "role": "Noble arrested by the Crown, indignant and defiant"
+    },
+    {
+      "name": "Rupert (Blond Nobleman)",
+      "role": "Noble forced to his knees by guards, pleading for Catherine to act"
+    },
+    {
+      "name": "Catherine",
+      "role": "Bride-to-be who pleads with Alexander about their past love"
+    },
+    {
+      "name": "Alexander",
+      "role": "Duke in a ducal coat who coldly rejects Catherine and turns to Juliana"
+    },
+    {
+      "name": "Juliana",
+      "role": "Chained woman in a rustic grey gown waiting at the cathedral entrance"
+    },
+    {
+      "name": "Royal redcoat guard",
+      "role": "Crown guard restraining Rupert"
+    }
+  ],
+  "beats": [
+    {
+      "id": "b1",
+      "kind": "arrest",
+      "event_refs": [
+        "EP44:E1",
+        "EP44:E2",
+        "EP44:E3",
+        "EP44:E4"
+      ],
+      "description": "Police Constable blocks Lord Sterling at the side entrance and announces his arrest by order of the Crown.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b2",
+      "kind": "defiance",
+      "event_refs": [
+        "EP44:E5",
+        "EP44:E6",
+        "EP44:E7",
+        "EP44:E8"
+      ],
+      "description": "Sterling protests he has no authority; the Constable produces a royal-sealed dossier and asserts he has enough.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b3",
+      "kind": "restraint",
+      "event_refs": [
+        "EP44:E9",
+        "EP44:E10",
+        "EP44:E11",
+        "EP44:E12",
+        "EP44:E13"
+      ],
+      "description": "Guards force Rupert down in the nave while he struggles and calls for Catherine to do something.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b4",
+      "kind": "inner_conflict",
+      "event_refs": [
+        "EP44:E14",
+        "EP44:E15",
+        "EP44:E16"
+      ],
+      "description": "Catherine stands in silence beneath her veil and clenches a gloved fist.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "b5",
+      "kind": "plea",
+      "event_refs": [
+        "EP44:E17",
+        "EP44:E18",
+        "EP44:E19",
+        "EP44:E20",
+        "EP44:E21",
+        "EP44:E22",
+        "EP44:E23",
+        "EP44:E24",
+        "EP44:E25",
+        "EP44:E26",
+        "EP44:E27",
+        "EP44:E28",
+        "EP44:E29"
+      ],
+      "description": "Catherine walks to Alexander, tearfully says she mourned and waited for him, and reaches to touch his cheek saying she never stopped loving him.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b6",
+      "kind": "rejection",
+      "event_refs": [
+        "EP44:E30",
+        "EP44:E31",
+        "EP44:E32",
+        "EP44:E33"
+      ],
+      "description": "Alexander pulls away from her touch, leaving her hand suspended; she is stunned and asks whether he remembers.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "b7",
+      "kind": "confrontation",
+      "event_refs": [
+        "EP44:E34",
+        "EP44:E35",
+        "EP44:E36",
+        "EP44:E37",
+        "EP44:E38",
+        "EP44:E39"
+      ],
+      "description": "Catherine insists she was meant to be his Duchess; Alexander coldly replies she was never his Duchess.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b8",
+      "kind": "cutting_rebuke",
+      "event_refs": [
+        "EP44:E40",
+        "EP44:E41",
+        "EP44:E42",
+        "EP44:E43",
+        "EP44:E44",
+        "EP44:E45",
+        "EP44:E46",
+        "EP44:E47",
+        "EP44:E48"
+      ],
+      "description": "Alexander says she loved the Duke she thought she would marry; Catherine protests she loved him before all this, and he doubts her.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "b9",
+      "kind": "reveal_choice",
+      "event_refs": [
+        "EP44:E49",
+        "EP44:E50",
+        "EP44:E51",
+        "EP44:E52",
+        "EP44:E53",
+        "EP44:E54"
+      ],
+      "description": "The camera reveals Juliana in chains; Alexander turns his back on Catherine and walks toward her, and Catherine gasps at who he chose.",
+      "intensity_0_10": 9.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "r1",
+      "event_refs": [
+        "EP44:E18",
+        "EP44:E26"
+      ],
+      "claim": "Catherine says she believed Alexander had died and that the man she loved was buried across the sea for three years.",
+      "spoiler_significance_0_10": 5.0,
+      "creates_questions": [
+        "Where was Alexander during those three years, and why was he believed dead?"
+      ]
+    },
+    {
+      "id": "r2",
+      "event_refs": [
+        "EP44:E33",
+        "EP44:E30"
+      ],
+      "claim": "Catherine asks whether Alexander remembers her after he pulls away; the scene does not confirm whether he has lost memory.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "Does Alexander remember Catherine, and is his rejection driven by memory loss or by choice?"
+      ]
+    },
+    {
+      "id": "r3",
+      "event_refs": [
+        "EP44:E37",
+        "EP44:E41"
+      ],
+      "claim": "Alexander states Catherine was never his Duchess and that she loved the Duke she thought she would marry, not him.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "What was the Duke-marriage arrangement between Catherine and Alexander, and what changed?"
+      ]
+    },
+    {
+      "id": "r4",
+      "event_refs": [
+        "EP44:E53",
+        "EP44:E54",
+        "EP44:E49"
+      ],
+      "claim": "Alexander walks toward the chained Juliana, and Catherine reacts in shock to his choice.",
+      "spoiler_significance_0_10": 7.0,
+      "creates_questions": [
+        "Why is Juliana chained, and what is her relationship to Alexander?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "Does Alexander remember Catherine, and why did he appear to be away for three years?",
+      "introduced_by": [
+        "EP44:E18",
+        "EP44:E26",
+        "EP44:E33"
+      ]
+    },
+    {
+      "question": "Why is Juliana in chains, and what role does she play in Alexander's choice?",
+      "introduced_by": [
+        "EP44:E49",
+        "EP44:E50",
+        "EP44:E54"
+      ]
+    },
+    {
+      "question": "What is the legal basis for the arrests of Lord Sterling and Rupert, and what happens to them next?",
+      "introduced_by": [
+        "EP44:E4",
+        "EP44:E7",
+        "EP44:E8",
+        "EP44:E13"
+      ]
+    },
+    {
+      "question": "What is Alexander's title and standing, and how does it relate to the Duke Catherine thought she would marry?",
+      "introduced_by": [
+        "EP44:E21",
+        "EP44:E37",
+        "EP44:E41"
+      ]
+    }
+  ]
+}

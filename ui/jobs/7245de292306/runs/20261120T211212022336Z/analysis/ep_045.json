@@ -1,0 +1,259 @@
+{
+  "episode_id": "ep_045",
+  "summary": "Evidence covers scenes sc_001 to sc_003 (0 to 121750 ms) only; the episode is shown cutting during Catherine's smirk at 121750 ms, so later events are unknown. Alexander kneels to Juliana, unchains her, reveals himself as Alexander Ashburton, the rightful Duke, and publicly proclaims her his lawful wife and Duchess before the congregation. He accuses Catherine of poisoning his mother and torturing his wife; Catherine denies knowledge. A High Priest, described in the shot list as a Catholic Bishop, enters with a Crown officer, cites a missing Crown marriage license and absence from the Royal Matrimonial Register, and declares Juliana is not the lawful wife or Duchess. Uncertainties: the speaker tag at E68 is malformed, the High Priest's role versus the Bishop label at E59 is unresolved, the marriage's legal status and the accusations against Catherine are unverified, and the emotional tags such as Lying at E42 are performance labels, not confirmed facts. Metadata was not treated as on-screen evidence.",
+  "characters": [
+    {
+      "name": "Alexander Ashburton",
+      "role": "Man who reveals himself as the rightful Duke of Ashburton; claims Juliana as his lawful wife"
+    },
+    {
+      "name": "Juliana Ashcroft",
+      "role": "Chained woman in a rustic grey dress who is freed and proclaimed Duchess; declared not lawful wife by the priest"
+    },
+    {
+      "name": "Catherine",
+      "role": "Woman in a disheveled wedding gown at the altar, accused by Alexander of poisoning and torture; ends with a triumphant smirk"
+    },
+    {
+      "name": "Rupert",
+      "role": "Congregation member in the pews who gasps at Juliana; relation to Juliana not established on screen"
+    },
+    {
+      "name": "Mary",
+      "role": "Congregation member in the pews beside Rupert; relation not established on screen"
+    },
+    {
+      "name": "High Priest",
+      "role": "Church authority who enters with a Crown officer and declares the marriage legally invalid; shot list calls him a Catholic Bishop"
+    },
+    {
+      "name": "Crown officer",
+      "role": "Armed officer who accompanies the High Priest and approaches with a drawn sword; unnamed"
+    }
+  ],
+  "beats": [
+    {
+      "id": "B1",
+      "kind": "reunion_reveal",
+      "event_refs": [
+        "EP45:E5",
+        "EP45:E6",
+        "EP45:E7",
+        "EP45:E8",
+        "EP45:E9",
+        "EP45:E10",
+        "EP45:E11",
+        "EP45:E12"
+      ],
+      "description": "Alexander kneels before Juliana, asks her to look at him, unchains her, and she registers his eyes.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "B2",
+      "kind": "identity_recognition",
+      "event_refs": [
+        "EP45:E13",
+        "EP45:E14",
+        "EP45:E15",
+        "EP45:E16"
+      ],
+      "description": "Juliana touches Alexander's face, recognizes him, and he confirms it was always him.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "B3",
+      "kind": "title_reveal",
+      "event_refs": [
+        "EP45:E17",
+        "EP45:E18",
+        "EP45:E19",
+        "EP45:E20",
+        "EP45:E21",
+        "EP45:E22",
+        "EP45:E23"
+      ],
+      "description": "Alexander drapes a crimson ducal mantle over Juliana and identifies himself as Alexander Ashburton, the rightful Duke.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "B4",
+      "kind": "emotional_exchange",
+      "event_refs": [
+        "EP45:E24",
+        "EP45:E25",
+        "EP45:E26",
+        "EP45:E27",
+        "EP45:E28",
+        "EP45:E29",
+        "EP45:E30",
+        "EP45:E31",
+        "EP45:E32",
+        "EP45:E33",
+        "EP45:E34",
+        "EP45:E35"
+      ],
+      "description": "The couple exchange declarations of love and mutual choice before the stunned crowd.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "B5",
+      "kind": "confrontation",
+      "event_refs": [
+        "EP45:E36",
+        "EP45:E37",
+        "EP45:E38",
+        "EP45:E39",
+        "EP45:E40",
+        "EP45:E41",
+        "EP45:E42",
+        "EP45:E43",
+        "EP45:E44",
+        "EP45:E45"
+      ],
+      "description": "Alexander turns on Catherine, accusing her of poisoning his mother and torturing his wife; she denies knowing.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "B6",
+      "kind": "public_proclamation",
+      "event_refs": [
+        "EP45:E46",
+        "EP45:E47",
+        "EP45:E48",
+        "EP45:E49",
+        "EP45:E50",
+        "EP45:E51",
+        "EP45:E52",
+        "EP45:E53",
+        "EP45:E54",
+        "EP45:E55",
+        "EP45:E56"
+      ],
+      "description": "Alexander leads Juliana down the aisle and proclaims her his lawful wife and Duchess; Rupert reacts in shock.",
+      "intensity_0_10": 9.0
+    },
+    {
+      "id": "B7",
+      "kind": "interruption",
+      "event_refs": [
+        "EP45:E57",
+        "EP45:E58",
+        "EP45:E59",
+        "EP45:E60",
+        "EP45:E61",
+        "EP45:E62",
+        "EP45:E63"
+      ],
+      "description": "Cathedral doors burst open and a High Priest with an armed Crown officer strides down the aisle holding a royal parchment.",
+      "intensity_0_10": 9.0
+    },
+    {
+      "id": "B8",
+      "kind": "legal_challenge",
+      "event_refs": [
+        "EP45:E64",
+        "EP45:E65",
+        "EP45:E66",
+        "EP45:E67",
+        "EP45:E68",
+        "EP45:E69",
+        "EP45:E70"
+      ],
+      "description": "The priest declares the ceremony unlicensed, unrecorded, and performed without authority, and that Juliana is not the lawful wife or Duchess.",
+      "intensity_0_10": 10.0
+    },
+    {
+      "id": "B9",
+      "kind": "cliffhanger",
+      "event_refs": [
+        "EP45:E71",
+        "EP45:E72",
+        "EP45:E73",
+        "EP45:E74"
+      ],
+      "description": "Juliana panics and grips Alexander's hand while Catherine smirks triumphantly as the episode cuts.",
+      "intensity_0_10": 8.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "R1",
+      "event_refs": [
+        "EP45:E16",
+        "EP45:E19",
+        "EP45:E21"
+      ],
+      "claim": "Alexander is Alexander Ashburton, the rightful Duke of Ashburton, concealed from Juliana until this point.",
+      "spoiler_significance_0_10": 9.0,
+      "creates_questions": [
+        "Will the Crown or Church recognize Alexander's ducal claim?",
+        "How did Alexander conceal his identity from Juliana?"
+      ]
+    },
+    {
+      "id": "R2",
+      "event_refs": [
+        "EP45:E64",
+        "EP45:E66"
+      ],
+      "claim": "The priest asserts the wedding had no Crown marriage license and the vows were never entered into the Royal Matrimonial Register.",
+      "spoiler_significance_0_10": 8.0,
+      "creates_questions": [
+        "Is the marriage legally invalid under Crown or Church rules?",
+        "Was a license ever sought or issued?"
+      ]
+    },
+    {
+      "id": "R3",
+      "event_refs": [
+        "EP45:E40",
+        "EP45:E45"
+      ],
+      "claim": "Alexander accuses Catherine of poisoning his mother and torturing his wife; this is an accusation shown on screen, not a confirmed fact.",
+      "spoiler_significance_0_10": 7.0,
+      "creates_questions": [
+        "Is Catherine guilty of poisoning and torture?",
+        "What motivated Catherine's actions?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "Is the marriage between Alexander and Juliana legally valid?",
+      "introduced_by": [
+        "EP45:E64",
+        "EP45:E66",
+        "EP45:E68",
+        "EP45:E70"
+      ]
+    },
+    {
+      "question": "Will Alexander's claim to the ducal title be recognized?",
+      "introduced_by": [
+        "EP45:E21",
+        "EP45:E68"
+      ]
+    },
+    {
+      "question": "Did Catherine poison Alexander's mother and torture Juliana, and what did she know?",
+      "introduced_by": [
+        "EP45:E40",
+        "EP45:E42",
+        "EP45:E43"
+      ]
+    },
+    {
+      "question": "What is the basis of Catherine's triumphant smirk, and what plan does it signal?",
+      "introduced_by": [
+        "EP45:E73",
+        "EP45:E74"
+      ]
+    },
+    {
+      "question": "What is Rupert's relationship to Juliana, and why is he shocked?",
+      "introduced_by": [
+        "EP45:E55"
+      ]
+    }
+  ]
+}

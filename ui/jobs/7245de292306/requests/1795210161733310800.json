@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_86f12414ccaac16c DURATION_MS=43100\nSEGMENT 1 (playback order)\nEP03:E14 0-100 CAMERA: Side medium shot of Gerald looking away impassively as the Lady in Gold Gown leans back against him.\nEP03:E16 100-2400 CAMERA: Close-up of the Lady in Gold Gown beaming triumphantly.\nEP03:E17 200-2100 LADY IN GOLD GOWN: \"Now it is mine.\"\nEP03:E18 2400-5400 CAMERA: Low-angle wide shot of an imperious Noble Matriarch in a lavish black velvet gown and jeweled tiara stepping forward.\nEP03:E19 2700-5100 NOBLE MATRIARCH: \"Enough, Juliana.\"\nEP03:E20 5400-7600 CAMERA: Medium close-up of the Noble Matriarch glaring down with icy contempt.\nEP03:E21 5500-7600 NOBLE MATRIARCH: \"You have humiliated this family enough for one day.\"\nEP03:E22 7600-9900 CAMERA: Close-up on Juliana, tears shimmering in her eyes as betrayal strikes deep.\nEP03:E23 9900-15100 CAMERA: Medium shot on Juliana as she speaks out against her family's injustice.\nEP03:E24 10000-12800 LADY JULIANA: \"I was humiliated by your family.\"\nEP03:E25 12900-15200 LADY JULIANA: \"And my father said nothing.\"\nEP03:E26 15100-17800 CAMERA: Medium close-up on the Noble Matriarch, completely unsympathetic.\nEP03:E27 16100-18000 NOBLE MATRIARCH: \"Your father has made his choice.\"\nEP03:E28 17800-20000 CAMERA: Close-up on Juliana's stricken, vulnerable face.\nEP03:E29 18100-20000 LADY JULIANA: \"And what happens to me?\"\nEP03:E30 20000-21600 CAMERA: Close-up of the Noble Matriarch delivering her verdict.\nEP03:E31 20100-21500 NOBLE MATRIARCH: \"You leave.\"\nEP03:E32 21600-22900 CAMERA: Close-up on Juliana blinking in disbelief.\nEP03:E33 21700-22900 LADY JULIANA: \"Leave where?\"\nEP03:E34 22900-25500 CAMERA: Medium shot of the Noble Matriarch looking down her nose in disdain.\nEP03:E35 23000-25600 NOBLE MATRIARCH: \"Wherever a discarded daughter belongs.\"\nEP03:E36 25500-28400 CAMERA: Low-angle close-up focusing on Juliana's neck as her fingers desperately clutch the oval locket.\nEP03:E37 26000-28200 LADY JULIANA: \"This is my mother's church.\"\nEP03:E38 28400-30800 CAMERA: Close-up on Juliana's face, teeth clenched in desperate defiance.\nEP03:E39 28500-30700 LADY JULIANA: \"I have every right to stand here.\"\nEP03:E40 30800-32600 CAMERA: Tight close-up of the Noble Matriarch leaning in with vicious delight.\nEP03:E41 30900-32600 NOBLE MATRIARCH: \"Not anymore.\"\nEP03:E42 32600-35800 CAMERA: Medium shot on the Noble Matriarch gesturing expansively to the filled cathedral nave behind her.\nEP03:E43 32900-35800 NOBLE MATRIARCH: \"Your father has chosen his family...\"\nEP03:E44 35800-37800 CAMERA: Close-up profile of the Noble Matriarch's piercing eyes glaring directly at Juliana.\nEP03:E45 35900-37800 NOBLE MATRIARCH: \"...and it isn't you.\"\nEP03:E46 37800-39400 ACTION: The Noble Matriarch turns sharply toward the back of the chapel and barks an order.\nEP03:E47 37900-39600 NOBLE MATRIARCH: \"Guards! Remove her!\"\nEP03:E48 39600-41600 CAMERA: Medium shot as two royal guards in red uniforms and bearskin caps step in behind Juliana and seize her arms.\nEP03:E49 40100-42100 ACTION: The guards forcefully grab Juliana by both shoulders and drag her backwards.\nEP03:E50 40200-41900 LADY JULIANA: \"Let me go!\"\nEP03:E51 41600-42800 CAMERA: Close-up of Juliana's hand frantically grabbing the wooden rim of a pew, knuckles white with strain.\nEP03:E52 42000-43100 LADY JULIANA: \"Please! Someone!\"\nEP03:E53 42600-43100 ACTION: The guards tear her grip away from the pew.\nEP03:E54 42600-43100 SOUND: Muffled scuffle, rustle of heavy silk and frantic gasps echoing off cathedral stone.",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

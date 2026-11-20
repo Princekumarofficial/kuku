@@ -1,0 +1,602 @@
+[
+  {
+    "candidate_id": "c_d0309feb9df5ccd8",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 74200,
+        "end_ms": 110080,
+        "episode_id": "ep_040"
+      }
+    ],
+    "duration_ms": 35880,
+    "origin": "ep40_opp_01",
+    "clip_events": [
+      {
+        "ref": "EP40:E35",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Over-the-shoulder shot from behind the elder nobleman, his gloved hand resting on the stone balustrade, looking down upon the altar and seated aristocrats."
+      },
+      {
+        "ref": "EP40:E37",
+        "segment_index": 0,
+        "relative_start_ms": 300,
+        "relative_end_ms": 4300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight, menacing close-up on the elder nobleman's face as a cold, sinister smile spreads across his lips."
+      },
+      {
+        "ref": "EP40:E38",
+        "segment_index": 0,
+        "relative_start_ms": 600,
+        "relative_end_ms": 3200,
+        "type": "dialogue",
+        "speaker": "ELDER NOBLEMAN",
+        "text": "\"And its witch will be dead.\""
+      },
+      {
+        "ref": "EP40:E39",
+        "segment_index": 0,
+        "relative_start_ms": 4300,
+        "relative_end_ms": 6800,
+        "type": "sound",
+        "speaker": null,
+        "text": "The heavy creak of massive wooden cathedral doors swinging open, accompanied by swelling bridal organ music."
+      },
+      {
+        "ref": "EP40:E40",
+        "segment_index": 0,
+        "relative_start_ms": 4300,
+        "relative_end_ms": 6800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide symmetrical shot down the candlelit aisle as the double doors part, flooding the cathedral with brilliant golden daylight."
+      },
+      {
+        "ref": "EP40:E41",
+        "segment_index": 0,
+        "relative_start_ms": 6800,
+        "relative_end_ms": 8300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Rupert turning his head sharply, his eyes widening in awe."
+      },
+      {
+        "ref": "EP40:E42",
+        "segment_index": 0,
+        "relative_start_ms": 8300,
+        "relative_end_ms": 11600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Framed wide shot of Catherine silhouetted in the bright doorway, wearing a breathtaking cream and gold imperial bridal gown with puffed sleeves and an exquisite sheer veil."
+      },
+      {
+        "ref": "EP40:E43",
+        "segment_index": 0,
+        "relative_start_ms": 11600,
+        "relative_end_ms": 16600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Majestic high-angle wide tracking shot following Catherine from behind as her magnificent cathedral-length veil trails down the aisle between seated guests."
+      },
+      {
+        "ref": "EP40:E44",
+        "segment_index": 0,
+        "relative_start_ms": 16600,
+        "relative_end_ms": 20300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Lady Harrington leaning forward from her pew, utterly captivated."
+      },
+      {
+        "ref": "EP40:E45",
+        "segment_index": 0,
+        "relative_start_ms": 17800,
+        "relative_end_ms": 20000,
+        "type": "dialogue",
+        "speaker": "LADY HARRINGTON",
+        "text": "\"She looks like a queen.\""
+      },
+      {
+        "ref": "EP40:E46",
+        "segment_index": 0,
+        "relative_start_ms": 20300,
+        "relative_end_ms": 23300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Rupert at the altar, a proud, possessive smile breaking across his handsome face."
+      },
+      {
+        "ref": "EP40:E47",
+        "segment_index": 0,
+        "relative_start_ms": 23300,
+        "relative_end_ms": 28600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Full shot as Catherine reaches the top of the altar steps. Rupert steps forward and takes her gloved hands into his."
+      },
+      {
+        "ref": "EP40:E48",
+        "segment_index": 0,
+        "relative_start_ms": 25800,
+        "relative_end_ms": 28600,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"You look more queen than bride.\""
+      },
+      {
+        "ref": "EP40:E49",
+        "segment_index": 0,
+        "relative_start_ms": 28600,
+        "relative_end_ms": 35880,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight two-shot profile of Catherine and Rupert clasping hands intimately, gazing into each other's eyes with shared aristocratic vanity."
+      },
+      {
+        "ref": "EP40:E50",
+        "segment_index": 0,
+        "relative_start_ms": 30800,
+        "relative_end_ms": 34800,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"And you look better in silk than you ever did as an ignored cousin.\""
+      },
+      {
+        "ref": "EP40:E51",
+        "segment_index": 0,
+        "relative_start_ms": 34800,
+        "relative_end_ms": 35880,
+        "type": "action",
+        "speaker": null,
+        "text": "Rupert and Catherine exchange conspiratorial, triumphant smiles at the altar as the solemn organ chord holds and the scene cuts to black."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_d038d3f2df46b782",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 33200,
+        "end_ms": 74200,
+        "episode_id": "ep_040"
+      }
+    ],
+    "duration_ms": 41000,
+    "origin": "ep40_opp_02",
+    "clip_events": [
+      {
+        "ref": "EP40:E17",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1000,
+        "type": "action",
+        "speaker": null,
+        "text": "Lady Harrington lets out a soft, amused laugh as they reach the heavy wooden cathedral doors."
+      },
+      {
+        "ref": "EP40:E18",
+        "segment_index": 0,
+        "relative_start_ms": 1000,
+        "relative_end_ms": 7300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Dramatic tracking shot following Lord and Lady Harrington from behind as they stride down the candlelit aisle of the cathedral toward their reserved pew."
+      },
+      {
+        "ref": "EP40:E19",
+        "segment_index": 0,
+        "relative_start_ms": 1200,
+        "relative_end_ms": 5800,
+        "type": "dialogue",
+        "speaker": "LADY HARRINGTON",
+        "text": "\"She stands beneath God's watch and still gets exactly what she deserves.\""
+      },
+      {
+        "ref": "EP40:E20",
+        "segment_index": 0,
+        "relative_start_ms": 7300,
+        "relative_end_ms": 9000,
+        "type": "action",
+        "speaker": null,
+        "text": "Lord and Lady Harrington slide gracefully into the polished wooden pew, smoothing their garments."
+      },
+      {
+        "ref": "EP40:E21",
+        "segment_index": 0,
+        "relative_start_ms": 7300,
+        "relative_end_ms": 12000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium profile shot of the couple seated in the pew, looking toward the grand altar."
+      },
+      {
+        "ref": "EP40:E22",
+        "segment_index": 0,
+        "relative_start_ms": 8800,
+        "relative_end_ms": 10800,
+        "type": "dialogue",
+        "speaker": "LADY HARRINGTON",
+        "text": "\"We have an excellent view.\""
+      },
+      {
+        "ref": "EP40:E23",
+        "segment_index": 0,
+        "relative_start_ms": 10900,
+        "relative_end_ms": 12000,
+        "type": "dialogue",
+        "speaker": "LORD HARRINGTON",
+        "text": "\"Of the wedding?\""
+      },
+      {
+        "ref": "EP40:E24",
+        "segment_index": 0,
+        "relative_start_ms": 12000,
+        "relative_end_ms": 16600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up two-shot as Lady Harrington turns her head toward Lord Harrington with a dark, knowing smirk."
+      },
+      {
+        "ref": "EP40:E25",
+        "segment_index": 0,
+        "relative_start_ms": 12100,
+        "relative_end_ms": 15100,
+        "type": "dialogue",
+        "speaker": "LADY HARRINGTON",
+        "text": "\"And everything that comes after it.\""
+      },
+      {
+        "ref": "EP40:E26",
+        "segment_index": 0,
+        "relative_start_ms": 16600,
+        "relative_end_ms": 22600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Rupert, the Blond Nobleman, standing before the altar draped in floral garlands. He wears an ornate silver-embroidered black formal coat and nervously adjusts his pristine white gloves."
+      },
+      {
+        "ref": "EP40:E27",
+        "segment_index": 0,
+        "relative_start_ms": 17600,
+        "relative_end_ms": 20000,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"Everything must go perfectly.\""
+      },
+      {
+        "ref": "EP40:E28",
+        "segment_index": 0,
+        "relative_start_ms": 20000,
+        "relative_end_ms": 22600,
+        "type": "action",
+        "speaker": null,
+        "text": "Rupert smooths the lapels of his coat, checking his posture as he waits for the bride."
+      },
+      {
+        "ref": "EP40:E29",
+        "segment_index": 0,
+        "relative_start_ms": 22600,
+        "relative_end_ms": 25000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot up on the stone balcony overlooking the nave, where an elder conspirator nobleman in black gloves stands gripping a cane."
+      },
+      {
+        "ref": "EP40:E30",
+        "segment_index": 0,
+        "relative_start_ms": 25000,
+        "relative_end_ms": 30600,
+        "type": "camera",
+        "speaker": null,
+        "text": "High-angle wide shot looking down from the balcony across the entire cathedral filled with guests, candles lining the central aisle, and royal guards standing at attention."
+      },
+      {
+        "ref": "EP40:E31",
+        "segment_index": 0,
+        "relative_start_ms": 30600,
+        "relative_end_ms": 36300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot on the balcony as a Royal Guard in red uniform and tall bearskin hat steps up and bows respectfully to the elder nobleman."
+      },
+      {
+        "ref": "EP40:E32",
+        "segment_index": 0,
+        "relative_start_ms": 31800,
+        "relative_end_ms": 33600,
+        "type": "dialogue",
+        "speaker": "ELDER NOBLEMAN",
+        "text": "\"All entrances are covered?\""
+      },
+      {
+        "ref": "EP40:E33",
+        "segment_index": 0,
+        "relative_start_ms": 33700,
+        "relative_end_ms": 35000,
+        "type": "dialogue",
+        "speaker": "ROYAL GUARD",
+        "text": "\"Every one, my Lord.\""
+      },
+      {
+        "ref": "EP40:E34",
+        "segment_index": 0,
+        "relative_start_ms": 35100,
+        "relative_end_ms": 36100,
+        "type": "dialogue",
+        "speaker": "ELDER NOBLEMAN",
+        "text": "\"Good.\""
+      },
+      {
+        "ref": "EP40:E35",
+        "segment_index": 0,
+        "relative_start_ms": 36300,
+        "relative_end_ms": 41000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Over-the-shoulder shot from behind the elder nobleman, his gloved hand resting on the stone balustrade, looking down upon the altar and seated aristocrats."
+      },
+      {
+        "ref": "EP40:E36",
+        "segment_index": 0,
+        "relative_start_ms": 36600,
+        "relative_end_ms": 41000,
+        "type": "dialogue",
+        "speaker": "ELDER NOBLEMAN",
+        "text": "\"By sunset, Ashburgh will have its new Duke and Duchess.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_ee76ac2c46d18ae1",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 28900,
+        "end_ms": 53200,
+        "episode_id": "ep_040"
+      }
+    ],
+    "duration_ms": 24300,
+    "origin": "ep40_opp_03",
+    "clip_events": [
+      {
+        "ref": "EP40:E13",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of Lord Harrington looking down at her, his expression cold and ruthless."
+      },
+      {
+        "ref": "EP40:E15",
+        "segment_index": 0,
+        "relative_start_ms": 100,
+        "relative_end_ms": 1000,
+        "type": "dialogue",
+        "speaker": "LADY HARRINGTON",
+        "text": "\"Good.\""
+      },
+      {
+        "ref": "EP40:E16",
+        "segment_index": 0,
+        "relative_start_ms": 1200,
+        "relative_end_ms": 4300,
+        "type": "dialogue",
+        "speaker": "LORD HARRINGTON",
+        "text": "\"This place has always been unlucky for Juliana.\""
+      },
+      {
+        "ref": "EP40:E17",
+        "segment_index": 0,
+        "relative_start_ms": 3900,
+        "relative_end_ms": 5300,
+        "type": "action",
+        "speaker": null,
+        "text": "Lady Harrington lets out a soft, amused laugh as they reach the heavy wooden cathedral doors."
+      },
+      {
+        "ref": "EP40:E18",
+        "segment_index": 0,
+        "relative_start_ms": 5300,
+        "relative_end_ms": 11600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Dramatic tracking shot following Lord and Lady Harrington from behind as they stride down the candlelit aisle of the cathedral toward their reserved pew."
+      },
+      {
+        "ref": "EP40:E19",
+        "segment_index": 0,
+        "relative_start_ms": 5500,
+        "relative_end_ms": 10100,
+        "type": "dialogue",
+        "speaker": "LADY HARRINGTON",
+        "text": "\"She stands beneath God's watch and still gets exactly what she deserves.\""
+      },
+      {
+        "ref": "EP40:E20",
+        "segment_index": 0,
+        "relative_start_ms": 11600,
+        "relative_end_ms": 13300,
+        "type": "action",
+        "speaker": null,
+        "text": "Lord and Lady Harrington slide gracefully into the polished wooden pew, smoothing their garments."
+      },
+      {
+        "ref": "EP40:E21",
+        "segment_index": 0,
+        "relative_start_ms": 11600,
+        "relative_end_ms": 16300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium profile shot of the couple seated in the pew, looking toward the grand altar."
+      },
+      {
+        "ref": "EP40:E22",
+        "segment_index": 0,
+        "relative_start_ms": 13100,
+        "relative_end_ms": 15100,
+        "type": "dialogue",
+        "speaker": "LADY HARRINGTON",
+        "text": "\"We have an excellent view.\""
+      },
+      {
+        "ref": "EP40:E23",
+        "segment_index": 0,
+        "relative_start_ms": 15200,
+        "relative_end_ms": 16300,
+        "type": "dialogue",
+        "speaker": "LORD HARRINGTON",
+        "text": "\"Of the wedding?\""
+      },
+      {
+        "ref": "EP40:E24",
+        "segment_index": 0,
+        "relative_start_ms": 16300,
+        "relative_end_ms": 20900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up two-shot as Lady Harrington turns her head toward Lord Harrington with a dark, knowing smirk."
+      },
+      {
+        "ref": "EP40:E25",
+        "segment_index": 0,
+        "relative_start_ms": 16400,
+        "relative_end_ms": 19400,
+        "type": "dialogue",
+        "speaker": "LADY HARRINGTON",
+        "text": "\"And everything that comes after it.\""
+      },
+      {
+        "ref": "EP40:E26",
+        "segment_index": 0,
+        "relative_start_ms": 20900,
+        "relative_end_ms": 24300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Rupert, the Blond Nobleman, standing before the altar draped in floral garlands. He wears an ornate silver-embroidered black formal coat and nervously adjusts his pristine white gloves."
+      },
+      {
+        "ref": "EP40:E27",
+        "segment_index": 0,
+        "relative_start_ms": 21900,
+        "relative_end_ms": 24300,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"Everything must go perfectly.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_de7243504249b884",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 53200,
+        "end_ms": 74500,
+        "episode_id": "ep_040"
+      }
+    ],
+    "duration_ms": 21300,
+    "origin": "recovery_b_004",
+    "clip_events": [
+      {
+        "ref": "EP40:E26",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Rupert, the Blond Nobleman, standing before the altar draped in floral garlands. He wears an ornate silver-embroidered black formal coat and nervously adjusts his pristine white gloves."
+      },
+      {
+        "ref": "EP40:E28",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2600,
+        "type": "action",
+        "speaker": null,
+        "text": "Rupert smooths the lapels of his coat, checking his posture as he waits for the bride."
+      },
+      {
+        "ref": "EP40:E29",
+        "segment_index": 0,
+        "relative_start_ms": 2600,
+        "relative_end_ms": 5000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot up on the stone balcony overlooking the nave, where an elder conspirator nobleman in black gloves stands gripping a cane."
+      },
+      {
+        "ref": "EP40:E30",
+        "segment_index": 0,
+        "relative_start_ms": 5000,
+        "relative_end_ms": 10600,
+        "type": "camera",
+        "speaker": null,
+        "text": "High-angle wide shot looking down from the balcony across the entire cathedral filled with guests, candles lining the central aisle, and royal guards standing at attention."
+      },
+      {
+        "ref": "EP40:E31",
+        "segment_index": 0,
+        "relative_start_ms": 10600,
+        "relative_end_ms": 16300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot on the balcony as a Royal Guard in red uniform and tall bearskin hat steps up and bows respectfully to the elder nobleman."
+      },
+      {
+        "ref": "EP40:E32",
+        "segment_index": 0,
+        "relative_start_ms": 11800,
+        "relative_end_ms": 13600,
+        "type": "dialogue",
+        "speaker": "ELDER NOBLEMAN",
+        "text": "\"All entrances are covered?\""
+      },
+      {
+        "ref": "EP40:E33",
+        "segment_index": 0,
+        "relative_start_ms": 13700,
+        "relative_end_ms": 15000,
+        "type": "dialogue",
+        "speaker": "ROYAL GUARD",
+        "text": "\"Every one, my Lord.\""
+      },
+      {
+        "ref": "EP40:E34",
+        "segment_index": 0,
+        "relative_start_ms": 15100,
+        "relative_end_ms": 16100,
+        "type": "dialogue",
+        "speaker": "ELDER NOBLEMAN",
+        "text": "\"Good.\""
+      },
+      {
+        "ref": "EP40:E35",
+        "segment_index": 0,
+        "relative_start_ms": 16300,
+        "relative_end_ms": 21300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Over-the-shoulder shot from behind the elder nobleman, his gloved hand resting on the stone balustrade, looking down upon the altar and seated aristocrats."
+      },
+      {
+        "ref": "EP40:E36",
+        "segment_index": 0,
+        "relative_start_ms": 16600,
+        "relative_end_ms": 21000,
+        "type": "dialogue",
+        "speaker": "ELDER NOBLEMAN",
+        "text": "\"By sunset, Ashburgh will have its new Duke and Duchess.\""
+      }
+    ]
+  }
+]

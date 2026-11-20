@@ -1,0 +1,44 @@
+{
+  "candidate_id": "c_ee76ac2c46d18ae1",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP40:E13",
+      "EP40:E15",
+      "EP40:E16"
+    ],
+    "reason": "The opening close-up of a cold, ruthless man looking down at a woman, followed by a curt 'Good.', creates immediate tension, but no stakes are yet clear to a first-time viewer."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP40:E24",
+      "EP40:E25",
+      "EP40:E26",
+      "EP40:E27"
+    ],
+    "reason": "The clip ends with Rupert nervously stressing that everything must go perfectly as the wedding is about to begin, while the Harringtons watch with a knowing smirk. The outcome of the wedding is not shown, so the tension is left open.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Who Juliana is and why the place is unlucky for her",
+      "Which wedding is taking place and who is marrying whom",
+      "Who Rupert is and his relationship to the Harringtons",
+      "The meaning of 'Good.' and what Lady Harrington has done to deserve the remark",
+      "The significance of 'exactly what she deserves' and the reference to 'everything that comes after it'"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The clip builds a cold, menacing and mocking mood through the Harringtons' ruthless expressions, amused laughter and smirk, and Rupert's visible nervousness creates unease."
+  },
+  "weaknesses": [
+    "Several lines reference unexplained people and events, so a first-time viewer cannot tell who the characters are to each other",
+    "The reason for the hostility toward Juliana is never established",
+    "Rupert's role is unclear beyond a label, reducing the impact of his nervousness",
+    "The hook depends on the viewer caring about the Harringtons before any stakes are shown"
+  ],
+  "one_line_why_it_works": "Cold, smug villains gloat in a church as a nervous groom-side figure fears the wedding will go wrong, leaving the outcome unresolved."
+}

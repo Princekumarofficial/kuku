@@ -1,0 +1,135 @@
+{
+  "schema_version": "1.0",
+  "series_id": "series_001",
+  "scope": {
+    "type": "episode",
+    "episode_id": "ep_003"
+  },
+  "promos": [
+    {
+      "candidate_id": "c_86f12414ccaac16c",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 20400,
+          "end_ms": 63500,
+          "episode_id": "ep_003"
+        }
+      ],
+      "duration_ms": 43100,
+      "hook": {
+        "description": "Opens within 0-3000ms with a clear confrontation: a triumphant claim followed immediately by a formidable matriarch stepping in, creating immediate tension for a first-time viewer.",
+        "evidence_refs": [
+          "EP03:E17",
+          "EP03:E18"
+        ]
+      },
+      "cliffhanger": {
+        "description": "The clip ends mid-action with Juliana being forcibly removed and still resisting, with no resolution of her fate or the confrontation shown, so the outcome is unresolved at the final frame.",
+        "evidence_refs": [
+          "EP03:E47",
+          "EP03:E53"
+        ]
+      },
+      "why_it_works": "A rapid escalation from triumphant claim to a public, forceful expulsion of a sympathetic heroine creates immediate emotional stakes and an unresolved ending.",
+      "scores": {
+        "hook": 8.0,
+        "cliffhanger": 8.0,
+        "standalone": 5.0,
+        "emotion": 8.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 7.25
+      },
+      "warnings": [
+        "Opening context about the Lady in Gold Gown and the dispute over possession is unexplained for a first-time viewer",
+        "Relationships among characters are inferred only from dialogue and not clearly established",
+        "The clip relies on the viewer caring about Juliana without knowing her history",
+        "Ending is abrupt mid-action, which may feel truncated rather than deliberately suspenseful",
+        "Spoilers not checked",
+        "Who the Lady in Gold Gown is and why she claims something is 'mine'",
+        "What Juliana's relationship to the Noble Matriarch and her father is",
+        "What the family's injustice or 'choice' refers to",
+        "What is being claimed or taken away at the start",
+        "Why the cathedral is significant beyond being Juliana's mother's church",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 1,
+      "promo_id": "p_001"
+    },
+    {
+      "candidate_id": "c_c6632a6faca9e921",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 43400,
+          "end_ms": 76800,
+          "episode_id": "ep_003"
+        }
+      ],
+      "duration_ms": 33400,
+      "hook": {
+        "description": "The opening shot of the Noble Matriarch's disdain and her line calling Juliana a discarded daughter establish cruelty and conflict within the first 3000ms.",
+        "evidence_refs": [
+          "EP03:E34",
+          "EP03:E35"
+        ]
+      },
+      "cliffhanger": {
+        "description": "The clip ends with the Bearded Stranger still walking toward the altar while the Matriarch demands who he is, so the confrontation is unresolved at the end.",
+        "evidence_refs": [
+          "EP03:E62",
+          "EP03:E63"
+        ]
+      },
+      "why_it_works": "A cruel public humiliation of a sympathetic heroine is interrupted by a mysterious intruder, ending on an open challenge that demands the next moment.",
+      "scores": {
+        "hook": 8.0,
+        "cliffhanger": 8.0,
+        "standalone": 5.0,
+        "emotion": 8.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 7.25
+      },
+      "warnings": [
+        "Stranger's identity and motive are never established within the clip",
+        "Family conflict and father's decision are referenced without context",
+        "Juliana's backstory and relationship to the congregation are unexplained",
+        "Ending relies on a viewer caring about an unknown confrontation",
+        "Spoilers not checked",
+        "Who Lady Juliana is and why she is treated as a discarded daughter",
+        "The meaning of the father's choice of family and what is at stake",
+        "The identity and relevance of The Bearded Stranger",
+        "Why the cathedral ceremony is significant and why guards are present",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 2,
+      "promo_id": "p_002"
+    }
+  ],
+  "construction": {
+    "opportunities": 4,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "PARTIAL_DIALOGUE": 2343,
+      "DURATION_OUT_OF_RANGE": 4894
+    }
+  },
+  "rejected_candidates": [
+    {
+      "candidate_id": "c_79d97ae21e6f3f51",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_86ac2a989212de7c",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    }
+  ]
+}

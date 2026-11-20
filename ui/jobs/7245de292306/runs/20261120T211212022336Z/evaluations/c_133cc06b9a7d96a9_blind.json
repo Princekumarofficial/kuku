@@ -1,0 +1,44 @@
+{
+  "candidate_id": "c_133cc06b9a7d96a9",
+  "hook": {
+    "score_0_10": 5.0,
+    "evidence_refs": [
+      "EP09:E58",
+      "EP09:E59"
+    ],
+    "reason": "The opening starts in a tense argument with a troubled close-up, but the stakes of the 'village talking' line are not established for a first-time viewer."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP09:E81",
+      "EP09:E88"
+    ],
+    "reason": "The clip ends with the Blond Nobleman alone and alarmed after the rumor of a scarred look-alike, and his 'Where?' question goes unanswered. The 'Impossible.' line leaves the matter open, so it is not a resolved intense ending.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Identity and relationship of Alexander, Juliana, and the mother",
+      "The child whose life is at stake and why the village would gossip",
+      "Who the Blond Nobleman is and his connection to the household",
+      "Who The Former Groom is and his role in the rumor",
+      "Who the late Duke is and the significance of his scar",
+      "Who the war veteran is and why his resemblance matters",
+      "What 'Impossible' refers to"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 6.0,
+    "reason": "Protective anxiety, a steadfast refusal, and the Nobleman's shift from smug dismissal to creeping paranoia build a clear emotional arc even without full context."
+  },
+  "weaknesses": [
+    "Opening dialogue refers to unexplained stakes (a child, gossip, the village) with no grounding for a first-time viewer",
+    "Several characters are introduced by title only, weakening identification",
+    "The ending's link between the veteran and the late Duke is only rumor and is not clarified",
+    "'Impossible' has no clear referent within the clip, so its impact depends on inference",
+    "The shift between the two scenes is abrupt and the connection between the couple's conflict and the study scene is not shown"
+  ],
+  "one_line_why_it_works": "A rumor about a scarred look-alike turns the Nobleman's smug dismissal into visible alarm, ending on an unanswered question that holds attention."
+}

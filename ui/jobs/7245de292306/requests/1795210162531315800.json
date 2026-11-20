@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_c7c1ccf7b84bce75 DURATION_MS=40500\nSEGMENT 1 (playback order)\nEP30:E4 0-700 CAMERA: Medium close-up of Rupert standing nervously beside ornate double doors, wearing black gloves and an embroidered dark coat, glancing up with anxiety.\nEP30:E5 0-1100 SOUND: A firm tap of the wooden walking stick halting against the floor.\nEP30:E6 700-6700 CAMERA: Two-shot profile of the Elder Nobleman facing Rupert in the vaulted corridor.\nEP30:E7 2000-6500 ELDER NOBLEMAN: \"You have a rat in your cellar, Rupert. And the servants are beginning to smell it.\"\nEP30:E8 6700-10100 CAMERA: Close-up of Rupert defensive and agitated.\nEP30:E9 6800-10000 RUPERT: \"The Ashcroft girl is locked tight. Nobody knows she is down there.\"\nEP30:E10 10100-19200 CAMERA: Medium close-up of the Elder Nobleman fixing Rupert with a piercing, contemptuous glare.\nEP30:E11 10500-19000 ELDER NOBLEMAN: \"The kitchen maids are whispering. They see the soup bowls returned unwiped. They see your guards outside the lower grates.\"\nEP30:E12 19200-23000 CAMERA: Medium shot of Rupert looking down, nervously pulling at his black leather gloves as dread creeps over his face.\nEP30:E13 19700-22400 RUPERT: \"She knows the Duchess was poisoned.\"\nEP30:E14 23000-25200 CAMERA: Tight close-up on the Elder Nobleman's unyielding eyes narrowing in cold calculation.\nEP30:E15 25200-26600 CAMERA: Tight close-up of Rupert swallows hard, breathless with dread.\nEP30:E16 25300-26500 RUPERT: \"If she speaks...\"\nEP30:E18 26600-28400 ACTION: The Elder Nobleman thrusts the gold knob of his walking stick directly against Rupert's chest, pinning him against the wall.\nEP30:E17 26600-33000 CAMERA: Medium two-shot as the Elder Nobleman lunges forward aggressively, stepping into Rupert's personal space.\nEP30:E19 26800-33000 ELDER NOBLEMAN: \"Then make certain she isn't! A peasant weed, Rupert! You do not store weeds in your cellar, you burn them!\"\nEP30:E20 33000-37000 CAMERA: Low-angle close-up of Rupert gasping softly, intimidated by the cane pressed firmly beneath his cravat.\nEP30:E21 35000-36700 RUPERT: \"What are you suggesting?\"\nEP30:E22 37000-40500 CAMERA: Medium shot as the Elder Nobleman withdraws his cane and turns sharply toward the library doors.\nEP30:E23 38000-40500 ELDER NOBLEMAN: \"We stop hiding the prisoner.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

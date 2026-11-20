@@ -1,0 +1,70 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "opp_001",
+      "episode_id": "ep_001",
+      "concept": "Juliana confronts Gerald at the altar, then begs her silent father to stop the wedding",
+      "hook_refs": [
+        "EP01:E24"
+      ],
+      "ending_refs": [
+        "EP01:E57"
+      ],
+      "context_refs": [
+        "EP01:E27"
+      ],
+      "why_promising": "Opens on a direct question about Gerald holding another woman's hand and builds through the Lady in Gold Gown's claim that he is marrying her to Juliana's desperate plea to her father. The ending is an unanswered appeal, so viewers are left wanting the father's response."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_002",
+      "episode_id": "ep_001",
+      "concept": "Juliana accuses the family of knowing in advance, and the Lady in Gold Gown admits the conspiracy",
+      "hook_refs": [
+        "EP01:E32"
+      ],
+      "ending_refs": [
+        "EP01:E67"
+      ],
+      "context_refs": [
+        "EP01:E47",
+        "EP01:E48"
+      ],
+      "why_promising": "Starts on a sharp accusation and escalates to the open admission of foreknowledge, then the Matriarch's dismissal and Juliana's incredulous reply. The clip ends before any resolution of the family's rejection, which gives a strong mid-episode hook."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_003",
+      "episode_id": "ep_001",
+      "concept": "Gerald coldly announces he changed his mind, and Juliana demands to know why he swore he loved her",
+      "hook_refs": [
+        "EP01:E41"
+      ],
+      "ending_refs": [
+        "EP01:E61"
+      ],
+      "context_refs": [
+        "EP01:E43"
+      ],
+      "why_promising": "A blunt abandonment line opens the clip and is followed by Juliana's betrayed accusation and the Lady in Gold Gown's mocking reply. It closes on the father refusing to look at or speak to his daughter, an unresolved moment of family rejection."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_004",
+      "episode_id": "ep_001",
+      "concept": "Juliana turns to her father for help, is refused, and is then dismissed by the Matriarch in favor of Clarissa",
+      "hook_refs": [
+        "EP01:E53"
+      ],
+      "ending_refs": [
+        "EP01:E73"
+      ],
+      "context_refs": [
+        "EP01:E57",
+        "EP01:E61"
+      ],
+      "why_promising": "Juliana's sudden turn toward her father sets up a visible plea for help that the father refuses. The Matriarch's praise of Clarissa and Juliana's pointed question 'And I am what?' end on an unresolved emotional confrontation."
+    }
+  ]
+}

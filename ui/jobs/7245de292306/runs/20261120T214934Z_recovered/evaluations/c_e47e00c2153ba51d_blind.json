@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c_e47e00c2153ba51d",
+  "hook": {
+    "score_0_10": 5.0,
+    "evidence_refs": [
+      "EP07:E36",
+      "EP07:E37"
+    ],
+    "reason": "The opening shows a heavy-set bearded man marching toward a gate with a bundle of firewood and a push-in on his scarred face, which creates some curiosity, but no conflict is visible in the first three seconds."
+  },
+  "cliffhanger": {
+    "score_0_10": 3.0,
+    "evidence_refs": [
+      "EP07:E50",
+      "EP07:E52"
+    ],
+    "reason": "Gerald's confrontation ends with his retreat and the carriage leaving, so the immediate tension is resolved. Open questions about the relationships remain, but the clip itself closes on a completed action.",
+    "unresolved_at_end": false
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Gerald is and why he is confronting the man at the cottage",
+      "Why the Scarred Bearded Man is menacing and what his relationship to the cottage is",
+      "Who the Aristocratic Woman is and why she is with Gerald",
+      "Why Gerald is frightened and what the earlier situation was",
+      "What the firewood delivery means in the situation"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 6.0,
+    "reason": "The silent glare, Gerald's visible terror and the woman's indignant reaction build a clear tension and dread that pays off in Gerald's retreat."
+  },
+  "weaknesses": [
+    "The viewer lacks any stated stakes, so Gerald's fear reads as unexplained",
+    "The opening firewood delivery is mundane and provides little hook",
+    "The ending is a resolved departure rather than an unresolved cliffhanger",
+    "Characters are identified only by generic labels, which weakens standalone clarity"
+  ],
+  "one_line_why_it_works": "A silent, escalating confrontation in which the arrogant Gerald's dread drives him to flee gives the clip a clear emotional payoff."
+}

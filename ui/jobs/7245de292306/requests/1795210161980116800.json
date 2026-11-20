@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_a1d935791837c211 DURATION_MS=41000\nSEGMENT 1 (playback order)\nEP12:E31 0-2900 CAMERA: Medium two-shot of Clarissa in the foreground, turning slowly to face Juliana.\nEP12:E32 300-2700 CLARISSA: \"I want to see you crawl, sister.\"\nEP12:E33 2900-8700 CAMERA: Medium close-up profile tracking shot of Clarissa pacing slowly as she spins her sadistic tale.\nEP12:E34 3000-8600 CLARISSA: \"My emerald signet ring fell deep into the frozen blackthorn briars at Ashworth Manor. The thorns have grown over it...\"\nEP12:E36 8700-13000 CLARISSA: \"...sharp as steel. The ground is frozen, like pure ice.\"\nEP12:E35 8700-13100 CAMERA: Close-up of Clarissa flexing her gloved fingers theatrically in front of her face.\nEP12:E37 13100-14300 ACTION: Gerald bursts into a loud, mocking laugh beside the stony Constable.\nEP12:E38 13100-17100 CAMERA: Medium two-shot of Clarissa stepping closer to Juliana, peering down into her eyes with a predatory smile.\nEP12:E39 13600-16900 CLARISSA: \"You will retrieve it with your bare hands before the magistrate arrives.\"\nEP12:E41 17100-19400 GERALD: \"A lady's hands will be shredded to ribbons!\"\nEP12:E40 17100-19500 CAMERA: Medium shot of Gerald tapping his whip against his palm and laughing heartily beside the Constable.\nEP12:E42 19500-21500 CAMERA: Medium three-shot of Clarissa stepping behind Juliana, as Alexander watches helplessly with dark fury.\nEP12:E43 19600-21400 CLARISSA: \"Do it, and we withdraw the charges.\"\nEP12:E44 21500-25800 CAMERA: Extreme close-up of Clarissa's mouth leaning directly into Juliana's ear, whispering venomously.\nEP12:E45 21700-25500 CLARISSA: \"Fail, or refuse, and your husband hangs from the gallows.\"\nEP12:E46 25800-30300 CAMERA: Medium close-up of Alexander stepping up beside Juliana, tenderly placing his large hand on her shoulder.\nEP12:E47 25900-27500 ACTION: Alexander rests his scarred hand reassuringly on Juliana's shoulder, leaning in toward her.\nEP12:E48 26100-30100 ALEXANDER: \"Juliana, no. Do not let them hurt you. I can handle the law.\"\nEP12:E49 30300-38100 CAMERA: Close-up of Juliana, her eyes glistening with unshed tears, her hand gripping the fabric over her heart in agony and resolve.\nEP12:E50 30500-32300 ACTION: Juliana clutches the front of her rustic grey dress, her breathing trembling.\nEP12:E51 31600-34500 JULIANA: \"I am not letting them take you.\"\nEP12:E52 37800-39300 ACTION: Juliana turns her head sharply back toward Clarissa, her expression hardening with fierce resolution.\nEP12:E53 38100-41000 CAMERA: Over-the-shoulder shot past Clarissa onto Juliana's determined face, holding on her fierce, defiant stare as the tension peaks.\nEP12:E54 39100-41000 JULIANA: \"Tell me where the garden is.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

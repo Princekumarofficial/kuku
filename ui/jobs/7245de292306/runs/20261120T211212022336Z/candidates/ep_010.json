@@ -1,0 +1,827 @@
+[
+  {
+    "candidate_id": "c_a4e00454dfae405a",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 0,
+        "end_ms": 28000,
+        "episode_id": "ep_010"
+      }
+    ],
+    "duration_ms": 28000,
+    "origin": "opp_1",
+    "clip_events": [
+      {
+        "ref": "EP10:E2",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2200,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana quietly studies the botanical illustrations by firelight, a bundle of fresh dried herbs resting on the table."
+      },
+      {
+        "ref": "EP10:E1",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium profile shot of Juliana sitting at a wooden table beside the glowing fireplace, reading an old herbal medicine book."
+      },
+      {
+        "ref": "EP10:E3",
+        "segment_index": 0,
+        "relative_start_ms": 2100,
+        "relative_end_ms": 3300,
+        "type": "sound",
+        "speaker": null,
+        "text": "A heavy wooden door suddenly creaks and bangs open in the quiet cottage."
+      },
+      {
+        "ref": "EP10:E4",
+        "segment_index": 0,
+        "relative_start_ms": 2200,
+        "relative_end_ms": 3500,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana jerks her head up from the book, startled by the sudden intrusion."
+      },
+      {
+        "ref": "EP10:E5",
+        "segment_index": 0,
+        "relative_start_ms": 2600,
+        "relative_end_ms": 4200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium wide shot framing the doorway as Alexander stands framed in the dark threshold, panting heavily, his hand pressed against his blood-soaked chest."
+      },
+      {
+        "ref": "EP10:E6",
+        "segment_index": 0,
+        "relative_start_ms": 4200,
+        "relative_end_ms": 6800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana rising swiftly from her chair, shock and terror flashing across her face."
+      },
+      {
+        "ref": "EP10:E7",
+        "segment_index": 0,
+        "relative_start_ms": 5100,
+        "relative_end_ms": 6600,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Alexander!\""
+      },
+      {
+        "ref": "EP10:E8",
+        "segment_index": 0,
+        "relative_start_ms": 6800,
+        "relative_end_ms": 9100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander struggling to breathe, clutching his bloodied coat over his chest."
+      },
+      {
+        "ref": "EP10:E9",
+        "segment_index": 0,
+        "relative_start_ms": 7500,
+        "relative_end_ms": 9000,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"It is nothing.\""
+      },
+      {
+        "ref": "EP10:E10",
+        "segment_index": 0,
+        "relative_start_ms": 9100,
+        "relative_end_ms": 11500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana hurriedly stepping toward him across the stone floor."
+      },
+      {
+        "ref": "EP10:E11",
+        "segment_index": 0,
+        "relative_start_ms": 9150,
+        "relative_end_ms": 11450,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"There is blood running down your arm.\""
+      },
+      {
+        "ref": "EP10:E12",
+        "segment_index": 0,
+        "relative_start_ms": 11500,
+        "relative_end_ms": 14200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium profile two-shot as Alexander stands rigid while Juliana confronts him."
+      },
+      {
+        "ref": "EP10:E13",
+        "segment_index": 0,
+        "relative_start_ms": 11900,
+        "relative_end_ms": 14300,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"A cut from the tenant fields.\""
+      },
+      {
+        "ref": "EP10:E14",
+        "segment_index": 0,
+        "relative_start_ms": 14200,
+        "relative_end_ms": 16000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot of the hearth room as Juliana firmly points toward a wooden armchair beside the fire."
+      },
+      {
+        "ref": "EP10:E15",
+        "segment_index": 0,
+        "relative_start_ms": 14500,
+        "relative_end_ms": 16000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Sit down.\""
+      },
+      {
+        "ref": "EP10:E16",
+        "segment_index": 0,
+        "relative_start_ms": 16000,
+        "relative_end_ms": 17800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana's determined, unyielding expression."
+      },
+      {
+        "ref": "EP10:E17",
+        "segment_index": 0,
+        "relative_start_ms": 16200,
+        "relative_end_ms": 17300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Now.\""
+      },
+      {
+        "ref": "EP10:E18",
+        "segment_index": 0,
+        "relative_start_ms": 17800,
+        "relative_end_ms": 20000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Alexander reluctantly lowering his heavy frame onto the chair in front of the fire."
+      },
+      {
+        "ref": "EP10:E19",
+        "segment_index": 0,
+        "relative_start_ms": 20000,
+        "relative_end_ms": 23000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium tracking shot following Juliana as she brings a wooden washbowl, fresh cloth, and an earthen jar of ointment to the foot of his chair."
+      },
+      {
+        "ref": "EP10:E20",
+        "segment_index": 0,
+        "relative_start_ms": 20900,
+        "relative_end_ms": 22900,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I need to see the wound.\""
+      },
+      {
+        "ref": "EP10:E21",
+        "segment_index": 0,
+        "relative_start_ms": 23000,
+        "relative_end_ms": 25200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle close-up of Alexander looking up at her stubbornly."
+      },
+      {
+        "ref": "EP10:E22",
+        "segment_index": 0,
+        "relative_start_ms": 23200,
+        "relative_end_ms": 24900,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"It is only a scratch.\""
+      },
+      {
+        "ref": "EP10:E23",
+        "segment_index": 0,
+        "relative_start_ms": 25200,
+        "relative_end_ms": 28000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana crossing her arms over her chest, eyeing him with quiet defiance."
+      },
+      {
+        "ref": "EP10:E24",
+        "segment_index": 0,
+        "relative_start_ms": 25500,
+        "relative_end_ms": 28000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Then removing your shirt should not trouble you.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_8c64a9d3715abf17",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 31800,
+        "end_ms": 55200,
+        "episode_id": "ep_010"
+      }
+    ],
+    "duration_ms": 23400,
+    "origin": "opp_2",
+    "clip_events": [
+      {
+        "ref": "EP10:E26",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana observing him with guarded anticipation."
+      },
+      {
+        "ref": "EP10:E27",
+        "segment_index": 0,
+        "relative_start_ms": 1400,
+        "relative_end_ms": 4700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up shot of Alexander pulling his dark shirt over his head, revealing his muscular torso crisscrossed with jagged battle scars and fresh bleeding lacerations."
+      },
+      {
+        "ref": "EP10:E28",
+        "segment_index": 0,
+        "relative_start_ms": 4700,
+        "relative_end_ms": 6200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight pan over the scarred, wounded flesh along his chest and ribs."
+      },
+      {
+        "ref": "EP10:E29",
+        "segment_index": 0,
+        "relative_start_ms": 6200,
+        "relative_end_ms": 7400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana's eyes widening in horror and deep pity."
+      },
+      {
+        "ref": "EP10:E30",
+        "segment_index": 0,
+        "relative_start_ms": 6300,
+        "relative_end_ms": 7100,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Dear God.\""
+      },
+      {
+        "ref": "EP10:E31",
+        "segment_index": 0,
+        "relative_start_ms": 7400,
+        "relative_end_ms": 11200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium wide shot as Alexander sinks back into the chair, exhausted, while Juliana slowly kneels before him on the stone floor."
+      },
+      {
+        "ref": "EP10:E32",
+        "segment_index": 0,
+        "relative_start_ms": 11200,
+        "relative_end_ms": 13200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up macro shot of Juliana's trembling fingers hovering tenderly over the raised, jagged scar across Alexander's chest."
+      },
+      {
+        "ref": "EP10:E33",
+        "segment_index": 0,
+        "relative_start_ms": 13200,
+        "relative_end_ms": 15500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana looking up at him, her eyes softened with profound empathy."
+      },
+      {
+        "ref": "EP10:E34",
+        "segment_index": 0,
+        "relative_start_ms": 13500,
+        "relative_end_ms": 15300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You have suffered terribly.\""
+      },
+      {
+        "ref": "EP10:E35",
+        "segment_index": 0,
+        "relative_start_ms": 15500,
+        "relative_end_ms": 17700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander's weathered, scarred face gazing down at her with quiet stoicism."
+      },
+      {
+        "ref": "EP10:E36",
+        "segment_index": 0,
+        "relative_start_ms": 16000,
+        "relative_end_ms": 17200,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"It is over.\""
+      },
+      {
+        "ref": "EP10:E37",
+        "segment_index": 0,
+        "relative_start_ms": 17700,
+        "relative_end_ms": 19700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana dipping a linen cloth into the water bowl."
+      },
+      {
+        "ref": "EP10:E38",
+        "segment_index": 0,
+        "relative_start_ms": 17900,
+        "relative_end_ms": 19500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Your scars disagree.\""
+      },
+      {
+        "ref": "EP10:E39",
+        "segment_index": 0,
+        "relative_start_ms": 19700,
+        "relative_end_ms": 22200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up shot of Juliana carefully dabbing the damp cloth against the bloody cut on Alexander's shoulder."
+      },
+      {
+        "ref": "EP10:E40",
+        "segment_index": 0,
+        "relative_start_ms": 20200,
+        "relative_end_ms": 21500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Does it hurt?\""
+      },
+      {
+        "ref": "EP10:E42",
+        "segment_index": 0,
+        "relative_start_ms": 22200,
+        "relative_end_ms": 23400,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Not much.\""
+      },
+      {
+        "ref": "EP10:E41",
+        "segment_index": 0,
+        "relative_start_ms": 22200,
+        "relative_end_ms": 23400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander trying not to wince under her touch."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_f7387bd1804568f4",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 63000,
+        "end_ms": 94000,
+        "episode_id": "ep_010"
+      }
+    ],
+    "duration_ms": 31000,
+    "origin": "opp_3",
+    "clip_events": [
+      {
+        "ref": "EP10:E47",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 3200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana looking up from his shoulder into his eyes, sensing the intensity of his gaze."
+      },
+      {
+        "ref": "EP10:E48",
+        "segment_index": 0,
+        "relative_start_ms": 900,
+        "relative_end_ms": 3100,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Why do you look at me like that?\""
+      },
+      {
+        "ref": "EP10:E49",
+        "segment_index": 0,
+        "relative_start_ms": 3200,
+        "relative_end_ms": 5800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander, his voice deep and laden with restrained emotion."
+      },
+      {
+        "ref": "EP10:E50",
+        "segment_index": 0,
+        "relative_start_ms": 3500,
+        "relative_end_ms": 5400,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Because you are looking at me.\""
+      },
+      {
+        "ref": "EP10:E51",
+        "segment_index": 0,
+        "relative_start_ms": 5800,
+        "relative_end_ms": 8500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana looking back down at his shoulder to hide her growing fluster, applying the salve carefully."
+      },
+      {
+        "ref": "EP10:E52",
+        "segment_index": 0,
+        "relative_start_ms": 6600,
+        "relative_end_ms": 7900,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Hold still.\""
+      },
+      {
+        "ref": "EP10:E53",
+        "segment_index": 0,
+        "relative_start_ms": 8500,
+        "relative_end_ms": 11500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Alexander leaning closer to her, his breathing heavy."
+      },
+      {
+        "ref": "EP10:E54",
+        "segment_index": 0,
+        "relative_start_ms": 9100,
+        "relative_end_ms": 11200,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"I am holding still.\""
+      },
+      {
+        "ref": "EP10:E55",
+        "segment_index": 0,
+        "relative_start_ms": 11500,
+        "relative_end_ms": 14000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up two-shot of their faces drawing mere inches apart in the warm firelight."
+      },
+      {
+        "ref": "EP10:E56",
+        "segment_index": 0,
+        "relative_start_ms": 13800,
+        "relative_end_ms": 16000,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Perhaps it is your hand.\""
+      },
+      {
+        "ref": "EP10:E57",
+        "segment_index": 0,
+        "relative_start_ms": 16000,
+        "relative_end_ms": 19500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander's large, rough hands reaching up and gently enveloping Juliana's slender hands, bringing them against his bare chest over his racing heart."
+      },
+      {
+        "ref": "EP10:E58",
+        "segment_index": 0,
+        "relative_start_ms": 19500,
+        "relative_end_ms": 23500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up shot of Alexander gazing into Juliana's eyes with raw, unmasked devotion."
+      },
+      {
+        "ref": "EP10:E59",
+        "segment_index": 0,
+        "relative_start_ms": 19600,
+        "relative_end_ms": 22900,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Your touch is the only medicine that has ever eased my pain.\""
+      },
+      {
+        "ref": "EP10:E60",
+        "segment_index": 0,
+        "relative_start_ms": 23500,
+        "relative_end_ms": 31000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up shot holding on Juliana's wide, luminous blue eyes, completely captivated and overwhelmed by his confession, the firelight dancing across their intertwined hands as the scene lingers and fades."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_62a40544c493f242",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 6600,
+        "end_ms": 49000,
+        "episode_id": "ep_010"
+      }
+    ],
+    "duration_ms": 42400,
+    "origin": "opp_4",
+    "clip_events": [
+      {
+        "ref": "EP10:E6",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana rising swiftly from her chair, shock and terror flashing across her face."
+      },
+      {
+        "ref": "EP10:E8",
+        "segment_index": 0,
+        "relative_start_ms": 200,
+        "relative_end_ms": 2500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander struggling to breathe, clutching his bloodied coat over his chest."
+      },
+      {
+        "ref": "EP10:E9",
+        "segment_index": 0,
+        "relative_start_ms": 900,
+        "relative_end_ms": 2400,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"It is nothing.\""
+      },
+      {
+        "ref": "EP10:E10",
+        "segment_index": 0,
+        "relative_start_ms": 2500,
+        "relative_end_ms": 4900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana hurriedly stepping toward him across the stone floor."
+      },
+      {
+        "ref": "EP10:E11",
+        "segment_index": 0,
+        "relative_start_ms": 2550,
+        "relative_end_ms": 4850,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"There is blood running down your arm.\""
+      },
+      {
+        "ref": "EP10:E12",
+        "segment_index": 0,
+        "relative_start_ms": 4900,
+        "relative_end_ms": 7600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium profile two-shot as Alexander stands rigid while Juliana confronts him."
+      },
+      {
+        "ref": "EP10:E13",
+        "segment_index": 0,
+        "relative_start_ms": 5300,
+        "relative_end_ms": 7700,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"A cut from the tenant fields.\""
+      },
+      {
+        "ref": "EP10:E14",
+        "segment_index": 0,
+        "relative_start_ms": 7600,
+        "relative_end_ms": 9400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot of the hearth room as Juliana firmly points toward a wooden armchair beside the fire."
+      },
+      {
+        "ref": "EP10:E15",
+        "segment_index": 0,
+        "relative_start_ms": 7900,
+        "relative_end_ms": 9400,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Sit down.\""
+      },
+      {
+        "ref": "EP10:E16",
+        "segment_index": 0,
+        "relative_start_ms": 9400,
+        "relative_end_ms": 11200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana's determined, unyielding expression."
+      },
+      {
+        "ref": "EP10:E17",
+        "segment_index": 0,
+        "relative_start_ms": 9600,
+        "relative_end_ms": 10700,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Now.\""
+      },
+      {
+        "ref": "EP10:E18",
+        "segment_index": 0,
+        "relative_start_ms": 11200,
+        "relative_end_ms": 13400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Alexander reluctantly lowering his heavy frame onto the chair in front of the fire."
+      },
+      {
+        "ref": "EP10:E19",
+        "segment_index": 0,
+        "relative_start_ms": 13400,
+        "relative_end_ms": 16400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium tracking shot following Juliana as she brings a wooden washbowl, fresh cloth, and an earthen jar of ointment to the foot of his chair."
+      },
+      {
+        "ref": "EP10:E20",
+        "segment_index": 0,
+        "relative_start_ms": 14300,
+        "relative_end_ms": 16300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I need to see the wound.\""
+      },
+      {
+        "ref": "EP10:E21",
+        "segment_index": 0,
+        "relative_start_ms": 16400,
+        "relative_end_ms": 18600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle close-up of Alexander looking up at her stubbornly."
+      },
+      {
+        "ref": "EP10:E22",
+        "segment_index": 0,
+        "relative_start_ms": 16600,
+        "relative_end_ms": 18300,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"It is only a scratch.\""
+      },
+      {
+        "ref": "EP10:E23",
+        "segment_index": 0,
+        "relative_start_ms": 18600,
+        "relative_end_ms": 21400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana crossing her arms over her chest, eyeing him with quiet defiance."
+      },
+      {
+        "ref": "EP10:E24",
+        "segment_index": 0,
+        "relative_start_ms": 18900,
+        "relative_end_ms": 21400,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Then removing your shirt should not trouble you.\""
+      },
+      {
+        "ref": "EP10:E25",
+        "segment_index": 0,
+        "relative_start_ms": 21400,
+        "relative_end_ms": 25200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as Alexander stares at her for a beat before pushing himself up from the chair and shedding his heavy leather coat."
+      },
+      {
+        "ref": "EP10:E26",
+        "segment_index": 0,
+        "relative_start_ms": 25200,
+        "relative_end_ms": 26600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana observing him with guarded anticipation."
+      },
+      {
+        "ref": "EP10:E27",
+        "segment_index": 0,
+        "relative_start_ms": 26600,
+        "relative_end_ms": 29900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up shot of Alexander pulling his dark shirt over his head, revealing his muscular torso crisscrossed with jagged battle scars and fresh bleeding lacerations."
+      },
+      {
+        "ref": "EP10:E28",
+        "segment_index": 0,
+        "relative_start_ms": 29900,
+        "relative_end_ms": 31400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight pan over the scarred, wounded flesh along his chest and ribs."
+      },
+      {
+        "ref": "EP10:E29",
+        "segment_index": 0,
+        "relative_start_ms": 31400,
+        "relative_end_ms": 32600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana's eyes widening in horror and deep pity."
+      },
+      {
+        "ref": "EP10:E30",
+        "segment_index": 0,
+        "relative_start_ms": 31500,
+        "relative_end_ms": 32300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Dear God.\""
+      },
+      {
+        "ref": "EP10:E31",
+        "segment_index": 0,
+        "relative_start_ms": 32600,
+        "relative_end_ms": 36400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium wide shot as Alexander sinks back into the chair, exhausted, while Juliana slowly kneels before him on the stone floor."
+      },
+      {
+        "ref": "EP10:E32",
+        "segment_index": 0,
+        "relative_start_ms": 36400,
+        "relative_end_ms": 38400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up macro shot of Juliana's trembling fingers hovering tenderly over the raised, jagged scar across Alexander's chest."
+      },
+      {
+        "ref": "EP10:E33",
+        "segment_index": 0,
+        "relative_start_ms": 38400,
+        "relative_end_ms": 40700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana looking up at him, her eyes softened with profound empathy."
+      },
+      {
+        "ref": "EP10:E34",
+        "segment_index": 0,
+        "relative_start_ms": 38700,
+        "relative_end_ms": 40500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You have suffered terribly.\""
+      },
+      {
+        "ref": "EP10:E35",
+        "segment_index": 0,
+        "relative_start_ms": 40700,
+        "relative_end_ms": 42400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander's weathered, scarred face gazing down at her with quiet stoicism."
+      },
+      {
+        "ref": "EP10:E36",
+        "segment_index": 0,
+        "relative_start_ms": 41200,
+        "relative_end_ms": 42400,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"It is over.\""
+      }
+    ]
+  }
+]

@@ -1,0 +1,227 @@
+{
+  "episode_id": "ep_005",
+  "summary": "Scene sc_001 (0-110500 ms, cathedral steps, day) shows Lord Ashcroft disowning Juliana, revoking her dowry and inheritance, and Lady Ashcroft seizing and throwing her late mother's ledger into a courtyard puddle; the Mysterious Bearded Man retrieves it and the pair leave through the iron gates. Source coverage is incomplete (warning: sc_001 has gaps that are unavailable), so events between recorded segments are unknown. Only on-screen event text is used as evidence; the supplied metadata (logline and continuity notes) is not treated as on-screen evidence and is not relied on. The speaker addressed as 'Barbara' at EP05:E33 is inferred to be Lady Ashcroft, but this is not confirmed on screen. The Mysterious Bearded Man is never named. The ledger's contents and the significance of the amethyst pendant (EP05:E8) are not shown. Timestamps are integer milliseconds as supplied.",
+  "characters": [
+    {
+      "name": "Juliana Ashcroft",
+      "role": "Protagonist; disowned daughter who defies her father and protects her late mother's ledger"
+    },
+    {
+      "name": "Lord Ashcroft",
+      "role": "Antagonist; father who disowns and strips Juliana of her inheritance"
+    },
+    {
+      "name": "Lady Ashcroft",
+      "role": "Antagonist; stepmother who seizes the ledger and throws it into the courtyard"
+    },
+    {
+      "name": "Clarissa",
+      "role": "Antagonist; family member who mocks Juliana"
+    },
+    {
+      "name": "Gerald",
+      "role": "Antagonist; family member who taunts Juliana and is threatened by the Bearded Man"
+    },
+    {
+      "name": "Mysterious Bearded Man",
+      "role": "Juliana's new husband (unnamed on screen); protective ally who retrieves the ledger and guides her away"
+    }
+  ],
+  "beats": [
+    {
+      "id": "b1",
+      "kind": "Disownment",
+      "event_refs": [
+        "EP05:E4",
+        "EP05:E5",
+        "EP05:E6",
+        "EP05:E7",
+        "EP05:E8",
+        "EP05:E9",
+        "EP05:E10",
+        "EP05:E11",
+        "EP05:E12",
+        "EP05:E13",
+        "EP05:E14",
+        "EP05:E15",
+        "EP05:E16",
+        "EP05:E17"
+      ],
+      "description": "Lord Ashcroft confronts Juliana on the steps, revokes her dowry and inheritance, and declares her dead to the family.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b2",
+      "kind": "Defiance",
+      "event_refs": [
+        "EP05:E18",
+        "EP05:E19",
+        "EP05:E20",
+        "EP05:E21",
+        "EP05:E22"
+      ],
+      "description": "Juliana tearfully questions her father, who answers that she has chosen to become a stranger; she replies that he chose the break long before that day.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b3",
+      "kind": "Confiscation and destruction",
+      "event_refs": [
+        "EP05:E23",
+        "EP05:E24",
+        "EP05:E25",
+        "EP05:E26",
+        "EP05:E27",
+        "EP05:E28",
+        "EP05:E29",
+        "EP05:E30",
+        "EP05:E31",
+        "EP05:E32",
+        "EP05:E33",
+        "EP05:E34"
+      ],
+      "description": "Lady Ashcroft demands the ledger, Juliana protests that it was her mother's, and Lady Ashcroft wrenches it away and flings it into the rain-soaked courtyard, where it lands in a puddle.",
+      "intensity_0_10": 9.0
+    },
+    {
+      "id": "b4",
+      "kind": "Public humiliation",
+      "event_refs": [
+        "EP05:E35",
+        "EP05:E36",
+        "EP05:E37",
+        "EP05:E38"
+      ],
+      "description": "Clarissa and Gerald mock Juliana over the fallen ledger while she looks down in tears.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b5",
+      "kind": "Reclamation and comfort",
+      "event_refs": [
+        "EP05:E39",
+        "EP05:E40",
+        "EP05:E41",
+        "EP05:E42",
+        "EP05:E43",
+        "EP05:E44",
+        "EP05:E45",
+        "EP05:E46",
+        "EP05:E47",
+        "EP05:E48",
+        "EP05:E49",
+        "EP05:E50",
+        "EP05:E51",
+        "EP05:E52",
+        "EP05:E53"
+      ],
+      "description": "Juliana kneels in the mud; the Bearded Man retrieves the ledger, returns it to her, and tells her the family dirtied it rather than destroyed it.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b6",
+      "kind": "Taunt and threat",
+      "event_refs": [
+        "EP05:E54",
+        "EP05:E55",
+        "EP05:E56",
+        "EP05:E57",
+        "EP05:E58",
+        "EP05:E59"
+      ],
+      "description": "Gerald mocks Juliana as a beggar's wife; the Bearded Man answers with a coldly lethal warning and shields her hands on the book.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b7",
+      "kind": "Departure",
+      "event_refs": [
+        "EP05:E60",
+        "EP05:E61",
+        "EP05:E62"
+      ],
+      "description": "The Bearded Man tells Juliana to come, and the couple walk through the iron gates into the rain as the scene fades to black.",
+      "intensity_0_10": 5.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "r1",
+      "event_refs": [
+        "EP05:E14",
+        "EP05:E15"
+      ],
+      "claim": "Lord Ashcroft has revoked Juliana's dowry and inheritance.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "What will Juliana's financial situation be without the Ashcroft inheritance?"
+      ]
+    },
+    {
+      "id": "r2",
+      "event_refs": [
+        "EP05:E17",
+        "EP05:E20"
+      ],
+      "claim": "Lord Ashcroft declares Juliana dead to the Ashcroft family and calls her a stranger.",
+      "spoiler_significance_0_10": 7.0,
+      "creates_questions": [
+        "What led Lord Ashcroft to disown his daughter?"
+      ]
+    },
+    {
+      "id": "r3",
+      "event_refs": [
+        "EP05:E28",
+        "EP05:E50"
+      ],
+      "claim": "The ledger was Juliana's late mother's and is all she has left of her.",
+      "spoiler_significance_0_10": 5.0,
+      "creates_questions": [
+        "What is written in the ledger, and why do the Ashcrofts claim it?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "Why did Lord Ashcroft disown Juliana, and what caused the break he says was long in coming?",
+      "introduced_by": [
+        "EP05:E17",
+        "EP05:E22"
+      ]
+    },
+    {
+      "question": "What is in the brass-bound ledger, and why does Lady Ashcroft claim it belongs to the family?",
+      "introduced_by": [
+        "EP05:E27",
+        "EP05:E28"
+      ]
+    },
+    {
+      "question": "Who is the Mysterious Bearded Man, and what is his background?",
+      "introduced_by": [
+        "EP05:E19",
+        "EP05:E45"
+      ]
+    },
+    {
+      "question": "Is 'Barbara' at EP05:E33 Lady Ashcroft, and what is the relationship between the two women?",
+      "introduced_by": [
+        "EP05:E33"
+      ]
+    },
+    {
+      "question": "What role do Clarissa and Gerald play in the family's conflict with Juliana?",
+      "introduced_by": [
+        "EP05:E36",
+        "EP05:E37"
+      ]
+    },
+    {
+      "question": "What is the significance of the amethyst heirloom pendant Juliana touches?",
+      "introduced_by": [
+        "EP05:E8"
+      ]
+    }
+  ]
+}

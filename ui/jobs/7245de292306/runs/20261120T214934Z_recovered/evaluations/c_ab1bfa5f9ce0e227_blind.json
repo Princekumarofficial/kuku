@@ -1,0 +1,44 @@
+{
+  "candidate_id": "c_ab1bfa5f9ce0e227",
+  "hook": {
+    "score_0_10": 6.5,
+    "evidence_refs": [
+      "EP24:E45",
+      "EP24:E52",
+      "EP24:E69"
+    ],
+    "reason": "The opening starts within 0-3000ms with a tight two-shot of the noblewoman whispering close to Juliana's face (E45), and by 4000ms she thrusts a riding crop into Prudence's face (E52), so the menace is immediate. The final-3000ms defiant line 'I will return. You cannot stop the healer.' (E69) gives a strong closing hook, though the opening is stronger than the ending.](ALT)"
+  },
+  "cliffhanger": {
+    "score_0_10": 6.5,
+    "evidence_refs": [
+      "EP24:E67",
+      "EP24:E68",
+      "EP24:E69"
+    ],
+    "reason": "Juliana's defiant resolve and her turn toward the chamber exit with a building crescendo (E67, E68) and her statement that she will return (E69) leave the clip ending mid-situation. Her plan and the healer's role stay unresolved, but the clip shows no outcome for the confrontation, so it is a moderate unresolved hook rather than a strong one.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who the noblewoman is and her authority over Juliana and Prudence is not established",
+      "Why Juliana is scrubbing ash and why she is pretending to be a maid",
+      "What the remedy journal and antidote vial are for and who needs them",
+      "Who the healer is and why the noblewoman would stop Juliana from reaching them",
+      "What the earlier punishment referenced by 'the same punishment' was"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The clip builds humiliation and dread through Prudence's trembling fear (E50, E55, E56) and the noblewoman's sadistic cruelty (E53, E54, E61). Juliana's controlled defiance (E66, E67) gives a satisfying emotional payoff in the final seconds, though the viewer lacks the personal stakes that would deepen the feeling."
+  },
+  "weaknesses": [
+    "Relationships and power dynamics are unexplained, so the cruelty lands without a clear backstory",
+    "The antidote and healer are referenced without explanation, weakening the final hook for a first-time viewer",
+    "Juliana's disguise motive is implied through dialogue rather than shown clearly",
+    "Some shot descriptions repeat similar scrubbing action, slowing the middle section",
+    "The ending relies on a music crescendo to signal importance that the dialogue does not fully carry"
+  ],
+  "one_line_why_it_works": "A cruel, tense confrontation quickly shifts into Juliana's quiet, defiant resolve, ending on a line that promises a return and leaves the outcome open."
+}

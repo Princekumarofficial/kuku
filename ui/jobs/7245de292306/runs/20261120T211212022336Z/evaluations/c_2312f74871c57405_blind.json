@@ -1,0 +1,39 @@
+{
+  "candidate_id": "c_2312f74871c57405",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP02:E54",
+      "EP02:E55"
+    ],
+    "reason": "The opening close-up on Juliana's defiant smile and the sharp one-word line \"Dignity?\" within the first 3000ms create immediate tension and a question about what comes next."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP02:E70",
+      "EP02:E71"
+    ],
+    "reason": "In the final 3000ms Juliana's line \"I may leave this chapel without a husband...\" is cut off mid-thought, leaving the outcome and her intended continuation unresolved at the end of the clip.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Who Gerald, Clarissa and Juliana are and how they relate",
+      "What the wedding and the broken promise refer to",
+      "What Gerald did before this scene and why he is being rebuked",
+      "What \"another woman\" and the chapel setting signify in the larger story"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Juliana's shift from pain to regal composure, her fierce rebuke of Gerald, and his frozen, stunned reaction carry strong emotional intensity."
+  },
+  "weaknesses": [
+    "Stakes and backstory are not established within the clip, so the viewer must infer the betrayal",
+    "The final line is cut off, which may read as an abrupt cut rather than a deliberate hook",
+    "Gerald's reaction is shown only briefly before the focus shifts to Juliana alone"
+  ],
+  "one_line_why_it_works": "A wronged woman turns a public humiliation into a composed, cutting rebuke that leaves the groom speechless, and the trailing unfinished line keeps the viewer wondering what she will do next."
+}

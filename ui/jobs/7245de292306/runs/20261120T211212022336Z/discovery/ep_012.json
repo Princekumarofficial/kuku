@@ -1,0 +1,61 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "opp_01",
+      "episode_id": "ep_012",
+      "concept": "Juliana refuses the watch accusation, then Clarissa escalates into the frozen blackthorn retrieval ultimatum",
+      "hook_refs": [
+        "EP12:E5"
+      ],
+      "ending_refs": [
+        "EP12:E39"
+      ],
+      "context_refs": [
+        "EP12:E7",
+        "EP12:E9",
+        "EP12:E11",
+        "EP12:E34"
+      ],
+      "why_promising": "Opens on Juliana's furious denial in the first seconds and builds through the Constable's and Gerald's accusations to Clarissa's demand that Juliana retrieve the ring by hand before the magistrate arrives. The ending is an open threat with no resolution, and the clip stays within the 54.9-second span from E5 to E39."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_02",
+      "episode_id": "ep_012",
+      "concept": "Juliana is told she will be hanged-threat hook into Clarissa's sadistic ring ultimatum",
+      "hook_refs": [
+        "EP12:E34"
+      ],
+      "ending_refs": [
+        "EP12:E54"
+      ],
+      "context_refs": [
+        "EP12:E39",
+        "EP12:E43",
+        "EP12:E45",
+        "EP12:E48"
+      ],
+      "why_promising": "Opens directly on Clarissa's claim that her emerald signet ring fell into the frozen blackthorn, giving a clear hook. The clip runs through the withdraw-charges offer, the whispered gallows threat, and Alexander's plea, and ends on Juliana's unanswered question 'Tell me where the garden is.' The span from E34 to E54 is 38 seconds. The meaning of 'the garden' stays open, which supports the unresolved ending."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_03",
+      "episode_id": "ep_012",
+      "concept": "Juliana's sister reveal is staged through Clarissa's taunt and the ultimatum, ending on the gallows threat",
+      "hook_refs": [
+        "EP12:E19"
+      ],
+      "ending_refs": [
+        "EP12:E45"
+      ],
+      "context_refs": [
+        "EP12:E22",
+        "EP12:E26",
+        "EP12:E34",
+        "EP12:E43"
+      ],
+      "why_promising": "Opens on Clarissa's taunting 'Oh, dear sister...', which raises the sibling question right away. The clip moves through Clarissa's bargain to the whispered threat that Alexander will hang if Juliana fails or refuses. The span from E19 to E45 is 41.1 seconds, and the ending is an unresolved threat that comes before Juliana's defiant response."
+    }
+  ]
+}

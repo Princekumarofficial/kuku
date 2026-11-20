@@ -1,0 +1,200 @@
+{
+  "stage": "candidate_discovery",
+  "system": "Find diverse promo opportunities, preferably 8-12 if supported. Return hook and unresolved ending anchors, not timestamps. A continuous clip must last 20-60 seconds with its hook in the first 3 seconds, understandable without prior context. Check the anchor timestamps: ending.end_ms minus hook.start_ms should be 20,000-60,000ms. Do not propose isolated 2-10 second moments. Both anchors and required context must fit in one supplied coverage interval. Ending anchors should precede resolution. Context refs must occur within the clip. Empty opportunities are valid when evidence is insufficient.",
+  "user": "EP=ep_028; timestamps are integer milliseconds\nSOURCE_SHA256=c16039c9150b946989645a76291309ef7889e05e14a38451ad10630ef7f90d21\nMETADATA ONLY (not on-screen evidence): {'logline': \"Rupert and Catherine frame Juliana for poisoning the Duchess despite the bedridden matriarch's protests, uncovering Juliana's true noble identity and her mother's herbarium before ordering her to the castle dungeons.\", 'continuity_notes': 'Picks up directly from Episode 27 as Rupert orders the guard to seize Juliana, ignoring the waking Duchess.'}\nSOURCE WARNINGS=[]\nSCENE sc_001 0-138500 INT. DUCHESS'S BEDCHAMBER – DAY\nEP28:E1 0-2300 CAMERA: Medium shot as the guard drags Juliana toward the doorway, wrestling her backward.\nEP28:E2 0-2100 ACTION: Juliana struggles against the guard's grip; the leather-bound herbarium slips from her apron pocket and falls to the stone floor.\nEP28:E3 1800-3200 SOUND: Heavy thud of the leather journal hitting the polished floor.\nEP28:E4 2300-4700 CAMERA: Low-angle close-up of the leather-bound herbarium on the floor as Catherine's silk slipper steps down hard upon its embossed cover.\nEP28:E5 3200-4600 ACTION: Catherine plants her embroidered shoe deliberately atop the fallen book.\nEP28:E6 4700-10000 CAMERA: Medium two-shot tracking Catherine as she strides gracefully across the chamber toward Juliana, Rupert standing stoically behind her near the bed.\nEP28:E7 4900-6300 CATHERINE [Mocking, Cruel]: \"Look at her, Rupert.\"\nEP28:E8 6600-8100 CATHERINE [Scoffing]: \"Soot on her face...\"\nEP28:E9 8200-12600 CAMERA: Over-the-shoulder shot from behind Catherine as she faces Juliana, who is pinned in the doorway by the guard.\nEP28:E10 8400-10000 CATHERINE [Accusing, Smug]: \"...herbs in her pockets...\"\nEP28:E11 10200-12300 CATHERINE [Cold]: \"...a secret medicine in her hand.\"\nEP28:E12 12600-15200 CAMERA: Tight close-up of Catherine's smiling face, her eyes gleaming with vindictive pleasure.\nEP28:E13 12700-15000 CATHERINE [Venomous]: \"She looks exactly like a poisoner.\"\nEP28:E14 15200-18500 CAMERA: Close-up of Juliana glaring back in fierce indignation, breathing heavily as she resists the guard's arm across her shoulder.\nEP28:E15 15300-18400 JULIANA [Furious, Defiant]: \"I did not poison her! Look at her eyes, the fever has broken!\"\nEP28:E16 18500-22800 CAMERA: Medium full shot of Rupert standing beside the four-poster bed, calmly pulling on his black leather gloves.\nEP28:E17 18900-20300 BLOND NOBLEMAN [Sardonic, Chilling]: \"A clever story, girl.\"\nEP28:E18 20400-22700 BLOND NOBLEMAN [Threatening]: \"But the guards know how to extract the truth.\"\nEP28:E19 22800-26700 CAMERA: Medium close-up of the Dowager Duchess stirring against her pillows, lifting her trembling head with visible effort.\nEP28:E20 24800-26500 DOWAGER DUCHESS [Weak, Straining]: \"Rupert...\"\nEP28:E21 26700-28400 CAMERA: Medium shot of Rupert pausing mid-stride as he hears his mother's voice, slowly turning his head toward the bed.\nEP28:E22 26700-28200 DOWAGER DUCHESS [O.S.) (Commanding]: \"Stop this!\"\nEP28:E23 28400-32800 CAMERA: Wide shot of the bedchamber framed through the bed curtains as the Duchess props herself up on one elbow and points an accusing finger.\nEP28:E24 28800-30300 DOWAGER DUCHESS [Desperate, Firm]: \"She is innocent.\"\nEP28:E25 30800-32400 DOWAGER DUCHESS [Adamant]: \"She saved me!\"\nEP28:E26 32800-34900 CAMERA: Close-up of Juliana, tears of relief welling in her eyes.\nEP28:E27 33200-34600 JULIANA [Breathless, Relieved]: \"Your Grace...\"\nEP28:E28 34900-37700 CAMERA: Close-up of the Duchess clutching at her nightgown, her face twisted in mounting fury and horror.\nEP28:E29 35000-37400 DOWAGER DUCHESS [Trembling, Shouting]: \"I know what happened to me!\"\nEP28:E30 37700-43000 CAMERA: Medium low-angle shot past the Duchess pointing directly at Rupert, who stands rigid and expressionless.\nEP28:E31 38200-40000 DOWAGER DUCHESS [Fierce, Condemning]: \"I was poisoned!\"\nEP28:E32 40300-42200 DOWAGER DUCHESS [Accusing]: \"And you... you knew!\"\nEP28:E33 43000-47400 CAMERA: Medium shot of the Duchess lunging forward from the pillows, gasping for breath as she points toward Catherine.\nEP28:E34 43600-45300 DOWAGER DUCHESS [Choking, Weakening]: \"Catherine knew!\"\nEP28:E35 45600-47000 DOWAGER DUCHESS [Gasping]: \"They have been—\"\nEP28:E36 46800-48000 ACTION: The Duchess collapses back onto the pillows, coughing violently and clutching her chest.\nEP28:E37 47400-52200 CAMERA: Wide shot as Juliana lunges across the room toward the bed, but the armed guard seizes her from behind and drags her back.\nEP28:E38 48200-49700 JULIANA [Panicked, Screaming]: \"Let me help her!\"\nEP28:E39 49500-52100 JULIANA [Desperate]: \"She's still weak, you cannot leave her like this!\"\nEP28:E40 52200-56800 CAMERA: Medium close-up of Rupert smoothing down his black leather gloves, a chilling smile forming on his lips.\nEP28:E41 52800-53600 BLOND NOBLEMAN [Smooth, Feigning Concern]: \"You see?\"\nEP28:E42 54000-56600 BLOND NOBLEMAN [Sinister]: \"The poison has clearly damaged her mind.\"\nEP28:E43 56800-61300 CAMERA: Over-the-shoulder shot of Rupert leaning menacingly over the gasping Duchess in bed.\nEP28:E44 57000-58700 DOWAGER DUCHESS [Hoarse, Straining]: \"I am not delusional!\"\nEP28:E45 58600-60000 BLOND NOBLEMAN [Condescending, Whispering]: \"Of course you are not.\"\nEP28:E46 60100-61200 BLOND NOBLEMAN [Dismissive]: \"You are merely confused.\"\nEP28:E47 61300-66800 CAMERA: Medium profile tracking shot of Catherine walking deliberately toward Juliana, speaking with airy cynicism.\nEP28:E48 61600-64800 CATHERINE [Amused, Mocking]: \"How convenient that the only person who can prove the poison exists...\"\nEP28:E49 64900-66800 CATHERINE [Smug]: \"...is the maid who claims to have discovered it.\"\nEP28:E50 66800-70500 CAMERA: Low-angle medium shot of Rupert turning sharply toward the guard, his eyes icy and authoritative.\nEP28:E51 67200-70200 BLOND NOBLEMAN [Commanding, Resolute]: \"Take her away before she poisons the rest of this house.\"\nEP28:E52 70500-72000 CAMERA: Tight close-up of Catherine's gloved hands grabbing the delicate chain around Juliana's neck.\nEP28:E53 70800-72000 ACTION: Catherine ruthlessly yanks the silver locket off Juliana's neck.\nEP28:E54 71200-72000 JULIANA [Crying Out]: \"No!\"\nEP28:E55 72000-75300 CAMERA: Medium close-up of Catherine holding up the oval silver and amethyst pendant, inspecting it with disdain.\nEP28:E56 72200-75100 CATHERINE [Insolent, Sneering]: \"Where did a gutter rat like you find a silver locket?\"\nEP28:E57 75300-78900 CAMERA: Close-up of Juliana crying out in agony, writhing in the guard's iron grip.\nEP28:E58 75400-76400 JULIANA [Screaming, Weeping]: \"Give it back!\"\nEP28:E59 76800-78600 JULIANA [Anguished]: \"It belonged to my mother!\"\nEP28:E60 78900-82300 CAMERA: Low-angle shot tracking the silver locket as Catherine casually flings it across the stone corridor floor.\nEP28:E61 79000-81900 CATHERINE [O.S.) (Cruel]: \"A witch has no need for family heirlooms in the gallows.\"\nEP28:E62 81000-82400 SOUND: Metallic clatter as the silver pendant bounces against the wooden baseboard.\nEP28:E63 82300-86500 CAMERA: Medium shot of Juliana being dragged further into the doorway, staring helplessly toward her discarded locket.\nEP28:E64 82500-84400 JULIANA [Heartbroken]: \"My mother's locket!\"\nEP28:E65 86500-91000 CAMERA: Medium shot of Catherine walking toward the fallen leather-bound book and kneeling gracefully to pick it up.\nEP28:E66 88000-91000 ACTION: Catherine lifts the heavy herbarium, dusting off the cover before opening its aged parchment pages.\nEP28:E67 91000-93800 CAMERA: Tight close-up of Catherine reading the elegant cursive script inside the front cover.\nEP28:E68 91200-92800 CATHERINE [Intrigued, Murmuring]: \"Juliana...\"\nEP28:E69 93800-95000 CAMERA: Extreme close-up on the handwritten inscription: 'Juliana Ashcroft'.\nEP28:E70 95000-97400 CAMERA: Medium shot of Juliana freezing in the doorway as she sees Catherine opening her mother's book.\nEP28:E71 95200-97000 ACTION: Juliana gasps in horror, realizing her secret identity has been laid bare.\nEP28:E72 97400-101200 CAMERA: Close-up of Catherine raising her gaze slowly from the book, a wicked, triumphant grin spreading across her face.\nEP28:E73 98200-100800 CATHERINE [Triumphant, Venomous]: \"Lady Juliana Ashcroft.\"\nEP28:E74 101200-107800 CAMERA: Medium two-shot as Catherine steps deliberately up to Juliana, circling her like a predator savoring its prey.\nEP28:E75 101500-103700 CATHERINE [Mocking, Reveling]: \"I knew I had seen those eyes before.\"\nEP28:E76 104200-105600 CATHERINE [Cruel]: \"The disgraced daughter...\"\nEP28:E77 105600-107800 CATHERINE [Scornful]: \"...the girl thrown out of her own family home.\"\nEP28:E78 107800-113000 CAMERA: Close-up two-shot of Catherine leaning inches from Juliana's face, whispering her humiliating past.\nEP28:E79 108100-111000 CATHERINE [Taunting]: \"The bride who married a penniless war veteran...\"\nEP28:E80 111100-113000 CATHERINE [Vicious]: \"...because no respectable man would have her.\"\nEP28:E81 113000-116400 CAMERA: Tight close-up of Juliana's eyes blazing with explosive fury and defensive loyalty.\nEP28:E82 113300-115800 JULIANA [Screaming, Wildly Defiant]: \"Do not speak about my husband!\"\nEP28:E83 116400-122000 CAMERA: Medium two-shot as Catherine throws her head back in derisive laughter, brandishing the herbarium book.\nEP28:E84 116400-119100 CATHERINE [Laughing, Scornful]: \"And look at you now. Scrubbing fireplaces in my house.\"\nEP28:E85 119200-121800 CATHERINE [Mocking]: \"What a magnificent fall, Lady Juliana.\"\nEP28:E86 122000-124900 CAMERA: Medium shot of Rupert gesturing toward the exit with an outstretched arm.\nEP28:E87 122000-124700 BLOND NOBLEMAN [Harsh, Authoritative]: \"Drag her to the wet cells beneath the south tower.\"\nEP28:E88 124900-128800 CAMERA: Close-up of Catherine fanning open the illustrated botanical pages of the herbarium with gloved fingers.\nEP28:E89 125000-125700 CATHERINE [Smug]: \"And this?\"\nEP28:E90 125900-128700 CATHERINE [Gleeful]: \"This book of weeds will hang her before the magistrate.\"\nEP28:E91 128800-131200 CAMERA: Medium shot of Juliana thrashing frantically against the guard's grip, her arm reaching out toward the book.\nEP28:E92 129100-131000 JULIANA [Screaming, Desperate]: \"That book is my mother's life's work!\"\nEP28:E93 131200-136800 CAMERA: Medium close-up of Catherine smiling coldly, clutching the closed book against her bodice.\nEP28:E94 131400-134200 CATHERINE [Icy, Threatening]: \"Then perhaps you can explain every page to the magistrate...\"\nEP28:E95 134600-136700 CATHERINE [Fateful, Vengeful]: \"...before he sends you to the gallows.\"\nEP28:E96 136800-138500 CAMERA: Extreme close-up of Juliana's wide, trembling eyes as the guard wrenches her backward into the dark hallway, cutting sharply to black.\nAVAILABLE COVERAGE (milliseconds)=[{\"start_ms\": 0, \"end_ms\": 138500}]\nEPISODE ANALYSIS={\"episode_id\":\"ep_028\",\"summary\":\"Episode ep_028 (EP28) shows Juliana seized in the Duchess's bedchamber after a herbarium falls from her pocket and is stepped on by Catherine. Catherine accuses her of poisoning. The Dowager Duchess rises weakly, declares Juliana innocent and says she was poisoned and that Rupert and Catherine knew. The Duchess then collapses, and Juliana is dragged away. Catherine seizes Juliana's locket, reads the herbarium's inscription 'Juliana Ashcroft', exposes Juliana's past, and orders her taken to the wet cells beneath the south tower. Uncertainty: the on-screen evidence never shows the poisoning, the poison, or any antidote. Whether Juliana is guilty is never shown. The Blond Nobleman is never named on screen; his identity as Rupert is inferred from the Duchess's address to Rupert and the scene staging, not stated directly. The guard is unnamed. The metadata logline and continuity note (including the claim that Episode 27 precedes this and the mention of Rupert's order to seize Juliana) are not on-screen evidence and were not used for any event claims. Event timestamps are taken from the supplied scene record and the scene runs 0-138500 ms.\",\"characters\":[{\"name\":\"Juliana\",\"role\":\"Accused maid; on screen revealed as Lady Juliana Ashcroft, daughter of a disgraced family, and claims to have discovered the poison\"},{\"name\":\"Catherine\",\"role\":\"Antagonist who frames Juliana, seizes her locket and herbarium, and reveals her identity\"},{\"name\":\"Rupert\",\"role\":\"Nobleman, likely the Blond Nobleman (identity inferred, not directly named on screen); son of the Dowager Duchess; orders Juliana seized and dragged away\"},{\"name\":\"Dowager Duchess\",\"role\":\"Bedridden matriarch who defends Juliana, claims she was poisoned, and accuses Rupert and Catherine of knowing\"},{\"name\":\"Guard\",\"role\":\"Unnamed armed guard who restrains Juliana\"}],\"beats\":[{\"id\":\"b1\",\"kind\":\"escalation\",\"event_refs\":[\"EP28:E1\",\"EP28:E2\",\"EP28:E3\",\"EP28:E4\",\"EP28:E5\"],\"description\":\"Guard drags Juliana toward the doorway; the herbarium falls from her pocket and Catherine deliberately steps on it.\",\"intensity_0_10\":6.0},{\"id\":\"b2\",\"kind\":\"accusation\",\"event_refs\":[\"EP28:E6\",\"EP28:E7\",\"EP28:E8\",\"EP28:E9\",\"EP28:E10\",\"EP28:E11\",\"EP28:E12\",\"EP28:E13\"],\"description\":\"Catherine mocks Juliana and accuses her of being a poisoner with herbs and a secret medicine.\",\"intensity_0_10\":6.0},{\"id\":\"b3\",\"kind\":\"defiance\",\"event_refs\":[\"EP28:E14\",\"EP28:E15\",\"EP28:E16\",\"EP28:E17\",\"EP28:E18\"],\"description\":\"Juliana denies poisoning the Duchess; the Blond Nobleman threatens to extract the truth.\",\"intensity_0_10\":6.0},{\"id\":\"b4\",\"kind\":\"reversal\",\"event_refs\":[\"EP28:E19\",\"EP28:E20\",\"EP28:E21\",\"EP28:E22\",\"EP28:E23\",\"EP28:E24\",\"EP28:E25\"],\"description\":\"The Dowager Duchess wakes, calls Rupert to stop, and declares Juliana innocent and that she saved her.\",\"intensity_0_10\":8.0},{\"id\":\"b5\",\"kind\":\"revelation\",\"event_refs\":[\"EP28:E28\",\"EP28:E29\",\"EP28:E30\",\"EP28:E31\",\"EP28:E32\",\"EP28:E33\",\"EP28:E34\"],\"description\":\"The Duchess claims she was poisoned and accuses Rupert and Catherine of knowing.\",\"intensity_0_10\":9.0},{\"id\":\"b6\",\"kind\":\"collapse\",\"event_refs\":[\"EP28:E35\",\"EP28:E36\",\"EP28:E37\",\"EP28:E38\",\"EP28:E39\"],\"description\":\"The Duchess collapses and coughs violently; Juliana tries to reach her but is restrained.\",\"intensity_0_10\":8.0},{\"id\":\"b7\",\"kind\":\"dismissal\",\"event_refs\":[\"EP28:E40\",\"EP28:E41\",\"EP28:E42\",\"EP28:E43\",\"EP28:E44\",\"EP28:E45\",\"EP28:E46\"],\"description\":\"Rupert and the Blond Nobleman dismiss the Duchess as mentally damaged by poison.\",\"intensity_0_10\":7.0},{\"id\":\"b8\",\"kind\":\"order\",\"event_refs\":[\"EP28:E47\",\"EP28:E48\",\"EP28:E49\",\"EP28:E50\",\"EP28:E51\"],\"description\":\"Catherine and Rupert move to remove Juliana, ordering her taken away before she poisons the house.\",\"intensity_0_10\":7.0},{\"id\":\"b9\",\"kind\":\"humiliation\",\"event_refs\":[\"EP28:E52\",\"EP28:E53\",\"EP28:E54\",\"EP28:E55\",\"EP28:E56\",\"EP28:E57\",\"EP28:E58\",\"EP28:E59\",\"EP28:E60\",\"EP28:E61\",\"EP28:E62\",\"EP28:E63\",\"EP28:E64\"],\"description\":\"Catherine rips the silver locket from Juliana's neck and flings it across the corridor floor while Juliana cries out.\",\"intensity_0_10\":8.0},{\"id\":\"b10\",\"kind\":\"exposure\",\"event_refs\":[\"EP28:E65\",\"EP28:E66\",\"EP28:E67\",\"EP28:E68\",\"EP28:E69\",\"EP28:E70\",\"EP28:E71\",\"EP28:E72\",\"EP28:E73\"],\"description\":\"Catherine picks up the herbarium, reads the inscription 'Juliana Ashcroft', and names her Lady Juliana Ashcroft.\",\"intensity_0_10\":9.0},{\"id\":\"b11\",\"kind\":\"humiliation\",\"event_refs\":[\"EP28:E74\",\"EP28:E75\",\"EP28:E76\",\"EP28:E77\",\"EP28:E78\",\"EP28:E79\",\"EP28:E80\",\"EP28:E81\",\"EP28:E82\",\"EP28:E83\",\"EP28:E84\",\"EP28:E85\"],\"description\":\"Catherine taunts Juliana about her disgraced past and marriage to a penniless war veteran; Juliana protests.\",\"intensity_0_10\":8.0},{\"id\":\"b12\",\"kind\":\"cliffhanger\",\"event_refs\":[\"EP28:E86\",\"EP28:E87\",\"EP28:E88\",\"EP28:E89\",\"EP28:E90\",\"EP28:E91\",\"EP28:E92\",\"EP28:E93\",\"EP28:E94\",\"EP28:E95\",\"EP28:E96\"],\"description\":\"Juliana is ordered to the wet cells beneath the south tower; Catherine holds the herbarium threatening the gallows, and the scene cuts to black.\",\"intensity_0_10\":9.0}],\"revelations\":[{\"id\":\"r1\",\"event_refs\":[\"EP28:E33\",\"EP28:E34\",\"EP28:E35\"],\"claim\":\"The Dowager Duchess claims Catherine knew about the poisoning.\",\"spoiler_significance_0_10\":6.0,\"creates_questions\":[\"Did Catherine know about and cause the poisoning?\",\"What was Duchess about to say with 'They have been—'?\"]},{\"id\":\"r2\",\"event_refs\":[\"EP28:E29\",\"EP28:E30\",\"EP28:E31\",\"EP28:E32\"],\"claim\":\"The Dowager Duchess states she was poisoned and that Rupert knew.\",\"spoiler_significance_0_10\":8.0,\"creates_questions\":[\"Who poisoned the Duchess?\",\"Did Rupert knowingly allow or cause the poisoning?\"]},{\"id\":\"r3\",\"event_refs\":[\"EP28:E69\",\"EP28:E73\"],\"claim\":\"The herbarium inscription reads 'Juliana Ashcroft' and Catherine names her Lady Juliana Ashcroft.\",\"spoiler_significance_0_10\":8.0,\"creates_questions\":[\"What is the Ashcroft family's history and why was Juliana disgraced?\",\"Did Juliana's mother write the herbarium?\"]},{\"id\":\"r4\",\"event_refs\":[\"EP28:E79\",\"EP28:E80\"],\"claim\":\"Catherine claims Juliana married a penniless war veteran and was thrown out of her family home.\",\"spoiler_significance_0_10\":5.0,\"creates_questions\":[\"Who is Juliana's husband and where is he?\",\"Is Catherine's account of Juliana's disgrace accurate?\"]}],\"unresolved_questions\":[{\"question\":\"Was the Duchess poisoned, and if so by whom and with what substance?\",\"introduced_by\":[\"EP28:E31\",\"EP28:E34\"]},{\"question\":\"Did Rupert know about the poisoning, and what is his role?\",\"introduced_by\":[\"EP28:E32\",\"EP28:E30\"]},{\"question\":\"What was Catherine about to reveal with 'They have been—'?\",\"introduced_by\":[\"EP28:E35\"]},{\"question\":\"Does Juliana have a genuine medicinal role, or are the herbs and medicine evidence of guilt?\",\"introduced_by\":[\"EP28:E10\",\"EP28:E11\",\"EP28:E15\"]},{\"question\":\"Will the Duchess survive her collapse?\",\"introduced_by\":[\"EP28:E36\"]},{\"question\":\"Who is Juliana's husband, and what happened to her family after her disgrace?\",\"introduced_by\":[\"EP28:E79\",\"EP28:E82\"]},{\"question\":\"Will the herbarium and locket be recovered, and what will the magistrate do with the herbarium's contents?\",\"introduced_by\":[\"EP28:E90\",\"EP28:E94\",\"EP28:E95\"]}]}\nSERIES CONTEXT={\"series_id\":\"series_001\",\"premise\":\"Lady Juliana is publicly jilted at the altar when her fiance Gerald chooses her sister Clarissa, and her family rejects her. She marries a scarred, unnamed Bearded Man (later revealed on screen as Alexander, a presumed-dead soldier and Duke), and the couple is repeatedly targeted by antagonists. Juliana uses her late mother's herbal knowledge to heal the sick, which draws accusations of witchcraft and poisoning, while Alexander's return and claim to his ducal title set up a confrontation with the conspirators who hid his survival.\",\"arcs\":[{\"id\":\"arc_jilting_and_family_rejection\",\"description\":\"Juliana is jilted at the altar by Gerald, humiliated by her sister Clarissa and disowned by her family, which sets off the series' central betrayal.\",\"beat_refs\":[{\"episode_id\":\"ep_001\",\"beat_id\":\"B02\"},{\"episode_id\":\"ep_001\",\"beat_id\":\"B03\"},{\"episode_id\":\"ep_001\",\"beat_id\":\"B09\"},{\"episode_id\":\"ep_001\",\"beat_id\":\"B10\"},{\"episode_id\":\"ep_002\",\"beat_id\":\"b01\"},{\"episode_id\":\"ep_002\",\"beat_id\":\"b05\"},{\"episode_id\":\"ep_003\",\"beat_id\":\"b3\"},{\"episode_id\":\"ep_004\",\"beat_id\":\"B11\"}]},{\"id\":\"arc_exile_and_marriage_to_the_bearded_man\",\"description\":\"After the rejection, the unnamed Bearded Man intervenes, offers Juliana a ring and a vow, and the couple leaves the family behind to live in hardship in a cottage.\",\"beat_refs\":[{\"episode_id\":\"ep_003\",\"beat_id\":\"b9\"},{\"episode_id\":\"ep_004\",\"beat_id\":\"B8\"},{\"episode_id\":\"ep_004\",\"beat_id\":\"B9\"},{\"episode_id\":\"ep_005\",\"beat_id\":\"b1\"},{\"episode_id\":\"ep_005\",\"beat_id\":\"b3\"},{\"episode_id\":\"ep_006\",\"beat_id\":\"b2\"},{\"episode_id\":\"ep_006\",\"beat_id\":\"b8\"}]},{\"id\":\"arc_healing_and_poisoning_conspiracy\",\"description\":\"Juliana's herbal healing draws her into the household of the ailing Dowager Duchess, where she uncovers evidence of arsenic poisoning and is pulled into a dangerous conflict with Catherine and Rupert.\",\"beat_refs\":[{\"episode_id\":\"ep_009\",\"beat_id\":\"b02\"},{\"episode_id\":\"ep_022\",\"beat_id\":\"B6\"},{\"episode_id\":\"ep_023\",\"beat_id\":\"beat_2\"},{\"episode_id\":\"ep_023\",\"beat_id\":\"beat_6\"},{\"episode_id\":\"ep_024\",\"beat_id\":\"B7\"},{\"episode_id\":\"ep_025\",\"beat_id\":\"b5\"},{\"episode_id\":\"ep_026\",\"beat_id\":\"b6\"},{\"episode_id\":\"ep_028\",\"beat_id\":\"b4\"}]},{\"id\":\"arc_frame_up_and_imprisonment\",\"description\":\"Juliana and Alexander are framed with a stolen watch and with witchcraft and poisoning charges, leading to Juliana's arrest, torture and public trial.\",\"beat_refs\":[{\"episode_id\":\"ep_011\",\"beat_id\":\"b6\"},{\"episode_id\":\"ep_012\",\"beat_id\":\"B6\"},{\"episode_id\":\"ep_029\",\"beat_id\":\"b07\"},{\"episode_id\":\"ep_031\",\"beat_id\":\"b9\"},{\"episode_id\":\"ep_034\",\"beat_id\":\"B9\"}]},{\"id\":\"arc_alexander_return_and_reclamation\",\"description\":\"Alexander's survival is revealed after an ambush he was believed to have died in, and he moves to expose the conspirators who hid him, reclaim his title and rescue Juliana before her execution.\",\"beat_refs\":[{\"episode_id\":\"ep_035\",\"beat_id\":\"b7\"},{\"episode_id\":\"ep_036\",\"beat_id\":\"b8\"},{\"episode_id\":\"ep_039\",\"beat_id\":\"B5\"},{\"episode_id\":\"ep_042\",\"beat_id\":\"b11\"},{\"episode_id\":\"ep_045\",\"beat_id\":\"B6\"},{\"episode_id\":\"ep_046\",\"beat_id\":\"B2\"}]}],\"key_revelations\":[{\"episode_id\":\"ep_001\",\"revelation_id\":\"R01\",\"prerequisite_context\":[\"Gerald is holding the hand of the Lady in Gold Gown at the altar\",\"The Lady in Gold Gown states that Gerald is marrying her\"]},{\"episode_id\":\"ep_001\",\"revelation_id\":\"R02\",\"prerequisite_context\":[\"The Lady in Gold Gown knew of the betrayal in advance\",\"She says Gerald was never going to marry Juliana\"]},{\"episode_id\":\"ep_004\",\"revelation_id\":\"R4\",\"prerequisite_context\":[\"The priest pronounces the couple husband and wife in an off-screen voice\",\"The priest had earlier hesitated before proceeding\"]},{\"episode_id\":\"ep_011\",\"revelation_id\":\"r1\",\"prerequisite_context\":[\"Gerald accuses Alexander of stealing his gold pocket watch\",\"The Constable finds a gold pocket watch inside Alexander's coat\"]},{\"episode_id\":\"ep_023\",\"revelation_id\":\"rev_2\",\"prerequisite_context\":[\"Juliana's late mother's journal records toxic symptoms matching the Duchess's condition\",\"Juliana asserts that someone is poisoning the Duchess\"]},{\"episode_id\":\"ep_027\",\"revelation_id\":\"r1\",\"prerequisite_context\":[\"The Duchess says the ring bears the Ashbourne crest\",\"Juliana says her husband gave her the ring\"]},{\"episode_id\":\"ep_028\",\"revelation_id\":\"r3\",\"prerequisite_context\":[\"Catherine reads the herbarium inscription Juliana Ashcroft\",\"Catherine names her Lady Juliana Ashcroft\"]},{\"episode_id\":\"ep_035\",\"revelation_id\":\"r2\",\"prerequisite_context\":[\"Alexander says the ambush was ordered to erase him\",\"Alexander says someone wanted his mother to believe he was dead\"]},{\"episode_id\":\"ep_036\",\"revelation_id\":\"r7\",\"prerequisite_context\":[\"Juliana was arrested and accused of poisoning Alexander\",\"The mother reports that Juliana was condemned by a magistrate\"]},{\"episode_id\":\"ep_045\",\"revelation_id\":\"R1\",\"prerequisite_context\":[\"Alexander kneels before Juliana and unchains her\",\"Alexander identifies himself as Alexander Ashburton, the rightful Duke\"]}]}",
+  "schema": {
+    "$defs": {
+      "EpisodeOpportunity": {
+        "additionalProperties": false,
+        "properties": {
+          "scope": {
+            "const": "episode",
+            "title": "Scope",
+            "type": "string"
+          },
+          "local_id": {
+            "title": "Local Id",
+            "type": "string"
+          },
+          "episode_id": {
+            "title": "Episode Id",
+            "type": "string"
+          },
+          "concept": {
+            "title": "Concept",
+            "type": "string"
+          },
+          "hook_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Hook Refs",
+            "type": "array"
+          },
+          "ending_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Ending Refs",
+            "type": "array"
+          },
+          "context_refs": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Context Refs",
+            "type": "array"
+          },
+          "why_promising": {
+            "title": "Why Promising",
+            "type": "string"
+          }
+        },
+        "required": [
+          "scope",
+          "local_id",
+          "episode_id",
+          "concept",
+          "hook_refs",
+          "ending_refs",
+          "context_refs",
+          "why_promising"
+        ],
+        "title": "EpisodeOpportunity",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "opportunities": {
+        "items": {
+          "$ref": "#/$defs/EpisodeOpportunity"
+        },
+        "title": "Opportunities",
+        "type": "array"
+      }
+    },
+    "required": [
+      "opportunities"
+    ],
+    "title": "EpisodeDiscovery",
+    "type": "object"
+  },
+  "state": "complete",
+  "output": {
+    "opportunities": [
+      {
+        "scope": "episode",
+        "local_id": "ep28_opp1",
+        "episode_id": "ep_028",
+        "concept": "Catherine brands Juliana a poisoner, then the Duchess wakes and claims she was poisoned and that Catherine and Rupert knew.",
+        "hook_refs": [
+          "EP28:E13"
+        ],
+        "ending_refs": [
+          "EP28:E35"
+        ],
+        "context_refs": [
+          "EP28:E15",
+          "EP28:E18",
+          "EP28:E31",
+          "EP28:E34"
+        ],
+        "why_promising": "Clip runs about 34 seconds from a sharp accusation to the Duchess's unfinished 'They have been—', an open cliffhanger with a clear poisoning mystery."
+      },
+      {
+        "scope": "episode",
+        "local_id": "ep28_opp2",
+        "episode_id": "ep_028",
+        "concept": "Catherine reads 'Juliana Ashcroft' in the herbarium and exposes Juliana's disgraced noble past.",
+        "hook_refs": [
+          "EP28:E73"
+        ],
+        "ending_refs": [
+          "EP28:E95"
+        ],
+        "context_refs": [
+          "EP28:E75",
+          "EP28:E76",
+          "EP28:E79",
+          "EP28:E84",
+          "EP28:E89"
+        ],
+        "why_promising": "Clip runs about 38 seconds from the identity reveal to the gallows threat over the herbarium, a strong self-contained exposure arc."
+      },
+      {
+        "scope": "episode",
+        "local_id": "ep28_opp3",
+        "episode_id": "ep_028",
+        "concept": "Rupert's men stage a frame-up as the Blond Nobleman mocks Juliana and orders her taken away.",
+        "hook_refs": [
+          "EP28:E17"
+        ],
+        "ending_refs": [
+          "EP28:E51"
+        ],
+        "context_refs": [
+          "EP28:E18",
+          "EP28:E42",
+          "EP28:E44"
+        ],
+        "why_promising": "Clip runs about 51 seconds from a menacing line through the Duchess's protest to the command to take Juliana away, showing the conspirators' power."
+      },
+      {
+        "scope": "episode",
+        "local_id": "ep28_opp4",
+        "episode_id": "ep_028",
+        "concept": "Catherine rips Juliana's silver locket from her neck and mocks her as a gutter rat.",
+        "hook_refs": [
+          "EP28:E56"
+        ],
+        "ending_refs": [
+          "EP28:E82"
+        ],
+        "context_refs": [
+          "EP28:E59",
+          "EP28:E61",
+          "EP28:E64"
+        ],
+        "why_promising": "Clip runs about 44 seconds from the locket humiliation to Juliana's defiant 'Do not speak about my husband!', a strong emotional beat."
+      },
+      {
+        "scope": "episode",
+        "local_id": "ep28_opp5",
+        "episode_id": "ep_028",
+        "concept": "Catherine mocks Juliana's fall from grace while holding the herbarium as evidence of witchcraft.",
+        "hook_refs": [
+          "EP28:E84"
+        ],
+        "ending_refs": [
+          "EP28:E95"
+        ],
+        "context_refs": [
+          "EP28:E85",
+          "EP28:E90"
+        ],
+        "why_promising": "Clip runs about 20 seconds from the taunt about scrubbing fireplaces to the threat of the gallows, a compact villain-driven moment."
+      },
+      {
+        "scope": "episode",
+        "local_id": "ep28_opp6",
+        "episode_id": "ep_028",
+        "concept": "The Dowager Duchess rises and declares she was poisoned, accusing Rupert of knowing.",
+        "hook_refs": [
+          "EP28:E31"
+        ],
+        "ending_refs": [
+          "EP28:E51"
+        ],
+        "context_refs": [
+          "EP28:E32",
+          "EP28:E34",
+          "EP28:E36"
+        ],
+        "why_promising": "Clip runs about 32 seconds from the Duchess's poisoning accusation to the order to take Juliana away, with the Duchess's collapse as a high-stakes turn."
+      }
+    ]
+  }
+}

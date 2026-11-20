@@ -1,0 +1,45 @@
+{
+  "candidate_id": "c_4a97838d6279a23c",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP41:E3",
+      "EP41:E2",
+      "EP41:E34"
+    ],
+    "reason": "Opens within 0-1000ms with Catherine's sharp 'Wait.' and a gloved hand raised to command silence, creating immediate tension. The closing line from Juliana in the final 3000ms gives a pointed, quotable payoff."
+  },
+  "cliffhanger": {
+    "score_0_10": 4.0,
+    "evidence_refs": [
+      "EP41:E7",
+      "EP41:E33",
+      "EP41:E34"
+    ],
+    "reason": "Catherine's threat to show 'what happens to a woman who dares defy this family' stays unresolved, and Juliana's fate is left open at the cut. The ending is a verbal standoff rather than a clear suspense hook, so the tension is only moderately unresolved.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Catherine, Rupert, and the blond nobleman are and how they relate to Juliana",
+      "What the Duchess of Ashburgh title signifies and why Catherine is marrying into it",
+      "Why Juliana is a disgraced bride and why she is in prison dress and shackles",
+      "What Juliana was accused of and what 'defy this family' refers to",
+      "Whether Juliana's return to the chapel was voluntary or forced",
+      "Why Juliana is being displayed publicly and what Catherine intends to do to her"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Juliana's bruised, unshaken face and her defiant retort against Catherine's cruelty create strong sympathy and tension, while the aristocrats' mockery heightens the sense of injustice."
+  },
+  "weaknesses": [
+    "Heavy reliance on unexplained backstory means a first-time viewer cannot grasp the stakes or relationships",
+    "Multiple characters are introduced with little differentiation, such as the blond nobleman and the unnamed noblewoman and noblemen",
+    "The middle section repeats camera beats of onlookers sneering, which slows momentum",
+    "Catherine's motive for the public humiliation is stated rather than shown",
+    "The ending resolves the exchange without revealing what happens next, so the threat may feel more like a pause than a hook"
+  ],
+  "one_line_why_it_works": "A defiant captive confronting a gloating rival in a packed cathedral delivers a clear power reversal and an emotionally charged final retort, even though the backstory is missing."
+}

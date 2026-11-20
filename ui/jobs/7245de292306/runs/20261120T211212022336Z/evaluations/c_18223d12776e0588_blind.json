@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_18223d12776e0588",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP13:E40",
+      "EP13:E43",
+      "EP13:E74"
+    ],
+    "reason": "Opens within 0-3000ms with Gerald's callous sneer and a shouted taunt, then escalates quickly to graphic thorn violence on Juliana's hand; the closing evidence lands in the final 3000ms with her pain and tears, though it is a mid-action frame rather than a hook."
+  },
+  "cliffhanger": {
+    "score_0_10": 5.0,
+    "evidence_refs": [
+      "EP13:E73",
+      "EP13:E74"
+    ],
+    "reason": "The clip ends with Juliana holding the ring while still in pain and Alexander staring in suspended terror, which leaves her next move and the reaction unresolved; however, the search itself reaches a concrete result, so the ending is less a true cliffhanger than an intense pause.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Who Juliana, Alexander, Clarissa, Gerald and the Constable are and how they relate",
+      "Why Juliana is searching the briars and what the ring means",
+      "What 'Your husband's freedom' refers to and what stakes hang on the search",
+      "Why the Constable is restraining Alexander",
+      "What the ring signifies once found"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Sustained visceral pain, Alexander's grief and rage, and Juliana's blend of triumph and agony create strong emotional intensity throughout the clip."
+  },
+  "weaknesses": [
+    "Stakes and motivation are never explained within the clip, so the search reads as arbitrary to a first-time viewer",
+    "The ring's importance is not established, which weakens the payoff of the discovery",
+    "Dialogue is sparse and mostly exclamatory, leaving characters' relationships unclear",
+    "Repeated graphic thorn and pain shots may feel repetitive without new information"
+  ],
+  "one_line_why_it_works": "Brutal physical peril and raw emotion from Juliana and Alexander create immediate tension, even though the story context is missing."
+}

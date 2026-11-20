@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c_779446e63c3d681f",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP20:E10",
+      "EP20:E12"
+    ],
+    "reason": "The clip opens with Catherine's sharp, dismissive expression and the immediate declaration 'I marry the Lord of Ashbury' within the first 1400ms, creating an instant sense of scheming and conflict."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP20:E24",
+      "EP20:E25"
+    ],
+    "reason": "The ending has Catherine asking how much longer the frail thing can survive while savouring the wasting-illness news, which leaves the plan against the frail figure open and unresolved; no outcome is shown.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Identity and relationship of Catherine and Rupert are not established",
+      "Who Alexander is and why his death must be sealed by the Crown is unexplained",
+      "Who the Dowager is and why her shadow matters is unclear",
+      "Who the frail thing is is never named within the clip",
+      "Significance of the Lord of Ashbury and the title is not explained"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The scene builds a chilling, predatory tone through Rupert's sinister grin and Catherine's detached savouring of the decline, producing unease and dread."
+  },
+  "weaknesses": [
+    "Characters and stakes are introduced without explanation, so a first-time viewer cannot place who is who or why the plot matters",
+    "The target of the scheme is referred to only as 'the frail thing' and 'the Dowager', which is ambiguous without prior context",
+    "The hook relies on a single line of dialogue rather than a clear visual or narrative question",
+    "Some lines of dialogue are dense with unexplained family and inheritance details"
+  ],
+  "one_line_why_it_works": "A cold, scheming tone is established immediately and the clip ends on an open, menacing question about a frail victim that invites the viewer to keep watching."
+}

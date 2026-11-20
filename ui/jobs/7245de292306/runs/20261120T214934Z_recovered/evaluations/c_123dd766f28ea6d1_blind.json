@@ -1,0 +1,44 @@
+{
+  "candidate_id": "c_123dd766f28ea6d1",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP05:E29",
+      "EP05:E30",
+      "EP05:E31"
+    ],
+    "reason": "The clip opens within the first 200ms with a firm hand on a bound book and a sharp line of dialogue, and the ledger is wrenched away by 2200ms, so the conflict starts immediately. The opening is abrupt and strangers to the story get little to anchor on."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP05:E41",
+      "EP05:E42"
+    ],
+    "reason": "The clip ends while the Mysterious Bearded Man is still kneeling and reaching for the ledger, so the outcome of the retrieval is unresolved. The open ending is a pending action rather than a major reveal, which limits the hook.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Lady Ashcroft, Juliana, Barbara, Clarissa and Gerald are and how they relate to each other",
+      "Why the leather ledger matters and what it contains",
+      "Why Juliana is in a white bridal gown and what the wedding context is",
+      "What 'your mother's precious legacy' refers to",
+      "Who the Mysterious Bearded Man is and why he approaches",
+      "Why Clarissa and Gerald are gleeful at Juliana's loss"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Public humiliation, a book thrown into the rain, mocking laughter, and Juliana's tears and kneeling in a ruined gown create strong sympathy and distress, though the emotional stakes rest on context the viewer does not have."
+  },
+  "weaknesses": [
+    "Stakes of the ledger and the mother's legacy are never established within the clip",
+    "Characters are introduced by name only, with no roles or relationships shown",
+    "Cliffhanger depends on a reach toward an object rather than a revealed threat or twist",
+    "The bearded man's intent is ambiguous and unexplained",
+    "Dialogue is sparse, so the scene relies heavily on the viewer inferring context"
+  ],
+  "one_line_why_it_works": "A public humiliation over a precious ledger, ending with a stranger reaching in to rescue it, creates immediate sympathy and an open question about what happens next."
+}

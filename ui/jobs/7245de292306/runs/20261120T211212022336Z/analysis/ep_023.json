@@ -1,0 +1,229 @@
+{
+  "episode_id": "ep_023",
+  "summary": "On-screen evidence in the West Wing bedchamber (sc_001, 0-131500 ms) shows Lady Juliana examining the Dowager Duchess's discoloured nails, dry mouth and weak pulse, consulting her late mother's journal, concluding someone is poisoning the Duchess with arsenic, and beginning an activated charcoal remedy. The episode ends with the chamber door opening on an unidentified arrival (E66-E67). Uncertainties: the identity and purpose of the person at the door are not shown; the Duchess's fate and whether the remedy works are not shown; the physician's heart-failure diagnosis and Prudence's 'weeks' timeline are reported speech only; the poisoner is unidentified; the journal's contents are seen only partially. The supplied metadata (logline and Episode 22 continuity note) is not on-screen evidence and was used only for context, not as event evidence.",
+  "characters": [
+    {
+      "name": "Lady Juliana",
+      "role": "Protagonist who investigates the Duchess's illness, consults her mother's remedy journal and attempts an antidote"
+    },
+    {
+      "name": "Prudence",
+      "role": "Companion keeping watch over the Duchess, anxious and frightened witness"
+    },
+    {
+      "name": "Dowager Duchess",
+      "role": "Gravely ill patient showing signs of suspected arsenic poisoning"
+    },
+    {
+      "name": "Unnamed physician",
+      "role": "Mentioned only by Prudence as having diagnosed heart failure; not seen on screen"
+    }
+  ],
+  "beats": [
+    {
+      "id": "beat_1",
+      "kind": "setup",
+      "event_refs": [
+        "EP23:E1",
+        "EP23:E2",
+        "EP23:E3",
+        "EP23:E4",
+        "EP23:E5"
+      ],
+      "description": "Prudence keeps nervous watch by candlelight while Juliana sits beside the Duchess and inspects her frail hands; Prudence warns they cannot stay long.",
+      "intensity_0_10": 2.0
+    },
+    {
+      "id": "beat_2",
+      "kind": "discovery",
+      "event_refs": [
+        "EP23:E6",
+        "EP23:E7",
+        "EP23:E8",
+        "EP23:E9",
+        "EP23:E10",
+        "EP23:E11",
+        "EP23:E12",
+        "EP23:E13",
+        "EP23:E14"
+      ],
+      "description": "Juliana finds dark purplish-black discoloration under the Duchess's nails, learns the illness has lasted weeks, and notes a dry mouth and weak pulse.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "beat_3",
+      "kind": "complication",
+      "event_refs": [
+        "EP23:E15",
+        "EP23:E16",
+        "EP23:E17",
+        "EP23:E18"
+      ],
+      "description": "Prudence reports the physician said the heart is failing while the Duchess gasps hoarsely for breath.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "beat_4",
+      "kind": "turn",
+      "event_refs": [
+        "EP23:E19",
+        "EP23:E20",
+        "EP23:E21",
+        "EP23:E22"
+      ],
+      "description": "Juliana rejects the old-age explanation and reaches for her leather-bound notebook.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "beat_5",
+      "kind": "discovery",
+      "event_refs": [
+        "EP23:E24",
+        "EP23:E25",
+        "EP23:E26",
+        "EP23:E27",
+        "EP23:E28",
+        "EP23:E29",
+        "EP23:E30"
+      ],
+      "description": "Juliana opens the journal of botanical toxin sketches and diagnostic notes, is stunned by her mother's writing, and Prudence asks what it is.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "beat_6",
+      "kind": "reveal",
+      "event_refs": [
+        "EP23:E31",
+        "EP23:E32",
+        "EP23:E33",
+        "EP23:E34",
+        "EP23:E35",
+        "EP23:E36",
+        "EP23:E37",
+        "EP23:E38",
+        "EP23:E39",
+        "EP23:E40",
+        "EP23:E41",
+        "EP23:E42",
+        "EP23:E43",
+        "EP23:E44",
+        "EP23:E45"
+      ],
+      "description": "Juliana matches the journal's symptoms to the Duchess, says she has seen them before, declares someone is poisoning her, and names arsenic.",
+      "intensity_0_10": 9.0
+    },
+    {
+      "id": "beat_7",
+      "kind": "action",
+      "event_refs": [
+        "EP23:E46",
+        "EP23:E47",
+        "EP23:E48",
+        "EP23:E49",
+        "EP23:E50",
+        "EP23:E51",
+        "EP23:E52",
+        "EP23:E53",
+        "EP23:E54",
+        "EP23:E55",
+        "EP23:E56",
+        "EP23:E57"
+      ],
+      "description": "The Duchess convulses; Juliana sets out vials and herbs and grinds activated charcoal to attempt a cure, saying it may remove what remains inside her.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "beat_8",
+      "kind": "cliffhanger",
+      "event_refs": [
+        "EP23:E58",
+        "EP23:E59",
+        "EP23:E60",
+        "EP23:E61",
+        "EP23:E62",
+        "EP23:E63",
+        "EP23:E64",
+        "EP23:E65",
+        "EP23:E66",
+        "EP23:E67"
+      ],
+      "description": "A thump and footsteps sound outside; Prudence warns someone is coming, Juliana freezes with an unfinished cure, and the chamber door begins to open.",
+      "intensity_0_10": 9.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "rev_1",
+      "event_refs": [
+        "EP23:E28",
+        "EP23:E31",
+        "EP23:E32"
+      ],
+      "claim": "Juliana's late mother's journal records toxic symptoms matching the Duchess's condition.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "Who is poisoning the Duchess?",
+        "Where did Juliana previously see these symptoms?"
+      ]
+    },
+    {
+      "id": "rev_2",
+      "event_refs": [
+        "EP23:E35",
+        "EP23:E40"
+      ],
+      "claim": "Juliana has seen these symptoms before and asserts that someone is poisoning the Duchess.",
+      "spoiler_significance_0_10": 8.0,
+      "creates_questions": [
+        "Who is poisoning the Duchess?",
+        "Where did Juliana previously see these symptoms?"
+      ]
+    },
+    {
+      "id": "rev_3",
+      "event_refs": [
+        "EP23:E45"
+      ],
+      "claim": "Juliana identifies the poison as arsenic.",
+      "spoiler_significance_0_10": 7.0,
+      "creates_questions": [
+        "Will the charcoal remedy save the Duchess?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "Who is poisoning the Duchess?",
+      "introduced_by": [
+        "EP23:E40"
+      ]
+    },
+    {
+      "question": "Where did Juliana previously see these symptoms?",
+      "introduced_by": [
+        "EP23:E35"
+      ]
+    },
+    {
+      "question": "Will the charcoal remedy save the Duchess?",
+      "introduced_by": [
+        "EP23:E52",
+        "EP23:E57"
+      ]
+    },
+    {
+      "question": "Who is at the chamber door?",
+      "introduced_by": [
+        "EP23:E58",
+        "EP23:E66"
+      ]
+    },
+    {
+      "question": "Is the physician's heart-failure diagnosis correct?",
+      "introduced_by": [
+        "EP23:E16",
+        "EP23:E22"
+      ]
+    }
+  ]
+}

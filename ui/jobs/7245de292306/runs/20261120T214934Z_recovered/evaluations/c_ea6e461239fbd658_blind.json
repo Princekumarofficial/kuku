@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_ea6e461239fbd658",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP37:E62",
+      "EP37:E64"
+    ],
+    "reason": "The opening shows a tight close-up of a shackled hand gripping an iron ring, which creates immediate tension within 0-300ms. The hook weakens because the viewer has no context for who she is or why she is shackled."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP37:E78",
+      "EP37:E79"
+    ],
+    "reason": "The final 3000ms show a push-in on the open execution clause with an ominous cello sting that ends abruptly. Clarissa's vindictive plan is set up without resolution, but the clip does not show whether the execution proceeds, so the tension is a partial open question rather than a strong cliffhanger.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Who Juliana is and what she was accused of",
+      "Why Juliana is shackled in a dungeon",
+      "The relationship between Clarissa and Juliana and what happened between them",
+      "What the execution clause is and who issued it",
+      "Why the nobleman and Clarissa are discussing the execution",
+      "What Clarissa means by the 'nobody' husband and the 'healer to peasants' references"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Clarissa's bitter resentment, merciless smile, and dark relish create a strong sense of menace and vindictiveness. The contrast between the defiant prisoner and the cold, gloating noblewoman builds emotional tension, though the viewer does not yet feel invested in the characters."
+  },
+  "weaknesses": [
+    "Heavy reliance on unexplained names and events makes the clip hard to follow for a first-time viewer",
+    "The dungeon and parlor scenes are shown without clear connection or framing",
+    "The clip ends on a sting rather than a clear dramatic question about Juliana's fate",
+    "Dialogue is exposition-heavy about past events the viewer never sees"
+  ],
+  "one_line_why_it_works": "The shackled-hand opening and Clarissa's cold, gloating dialogue over the open execution clause create a menacing sense of impending harm that ends on an ominous sting."
+}

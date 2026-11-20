@@ -1,0 +1,68 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "ep020_opp1",
+      "episode_id": "ep_020",
+      "concept": "Catherine's sharp taunt over tea leads into Rupert's claim that the title will be his once Alexander's death is sealed.",
+      "hook_refs": [
+        "EP20:E4"
+      ],
+      "ending_refs": [
+        "EP20:E16"
+      ],
+      "context_refs": [
+        "EP20:E3"
+      ],
+      "why_promising": "The hook is a pointed taunt that lands within the first seconds. The ending line 'the title is mine' is a open-ended claim whose outcome is unresolved (q1, q2). The span from hook start 4600ms to ending end 25400ms is 20800ms and sits inside coverage 0-39200."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep020_opp2",
+      "episode_id": "ep_020",
+      "concept": "Catherine rejects a merely 'practical' Duke, and the pair's talk of the Dowager's decline ends on an unresolved question.",
+      "hook_refs": [
+        "EP20:E11"
+      ],
+      "ending_refs": [
+        "EP20:E25"
+      ],
+      "context_refs": [
+        "EP20:E9"
+      ],
+      "why_promising": "The hook is a self-contained, cutting line that works as a clip opener. The ending asks how much longer the frail Dowager can survive, which leaves the conspiracy open (q3). The span from hook 15400ms to ending end 39100ms is 23700ms, and the whole clip stays inside coverage 0-39200. Context E9 falls within the clip, which starts at 12800ms."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep020_opp3",
+      "episode_id": "ep_020",
+      "concept": "In the barn, Juliana refuses to stop working while lung fever spreads through the valley, and closes on her defiant 'not finished' line.",
+      "hook_refs": [
+        "EP20:E41"
+      ],
+      "ending_refs": [
+        "EP20:E53"
+      ],
+      "context_refs": [
+        "EP20:E39"
+      ],
+      "why_promising": "The hook states the stakes directly and is understandable once Seamus reaches for the basket. The ending 'And I am not finished' is an open defiant beat that leaves her remedies unproven (q4). The span from hook 66700ms to ending end 88000ms is 21300ms, and the whole span sits inside coverage 39300-114750."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep020_opp4",
+      "episode_id": "ep_020",
+      "concept": "Catherine's cruel dismissal of the peasants leads into the pair's plan for Ashbury, ending on a menacing cliffhanger hold at the window.",
+      "hook_refs": [
+        "EP20:E57"
+      ],
+      "ending_refs": [
+        "EP20:E68"
+      ],
+      "context_refs": [
+        "EP20:E55"
+      ],
+      "why_promising": "The hook is a cruel, quotable line that stands alone. The ending is a menacing cliffhanger hold on Catherine's ambition, which is unresolved. The span from hook 89900ms to ending end 114750ms is 24850ms and falls inside coverage 39300-114750. Context E55 falls within the clip, which starts at 88200ms."
+    }
+  ]
+}

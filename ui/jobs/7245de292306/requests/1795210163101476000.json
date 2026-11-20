@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_fc7cad487494e7ea DURATION_MS=23800\nSEGMENT 1 (playback order)\nEP47:E32 0-300 CAMERA: Medium close-up of Lady Ashbourne, her gloved hand resting on her cane as she delivers her cold judgment.\nEP47:E34 300-3600 CAMERA: Medium shot of Vaughn drawing his baton, ready to seize Catherine from behind.\nEP47:E35 600-3600 VAUGHN: \"One command, Your Grace, and I drag her past the gates.\"\nEP47:E36 3600-7600 CAMERA: Wide shot as Alexander strides purposefully into the courtyard alongside Juliana, his coat billowing behind him.\nEP47:E37 4000-7300 ALEXANDER: \"Do it, Vaughn! Throw her past the estate perimeter!\"\nEP47:E38 7600-10600 CAMERA: Close-up of Catherine collapsed on the wet stones, looking up with tear-streaked panic.\nEP47:E39 7600-10600 CATHERINE: \"Please, Alexander! Have mercy!\"\nEP47:E40 10600-12300 CAMERA: Medium shot of Juliana raising her right hand firmly to halt the guard.\nEP47:E41 11000-12200 JULIANA: \"Stop.\"\nEP47:E42 12300-15300 CAMERA: Medium shot of Alexander turning toward Juliana in sheer disbelief.\nEP47:E43 12800-15300 ALEXANDER: \"Juliana, she tried to destroy you!\"\nEP47:E44 15300-16800 CAMERA: Close-up of Juliana maintaining serene poise.\nEP47:E45 15500-16600 JULIANA: \"She did.\"\nEP47:E46 16800-19800 CAMERA: Medium tracking shot as Juliana steps gracefully past Alexander toward Catherine.\nEP47:E47 17000-19800 JULIANA: \"But Ashbourne does not throw beggars into the mud.\"\nEP47:E48 19800-23800 ACTION: Juliana walks to a side bench, picks up a rough servant's apron and a heavy iron ring of keys, and turns back to face Catherine.\nEP47:E49 20300-23800 JULIANA: \"If you seek shelter in this house, Catherine, you earn it.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

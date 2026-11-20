@@ -1,0 +1,40 @@
+{
+  "candidate_id": "c_1585fd4ff1dea994",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP31:E65",
+      "EP31:E66"
+    ],
+    "reason": "The clip opens immediately on a knowing smirk and a sharp challenge line, creating tension within the first 3.8 seconds."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP31:E77",
+      "EP31:E78"
+    ],
+    "reason": "The clip ends mid-conflict with Juliana chained and reaching for the book Catherine holds over the fire, and the outcome is not shown.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Why Juliana is being made to kneel and what the power dynamic is",
+      "Who Juliana's mother is and why the botanical book matters",
+      "Where the subterranean chamber is and why Juliana is chained",
+      "The relationship between Juliana and Catherine"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "The escalation from defiance to Catherine's rage, the burning book, and Juliana's tears and desperate plea produces strong emotional intensity."
+  },
+  "weaknesses": [
+    "The motive for the kneeling demand is never established within the clip",
+    "The significance of the botanical book is only implied through one line of dialogue",
+    "Catherine's 'Enough!' lacks a clear trigger for a first-time viewer",
+    "Several action and camera descriptions are dense, which may slow comprehension"
+  ],
+  "one_line_why_it_works": "A sharp verbal reversal escalates quickly into a visceral threat against a grief-laden object, ending on an unresolved plea that drives viewer curiosity."
+}

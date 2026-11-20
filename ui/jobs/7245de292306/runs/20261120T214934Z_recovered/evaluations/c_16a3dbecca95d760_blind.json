@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c_16a3dbecca95d760",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP38:E10",
+      "EP38:E11",
+      "EP38:E51"
+    ],
+    "reason": "The opening shows a starving woman crawling toward bread with a sharp 'Why?' that raises an immediate question. The ending line 'It's beginning.' sets up a new stake, though the opening question is only partly answered by the clip."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP38:E49",
+      "EP38:E50",
+      "EP38:E51"
+    ],
+    "reason": "The clip ends with Juliana at the bars, reacting to bells and saying 'The wedding... It's beginning.' Her situation and the event's consequences are left open, so the ending is unresolved rather than merely intense.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Alexander is and why Juliana fears for him",
+      "Why Juliana was condemned and what she was accused of",
+      "Whose wedding is beginning and why it matters to Juliana",
+      "The Guard's relationship to Juliana and the reason for the bread offering"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Visible tears, trembling hands, the bread offering, and Juliana's vow 'I will not betray him' build strong sympathy and tension that peaks at the bells."
+  },
+  "weaknesses": [
+    "Key names and events (Alexander, the condemnation, the wedding) are referenced without any explanation, so a first-time viewer cannot place them.",
+    "The shift from despair to defiance and then to the bells happens quickly, which weakens the emotional logic.",
+    "The clip relies on the viewer caring about an unexplained husband and wedding, so its impact depends on context it does not supply."
+  ],
+  "one_line_why_it_works": "A starving prisoner's tearful vow of loyalty collapses into a sudden bell toll and 'It's beginning,' creating an unresolved stake even for a viewer who knows nothing else."
+}

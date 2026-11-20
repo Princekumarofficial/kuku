@@ -1,0 +1,475 @@
+{
+  "stage": "episode_analysis",
+  "system": "Analyze narrative beats, characters, revelations and unresolved questions. Only event text is on-screen evidence; metadata may describe unseen events. Use supplied EPxx:Ex aliases. Report uncertainty in the summary. A revelation's significance is not its spoiler damage.",
+  "user": "EP=ep_031; timestamps are integer milliseconds\nSOURCE_SHA256=7c7df240ef6ad40a87f2d5514d857e60273642fba4a5bbbd0da899a68e969610\nMETADATA ONLY (not on-screen evidence): {'logline': \"Catherine enters the wet cells armed with a red-hot iron and Juliana's late mother's botanical book, subjecting the chained heiress to ruthless psychological torment until Juliana's unyielding pride pushes Catherine to a violent brink.\", 'continuity_notes': 'Follows directly from Episode 30 where Rupert and Catherine plotted to frame Juliana as a witch while Juliana huddled chained in the subterranean dungeon.'}\nSOURCE WARNINGS=['sc_001: incomplete source coverage; gaps are unavailable']\nSCENE sc_001 0-160000 INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT\nEP31:E1 0-2800 CAMERA: Static medium shot of the heavy, iron-studded dungeon door as the massive bolt loudly slides open.\nEP31:E2 0-2800 SOUND: Heavy iron latch sliding back with an ominous, echoing metallic clang, followed by the deep groaning creak of the cell door swinging inward.\nEP31:E3 2800-4200 CAMERA: Medium close-up of Juliana huddled against the stone wall, bound in heavy iron chains, shivering in her torn apron and lifting her tear-streaked face in dread.\nEP31:E4 2800-4200 ACTION: Juliana recoils against the damp stonework, her eyes wide with terror as light floods into the dark cell.\nEP31:E5 4200-9500 CAMERA: Full shot framed through the arched doorway. Catherine stands imperiously in an ornate, gold-embroidered violet gown, holding a smoldering hot poker and a charred leather-bound book, flanked by two stone-faced guards with lanterns.\nEP31:E6 6900-8800 CATHERINE [Cruel, Condescending]: \"Look at you.\"\nEP31:E7 9500-10500 CAMERA: Low-angle close-up of Juliana looking up from the stone floor, her gaze hardening despite her fear.\nEP31:E8 10500-13800 CAMERA: Tight close-up of Catherine's face, bathed in the orange flickering glow of the red-hot branding iron, smiling with pure malice.\nEP31:E9 10500-13800 CATHERINE [Mocking, Venomous]: \"The great Lady Juliana Ashcroft.\"\nEP31:E10 13800-17600 CAMERA: Over-the-shoulder wide shot past Catherine looking down at Juliana shackled helplessly on the wet stone floor.\nEP31:E11 14000-17600 CATHERINE [Taunting]: \"Chained in a dungeon like a common criminal.\"\nEP31:E12 17600-20800 CAMERA: Close-up of Juliana, her eyes glistening with unshed tears, speaking with quiet defiance.\nEP31:E13 17800-20500 JULIANA [Defiant, Steady]: \"You seem very pleased.\"\nEP31:E14 20800-24500 CAMERA: Low-angle shot looking up at Catherine towering over Juliana, holding the glowing poker at her side.\nEP31:E15 21000-23500 CATHERINE [Smug, Chilling]: \"I am.\"\nEP31:E16 24500-29000 CAMERA: Extreme close-up of the bent, white-hot tip of the poker radiating heat, with Catherine's face blurred in the background as she gazes down with predatory pleasure.\nEP31:E17 25000-28900 CATHERINE [Whispering, Sinister]: \"Because this is what you were always meant to be.\"\nEP31:E18 29000-34800 CAMERA: Over-the-shoulder medium shot focusing on Juliana as Catherine presents the charred, singed pages of the botanical book.\nEP31:E19 29300-34800 CATHERINE [Scornful]: \"Your family dressed you like a lady. They educated you. They gave you a respectable name.\"\nEP31:E20 34800-39000 CAMERA: Close-up of Catherine's face breaking into an arrogant, haughty laugh.\nEP31:E21 35000-38900 CATHERINE [Amused, Spiteful]: \"[chuckles] And still you became a disgrace.\"\nEP31:E22 39000-43000 CAMERA: Tight close-up of Juliana's fierce, unwavering gaze as she retorts without hesitation.\nEP31:E23 39200-43000 JULIANA [Fierce, Unbroken]: \"I became a disgrace when I refused to become cruel.\"\nEP31:E24 43000-48500 CAMERA: Close-up of Catherine scowling, cutting back to a shot of Juliana's bare, chained feet locked in iron manacles against the cold stone floor.\nEP31:E25 43200-48500 CATHERINE [Cold, Bitter]: \"No. You became a disgrace when Gerald left you standing at the altar.\"\nEP31:E26 48500-54800 CAMERA: Medium shot from floor level looking up at Catherine leaning closer, savoring Juliana's humiliation.\nEP31:E27 48900-50800 CATHERINE [Gloating]: \"Do you remember?\"\nEP31:E28 49000-52000 ACTION: Juliana stares up, her breathing steadying as she refuses to break under Catherine's barbs.\nEP31:E29 51000-54800 CATHERINE [Viciously Delighted]: \"Everyone saw you. Everyone watched him chose Clarisse.\"\nEP31:E30 54800-59000 CAMERA: Close-up of the red-hot iron hovering over the damp stone floor, rising steam and heat waves warping the air, before cutting to Catherine's gloating expression.\nEP31:E31 55200-57500 SOUND: Faint sizzling and hissing as ambient moisture touches the scalding iron tip.\nEP31:E32 55500-58800 CATHERINE [Quietly Venomous]: \"And everyone watched you walk away alone.\"\nEP31:E33 59000-65500 CAMERA: Close-up pushing in on Juliana's illuminated, dignified face.\nEP31:E34 59200-61300 JULIANA [Proud, Measured]: \"Gerald chose money.\"\nEP31:E35 61500-63500 JULIANA [Resolute]: \"Clarissa chose a coward.\"\nEP31:E36 63800-65300 JULIANA [Unyielding]: \"I chose myself.\"\nEP31:E37 65500-67500 CAMERA: Close-up of Catherine's face tightening in disgust.\nEP31:E38 65600-67400 CATHERINE [Disgusted]: \"You chose a beggar.\"\nEP31:E39 67500-70500 CAMERA: Low-angle shot of Juliana lifting her chin with unwavering pride.\nEP31:E40 67600-69800 JULIANA [Fierce, Proud]: \"I chose a man.\"\nEP31:E41 70500-73300 CAMERA: Medium shot of Catherine sneering down at her.\nEP31:E42 70800-73200 CATHERINE [Contemptuous]: \"A scarred nobody.\"\nEP31:E43 73300-77600 CAMERA: Medium shot of Juliana sitting erect against the dungeon wall, her hands resting calmly in her lap.\nEP31:E44 73500-77600 JULIANA [Resolute, Dignified]: \"A man with more honor than the people sitting above this dungeon.\"\nEP31:E45 77600-80500 CAMERA: Medium close-up of Catherine, holding the smoldering iron between them.\nEP31:E46 77800-80200 CATHERINE [Incredulous, Mocking]: \"You call that marriage?\"\nEP31:E47 80500-83200 CAMERA: Extreme close-up of Juliana's clear blue eyes, shining with profound conviction.\nEP31:E48 80800-83200 JULIANA [Pure, Sincere]: \"I call it love.\"\nEP31:E49 83200-88000 CAMERA: High-angle wide shot looking straight down through the ceiling iron grating into the deep dungeon shaft where Catherine looms over Juliana.\nEP31:E50 83500-87400 CATHERINE [Mocking, Hysterical Laugh]: \"[laughs] Love? Look where your precious love brought you.\"\nEP31:E51 87500-91200 CAMERA: Medium close-up of Juliana looking directly up past the glowing tip of the iron poker into Catherine's eyes.\nEP31:E52 87800-91200 JULIANA [Firm, Piercing]: \"To a place where I can still look you in the eyes.\"\nEP31:E53 91200-94200 CAMERA: Close-up of Catherine, her lips curling in indignant disbelief.\nEP31:E54 91400-94200 CATHERINE [Incredulous, Offended]: \"You think love makes you better than me?\"\nEP31:E55 94200-98200 CAMERA: Close-up of Juliana speaking calmly and razor-sharp.\nEP31:E56 94500-98200 JULIANA [Calm, Cutting]: \"No. But cruelty certainly doesn't make you better than me.\"\nEP31:E57 98200-103500 CAMERA: Medium shot of Catherine sweeping her arm out, flaunting her aristocratic privilege and opulence.\nEP31:E58 98500-103300 CATHERINE [Incensed, Boastful]: \"I have beauty, money, family, status! What do you have?\"\nEP31:E59 103500-108800 CAMERA: Close-up of Juliana, her expression serene and grounded in moral superiority.\nEP31:E60 103700-108500 JULIANA [Quiet, Powerful]: \"Knowledge. Love. And people who need me.\"\nEP31:E61 108800-110500 CAMERA: Tight shot of Catherine's gloved hands holding Juliana's mother's partially burned botanical volume, 'The Virtues of Plants & Herbs'.\nEP31:E62 110200-111400 CATHERINE [Sneering, Derisive]: \"[scoffs] Peasants? People?\"\nEP31:E63 111500-118200 CAMERA: Medium shot of Catherine casually holding the ancient book while pacing slowly before Juliana.\nEP31:E64 111600-118200 CATHERINE [Arrogant, Elitist]: \"That is why you were born in the wrong world. Women like me are meant to be admired. Women like you are meant to serve.\"\nEP31:E65 118200-122500 CAMERA: Tight close-up of Juliana's face, tilting her head with an insightful, knowing smirk.\nEP31:E66 118400-122000 JULIANA [Piercing, Provocative]: \"Then why are you so desperate to make me kneel?\"\nEP31:E67 122000-124000 ACTION: Catherine's smug expression freezes, her eyes widening in momentary shock and fury as the blow lands squarely.\nEP31:E68 124000-130800 CAMERA: Low-angle medium shot of Juliana, her voice ringing clearly through the subterranean chamber.\nEP31:E69 124200-130500 JULIANA [Accusatory, Commanding]: \"If you were truly powerful, Catherine, you wouldn't need me to bow.\"\nEP31:E70 130800-133000 CAMERA: Close-up of Catherine completely losing control, her aristocratic facade shattering into sheer rage.\nEP31:E71 131000-132800 CATHERINE [Enraged Scream]: \"Enough!\"\nEP31:E72 133000-134500 CAMERA: Close-up of the red-hot poker pressing directly down into the delicate open pages of the botanical book.\nEP31:E73 133200-134500 SOUND: Hiss of scorched parchment and curling white smoke rising as paper blackens under extreme heat.\nEP31:E74 134500-138000 CAMERA: Medium two-shot. Catherine holds the smoldering book right before Juliana's face.\nEP31:E75 134500-138000 CATHERINE [Hateful, Malicious]: \"This pathetic book is the only thing you still have from your mother.\"\nEP31:E76 138000-140500 CAMERA: Extreme close-up of Juliana, her emotional composure breaking into pure grief and panic.\nEP31:E77 138000-140500 ACTION: Tears spill rapidly down Juliana's cheeks as she reaches forward in vain, restrained by her heavy iron chains.\nEP31:E78 138400-140400 JULIANA [Desperate, Weeping]: \"[gasping] Give it back!\"\nEP31:E79 140500-143800 CAMERA: Low-angle shot of Catherine grinning with sadistic triumph, looking down at Juliana's despair.\nEP31:E80 140700-143800 CATHERINE [Gloating, Sadistic]: \"There. Finally. Something still hurts you.\"\nEP31:E81 143800-145500 CAMERA: Close-up of Juliana screaming out in absolute anguish.\nEP31:E82 144000-145500 JULIANA [Screaming, Agonized]: \"No!\"\nEP31:E83 145500-151200 CAMERA: Medium close-up of Catherine slowly driving the glowing branding tip into the spine of the open book, watching the embers consume the pages.\nEP31:E84 145600-151200 CATHERINE [Vicious, Final]: \"One flame, and your mother's life's work becomes ash.\"\nEP31:E85 151200-155200 CAMERA: Low-angle medium shot. Catherine lowers the charred book and suddenly swings the glowing orange iron tip straight up toward Juliana's face.\nEP31:E86 151500-155200 ACTION: Juliana recoils back against the hard dungeon wall, gasping for breath in raw terror as the searing iron stops inches from her eyes.\nEP31:E87 155200-160000 CAMERA: Extreme macro close-up of Juliana's wide, trembling eye. The brilliant orange ember of the hot poker reflects clearly in the center of her pupil, holding on the terrifying cliffhanger before an abrupt cut.",
+  "schema": {
+    "$defs": {
+      "Beat": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "kind": {
+            "title": "Kind",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "description": {
+            "title": "Description",
+            "type": "string"
+          },
+          "intensity_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Intensity 0 10",
+            "type": "number"
+          }
+        },
+        "required": [
+          "id",
+          "kind",
+          "event_refs",
+          "description",
+          "intensity_0_10"
+        ],
+        "title": "Beat",
+        "type": "object"
+      },
+      "Character": {
+        "additionalProperties": false,
+        "properties": {
+          "name": {
+            "title": "Name",
+            "type": "string"
+          },
+          "role": {
+            "title": "Role",
+            "type": "string"
+          }
+        },
+        "required": [
+          "name",
+          "role"
+        ],
+        "title": "Character",
+        "type": "object"
+      },
+      "Question": {
+        "additionalProperties": false,
+        "properties": {
+          "question": {
+            "title": "Question",
+            "type": "string"
+          },
+          "introduced_by": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Introduced By",
+            "type": "array"
+          }
+        },
+        "required": [
+          "question",
+          "introduced_by"
+        ],
+        "title": "Question",
+        "type": "object"
+      },
+      "Revelation": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "claim": {
+            "title": "Claim",
+            "type": "string"
+          },
+          "spoiler_significance_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Spoiler Significance 0 10",
+            "type": "number"
+          },
+          "creates_questions": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Creates Questions",
+            "type": "array"
+          }
+        },
+        "required": [
+          "id",
+          "event_refs",
+          "claim",
+          "spoiler_significance_0_10",
+          "creates_questions"
+        ],
+        "title": "Revelation",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "episode_id": {
+        "title": "Episode Id",
+        "type": "string"
+      },
+      "summary": {
+        "title": "Summary",
+        "type": "string"
+      },
+      "characters": {
+        "items": {
+          "$ref": "#/$defs/Character"
+        },
+        "title": "Characters",
+        "type": "array"
+      },
+      "beats": {
+        "items": {
+          "$ref": "#/$defs/Beat"
+        },
+        "title": "Beats",
+        "type": "array"
+      },
+      "revelations": {
+        "items": {
+          "$ref": "#/$defs/Revelation"
+        },
+        "title": "Revelations",
+        "type": "array"
+      },
+      "unresolved_questions": {
+        "items": {
+          "$ref": "#/$defs/Question"
+        },
+        "title": "Unresolved Questions",
+        "type": "array"
+      }
+    },
+    "required": [
+      "episode_id",
+      "summary",
+      "characters",
+      "beats",
+      "revelations",
+      "unresolved_questions"
+    ],
+    "title": "EpisodeAnalysis",
+    "type": "object"
+  },
+  "state": "complete",
+  "output": {
+    "episode_id": "ep_031",
+    "summary": "Scene sc_001 (0-160000 ms, subterranean wet cells, night) shows Catherine interrogating the chained Juliana with a red-hot poker and her mother's botanical book, ending on a cliffhanger with the iron swung toward Juliana's face. Source coverage is incomplete per the warning 'sc_001: incomplete source coverage; gaps are unavailable', so unseen events and timing between gaps are uncertain. Metadata is not on-screen evidence; its references to Episode 30, Rupert, and the framing plot are unverified here and are not used as event evidence. Gerald's and Clarisse's/Clarissa's roles and the nature of Juliana's marriage rest only on spoken claims by Catherine and Juliana, and the name is spelled Clarisse at EP31:E29 and Clarissa at EP31:E35, which may be a transcription inconsistency. Whether Juliana is actually married, and the truth of Gerald's motives, are not established on screen.",
+    "characters": [
+      {
+        "name": "Juliana Ashcroft",
+        "role": "Chained heiress and prisoner in the wet cells; proud, defiant protagonist under psychological attack"
+      },
+      {
+        "name": "Catherine",
+        "role": "Antagonist who holds the poker and the botanical book and torments Juliana; surname not given on screen"
+      },
+      {
+        "name": "Gerald",
+        "role": "Referenced only; per Catherine and Juliana's claims, he left Juliana at the altar and chose money; not seen on screen"
+      },
+      {
+        "name": "Clarisse/Clarissa",
+        "role": "Referenced only; per claims, the woman Gerald chose; not seen on screen; spelling inconsistent"
+      },
+      {
+        "name": "Stone-faced guards",
+        "role": "Unnamed guards with lanterns who flank Catherine at the door; present only at EP31:E5"
+      }
+    ],
+    "beats": [
+      {
+        "id": "b1",
+        "kind": "setup",
+        "event_refs": [
+          "EP31:E1",
+          "EP31:E2",
+          "EP31:E3",
+          "EP31:E4"
+        ],
+        "description": "The cell door is unbolted and opened; Juliana, chained against the wall, recoils in terror as light floods in.",
+        "intensity_0_10": 4.0
+      },
+      {
+        "id": "b2",
+        "kind": "confrontation",
+        "event_refs": [
+          "EP31:E5",
+          "EP31:E6",
+          "EP31:E7",
+          "EP31:E8",
+          "EP31:E9",
+          "EP31:E10",
+          "EP31:E11",
+          "EP31:E12",
+          "EP31:E13"
+        ],
+        "description": "Catherine enters with a smoldering poker and charred book and taunts the chained Juliana; Juliana answers with steady defiance.",
+        "intensity_0_10": 6.0
+      },
+      {
+        "id": "b3",
+        "kind": "escalation",
+        "event_refs": [
+          "EP31:E16",
+          "EP31:E17",
+          "EP31:E18",
+          "EP31:E19",
+          "EP31:E20",
+          "EP31:E21",
+          "EP31:E22",
+          "EP31:E23"
+        ],
+        "description": "Catherine presents the singed botanical book and mocks Juliana's upbringing; Juliana retorts that she became a disgrace only by refusing cruelty.",
+        "intensity_0_10": 6.0
+      },
+      {
+        "id": "b4",
+        "kind": "escalation",
+        "event_refs": [
+          "EP31:E24",
+          "EP31:E25",
+          "EP31:E26",
+          "EP31:E27",
+          "EP31:E28",
+          "EP31:E29",
+          "EP31:E30",
+          "EP31:E31",
+          "EP31:E32"
+        ],
+        "description": "Catherine brings up Gerald leaving Juliana at the altar and Clarisse/Clarissa, while the red-hot iron hovers near the floor.",
+        "intensity_0_10": 7.0
+      },
+      {
+        "id": "b5",
+        "kind": "counterattack",
+        "event_refs": [
+          "EP31:E33",
+          "EP31:E34",
+          "EP31:E35",
+          "EP31:E36",
+          "EP31:E37",
+          "EP31:E38",
+          "EP31:E39",
+          "EP31:E40",
+          "EP31:E41",
+          "EP31:E42",
+          "EP31:E43",
+          "EP31:E44"
+        ],
+        "description": "Juliana states her own choices, asserting that she chose herself and a man of honor; Catherine sneers at him as a beggar and scarred nobody.",
+        "intensity_0_10": 6.0
+      },
+      {
+        "id": "b6",
+        "kind": "confrontation",
+        "event_refs": [
+          "EP31:E45",
+          "EP31:E46",
+          "EP31:E47",
+          "EP31:E48",
+          "EP31:E49",
+          "EP31:E50",
+          "EP31:E51",
+          "EP31:E52",
+          "EP31:E53",
+          "EP31:E54",
+          "EP31:E55",
+          "EP31:E56"
+        ],
+        "description": "Catherine questions whether Juliana's marriage is real; Juliana answers that it is love, and the two trade cutting remarks on love and cruelty.",
+        "intensity_0_10": 7.0
+      },
+      {
+        "id": "b7",
+        "kind": "confrontation",
+        "event_refs": [
+          "EP31:E57",
+          "EP31:E58",
+          "EP31:E59",
+          "EP31:E60",
+          "EP31:E61",
+          "EP31:E62",
+          "EP31:E63",
+          "EP31:E64",
+          "EP31:E65",
+          "EP31:E66",
+          "EP31:E67",
+          "EP31:E68",
+          "EP31:E69"
+        ],
+        "description": "Catherine boasts of her privilege; Juliana counters with knowledge, love, and people who need her, and her challenge to Catherine's power lands.",
+        "intensity_0_10": 8.0
+      },
+      {
+        "id": "b8",
+        "kind": "turning_point",
+        "event_refs": [
+          "EP31:E70",
+          "EP31:E71",
+          "EP31:E72",
+          "EP31:E73",
+          "EP31:E74",
+          "EP31:E75",
+          "EP31:E76",
+          "EP31:E77",
+          "EP31:E78",
+          "EP31:E79",
+          "EP31:E80",
+          "EP31:E81",
+          "EP31:E82"
+        ],
+        "description": "Catherine loses control, presses the poker onto the botanical book, and Juliana breaks into grief and pleads for its return.",
+        "intensity_0_10": 9.0
+      },
+      {
+        "id": "b9",
+        "kind": "cliffhanger",
+        "event_refs": [
+          "EP31:E83",
+          "EP31:E84",
+          "EP31:E85",
+          "EP31:E86",
+          "EP31:E87"
+        ],
+        "description": "Catherine threatens to burn the book entirely, then swings the glowing iron toward Juliana's face; it stops inches from her eyes and the episode cuts on the reflected ember in her pupil.",
+        "intensity_0_10": 10.0
+      }
+    ],
+    "revelations": [
+      {
+        "id": "r1",
+        "event_refs": [
+          "EP31:E25",
+          "EP31:E29",
+          "EP31:E32"
+        ],
+        "claim": "Catherine claims Gerald left Juliana standing at the altar and chose Clarisse/Clarissa, and that everyone saw it.",
+        "spoiler_significance_0_10": 6.0,
+        "creates_questions": [
+          "Why did Gerald leave Juliana at the altar?",
+          "Is Catherine's account of the wedding accurate?"
+        ]
+      },
+      {
+        "id": "r2",
+        "event_refs": [
+          "EP31:E34",
+          "EP31:E35",
+          "EP31:E36"
+        ],
+        "claim": "Juliana claims Gerald chose money and that Clarissa chose a coward, while she herself chose herself.",
+        "spoiler_significance_0_10": 5.0,
+        "creates_questions": [
+          "What did Gerald and Clarisse/Clarissa actually do?",
+          "Is Juliana's account reliable?"
+        ]
+      },
+      {
+        "id": "r3",
+        "event_refs": [
+          "EP31:E40",
+          "EP31:E42",
+          "EP31:E44",
+          "EP31:E46",
+          "EP31:E48"
+        ],
+        "claim": "Juliana claims she married a man of honor whom Catherine calls a beggar and a scarred nobody; Juliana insists it is love, not a mere marriage, and Catherine disputes that it is a marriage.",
+        "spoiler_significance_0_10": 7.0,
+        "creates_questions": [
+          "Who is Juliana's husband and where is he?",
+          "Is Juliana legally married?"
+        ]
+      },
+      {
+        "id": "r4",
+        "event_refs": [
+          "EP31:E61",
+          "EP31:E72",
+          "EP31:E75",
+          "EP31:E83"
+        ],
+        "claim": "Catherine states the botanical book is the only thing Juliana still has from her mother, and it is partly burned.",
+        "spoiler_significance_0_10": 6.0,
+        "creates_questions": [
+          "Will the book be destroyed completely?",
+          "What does the book mean to Juliana beyond sentiment?"
+        ]
+      }
+    ],
+    "unresolved_questions": [
+      {
+        "question": "Will Catherine burn the rest of the botanical book?",
+        "introduced_by": [
+          "EP31:E83",
+          "EP31:E84"
+        ]
+      },
+      {
+        "question": "Will Catherine's glowing iron strike Juliana's face?",
+        "introduced_by": [
+          "EP31:E85",
+          "EP31:E86",
+          "EP31:E87"
+        ]
+      },
+      {
+        "question": "Who is Juliana's husband, and is he alive, present, or looking for her?",
+        "introduced_by": [
+          "EP31:E40",
+          "EP31:E44",
+          "EP31:E46"
+        ]
+      },
+      {
+        "question": "Why did Gerald leave Juliana at the altar and choose Clarisse/Clarissa?",
+        "introduced_by": [
+          "EP31:E25",
+          "EP31:E29"
+        ]
+      },
+      {
+        "question": "Is the spelling Clarisse or Clarissa correct, and are they the same person?",
+        "introduced_by": [
+          "EP31:E29",
+          "EP31:E35"
+        ]
+      },
+      {
+        "question": "What happened in the unseen gaps of sc_001, and how do the Episode 30 events referenced in metadata connect?",
+        "introduced_by": [
+          "EP31:E87"
+        ]
+      }
+    ]
+  }
+}

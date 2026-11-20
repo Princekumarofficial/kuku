@@ -1,0 +1,239 @@
+{
+  "episode_id": "ep_008",
+  "summary": "Single scene sc_001 (0-78000 ms, interior woodland cottage, day into evening). On-screen evidence shows Juliana examining a worn herbal book and Alexander sharing knowledge of yarrow, soldier survival, and his scars, ending with Juliana's shift in view of wealth. Uncertainty: the on-screen events do not show Juliana's mother's death, the nature of the war, or Alexander's background beyond the dialogue, so these are reported only as spoken. The supplied metadata (logline and continuity notes) is not on-screen evidence and is unverified; it was not used for beats or revelations. Timestamps are integer milliseconds from the supplied event aliases.",
+  "characters": [
+    {
+      "name": "Juliana",
+      "role": "Woman examining her mother's worn herbal book; her mother wrote it over years according to her dialogue"
+    },
+    {
+      "name": "Alexander",
+      "role": "Scarred man who brings yarrow, shares plant knowledge, and references soldiering and war"
+    }
+  ],
+  "beats": [
+    {
+      "id": "b1",
+      "kind": "setup",
+      "event_refs": [
+        "EP08:E1",
+        "EP08:E2",
+        "EP08:E3",
+        "EP08:E4",
+        "EP08:E5",
+        "EP08:E6",
+        "EP08:E7"
+      ],
+      "description": "Juliana handles the aged leather herbal book, warns that some pages are ruined, and says her mother spent years writing it.",
+      "intensity_0_10": 3.0
+    },
+    {
+      "id": "b2",
+      "kind": "arrival",
+      "event_refs": [
+        "EP08:E8",
+        "EP08:E9"
+      ],
+      "description": "Alexander enters the dim room and sets a bundle of white herbal flowers beside the open book.",
+      "intensity_0_10": 3.0
+    },
+    {
+      "id": "b3",
+      "kind": "knowledge_exchange",
+      "event_refs": [
+        "EP08:E10",
+        "EP08:E11",
+        "EP08:E12",
+        "EP08:E13",
+        "EP08:E14",
+        "EP08:E15",
+        "EP08:E16",
+        "EP08:E17"
+      ],
+      "description": "Juliana identifies yarrow; Alexander says it treats wounds and fever and that soldiers learn which plants keep a man alive.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "b4",
+      "kind": "tension_affection",
+      "event_refs": [
+        "EP08:E18",
+        "EP08:E19",
+        "EP08:E20",
+        "EP08:E21",
+        "EP08:E22",
+        "EP08:E23",
+        "EP08:E24",
+        "EP08:E25",
+        "EP08:E26",
+        "EP08:E27",
+        "EP08:E28",
+        "EP08:E29",
+        "EP08:E30",
+        "EP08:E31",
+        "EP08:E32",
+        "EP08:E33"
+      ],
+      "description": "Juliana offers to trim Alexander's hair and beard; he catches her wrist and says not yet and let them grow.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b5",
+      "kind": "playful_resolution",
+      "event_refs": [
+        "EP08:E34",
+        "EP08:E35",
+        "EP08:E36",
+        "EP08:E37",
+        "EP08:E38",
+        "EP08:E39",
+        "EP08:E40",
+        "EP08:E41",
+        "EP08:E42",
+        "EP08:E43",
+        "EP08:E44"
+      ],
+      "description": "Juliana teases him about looking like a hermit; he releases her hand and replies that it has advantages. She vows to trim the beard one day and he answers we'll see.",
+      "intensity_0_10": 4.0
+    },
+    {
+      "id": "b6",
+      "kind": "shared_study_and_disclosure",
+      "event_refs": [
+        "EP08:E45",
+        "EP08:E46",
+        "EP08:E47",
+        "EP08:E48",
+        "EP08:E49",
+        "EP08:E50",
+        "EP08:E51"
+      ],
+      "description": "They sit together over the herb book; Alexander points out a plant that eases swelling and Juliana says her mother wrote the same. She asks whether his scars came from war.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b7",
+      "kind": "war_memory",
+      "event_refs": [
+        "EP08:E52",
+        "EP08:E53",
+        "EP08:E54",
+        "EP08:E55",
+        "EP08:E56",
+        "EP08:E57"
+      ],
+      "description": "Alexander answers that some scars were from war and that it was terrible; his gaze turns heavy with past battles.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b8",
+      "kind": "emotional_turn",
+      "event_refs": [
+        "EP08:E58",
+        "EP08:E59",
+        "EP08:E60",
+        "EP08:E61",
+        "EP08:E62"
+      ],
+      "description": "Juliana says she once thought losing wealth meant losing everything, then says perhaps she was wrong, while the two sit by the hearth.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "b9",
+      "kind": "closing_fade",
+      "event_refs": [
+        "EP08:E63"
+      ],
+      "description": "Juliana holds a warm, peaceful gaze across the table as firelight flickers and the scene fades out.",
+      "intensity_0_10": 2.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "r1",
+      "event_refs": [
+        "EP08:E17",
+        "EP08:E21"
+      ],
+      "claim": "Alexander says he learned which plants keep a man alive as a soldier and downplays his knowledge as enough to survive.",
+      "spoiler_significance_0_10": 3.0,
+      "creates_questions": [
+        "Where else did Alexander learn herbal knowledge beyond soldiering?"
+      ]
+    },
+    {
+      "id": "r2",
+      "event_refs": [
+        "EP08:E47",
+        "EP08:E49"
+      ],
+      "claim": "Juliana says her mother wrote the same thing about a plant that Alexander describes as easing swelling.",
+      "spoiler_significance_0_10": 2.0,
+      "creates_questions": [
+        "What is the mother's current status, which is not shown on screen?"
+      ]
+    },
+    {
+      "id": "r3",
+      "event_refs": [
+        "EP08:E53",
+        "EP08:E57"
+      ],
+      "claim": "Alexander says some of his scars came from war and that the war was terrible, without describing specific events.",
+      "spoiler_significance_0_10": 4.0,
+      "creates_questions": [
+        "What war experiences caused Alexander's scars and memories?"
+      ]
+    },
+    {
+      "id": "r4",
+      "event_refs": [
+        "EP08:E59",
+        "EP08:E62"
+      ],
+      "claim": "Juliana admits she once equated losing wealth with losing everything and suggests she may have been wrong.",
+      "spoiler_significance_0_10": 3.0,
+      "creates_questions": [
+        "Will Juliana's changed view of wealth affect the rest of the story?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "Why does Alexander say not yet about trimming his hair and beard?",
+      "introduced_by": [
+        "EP08:E29",
+        "EP08:E33"
+      ]
+    },
+    {
+      "question": "What war experiences caused Alexander's scars and memories?",
+      "introduced_by": [
+        "EP08:E51",
+        "EP08:E53",
+        "EP08:E57"
+      ]
+    },
+    {
+      "question": "What is the status of Juliana's mother and the history of the herbal book?",
+      "introduced_by": [
+        "EP08:E7",
+        "EP08:E49"
+      ]
+    },
+    {
+      "question": "What is Alexander's background beyond soldiering and herbal knowledge?",
+      "introduced_by": [
+        "EP08:E17",
+        "EP08:E21"
+      ]
+    },
+    {
+      "question": "How will Juliana's changed view of wealth shape the story?",
+      "introduced_by": [
+        "EP08:E59",
+        "EP08:E62"
+      ]
+    }
+  ]
+}

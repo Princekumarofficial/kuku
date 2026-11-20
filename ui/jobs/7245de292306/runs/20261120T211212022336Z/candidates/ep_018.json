@@ -1,0 +1,602 @@
+[
+  {
+    "candidate_id": "c_a6ffa92980cce33a",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 0,
+        "end_ms": 41800,
+        "episode_id": "ep_018"
+      }
+    ],
+    "duration_ms": 41800,
+    "origin": "opp_01",
+    "clip_events": [
+      {
+        "ref": "EP18:E1",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle shot on the wooden floor as bright orange flames crackle beneath the closed bedroom door, thick smoke billowing through the crevices."
+      },
+      {
+        "ref": "EP18:E2",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2100,
+        "type": "sound",
+        "speaker": null,
+        "text": "Muffled crackle and roar of an encroaching blaze."
+      },
+      {
+        "ref": "EP18:E3",
+        "segment_index": 0,
+        "relative_start_ms": 2100,
+        "relative_end_ms": 5800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up overhead shot of Juliana asleep on her pillow as her eyelids flutter open, gasping and coughing violently from the choking smoke."
+      },
+      {
+        "ref": "EP18:E4",
+        "segment_index": 0,
+        "relative_start_ms": 3500,
+        "relative_end_ms": 6000,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana coughs, her eyes widening in immediate alarm as the smell of burning wood fills her lungs."
+      },
+      {
+        "ref": "EP18:E5",
+        "segment_index": 0,
+        "relative_start_ms": 6000,
+        "relative_end_ms": 9500,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana bolts upright in bed, tossing off the woolen quilt as she sees the orange glow under the door."
+      },
+      {
+        "ref": "EP18:E6",
+        "segment_index": 0,
+        "relative_start_ms": 6500,
+        "relative_end_ms": 8500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Alexander!\""
+      },
+      {
+        "ref": "EP18:E7",
+        "segment_index": 0,
+        "relative_start_ms": 9500,
+        "relative_end_ms": 12800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as Juliana swings her bare legs out of bed onto the floor, trembling with panic."
+      },
+      {
+        "ref": "EP18:E8",
+        "segment_index": 0,
+        "relative_start_ms": 10500,
+        "relative_end_ms": 12300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Alexander!\""
+      },
+      {
+        "ref": "EP18:E9",
+        "segment_index": 0,
+        "relative_start_ms": 12800,
+        "relative_end_ms": 16200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle close shot of the bedroom door glowing intensely, fire licking the wooden floorboards as smoke pours inward."
+      },
+      {
+        "ref": "EP18:E10",
+        "segment_index": 0,
+        "relative_start_ms": 16200,
+        "relative_end_ms": 20100,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana sits huddled at the edge of the bed, pressing her bandaged hands against her mouth, coughing and sobbing in fear."
+      },
+      {
+        "ref": "EP18:E11",
+        "segment_index": 0,
+        "relative_start_ms": 17800,
+        "relative_end_ms": 19800,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Alexander...\""
+      },
+      {
+        "ref": "EP18:E12",
+        "segment_index": 0,
+        "relative_start_ms": 19500,
+        "relative_end_ms": 21000,
+        "type": "sound",
+        "speaker": null,
+        "text": "A violent crash as the bedroom door is kicked open."
+      },
+      {
+        "ref": "EP18:E13",
+        "segment_index": 0,
+        "relative_start_ms": 20100,
+        "relative_end_ms": 22800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Framed in the doorway engulfed by blazing orange light, Alexander bursts in, his dark hair flying, looking like an imposing guardian amid the smoke."
+      },
+      {
+        "ref": "EP18:E14",
+        "segment_index": 0,
+        "relative_start_ms": 20800,
+        "relative_end_ms": 22500,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Juliana! Get up!\""
+      },
+      {
+        "ref": "EP18:E15",
+        "segment_index": 0,
+        "relative_start_ms": 22800,
+        "relative_end_ms": 26000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide tracking shot as Alexander rushes across the burning, smoke-choked room toward her bed."
+      },
+      {
+        "ref": "EP18:E16",
+        "segment_index": 0,
+        "relative_start_ms": 24500,
+        "relative_end_ms": 28900,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander reaches the bed, hoisting Juliana up by her arms into a standing embrace."
+      },
+      {
+        "ref": "EP18:E17",
+        "segment_index": 0,
+        "relative_start_ms": 26500,
+        "relative_end_ms": 28000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"What happened?\""
+      },
+      {
+        "ref": "EP18:E18",
+        "segment_index": 0,
+        "relative_start_ms": 28100,
+        "relative_end_ms": 28900,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Fire.\""
+      },
+      {
+        "ref": "EP18:E19",
+        "segment_index": 0,
+        "relative_start_ms": 28900,
+        "relative_end_ms": 30800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Over-the-shoulder shot past Alexander toward the blazing threshold of the main room, beams collapsing across the doorway."
+      },
+      {
+        "ref": "EP18:E20",
+        "segment_index": 0,
+        "relative_start_ms": 30800,
+        "relative_end_ms": 33000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Alexander wrapping a heavy coat tightly around Juliana's shoulders."
+      },
+      {
+        "ref": "EP18:E21",
+        "segment_index": 0,
+        "relative_start_ms": 32500,
+        "relative_end_ms": 36500,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander clutches Juliana against his chest with one strong arm, shielding her face from the sparks."
+      },
+      {
+        "ref": "EP18:E22",
+        "segment_index": 0,
+        "relative_start_ms": 33200,
+        "relative_end_ms": 35200,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Stay close to me.\""
+      },
+      {
+        "ref": "EP18:E23",
+        "segment_index": 0,
+        "relative_start_ms": 36500,
+        "relative_end_ms": 39000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Reverse shot from behind them facing the burning door frame as wall-high flames roar, completely sealing their exit."
+      },
+      {
+        "ref": "EP18:E24",
+        "segment_index": 0,
+        "relative_start_ms": 38000,
+        "relative_end_ms": 41500,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana recoils from the heat, clutching Alexander's coat tightly."
+      },
+      {
+        "ref": "EP18:E25",
+        "segment_index": 0,
+        "relative_start_ms": 39500,
+        "relative_end_ms": 41800,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"We cannot get through!\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_357065232913879f",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 17800,
+        "end_ms": 41800,
+        "episode_id": "ep_018"
+      }
+    ],
+    "duration_ms": 24000,
+    "origin": "opp_02",
+    "clip_events": [
+      {
+        "ref": "EP18:E10",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2300,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana sits huddled at the edge of the bed, pressing her bandaged hands against her mouth, coughing and sobbing in fear."
+      },
+      {
+        "ref": "EP18:E11",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Alexander...\""
+      },
+      {
+        "ref": "EP18:E12",
+        "segment_index": 0,
+        "relative_start_ms": 1700,
+        "relative_end_ms": 3200,
+        "type": "sound",
+        "speaker": null,
+        "text": "A violent crash as the bedroom door is kicked open."
+      },
+      {
+        "ref": "EP18:E13",
+        "segment_index": 0,
+        "relative_start_ms": 2300,
+        "relative_end_ms": 5000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Framed in the doorway engulfed by blazing orange light, Alexander bursts in, his dark hair flying, looking like an imposing guardian amid the smoke."
+      },
+      {
+        "ref": "EP18:E14",
+        "segment_index": 0,
+        "relative_start_ms": 3000,
+        "relative_end_ms": 4700,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Juliana! Get up!\""
+      },
+      {
+        "ref": "EP18:E15",
+        "segment_index": 0,
+        "relative_start_ms": 5000,
+        "relative_end_ms": 8200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide tracking shot as Alexander rushes across the burning, smoke-choked room toward her bed."
+      },
+      {
+        "ref": "EP18:E16",
+        "segment_index": 0,
+        "relative_start_ms": 6700,
+        "relative_end_ms": 11100,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander reaches the bed, hoisting Juliana up by her arms into a standing embrace."
+      },
+      {
+        "ref": "EP18:E17",
+        "segment_index": 0,
+        "relative_start_ms": 8700,
+        "relative_end_ms": 10200,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"What happened?\""
+      },
+      {
+        "ref": "EP18:E18",
+        "segment_index": 0,
+        "relative_start_ms": 10300,
+        "relative_end_ms": 11100,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Fire.\""
+      },
+      {
+        "ref": "EP18:E19",
+        "segment_index": 0,
+        "relative_start_ms": 11100,
+        "relative_end_ms": 13000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Over-the-shoulder shot past Alexander toward the blazing threshold of the main room, beams collapsing across the doorway."
+      },
+      {
+        "ref": "EP18:E20",
+        "segment_index": 0,
+        "relative_start_ms": 13000,
+        "relative_end_ms": 15200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Alexander wrapping a heavy coat tightly around Juliana's shoulders."
+      },
+      {
+        "ref": "EP18:E21",
+        "segment_index": 0,
+        "relative_start_ms": 14700,
+        "relative_end_ms": 18700,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander clutches Juliana against his chest with one strong arm, shielding her face from the sparks."
+      },
+      {
+        "ref": "EP18:E22",
+        "segment_index": 0,
+        "relative_start_ms": 15400,
+        "relative_end_ms": 17400,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Stay close to me.\""
+      },
+      {
+        "ref": "EP18:E23",
+        "segment_index": 0,
+        "relative_start_ms": 18700,
+        "relative_end_ms": 21200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Reverse shot from behind them facing the burning door frame as wall-high flames roar, completely sealing their exit."
+      },
+      {
+        "ref": "EP18:E24",
+        "segment_index": 0,
+        "relative_start_ms": 20200,
+        "relative_end_ms": 23700,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana recoils from the heat, clutching Alexander's coat tightly."
+      },
+      {
+        "ref": "EP18:E25",
+        "segment_index": 0,
+        "relative_start_ms": 21700,
+        "relative_end_ms": 24000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"We cannot get through!\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_51983e8a35ddc017",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 134500,
+        "end_ms": 160800,
+        "episode_id": "ep_018"
+      }
+    ],
+    "duration_ms": 26300,
+    "origin": "opp_03",
+    "clip_events": [
+      {
+        "ref": "EP18:E66",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 5500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot of the cottage completely consumed by towering flames against the dark night sky."
+      },
+      {
+        "ref": "EP18:E67",
+        "segment_index": 0,
+        "relative_start_ms": 1700,
+        "relative_end_ms": 3500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Our home...\""
+      },
+      {
+        "ref": "EP18:E68",
+        "segment_index": 0,
+        "relative_start_ms": 5300,
+        "relative_end_ms": 8000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Everything we had is gone.\""
+      },
+      {
+        "ref": "EP18:E69",
+        "segment_index": 0,
+        "relative_start_ms": 6000,
+        "relative_end_ms": 9500,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander kneels beside her in the grass, resting a steady, protective hand on her back."
+      },
+      {
+        "ref": "EP18:E70",
+        "segment_index": 0,
+        "relative_start_ms": 9500,
+        "relative_end_ms": 20500,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana turns toward Alexander, her hand trembling as she reaches out and touches his chest."
+      },
+      {
+        "ref": "EP18:E71",
+        "segment_index": 0,
+        "relative_start_ms": 11300,
+        "relative_end_ms": 14000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Why would anyone do this?\""
+      },
+      {
+        "ref": "EP18:E72",
+        "segment_index": 0,
+        "relative_start_ms": 18700,
+        "relative_end_ms": 20300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Alexander...\""
+      },
+      {
+        "ref": "EP18:E73",
+        "segment_index": 0,
+        "relative_start_ms": 20500,
+        "relative_end_ms": 26300,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander draws her firmly into his arms, wrapping both burly arms around her as she buries her face into his shoulder, weeping uncontrollably."
+      },
+      {
+        "ref": "EP18:E74",
+        "segment_index": 0,
+        "relative_start_ms": 23500,
+        "relative_end_ms": 26300,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Someone wanted us out.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_e94fa21d512bae86",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 81500,
+        "end_ms": 101500,
+        "episode_id": "ep_018"
+      }
+    ],
+    "duration_ms": 20000,
+    "origin": "recovery_B6",
+    "clip_events": [
+      {
+        "ref": "EP18:E44",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the ceiling rafter splitting violently apart above her."
+      },
+      {
+        "ref": "EP18:E45",
+        "segment_index": 0,
+        "relative_start_ms": 2000,
+        "relative_end_ms": 5000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana looking up in sheer terror, firelight dancing across her tearful face."
+      },
+      {
+        "ref": "EP18:E46",
+        "segment_index": 0,
+        "relative_start_ms": 2500,
+        "relative_end_ms": 4700,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Alexander!\""
+      },
+      {
+        "ref": "EP18:E48",
+        "segment_index": 0,
+        "relative_start_ms": 5000,
+        "relative_end_ms": 6000,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Down!\""
+      },
+      {
+        "ref": "EP18:E47",
+        "segment_index": 0,
+        "relative_start_ms": 5000,
+        "relative_end_ms": 8000,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander lunges across the room, tackling her to the wooden floor and covering her body entirely with his own."
+      },
+      {
+        "ref": "EP18:E49",
+        "segment_index": 0,
+        "relative_start_ms": 6300,
+        "relative_end_ms": 8500,
+        "type": "sound",
+        "speaker": null,
+        "text": "Massive wooden beam crashes directly where Juliana had been standing, showering them in sparks."
+      },
+      {
+        "ref": "EP18:E50",
+        "segment_index": 0,
+        "relative_start_ms": 8000,
+        "relative_end_ms": 12500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Ground-level shot of Alexander lying on top of Juliana, his chest shielding her, his face smeared with soot."
+      },
+      {
+        "ref": "EP18:E51",
+        "segment_index": 0,
+        "relative_start_ms": 10000,
+        "relative_end_ms": 16500,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander lifts his head slightly, checking her face and cradling her cheek tenderly."
+      },
+      {
+        "ref": "EP18:E52",
+        "segment_index": 0,
+        "relative_start_ms": 15000,
+        "relative_end_ms": 16700,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"I've got you.\""
+      },
+      {
+        "ref": "EP18:E53",
+        "segment_index": 0,
+        "relative_start_ms": 17000,
+        "relative_end_ms": 20000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot of the walls collapsing in curtains of flame, cutting off all interior hallways."
+      }
+    ]
+  }
+]

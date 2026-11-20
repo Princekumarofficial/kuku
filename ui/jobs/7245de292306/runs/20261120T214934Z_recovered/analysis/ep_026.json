@@ -1,0 +1,230 @@
+{
+  "episode_id": "ep_026",
+  "summary": "On-screen evidence shows a night bedchamber scene in which Juliana, in a maid's apron, gives the poisoned Dowager Duchess drops from an amber bottle while guards may be near. The Duchess wakes, questions Juliana, accuses Rupert and Catherine of poisoning her (both are named but unseen on screen), and reacts with shock when she sees a distinctive signet ring on Juliana's hand. The scene ends on a grasp and a demand about the ring, cutting to black. Uncertainties: the scene ends mid-action, the origin and meaning of the ring are not shown, and the identities of Rupert and Catherine's roles are only inferred from dialogue. The supplied metadata (logline and continuity notes) describes unseen events and is not used as on-screen evidence, so details such as the forest encounter with Alexander are excluded.",
+  "characters": [
+    {
+      "name": "Juliana",
+      "role": "Disguised maid who secretly administers antidote to the Dowager Duchess and wears a distinctive signet ring"
+    },
+    {
+      "name": "Dowager Duchess",
+      "role": "Poisoned elderly noblewoman who recognizes the ring and demands the truth"
+    },
+    {
+      "name": "Rupert",
+      "role": "Named by the Duchess as a suspected poisoner; does not appear on screen"
+    },
+    {
+      "name": "Catherine",
+      "role": "Named by the Duchess as a suspected poisoner; does not appear on screen"
+    }
+  ],
+  "beats": [
+    {
+      "id": "b1",
+      "kind": "setup",
+      "event_refs": [
+        "EP26:E1",
+        "EP26:E2",
+        "EP26:E3",
+        "EP26:E4"
+      ],
+      "description": "Juliana keeps watch over the ailing Duchess in a dark bedchamber, checks the door for guards, and prepares the medicine bottle.",
+      "intensity_0_10": 3.0
+    },
+    {
+      "id": "b2",
+      "kind": "action",
+      "event_refs": [
+        "EP26:E10",
+        "EP26:E11",
+        "EP26:E12",
+        "EP26:E13"
+      ],
+      "description": "Juliana urges the Duchess to drink the last of the antidote and administers it drop by drop.",
+      "intensity_0_10": 4.0
+    },
+    {
+      "id": "b3",
+      "kind": "inciting_question",
+      "event_refs": [
+        "EP26:E5",
+        "EP26:E6",
+        "EP26:E7",
+        "EP26:E8",
+        "EP26:E9"
+      ],
+      "description": "The Duchess wakes, sees a stranger, and asks who she is.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "b4",
+      "kind": "recognition",
+      "event_refs": [
+        "EP26:E14",
+        "EP26:E15",
+        "EP26:E16",
+        "EP26:E17"
+      ],
+      "description": "The Duchess recognizes Juliana as the woman who took Catherine's whip for her; Juliana answers humbly that it does not change her duty.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "b5",
+      "kind": "tension",
+      "event_refs": [
+        "EP26:E20",
+        "EP26:E21",
+        "EP26:E22"
+      ],
+      "description": "Juliana warns in a whisper that the guards would kill them both if they heard, and the door is left ajar.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b6",
+      "kind": "revelation_moment",
+      "event_refs": [
+        "EP26:E23",
+        "EP26:E24",
+        "EP26:E25",
+        "EP26:E26",
+        "EP26:E27",
+        "EP26:E28"
+      ],
+      "description": "The Duchess realizes she is being poisoned by Rupert and Catherine, and Juliana confirms the poisoning while saying the charcoal is fighting it.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b7",
+      "kind": "probing",
+      "event_refs": [
+        "EP26:E30",
+        "EP26:E31",
+        "EP26:E32",
+        "EP26:E33"
+      ],
+      "description": "The Duchess asks why a noble-spirited girl works as a maid, and Juliana says her family cast her out and she has only her honor left.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b8",
+      "kind": "reveal_object",
+      "event_refs": [
+        "EP26:E34",
+        "EP26:E35",
+        "EP26:E36",
+        "EP26:E37",
+        "EP26:E38"
+      ],
+      "description": "Juliana's hand rests on the bedcover, showing a distinctive engraved signet ring in the Duchess's sight; the Duchess gasps in shock.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "b9",
+      "kind": "escalation",
+      "event_refs": [
+        "EP26:E39",
+        "EP26:E40",
+        "EP26:E41",
+        "EP26:E42"
+      ],
+      "description": "The Duchess pushes up and demands to see Juliana's hand, while Juliana reacts with confusion and alarm.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "b10",
+      "kind": "confrontation",
+      "event_refs": [
+        "EP26:E43",
+        "EP26:E44",
+        "EP26:E45",
+        "EP26:E46",
+        "EP26:E47",
+        "EP26:E48",
+        "EP26:E49"
+      ],
+      "description": "The Duchess grips Juliana's sleeve and demands to know where she got the ring.",
+      "intensity_0_10": 9.0
+    },
+    {
+      "id": "b11",
+      "kind": "cliffhanger",
+      "event_refs": [
+        "EP26:E50",
+        "EP26:E51"
+      ],
+      "description": "Juliana freezes while the Duchess holds the ring between them as an orchestral chord swells and the scene cuts to black.",
+      "intensity_0_10": 9.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "r1",
+      "event_refs": [
+        "EP26:E26",
+        "EP26:E28"
+      ],
+      "claim": "The Duchess believes Rupert and Catherine are poisoning her, and Juliana confirms the poisoning while saying the charcoal is fighting it.",
+      "spoiler_significance_0_10": 7.0,
+      "creates_questions": [
+        "Are Rupert and Catherine responsible for the poisoning and how will they be exposed?",
+        "Will the antidote fully counter the poison?"
+      ]
+    },
+    {
+      "id": "r2",
+      "event_refs": [
+        "EP26:E33"
+      ],
+      "claim": "Juliana says her family cast her out, leaving her with only her honor.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "Who is Juliana's family and why did they cast her out?"
+      ]
+    },
+    {
+      "id": "r3",
+      "event_refs": [
+        "EP26:E34",
+        "EP26:E37",
+        "EP26:E49"
+      ],
+      "claim": "Juliana's engraved signet ring shocks the Duchess, who demands to know where it came from.",
+      "spoiler_significance_0_10": 8.0,
+      "creates_questions": [
+        "What is the signet ring's connection to the Duchess and to Juliana's family?",
+        "Why does the ring provoke such shock in the Duchess?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "Who is Juliana's true identity and what is her family's connection to the Duchess?",
+      "introduced_by": [
+        "EP26:E33",
+        "EP26:E49"
+      ]
+    },
+    {
+      "question": "What is the significance of the signet ring and where did Juliana get it?",
+      "introduced_by": [
+        "EP26:E34",
+        "EP26:E36",
+        "EP26:E49"
+      ]
+    },
+    {
+      "question": "Will Rupert and Catherine be exposed as the poisoners?",
+      "introduced_by": [
+        "EP26:E26"
+      ]
+    },
+    {
+      "question": "Is the remaining antidote enough to stop the poison?",
+      "introduced_by": [
+        "EP26:E10",
+        "EP26:E28"
+      ]
+    }
+  ]
+}

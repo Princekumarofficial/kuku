@@ -1,0 +1,57 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "ep004_opp_01",
+      "episode_id": "ep_004",
+      "concept": "Gerald erupts at the newly wed Juliana, and she answers his rage with defiance before the family disowns her.",
+      "hook_refs": [
+        "EP04:E87"
+      ],
+      "ending_refs": [
+        "EP04:E103"
+      ],
+      "context_refs": [
+        "EP04:E84",
+        "EP04:E89",
+        "EP04:E99"
+      ],
+      "why_promising": "The hook is a direct confrontation line, and the clip builds through Gerald's fury and Lady Ashcroft's disownment to the warrior's unresolved call 'Come, Lady Juliana' before the exit is shown."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep004_opp_02",
+      "episode_id": "ep_004",
+      "concept": "Juliana questions why a stranger offers her his name, and his answers escalate into a vow of protection.",
+      "hook_refs": [
+        "EP04:E22"
+      ],
+      "ending_refs": [
+        "EP04:E46"
+      ],
+      "context_refs": [
+        "EP04:E24",
+        "EP04:E29",
+        "EP04:E31"
+      ],
+      "why_promising": "The opening question creates immediate tension, and the clip develops from the warrior's claim that she was betrayed to the unresolved line 'It is a vow' within one continuous coverage interval."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep004_opp_03",
+      "episode_id": "ep_004",
+      "concept": "The priest hesitates over the wedding and asks Juliana whether she is certain, and she answers without wavering.",
+      "hook_refs": [
+        "EP04:E63"
+      ],
+      "ending_refs": [
+        "EP04:E82"
+      ],
+      "context_refs": [
+        "EP04:E66",
+        "EP04:E68"
+      ],
+      "why_promising": "The priest's doubt is a clear hook, and the clip ends on the unresolved line 'I now pronounce you...' just before the off-screen pronouncement at E84."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c_cda128f4a321cbbe",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP48:E2",
+      "EP48:E3"
+    ],
+    "reason": "The clip opens on Catherine turning with a cold smirk, and the line starting at 2400ms ('Two words, and that healer's crown rolls right back into the gutter') sets up a menacing threat immediately, though the target is unexplained."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP48:E13",
+      "EP48:E14"
+    ],
+    "reason": "The clip ends on the unresolved threat 'And doors can be closed from the other side,' with no outcome shown for Alexander or the ten-day deadline, so the danger is left open rather than resolved.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Alexander is and his relationship to Catherine",
+      "What the 'healer's crown' is and why it matters",
+      "What decree is being undone and why",
+      "Who or what the council and the witnesses relate to",
+      "What the ten-day deadline refers to and who 'he' is"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Catherine's venomous smirk, calculating contempt, and clenched fist with blazing malice convey strong menace and ruthless determination."
+  },
+  "weaknesses": [
+    "Heavy reliance on unexplained names and events makes the stakes hard for a first-time viewer to grasp",
+    "No response from Alexander or any other character is shown, so the threat has no visible counterpart",
+    "The monologue is largely exposition-like and repetitive ('Ten days for...'), which may dilute tension",
+    "Stakes and consequences of failure are never made concrete"
+  ],
+  "one_line_why_it_works": "Catherine's cold, escalating ultimatum over a ten-day deadline ends on an ominous line that leaves the threat open, creating menace even without context."
+}

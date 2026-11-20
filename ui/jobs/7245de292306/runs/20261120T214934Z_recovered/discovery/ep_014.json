@@ -1,0 +1,69 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "ep014_opp_01",
+      "episode_id": "ep_014",
+      "concept": "Juliana returns with the ring and demands Alexander's release, then asks to be taken home, ending on an unresolved plea.",
+      "hook_refs": [
+        "EP14:E5"
+      ],
+      "ending_refs": [
+        "EP14:E19"
+      ],
+      "context_refs": [
+        "EP14:E7",
+        "EP14:E8"
+      ],
+      "why_promising": "The hook 'I found it' starts at 7700ms, inside the first 3 seconds of the clip. The clip runs 7700-28500ms (20.8s). Her later claim that the cost was what 'they' promised stays unresolved, and the context refs fall inside the clip."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep014_opp_02",
+      "episode_id": "ep_014",
+      "concept": "Alexander learns Juliana was hurt for him and reacts by bandaging her hands, ending on his vow of protection.",
+      "hook_refs": [
+        "EP14:E32"
+      ],
+      "ending_refs": [
+        "EP14:E47"
+      ],
+      "context_refs": [
+        "EP14:E34"
+      ],
+      "why_promising": "The hook 'You could have lost your hands' starts at 47200ms, inside the first 3 seconds. The clip runs 47200-81000ms (33.8s). The context line 'But I didn't lose you' falls inside the clip, and the vow stays unresolved."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep014_opp_03",
+      "episode_id": "ep_014",
+      "concept": "Juliana says she took Alexander's place, and the episode closes on Alexander's clenched fist and the cut to black.",
+      "hook_refs": [
+        "EP14:E42"
+      ],
+      "ending_refs": [
+        "EP14:E50"
+      ],
+      "context_refs": [
+        "EP14:E43"
+      ],
+      "why_promising": "The hook 'You have taken my place today' starts at 66000ms, inside the first 3 seconds. The clip runs 66000-87000ms (21s). The unexplained 'place' and the fist that signals vengeance leave the threat open."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep014_opp_04",
+      "episode_id": "ep_014",
+      "concept": "Alexander apologizes for hurting Juliana, and she denies he did, leading into his vow to protect her.",
+      "hook_refs": [
+        "EP14:E37"
+      ],
+      "ending_refs": [
+        "EP14:E47"
+      ],
+      "context_refs": [
+        "EP14:E39"
+      ],
+      "why_promising": "The hook 'I'm sorry' starts at 58500ms, inside the first 3 seconds. The clip runs 58500-81000ms (22.5s). The reassurance 'You didn't hurt me' falls inside the clip, and the vow that ends it stays unresolved."
+    }
+  ]
+}

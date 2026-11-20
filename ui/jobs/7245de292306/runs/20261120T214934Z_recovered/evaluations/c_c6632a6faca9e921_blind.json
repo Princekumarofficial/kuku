@@ -1,0 +1,40 @@
+{
+  "candidate_id": "c_c6632a6faca9e921",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP03:E34",
+      "EP03:E35"
+    ],
+    "reason": "The opening shot of the Noble Matriarch's disdain and her line calling Juliana a discarded daughter establish cruelty and conflict within the first 3000ms."
+  },
+  "cliffhanger": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP03:E62",
+      "EP03:E63"
+    ],
+    "reason": "The clip ends with the Bearded Stranger still walking toward the altar while the Matriarch demands who he is, so the confrontation is unresolved at the end.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Who Lady Juliana is and why she is treated as a discarded daughter",
+      "The meaning of the father's choice of family and what is at stake",
+      "The identity and relevance of The Bearded Stranger",
+      "Why the cathedral ceremony is significant and why guards are present"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Juliana's defiance, the guards dragging her, and the Matriarch's vicious delight create strong tension and sympathy for Juliana."
+  },
+  "weaknesses": [
+    "Stranger's identity and motive are never established within the clip",
+    "Family conflict and father's decision are referenced without context",
+    "Juliana's backstory and relationship to the congregation are unexplained",
+    "Ending relies on a viewer caring about an unknown confrontation"
+  ],
+  "one_line_why_it_works": "A cruel public humiliation of a sympathetic heroine is interrupted by a mysterious intruder, ending on an open challenge that demands the next moment."
+}

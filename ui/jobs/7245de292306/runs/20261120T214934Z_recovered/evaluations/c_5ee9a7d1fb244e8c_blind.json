@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_5ee9a7d1fb244e8c",
+  "hook": {
+    "score_0_10": 5.0,
+    "evidence_refs": [
+      "EP06:E18",
+      "EP06:E43"
+    ],
+    "reason": "The opening line 'I suppose the day was already ruined.' starts within 0-3000ms and creates a small question about what happened, but the opening is a quiet, slow close-up. The final evidence (E43, 28400-29100) is a reveal of a damp white bridal dress, which hints at intrigue without a strong closing pull.)"
+  },
+  "cliffhanger": {
+    "score_0_10": 3.0,
+    "evidence_refs": [
+      "EP06:E42",
+      "EP06:E43"
+    ],
+    "reason": "The clip ends as Juliana removes her cloak and reveals a bridal dress. This is an unanswered visual detail, but the scene itself reaches a settled point with no threat, danger, or announced next event, so it reads as a pause rather than a cliffhanger.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Who Juliana is and why she is in a white bridal dress",
+      "What the earlier 'day was ruined' event was",
+      "Why someone would be waiting to humiliate her",
+      "Who the Mysterious Bearded Man is and his relationship to Juliana",
+      "What 'You came from comfort' implies about her situation",
+      "Why they travel to the cottage and what it means to them"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 5.0,
+    "reason": "The clip has a wistful, comforting smile, a solemn and reflective look, and a somber apology with a sparse setting. These create a melancholy tone, but the emotional stakes are not explained well enough to hit hard."
+  },
+  "weaknesses": [
+    "Heavy reliance on unexplained references such as the ruined day and the humiliation",
+    "Slow pacing with long close-ups and little forward momentum",
+    "Ending is a mundane action without a clear hook for what follows",
+    "Bearded man's apology and 'all I can give you' lack a clear stake for a first-time viewer",
+    "Ambiguous timing where some evidence overlaps and the clip relies on implied backstory"
+  ],
+  "one_line_why_it_works": "The quiet melancholy and the bridal-dress reveal create curiosity about Juliana's situation, even though the clip is missing the context needed to make that curiosity satisfying."
+}

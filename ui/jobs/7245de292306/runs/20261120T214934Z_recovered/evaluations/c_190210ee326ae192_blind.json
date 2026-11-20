@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_190210ee326ae192",
+  "hook": {
+    "score_0_10": 7.5,
+    "evidence_refs": [
+      "EP15:E6",
+      "EP15:E9",
+      "EP15:E10"
+    ],
+    "reason": "The clip opens with a thug over the chamomile, then Juliana bursts in with bandaged hands and shouts 'Stop! What are you doing?!', creating immediate conflict within the first seconds."
+  },
+  "cliffhanger": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP15:E42",
+      "EP15:E44"
+    ],
+    "reason": "The Tall Thug raises his club to crush the remaining herbs, and the clip ends with the Thug with Cap stiffening as footsteps pound in the darkness. The threat is unresolved at the final frame.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Juliana's relationship to the garden and to her mother is not explained beyond 'My mother's plants'",
+      "Why Juliana's hands are bandaged is not shown",
+      "The identities and motives of the thugs are not established",
+      "The significance of the chamomile plants and why they were targeted is unclear",
+      "The source of the footsteps and who is approaching are unknown"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Juliana's anguish, the crushing of her plants, the blood through her bandages, and the mocking laughter of the thugs create strong distress and sympathy."
+  },
+  "weaknesses": [
+    "Stakes and backstory rely on unexplained references such as 'my mother's plants' and the bandaged hands",
+    "Thugs are introduced by descriptors without established names or roles, which weakens first-viewer orientation",
+    "The ending's cliffhanger depends on an unseen arrival with no prior setup",
+    "Repeated shoving and pleading beats may feel formulaic without new information"
+  ],
+  "one_line_why_it_works": "A sympathetic heroine's wounded defiance against cruel thugs escalates to a raised club and an unseen threat arriving in the dark, leaving the moment unresolved."
+}

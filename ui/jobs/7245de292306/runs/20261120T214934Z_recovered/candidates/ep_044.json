@@ -1,0 +1,1097 @@
+[
+  {
+    "candidate_id": "c_5ecbf87168bee037",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 3200,
+        "end_ms": 51000,
+        "episode_id": "ep_044"
+      }
+    ],
+    "duration_ms": 47800,
+    "origin": "opp_01",
+    "clip_events": [
+      {
+        "ref": "EP44:E3",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 5400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot of the Police Constable towering over Lord Sterling."
+      },
+      {
+        "ref": "EP44:E4",
+        "segment_index": 0,
+        "relative_start_ms": 100,
+        "relative_end_ms": 5000,
+        "type": "dialogue",
+        "speaker": "POLICE CONSTABLE",
+        "text": "\"Lord Henry Sterling, you are under arrest by order of the Crown.\""
+      },
+      {
+        "ref": "EP44:E5",
+        "segment_index": 0,
+        "relative_start_ms": 5400,
+        "relative_end_ms": 8200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Lord Sterling's trembling, indignant face."
+      },
+      {
+        "ref": "EP44:E6",
+        "segment_index": 0,
+        "relative_start_ms": 5900,
+        "relative_end_ms": 8000,
+        "type": "dialogue",
+        "speaker": "LORD STERLING",
+        "text": "\"You have no authority!\""
+      },
+      {
+        "ref": "EP44:E8",
+        "segment_index": 0,
+        "relative_start_ms": 8200,
+        "relative_end_ms": 10000,
+        "type": "dialogue",
+        "speaker": "POLICE CONSTABLE",
+        "text": "\"I have more than enough.\""
+      },
+      {
+        "ref": "EP44:E7",
+        "segment_index": 0,
+        "relative_start_ms": 8200,
+        "relative_end_ms": 10600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on the Constable's black-gloved hands holding out a thick, red-ribboned dossier stamped with the Crown's royal wax seal."
+      },
+      {
+        "ref": "EP44:E9",
+        "segment_index": 0,
+        "relative_start_ms": 10600,
+        "relative_end_ms": 13200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot of the ruined nave littered with rubble as royal redcoat guards surround the aisle, forcing Rupert down onto his knees."
+      },
+      {
+        "ref": "EP44:E10",
+        "segment_index": 0,
+        "relative_start_ms": 10800,
+        "relative_end_ms": 13200,
+        "type": "action",
+        "speaker": null,
+        "text": "A royal redcoat guard firmly forces Rupert down into the stone dust."
+      },
+      {
+        "ref": "EP44:E11",
+        "segment_index": 0,
+        "relative_start_ms": 10800,
+        "relative_end_ms": 13600,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"Get your hands off me! Catherine!\""
+      },
+      {
+        "ref": "EP44:E12",
+        "segment_index": 0,
+        "relative_start_ms": 13200,
+        "relative_end_ms": 16200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Rupert struggling fiercely against the white-gloved grip of the guard pinning his shoulder."
+      },
+      {
+        "ref": "EP44:E13",
+        "segment_index": 0,
+        "relative_start_ms": 14200,
+        "relative_end_ms": 16100,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"Do something!\""
+      },
+      {
+        "ref": "EP44:E14",
+        "segment_index": 0,
+        "relative_start_ms": 16200,
+        "relative_end_ms": 18800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up on Catherine beneath her bridal veil, looking downward in conflicted silence."
+      },
+      {
+        "ref": "EP44:E15",
+        "segment_index": 0,
+        "relative_start_ms": 18600,
+        "relative_end_ms": 21200,
+        "type": "action",
+        "speaker": null,
+        "text": "Catherine's satin-gloved hand clenches tightly into a trembling fist against the folds of her ornate gown."
+      },
+      {
+        "ref": "EP44:E16",
+        "segment_index": 0,
+        "relative_start_ms": 18800,
+        "relative_end_ms": 21200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Catherine's gloved hand tightening into a fist."
+      },
+      {
+        "ref": "EP44:E17",
+        "segment_index": 0,
+        "relative_start_ms": 21200,
+        "relative_end_ms": 24600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot as Catherine gathers her heavy train and steps away from Rupert, walking toward Alexander who stands watching her stoically."
+      },
+      {
+        "ref": "EP44:E18",
+        "segment_index": 0,
+        "relative_start_ms": 22000,
+        "relative_end_ms": 24800,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Alexander... I thought you had died.\""
+      },
+      {
+        "ref": "EP44:E19",
+        "segment_index": 0,
+        "relative_start_ms": 24600,
+        "relative_end_ms": 28000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Catherine's face, tears glistening in her eyes as grief breaks through her composure."
+      },
+      {
+        "ref": "EP44:E20",
+        "segment_index": 0,
+        "relative_start_ms": 25200,
+        "relative_end_ms": 27800,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Do you know what this did to me?\""
+      },
+      {
+        "ref": "EP44:E21",
+        "segment_index": 0,
+        "relative_start_ms": 28000,
+        "relative_end_ms": 29200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot on Alexander standing tall in his ducal coat, his gaze utterly detached."
+      },
+      {
+        "ref": "EP44:E22",
+        "segment_index": 0,
+        "relative_start_ms": 28000,
+        "relative_end_ms": 29200,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"I mourned you.\""
+      },
+      {
+        "ref": "EP44:E23",
+        "segment_index": 0,
+        "relative_start_ms": 29200,
+        "relative_end_ms": 30800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Profile close-up of Catherine as a tear slips down her cheek."
+      },
+      {
+        "ref": "EP44:E24",
+        "segment_index": 0,
+        "relative_start_ms": 29200,
+        "relative_end_ms": 30800,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"I waited for you.\""
+      },
+      {
+        "ref": "EP44:E25",
+        "segment_index": 0,
+        "relative_start_ms": 30800,
+        "relative_end_ms": 32600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Catherine standing in the center of the aisle before the seated congregation."
+      },
+      {
+        "ref": "EP44:E26",
+        "segment_index": 0,
+        "relative_start_ms": 31000,
+        "relative_end_ms": 35600,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"For three years, I believed the man I loved was buried somewhere across the sea.\""
+      },
+      {
+        "ref": "EP44:E27",
+        "segment_index": 0,
+        "relative_start_ms": 32600,
+        "relative_end_ms": 35600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tracking two-shot over Alexander's shoulder as Catherine approaches him pleadingly."
+      },
+      {
+        "ref": "EP44:E28",
+        "segment_index": 0,
+        "relative_start_ms": 35600,
+        "relative_end_ms": 38000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close profile two-shot as Catherine gently reaches her gloved hand up to Alexander's bearded cheek."
+      },
+      {
+        "ref": "EP44:E29",
+        "segment_index": 0,
+        "relative_start_ms": 35700,
+        "relative_end_ms": 38000,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"I never stopped loving you.\""
+      },
+      {
+        "ref": "EP44:E30",
+        "segment_index": 0,
+        "relative_start_ms": 38000,
+        "relative_end_ms": 39600,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander abruptly pulls his face back, refusing her touch and leaving her hand suspended in mid-air."
+      },
+      {
+        "ref": "EP44:E31",
+        "segment_index": 0,
+        "relative_start_ms": 38000,
+        "relative_end_ms": 39600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Catherine's empty gloved hand trembling in the empty space between them."
+      },
+      {
+        "ref": "EP44:E32",
+        "segment_index": 0,
+        "relative_start_ms": 39600,
+        "relative_end_ms": 43200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Catherine lowering her hand, stunned and deeply hurt by his rejection."
+      },
+      {
+        "ref": "EP44:E33",
+        "segment_index": 0,
+        "relative_start_ms": 41000,
+        "relative_end_ms": 43200,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"You don't remember?\""
+      },
+      {
+        "ref": "EP44:E34",
+        "segment_index": 0,
+        "relative_start_ms": 43200,
+        "relative_end_ms": 45800,
+        "type": "camera",
+        "speaker": null,
+        "text": "High-angle shot looking down at Catherine in the foreground, with Rupert held under guard in the background."
+      },
+      {
+        "ref": "EP44:E35",
+        "segment_index": 0,
+        "relative_start_ms": 43400,
+        "relative_end_ms": 45600,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"I was supposed to be your Duchess!\""
+      },
+      {
+        "ref": "EP44:E36",
+        "segment_index": 0,
+        "relative_start_ms": 45800,
+        "relative_end_ms": 47800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot of Catherine and Alexander confronting each other."
+      },
+      {
+        "ref": "EP44:E37",
+        "segment_index": 0,
+        "relative_start_ms": 46000,
+        "relative_end_ms": 47800,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"You were never my Duchess.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_8e2d1981f8499c28",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 24400,
+        "end_ms": 55500,
+        "episode_id": "ep_044"
+      }
+    ],
+    "duration_ms": 31100,
+    "origin": "opp_02",
+    "clip_events": [
+      {
+        "ref": "EP44:E17",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 3400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot as Catherine gathers her heavy train and steps away from Rupert, walking toward Alexander who stands watching her stoically."
+      },
+      {
+        "ref": "EP44:E18",
+        "segment_index": 0,
+        "relative_start_ms": 800,
+        "relative_end_ms": 3600,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Alexander... I thought you had died.\""
+      },
+      {
+        "ref": "EP44:E19",
+        "segment_index": 0,
+        "relative_start_ms": 3400,
+        "relative_end_ms": 6800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Catherine's face, tears glistening in her eyes as grief breaks through her composure."
+      },
+      {
+        "ref": "EP44:E20",
+        "segment_index": 0,
+        "relative_start_ms": 4000,
+        "relative_end_ms": 6600,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Do you know what this did to me?\""
+      },
+      {
+        "ref": "EP44:E21",
+        "segment_index": 0,
+        "relative_start_ms": 6800,
+        "relative_end_ms": 8000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot on Alexander standing tall in his ducal coat, his gaze utterly detached."
+      },
+      {
+        "ref": "EP44:E22",
+        "segment_index": 0,
+        "relative_start_ms": 6800,
+        "relative_end_ms": 8000,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"I mourned you.\""
+      },
+      {
+        "ref": "EP44:E23",
+        "segment_index": 0,
+        "relative_start_ms": 8000,
+        "relative_end_ms": 9600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Profile close-up of Catherine as a tear slips down her cheek."
+      },
+      {
+        "ref": "EP44:E24",
+        "segment_index": 0,
+        "relative_start_ms": 8000,
+        "relative_end_ms": 9600,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"I waited for you.\""
+      },
+      {
+        "ref": "EP44:E25",
+        "segment_index": 0,
+        "relative_start_ms": 9600,
+        "relative_end_ms": 11400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Catherine standing in the center of the aisle before the seated congregation."
+      },
+      {
+        "ref": "EP44:E26",
+        "segment_index": 0,
+        "relative_start_ms": 9800,
+        "relative_end_ms": 14400,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"For three years, I believed the man I loved was buried somewhere across the sea.\""
+      },
+      {
+        "ref": "EP44:E27",
+        "segment_index": 0,
+        "relative_start_ms": 11400,
+        "relative_end_ms": 14400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tracking two-shot over Alexander's shoulder as Catherine approaches him pleadingly."
+      },
+      {
+        "ref": "EP44:E28",
+        "segment_index": 0,
+        "relative_start_ms": 14400,
+        "relative_end_ms": 16800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close profile two-shot as Catherine gently reaches her gloved hand up to Alexander's bearded cheek."
+      },
+      {
+        "ref": "EP44:E29",
+        "segment_index": 0,
+        "relative_start_ms": 14500,
+        "relative_end_ms": 16800,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"I never stopped loving you.\""
+      },
+      {
+        "ref": "EP44:E30",
+        "segment_index": 0,
+        "relative_start_ms": 16800,
+        "relative_end_ms": 18400,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander abruptly pulls his face back, refusing her touch and leaving her hand suspended in mid-air."
+      },
+      {
+        "ref": "EP44:E31",
+        "segment_index": 0,
+        "relative_start_ms": 16800,
+        "relative_end_ms": 18400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Catherine's empty gloved hand trembling in the empty space between them."
+      },
+      {
+        "ref": "EP44:E32",
+        "segment_index": 0,
+        "relative_start_ms": 18400,
+        "relative_end_ms": 22000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Catherine lowering her hand, stunned and deeply hurt by his rejection."
+      },
+      {
+        "ref": "EP44:E33",
+        "segment_index": 0,
+        "relative_start_ms": 19800,
+        "relative_end_ms": 22000,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"You don't remember?\""
+      },
+      {
+        "ref": "EP44:E34",
+        "segment_index": 0,
+        "relative_start_ms": 22000,
+        "relative_end_ms": 24600,
+        "type": "camera",
+        "speaker": null,
+        "text": "High-angle shot looking down at Catherine in the foreground, with Rupert held under guard in the background."
+      },
+      {
+        "ref": "EP44:E35",
+        "segment_index": 0,
+        "relative_start_ms": 22200,
+        "relative_end_ms": 24400,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"I was supposed to be your Duchess!\""
+      },
+      {
+        "ref": "EP44:E36",
+        "segment_index": 0,
+        "relative_start_ms": 24600,
+        "relative_end_ms": 26600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot of Catherine and Alexander confronting each other."
+      },
+      {
+        "ref": "EP44:E37",
+        "segment_index": 0,
+        "relative_start_ms": 24800,
+        "relative_end_ms": 26600,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"You were never my Duchess.\""
+      },
+      {
+        "ref": "EP44:E38",
+        "segment_index": 0,
+        "relative_start_ms": 26600,
+        "relative_end_ms": 28600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up on Catherine's tearful face."
+      },
+      {
+        "ref": "EP44:E39",
+        "segment_index": 0,
+        "relative_start_ms": 26700,
+        "relative_end_ms": 28400,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"But I loved you!\""
+      },
+      {
+        "ref": "EP44:E41",
+        "segment_index": 0,
+        "relative_start_ms": 28600,
+        "relative_end_ms": 31100,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"You loved the Duke you thought you would marry.\""
+      },
+      {
+        "ref": "EP44:E40",
+        "segment_index": 0,
+        "relative_start_ms": 28600,
+        "relative_end_ms": 31100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up on Alexander, his scarred jaw set firm."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_0078e8c80bc8a0ab",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 44200,
+        "end_ms": 70400,
+        "episode_id": "ep_044"
+      }
+    ],
+    "duration_ms": 26200,
+    "origin": "opp_03",
+    "clip_events": [
+      {
+        "ref": "EP44:E32",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Catherine lowering her hand, stunned and deeply hurt by his rejection."
+      },
+      {
+        "ref": "EP44:E33",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2200,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"You don't remember?\""
+      },
+      {
+        "ref": "EP44:E34",
+        "segment_index": 0,
+        "relative_start_ms": 2200,
+        "relative_end_ms": 4800,
+        "type": "camera",
+        "speaker": null,
+        "text": "High-angle shot looking down at Catherine in the foreground, with Rupert held under guard in the background."
+      },
+      {
+        "ref": "EP44:E35",
+        "segment_index": 0,
+        "relative_start_ms": 2400,
+        "relative_end_ms": 4600,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"I was supposed to be your Duchess!\""
+      },
+      {
+        "ref": "EP44:E36",
+        "segment_index": 0,
+        "relative_start_ms": 4800,
+        "relative_end_ms": 6800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot of Catherine and Alexander confronting each other."
+      },
+      {
+        "ref": "EP44:E37",
+        "segment_index": 0,
+        "relative_start_ms": 5000,
+        "relative_end_ms": 6800,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"You were never my Duchess.\""
+      },
+      {
+        "ref": "EP44:E38",
+        "segment_index": 0,
+        "relative_start_ms": 6800,
+        "relative_end_ms": 8800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up on Catherine's tearful face."
+      },
+      {
+        "ref": "EP44:E39",
+        "segment_index": 0,
+        "relative_start_ms": 6900,
+        "relative_end_ms": 8600,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"But I loved you!\""
+      },
+      {
+        "ref": "EP44:E41",
+        "segment_index": 0,
+        "relative_start_ms": 8800,
+        "relative_end_ms": 11300,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"You loved the Duke you thought you would marry.\""
+      },
+      {
+        "ref": "EP44:E40",
+        "segment_index": 0,
+        "relative_start_ms": 8800,
+        "relative_end_ms": 11400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up on Alexander, his scarred jaw set firm."
+      },
+      {
+        "ref": "EP44:E42",
+        "segment_index": 0,
+        "relative_start_ms": 11400,
+        "relative_end_ms": 14800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Catherine, gasping in protest."
+      },
+      {
+        "ref": "EP44:E43",
+        "segment_index": 0,
+        "relative_start_ms": 12000,
+        "relative_end_ms": 14000,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"No!\""
+      },
+      {
+        "ref": "EP44:E44",
+        "segment_index": 0,
+        "relative_start_ms": 14800,
+        "relative_end_ms": 18200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as Catherine clutches her chest, pouring her heart out."
+      },
+      {
+        "ref": "EP44:E45",
+        "segment_index": 0,
+        "relative_start_ms": 15600,
+        "relative_end_ms": 18200,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"I loved you before all this!\""
+      },
+      {
+        "ref": "EP44:E46",
+        "segment_index": 0,
+        "relative_start_ms": 18200,
+        "relative_end_ms": 19600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Alexander tilting his head slightly, his gaze piercing through her."
+      },
+      {
+        "ref": "EP44:E47",
+        "segment_index": 0,
+        "relative_start_ms": 18300,
+        "relative_end_ms": 19200,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Did you?\""
+      },
+      {
+        "ref": "EP44:E48",
+        "segment_index": 0,
+        "relative_start_ms": 19600,
+        "relative_end_ms": 20800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Catherine, rendered speechless by his doubt."
+      },
+      {
+        "ref": "EP44:E49",
+        "segment_index": 0,
+        "relative_start_ms": 20800,
+        "relative_end_ms": 23600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tilt-up shot starting from heavy iron chains resting on the wooden floor up to the shackled wrists of Juliana dressed in her rustic grey gown."
+      },
+      {
+        "ref": "EP44:E50",
+        "segment_index": 0,
+        "relative_start_ms": 23600,
+        "relative_end_ms": 25400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot from behind Catherine as Alexander turns his back on her and walks resolutely down the rubble-strewn aisle toward Juliana standing in chains at the doorway."
+      },
+      {
+        "ref": "EP44:E51",
+        "segment_index": 0,
+        "relative_start_ms": 23800,
+        "relative_end_ms": 25400,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander walks away from Catherine toward Juliana, who waits solemnly by the cathedral entrance."
+      },
+      {
+        "ref": "EP44:E52",
+        "segment_index": 0,
+        "relative_start_ms": 25400,
+        "relative_end_ms": 25900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up on Juliana looking down at her chained hands, lifting her gaze gently."
+      },
+      {
+        "ref": "EP44:E54",
+        "segment_index": 0,
+        "relative_start_ms": 25900,
+        "relative_end_ms": 26200,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Her?!\""
+      },
+      {
+        "ref": "EP44:E53",
+        "segment_index": 0,
+        "relative_start_ms": 25900,
+        "relative_end_ms": 26200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up on Catherine's horrified, bewildered expression as she realizes who Alexander chose."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_76e3b3f814d0421c",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 11200,
+        "end_ms": 51000,
+        "episode_id": "ep_044"
+      }
+    ],
+    "duration_ms": 39800,
+    "origin": "opp_04",
+    "clip_events": [
+      {
+        "ref": "EP44:E5",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Lord Sterling's trembling, indignant face."
+      },
+      {
+        "ref": "EP44:E8",
+        "segment_index": 0,
+        "relative_start_ms": 200,
+        "relative_end_ms": 2000,
+        "type": "dialogue",
+        "speaker": "POLICE CONSTABLE",
+        "text": "\"I have more than enough.\""
+      },
+      {
+        "ref": "EP44:E7",
+        "segment_index": 0,
+        "relative_start_ms": 200,
+        "relative_end_ms": 2600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on the Constable's black-gloved hands holding out a thick, red-ribboned dossier stamped with the Crown's royal wax seal."
+      },
+      {
+        "ref": "EP44:E9",
+        "segment_index": 0,
+        "relative_start_ms": 2600,
+        "relative_end_ms": 5200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot of the ruined nave littered with rubble as royal redcoat guards surround the aisle, forcing Rupert down onto his knees."
+      },
+      {
+        "ref": "EP44:E10",
+        "segment_index": 0,
+        "relative_start_ms": 2800,
+        "relative_end_ms": 5200,
+        "type": "action",
+        "speaker": null,
+        "text": "A royal redcoat guard firmly forces Rupert down into the stone dust."
+      },
+      {
+        "ref": "EP44:E11",
+        "segment_index": 0,
+        "relative_start_ms": 2800,
+        "relative_end_ms": 5600,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"Get your hands off me! Catherine!\""
+      },
+      {
+        "ref": "EP44:E12",
+        "segment_index": 0,
+        "relative_start_ms": 5200,
+        "relative_end_ms": 8200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Rupert struggling fiercely against the white-gloved grip of the guard pinning his shoulder."
+      },
+      {
+        "ref": "EP44:E13",
+        "segment_index": 0,
+        "relative_start_ms": 6200,
+        "relative_end_ms": 8100,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"Do something!\""
+      },
+      {
+        "ref": "EP44:E14",
+        "segment_index": 0,
+        "relative_start_ms": 8200,
+        "relative_end_ms": 10800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up on Catherine beneath her bridal veil, looking downward in conflicted silence."
+      },
+      {
+        "ref": "EP44:E15",
+        "segment_index": 0,
+        "relative_start_ms": 10600,
+        "relative_end_ms": 13200,
+        "type": "action",
+        "speaker": null,
+        "text": "Catherine's satin-gloved hand clenches tightly into a trembling fist against the folds of her ornate gown."
+      },
+      {
+        "ref": "EP44:E16",
+        "segment_index": 0,
+        "relative_start_ms": 10800,
+        "relative_end_ms": 13200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Catherine's gloved hand tightening into a fist."
+      },
+      {
+        "ref": "EP44:E17",
+        "segment_index": 0,
+        "relative_start_ms": 13200,
+        "relative_end_ms": 16600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot as Catherine gathers her heavy train and steps away from Rupert, walking toward Alexander who stands watching her stoically."
+      },
+      {
+        "ref": "EP44:E18",
+        "segment_index": 0,
+        "relative_start_ms": 14000,
+        "relative_end_ms": 16800,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Alexander... I thought you had died.\""
+      },
+      {
+        "ref": "EP44:E19",
+        "segment_index": 0,
+        "relative_start_ms": 16600,
+        "relative_end_ms": 20000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Catherine's face, tears glistening in her eyes as grief breaks through her composure."
+      },
+      {
+        "ref": "EP44:E20",
+        "segment_index": 0,
+        "relative_start_ms": 17200,
+        "relative_end_ms": 19800,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Do you know what this did to me?\""
+      },
+      {
+        "ref": "EP44:E21",
+        "segment_index": 0,
+        "relative_start_ms": 20000,
+        "relative_end_ms": 21200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot on Alexander standing tall in his ducal coat, his gaze utterly detached."
+      },
+      {
+        "ref": "EP44:E22",
+        "segment_index": 0,
+        "relative_start_ms": 20000,
+        "relative_end_ms": 21200,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"I mourned you.\""
+      },
+      {
+        "ref": "EP44:E23",
+        "segment_index": 0,
+        "relative_start_ms": 21200,
+        "relative_end_ms": 22800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Profile close-up of Catherine as a tear slips down her cheek."
+      },
+      {
+        "ref": "EP44:E24",
+        "segment_index": 0,
+        "relative_start_ms": 21200,
+        "relative_end_ms": 22800,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"I waited for you.\""
+      },
+      {
+        "ref": "EP44:E25",
+        "segment_index": 0,
+        "relative_start_ms": 22800,
+        "relative_end_ms": 24600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Catherine standing in the center of the aisle before the seated congregation."
+      },
+      {
+        "ref": "EP44:E26",
+        "segment_index": 0,
+        "relative_start_ms": 23000,
+        "relative_end_ms": 27600,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"For three years, I believed the man I loved was buried somewhere across the sea.\""
+      },
+      {
+        "ref": "EP44:E27",
+        "segment_index": 0,
+        "relative_start_ms": 24600,
+        "relative_end_ms": 27600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tracking two-shot over Alexander's shoulder as Catherine approaches him pleadingly."
+      },
+      {
+        "ref": "EP44:E28",
+        "segment_index": 0,
+        "relative_start_ms": 27600,
+        "relative_end_ms": 30000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close profile two-shot as Catherine gently reaches her gloved hand up to Alexander's bearded cheek."
+      },
+      {
+        "ref": "EP44:E29",
+        "segment_index": 0,
+        "relative_start_ms": 27700,
+        "relative_end_ms": 30000,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"I never stopped loving you.\""
+      },
+      {
+        "ref": "EP44:E30",
+        "segment_index": 0,
+        "relative_start_ms": 30000,
+        "relative_end_ms": 31600,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander abruptly pulls his face back, refusing her touch and leaving her hand suspended in mid-air."
+      },
+      {
+        "ref": "EP44:E31",
+        "segment_index": 0,
+        "relative_start_ms": 30000,
+        "relative_end_ms": 31600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Catherine's empty gloved hand trembling in the empty space between them."
+      },
+      {
+        "ref": "EP44:E32",
+        "segment_index": 0,
+        "relative_start_ms": 31600,
+        "relative_end_ms": 35200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Catherine lowering her hand, stunned and deeply hurt by his rejection."
+      },
+      {
+        "ref": "EP44:E33",
+        "segment_index": 0,
+        "relative_start_ms": 33000,
+        "relative_end_ms": 35200,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"You don't remember?\""
+      },
+      {
+        "ref": "EP44:E34",
+        "segment_index": 0,
+        "relative_start_ms": 35200,
+        "relative_end_ms": 37800,
+        "type": "camera",
+        "speaker": null,
+        "text": "High-angle shot looking down at Catherine in the foreground, with Rupert held under guard in the background."
+      },
+      {
+        "ref": "EP44:E35",
+        "segment_index": 0,
+        "relative_start_ms": 35400,
+        "relative_end_ms": 37600,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"I was supposed to be your Duchess!\""
+      },
+      {
+        "ref": "EP44:E36",
+        "segment_index": 0,
+        "relative_start_ms": 37800,
+        "relative_end_ms": 39800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot of Catherine and Alexander confronting each other."
+      },
+      {
+        "ref": "EP44:E37",
+        "segment_index": 0,
+        "relative_start_ms": 38000,
+        "relative_end_ms": 39800,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"You were never my Duchess.\""
+      }
+    ]
+  }
+]

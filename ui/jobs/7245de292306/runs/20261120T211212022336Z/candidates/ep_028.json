@@ -1,0 +1,1160 @@
+[
+  {
+    "candidate_id": "c_bd71a12680ca240c",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 10000,
+        "end_ms": 47000,
+        "episode_id": "ep_028"
+      }
+    ],
+    "duration_ms": 37000,
+    "origin": "ep28_opp1",
+    "clip_events": [
+      {
+        "ref": "EP28:E9",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Over-the-shoulder shot from behind Catherine as she faces Juliana, who is pinned in the doorway by the guard."
+      },
+      {
+        "ref": "EP28:E11",
+        "segment_index": 0,
+        "relative_start_ms": 200,
+        "relative_end_ms": 2300,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"...a secret medicine in her hand.\""
+      },
+      {
+        "ref": "EP28:E12",
+        "segment_index": 0,
+        "relative_start_ms": 2600,
+        "relative_end_ms": 5200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of Catherine's smiling face, her eyes gleaming with vindictive pleasure."
+      },
+      {
+        "ref": "EP28:E13",
+        "segment_index": 0,
+        "relative_start_ms": 2700,
+        "relative_end_ms": 5000,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"She looks exactly like a poisoner.\""
+      },
+      {
+        "ref": "EP28:E14",
+        "segment_index": 0,
+        "relative_start_ms": 5200,
+        "relative_end_ms": 8500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana glaring back in fierce indignation, breathing heavily as she resists the guard's arm across her shoulder."
+      },
+      {
+        "ref": "EP28:E15",
+        "segment_index": 0,
+        "relative_start_ms": 5300,
+        "relative_end_ms": 8400,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I did not poison her! Look at her eyes, the fever has broken!\""
+      },
+      {
+        "ref": "EP28:E16",
+        "segment_index": 0,
+        "relative_start_ms": 8500,
+        "relative_end_ms": 12800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium full shot of Rupert standing beside the four-poster bed, calmly pulling on his black leather gloves."
+      },
+      {
+        "ref": "EP28:E17",
+        "segment_index": 0,
+        "relative_start_ms": 8900,
+        "relative_end_ms": 10300,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"A clever story, girl.\""
+      },
+      {
+        "ref": "EP28:E18",
+        "segment_index": 0,
+        "relative_start_ms": 10400,
+        "relative_end_ms": 12700,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"But the guards know how to extract the truth.\""
+      },
+      {
+        "ref": "EP28:E19",
+        "segment_index": 0,
+        "relative_start_ms": 12800,
+        "relative_end_ms": 16700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the Dowager Duchess stirring against her pillows, lifting her trembling head with visible effort."
+      },
+      {
+        "ref": "EP28:E20",
+        "segment_index": 0,
+        "relative_start_ms": 14800,
+        "relative_end_ms": 16500,
+        "type": "dialogue",
+        "speaker": "DOWAGER DUCHESS",
+        "text": "\"Rupert...\""
+      },
+      {
+        "ref": "EP28:E22",
+        "segment_index": 0,
+        "relative_start_ms": 16700,
+        "relative_end_ms": 18200,
+        "type": "dialogue",
+        "speaker": "DOWAGER DUCHESS",
+        "text": "\"Stop this!\""
+      },
+      {
+        "ref": "EP28:E21",
+        "segment_index": 0,
+        "relative_start_ms": 16700,
+        "relative_end_ms": 18400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Rupert pausing mid-stride as he hears his mother's voice, slowly turning his head toward the bed."
+      },
+      {
+        "ref": "EP28:E23",
+        "segment_index": 0,
+        "relative_start_ms": 18400,
+        "relative_end_ms": 22800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot of the bedchamber framed through the bed curtains as the Duchess props herself up on one elbow and points an accusing finger."
+      },
+      {
+        "ref": "EP28:E24",
+        "segment_index": 0,
+        "relative_start_ms": 18800,
+        "relative_end_ms": 20300,
+        "type": "dialogue",
+        "speaker": "DOWAGER DUCHESS",
+        "text": "\"She is innocent.\""
+      },
+      {
+        "ref": "EP28:E25",
+        "segment_index": 0,
+        "relative_start_ms": 20800,
+        "relative_end_ms": 22400,
+        "type": "dialogue",
+        "speaker": "DOWAGER DUCHESS",
+        "text": "\"She saved me!\""
+      },
+      {
+        "ref": "EP28:E26",
+        "segment_index": 0,
+        "relative_start_ms": 22800,
+        "relative_end_ms": 24900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana, tears of relief welling in her eyes."
+      },
+      {
+        "ref": "EP28:E27",
+        "segment_index": 0,
+        "relative_start_ms": 23200,
+        "relative_end_ms": 24600,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Your Grace...\""
+      },
+      {
+        "ref": "EP28:E28",
+        "segment_index": 0,
+        "relative_start_ms": 24900,
+        "relative_end_ms": 27700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Duchess clutching at her nightgown, her face twisted in mounting fury and horror."
+      },
+      {
+        "ref": "EP28:E29",
+        "segment_index": 0,
+        "relative_start_ms": 25000,
+        "relative_end_ms": 27400,
+        "type": "dialogue",
+        "speaker": "DOWAGER DUCHESS",
+        "text": "\"I know what happened to me!\""
+      },
+      {
+        "ref": "EP28:E30",
+        "segment_index": 0,
+        "relative_start_ms": 27700,
+        "relative_end_ms": 33000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium low-angle shot past the Duchess pointing directly at Rupert, who stands rigid and expressionless."
+      },
+      {
+        "ref": "EP28:E31",
+        "segment_index": 0,
+        "relative_start_ms": 28200,
+        "relative_end_ms": 30000,
+        "type": "dialogue",
+        "speaker": "DOWAGER DUCHESS",
+        "text": "\"I was poisoned!\""
+      },
+      {
+        "ref": "EP28:E32",
+        "segment_index": 0,
+        "relative_start_ms": 30300,
+        "relative_end_ms": 32200,
+        "type": "dialogue",
+        "speaker": "DOWAGER DUCHESS",
+        "text": "\"And you... you knew!\""
+      },
+      {
+        "ref": "EP28:E33",
+        "segment_index": 0,
+        "relative_start_ms": 33000,
+        "relative_end_ms": 37000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the Duchess lunging forward from the pillows, gasping for breath as she points toward Catherine."
+      },
+      {
+        "ref": "EP28:E34",
+        "segment_index": 0,
+        "relative_start_ms": 33600,
+        "relative_end_ms": 35300,
+        "type": "dialogue",
+        "speaker": "DOWAGER DUCHESS",
+        "text": "\"Catherine knew!\""
+      },
+      {
+        "ref": "EP28:E35",
+        "segment_index": 0,
+        "relative_start_ms": 35600,
+        "relative_end_ms": 37000,
+        "type": "dialogue",
+        "speaker": "DOWAGER DUCHESS",
+        "text": "\"They have been—\""
+      },
+      {
+        "ref": "EP28:E36",
+        "segment_index": 0,
+        "relative_start_ms": 36800,
+        "relative_end_ms": 37000,
+        "type": "action",
+        "speaker": null,
+        "text": "The Duchess collapses back onto the pillows, coughing violently and clutching her chest."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_b9a9d7f4be75d3d9",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 95200,
+        "end_ms": 136700,
+        "episode_id": "ep_028"
+      }
+    ],
+    "duration_ms": 41500,
+    "origin": "ep28_opp2",
+    "clip_events": [
+      {
+        "ref": "EP28:E70",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana freezing in the doorway as she sees Catherine opening her mother's book."
+      },
+      {
+        "ref": "EP28:E71",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1800,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana gasps in horror, realizing her secret identity has been laid bare."
+      },
+      {
+        "ref": "EP28:E72",
+        "segment_index": 0,
+        "relative_start_ms": 2200,
+        "relative_end_ms": 6000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Catherine raising her gaze slowly from the book, a wicked, triumphant grin spreading across her face."
+      },
+      {
+        "ref": "EP28:E73",
+        "segment_index": 0,
+        "relative_start_ms": 3000,
+        "relative_end_ms": 5600,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Lady Juliana Ashcroft.\""
+      },
+      {
+        "ref": "EP28:E74",
+        "segment_index": 0,
+        "relative_start_ms": 6000,
+        "relative_end_ms": 12600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot as Catherine steps deliberately up to Juliana, circling her like a predator savoring its prey."
+      },
+      {
+        "ref": "EP28:E75",
+        "segment_index": 0,
+        "relative_start_ms": 6300,
+        "relative_end_ms": 8500,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"I knew I had seen those eyes before.\""
+      },
+      {
+        "ref": "EP28:E76",
+        "segment_index": 0,
+        "relative_start_ms": 9000,
+        "relative_end_ms": 10400,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"The disgraced daughter...\""
+      },
+      {
+        "ref": "EP28:E77",
+        "segment_index": 0,
+        "relative_start_ms": 10400,
+        "relative_end_ms": 12600,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"...the girl thrown out of her own family home.\""
+      },
+      {
+        "ref": "EP28:E78",
+        "segment_index": 0,
+        "relative_start_ms": 12600,
+        "relative_end_ms": 17800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up two-shot of Catherine leaning inches from Juliana's face, whispering her humiliating past."
+      },
+      {
+        "ref": "EP28:E79",
+        "segment_index": 0,
+        "relative_start_ms": 12900,
+        "relative_end_ms": 15800,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"The bride who married a penniless war veteran...\""
+      },
+      {
+        "ref": "EP28:E80",
+        "segment_index": 0,
+        "relative_start_ms": 15900,
+        "relative_end_ms": 17800,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"...because no respectable man would have her.\""
+      },
+      {
+        "ref": "EP28:E81",
+        "segment_index": 0,
+        "relative_start_ms": 17800,
+        "relative_end_ms": 21200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of Juliana's eyes blazing with explosive fury and defensive loyalty."
+      },
+      {
+        "ref": "EP28:E82",
+        "segment_index": 0,
+        "relative_start_ms": 18100,
+        "relative_end_ms": 20600,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Do not speak about my husband!\""
+      },
+      {
+        "ref": "EP28:E84",
+        "segment_index": 0,
+        "relative_start_ms": 21200,
+        "relative_end_ms": 23900,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"And look at you now. Scrubbing fireplaces in my house.\""
+      },
+      {
+        "ref": "EP28:E83",
+        "segment_index": 0,
+        "relative_start_ms": 21200,
+        "relative_end_ms": 26800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot as Catherine throws her head back in derisive laughter, brandishing the herbarium book."
+      },
+      {
+        "ref": "EP28:E85",
+        "segment_index": 0,
+        "relative_start_ms": 24000,
+        "relative_end_ms": 26600,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"What a magnificent fall, Lady Juliana.\""
+      },
+      {
+        "ref": "EP28:E87",
+        "segment_index": 0,
+        "relative_start_ms": 26800,
+        "relative_end_ms": 29500,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"Drag her to the wet cells beneath the south tower.\""
+      },
+      {
+        "ref": "EP28:E86",
+        "segment_index": 0,
+        "relative_start_ms": 26800,
+        "relative_end_ms": 29700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Rupert gesturing toward the exit with an outstretched arm."
+      },
+      {
+        "ref": "EP28:E88",
+        "segment_index": 0,
+        "relative_start_ms": 29700,
+        "relative_end_ms": 33600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Catherine fanning open the illustrated botanical pages of the herbarium with gloved fingers."
+      },
+      {
+        "ref": "EP28:E89",
+        "segment_index": 0,
+        "relative_start_ms": 29800,
+        "relative_end_ms": 30500,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"And this?\""
+      },
+      {
+        "ref": "EP28:E90",
+        "segment_index": 0,
+        "relative_start_ms": 30700,
+        "relative_end_ms": 33500,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"This book of weeds will hang her before the magistrate.\""
+      },
+      {
+        "ref": "EP28:E91",
+        "segment_index": 0,
+        "relative_start_ms": 33600,
+        "relative_end_ms": 36000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana thrashing frantically against the guard's grip, her arm reaching out toward the book."
+      },
+      {
+        "ref": "EP28:E92",
+        "segment_index": 0,
+        "relative_start_ms": 33900,
+        "relative_end_ms": 35800,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"That book is my mother's life's work!\""
+      },
+      {
+        "ref": "EP28:E93",
+        "segment_index": 0,
+        "relative_start_ms": 36000,
+        "relative_end_ms": 41500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Catherine smiling coldly, clutching the closed book against her bodice."
+      },
+      {
+        "ref": "EP28:E94",
+        "segment_index": 0,
+        "relative_start_ms": 36200,
+        "relative_end_ms": 39000,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Then perhaps you can explain every page to the magistrate...\""
+      },
+      {
+        "ref": "EP28:E95",
+        "segment_index": 0,
+        "relative_start_ms": 39400,
+        "relative_end_ms": 41500,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"...before he sends you to the gallows.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_75cfade293d72661",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 18400,
+        "end_ms": 70200,
+        "episode_id": "ep_028"
+      }
+    ],
+    "duration_ms": 51800,
+    "origin": "ep28_opp3",
+    "clip_events": [
+      {
+        "ref": "EP28:E14",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana glaring back in fierce indignation, breathing heavily as she resists the guard's arm across her shoulder."
+      },
+      {
+        "ref": "EP28:E16",
+        "segment_index": 0,
+        "relative_start_ms": 100,
+        "relative_end_ms": 4400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium full shot of Rupert standing beside the four-poster bed, calmly pulling on his black leather gloves."
+      },
+      {
+        "ref": "EP28:E17",
+        "segment_index": 0,
+        "relative_start_ms": 500,
+        "relative_end_ms": 1900,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"A clever story, girl.\""
+      },
+      {
+        "ref": "EP28:E18",
+        "segment_index": 0,
+        "relative_start_ms": 2000,
+        "relative_end_ms": 4300,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"But the guards know how to extract the truth.\""
+      },
+      {
+        "ref": "EP28:E19",
+        "segment_index": 0,
+        "relative_start_ms": 4400,
+        "relative_end_ms": 8300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the Dowager Duchess stirring against her pillows, lifting her trembling head with visible effort."
+      },
+      {
+        "ref": "EP28:E20",
+        "segment_index": 0,
+        "relative_start_ms": 6400,
+        "relative_end_ms": 8100,
+        "type": "dialogue",
+        "speaker": "DOWAGER DUCHESS",
+        "text": "\"Rupert...\""
+      },
+      {
+        "ref": "EP28:E22",
+        "segment_index": 0,
+        "relative_start_ms": 8300,
+        "relative_end_ms": 9800,
+        "type": "dialogue",
+        "speaker": "DOWAGER DUCHESS",
+        "text": "\"Stop this!\""
+      },
+      {
+        "ref": "EP28:E21",
+        "segment_index": 0,
+        "relative_start_ms": 8300,
+        "relative_end_ms": 10000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Rupert pausing mid-stride as he hears his mother's voice, slowly turning his head toward the bed."
+      },
+      {
+        "ref": "EP28:E23",
+        "segment_index": 0,
+        "relative_start_ms": 10000,
+        "relative_end_ms": 14400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot of the bedchamber framed through the bed curtains as the Duchess props herself up on one elbow and points an accusing finger."
+      },
+      {
+        "ref": "EP28:E24",
+        "segment_index": 0,
+        "relative_start_ms": 10400,
+        "relative_end_ms": 11900,
+        "type": "dialogue",
+        "speaker": "DOWAGER DUCHESS",
+        "text": "\"She is innocent.\""
+      },
+      {
+        "ref": "EP28:E25",
+        "segment_index": 0,
+        "relative_start_ms": 12400,
+        "relative_end_ms": 14000,
+        "type": "dialogue",
+        "speaker": "DOWAGER DUCHESS",
+        "text": "\"She saved me!\""
+      },
+      {
+        "ref": "EP28:E26",
+        "segment_index": 0,
+        "relative_start_ms": 14400,
+        "relative_end_ms": 16500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana, tears of relief welling in her eyes."
+      },
+      {
+        "ref": "EP28:E27",
+        "segment_index": 0,
+        "relative_start_ms": 14800,
+        "relative_end_ms": 16200,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Your Grace...\""
+      },
+      {
+        "ref": "EP28:E28",
+        "segment_index": 0,
+        "relative_start_ms": 16500,
+        "relative_end_ms": 19300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Duchess clutching at her nightgown, her face twisted in mounting fury and horror."
+      },
+      {
+        "ref": "EP28:E29",
+        "segment_index": 0,
+        "relative_start_ms": 16600,
+        "relative_end_ms": 19000,
+        "type": "dialogue",
+        "speaker": "DOWAGER DUCHESS",
+        "text": "\"I know what happened to me!\""
+      },
+      {
+        "ref": "EP28:E30",
+        "segment_index": 0,
+        "relative_start_ms": 19300,
+        "relative_end_ms": 24600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium low-angle shot past the Duchess pointing directly at Rupert, who stands rigid and expressionless."
+      },
+      {
+        "ref": "EP28:E31",
+        "segment_index": 0,
+        "relative_start_ms": 19800,
+        "relative_end_ms": 21600,
+        "type": "dialogue",
+        "speaker": "DOWAGER DUCHESS",
+        "text": "\"I was poisoned!\""
+      },
+      {
+        "ref": "EP28:E32",
+        "segment_index": 0,
+        "relative_start_ms": 21900,
+        "relative_end_ms": 23800,
+        "type": "dialogue",
+        "speaker": "DOWAGER DUCHESS",
+        "text": "\"And you... you knew!\""
+      },
+      {
+        "ref": "EP28:E33",
+        "segment_index": 0,
+        "relative_start_ms": 24600,
+        "relative_end_ms": 29000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the Duchess lunging forward from the pillows, gasping for breath as she points toward Catherine."
+      },
+      {
+        "ref": "EP28:E34",
+        "segment_index": 0,
+        "relative_start_ms": 25200,
+        "relative_end_ms": 26900,
+        "type": "dialogue",
+        "speaker": "DOWAGER DUCHESS",
+        "text": "\"Catherine knew!\""
+      },
+      {
+        "ref": "EP28:E35",
+        "segment_index": 0,
+        "relative_start_ms": 27200,
+        "relative_end_ms": 28600,
+        "type": "dialogue",
+        "speaker": "DOWAGER DUCHESS",
+        "text": "\"They have been—\""
+      },
+      {
+        "ref": "EP28:E36",
+        "segment_index": 0,
+        "relative_start_ms": 28400,
+        "relative_end_ms": 29600,
+        "type": "action",
+        "speaker": null,
+        "text": "The Duchess collapses back onto the pillows, coughing violently and clutching her chest."
+      },
+      {
+        "ref": "EP28:E37",
+        "segment_index": 0,
+        "relative_start_ms": 29000,
+        "relative_end_ms": 33800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot as Juliana lunges across the room toward the bed, but the armed guard seizes her from behind and drags her back."
+      },
+      {
+        "ref": "EP28:E38",
+        "segment_index": 0,
+        "relative_start_ms": 29800,
+        "relative_end_ms": 31300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Let me help her!\""
+      },
+      {
+        "ref": "EP28:E39",
+        "segment_index": 0,
+        "relative_start_ms": 31100,
+        "relative_end_ms": 33700,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"She's still weak, you cannot leave her like this!\""
+      },
+      {
+        "ref": "EP28:E40",
+        "segment_index": 0,
+        "relative_start_ms": 33800,
+        "relative_end_ms": 38400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Rupert smoothing down his black leather gloves, a chilling smile forming on his lips."
+      },
+      {
+        "ref": "EP28:E41",
+        "segment_index": 0,
+        "relative_start_ms": 34400,
+        "relative_end_ms": 35200,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"You see?\""
+      },
+      {
+        "ref": "EP28:E42",
+        "segment_index": 0,
+        "relative_start_ms": 35600,
+        "relative_end_ms": 38200,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"The poison has clearly damaged her mind.\""
+      },
+      {
+        "ref": "EP28:E43",
+        "segment_index": 0,
+        "relative_start_ms": 38400,
+        "relative_end_ms": 42900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Over-the-shoulder shot of Rupert leaning menacingly over the gasping Duchess in bed."
+      },
+      {
+        "ref": "EP28:E44",
+        "segment_index": 0,
+        "relative_start_ms": 38600,
+        "relative_end_ms": 40300,
+        "type": "dialogue",
+        "speaker": "DOWAGER DUCHESS",
+        "text": "\"I am not delusional!\""
+      },
+      {
+        "ref": "EP28:E45",
+        "segment_index": 0,
+        "relative_start_ms": 40200,
+        "relative_end_ms": 41600,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"Of course you are not.\""
+      },
+      {
+        "ref": "EP28:E46",
+        "segment_index": 0,
+        "relative_start_ms": 41700,
+        "relative_end_ms": 42800,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"You are merely confused.\""
+      },
+      {
+        "ref": "EP28:E47",
+        "segment_index": 0,
+        "relative_start_ms": 42900,
+        "relative_end_ms": 48400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium profile tracking shot of Catherine walking deliberately toward Juliana, speaking with airy cynicism."
+      },
+      {
+        "ref": "EP28:E48",
+        "segment_index": 0,
+        "relative_start_ms": 43200,
+        "relative_end_ms": 46400,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"How convenient that the only person who can prove the poison exists...\""
+      },
+      {
+        "ref": "EP28:E49",
+        "segment_index": 0,
+        "relative_start_ms": 46500,
+        "relative_end_ms": 48400,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"...is the maid who claims to have discovered it.\""
+      },
+      {
+        "ref": "EP28:E50",
+        "segment_index": 0,
+        "relative_start_ms": 48400,
+        "relative_end_ms": 51800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle medium shot of Rupert turning sharply toward the guard, his eyes icy and authoritative."
+      },
+      {
+        "ref": "EP28:E51",
+        "segment_index": 0,
+        "relative_start_ms": 48800,
+        "relative_end_ms": 51800,
+        "type": "dialogue",
+        "speaker": "BLOND NOBLEMAN",
+        "text": "\"Take her away before she poisons the rest of this house.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_ea3b8ec685ae45e3",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 70200,
+        "end_ms": 115800,
+        "episode_id": "ep_028"
+      }
+    ],
+    "duration_ms": 45600,
+    "origin": "ep28_opp4",
+    "clip_events": [
+      {
+        "ref": "EP28:E50",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle medium shot of Rupert turning sharply toward the guard, his eyes icy and authoritative."
+      },
+      {
+        "ref": "EP28:E52",
+        "segment_index": 0,
+        "relative_start_ms": 300,
+        "relative_end_ms": 1800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of Catherine's gloved hands grabbing the delicate chain around Juliana's neck."
+      },
+      {
+        "ref": "EP28:E53",
+        "segment_index": 0,
+        "relative_start_ms": 600,
+        "relative_end_ms": 1800,
+        "type": "action",
+        "speaker": null,
+        "text": "Catherine ruthlessly yanks the silver locket off Juliana's neck."
+      },
+      {
+        "ref": "EP28:E54",
+        "segment_index": 0,
+        "relative_start_ms": 1000,
+        "relative_end_ms": 1800,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"No!\""
+      },
+      {
+        "ref": "EP28:E55",
+        "segment_index": 0,
+        "relative_start_ms": 1800,
+        "relative_end_ms": 5100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Catherine holding up the oval silver and amethyst pendant, inspecting it with disdain."
+      },
+      {
+        "ref": "EP28:E56",
+        "segment_index": 0,
+        "relative_start_ms": 2000,
+        "relative_end_ms": 4900,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Where did a gutter rat like you find a silver locket?\""
+      },
+      {
+        "ref": "EP28:E57",
+        "segment_index": 0,
+        "relative_start_ms": 5100,
+        "relative_end_ms": 8700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana crying out in agony, writhing in the guard's iron grip."
+      },
+      {
+        "ref": "EP28:E58",
+        "segment_index": 0,
+        "relative_start_ms": 5200,
+        "relative_end_ms": 6200,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Give it back!\""
+      },
+      {
+        "ref": "EP28:E59",
+        "segment_index": 0,
+        "relative_start_ms": 6600,
+        "relative_end_ms": 8400,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"It belonged to my mother!\""
+      },
+      {
+        "ref": "EP28:E60",
+        "segment_index": 0,
+        "relative_start_ms": 8700,
+        "relative_end_ms": 12100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle shot tracking the silver locket as Catherine casually flings it across the stone corridor floor."
+      },
+      {
+        "ref": "EP28:E61",
+        "segment_index": 0,
+        "relative_start_ms": 8800,
+        "relative_end_ms": 11700,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"A witch has no need for family heirlooms in the gallows.\""
+      },
+      {
+        "ref": "EP28:E62",
+        "segment_index": 0,
+        "relative_start_ms": 10800,
+        "relative_end_ms": 12200,
+        "type": "sound",
+        "speaker": null,
+        "text": "Metallic clatter as the silver pendant bounces against the wooden baseboard."
+      },
+      {
+        "ref": "EP28:E63",
+        "segment_index": 0,
+        "relative_start_ms": 12100,
+        "relative_end_ms": 16300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana being dragged further into the doorway, staring helplessly toward her discarded locket."
+      },
+      {
+        "ref": "EP28:E64",
+        "segment_index": 0,
+        "relative_start_ms": 12300,
+        "relative_end_ms": 14200,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"My mother's locket!\""
+      },
+      {
+        "ref": "EP28:E65",
+        "segment_index": 0,
+        "relative_start_ms": 16300,
+        "relative_end_ms": 20800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Catherine walking toward the fallen leather-bound book and kneeling gracefully to pick it up."
+      },
+      {
+        "ref": "EP28:E66",
+        "segment_index": 0,
+        "relative_start_ms": 17800,
+        "relative_end_ms": 20800,
+        "type": "action",
+        "speaker": null,
+        "text": "Catherine lifts the heavy herbarium, dusting off the cover before opening its aged parchment pages."
+      },
+      {
+        "ref": "EP28:E67",
+        "segment_index": 0,
+        "relative_start_ms": 20800,
+        "relative_end_ms": 23600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of Catherine reading the elegant cursive script inside the front cover."
+      },
+      {
+        "ref": "EP28:E68",
+        "segment_index": 0,
+        "relative_start_ms": 21000,
+        "relative_end_ms": 22600,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Juliana...\""
+      },
+      {
+        "ref": "EP28:E69",
+        "segment_index": 0,
+        "relative_start_ms": 23600,
+        "relative_end_ms": 24800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up on the handwritten inscription: 'Juliana Ashcroft'."
+      },
+      {
+        "ref": "EP28:E70",
+        "segment_index": 0,
+        "relative_start_ms": 24800,
+        "relative_end_ms": 27200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana freezing in the doorway as she sees Catherine opening her mother's book."
+      },
+      {
+        "ref": "EP28:E71",
+        "segment_index": 0,
+        "relative_start_ms": 25000,
+        "relative_end_ms": 26800,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana gasps in horror, realizing her secret identity has been laid bare."
+      },
+      {
+        "ref": "EP28:E72",
+        "segment_index": 0,
+        "relative_start_ms": 27200,
+        "relative_end_ms": 31000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Catherine raising her gaze slowly from the book, a wicked, triumphant grin spreading across her face."
+      },
+      {
+        "ref": "EP28:E73",
+        "segment_index": 0,
+        "relative_start_ms": 28000,
+        "relative_end_ms": 30600,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Lady Juliana Ashcroft.\""
+      },
+      {
+        "ref": "EP28:E74",
+        "segment_index": 0,
+        "relative_start_ms": 31000,
+        "relative_end_ms": 37600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot as Catherine steps deliberately up to Juliana, circling her like a predator savoring its prey."
+      },
+      {
+        "ref": "EP28:E75",
+        "segment_index": 0,
+        "relative_start_ms": 31300,
+        "relative_end_ms": 33500,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"I knew I had seen those eyes before.\""
+      },
+      {
+        "ref": "EP28:E76",
+        "segment_index": 0,
+        "relative_start_ms": 34000,
+        "relative_end_ms": 35400,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"The disgraced daughter...\""
+      },
+      {
+        "ref": "EP28:E77",
+        "segment_index": 0,
+        "relative_start_ms": 35400,
+        "relative_end_ms": 37600,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"...the girl thrown out of her own family home.\""
+      },
+      {
+        "ref": "EP28:E78",
+        "segment_index": 0,
+        "relative_start_ms": 37600,
+        "relative_end_ms": 42800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up two-shot of Catherine leaning inches from Juliana's face, whispering her humiliating past."
+      },
+      {
+        "ref": "EP28:E79",
+        "segment_index": 0,
+        "relative_start_ms": 37900,
+        "relative_end_ms": 40800,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"The bride who married a penniless war veteran...\""
+      },
+      {
+        "ref": "EP28:E80",
+        "segment_index": 0,
+        "relative_start_ms": 40900,
+        "relative_end_ms": 42800,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"...because no respectable man would have her.\""
+      },
+      {
+        "ref": "EP28:E81",
+        "segment_index": 0,
+        "relative_start_ms": 42800,
+        "relative_end_ms": 45600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of Juliana's eyes blazing with explosive fury and defensive loyalty."
+      },
+      {
+        "ref": "EP28:E82",
+        "segment_index": 0,
+        "relative_start_ms": 43100,
+        "relative_end_ms": 45600,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Do not speak about my husband!\""
+      }
+    ]
+  }
+]

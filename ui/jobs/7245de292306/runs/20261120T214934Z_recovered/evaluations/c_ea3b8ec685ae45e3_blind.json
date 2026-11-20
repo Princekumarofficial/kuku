@@ -1,0 +1,44 @@
+{
+  "candidate_id": "c_ea3b8ec685ae45e3",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP28:E52",
+      "EP28:E53",
+      "EP28:E54",
+      "EP28:E82"
+    ],
+    "reason": "The clip opens within the first 3000ms with Catherine violently yanking a locket off Juliana, and Juliana's cry of 'No!' makes the stakes immediately clear. The final 3000ms carries Juliana's defiant 'Do not speak about my husband!' over a close-up of her blazing eyes, which is a strong closing beat."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP28:E73",
+      "EP28:E77",
+      "EP28:E81",
+      "EP28:E82"
+    ],
+    "reason": "Catherine has exposed Juliana's identity as Lady Juliana Ashcroft and is still tormenting her when the clip ends, with the locket lying on the floor and no response to the threat. The confrontation is left open, so this is not a resolved ending.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Who Rupert is and why he is turning toward the guard at the start",
+      "Why Juliana is held by a guard and what the stone corridor and doorway setting means",
+      "Why Catherine calls Juliana a witch and mentions the gallows",
+      "What the disgraced family history and the 'penniless war veteran' husband refer to",
+      "Why the herbarium and the Ashcroft inscription matter to the confrontation"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "The clip builds intense emotion through Juliana's pleas, the humiliating whispered revelations, and her fierce defence of her husband. The tension and distress are conveyed clearly through the performances and camera work."
+  },
+  "weaknesses": [
+    "The opening Rupert shot is unexplained and does not connect to the rest of the clip for a first-time viewer",
+    "Terms such as 'witch', 'gallows', 'disgraced daughter' and 'penniless war veteran' are used without introduction, which requires assumed backstory",
+    "The emotional beats depend on the viewer understanding the stakes of the locket and the herbarium, which are not explained on screen"
+  ],
+  "one_line_why_it_works": "A fast, cruel confiscation of Juliana's locket escalates into a public unmasking of her identity and ends on her fierce defiance, leaving the confrontation open."
+}

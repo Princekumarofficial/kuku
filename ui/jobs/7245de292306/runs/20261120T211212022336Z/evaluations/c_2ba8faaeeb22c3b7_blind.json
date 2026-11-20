@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_2ba8faaeeb22c3b7",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP01:E21",
+      "EP01:E22",
+      "EP01:E23",
+      "EP01:E24"
+    ],
+    "reason": "Opens on a low-angle view of a bride-like figure facing Gerald and a rival in gold at the altar, then a close-up of Juliana's trembling lips and tearful eyes, and her question 'Why are you holding her hand?' creates immediate tension within the first 3 seconds."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP01:E56",
+      "EP01:E57"
+    ],
+    "reason": "The clip ends with Juliana kneeling and pleading 'Tell them this is a mistake' to her father, whose response is never shown, so the outcome of the confrontation is left open.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 6.0,
+    "missing_context": [
+      "Who Gerald is and how he relates to Juliana beyond being her intended groom",
+      "Why the Lady in Gold Gown is Juliana's sister is only implied by a caption and never explained",
+      "The wedding setup and the reason Juliana believed she was marrying Gerald",
+      "The father's role and why he is seated in the first row with a cane",
+      "The meaning of 'the former groom' label used in the dialogue"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 9.0,
+    "reason": "Juliana's shock, tears, outrage and pleading form a sustained, escalating emotional arc of betrayal and grief that is clearly conveyed through close-ups and dialogue."
+  },
+  "weaknesses": [
+    "Key relationships and backstory are not established, so viewers must infer who the characters are",
+    "The father's reaction is not shown, which leaves the ending dependent on unseen events",
+    "The sister relationship is only indicated by a caption and is not confirmed through dialogue or action",
+    "Some dialogue is repetitive in its accusatory structure, which may blunt escalation"
+  ],
+  "one_line_why_it_works": "A visually clear, emotionally raw betrayal at the altar escalates through pointed dialogue and close-ups, then ends on an unresolved plea that makes the viewer want to know what happens next."
+}

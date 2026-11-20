@@ -1,0 +1,236 @@
+{
+  "episode_id": "ep_017",
+  "summary": "Episode ep_017 (EP17) is shown in two scenes. In sc_001 (0-39000 ms, EXT. MEDICINAL GARDEN, DAY), Juliana kneels among trampled planters and finds a surviving daisy, and Alexander repairs a fence and then vows to protect her. In sc_002 (39000-118880 ms, INT. COTTAGE HEARTH, NIGHT), the two share a tender exchange by the fire, Juliana confesses fear of losing him, and they embrace. Uncertainty: the source carries the warning 'sc_001: incomplete source coverage; gaps are unavailable', so sc_001 may be missing events. Scene sc_002 runs to 118880 ms, but the supplied on-screen events end at EP17:E75 (114000-118880 ms), so later content is unknown. Metadata (logline and continuity notes) is not on-screen evidence and was used only for context; it describes an attack and a rival (Harrington) and a prior-episode confrontation that are not shown in these events, so they are treated as unverified. The on-screen events reference 'those men' and 'ten of them' without identifying them. Source SHA256 is 25fad86cb46d505849d1247d92836e1176bf732e50699a00b1f34c0e14f28e27. Event E6 and E11 timings overlap E5 and E10 ranges, which is recorded as supplied.",
+  "characters": [
+    {
+      "name": "Juliana",
+      "role": "Woman tending the damaged medicinal garden; bandaged hands; speaker of the V.O. lines in E72 and E74 and the spouse referred to as the man she married"
+    },
+    {
+      "name": "Alexander",
+      "role": "Scarred, gruff man who repairs the fence, defends Juliana from the men who attacked, vows protection, and is her husband per E72"
+    }
+  ],
+  "beats": [
+    {
+      "id": "b_001",
+      "kind": "aftermath_discovery",
+      "event_refs": [
+        "EP17:E1",
+        "EP17:E2",
+        "EP17:E3",
+        "EP17:E4",
+        "EP17:E5"
+      ],
+      "description": "Juliana examines the wrecked garden and gently lifts a surviving daisy from the soil, with a hopeful expression.",
+      "intensity_0_10": 4.0
+    },
+    {
+      "id": "b_002",
+      "kind": "gratitude_exchange",
+      "event_refs": [
+        "EP17:E6",
+        "EP17:E7",
+        "EP17:E8",
+        "EP17:E9",
+        "EP17:E10",
+        "EP17:E11",
+        "EP17:E12",
+        "EP17:E13",
+        "EP17:E14",
+        "EP17:E15"
+      ],
+      "description": "Juliana says some plants survived while Alexander repairs the fence. She thanks him for standing between her and the men, and he asks what for.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "b_003",
+      "kind": "declaration_of_loyalty",
+      "event_refs": [
+        "EP17:E16",
+        "EP17:E17",
+        "EP17:E18",
+        "EP17:E19",
+        "EP17:E20"
+      ],
+      "description": "Alexander states he would do it again. Juliana asks whether that holds even against ten men, and he begins a vow.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b_004",
+      "kind": "vow_of_protection",
+      "event_refs": [
+        "EP17:E21",
+        "EP17:E22",
+        "EP17:E23",
+        "EP17:E24",
+        "EP17:E25",
+        "EP17:E26",
+        "EP17:E27",
+        "EP17:E28",
+        "EP17:E29"
+      ],
+      "description": "Alexander kneels, takes Juliana's hands, and vows no one will hurt her again. She doubts he can promise that, and he replies that he just did. The scene fades to black.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b_005",
+      "kind": "tender_tending",
+      "event_refs": [
+        "EP17:E30",
+        "EP17:E31",
+        "EP17:E32",
+        "EP17:E33",
+        "EP17:E34",
+        "EP17:E35",
+        "EP17:E36",
+        "EP17:E37",
+        "EP17:E38"
+      ],
+      "description": "By the hearth, Juliana cleans Alexander's wounded knuckles. She notes he was bleeding last night, he says she was too, and she teases that he makes it hard to argue.",
+      "intensity_0_10": 4.0
+    },
+    {
+      "id": "b_006",
+      "kind": "emotional_confession",
+      "event_refs": [
+        "EP17:E39",
+        "EP17:E40",
+        "EP17:E41",
+        "EP17:E42",
+        "EP17:E43",
+        "EP17:E44",
+        "EP17:E45",
+        "EP17:E46"
+      ],
+      "description": "Juliana admits she was frightened, and when Alexander asks whether it was of them, she says it was of losing him.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b_007",
+      "kind": "embrace_by_hearth",
+      "event_refs": [
+        "EP17:E47",
+        "EP17:E48",
+        "EP17:E49",
+        "EP17:E50",
+        "EP17:E51",
+        "EP17:E52",
+        "EP17:E53",
+        "EP17:E54"
+      ],
+      "description": "Alexander pulls Juliana to her feet into an embrace. She notes his racing heart, and he says hers is racing too.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b_008",
+      "kind": "playful_banter",
+      "event_refs": [
+        "EP17:E55",
+        "EP17:E56",
+        "EP17:E57",
+        "EP17:E58",
+        "EP17:E59",
+        "EP17:E60",
+        "EP17:E61",
+        "EP17:E62",
+        "EP17:E63",
+        "EP17:E64"
+      ],
+      "description": "Juliana twirls his hair and jokes that birds will nest in it. He deadpans they have not complained, and she playfully reaches for his beard.",
+      "intensity_0_10": 3.0
+    },
+    {
+      "id": "b_009",
+      "kind": "tender_reassurance",
+      "event_refs": [
+        "EP17:E65",
+        "EP17:E66",
+        "EP17:E67",
+        "EP17:E68",
+        "EP17:E69",
+        "EP17:E70",
+        "EP17:E71"
+      ],
+      "description": "Alexander catches her wrist and says not yet. Juliana says she will wait, and they settle into a close embrace with her head on his chest.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "b_010",
+      "kind": "reflective_closing",
+      "event_refs": [
+        "EP17:E72",
+        "EP17:E73",
+        "EP17:E74",
+        "EP17:E75"
+      ],
+      "description": "Juliana's V.O. says she knows almost nothing about the man she married but that he gives her reason to trust him each day. The couple embraces as the fire crackles and the scene fades.",
+      "intensity_0_10": 5.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "r_001",
+      "event_refs": [
+        "EP17:E72"
+      ],
+      "claim": "Juliana's voiceover states she knows almost nothing about the man she married, implying a marriage and limited knowledge of Alexander's past.",
+      "spoiler_significance_0_10": 6.0,
+      "creates_questions": [
+        "What is Alexander's past, and how did the marriage come about?"
+      ]
+    },
+    {
+      "id": "r_002",
+      "event_refs": [
+        "EP17:E41",
+        "EP17:E45"
+      ],
+      "claim": "Juliana admits she was frightened, specifically of losing Alexander.",
+      "spoiler_significance_0_10": 3.0,
+      "creates_questions": [
+        "What caused Juliana's fear, and who were the men she was afraid of?"
+      ]
+    },
+    {
+      "id": "r_003",
+      "event_refs": [
+        "EP17:E74"
+      ],
+      "claim": "Juliana's voiceover says that every day Alexander gives her another reason to trust him, suggesting her trust is still developing.",
+      "spoiler_significance_0_10": 2.0,
+      "creates_questions": [
+        "What specific actions have earned or tested Juliana's trust in Alexander?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "Who were the men who attacked, and who sent them?",
+      "introduced_by": [
+        "EP17:E15",
+        "EP17:E19"
+      ]
+    },
+    {
+      "question": "What is Alexander's past, and why does Juliana know almost nothing about him?",
+      "introduced_by": [
+        "EP17:E72"
+      ]
+    },
+    {
+      "question": "Is Alexander's vow of protection sustainable, given Juliana's doubt?",
+      "introduced_by": [
+        "EP17:E25",
+        "EP17:E27"
+      ]
+    },
+    {
+      "question": "Why did Juliana say she was frightened of losing him, and what threat prompted it?",
+      "introduced_by": [
+        "EP17:E41",
+        "EP17:E45"
+      ]
+    }
+  ]
+}

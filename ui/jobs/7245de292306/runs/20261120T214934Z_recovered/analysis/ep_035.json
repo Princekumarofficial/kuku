@@ -1,0 +1,229 @@
+{
+  "episode_id": "ep_035",
+  "summary": "On-screen evidence shows an elderly woman escaping through a stone-lock passage into a snowy forest, reaching a secluded cabin, and reuniting with Alexander, who she was told had died. Alexander describes a Crown mission three years earlier against a British officer selling secrets to French spies near Madrid, an ambush that killed his men, his survival after being shot, and his claim that the ambush was ordered and that the men behind it now rule Ashwood. Uncertainty: source coverage is incomplete for sc_001 and sc_003 and the gaps are unavailable, so unseen events may sit between recorded shots. The metadata logline and continuity notes were not used as evidence; they mention Juliana's trial and sentencing, which does not appear in any on-screen event here. The identity of the British officer, the ambush orderers, and the Ashwood rulers are not named on screen. Timestamps are integer milliseconds.",
+  "characters": [
+    {
+      "name": "Alexander",
+      "role": "Scarred soldier and presumed-dead son; survived a Iberian-front ambush that killed his regiment's men; investigating a traitor and now alleges a conspiracy in Ashwood."
+    },
+    {
+      "name": "Alexander's mother",
+      "role": "Elderly, frail woman who escaped through a hidden stone passage and trekked through a snowstorm to find Alexander; was told he and his regiment died."
+    }
+  ],
+  "beats": [
+    {
+      "id": "b1",
+      "kind": "escape",
+      "event_refs": [
+        "EP35:E1",
+        "EP35:E2",
+        "EP35:E3",
+        "EP35:E4",
+        "EP35:E5",
+        "EP35:E6",
+        "EP35:E7"
+      ],
+      "description": "In a stone corridor the mother declares she will not die in that house, forces open a hidden stone lock and crawls out into the night.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b2",
+      "kind": "journey and arrival",
+      "event_refs": [
+        "EP35:E8",
+        "EP35:E9",
+        "EP35:E10",
+        "EP35:E11",
+        "EP35:E12",
+        "EP35:E13",
+        "EP35:E14"
+      ],
+      "description": "She trudges through a snowy pine forest to a secluded log cabin and opens its frozen door.",
+      "intensity_0_10": 5.0
+    },
+    {
+      "id": "b3",
+      "kind": "reunion",
+      "event_refs": [
+        "EP35:E15",
+        "EP35:E16",
+        "EP35:E17",
+        "EP35:E18",
+        "EP35:E19",
+        "EP35:E20",
+        "EP35:E21",
+        "EP35:E22",
+        "EP35:E23",
+        "EP35:E24",
+        "EP35:E25",
+        "EP35:E26",
+        "EP35:E27",
+        "EP35:E28"
+      ],
+      "description": "Alexander, studying a map, looks up in alarm; his mother recognizes him, they embrace, and she says she buried him.",
+      "intensity_0_10": 8.0
+    },
+    {
+      "id": "b4",
+      "kind": "backstory exposition",
+      "event_refs": [
+        "EP35:E29",
+        "EP35:E30",
+        "EP35:E31",
+        "EP35:E32",
+        "EP35:E33",
+        "EP35:E34"
+      ],
+      "description": "She says she was told he died and his regiment was destroyed; he answers that most of them were and says he was not supposed to survive.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b5",
+      "kind": "mission exposition",
+      "event_refs": [
+        "EP35:E35",
+        "EP35:E36",
+        "EP35:E37",
+        "EP35:E38",
+        "EP35:E39",
+        "EP35:E40",
+        "EP35:E41",
+        "EP35:E42",
+        "EP35:E43",
+        "EP35:E44"
+      ],
+      "description": "Alexander recounts a classified Crown mission three years ago to investigate a British officer selling secrets to French spies, pointing to a red-circled location near Madrid.",
+      "intensity_0_10": 6.0
+    },
+    {
+      "id": "b6",
+      "kind": "ambush and survival",
+      "event_refs": [
+        "EP35:E45",
+        "EP35:E46",
+        "EP35:E47",
+        "EP35:E48",
+        "EP35:E49",
+        "EP35:E50",
+        "EP35:E51",
+        "EP35:E52",
+        "EP35:E53",
+        "EP35:E54",
+        "EP35:E55",
+        "EP35:E56",
+        "EP35:E57"
+      ],
+      "description": "The ambush kills his men; Alexander is shot and left for dead, crawls away alone, and survives because the searchers believed he was already dead.",
+      "intensity_0_10": 7.0
+    },
+    {
+      "id": "b7",
+      "kind": "conspiracy escalation",
+      "event_refs": [
+        "EP35:E58",
+        "EP35:E59",
+        "EP35:E60",
+        "EP35:E61",
+        "EP35:E62",
+        "EP35:E63",
+        "EP35:E64",
+        "EP35:E65",
+        "EP35:E66",
+        "EP35:E67",
+        "EP35:E68",
+        "EP35:E69",
+        "EP35:E70",
+        "EP35:E71",
+        "EP35:E72"
+      ],
+      "description": "Alexander says someone wanted his mother to believe he was dead, that the ambush was ordered to erase him, and that the men behind it now rule Ashwood; she is struck with dread.",
+      "intensity_0_10": 9.0
+    }
+  ],
+  "revelations": [
+    {
+      "id": "r1",
+      "event_refs": [
+        "EP35:E29",
+        "EP35:E31",
+        "EP35:E50",
+        "EP35:E55"
+      ],
+      "claim": "Alexander was shot and left for dead in the ambush and survived because the men searching for him believed he was already dead.",
+      "spoiler_significance_0_10": 7.0,
+      "creates_questions": [
+        "Who were the men who came looking for Alexander?",
+        "Why were the family and others told he had died?"
+      ]
+    },
+    {
+      "id": "r2",
+      "event_refs": [
+        "EP35:E59",
+        "EP35:E64",
+        "EP35:E66",
+        "EP35:E67"
+      ],
+      "claim": "The ambush was not an accident; someone ordered his men to die and wanted Alexander erased, and someone wanted his mother to believe he was dead.",
+      "spoiler_significance_0_10": 9.0,
+      "creates_questions": [
+        "Who ordered the ambush?",
+        "Why did someone want Alexander erased?"
+      ]
+    },
+    {
+      "id": "r3",
+      "event_refs": [
+        "EP35:E70"
+      ],
+      "claim": "The men behind the ambush are the same men ruling Ashwood now.",
+      "spoiler_significance_0_10": 9.0,
+      "creates_questions": [
+        "Who are the men ruling Ashwood?",
+        "How are the Ashwood rulers connected to the traitor officer?"
+      ]
+    },
+    {
+      "id": "r4",
+      "event_refs": [
+        "EP35:E38",
+        "EP35:E39"
+      ],
+      "claim": "Alexander's Crown mission three years ago investigated a British officer selling military secrets to French spies, with the lead located near Madrid.",
+      "spoiler_significance_0_10": 5.0,
+      "creates_questions": [
+        "Who is the British officer?",
+        "Is the British officer connected to the ambush?"
+      ]
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "question": "Who is the British officer selling secrets to French spies?",
+      "introduced_by": [
+        "EP35:E38",
+        "EP35:E39"
+      ]
+    },
+    {
+      "question": "Who ordered the ambush that killed Alexander's men?",
+      "introduced_by": [
+        "EP35:E64",
+        "EP35:E66"
+      ]
+    },
+    {
+      "question": "Who are the men ruling Ashwood, and how are they tied to the conspiracy?",
+      "introduced_by": [
+        "EP35:E70"
+      ]
+    },
+    {
+      "question": "What will Alexander's mother do now that she has learned of the conspiracy?",
+      "introduced_by": [
+        "EP35:E71"
+      ]
+    }
+  ]
+}

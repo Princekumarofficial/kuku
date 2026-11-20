@@ -1,0 +1,59 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "ep047_opp01",
+      "episode_id": "ep_047",
+      "concept": "Lady Ashbourne condemns the kneeling Catherine in the rain-soaked courtyard, Alexander orders her thrown past the perimeter, and Juliana halts the guard with a single command.",
+      "hook_refs": [
+        "EP47:E27"
+      ],
+      "ending_refs": [
+        "EP47:E41"
+      ],
+      "context_refs": [
+        "EP47:E26",
+        "EP47:E31",
+        "EP47:E33",
+        "EP47:E37"
+      ],
+      "why_promising": "The hook opens on a sharp accusation within the first 3 seconds, the clip runs about 26.6 seconds from 56800 to 83400 inside one coverage interval, and it ends on Juliana's unresolved 'Stop.' as the guard is about to act."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep047_opp02",
+      "episode_id": "ep_047",
+      "concept": "Juliana offers Catherine shelter only as a scullery maid, sets out harsh labor terms, and forces her to choose between the apron and leaving the county.",
+      "hook_refs": [
+        "EP47:E51"
+      ],
+      "ending_refs": [
+        "EP47:E67"
+      ],
+      "context_refs": [
+        "EP47:E53",
+        "EP47:E55",
+        "EP47:E57",
+        "EP47:E63"
+      ],
+      "why_promising": "Catherine's incredulous question opens the clip within 0.5 seconds of its start, the clip runs about 31.2 seconds from 95500 to 127200 inside one coverage interval, and it ends on the unresolved ultimatum before Catherine accepts."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep047_opp03",
+      "episode_id": "ep_047",
+      "concept": "Catherine's night plot to remain on the estate is followed by the next morning's fear that the council will strip Alexander's title because of Juliana.",
+      "hook_refs": [
+        "EP47:E3"
+      ],
+      "ending_refs": [
+        "EP47:E14"
+      ],
+      "context_refs": [
+        "EP47:E5",
+        "EP47:E7"
+      ],
+      "why_promising": "Catherine's defiant line 'Not me. I intend to stay on this estate.' opens the clip at its first moment, the clip runs about 28.5 seconds from 1800 to 30300 inside one coverage interval, and it ends on Juliana's unresolved fear about her husband's title."
+    }
+  ]
+}

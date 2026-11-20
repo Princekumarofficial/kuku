@@ -1,0 +1,205 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_93ec58705d004b19 DURATION_MS=42100\nSEGMENT 1 (playback order)\nEP04:E19 0-2400 CAMERA: Tight close-up of Juliana's anguished face.\nEP04:E20 100-2400 JULIANA: \"You heard what they think I am.\"\nEP04:E21 2400-4500 CAMERA: Medium shot looking down as Juliana addresses the kneeling stranger directly.\nEP04:E22 2500-4300 JULIANA: \"Why would you offer me your name?\"\nEP04:E23 4500-7100 CAMERA: Low-angle close-up of the Mysterious Bearded Man.\nEP04:E24 4600-6800 MYSTERIOUS BEARDED MAN: \"Because I know what I see.\"\nEP04:E25 7100-8600 CAMERA: Medium close-up of Juliana reacting with a mix of suspicion and wonder.\nEP04:E26 8600-10400 CAMERA: Intimate tight shot framing Juliana's profile beside his dark silhouette.\nEP04:E27 8700-10300 JULIANA: \"And what do you see?\"\nEP04:E28 10400-12600 CAMERA: Medium close-up of the Mysterious Bearded Man.\nEP04:E29 10600-12600 MYSTERIOUS BEARDED MAN: \"A woman who was betrayed.\"\nEP04:E30 12600-15500 CAMERA: Over-the-shoulder shot past the bearded warrior toward Gerald watching nervously from the family pew.\nEP04:E31 13100-15400 MYSTERIOUS BEARDED MAN: \"Not a woman who deserves to be discarded.\"\nEP04:E32 15500-18100 CAMERA: Low-angle medium shot of Juliana bending slightly forward, shaken by his words.\nEP04:E33 18100-21600 CAMERA: Medium close-up of Juliana.\nEP04:E34 18600-21400 JULIANA: \"You don't know what my family has done to me.\"\nEP04:E35 21600-26400 CAMERA: Low-angle shot of the Mysterious Bearded Man still on one knee, framed against the stained-glass window.\nEP04:E36 22600-25400 MYSTERIOUS BEARDED MAN: \"I know they have made you stand alone.\"\nEP04:E37 26400-29400 CAMERA: Extreme close-up of the ring held in his weathered fingers, Juliana's white silk gown blurred in background.\nEP04:E38 26600-29100 MYSTERIOUS BEARDED MAN: \"You don't have to stand alone now.\"\nEP04:E39 29400-32400 CAMERA: Medium shot of Juliana, her pride flaring through her sadness.\nEP04:E40 30200-32400 JULIANA: \"If this is pity, take back your ring.\"\nEP04:E41 32400-35600 CAMERA: Tight close-up on Juliana's face, a tear clinging to her cheek.\nEP04:E42 33400-35400 JULIANA: \"I will not become anyone's charity.\"\nEP04:E43 35600-39400 CAMERA: Medium close-up of the Mysterious Bearded Man holding her gaze directly.\nEP04:E44 36100-39100 MYSTERIOUS BEARDED MAN: \"It is not pity, Lady Juliana.\"\nEP04:E45 39400-42100 CAMERA: Intense tight close-up on his piercing blue-green eyes and facial scars.\nEP04:E46 40100-42100 MYSTERIOUS BEARDED MAN: \"It is a vow.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "complete",
+  "output": {
+    "candidate_id": "c_93ec58705d004b19",
+    "hook": {
+      "score_0_10": 7.0,
+      "evidence_refs": [
+        "EP04:E19",
+        "EP04:E20",
+        "EP04:E46"
+      ],
+      "reason": "The opening line 'You heard what they think I am.' with an anguished close-up creates immediate tension, and the final vow 'It is a vow.' lands as a strong closing beat. The opening hook is strong but depends on context a first-time viewer lacks."
+    },
+    "cliffhanger": {
+      "score_0_10": 5.0,
+      "evidence_refs": [
+        "EP04:E40",
+        "EP04:E42",
+        "EP04:E46"
+      ],
+      "reason": "The clip ends on the bearded man's vow while Juliana's answer to the ring and his offer is still open, so the decision is unresolved. The emotional exchange does reach a stopping point, so this is a mild rather than strong suspense hook.",
+      "unresolved_at_end": true
+    },
+    "standalone": {
+      "score_0_10": 4.0,
+      "missing_context": [
+        "Who Juliana's family is and what they did to her",
+        "What 'they think I am' refers to",
+        "Why Juliana was betrayed and by whom",
+        "Who the Mysterious Bearded Man is and why he kneels",
+        "The significance of the ring and the wedding setting",
+        "Who Gerald is and his role in the scene"
+      ]
+    },
+    "emotion": {
+      "score_0_10": 8.0,
+      "reason": "Juliana's shifting mix of pride, sadness, and suspicion, including the tear and her refusal of charity, contrasted with the bearded man's steady vow, produces strong emotional tension."
+    },
+    "weaknesses": [
+      "Core backstory is absent, so stakes are hard to grasp for a first-time viewer",
+      "The ring offer and the reason for the proposal are unexplained",
+      "Juliana's final response is not shown, weakening the closing hook",
+      "Repeated 'stand alone' and pity lines rely on unstated history"
+    ],
+    "one_line_why_it_works": "Raw confrontation between a wounded woman and a stranger's sincere vow builds emotional tension, though the unexplained backstory limits standalone clarity."
+  }
+}

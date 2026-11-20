@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_22982f99753bff7a",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP12:E14",
+      "EP12:E17",
+      "EP12:E16"
+    ],
+    "reason": "The opening line 'You planted it!' is an immediate accusation, and Juliana lunges at Gerald within the first second, so the clip opens in active conflict."
+  },
+  "cliffhanger": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP12:E45",
+      "EP12:E44"
+    ],
+    "reason": "In the final seconds Clarissa whispers that Juliana must fail or refuse or her husband hangs. Juliana's response is never shown, so the outcome of the bargain stays open at the clip's end.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Who Alexander is and his relationship to Juliana and Clarissa beyond being someone Clarissa calls a 'broken scrap of a man'",
+      "What 'it' is that Juliana was accused of planting",
+      "What the charges are and why withdrawing them is a bargaining point",
+      "The roles of Gerald and the Constable and why the magistrate's arrival matters",
+      "Where Ashworth Manor is and why the emerald signet ring matters to Clarissa",
+      "Why Clarissa wants Juliana to retrieve the ring and what the sibling history between them is"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Escalating hostility, a trembling fist, a sadistic ring-retrieval demand, and a threat against a husband's life create strong tension and dread."
+  },
+  "weaknesses": [
+    "Heavy reliance on unexplained names and events makes the stakes hard to follow without prior context",
+    "The accusation 'You planted it!' has no visible referent within the clip",
+    "Alexander's role is shown only through reaction shots, so his stakes are unclear to a new viewer",
+    "The ending threat is strong but the clip does not establish how credible or immediate it is"
+  ],
+  "one_line_why_it_works": "A sharp accusation opens the clip and it escalates into a cruel bargain whose final threat leaves Juliana's choice and her husband's fate unresolved."
+}

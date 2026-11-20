@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c_5ecbf87168bee037",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP44:E3",
+      "EP44:E4"
+    ],
+    "reason": "Opens immediately with a police constable arresting Lord Henry Sterling under the Crown's order, with a tense two-shot starting at 0ms. The confrontation grabs attention quickly, though the stakes are not yet clear to a first-time viewer."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP44:E36",
+      "EP44:E37"
+    ],
+    "reason": "The clip ends on Alexander's sharp line 'You were never my Duchess' in a two-shot, while Catherine's claim and Rupert's restraint remain unresolved. The emotional confrontation is left open, though it is not a major plot cliffhanger.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Why Lord Sterling is being arrested and what the Crown's dossier contains",
+      "Who Alexander, Catherine, and Rupert are and how they relate to each other",
+      "Why Catherine believed Alexander had died and what happened over the past three years",
+      "Why Rupert is being held down and what his connection to the wedding is",
+      "Why Alexander does not remember Catherine and what 'Duchess' means in this setting",
+      "Setting and purpose of the ruined nave and seated congregation"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Catherine's grief, tears, and rejected touch, followed by Alexander's detachment and her stunned hurt, create strong emotional tension. The shifts from grief to humiliation are clearly conveyed through close-ups and gestures."
+  },
+  "weaknesses": [
+    "Heavy reliance on unexplained names and backstory limits standalone comprehension",
+    "The arrest opening and the emotional confrontation feel like two separate threads without clear linkage",
+    "Alexander's motives are unclear, so his rejection may read as arbitrary to a new viewer"
+  ],
+  "one_line_why_it_works": "A dramatic public confrontation at a ruined wedding builds emotional intensity through Catherine's rejected plea and a sharp final line, even though the context is largely missing."
+}

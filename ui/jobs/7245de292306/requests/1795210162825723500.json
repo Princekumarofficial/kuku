@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_d0309feb9df5ccd8 DURATION_MS=35880\nSEGMENT 1 (playback order)\nEP40:E35 0-300 CAMERA: Over-the-shoulder shot from behind the elder nobleman, his gloved hand resting on the stone balustrade, looking down upon the altar and seated aristocrats.\nEP40:E37 300-4300 CAMERA: Tight, menacing close-up on the elder nobleman's face as a cold, sinister smile spreads across his lips.\nEP40:E38 600-3200 ELDER NOBLEMAN: \"And its witch will be dead.\"\nEP40:E39 4300-6800 SOUND: The heavy creak of massive wooden cathedral doors swinging open, accompanied by swelling bridal organ music.\nEP40:E40 4300-6800 CAMERA: Wide symmetrical shot down the candlelit aisle as the double doors part, flooding the cathedral with brilliant golden daylight.\nEP40:E41 6800-8300 CAMERA: Close-up of Rupert turning his head sharply, his eyes widening in awe.\nEP40:E42 8300-11600 CAMERA: Framed wide shot of Catherine silhouetted in the bright doorway, wearing a breathtaking cream and gold imperial bridal gown with puffed sleeves and an exquisite sheer veil.\nEP40:E43 11600-16600 CAMERA: Majestic high-angle wide tracking shot following Catherine from behind as her magnificent cathedral-length veil trails down the aisle between seated guests.\nEP40:E44 16600-20300 CAMERA: Medium close-up of Lady Harrington leaning forward from her pew, utterly captivated.\nEP40:E45 17800-20000 LADY HARRINGTON: \"She looks like a queen.\"\nEP40:E46 20300-23300 CAMERA: Medium shot of Rupert at the altar, a proud, possessive smile breaking across his handsome face.\nEP40:E47 23300-28600 CAMERA: Full shot as Catherine reaches the top of the altar steps. Rupert steps forward and takes her gloved hands into his.\nEP40:E48 25800-28600 BLOND NOBLEMAN: \"You look more queen than bride.\"\nEP40:E49 28600-35880 CAMERA: Tight two-shot profile of Catherine and Rupert clasping hands intimately, gazing into each other's eyes with shared aristocratic vanity.\nEP40:E50 30800-34800 CATHERINE: \"And you look better in silk than you ever did as an ignored cousin.\"\nEP40:E51 34800-35880 ACTION: Rupert and Catherine exchange conspiratorial, triumphant smiles at the altar as the solemn organ chord holds and the scene cuts to black.",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

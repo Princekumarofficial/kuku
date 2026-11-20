@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_e877d6e86e6be790",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP14:E4",
+      "EP14:E5"
+    ],
+    "reason": "The opening shows a bloodied, scratched woman stepping from thorns holding a ring, and her line 'I found it.' at 2200-3500ms suggests a search with stakes. The hook is held back because the ring's importance and the reason for the search are not shown."
+  },
+  "cliffhanger": {
+    "score_0_10": 3.0,
+    "evidence_refs": [
+      "EP14:E18",
+      "EP14:E19"
+    ],
+    "reason": "The final 3000ms show a tender reunion, and the husband's shackles are removed earlier in the clip. The closing line 'Nothing they didn't promise.' hints at an unexplained threat, but the main conflict is visibly resolved, so this is not a true cliffhanger.",
+    "unresolved_at_end": false
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Identity and relationship of Juliana and Alexander beyond the reunion",
+      "Why Alexander was shackled and who imprisoned him",
+      "What the ring means and why it was demanded",
+      "Who the Police Constable is in the wider situation",
+      "What 'promised' refers to in Juliana's final line",
+      "Location and purpose of the frozen garden and briar patch"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 6.0,
+    "reason": "The clip builds tension through injury, shackles, and a quick release, then moves to a tender reunion with Alexander's visible anger and Juliana's relief. The emotional beats are clear, though without backstory the feelings lack depth."
+  },
+  "weaknesses": [
+    "The stakes of the ring and the captivity are never established",
+    "The Constable's motive and the 'promise' are left unexplained, which weakens standalone clarity",
+    "The reunion resolves the immediate tension, so the ending does not pull the viewer forward",
+    "Dialogue is sparse, so characterization depends almost entirely on visuals"
+  ],
+  "one_line_why_it_works": "A visibly injured heroine's defiant handover of a ring, followed by her husband's release and tender reunion, creates clear emotional payoff even without full context."
+}

@@ -1,0 +1,829 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "ep_038",
+  "episode_number": 38,
+  "metadata": {
+    "logline": "A compassionate guard secretly feeds Juliana bread in the dungeon, strengthening her resolve to protect Alexander's secrets just as distant wedding bells signal the start of Rupert's nuptials and her impending execution.",
+    "continuity_notes": "Following Rupert and Catherine's cruel announcement pairing their wedding with Juliana's public execution, Juliana remains starved in the subterranean dungeon awaiting her fate."
+  },
+  "source": {
+    "file": "037_episode-038-Episode 1681371.txt",
+    "sha256": "03e0ee85f8752256ba57786e7857c8c7e9f49b24b40d8ae900c4a6f5a00b5926",
+    "complete": true
+  },
+  "scenes": [
+    {
+      "start_ms": 0,
+      "end_ms": 87910,
+      "id": "sc_001",
+      "heading": "INT. DUNGEON CELL – DAY"
+    }
+  ],
+  "events": [
+    {
+      "start_ms": 0,
+      "end_ms": 4000,
+      "id": "e_001",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium profile shot of Juliana slumped on the damp stone floor of her dark dungeon cell, her wrists bound in heavy iron shackles and chains draped over her lap.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        14,
+        16
+      ]
+    },
+    {
+      "start_ms": 0,
+      "end_ms": 3500,
+      "id": "e_002",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana sits motionless against the cold masonry, weak and visibly drained from starvation, her eyes cast downward.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        18,
+        20
+      ]
+    },
+    {
+      "start_ms": 3200,
+      "end_ms": 6000,
+      "id": "e_003",
+      "scene_id": "sc_001",
+      "type": "sound",
+      "text": "Echoing, heavy bootsteps approach down the corridor outside the cell.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        22,
+        24
+      ]
+    },
+    {
+      "start_ms": 4000,
+      "end_ms": 7500,
+      "id": "e_004",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Tight close-up on Juliana's profile as her head turns toward the corridor, her blue eyes widening with cautious alarm.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        26,
+        28
+      ]
+    },
+    {
+      "start_ms": 5000,
+      "end_ms": 7500,
+      "id": "e_005",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana blinks, lifting her gaze toward the heavy iron bars.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        30,
+        32
+      ]
+    },
+    {
+      "start_ms": 7500,
+      "end_ms": 11000,
+      "id": "e_006",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot through the cell bars as a Guard in a black collared uniform with silver buttons halts outside.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        34,
+        36
+      ]
+    },
+    {
+      "start_ms": 8500,
+      "end_ms": 11000,
+      "id": "e_007",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "The Guard pauses, glancing over his shoulder into the gloomy corridor to ensure he is unobserved.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        38,
+        40
+      ]
+    },
+    {
+      "start_ms": 11000,
+      "end_ms": 15500,
+      "id": "e_008",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle shot focusing on the wet flagstones at the base of the cell door.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        42,
+        44
+      ]
+    },
+    {
+      "start_ms": 11000,
+      "end_ms": 15500,
+      "id": "e_009",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "The Guard kneels down and slips a small loaf of rustic bread through the bottom gap between the iron bars, nudging it inside before withdrawing his gloved hand.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        46,
+        48
+      ]
+    },
+    {
+      "start_ms": 15500,
+      "end_ms": 17500,
+      "id": "e_010",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle close-up of Juliana crawling forward across the stone floor toward the bread, her gaze fixed on the offering in disbelief.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        50,
+        52
+      ]
+    },
+    {
+      "start_ms": 16000,
+      "end_ms": 17300,
+      "id": "e_011",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Why?\"",
+      "speaker": "JULIANA",
+      "delivery": "Breathless, Bewildered",
+      "source_lines": [
+        54,
+        56
+      ]
+    },
+    {
+      "start_ms": 17500,
+      "end_ms": 21500,
+      "id": "e_012",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of the Guard looking through the vertical bars with quiet compassion.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        58,
+        60
+      ]
+    },
+    {
+      "start_ms": 17500,
+      "end_ms": 20300,
+      "id": "e_013",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Because no one should die hungry.\"",
+      "speaker": "GUARD",
+      "delivery": "Subdued, Sincere",
+      "source_lines": [
+        62,
+        64
+      ]
+    },
+    {
+      "start_ms": 20500,
+      "end_ms": 22000,
+      "id": "e_014",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Eat it before they see.\"",
+      "speaker": "GUARD",
+      "delivery": "Urgent, Whispered",
+      "source_lines": [
+        66,
+        68
+      ]
+    },
+    {
+      "start_ms": 21500,
+      "end_ms": 23200,
+      "id": "e_015",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Over-the-shoulder shot through the cell bars as the Guard turns and walks swiftly away into the dark corridor.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        70,
+        72
+      ]
+    },
+    {
+      "start_ms": 21800,
+      "end_ms": 23200,
+      "id": "e_016",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "The Guard's silhouette retreats into the shadows.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        74,
+        76
+      ]
+    },
+    {
+      "start_ms": 23200,
+      "end_ms": 30500,
+      "id": "e_017",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Tight shot following Juliana's trembling, shackle-bound hands as she reaches out and drags the loaf toward her chest.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        78,
+        80
+      ]
+    },
+    {
+      "start_ms": 23500,
+      "end_ms": 27500,
+      "id": "e_018",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana clutches the bread tightly with both hands, tears welling in her eyes.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        82,
+        84
+      ]
+    },
+    {
+      "start_ms": 26000,
+      "end_ms": 27500,
+      "id": "e_019",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Thank you.\"",
+      "speaker": "JULIANA",
+      "delivery": "Choked Up, Tearful",
+      "source_lines": [
+        86,
+        88
+      ]
+    },
+    {
+      "start_ms": 27800,
+      "end_ms": 31000,
+      "id": "e_020",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Starving and overcome with emotion, Juliana presses the bread to her lips and tears off a desperate, ravenous bite.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        90,
+        92
+      ]
+    },
+    {
+      "start_ms": 30500,
+      "end_ms": 35000,
+      "id": "e_021",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up profile of Juliana chewing the bread, tears rolling down her soot-streaked cheek.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        94,
+        96
+      ]
+    },
+    {
+      "start_ms": 31000,
+      "end_ms": 34500,
+      "id": "e_022",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana chews hungrily, closing her eyes as the agonizing reality of her plight hits her anew.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        98,
+        100
+      ]
+    },
+    {
+      "start_ms": 34500,
+      "end_ms": 36500,
+      "id": "e_023",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Alexander...\"",
+      "speaker": "JULIANA",
+      "delivery": "Sorrowful, Whispering",
+      "source_lines": [
+        102,
+        104
+      ]
+    },
+    {
+      "start_ms": 35000,
+      "end_ms": 39500,
+      "id": "e_024",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle wide shot of Juliana seated against the damp stone wall beneath high overhead iron ceiling grates, clutching the half-eaten bread in her lap.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        106,
+        108
+      ]
+    },
+    {
+      "start_ms": 36800,
+      "end_ms": 39000,
+      "id": "e_025",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"...are you safe?\"",
+      "speaker": "JULIANA",
+      "delivery": "Yearning",
+      "source_lines": [
+        110,
+        112
+      ]
+    },
+    {
+      "start_ms": 39500,
+      "end_ms": 45500,
+      "id": "e_026",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Intimate close-up of Juliana looking upward, her tear-stained face filled with raw anguish.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        114,
+        116
+      ]
+    },
+    {
+      "start_ms": 40000,
+      "end_ms": 43000,
+      "id": "e_027",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Do you even know what happened to me?\"",
+      "speaker": "JULIANA",
+      "delivery": "Desperate, Trembling",
+      "source_lines": [
+        118,
+        120
+      ]
+    },
+    {
+      "start_ms": 43200,
+      "end_ms": 45200,
+      "id": "e_028",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Do you know they condemned me?\"",
+      "speaker": "JULIANA",
+      "delivery": "Grief-Stricken",
+      "source_lines": [
+        122,
+        124
+      ]
+    },
+    {
+      "start_ms": 45500,
+      "end_ms": 51000,
+      "id": "e_029",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Tight macro shot on Juliana's chin and throat as she presses a trembling hand against her chest.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        126,
+        128
+      ]
+    },
+    {
+      "start_ms": 45500,
+      "end_ms": 47500,
+      "id": "e_030",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"What if I die here?\"",
+      "speaker": "JULIANA",
+      "delivery": "Fearful, Pleading",
+      "source_lines": [
+        130,
+        132
+      ]
+    },
+    {
+      "start_ms": 47800,
+      "end_ms": 50500,
+      "id": "e_031",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"What if I never see you again?\"",
+      "speaker": "JULIANA",
+      "delivery": "Heartbroken",
+      "source_lines": [
+        134,
+        136
+      ]
+    },
+    {
+      "start_ms": 48500,
+      "end_ms": 51000,
+      "id": "e_032",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "A heavy tear drips down from her jaw, falling into the dark dampness below.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        138,
+        140
+      ]
+    },
+    {
+      "start_ms": 51000,
+      "end_ms": 55500,
+      "id": "e_033",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up profile of Juliana closing her eyes, drawing a deep breath to steady herself.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        142,
+        144
+      ]
+    },
+    {
+      "start_ms": 51500,
+      "end_ms": 53500,
+      "id": "e_034",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Keep him safe.\"",
+      "speaker": "JULIANA",
+      "delivery": "Fervent Prayer",
+      "source_lines": [
+        146,
+        148
+      ]
+    },
+    {
+      "start_ms": 53800,
+      "end_ms": 55300,
+      "id": "e_035",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Wherever he is.\"",
+      "speaker": "JULIANA",
+      "delivery": "Resigned",
+      "source_lines": [
+        150,
+        152
+      ]
+    },
+    {
+      "start_ms": 55500,
+      "end_ms": 60500,
+      "id": "e_036",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Frontal medium shot of Juliana kneeling upright, her right hand pressed firmly over her heart, her posture transforming into quiet dignity.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        154,
+        156
+      ]
+    },
+    {
+      "start_ms": 55500,
+      "end_ms": 57000,
+      "id": "e_037",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Let him live.\"",
+      "speaker": "JULIANA",
+      "delivery": "Determined",
+      "source_lines": [
+        158,
+        160
+      ]
+    },
+    {
+      "start_ms": 57500,
+      "end_ms": 60500,
+      "id": "e_038",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"And if I have only one thing left to give...\"",
+      "speaker": "JULIANA",
+      "delivery": "Steely",
+      "source_lines": [
+        162,
+        164
+      ]
+    },
+    {
+      "start_ms": 60500,
+      "end_ms": 64000,
+      "id": "e_039",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Tight close-up of Juliana turning toward the cell wall, her blue eyes flashing with fierce loyalty.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        166,
+        168
+      ]
+    },
+    {
+      "start_ms": 60800,
+      "end_ms": 62500,
+      "id": "e_040",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I will not give them my husband.\"",
+      "speaker": "JULIANA",
+      "delivery": "Defiant, Unshakable",
+      "source_lines": [
+        170,
+        172
+      ]
+    },
+    {
+      "start_ms": 62800,
+      "end_ms": 64200,
+      "id": "e_041",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I will not betray him.\"",
+      "speaker": "JULIANA",
+      "delivery": "Resolute",
+      "source_lines": [
+        174,
+        176
+      ]
+    },
+    {
+      "start_ms": 64000,
+      "end_ms": 67000,
+      "id": "e_042",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Extreme close-up of Juliana's closed eyelids as she takes a sharp, startled breath.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        178,
+        180
+      ]
+    },
+    {
+      "start_ms": 64500,
+      "end_ms": 66500,
+      "id": "e_043",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana's eyes snap wide open in sudden realization as a deep resonant toll reverberates from above.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        182,
+        184
+      ]
+    },
+    {
+      "start_ms": 64800,
+      "end_ms": 87000,
+      "id": "e_044",
+      "scene_id": "sc_001",
+      "type": "sound",
+      "text": "Solemn, resonant church bells begin tolling rhythmically from the cathedral above, echoing deep into the stone dungeon.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        186,
+        188
+      ]
+    },
+    {
+      "start_ms": 67000,
+      "end_ms": 70500,
+      "id": "e_045",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle shot looking up past Juliana kneeling on the wet floor toward the barred iron skylight above her cell.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        190,
+        192
+      ]
+    },
+    {
+      "start_ms": 69000,
+      "end_ms": 70300,
+      "id": "e_046",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Bells.\"",
+      "speaker": "JULIANA",
+      "delivery": "Startled Whisper",
+      "source_lines": [
+        194,
+        196
+      ]
+    },
+    {
+      "start_ms": 70500,
+      "end_ms": 72500,
+      "id": "e_047",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Wide tracking shot as Juliana scrambles to her feet, chains clinking loudly against her skirts.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        198,
+        200
+      ]
+    },
+    {
+      "start_ms": 71000,
+      "end_ms": 73500,
+      "id": "e_048",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana rushes toward the front of the cell, clutching the iron bars with both hands.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        202,
+        204
+      ]
+    },
+    {
+      "start_ms": 72500,
+      "end_ms": 78500,
+      "id": "e_049",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium profile shot of Juliana gripping the heavy iron bars, gazing down the corridor toward the source of the sound.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        206,
+        208
+      ]
+    },
+    {
+      "start_ms": 72800,
+      "end_ms": 74200,
+      "id": "e_050",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"The wedding.\"",
+      "speaker": "JULIANA",
+      "delivery": "Realizing",
+      "source_lines": [
+        210,
+        212
+      ]
+    },
+    {
+      "start_ms": 74500,
+      "end_ms": 75800,
+      "id": "e_051",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"It's beginning.\"",
+      "speaker": "JULIANA",
+      "delivery": "Grim",
+      "source_lines": [
+        214,
+        216
+      ]
+    },
+    {
+      "start_ms": 76000,
+      "end_ms": 78500,
+      "id": "e_052",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Then I suppose I'm next.\"",
+      "speaker": "JULIANA",
+      "delivery": "Somber, Steely",
+      "source_lines": [
+        218,
+        220
+      ]
+    },
+    {
+      "start_ms": 78500,
+      "end_ms": 84500,
+      "id": "e_053",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up between the vertical iron bars framed directly on Juliana's face. The terror in her eyes softens into an unexpected, brave smile of enduring faith.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        222,
+        224
+      ]
+    },
+    {
+      "start_ms": 81000,
+      "end_ms": 84000,
+      "id": "e_054",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana grips the bars tightly, her lips curving into a warm, defiant smile as she whispers her husband's name.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        226,
+        228
+      ]
+    },
+    {
+      "start_ms": 82500,
+      "end_ms": 84000,
+      "id": "e_055",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Alexander...\"",
+      "speaker": "JULIANA",
+      "delivery": "Hopeful, Tender",
+      "source_lines": [
+        230,
+        232
+      ]
+    },
+    {
+      "start_ms": 84500,
+      "end_ms": 87910,
+      "id": "e_056",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Dramatic cut to black.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        234,
+        236
+      ]
+    },
+    {
+      "start_ms": 84500,
+      "end_ms": 87910,
+      "id": "e_057",
+      "scene_id": "sc_001",
+      "type": "sound",
+      "text": "A sharp, high-tension dramatic swell strikes and echoes out into silence alongside the fading toll of the distant church bells.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        238,
+        240
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "start_ms": 0,
+      "end_ms": 87910
+    }
+  ],
+  "warnings": []
+}

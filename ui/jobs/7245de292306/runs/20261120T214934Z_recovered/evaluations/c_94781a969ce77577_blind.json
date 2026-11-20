@@ -1,0 +1,45 @@
+{
+  "candidate_id": "c_94781a969ce77577",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP42:E23",
+      "EP42:E22",
+      "EP42:E37",
+      "EP42:E36"
+    ],
+    "reason": "The opening line 'And yet, here I stand. That is the lie you built your life upon.' starts within 0-3000ms and creates immediate tension. The final 3000ms closes on a direct threat from Alexander toward Rupert, which gives the clip a strong ending hook."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP42:E37",
+      "EP42:E36",
+      "EP42:E35"
+    ],
+    "reason": "Rupert is defeated and Alexander's confrontation with him is only announced, not shown. The clip ends on the threat 'we settle what you stole' before any settlement, so the conflict is left open. The threat is not resolved within the clip, but the setup depends on context the viewer lacks.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Rupert is and what he stole from Alexander",
+      "Why Alexander is considered the rightful Duke of Ashburn and what happened to him before",
+      "The meaning of 'the lie you built your life upon'",
+      "Why Alexander is scarred and why his return is shocking to the guests",
+      "The relationship between Catherine, her father, and Rupert",
+      "The stakes of the confrontation at the altar"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The mother's tearful reunion with her scarred son, her hands on his chest and cheek, and Alexander's cold retribution at the end create strong emotional contrast. The viewer feels the emotional weight even without knowing the backstory."
+  },
+  "weaknesses": [
+    "Key plot references such as the 'lie', 'what you stole', and the Ashburn title are unexplained for a first-time viewer",
+    "Rupert's role and the cause of his defeat are not established",
+    "The reunion is strong but its stakes depend on backstory not present in the clip",
+    "The ending is a threat without visible action, so its payoff is unclear"
+  ],
+  "one_line_why_it_works": "A tearful reunion gives way to a defiant claim of identity and a closing threat of retribution, so the clip creates emotional momentum even though its plot references go unexplained."
+}

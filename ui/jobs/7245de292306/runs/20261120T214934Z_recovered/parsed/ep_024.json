@@ -1,0 +1,1003 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "ep_024",
+  "episode_number": 24,
+  "metadata": {
+    "logline": "When an arrogant noblewoman catches Juliana in the poisoned Dowager Duchess's chambers, she strikes Juliana with a riding crop and sentences her to scrub the hearth, unaware that Juliana has secretly hidden the antidote and remedy journal to finish the Duchess's cure.",
+    "continuity_notes": "Picks up directly from Episode 23's cliffhanger inside the West Wing bedchamber, as the brass latch turns and the door swings open to reveal an unexpected intruder confronting Lady Juliana and Prudence."
+  },
+  "source": {
+    "file": "023_episode-024-Episode 1678577.txt",
+    "sha256": "c211a90aef87daaf36182aaee95262b6121e962537fb25b37ef68260e4971259",
+    "complete": true
+  },
+  "scenes": [
+    {
+      "start_ms": 0,
+      "end_ms": 48500,
+      "id": "sc_001",
+      "heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY"
+    },
+    {
+      "start_ms": 48500,
+      "end_ms": 92000,
+      "id": "sc_002",
+      "heading": "INT. MANOR HEARTH ROOM – CONTINUOUS"
+    }
+  ],
+  "events": [
+    {
+      "start_ms": 0,
+      "end_ms": 3500,
+      "id": "e_001",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the ornate brass handle turning slowly on the dark wooden chamber door as it swings open.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        14,
+        16
+      ]
+    },
+    {
+      "start_ms": 200,
+      "end_ms": 3000,
+      "id": "e_002",
+      "scene_id": "sc_001",
+      "type": "sound",
+      "text": "Heavy metallic click of the latch and the ominous low creak of the door hinges.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        18,
+        20
+      ]
+    },
+    {
+      "start_ms": 3500,
+      "end_ms": 6000,
+      "id": "e_003",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Wide shot of the dimly lit, vaulted bedchamber. Lady Juliana and Prudence stand rigid beside the heavy four-poster bed as a haughty blonde noblewoman in an elegant lavender empire-line gown enters, clutching a riding crop.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        22,
+        24
+      ]
+    },
+    {
+      "start_ms": 4000,
+      "end_ms": 6500,
+      "id": "e_004",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "The noblewoman halts in the center of the chamber, tapping her riding crop against her gloved palm as her cold gaze sweeps across the two maids.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        26,
+        28
+      ]
+    },
+    {
+      "start_ms": 6000,
+      "end_ms": 8500,
+      "id": "e_005",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of the noblewoman holding the riding crop upright, regarding Juliana with disdainful authority.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        30,
+        32
+      ]
+    },
+    {
+      "start_ms": 6800,
+      "end_ms": 8400,
+      "id": "e_006",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Who are you?\"",
+      "speaker": "NOBLEWOMAN",
+      "delivery": "Sharp, Demanding",
+      "source_lines": [
+        34,
+        36
+      ]
+    },
+    {
+      "start_ms": 8500,
+      "end_ms": 12200,
+      "id": "e_007",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium close-up of Juliana, her gaze lowered deferentially beside the carved wooden bedpost.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        38,
+        40
+      ]
+    },
+    {
+      "start_ms": 8500,
+      "end_ms": 12000,
+      "id": "e_008",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Juliana, my lady. I was hired for the winter cleaning.\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Humble, Measured",
+      "source_lines": [
+        42,
+        44
+      ]
+    },
+    {
+      "start_ms": 12200,
+      "end_ms": 16800,
+      "id": "e_009",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of the noblewoman, her chin tilted up in icy condescension.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        46,
+        48
+      ]
+    },
+    {
+      "start_ms": 13000,
+      "end_ms": 16400,
+      "id": "e_010",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"And who gave you permission to enter this chamber?\"",
+      "speaker": "NOBLEWOMAN",
+      "delivery": "Accusatory, Strict",
+      "source_lines": [
+        50,
+        52
+      ]
+    },
+    {
+      "start_ms": 16800,
+      "end_ms": 18800,
+      "id": "e_011",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of the frail Dowager Duchess lying pale and unconscious against the white pillows, gasping weakly for air.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        54,
+        56
+      ]
+    },
+    {
+      "start_ms": 18800,
+      "end_ms": 20500,
+      "id": "e_012",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Behind her grey skirt, Juliana quickly slips the small glass remedy vial into her apron pocket with her charcoal-dusted fingers.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        58,
+        60
+      ]
+    },
+    {
+      "start_ms": 18800,
+      "end_ms": 20800,
+      "id": "e_013",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up on Juliana's hand swiftly concealing the medicine bottle.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        62,
+        64
+      ]
+    },
+    {
+      "start_ms": 20800,
+      "end_ms": 22500,
+      "id": "e_014",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Juliana facing the noblewoman, maintaining a calm, protective facade.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        66,
+        68
+      ]
+    },
+    {
+      "start_ms": 20800,
+      "end_ms": 22200,
+      "id": "e_015",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I heard her. I thought Her Grace needed help.\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Softly Defiant",
+      "source_lines": [
+        70,
+        72
+      ]
+    },
+    {
+      "start_ms": 22500,
+      "end_ms": 26800,
+      "id": "e_016",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Two-shot framing the noblewoman looking down at Juliana, bursting into mocking laughter.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        74,
+        76
+      ]
+    },
+    {
+      "start_ms": 22500,
+      "end_ms": 26500,
+      "id": "e_017",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You thought? A new maid thinks she knows better than the physicians?\"",
+      "speaker": "NOBLEWOMAN",
+      "delivery": "Scoffing, Cruel",
+      "source_lines": [
+        78,
+        80
+      ]
+    },
+    {
+      "start_ms": 26800,
+      "end_ms": 28800,
+      "id": "e_018",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana's resolute expression, her eyes flashing with righteous urgency.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        82,
+        84
+      ]
+    },
+    {
+      "start_ms": 27000,
+      "end_ms": 28600,
+      "id": "e_019",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"She is suffering.\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Emphatic, Defiant",
+      "source_lines": [
+        86,
+        88
+      ]
+    },
+    {
+      "start_ms": 28800,
+      "end_ms": 30800,
+      "id": "e_020",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Tight close-up of the noblewoman's face twisting into a malicious sneer.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        90,
+        92
+      ]
+    },
+    {
+      "start_ms": 29000,
+      "end_ms": 30800,
+      "id": "e_021",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Then let her suffer.\"",
+      "speaker": "NOBLEWOMAN",
+      "delivery": "Vicious, Venomous",
+      "source_lines": [
+        94,
+        96
+      ]
+    },
+    {
+      "start_ms": 30800,
+      "end_ms": 32800,
+      "id": "e_022",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana recoiling slightly in shock at the blatant cruelty.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        98,
+        100
+      ]
+    },
+    {
+      "start_ms": 31000,
+      "end_ms": 32500,
+      "id": "e_023",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"I cannot do that.\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Steely, Steadfast",
+      "source_lines": [
+        102,
+        104
+      ]
+    },
+    {
+      "start_ms": 32500,
+      "end_ms": 34500,
+      "id": "e_024",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "The noblewoman suddenly rears back her riding crop and strikes Juliana violently across the torso.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        106,
+        108
+      ]
+    },
+    {
+      "start_ms": 32800,
+      "end_ms": 33800,
+      "id": "e_025",
+      "scene_id": "sc_001",
+      "type": "sound",
+      "text": "A sharp, stinging whip crack as the riding crop makes harsh contact.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        110,
+        112
+      ]
+    },
+    {
+      "start_ms": 33800,
+      "end_ms": 36500,
+      "id": "e_026",
+      "scene_id": "sc_001",
+      "type": "action",
+      "text": "Juliana gasps in pain, clutching her stomach and bending over as she absorbs the brutal strike.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        114,
+        116
+      ]
+    },
+    {
+      "start_ms": 33800,
+      "end_ms": 36800,
+      "id": "e_027",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of Juliana hunched over in pain, clutching her abdomen.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        118,
+        120
+      ]
+    },
+    {
+      "start_ms": 35000,
+      "end_ms": 36800,
+      "id": "e_028",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"You are a maid.\"",
+      "speaker": "NOBLEWOMAN",
+      "delivery": "Cold, Threatening",
+      "source_lines": [
+        122,
+        124
+      ]
+    },
+    {
+      "start_ms": 36800,
+      "end_ms": 38800,
+      "id": "e_029",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Low-angle shot looking past the bedpost toward the Duchess, whose trembling hand reaches out limply.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        126,
+        128
+      ]
+    },
+    {
+      "start_ms": 37000,
+      "end_ms": 38800,
+      "id": "e_030",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Not a physician. Not a lady.\"",
+      "speaker": "NOBLEWOMAN",
+      "delivery": "Cold, Continuing",
+      "source_lines": [
+        130,
+        132
+      ]
+    },
+    {
+      "start_ms": 38800,
+      "end_ms": 43000,
+      "id": "e_031",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Dramatic low-angle wide shot of the noblewoman standing imperiously over the doubled-over Juliana.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        134,
+        136
+      ]
+    },
+    {
+      "start_ms": 39000,
+      "end_ms": 42800,
+      "id": "e_032",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"And certainly not a woman whose opinion matters.\"",
+      "speaker": "NOBLEWOMAN",
+      "delivery": "Disdainful, Final",
+      "source_lines": [
+        138,
+        140
+      ]
+    },
+    {
+      "start_ms": 43000,
+      "end_ms": 45500,
+      "id": "e_033",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Close-up of Juliana looking down, enduring the humiliation while stifling her breath.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        142,
+        144
+      ]
+    },
+    {
+      "start_ms": 43200,
+      "end_ms": 44800,
+      "id": "e_034",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Yes, my lady.\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Subdued, Controlled",
+      "source_lines": [
+        146,
+        148
+      ]
+    },
+    {
+      "start_ms": 45500,
+      "end_ms": 48500,
+      "id": "e_035",
+      "scene_id": "sc_001",
+      "type": "camera",
+      "text": "Medium shot of the noblewoman turning the crop in her white-gloved hands with smug satisfaction.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        150,
+        152
+      ]
+    },
+    {
+      "start_ms": 45500,
+      "end_ms": 48000,
+      "id": "e_036",
+      "scene_id": "sc_001",
+      "type": "dialogue",
+      "text": "\"Good. Perhaps we can teach you your place.\"",
+      "speaker": "NOBLEWOMAN",
+      "delivery": "Smug, Condescending",
+      "source_lines": [
+        154,
+        156
+      ]
+    },
+    {
+      "start_ms": 48500,
+      "end_ms": 51500,
+      "id": "e_037",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "The noblewoman leads Juliana and a frightened Prudence down a dark flagstone hallway.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        165,
+        167
+      ]
+    },
+    {
+      "start_ms": 48500,
+      "end_ms": 51500,
+      "id": "e_038",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Low tracking shot down the corridor as the hem of the lilac dress sweeps past, followed by Juliana's swift steps.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        169,
+        171
+      ]
+    },
+    {
+      "start_ms": 51500,
+      "end_ms": 53500,
+      "id": "e_039",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "Juliana's boots step down into a dark, rustic chamber dominated by an enormous, blackened stone hearth.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        173,
+        175
+      ]
+    },
+    {
+      "start_ms": 51500,
+      "end_ms": 54000,
+      "id": "e_040",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Wide shot of the vast soot-stained stone fireplace. The noblewoman turns back toward Juliana, crop held at her side.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        177,
+        179
+      ]
+    },
+    {
+      "start_ms": 53600,
+      "end_ms": 55200,
+      "id": "e_041",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Clean it.\"",
+      "speaker": "NOBLEWOMAN",
+      "delivery": "Harsh, Dismissive",
+      "source_lines": [
+        181,
+        183
+      ]
+    },
+    {
+      "start_ms": 54000,
+      "end_ms": 56200,
+      "id": "e_042",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium shot of the noblewoman extending her gloved hand toward the cavernous, filth-laden hearth.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        185,
+        187
+      ]
+    },
+    {
+      "start_ms": 56200,
+      "end_ms": 57800,
+      "id": "e_043",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up of Juliana looking up at the towering, soot-blackened chimney.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        189,
+        191
+      ]
+    },
+    {
+      "start_ms": 56200,
+      "end_ms": 57600,
+      "id": "e_044",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"All of it, my lady?\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "Quiet, Questioning",
+      "source_lines": [
+        193,
+        195
+      ]
+    },
+    {
+      "start_ms": 57800,
+      "end_ms": 63800,
+      "id": "e_045",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Extreme close-up two-shot as the noblewoman steps unnervingly close to Juliana's face, whispering with sadistic relish.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        197,
+        199
+      ]
+    },
+    {
+      "start_ms": 57800,
+      "end_ms": 63500,
+      "id": "e_046",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Every stone. Perhaps when your hands are black enough, you will finally remember what you are.\"",
+      "speaker": "NOBLEWOMAN",
+      "delivery": "Intimate, Venomous",
+      "source_lines": [
+        201,
+        203
+      ]
+    },
+    {
+      "start_ms": 63800,
+      "end_ms": 66000,
+      "id": "e_047",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "Juliana slowly drops to her knees on the cold flagstones before the soot-filled fireplace.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        205,
+        207
+      ]
+    },
+    {
+      "start_ms": 63800,
+      "end_ms": 66200,
+      "id": "e_048",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium shot of Juliana sinking to her knees, her face grim and composed.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        209,
+        211
+      ]
+    },
+    {
+      "start_ms": 66000,
+      "end_ms": 67500,
+      "id": "e_049",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "Prudence steps toward the noblewoman in distress, her hands clasped tightly.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        213,
+        215
+      ]
+    },
+    {
+      "start_ms": 66200,
+      "end_ms": 67800,
+      "id": "e_050",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up of Prudence's anxious, trembling face.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        217,
+        219
+      ]
+    },
+    {
+      "start_ms": 66200,
+      "end_ms": 67500,
+      "id": "e_051",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"My lady—\"",
+      "speaker": "PRUDENCE",
+      "delivery": "Desperate, Pleading",
+      "source_lines": [
+        221,
+        223
+      ]
+    },
+    {
+      "start_ms": 67500,
+      "end_ms": 69500,
+      "id": "e_052",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "The noblewoman whips around sharply, thrusting the tip of her riding crop directly into Prudence's face.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        225,
+        227
+      ]
+    },
+    {
+      "start_ms": 67800,
+      "end_ms": 70500,
+      "id": "e_053",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium close-up of the noblewoman baring her teeth in rage, aiming the crop threateningly.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        229,
+        231
+      ]
+    },
+    {
+      "start_ms": 68000,
+      "end_ms": 70500,
+      "id": "e_054",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Do you want the same punishment?\"",
+      "speaker": "NOBLEWOMAN",
+      "delivery": "Furious, Threatening",
+      "source_lines": [
+        233,
+        235
+      ]
+    },
+    {
+      "start_ms": 70500,
+      "end_ms": 72800,
+      "id": "e_055",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up of Prudence flinching in terror, lowering her eyes immediately.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        237,
+        239
+      ]
+    },
+    {
+      "start_ms": 70600,
+      "end_ms": 72400,
+      "id": "e_056",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"No, my lady.\"",
+      "speaker": "PRUDENCE",
+      "delivery": "Terrified, Murmuring",
+      "source_lines": [
+        241,
+        243
+      ]
+    },
+    {
+      "start_ms": 72500,
+      "end_ms": 74500,
+      "id": "e_057",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "Juliana grips a coarse scrubbing brush with both hands and begins vigorously scraping the thick black ash across the hearthstones.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        245,
+        247
+      ]
+    },
+    {
+      "start_ms": 72800,
+      "end_ms": 74800,
+      "id": "e_058",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up shot of Juliana's soot-covered hands fiercely scrubbing the black ash along the stone floor.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        249,
+        251
+      ]
+    },
+    {
+      "start_ms": 73000,
+      "end_ms": 81000,
+      "id": "e_059",
+      "scene_id": "sc_002",
+      "type": "sound",
+      "text": "Rhythmic, harsh rasping sound of bristles scraping against stone.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        253,
+        255
+      ]
+    },
+    {
+      "start_ms": 74800,
+      "end_ms": 78500,
+      "id": "e_060",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium shot of the noblewoman leaning casually against the wooden doorframe, watching Juliana toil with smug condescension.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        257,
+        259
+      ]
+    },
+    {
+      "start_ms": 75000,
+      "end_ms": 78000,
+      "id": "e_061",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"That is where clever little servants belong.\"",
+      "speaker": "NOBLEWOMAN",
+      "delivery": "Smug, Gleeful",
+      "source_lines": [
+        261,
+        263
+      ]
+    },
+    {
+      "start_ms": 78500,
+      "end_ms": 81200,
+      "id": "e_062",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Medium profile shot of Juliana kneeling by the hearth in the dim window light, scrubbing steadily.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        265,
+        267
+      ]
+    },
+    {
+      "start_ms": 78600,
+      "end_ms": 81000,
+      "id": "e_063",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Let her think I am only a maid.\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "V.O.) (Cold, Resolute",
+      "source_lines": [
+        269,
+        271
+      ]
+    },
+    {
+      "start_ms": 81200,
+      "end_ms": 85000,
+      "id": "e_064",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "Juliana pauses scrubbing. Her soot-caked fingers reach into the deep pocket of her apron, carefully feeling the worn leather cover of her mother's remedy journal and the glass dropper bottle securely concealed within.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        273,
+        275
+      ]
+    },
+    {
+      "start_ms": 81200,
+      "end_ms": 85200,
+      "id": "e_065",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Close-up of Juliana's soot-stained hand touching the hidden remedy book and the antidote vial inside her apron pocket.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        277,
+        279
+      ]
+    },
+    {
+      "start_ms": 81500,
+      "end_ms": 84800,
+      "id": "e_066",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"Let her believe I am ignorant.\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "V.O.) (Determined, Defiant",
+      "source_lines": [
+        281,
+        283
+      ]
+    },
+    {
+      "start_ms": 85200,
+      "end_ms": 91500,
+      "id": "e_067",
+      "scene_id": "sc_002",
+      "type": "action",
+      "text": "Juliana raises her head. Smudges of dark soot stain her fair cheek, but her piercing blue eyes burn with unwavering defiance and unyielding resolve as she stares toward the hallway.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        285,
+        287
+      ]
+    },
+    {
+      "start_ms": 85200,
+      "end_ms": 92000,
+      "id": "e_068",
+      "scene_id": "sc_002",
+      "type": "camera",
+      "text": "Tight close-up of Juliana's soot-streaked face turning slowly toward the chamber exit, her jaw set firm as dramatic music builds to a powerful crescendo.",
+      "speaker": null,
+      "delivery": null,
+      "source_lines": [
+        289,
+        291
+      ]
+    },
+    {
+      "start_ms": 85600,
+      "end_ms": 89800,
+      "id": "e_069",
+      "scene_id": "sc_002",
+      "type": "dialogue",
+      "text": "\"I will return. You cannot stop the healer.\"",
+      "speaker": "LADY JULIANA",
+      "delivery": "V.O.) (Steely, Unstoppable",
+      "source_lines": [
+        293,
+        295
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "start_ms": 0,
+      "end_ms": 92000
+    }
+  ],
+  "warnings": []
+}

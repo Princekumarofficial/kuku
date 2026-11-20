@@ -1,0 +1,46 @@
+{
+  "candidate_id": "c_7f1e6384cab156b0",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP20:E54",
+      "EP20:E56",
+      "EP20:E57"
+    ],
+    "reason": "The clip opens on a sharp teacup clatter and within about 2 seconds moves to a close-up of Catherine's venomous expression and the line 'Let the peasants rot in their barns,' which creates immediate tension and a clear antagonist. The hook is weakened because the first-time viewer does not know who is being threatened or why the contempt matters."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP20:E63",
+      "EP20:E64",
+      "EP20:E67",
+      "EP20:E68"
+    ],
+    "reason": "Catherine's plan to take Ashbury once 'the old Duchess is gone' and her line 'This house will only bow to me' leave the scheme unresolved at the end, and the clip closes on a held close-up with strings swelling. The ending is a suspended threat rather than a resolved scene, though the 'cliffhanger hold' wording in the camera note is a label and the held shot is the actual evidence.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Identity and role of the old Duchess",
+      "Who Juliana and Seamus are and why they are in the barn",
+      "Why the peasants are being mocked and what the barn represents",
+      "Nature of the relationship between Catherine and Rupert",
+      "What Ashbury is and why it matters to the characters",
+      "Whether Catherine's 'bow to me' line refers to a specific power struggle"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The clip builds a strong feeling of contempt, scheming and dread through the cold teacup action, the predatory smile, the seductive whisper and the icy final close-up. Viewer investment is limited because no character besides Catherine and Rupert is given emotional stakes within the clip."
+  },
+  "weaknesses": [
+    "Juliana and Seamus appear in the opening shot but do not speak or react, so their relevance is unclear to a new viewer",
+    "The 'old Duchess' is referenced without any introduction or identifying detail",
+    "Rupert's motive and loyalty are not shown beyond his flirtatious whisper",
+    "The final 'This house will only bow to me' line may read as a generic power boast without the surrounding story",
+    "The clip relies on a held close-up and strings for its ending impact rather than a concrete unresolved event"
+  ],
+  "one_line_why_it_works": "A cold, venomous opening and a clear conspiracy against the old Duchess build immediate tension that ends on an unresolved, ambitious threat."
+}

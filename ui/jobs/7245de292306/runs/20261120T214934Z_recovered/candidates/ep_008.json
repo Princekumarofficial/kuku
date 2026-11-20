@@ -1,0 +1,908 @@
+[
+  {
+    "candidate_id": "c_da381f17285521c5",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 7800,
+        "end_ms": 36900,
+        "episode_id": "ep_008"
+      }
+    ],
+    "duration_ms": 29100,
+    "origin": "ep08_opp_01",
+    "clip_events": [
+      {
+        "ref": "EP08:E8",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as Alexander enters the dim room behind Juliana, quietly stepping up to the rustic table."
+      },
+      {
+        "ref": "EP08:E9",
+        "segment_index": 0,
+        "relative_start_ms": 700,
+        "relative_end_ms": 2700,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander gently sets down a fresh bundle of small white herbal flowers tied with twine beside the open book."
+      },
+      {
+        "ref": "EP08:E11",
+        "segment_index": 0,
+        "relative_start_ms": 2700,
+        "relative_end_ms": 4000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Yarrow.\""
+      },
+      {
+        "ref": "EP08:E10",
+        "segment_index": 0,
+        "relative_start_ms": 2700,
+        "relative_end_ms": 4100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle medium close-up of Juliana looking up toward Alexander in pleasant surprise."
+      },
+      {
+        "ref": "EP08:E12",
+        "segment_index": 0,
+        "relative_start_ms": 4100,
+        "relative_end_ms": 7200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander looking down at her, the firelight catching the rugged scar across his face."
+      },
+      {
+        "ref": "EP08:E13",
+        "segment_index": 0,
+        "relative_start_ms": 4200,
+        "relative_end_ms": 6800,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Good for wounds. Fever, too.\""
+      },
+      {
+        "ref": "EP08:E14",
+        "segment_index": 0,
+        "relative_start_ms": 7200,
+        "relative_end_ms": 8500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana looking up at him with genuine curiosity."
+      },
+      {
+        "ref": "EP08:E15",
+        "segment_index": 0,
+        "relative_start_ms": 7300,
+        "relative_end_ms": 8300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"How do you know that?\""
+      },
+      {
+        "ref": "EP08:E17",
+        "segment_index": 0,
+        "relative_start_ms": 8500,
+        "relative_end_ms": 11100,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Soldiers learn quickly which plants keep a man alive.\""
+      },
+      {
+        "ref": "EP08:E16",
+        "segment_index": 0,
+        "relative_start_ms": 8500,
+        "relative_end_ms": 11500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander speaking in a steady, measured tone."
+      },
+      {
+        "ref": "EP08:E18",
+        "segment_index": 0,
+        "relative_start_ms": 11500,
+        "relative_end_ms": 13700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Insert shot of Juliana's hands gently arranging several tied bundles of dried yarrow sprigs on the tabletop."
+      },
+      {
+        "ref": "EP08:E19",
+        "segment_index": 0,
+        "relative_start_ms": 11600,
+        "relative_end_ms": 14000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You know more about healing than you let on.\""
+      },
+      {
+        "ref": "EP08:E20",
+        "segment_index": 0,
+        "relative_start_ms": 13700,
+        "relative_end_ms": 16500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander, bathed in warm hearth embers, offering a subtle, knowing half-smile."
+      },
+      {
+        "ref": "EP08:E21",
+        "segment_index": 0,
+        "relative_start_ms": 15000,
+        "relative_end_ms": 16400,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Enough to survive.\""
+      },
+      {
+        "ref": "EP08:E22",
+        "segment_index": 0,
+        "relative_start_ms": 16500,
+        "relative_end_ms": 18700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana setting down a bunch of flowers and looking intently at his rugged visage."
+      },
+      {
+        "ref": "EP08:E23",
+        "segment_index": 0,
+        "relative_start_ms": 17200,
+        "relative_end_ms": 19000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Your hair and beard...\""
+      },
+      {
+        "ref": "EP08:E24",
+        "segment_index": 0,
+        "relative_start_ms": 18700,
+        "relative_end_ms": 20300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Alexander standing tall over her, looking down patiently."
+      },
+      {
+        "ref": "EP08:E25",
+        "segment_index": 0,
+        "relative_start_ms": 20300,
+        "relative_end_ms": 24100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot as Juliana rises from her stool to stand close in front of him, reaching an affectionate hand toward his temple."
+      },
+      {
+        "ref": "EP08:E26",
+        "segment_index": 0,
+        "relative_start_ms": 22300,
+        "relative_end_ms": 24100,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I could trim them for you.\""
+      },
+      {
+        "ref": "EP08:E27",
+        "segment_index": 0,
+        "relative_start_ms": 24100,
+        "relative_end_ms": 25400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander's large, rough hand firmly but gently catching Juliana's wrist in midair."
+      },
+      {
+        "ref": "EP08:E29",
+        "segment_index": 0,
+        "relative_start_ms": 25400,
+        "relative_end_ms": 26700,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Not yet.\""
+      },
+      {
+        "ref": "EP08:E28",
+        "segment_index": 0,
+        "relative_start_ms": 25400,
+        "relative_end_ms": 27700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot profile of Alexander holding her wrist, his piercing gaze locked onto hers."
+      },
+      {
+        "ref": "EP08:E30",
+        "segment_index": 0,
+        "relative_start_ms": 27700,
+        "relative_end_ms": 29100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana looking into his eyes, her brow lightly furrowed in bemused question."
+      },
+      {
+        "ref": "EP08:E31",
+        "segment_index": 0,
+        "relative_start_ms": 28000,
+        "relative_end_ms": 29100,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Not yet?\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_7034309997af5a9b",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 22800,
+        "end_ms": 51200,
+        "episode_id": "ep_008"
+      }
+    ],
+    "duration_ms": 28400,
+    "origin": "ep08_opp_02",
+    "clip_events": [
+      {
+        "ref": "EP08:E20",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander, bathed in warm hearth embers, offering a subtle, knowing half-smile."
+      },
+      {
+        "ref": "EP08:E21",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1400,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Enough to survive.\""
+      },
+      {
+        "ref": "EP08:E22",
+        "segment_index": 0,
+        "relative_start_ms": 1500,
+        "relative_end_ms": 3700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana setting down a bunch of flowers and looking intently at his rugged visage."
+      },
+      {
+        "ref": "EP08:E23",
+        "segment_index": 0,
+        "relative_start_ms": 2200,
+        "relative_end_ms": 4000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Your hair and beard...\""
+      },
+      {
+        "ref": "EP08:E24",
+        "segment_index": 0,
+        "relative_start_ms": 3700,
+        "relative_end_ms": 5300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Alexander standing tall over her, looking down patiently."
+      },
+      {
+        "ref": "EP08:E25",
+        "segment_index": 0,
+        "relative_start_ms": 5300,
+        "relative_end_ms": 9100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot as Juliana rises from her stool to stand close in front of him, reaching an affectionate hand toward his temple."
+      },
+      {
+        "ref": "EP08:E26",
+        "segment_index": 0,
+        "relative_start_ms": 7300,
+        "relative_end_ms": 9100,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I could trim them for you.\""
+      },
+      {
+        "ref": "EP08:E27",
+        "segment_index": 0,
+        "relative_start_ms": 9100,
+        "relative_end_ms": 10400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander's large, rough hand firmly but gently catching Juliana's wrist in midair."
+      },
+      {
+        "ref": "EP08:E29",
+        "segment_index": 0,
+        "relative_start_ms": 10400,
+        "relative_end_ms": 11700,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Not yet.\""
+      },
+      {
+        "ref": "EP08:E28",
+        "segment_index": 0,
+        "relative_start_ms": 10400,
+        "relative_end_ms": 12700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot profile of Alexander holding her wrist, his piercing gaze locked onto hers."
+      },
+      {
+        "ref": "EP08:E30",
+        "segment_index": 0,
+        "relative_start_ms": 12700,
+        "relative_end_ms": 14500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana looking into his eyes, her brow lightly furrowed in bemused question."
+      },
+      {
+        "ref": "EP08:E31",
+        "segment_index": 0,
+        "relative_start_ms": 13000,
+        "relative_end_ms": 14100,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Not yet?\""
+      },
+      {
+        "ref": "EP08:E32",
+        "segment_index": 0,
+        "relative_start_ms": 14500,
+        "relative_end_ms": 16800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander, still maintaining his gentle hold on her arm."
+      },
+      {
+        "ref": "EP08:E33",
+        "segment_index": 0,
+        "relative_start_ms": 14900,
+        "relative_end_ms": 16100,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Let them grow.\""
+      },
+      {
+        "ref": "EP08:E34",
+        "segment_index": 0,
+        "relative_start_ms": 16800,
+        "relative_end_ms": 19500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana smiling with playful warmth."
+      },
+      {
+        "ref": "EP08:E35",
+        "segment_index": 0,
+        "relative_start_ms": 17100,
+        "relative_end_ms": 19200,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You prefer looking like a forest hermit?\""
+      },
+      {
+        "ref": "EP08:E36",
+        "segment_index": 0,
+        "relative_start_ms": 19500,
+        "relative_end_ms": 22100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Intimate two-shot as Alexander slowly lowers her hand, his expression softening."
+      },
+      {
+        "ref": "EP08:E37",
+        "segment_index": 0,
+        "relative_start_ms": 20900,
+        "relative_end_ms": 22100,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"It has advantages.\""
+      },
+      {
+        "ref": "EP08:E38",
+        "segment_index": 0,
+        "relative_start_ms": 22100,
+        "relative_end_ms": 24100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana chuckling quietly as she steps back toward the table."
+      },
+      {
+        "ref": "EP08:E39",
+        "segment_index": 0,
+        "relative_start_ms": 22700,
+        "relative_end_ms": 24000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Very well.\""
+      },
+      {
+        "ref": "EP08:E40",
+        "segment_index": 0,
+        "relative_start_ms": 24100,
+        "relative_end_ms": 25200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander watching her with deep, affectionate attention."
+      },
+      {
+        "ref": "EP08:E41",
+        "segment_index": 0,
+        "relative_start_ms": 25200,
+        "relative_end_ms": 27200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana grinning with sparkling eyes."
+      },
+      {
+        "ref": "EP08:E42",
+        "segment_index": 0,
+        "relative_start_ms": 25300,
+        "relative_end_ms": 26800,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"But one day, I am trimming that beard.\""
+      },
+      {
+        "ref": "EP08:E43",
+        "segment_index": 0,
+        "relative_start_ms": 27200,
+        "relative_end_ms": 28400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander lowering his head slightly with a faint smirk."
+      },
+      {
+        "ref": "EP08:E44",
+        "segment_index": 0,
+        "relative_start_ms": 27300,
+        "relative_end_ms": 28400,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"We'll see.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_fdce87bfe0ebafe7",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 3200,
+        "end_ms": 26800,
+        "episode_id": "ep_008"
+      }
+    ],
+    "duration_ms": 23600,
+    "origin": "ep08_opp_03",
+    "clip_events": [
+      {
+        "ref": "EP08:E4",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1900,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana's hands carefully unlatching the metal clasp on the leather book."
+      },
+      {
+        "ref": "EP08:E5",
+        "segment_index": 0,
+        "relative_start_ms": 200,
+        "relative_end_ms": 1300,
+        "type": "sound",
+        "speaker": null,
+        "text": "Soft metallic click of the book clasp loosening."
+      },
+      {
+        "ref": "EP08:E6",
+        "segment_index": 0,
+        "relative_start_ms": 1900,
+        "relative_end_ms": 4600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana tenderly opening the cover and turning the brittle parchment pages."
+      },
+      {
+        "ref": "EP08:E7",
+        "segment_index": 0,
+        "relative_start_ms": 1900,
+        "relative_end_ms": 4600,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Mother spent years writing this.\""
+      },
+      {
+        "ref": "EP08:E8",
+        "segment_index": 0,
+        "relative_start_ms": 4600,
+        "relative_end_ms": 7300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as Alexander enters the dim room behind Juliana, quietly stepping up to the rustic table."
+      },
+      {
+        "ref": "EP08:E9",
+        "segment_index": 0,
+        "relative_start_ms": 5300,
+        "relative_end_ms": 7300,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander gently sets down a fresh bundle of small white herbal flowers tied with twine beside the open book."
+      },
+      {
+        "ref": "EP08:E11",
+        "segment_index": 0,
+        "relative_start_ms": 7300,
+        "relative_end_ms": 8600,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Yarrow.\""
+      },
+      {
+        "ref": "EP08:E10",
+        "segment_index": 0,
+        "relative_start_ms": 7300,
+        "relative_end_ms": 8700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle medium close-up of Juliana looking up toward Alexander in pleasant surprise."
+      },
+      {
+        "ref": "EP08:E12",
+        "segment_index": 0,
+        "relative_start_ms": 8700,
+        "relative_end_ms": 11800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander looking down at her, the firelight catching the rugged scar across his face."
+      },
+      {
+        "ref": "EP08:E13",
+        "segment_index": 0,
+        "relative_start_ms": 8800,
+        "relative_end_ms": 11400,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Good for wounds. Fever, too.\""
+      },
+      {
+        "ref": "EP08:E14",
+        "segment_index": 0,
+        "relative_start_ms": 11800,
+        "relative_end_ms": 13100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana looking up at him with genuine curiosity."
+      },
+      {
+        "ref": "EP08:E15",
+        "segment_index": 0,
+        "relative_start_ms": 11900,
+        "relative_end_ms": 12900,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"How do you know that?\""
+      },
+      {
+        "ref": "EP08:E17",
+        "segment_index": 0,
+        "relative_start_ms": 13100,
+        "relative_end_ms": 15700,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Soldiers learn quickly which plants keep a man alive.\""
+      },
+      {
+        "ref": "EP08:E16",
+        "segment_index": 0,
+        "relative_start_ms": 13100,
+        "relative_end_ms": 16100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander speaking in a steady, measured tone."
+      },
+      {
+        "ref": "EP08:E18",
+        "segment_index": 0,
+        "relative_start_ms": 16100,
+        "relative_end_ms": 18300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Insert shot of Juliana's hands gently arranging several tied bundles of dried yarrow sprigs on the tabletop."
+      },
+      {
+        "ref": "EP08:E19",
+        "segment_index": 0,
+        "relative_start_ms": 16200,
+        "relative_end_ms": 18600,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You know more about healing than you let on.\""
+      },
+      {
+        "ref": "EP08:E20",
+        "segment_index": 0,
+        "relative_start_ms": 18300,
+        "relative_end_ms": 21100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander, bathed in warm hearth embers, offering a subtle, knowing half-smile."
+      },
+      {
+        "ref": "EP08:E21",
+        "segment_index": 0,
+        "relative_start_ms": 19600,
+        "relative_end_ms": 21000,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Enough to survive.\""
+      },
+      {
+        "ref": "EP08:E22",
+        "segment_index": 0,
+        "relative_start_ms": 21100,
+        "relative_end_ms": 23300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana setting down a bunch of flowers and looking intently at his rugged visage."
+      },
+      {
+        "ref": "EP08:E23",
+        "segment_index": 0,
+        "relative_start_ms": 21800,
+        "relative_end_ms": 23600,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Your hair and beard...\""
+      },
+      {
+        "ref": "EP08:E24",
+        "segment_index": 0,
+        "relative_start_ms": 23300,
+        "relative_end_ms": 23600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Alexander standing tall over her, looking down patiently."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_db715e4c90fc52bc",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 8500,
+        "end_ms": 36900,
+        "episode_id": "ep_008"
+      }
+    ],
+    "duration_ms": 28400,
+    "origin": "ep08_opp_01",
+    "clip_events": [
+      {
+        "ref": "EP08:E8",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as Alexander enters the dim room behind Juliana, quietly stepping up to the rustic table."
+      },
+      {
+        "ref": "EP08:E9",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2000,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander gently sets down a fresh bundle of small white herbal flowers tied with twine beside the open book."
+      },
+      {
+        "ref": "EP08:E11",
+        "segment_index": 0,
+        "relative_start_ms": 2000,
+        "relative_end_ms": 3300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Yarrow.\""
+      },
+      {
+        "ref": "EP08:E10",
+        "segment_index": 0,
+        "relative_start_ms": 2000,
+        "relative_end_ms": 3400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle medium close-up of Juliana looking up toward Alexander in pleasant surprise."
+      },
+      {
+        "ref": "EP08:E12",
+        "segment_index": 0,
+        "relative_start_ms": 3400,
+        "relative_end_ms": 6500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander looking down at her, the firelight catching the rugged scar across his face."
+      },
+      {
+        "ref": "EP08:E13",
+        "segment_index": 0,
+        "relative_start_ms": 3500,
+        "relative_end_ms": 6100,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Good for wounds. Fever, too.\""
+      },
+      {
+        "ref": "EP08:E14",
+        "segment_index": 0,
+        "relative_start_ms": 6500,
+        "relative_end_ms": 7800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana looking up at him with genuine curiosity."
+      },
+      {
+        "ref": "EP08:E15",
+        "segment_index": 0,
+        "relative_start_ms": 6600,
+        "relative_end_ms": 7600,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"How do you know that?\""
+      },
+      {
+        "ref": "EP08:E17",
+        "segment_index": 0,
+        "relative_start_ms": 7800,
+        "relative_end_ms": 10400,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Soldiers learn quickly which plants keep a man alive.\""
+      },
+      {
+        "ref": "EP08:E16",
+        "segment_index": 0,
+        "relative_start_ms": 7800,
+        "relative_end_ms": 10800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander speaking in a steady, measured tone."
+      },
+      {
+        "ref": "EP08:E18",
+        "segment_index": 0,
+        "relative_start_ms": 10800,
+        "relative_end_ms": 13000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Insert shot of Juliana's hands gently arranging several tied bundles of dried yarrow sprigs on the tabletop."
+      },
+      {
+        "ref": "EP08:E19",
+        "segment_index": 0,
+        "relative_start_ms": 10900,
+        "relative_end_ms": 13300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You know more about healing than you let on.\""
+      },
+      {
+        "ref": "EP08:E20",
+        "segment_index": 0,
+        "relative_start_ms": 13000,
+        "relative_end_ms": 15800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander, bathed in warm hearth embers, offering a subtle, knowing half-smile."
+      },
+      {
+        "ref": "EP08:E21",
+        "segment_index": 0,
+        "relative_start_ms": 14300,
+        "relative_end_ms": 15700,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Enough to survive.\""
+      },
+      {
+        "ref": "EP08:E22",
+        "segment_index": 0,
+        "relative_start_ms": 15800,
+        "relative_end_ms": 18000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana setting down a bunch of flowers and looking intently at his rugged visage."
+      },
+      {
+        "ref": "EP08:E23",
+        "segment_index": 0,
+        "relative_start_ms": 16500,
+        "relative_end_ms": 18300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Your hair and beard...\""
+      },
+      {
+        "ref": "EP08:E24",
+        "segment_index": 0,
+        "relative_start_ms": 18000,
+        "relative_end_ms": 19600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Alexander standing tall over her, looking down patiently."
+      },
+      {
+        "ref": "EP08:E25",
+        "segment_index": 0,
+        "relative_start_ms": 19600,
+        "relative_end_ms": 23400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot as Juliana rises from her stool to stand close in front of him, reaching an affectionate hand toward his temple."
+      },
+      {
+        "ref": "EP08:E26",
+        "segment_index": 0,
+        "relative_start_ms": 21600,
+        "relative_end_ms": 23400,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I could trim them for you.\""
+      },
+      {
+        "ref": "EP08:E27",
+        "segment_index": 0,
+        "relative_start_ms": 23400,
+        "relative_end_ms": 24700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander's large, rough hand firmly but gently catching Juliana's wrist in midair."
+      },
+      {
+        "ref": "EP08:E29",
+        "segment_index": 0,
+        "relative_start_ms": 24700,
+        "relative_end_ms": 26000,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Not yet.\""
+      },
+      {
+        "ref": "EP08:E28",
+        "segment_index": 0,
+        "relative_start_ms": 24700,
+        "relative_end_ms": 27000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot profile of Alexander holding her wrist, his piercing gaze locked onto hers."
+      },
+      {
+        "ref": "EP08:E30",
+        "segment_index": 0,
+        "relative_start_ms": 27000,
+        "relative_end_ms": 28400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana looking into his eyes, her brow lightly furrowed in bemused question."
+      },
+      {
+        "ref": "EP08:E31",
+        "segment_index": 0,
+        "relative_start_ms": 27300,
+        "relative_end_ms": 28400,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Not yet?\""
+      }
+    ]
+  }
+]

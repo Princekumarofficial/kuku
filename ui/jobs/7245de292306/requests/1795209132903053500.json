@@ -1,0 +1,184 @@
+{
+  "stage": "episode_analysis",
+  "system": "Analyze narrative beats, characters, revelations and unresolved questions. Only event text is on-screen evidence; metadata may describe unseen events. Use supplied EPxx:Ex aliases. Report uncertainty in the summary. A revelation's significance is not its spoiler damage.",
+  "user": "EP=ep_050; timestamps are integer milliseconds\nSOURCE_SHA256=93a1df095b8ea3a42ca4367e0f4c29c8d35fa1c549fd281a4289f93f6a392c1b\nMETADATA ONLY (not on-screen evidence): {'logline': \"Following their illicit passion in the abandoned manor wing, Catherine negotiates Father Thomas's corrupt silence with territorial control—unaware that Agnes has walked in and witnessed their scandalous intimacy.\", 'continuity_notes': 'Directly follows Episode 49, where Father Thomas and Catherine sealed their covert alliance in the secluded wing; now, their secret affair deepens into political extortion before being shattered by an unexpected witness.'}\nSOURCE WARNINGS=[]\nSCENE sc_001 0-70500 INT. ABANDONED BEDCHAMBER – PRE-DAWN\nEP50:E1 0-1800 CAMERA: High overhead birds-eye shot looking straight down at the unkempt bed, where Catherine lies curled in a silk chemise against Father Thomas's bare chest.\nEP50:E2 0-2000 ACTION: Father Thomas lies flat on his back, breathless, while Catherine rests beside him, her fingers tracing across his bare skin.\nEP50:E3 1800-7000 CAMERA: Low-angle medium close-up on Catherine looking down adoringly into Father Thomas's face, a single candle flickering in the dark background.\nEP50:E4 1800-5800 CATHERINE [Playful, Seductive]: \"A man in your collar isn't supposed to have that much left in him, Thomas.\"\nEP50:E5 5800-7200 ACTION: Catherine runs her hand gently down his chest, smiling with triumphant affection.\nEP50:E6 7000-11800 CAMERA: Close-up on Father Thomas turning his head toward her on the pillow, his voice raspy and dry.\nEP50:E7 7200-11200 FATHER THOMAS [Low, Ironical]: \"A man in my collar isn't supposed to be in this bed at all.\"\nEP50:E8 11800-15800 CAMERA: Close-up pushing in on Catherine as she leans lower over his face, her gaze sharpening with dangerous intimacy.\nEP50:E9 12000-15500 CATHERINE [Intense, Whispering]: \"Then let's stop pretending this was only appetite.\"\nEP50:E10 15800-18800 CAMERA: Medium two-shot from the side as both sit up in bed, sheets pulled up around their waists.\nEP50:E11 16800-18500 CATHERINE [Direct, Transactional]: \"Name your price.\"\nEP50:E12 18800-26500 CAMERA: Medium profile close-up on Father Thomas sitting up tall and bare-chested, Catherine resting her hand firmly over his heart.\nEP50:E13 19400-25000 FATHER THOMAS [Calculated, Demanding]: \"The west territory. Tax collection, all of it. Routed through my office.\"\nEP50:E14 26500-30500 CAMERA: Slight pull back as Catherine pulls her hand back slightly, staring at him in disbelief.\nEP50:E15 27200-30200 CATHERINE [Scoffing, Incredulous]: \"That's not absolution, Thomas. That's a fortune.\"\nEP50:E16 30500-35800 CAMERA: Two-shot centering on Father Thomas leaning toward her, his expression resolute and uncompromising.\nEP50:E17 31000-35000 FATHER THOMAS [Steady, Cold]: \"Absolution is free. Discretion has a price.\"\nEP50:E18 35800-39800 CAMERA: Tight profile close-up between their faces, golden candlelight illuminating Catherine's jaw as she raises her hand to touch his cheek.\nEP50:E19 36500-39400 CATHERINE [Soft, Calculating]: \"Unsupervised. In your hands alone.\"\nEP50:E20 39800-43000 CAMERA: Tight close-up as Father Thomas reaches up and firmly clasps Catherine's hand at his neck.\nEP50:E21 40400-42500 FATHER THOMAS [Grave]: \"For as long as it holds.\"\nEP50:E22 43000-48500 CAMERA: Medium close-up as Catherine breaks into a knowing, seductive smile and taps his chest with her index finger.\nEP50:E23 43200-48000 CATHERINE [Softly, Teasing]: \"Done. You told yourself this ends when the hearing does.\"\nEP50:E24 48500-54500 CAMERA: Close-up on Father Thomas letting out a soft, self-deprecating chuckle before meeting her eyes with smoldering hunger.\nEP50:E25 49800-54000 FATHER THOMAS [Chuckle, Resigned]: \"I've told myself that since the dawn in your bedchamber, and here we are again.\"\nEP50:E26 54500-59800 CAMERA: Extreme close-up of their lips almost grazing, warm candlelight catching the edges of their profiles.\nEP50:E27 54800-56500 CATHERINE [Murmuring]: \"In another room no one uses?\"\nEP50:E28 56800-59200 FATHER THOMAS [Whispering]: \"Perhaps I like rooms no one uses.\"\nEP50:E29 59800-65500 CAMERA: Close-up profile as Catherine slides both hands into the dark hair at the back of his neck, pulling him closer.\nEP50:E30 60300-64800 CATHERINE [Low, Carnal]: \"Or perhaps discretion isn't the only thing you've developed a taste for.\"\nEP50:E31 65500-70500 CAMERA: Medium two-shot as Father Thomas pulls Catherine into a fierce, suffocating embrace, burying his face in her neck while she clings to his broad shoulders.\nEP50:E32 65800-70500 ACTION: Catherine closes her eyes in surrender as Father Thomas holds her tight against his naked chest, lost in their forbidden entanglement.\nSCENE sc_002 70500-80000 INT. MANOR CORRIDOR – CONTINUOUS\nEP50:E33 70500-73500 CAMERA: Medium tracking shot following Agnes as she walks cautiously down the dimly lit stone corridor, holding a black iron lantern.\nEP50:E34 70800-73500 ACTION: Agnes scans the desolate hallway nervously, her lantern casting elongated shadows against the wall.\nEP50:E35 73500-76500 CAMERA: Over-the-shoulder shot behind Agnes as she stops dead in front of an open doorway, peering inside.\nEP50:E36 74000-76500 ACTION: Through the crack of the door, Agnes sees Catherine and the shirtless priest locked in an intimate, passionate embrace upon the bed.\nEP50:E37 76500-78500 CAMERA: Tight close-up on Agnes's face, drained of all color, her eyes bulging in pure terror.\nEP50:E38 76800-78500 ACTION: Agnes's jaw drops open in shock as she stifles a cry.\nEP50:E39 77200-78600 SOUND: Sharp, terrified gasp catching in Agnes's throat.\nEP50:E40 78500-80000 CAMERA: Frantic backward tracking close-up on Agnes stumbling back into the shadows of the hallway, horrified by the lethal secret she has uncovered before an abrupt cut to black.",
+  "schema": {
+    "$defs": {
+      "Beat": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "kind": {
+            "title": "Kind",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "description": {
+            "title": "Description",
+            "type": "string"
+          },
+          "intensity_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Intensity 0 10",
+            "type": "number"
+          }
+        },
+        "required": [
+          "id",
+          "kind",
+          "event_refs",
+          "description",
+          "intensity_0_10"
+        ],
+        "title": "Beat",
+        "type": "object"
+      },
+      "Character": {
+        "additionalProperties": false,
+        "properties": {
+          "name": {
+            "title": "Name",
+            "type": "string"
+          },
+          "role": {
+            "title": "Role",
+            "type": "string"
+          }
+        },
+        "required": [
+          "name",
+          "role"
+        ],
+        "title": "Character",
+        "type": "object"
+      },
+      "Question": {
+        "additionalProperties": false,
+        "properties": {
+          "question": {
+            "title": "Question",
+            "type": "string"
+          },
+          "introduced_by": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Introduced By",
+            "type": "array"
+          }
+        },
+        "required": [
+          "question",
+          "introduced_by"
+        ],
+        "title": "Question",
+        "type": "object"
+      },
+      "Revelation": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "claim": {
+            "title": "Claim",
+            "type": "string"
+          },
+          "spoiler_significance_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Spoiler Significance 0 10",
+            "type": "number"
+          },
+          "creates_questions": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Creates Questions",
+            "type": "array"
+          }
+        },
+        "required": [
+          "id",
+          "event_refs",
+          "claim",
+          "spoiler_significance_0_10",
+          "creates_questions"
+        ],
+        "title": "Revelation",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "episode_id": {
+        "title": "Episode Id",
+        "type": "string"
+      },
+      "summary": {
+        "title": "Summary",
+        "type": "string"
+      },
+      "characters": {
+        "items": {
+          "$ref": "#/$defs/Character"
+        },
+        "title": "Characters",
+        "type": "array"
+      },
+      "beats": {
+        "items": {
+          "$ref": "#/$defs/Beat"
+        },
+        "title": "Beats",
+        "type": "array"
+      },
+      "revelations": {
+        "items": {
+          "$ref": "#/$defs/Revelation"
+        },
+        "title": "Revelations",
+        "type": "array"
+      },
+      "unresolved_questions": {
+        "items": {
+          "$ref": "#/$defs/Question"
+        },
+        "title": "Unresolved Questions",
+        "type": "array"
+      }
+    },
+    "required": [
+      "episode_id",
+      "summary",
+      "characters",
+      "beats",
+      "revelations",
+      "unresolved_questions"
+    ],
+    "title": "EpisodeAnalysis",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

@@ -1,0 +1,184 @@
+{
+  "stage": "episode_analysis",
+  "system": "Analyze narrative beats, characters, revelations and unresolved questions. Only event text is on-screen evidence; metadata may describe unseen events. Use supplied EPxx:Ex aliases. Report uncertainty in the summary. A revelation's significance is not its spoiler damage.",
+  "user": "EP=ep_024; timestamps are integer milliseconds\nSOURCE_SHA256=c211a90aef87daaf36182aaee95262b6121e962537fb25b37ef68260e4971259\nMETADATA ONLY (not on-screen evidence): {'logline': \"When an arrogant noblewoman catches Juliana in the poisoned Dowager Duchess's chambers, she strikes Juliana with a riding crop and sentences her to scrub the hearth, unaware that Juliana has secretly hidden the antidote and remedy journal to finish the Duchess's cure.\", 'continuity_notes': \"Picks up directly from Episode 23's cliffhanger inside the West Wing bedchamber, as the brass latch turns and the door swings open to reveal an unexpected intruder confronting Lady Juliana and Prudence.\"}\nSOURCE WARNINGS=[]\nSCENE sc_001 0-48500 INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY\nEP24:E1 0-3500 CAMERA: Close-up of the ornate brass handle turning slowly on the dark wooden chamber door as it swings open.\nEP24:E2 200-3000 SOUND: Heavy metallic click of the latch and the ominous low creak of the door hinges.\nEP24:E3 3500-6000 CAMERA: Wide shot of the dimly lit, vaulted bedchamber. Lady Juliana and Prudence stand rigid beside the heavy four-poster bed as a haughty blonde noblewoman in an elegant lavender empire-line gown enters, clutching a riding crop.\nEP24:E4 4000-6500 ACTION: The noblewoman halts in the center of the chamber, tapping her riding crop against her gloved palm as her cold gaze sweeps across the two maids.\nEP24:E5 6000-8500 CAMERA: Medium shot of the noblewoman holding the riding crop upright, regarding Juliana with disdainful authority.\nEP24:E6 6800-8400 NOBLEWOMAN [Sharp, Demanding]: \"Who are you?\"\nEP24:E7 8500-12200 CAMERA: Medium close-up of Juliana, her gaze lowered deferentially beside the carved wooden bedpost.\nEP24:E8 8500-12000 LADY JULIANA [Humble, Measured]: \"Juliana, my lady. I was hired for the winter cleaning.\"\nEP24:E9 12200-16800 CAMERA: Medium shot of the noblewoman, her chin tilted up in icy condescension.\nEP24:E10 13000-16400 NOBLEWOMAN [Accusatory, Strict]: \"And who gave you permission to enter this chamber?\"\nEP24:E11 16800-18800 CAMERA: Close-up of the frail Dowager Duchess lying pale and unconscious against the white pillows, gasping weakly for air.\nEP24:E12 18800-20500 ACTION: Behind her grey skirt, Juliana quickly slips the small glass remedy vial into her apron pocket with her charcoal-dusted fingers.\nEP24:E13 18800-20800 CAMERA: Close-up on Juliana's hand swiftly concealing the medicine bottle.\nEP24:E14 20800-22500 CAMERA: Medium shot of Juliana facing the noblewoman, maintaining a calm, protective facade.\nEP24:E15 20800-22200 LADY JULIANA [Softly Defiant]: \"I heard her. I thought Her Grace needed help.\"\nEP24:E16 22500-26800 CAMERA: Two-shot framing the noblewoman looking down at Juliana, bursting into mocking laughter.\nEP24:E17 22500-26500 NOBLEWOMAN [Scoffing, Cruel]: \"You thought? A new maid thinks she knows better than the physicians?\"\nEP24:E18 26800-28800 CAMERA: Close-up of Juliana's resolute expression, her eyes flashing with righteous urgency.\nEP24:E19 27000-28600 LADY JULIANA [Emphatic, Defiant]: \"She is suffering.\"\nEP24:E20 28800-30800 CAMERA: Tight close-up of the noblewoman's face twisting into a malicious sneer.\nEP24:E21 29000-30800 NOBLEWOMAN [Vicious, Venomous]: \"Then let her suffer.\"\nEP24:E22 30800-32800 CAMERA: Close-up of Juliana recoiling slightly in shock at the blatant cruelty.\nEP24:E23 31000-32500 LADY JULIANA [Steely, Steadfast]: \"I cannot do that.\"\nEP24:E24 32500-34500 ACTION: The noblewoman suddenly rears back her riding crop and strikes Juliana violently across the torso.\nEP24:E25 32800-33800 SOUND: A sharp, stinging whip crack as the riding crop makes harsh contact.\nEP24:E26 33800-36500 ACTION: Juliana gasps in pain, clutching her stomach and bending over as she absorbs the brutal strike.\nEP24:E27 33800-36800 CAMERA: Medium shot of Juliana hunched over in pain, clutching her abdomen.\nEP24:E28 35000-36800 NOBLEWOMAN [Cold, Threatening]: \"You are a maid.\"\nEP24:E29 36800-38800 CAMERA: Low-angle shot looking past the bedpost toward the Duchess, whose trembling hand reaches out limply.\nEP24:E30 37000-38800 NOBLEWOMAN [Cold, Continuing]: \"Not a physician. Not a lady.\"\nEP24:E31 38800-43000 CAMERA: Dramatic low-angle wide shot of the noblewoman standing imperiously over the doubled-over Juliana.\nEP24:E32 39000-42800 NOBLEWOMAN [Disdainful, Final]: \"And certainly not a woman whose opinion matters.\"\nEP24:E33 43000-45500 CAMERA: Close-up of Juliana looking down, enduring the humiliation while stifling her breath.\nEP24:E34 43200-44800 LADY JULIANA [Subdued, Controlled]: \"Yes, my lady.\"\nEP24:E35 45500-48500 CAMERA: Medium shot of the noblewoman turning the crop in her white-gloved hands with smug satisfaction.\nEP24:E36 45500-48000 NOBLEWOMAN [Smug, Condescending]: \"Good. Perhaps we can teach you your place.\"\nSCENE sc_002 48500-92000 INT. MANOR HEARTH ROOM – CONTINUOUS\nEP24:E37 48500-51500 ACTION: The noblewoman leads Juliana and a frightened Prudence down a dark flagstone hallway.\nEP24:E38 48500-51500 CAMERA: Low tracking shot down the corridor as the hem of the lilac dress sweeps past, followed by Juliana's swift steps.\nEP24:E39 51500-53500 ACTION: Juliana's boots step down into a dark, rustic chamber dominated by an enormous, blackened stone hearth.\nEP24:E40 51500-54000 CAMERA: Wide shot of the vast soot-stained stone fireplace. The noblewoman turns back toward Juliana, crop held at her side.\nEP24:E41 53600-55200 NOBLEWOMAN [Harsh, Dismissive]: \"Clean it.\"\nEP24:E42 54000-56200 CAMERA: Medium shot of the noblewoman extending her gloved hand toward the cavernous, filth-laden hearth.\nEP24:E43 56200-57800 CAMERA: Close-up of Juliana looking up at the towering, soot-blackened chimney.\nEP24:E44 56200-57600 LADY JULIANA [Quiet, Questioning]: \"All of it, my lady?\"\nEP24:E45 57800-63800 CAMERA: Extreme close-up two-shot as the noblewoman steps unnervingly close to Juliana's face, whispering with sadistic relish.\nEP24:E46 57800-63500 NOBLEWOMAN [Intimate, Venomous]: \"Every stone. Perhaps when your hands are black enough, you will finally remember what you are.\"\nEP24:E47 63800-66000 ACTION: Juliana slowly drops to her knees on the cold flagstones before the soot-filled fireplace.\nEP24:E48 63800-66200 CAMERA: Medium shot of Juliana sinking to her knees, her face grim and composed.\nEP24:E49 66000-67500 ACTION: Prudence steps toward the noblewoman in distress, her hands clasped tightly.\nEP24:E50 66200-67800 CAMERA: Close-up of Prudence's anxious, trembling face.\nEP24:E51 66200-67500 PRUDENCE [Desperate, Pleading]: \"My lady—\"\nEP24:E52 67500-69500 ACTION: The noblewoman whips around sharply, thrusting the tip of her riding crop directly into Prudence's face.\nEP24:E53 67800-70500 CAMERA: Medium close-up of the noblewoman baring her teeth in rage, aiming the crop threateningly.\nEP24:E54 68000-70500 NOBLEWOMAN [Furious, Threatening]: \"Do you want the same punishment?\"\nEP24:E55 70500-72800 CAMERA: Close-up of Prudence flinching in terror, lowering her eyes immediately.\nEP24:E56 70600-72400 PRUDENCE [Terrified, Murmuring]: \"No, my lady.\"\nEP24:E57 72500-74500 ACTION: Juliana grips a coarse scrubbing brush with both hands and begins vigorously scraping the thick black ash across the hearthstones.\nEP24:E58 72800-74800 CAMERA: Close-up shot of Juliana's soot-covered hands fiercely scrubbing the black ash along the stone floor.\nEP24:E59 73000-81000 SOUND: Rhythmic, harsh rasping sound of bristles scraping against stone.\nEP24:E60 74800-78500 CAMERA: Medium shot of the noblewoman leaning casually against the wooden doorframe, watching Juliana toil with smug condescension.\nEP24:E61 75000-78000 NOBLEWOMAN [Smug, Gleeful]: \"That is where clever little servants belong.\"\nEP24:E62 78500-81200 CAMERA: Medium profile shot of Juliana kneeling by the hearth in the dim window light, scrubbing steadily.\nEP24:E63 78600-81000 LADY JULIANA [V.O.) (Cold, Resolute]: \"Let her think I am only a maid.\"\nEP24:E64 81200-85000 ACTION: Juliana pauses scrubbing. Her soot-caked fingers reach into the deep pocket of her apron, carefully feeling the worn leather cover of her mother's remedy journal and the glass dropper bottle securely concealed within.\nEP24:E65 81200-85200 CAMERA: Close-up of Juliana's soot-stained hand touching the hidden remedy book and the antidote vial inside her apron pocket.\nEP24:E66 81500-84800 LADY JULIANA [V.O.) (Determined, Defiant]: \"Let her believe I am ignorant.\"\nEP24:E67 85200-91500 ACTION: Juliana raises her head. Smudges of dark soot stain her fair cheek, but her piercing blue eyes burn with unwavering defiance and unyielding resolve as she stares toward the hallway.\nEP24:E68 85200-92000 CAMERA: Tight close-up of Juliana's soot-streaked face turning slowly toward the chamber exit, her jaw set firm as dramatic music builds to a powerful crescendo.\nEP24:E69 85600-89800 LADY JULIANA [V.O.) (Steely, Unstoppable]: \"I will return. You cannot stop the healer.\"",
+  "schema": {
+    "$defs": {
+      "Beat": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "kind": {
+            "title": "Kind",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "description": {
+            "title": "Description",
+            "type": "string"
+          },
+          "intensity_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Intensity 0 10",
+            "type": "number"
+          }
+        },
+        "required": [
+          "id",
+          "kind",
+          "event_refs",
+          "description",
+          "intensity_0_10"
+        ],
+        "title": "Beat",
+        "type": "object"
+      },
+      "Character": {
+        "additionalProperties": false,
+        "properties": {
+          "name": {
+            "title": "Name",
+            "type": "string"
+          },
+          "role": {
+            "title": "Role",
+            "type": "string"
+          }
+        },
+        "required": [
+          "name",
+          "role"
+        ],
+        "title": "Character",
+        "type": "object"
+      },
+      "Question": {
+        "additionalProperties": false,
+        "properties": {
+          "question": {
+            "title": "Question",
+            "type": "string"
+          },
+          "introduced_by": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Introduced By",
+            "type": "array"
+          }
+        },
+        "required": [
+          "question",
+          "introduced_by"
+        ],
+        "title": "Question",
+        "type": "object"
+      },
+      "Revelation": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "event_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Event Refs",
+            "type": "array"
+          },
+          "claim": {
+            "title": "Claim",
+            "type": "string"
+          },
+          "spoiler_significance_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Spoiler Significance 0 10",
+            "type": "number"
+          },
+          "creates_questions": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Creates Questions",
+            "type": "array"
+          }
+        },
+        "required": [
+          "id",
+          "event_refs",
+          "claim",
+          "spoiler_significance_0_10",
+          "creates_questions"
+        ],
+        "title": "Revelation",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "episode_id": {
+        "title": "Episode Id",
+        "type": "string"
+      },
+      "summary": {
+        "title": "Summary",
+        "type": "string"
+      },
+      "characters": {
+        "items": {
+          "$ref": "#/$defs/Character"
+        },
+        "title": "Characters",
+        "type": "array"
+      },
+      "beats": {
+        "items": {
+          "$ref": "#/$defs/Beat"
+        },
+        "title": "Beats",
+        "type": "array"
+      },
+      "revelations": {
+        "items": {
+          "$ref": "#/$defs/Revelation"
+        },
+        "title": "Revelations",
+        "type": "array"
+      },
+      "unresolved_questions": {
+        "items": {
+          "$ref": "#/$defs/Question"
+        },
+        "title": "Unresolved Questions",
+        "type": "array"
+      }
+    },
+    "required": [
+      "episode_id",
+      "summary",
+      "characters",
+      "beats",
+      "revelations",
+      "unresolved_questions"
+    ],
+    "title": "EpisodeAnalysis",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

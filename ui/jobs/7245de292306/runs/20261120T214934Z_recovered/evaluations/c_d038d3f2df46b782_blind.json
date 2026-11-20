@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_d038d3f2df46b782",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP40:E17",
+      "EP40:E19"
+    ],
+    "reason": "Opens within 0-1000ms with an amused laugh, and by 1200ms the line 'She stands beneath God's watch and still gets exactly what she deserves' signals a targeted, ominous plot about an unnamed woman. The hook lands quickly, though 'she' is unidentified."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP40:E35",
+      "EP40:E36"
+    ],
+    "reason": "The final 3000ms carries the elder nobleman's guard confirmation and his line 'By sunset, Ashburgh will have its new Duke and Duchess' with no resolution shown. The threat is left open, but the clip does not show a concrete turn or reveal, so it is a moderate cliffhanger.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Identity of 'she' and the bride",
+      "What the conspirators plan and why it is sinister",
+      "Meaning of 'Ashburgh' and its new Duke and Duchess",
+      "Relationship between the Harringtons, Rupert, and the elder nobleman",
+      "Why guards covering all entrances matters"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 6.0,
+    "reason": "Ominous music-free staging, smirks, and conspiratorial lines build suspense and unease. Viewers likely feel tension, but the emotional stakes for any character are not established."
+  },
+  "weaknesses": [
+    "Protagonist and bride are never identified, so the hook's target is unclear to a first-time viewer",
+    "The conspiracy is hinted at but never explained, weakening standalone clarity",
+    "The 'exactly what she deserves' line lacks context, so it reads as vague rather than gripping",
+    "Ending threat is implied rather than shown, limiting payoff within the clip",
+    "Many shots are static description of the setting, slowing momentum"
+  ],
+  "one_line_why_it_works": "A cryptic opening line about a woman's deserved fate, paired with a wedding-day conspiracy that ends on a sunset deadline, creates curiosity and suspense."
+}

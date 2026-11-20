@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c_98ea1855b9d10c87",
+  "hook": {
+    "score_0_10": 7.5,
+    "evidence_refs": [
+      "EP48:E28",
+      "EP48:E31"
+    ],
+    "reason": "The opening shows a smug, venomous smile, and within the first 3 seconds Catherine's line about Father Thomas having done his part creates immediate curiosity about a hidden scheme."
+  },
+  "cliffhanger": {
+    "score_0_10": 6.5,
+    "evidence_refs": [
+      "EP48:E40",
+      "EP48:E41"
+    ],
+    "reason": "The clip ends on an open instruction to send for a priest tonight and keep his arrival unseen, so the outcome is not shown. The threat is left unresolved, though the ending is a directive rather than a suspenseful event.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Father Thomas is and what his earlier part was",
+      "Who Agnes is and her relationship to Catherine",
+      "What the upcoming hearing is and why it matters",
+      "Why the coin purse is being given and what it buys",
+      "Why the priest must be kept unseen and who the secret is being hidden from"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Catherine's smug menace, Agnes's nervous glance, and the firm, cold tone of the orders build a sinister, tense mood."
+  },
+  "weaknesses": [
+    "Stakes and motives are not established, so the scheme feels abstract to a first-time viewer",
+    "Agnes's reaction is brief and gives little emotional weight to the bribe",
+    "The clip ends on a plan rather than a visible turn, which may feel like a pause instead of a hook",
+    "Camera and sound cues are sparse, so tension depends mostly on dialogue"
+  ],
+  "one_line_why_it_works": "Catherine's cold, controlled menace and the secret plot involving a priest and a bribe create intrigue that makes a viewer want to know what happens next."
+}

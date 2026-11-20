@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "series_id": "series_001",
+  "scope": {
+    "type": "episode",
+    "episode_id": "ep_005"
+  },
+  "promos": [],
+  "construction": {
+    "opportunities": 4,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "PARTIAL_DIALOGUE": 311,
+      "REQUIRED_CONTEXT_OUTSIDE_CLIP": 5,
+      "DURATION_OUT_OF_RANGE": 867
+    }
+  },
+  "rejected_candidates": [
+    {
+      "candidate_id": "c_51ecd2454634c1b8",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_1da504e8a9bd17cb",
+      "reasons": [
+        "ENDING_RESOLVED",
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_123dd766f28ea6d1",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_31f1fdd2691d44e4",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    }
+  ]
+}

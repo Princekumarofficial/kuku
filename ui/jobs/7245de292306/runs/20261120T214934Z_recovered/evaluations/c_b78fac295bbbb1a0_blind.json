@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_b78fac295bbbb1a0",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP29:E33",
+      "EP29:E34"
+    ],
+    "reason": "Opens at 0ms with Catherine's low, merciless line 'no one will remember what was written inside', which creates immediate menace and a question about the hidden writing. The opening is strong but its stakes are not yet explained.]("
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP29:E48",
+      "EP29:E46"
+    ],
+    "reason": "Ends at 24300ms with Catherine's mocking challenge 'What exactly do you think a penniless veteran can do against Ashbrook?' Juliana's claim that her husband will find her is left unanswered, so the confrontation is unresolved at the cut.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Identity and role of Juliana and Catherine",
+      "What 'was written inside' and why it matters",
+      "Meaning of 'cast out' and 'stayed forgotten'",
+      "Who the Duchess is and why Juliana saved her",
+      "Who the 'scarred soldier' or husband is",
+      "What Ashbrook is and its power in the story"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Sustained escalation of raw outrage, contempt, and mockery between the two characters, with close-ups emphasizing hostility and Juliana's tearful pride."
+  },
+  "weaknesses": [
+    "Key referents (the written document, the Duchess, Ashbrook, the veteran husband) are undefined, so a first-time viewer cannot judge stakes",
+    "Juliana's line 'My husband will find me' is a bluff-like claim with no established basis within the clip",
+    "Dialogue is heavily expository in tone yet withholds the facts needed to understand the conflict",
+    "Ending relies on an implied threat without showing any action, so impact depends on unseen context"
+  ],
+  "one_line_why_it_works": "A tense, escalating verbal confrontation with a menacing opening line and an unanswered taunt at the end creates immediate curiosity and emotional charge."
+}

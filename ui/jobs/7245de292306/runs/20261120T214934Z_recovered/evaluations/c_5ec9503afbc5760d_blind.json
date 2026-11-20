@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_5ec9503afbc5760d",
+  "hook": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP41:E41",
+      "EP41:E40"
+    ],
+    "reason": "The opening intimate two-shot and Catherine's line starting at 2000ms create tension through a calculating, ambitious tone, and the sudden explosion follows quickly. The line's stakes are unexplained, so the hook depends on implied scheming rather than clear context."
+  },
+  "cliffhanger": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP41:E52",
+      "EP41:E53"
+    ],
+    "reason": "Armed silhouettes emerge from the breached doorway and Juliana's expression shifts to hope as the score swells and the clip ends abruptly. Nothing resolves who the armed figures are or what happens next, so the ending is left open.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Juliana is and her relationship to Catherine and Rupert",
+      "What the Ashburgh title is and why it matters",
+      "Whether Catherine and Rupert are allies, rivals, or deceiving each other",
+      "Who the armed figures are and who ordered the attack",
+      "Why Juliana's reaction signals hope"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The sequence moves from romantic intimacy and menace to sudden panic and then to Juliana's shift from resolve to awe and hope. The emotional beats land strongly, though the characters' feelings rest on the viewer's inference from limited context."
+  },
+  "weaknesses": [
+    "The meaning of the Ashburgh title and the 'nothing left between us' line is unexplained",
+    "The identity and intent of the armed figures are not shown",
+    "Juliana's hope is inferred from facial description only, with no clear cause in the clip",
+    "The explosion is abrupt and its perpetrator is unknown, so the causal chain is unclear to a first-time viewer",
+    "Blond Nobleman's one-word line has little clear context"
+  ],
+  "one_line_why_it_works": "A tense, intimate scheme is abruptly shattered by an explosion, and the final shot leaves Juliana's sudden hope and the arrival of armed figures unresolved."
+}

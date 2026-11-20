@@ -1,0 +1,46 @@
+{
+  "candidate_id": "c_e81bed24a80a87bc",
+  "hook": {
+    "score_0_10": 7.5,
+    "evidence_refs": [
+      "EP32:E54",
+      "EP32:E55",
+      "EP32:E84",
+      "EP32:E85"
+    ],
+    "reason": "The opening within 0-3000ms shows extreme close-up fury and Catherine's sharp line \"You were rejected!\", which creates immediate conflict. The clip ends in the final 3000ms with Juliana's cutting line and Catherine struck still holding the rod, which gives a strong closing beat, though the opening's hostility is not explained for a first-time viewer."
+  },
+  "cliffhanger": {
+    "score_0_10": 5.0,
+    "evidence_refs": [
+      "EP32:E84",
+      "EP32:E85",
+      "EP32:E69"
+    ],
+    "reason": "The clip ends on a charged moment with Catherine motionless, holding the iron rod, after Juliana's provocative line. The branding-rod threat raised at E69 is never resolved, so the danger is left open. The ending is more an emotional stinger than a true unresolved hook, and nothing in the clip makes the next beat certain.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Catherine and Juliana are and their relationship before this exchange",
+      "What \"rejected\" and \"freed\" refer to",
+      "Who the guard is and why he stands behind Catherine",
+      "Why Juliana is chained in a cell and what the branding rod is meant to do",
+      "The meaning of \"Your soldier?\" and \"My husband.\" without prior events",
+      "The stakes of the confrontation and what Catherine is trying to achieve"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "The clip builds clear emotional tension through Catherine's escalating fury and disgust against Juliana's calm devotion and defiance. The final insult that leaves Catherine struck to the core gives a strong emotional payoff, though viewers lack the backstory that would make it land deeply."
+  },
+  "weaknesses": [
+    "Viewers lack any setup for the characters, their history, or the stakes, which weakens standalone comprehension",
+    "The branding rod is shown without explanation, so its threat is unclear",
+    "The clip relies heavily on dialogue exchanges that assume prior knowledge of the rivalry",
+    "The closing beat is an emotional reaction rather than a clear unresolved threat",
+    "Some camera descriptions repeat close-ups of faces without adding new information"
+  ],
+  "one_line_why_it_works": "A tense verbal duel between devoted Juliana and venomous Catherine builds to a sharp final insult that leaves Catherine frozen with the branding rod still in hand."
+}

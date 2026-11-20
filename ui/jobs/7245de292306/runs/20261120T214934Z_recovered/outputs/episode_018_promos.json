@@ -1,0 +1,135 @@
+{
+  "schema_version": "1.0",
+  "series_id": "series_001",
+  "scope": {
+    "type": "episode",
+    "episode_id": "ep_018"
+  },
+  "promos": [
+    {
+      "candidate_id": "c_a6ffa92980cce33a",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 0,
+          "end_ms": 41800,
+          "episode_id": "ep_018"
+        }
+      ],
+      "duration_ms": 41800,
+      "hook": {
+        "description": "The clip opens within 0-2100ms on flames crawling under a closed door with smoke pouring through, a strong immediate threat. The final evidence (EP18:E25, 39500-41800ms) carries the tension to the end with a line about being unable to get through.",
+        "evidence_refs": [
+          "EP18:E1",
+          "EP18:E2",
+          "EP18:E25"
+        ]
+      },
+      "cliffhanger": {
+        "description": "The exit is shown as completely sealed by wall-high flames (EP18:E23) and the characters conclude they cannot get through (EP18:E25). No escape or rescue is shown, so the situation is unresolved when the clip ends.",
+        "evidence_refs": [
+          "EP18:E23",
+          "EP18:E25"
+        ]
+      },
+      "why_it_works": "A fast-moving fire rescue escalates to a sealed exit and a fearful line of dialogue, leaving the danger unresolved at the end.",
+      "scores": {
+        "hook": 8.0,
+        "cliffhanger": 8.0,
+        "standalone": 5.0,
+        "emotion": 8.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 7.25
+      },
+      "warnings": [
+        "Characters and relationship are never established, so emotional investment depends on generic peril",
+        "Bandaged hands are shown without explanation",
+        "Juliana calls for Alexander twice and the repeated dialogue slightly slows momentum",
+        "The final line is the only in-clip statement of the blocked exit, so the stakes depend on the visual sealing alone",
+        "Spoilers not checked",
+        "Who Juliana and Alexander are and how they relate",
+        "Cause of the fire and why it spread so quickly",
+        "Why Juliana's hands are bandaged (EP18:E10)",
+        "What happened before the clip started",
+        "Why the room has no other exit or how the door was sealed",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 1,
+      "promo_id": "p_001"
+    },
+    {
+      "candidate_id": "c_e94fa21d512bae86",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 81500,
+          "end_ms": 101500,
+          "episode_id": "ep_018"
+        }
+      ],
+      "duration_ms": 20000,
+      "hook": {
+        "description": "The clip opens immediately with a violent structural failure above a character, and the terrified close-up and shouted name within the first 5 seconds create instant urgency.",
+        "evidence_refs": [
+          "EP18:E44",
+          "EP18:E45",
+          "EP18:E46"
+        ]
+      },
+      "cliffhanger": {
+        "description": "The clip ends with the escape routes cut off by collapsing fire, and nothing shown resolves whether the pair can get out, so the danger remains open. The beam missing Juliana and Alexander's embrace give some momentary relief, but the closing shot undercuts it.",
+        "evidence_refs": [
+          "EP18:E53"
+        ]
+      },
+      "why_it_works": "A sudden structural collapse, a terrified shout, and a protective shield create immediate tension, and the closing wall of fire leaves the escape unresolved.",
+      "scores": {
+        "hook": 8.0,
+        "cliffhanger": 7.0,
+        "standalone": 5.0,
+        "emotion": 8.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 6.95
+      },
+      "warnings": [
+        "Relies on unexplained names and relationships, so a first-time viewer cannot judge the stakes beyond the immediate peril",
+        "Ends on a wide shot of walls collapsing, which is a visual summary rather than a character-driven beat",
+        "No gap-filling shot between 12500 and 15000 ms, so the transition from shielding to cradling feels abrupt",
+        "Spoilers not checked",
+        "Who Juliana and Alexander are to each other and why their relationship matters",
+        "What building or location this is and how the fire started",
+        "Why the rafter and beam are collapsing and what led to this moment",
+        "What the characters were doing before the collapse and what they are trying to reach",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 2,
+      "promo_id": "p_002"
+    }
+  ],
+  "construction": {
+    "opportunities": 3,
+    "candidates": 4,
+    "rejected_windows_by_reason": {
+      "PARTIAL_DIALOGUE": 686,
+      "DURATION_OUT_OF_RANGE": 1511
+    }
+  },
+  "rejected_candidates": [
+    {
+      "candidate_id": "c_51983e8a35ddc017",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_357065232913879f",
+      "reasons": [
+        "HEAVY_TIME_OVERLAP"
+      ]
+    }
+  ]
+}

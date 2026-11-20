@@ -1,0 +1,53 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "opp_1",
+      "episode_id": "ep_038",
+      "concept": "A starving prisoner asks a secretly compassionate guard why he is helping her, and the clip builds to her realizing the wedding bells have begun.",
+      "hook_refs": [
+        "EP38:E11"
+      ],
+      "ending_refs": [
+        "EP38:E51"
+      ],
+      "context_refs": [
+        "EP38:E13"
+      ],
+      "why_promising": "The clip opens on the direct question 'Why?' within its first 3 seconds, and the guard's answer 'Because no one should die hungry' sets up the mystery. It ends on the unresolved 'It's beginning' at 75800ms, with a 59800ms span from hook to ending."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_2",
+      "episode_id": "ep_038",
+      "concept": "Juliana reveals she has been condemned, then hears the bells and realizes the wedding has begun and that she is next.",
+      "hook_refs": [
+        "EP38:E28"
+      ],
+      "ending_refs": [
+        "EP38:E52"
+      ],
+      "context_refs": [
+        "EP38:E46",
+        "EP38:E50"
+      ],
+      "why_promising": "The hook 'Do you know they condemned me?' opens the clip at 43200ms with an immediate stake. The bells and 'The wedding' carry the tension to the unresolved 'Then I suppose I'm next' at 78500ms, a span of 35300ms within the coverage."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_3",
+      "episode_id": "ep_038",
+      "concept": "Juliana vows she will not give her captors her husband, and she whispers his name as the bells sound.",
+      "hook_refs": [
+        "EP38:E40"
+      ],
+      "ending_refs": [
+        "EP38:E55"
+      ],
+      "context_refs": [
+        "EP38:E50"
+      ],
+      "why_promising": "The defiant line 'I will not give them my husband' lands within the first 300ms of a clip starting at 60500ms. It ends on the hopeful, unresolved 'Alexander...' at 84000ms, a span of 23200ms, and the wedding reference in the clip supports the stakes."
+    }
+  ]
+}

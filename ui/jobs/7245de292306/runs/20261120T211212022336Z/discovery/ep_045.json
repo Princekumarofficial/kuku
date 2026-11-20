@@ -1,0 +1,90 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "ep045_opp_01",
+      "episode_id": "ep_045",
+      "concept": "Alexander kneels, unchains Juliana, and asks her to look at him, then she recognizes him.",
+      "hook_refs": [
+        "EP45:E7"
+      ],
+      "ending_refs": [
+        "EP45:E31"
+      ],
+      "context_refs": [
+        "EP45:E5",
+        "EP45:E9",
+        "EP45:E10"
+      ],
+      "why_promising": "A clear visual hook with a stark chained-to-freed transformation. The clip runs 5000-41800 ms (36.8 s), and the ending line about choosing him leaves the reunion open."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep045_opp_02",
+      "episode_id": "ep_045",
+      "concept": "Alexander drapes a ducal mantle on Juliana and reveals he is the rightful Duke, with Juliana's shocked question as the hook.",
+      "hook_refs": [
+        "EP45:E19"
+      ],
+      "ending_refs": [
+        "EP45:E53"
+      ],
+      "context_refs": [
+        "EP45:E17",
+        "EP45:E21"
+      ],
+      "why_promising": "The title reveal is a strong identity twist. The clip runs 21800-80400 ms (58.6 s), and it ends on an unresolved public claim of lawful wife and Duchess."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep045_opp_03",
+      "episode_id": "ep_045",
+      "concept": "Alexander confronts Catherine with poisoning and torture accusations before the congregation.",
+      "hook_refs": [
+        "EP45:E40"
+      ],
+      "ending_refs": [
+        "EP45:E53"
+      ],
+      "context_refs": [
+        "EP45:E42",
+        "EP45:E45"
+      ],
+      "why_promising": "The accusation line is a sharp hook that starts within 3 s of the clip. The clip runs 51800-80400 ms (28.6 s), and the ending leaves Catherine's response and the claim unresolved."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep045_opp_04",
+      "episode_id": "ep_045",
+      "concept": "The doors burst open and a High Priest with a Crown officer interrupts the ceremony, then declares Juliana is not the lawful wife.",
+      "hook_refs": [
+        "EP45:E60"
+      ],
+      "ending_refs": [
+        "EP45:E70"
+      ],
+      "context_refs": [
+        "EP45:E59",
+        "EP45:E64"
+      ],
+      "why_promising": "A high-stakes interruption with a clear antagonist. The clip runs 86500-113000 ms (26.5 s), and it ends on an unresolved legal denial."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep045_opp_05",
+      "episode_id": "ep_045",
+      "concept": "Alexander publicly proclaims Juliana his lawful wife and Duchess, then the priest challenges the marriage's legality.",
+      "hook_refs": [
+        "EP45:E53"
+      ],
+      "ending_refs": [
+        "EP45:E64"
+      ],
+      "context_refs": [
+        "EP45:E51",
+        "EP45:E52"
+      ],
+      "why_promising": "A public proclamation followed by a legal challenge creates a strong escalation. The clip runs 74500-101100 ms (26.6 s), and it ends on the unresolved claim that no Crown license exists."
+    }
+  ]
+}

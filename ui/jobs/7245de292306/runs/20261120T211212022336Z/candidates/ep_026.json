@@ -1,0 +1,728 @@
+[
+  {
+    "candidate_id": "c_40712e74bb5c3fa0",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 28400,
+        "end_ms": 85800,
+        "episode_id": "ep_026"
+      }
+    ],
+    "duration_ms": 57400,
+    "origin": "opp_1",
+    "clip_events": [
+      {
+        "ref": "EP26:E11",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of the Duchess taking drops of the dark liquid from the glass bottle onto her lips."
+      },
+      {
+        "ref": "EP26:E13",
+        "segment_index": 0,
+        "relative_start_ms": 100,
+        "relative_end_ms": 2400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot as Juliana withdraws the medicine bottle, standing beside the bedside lamp."
+      },
+      {
+        "ref": "EP26:E15",
+        "segment_index": 0,
+        "relative_start_ms": 2400,
+        "relative_end_ms": 7100,
+        "type": "dialogue",
+        "speaker": "DOWAGER DUCHESS",
+        "text": "\"You... you are no common servant. You took Catherine's whip for me the other day.\""
+      },
+      {
+        "ref": "EP26:E14",
+        "segment_index": 0,
+        "relative_start_ms": 2400,
+        "relative_end_ms": 7400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Dowager Duchess observing Juliana with faint recognition through her exhaustion."
+      },
+      {
+        "ref": "EP26:E16",
+        "segment_index": 0,
+        "relative_start_ms": 7400,
+        "relative_end_ms": 11800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana, her eyes reflecting quiet resolve and pain."
+      },
+      {
+        "ref": "EP26:E17",
+        "segment_index": 0,
+        "relative_start_ms": 7600,
+        "relative_end_ms": 11400,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I did what I had to. It does not change my duty.\""
+      },
+      {
+        "ref": "EP26:E18",
+        "segment_index": 0,
+        "relative_start_ms": 11800,
+        "relative_end_ms": 14800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium two-shot as Juliana leans closer to tuck the blankets securely over the Duchess."
+      },
+      {
+        "ref": "EP26:E19",
+        "segment_index": 0,
+        "relative_start_ms": 11900,
+        "relative_end_ms": 14600,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Rest now, Your Grace. You are safe tonight.\""
+      },
+      {
+        "ref": "EP26:E20",
+        "segment_index": 0,
+        "relative_start_ms": 14800,
+        "relative_end_ms": 19100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana looking around the shadowy room, her voice dropping to a tense whisper."
+      },
+      {
+        "ref": "EP26:E21",
+        "segment_index": 0,
+        "relative_start_ms": 15100,
+        "relative_end_ms": 18600,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"If the guards hear us, we are both dead.\""
+      },
+      {
+        "ref": "EP26:E22",
+        "segment_index": 0,
+        "relative_start_ms": 19100,
+        "relative_end_ms": 22400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Static shot of the heavy carved double doors to the bedchamber, left slightly ajar with a sliver of hallway candlelight gleaming through the gap."
+      },
+      {
+        "ref": "EP26:E23",
+        "segment_index": 0,
+        "relative_start_ms": 22400,
+        "relative_end_ms": 27400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Dowager Duchess lying back, processing Juliana's warning as dark realization settles into her face."
+      },
+      {
+        "ref": "EP26:E24",
+        "segment_index": 0,
+        "relative_start_ms": 24100,
+        "relative_end_ms": 27100,
+        "type": "action",
+        "speaker": null,
+        "text": "The Duchess clutches the blanket against her chest, her breathing quickening with dismay."
+      },
+      {
+        "ref": "EP26:E25",
+        "segment_index": 0,
+        "relative_start_ms": 27400,
+        "relative_end_ms": 34100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the Duchess looking upward toward Juliana, her voice trembling with tragic certainty."
+      },
+      {
+        "ref": "EP26:E26",
+        "segment_index": 0,
+        "relative_start_ms": 27600,
+        "relative_end_ms": 33600,
+        "type": "dialogue",
+        "speaker": "DOWAGER DUCHESS",
+        "text": "\"Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?\""
+      },
+      {
+        "ref": "EP26:E27",
+        "segment_index": 0,
+        "relative_start_ms": 34100,
+        "relative_end_ms": 38600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana leaning over the edge of the mattress, nodding earnestly to soothe her fears."
+      },
+      {
+        "ref": "EP26:E28",
+        "segment_index": 0,
+        "relative_start_ms": 34200,
+        "relative_end_ms": 38300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Yes. But the charcoal is fighting the poison. You are safe now.\""
+      },
+      {
+        "ref": "EP26:E29",
+        "segment_index": 0,
+        "relative_start_ms": 38600,
+        "relative_end_ms": 43400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the small amber dropper bottle sitting atop the polished wooden bedside table in the dim glow of the lamp."
+      },
+      {
+        "ref": "EP26:E30",
+        "segment_index": 0,
+        "relative_start_ms": 43400,
+        "relative_end_ms": 51200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the Dowager Duchess looking intently at Juliana from her pillows, studying her bearing."
+      },
+      {
+        "ref": "EP26:E31",
+        "segment_index": 0,
+        "relative_start_ms": 45400,
+        "relative_end_ms": 51000,
+        "type": "dialogue",
+        "speaker": "DOWAGER DUCHESS",
+        "text": "\"Then tell me... why is a girl of such noble spirit working as a common maid?\""
+      },
+      {
+        "ref": "EP26:E32",
+        "segment_index": 0,
+        "relative_start_ms": 51200,
+        "relative_end_ms": 57400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana, her chin lifting with dignified sorrow and quiet defiance."
+      },
+      {
+        "ref": "EP26:E33",
+        "segment_index": 0,
+        "relative_start_ms": 51600,
+        "relative_end_ms": 57400,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Because my family cast me out to rot. I have nothing left in this world but my honor.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_44b0b42f8a087044",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 55500,
+        "end_ms": 115500,
+        "episode_id": "ep_026"
+      }
+    ],
+    "duration_ms": 60000,
+    "origin": "opp_2",
+    "clip_events": [
+      {
+        "ref": "EP26:E23",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Dowager Duchess lying back, processing Juliana's warning as dark realization settles into her face."
+      },
+      {
+        "ref": "EP26:E25",
+        "segment_index": 0,
+        "relative_start_ms": 300,
+        "relative_end_ms": 7000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the Duchess looking upward toward Juliana, her voice trembling with tragic certainty."
+      },
+      {
+        "ref": "EP26:E26",
+        "segment_index": 0,
+        "relative_start_ms": 500,
+        "relative_end_ms": 6500,
+        "type": "dialogue",
+        "speaker": "DOWAGER DUCHESS",
+        "text": "\"Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?\""
+      },
+      {
+        "ref": "EP26:E27",
+        "segment_index": 0,
+        "relative_start_ms": 7000,
+        "relative_end_ms": 11500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana leaning over the edge of the mattress, nodding earnestly to soothe her fears."
+      },
+      {
+        "ref": "EP26:E28",
+        "segment_index": 0,
+        "relative_start_ms": 7100,
+        "relative_end_ms": 11200,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Yes. But the charcoal is fighting the poison. You are safe now.\""
+      },
+      {
+        "ref": "EP26:E29",
+        "segment_index": 0,
+        "relative_start_ms": 11500,
+        "relative_end_ms": 16300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the small amber dropper bottle sitting atop the polished wooden bedside table in the dim glow of the lamp."
+      },
+      {
+        "ref": "EP26:E30",
+        "segment_index": 0,
+        "relative_start_ms": 16300,
+        "relative_end_ms": 24100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the Dowager Duchess looking intently at Juliana from her pillows, studying her bearing."
+      },
+      {
+        "ref": "EP26:E31",
+        "segment_index": 0,
+        "relative_start_ms": 18300,
+        "relative_end_ms": 23900,
+        "type": "dialogue",
+        "speaker": "DOWAGER DUCHESS",
+        "text": "\"Then tell me... why is a girl of such noble spirit working as a common maid?\""
+      },
+      {
+        "ref": "EP26:E32",
+        "segment_index": 0,
+        "relative_start_ms": 24100,
+        "relative_end_ms": 31000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana, her chin lifting with dignified sorrow and quiet defiance."
+      },
+      {
+        "ref": "EP26:E33",
+        "segment_index": 0,
+        "relative_start_ms": 24500,
+        "relative_end_ms": 30300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Because my family cast me out to rot. I have nothing left in this world but my honor.\""
+      },
+      {
+        "ref": "EP26:E34",
+        "segment_index": 0,
+        "relative_start_ms": 31000,
+        "relative_end_ms": 35300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium tracking down Juliana's apron to her hand as she rests it against the bed linens, revealing a distinctive engraved signet ring on her finger."
+      },
+      {
+        "ref": "EP26:E35",
+        "segment_index": 0,
+        "relative_start_ms": 31500,
+        "relative_end_ms": 35000,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana rests her right hand against the edge of the bedcover, unwittingly placing the unique ring directly within the Duchess's line of sight."
+      },
+      {
+        "ref": "EP26:E36",
+        "segment_index": 0,
+        "relative_start_ms": 34700,
+        "relative_end_ms": 36500,
+        "type": "sound",
+        "speaker": null,
+        "text": "A sharp, stunned gasp."
+      },
+      {
+        "ref": "EP26:E37",
+        "segment_index": 0,
+        "relative_start_ms": 35300,
+        "relative_end_ms": 39500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of the Dowager Duchess gasping sharply, her eyes widening in profound shock as all color drains from her face."
+      },
+      {
+        "ref": "EP26:E38",
+        "segment_index": 0,
+        "relative_start_ms": 35300,
+        "relative_end_ms": 39500,
+        "type": "action",
+        "speaker": null,
+        "text": "The Duchess's mouth hangs open in pure disbelief as she stares fixedly at Juliana's hand."
+      },
+      {
+        "ref": "EP26:E39",
+        "segment_index": 0,
+        "relative_start_ms": 39500,
+        "relative_end_ms": 44500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the Duchess pushing herself up against the headboard, trembling as she stretches out her frail hand."
+      },
+      {
+        "ref": "EP26:E40",
+        "segment_index": 0,
+        "relative_start_ms": 40500,
+        "relative_end_ms": 44300,
+        "type": "dialogue",
+        "speaker": "DOWAGER DUCHESS",
+        "text": "\"Your hand... Let me see your hand.\""
+      },
+      {
+        "ref": "EP26:E41",
+        "segment_index": 0,
+        "relative_start_ms": 44500,
+        "relative_end_ms": 50000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana reacting with confusion and growing concern at the elder woman's sudden frenzy."
+      },
+      {
+        "ref": "EP26:E42",
+        "segment_index": 0,
+        "relative_start_ms": 45000,
+        "relative_end_ms": 49500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Your Grace? What is wrong? You look as though you've seen a ghost.\""
+      },
+      {
+        "ref": "EP26:E43",
+        "segment_index": 0,
+        "relative_start_ms": 50000,
+        "relative_end_ms": 53500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up shot of the Duchess's withered, shaking hand reaching across the blanket toward Juliana's arm."
+      },
+      {
+        "ref": "EP26:E44",
+        "segment_index": 0,
+        "relative_start_ms": 50500,
+        "relative_end_ms": 53500,
+        "type": "action",
+        "speaker": null,
+        "text": "The Duchess reaches outward with trembling fingers, grasping frantically for Juliana."
+      },
+      {
+        "ref": "EP26:E45",
+        "segment_index": 0,
+        "relative_start_ms": 53300,
+        "relative_end_ms": 54500,
+        "type": "sound",
+        "speaker": null,
+        "text": "A sudden sharp rustle of fabric as her fingers snap tight."
+      },
+      {
+        "ref": "EP26:E46",
+        "segment_index": 0,
+        "relative_start_ms": 53500,
+        "relative_end_ms": 55300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight shot of the Duchess's frail hand clamping down with fierce, unexpected strength onto Juliana's dark sleeve."
+      },
+      {
+        "ref": "EP26:E47",
+        "segment_index": 0,
+        "relative_start_ms": 53700,
+        "relative_end_ms": 55100,
+        "type": "dialogue",
+        "speaker": "DOWAGER DUCHESS",
+        "text": "\"Do not move!\""
+      },
+      {
+        "ref": "EP26:E48",
+        "segment_index": 0,
+        "relative_start_ms": 55300,
+        "relative_end_ms": 60000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Dowager Duchess looking up at Juliana with overwhelming urgency and tears brimming in her wide eyes."
+      },
+      {
+        "ref": "EP26:E49",
+        "segment_index": 0,
+        "relative_start_ms": 55500,
+        "relative_end_ms": 60000,
+        "type": "dialogue",
+        "speaker": "DOWAGER DUCHESS",
+        "text": "\"Where... where... Where did you get this ring? Speak to me!\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_a5a2ff021a10c623",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 95000,
+        "end_ms": 120880,
+        "episode_id": "ep_026"
+      }
+    ],
+    "duration_ms": 25880,
+    "origin": "opp_3",
+    "clip_events": [
+      {
+        "ref": "EP26:E39",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 5000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the Duchess pushing herself up against the headboard, trembling as she stretches out her frail hand."
+      },
+      {
+        "ref": "EP26:E40",
+        "segment_index": 0,
+        "relative_start_ms": 1000,
+        "relative_end_ms": 4800,
+        "type": "dialogue",
+        "speaker": "DOWAGER DUCHESS",
+        "text": "\"Your hand... Let me see your hand.\""
+      },
+      {
+        "ref": "EP26:E41",
+        "segment_index": 0,
+        "relative_start_ms": 5000,
+        "relative_end_ms": 10500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana reacting with confusion and growing concern at the elder woman's sudden frenzy."
+      },
+      {
+        "ref": "EP26:E42",
+        "segment_index": 0,
+        "relative_start_ms": 5500,
+        "relative_end_ms": 10000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Your Grace? What is wrong? You look as though you've seen a ghost.\""
+      },
+      {
+        "ref": "EP26:E43",
+        "segment_index": 0,
+        "relative_start_ms": 10500,
+        "relative_end_ms": 14000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up shot of the Duchess's withered, shaking hand reaching across the blanket toward Juliana's arm."
+      },
+      {
+        "ref": "EP26:E44",
+        "segment_index": 0,
+        "relative_start_ms": 11000,
+        "relative_end_ms": 14000,
+        "type": "action",
+        "speaker": null,
+        "text": "The Duchess reaches outward with trembling fingers, grasping frantically for Juliana."
+      },
+      {
+        "ref": "EP26:E45",
+        "segment_index": 0,
+        "relative_start_ms": 13800,
+        "relative_end_ms": 15000,
+        "type": "sound",
+        "speaker": null,
+        "text": "A sudden sharp rustle of fabric as her fingers snap tight."
+      },
+      {
+        "ref": "EP26:E46",
+        "segment_index": 0,
+        "relative_start_ms": 14000,
+        "relative_end_ms": 15800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight shot of the Duchess's frail hand clamping down with fierce, unexpected strength onto Juliana's dark sleeve."
+      },
+      {
+        "ref": "EP26:E47",
+        "segment_index": 0,
+        "relative_start_ms": 14200,
+        "relative_end_ms": 15600,
+        "type": "dialogue",
+        "speaker": "DOWAGER DUCHESS",
+        "text": "\"Do not move!\""
+      },
+      {
+        "ref": "EP26:E48",
+        "segment_index": 0,
+        "relative_start_ms": 15800,
+        "relative_end_ms": 20800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Dowager Duchess looking up at Juliana with overwhelming urgency and tears brimming in her wide eyes."
+      },
+      {
+        "ref": "EP26:E49",
+        "segment_index": 0,
+        "relative_start_ms": 16000,
+        "relative_end_ms": 20500,
+        "type": "dialogue",
+        "speaker": "DOWAGER DUCHESS",
+        "text": "\"Where... where... Where did you get this ring? Speak to me!\""
+      },
+      {
+        "ref": "EP26:E50",
+        "segment_index": 0,
+        "relative_start_ms": 20800,
+        "relative_end_ms": 24500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana frozen in shock, her breath catching as the Duchess's desperate words echo in the silence of the room."
+      },
+      {
+        "ref": "EP26:E51",
+        "segment_index": 0,
+        "relative_start_ms": 24500,
+        "relative_end_ms": 25880,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up of the Dowager Duchess's two weathered hands tightly clasping Juliana's hand, holding the signet ring between them as a dramatic orchestral cliffhanger chord swells, cutting sharply to black."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_f2029e49a4d4299a",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 85800,
+        "end_ms": 109000,
+        "episode_id": "ep_026"
+      }
+    ],
+    "duration_ms": 23200,
+    "origin": "recovery_b8",
+    "clip_events": [
+      {
+        "ref": "EP26:E32",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana, her chin lifting with dignified sorrow and quiet defiance."
+      },
+      {
+        "ref": "EP26:E34",
+        "segment_index": 0,
+        "relative_start_ms": 700,
+        "relative_end_ms": 5000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium tracking down Juliana's apron to her hand as she rests it against the bed linens, revealing a distinctive engraved signet ring on her finger."
+      },
+      {
+        "ref": "EP26:E35",
+        "segment_index": 0,
+        "relative_start_ms": 1200,
+        "relative_end_ms": 4700,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana rests her right hand against the edge of the bedcover, unwittingly placing the unique ring directly within the Duchess's line of sight."
+      },
+      {
+        "ref": "EP26:E36",
+        "segment_index": 0,
+        "relative_start_ms": 4400,
+        "relative_end_ms": 6200,
+        "type": "sound",
+        "speaker": null,
+        "text": "A sharp, stunned gasp."
+      },
+      {
+        "ref": "EP26:E37",
+        "segment_index": 0,
+        "relative_start_ms": 5000,
+        "relative_end_ms": 9200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of the Dowager Duchess gasping sharply, her eyes widening in profound shock as all color drains from her face."
+      },
+      {
+        "ref": "EP26:E38",
+        "segment_index": 0,
+        "relative_start_ms": 5000,
+        "relative_end_ms": 9200,
+        "type": "action",
+        "speaker": null,
+        "text": "The Duchess's mouth hangs open in pure disbelief as she stares fixedly at Juliana's hand."
+      },
+      {
+        "ref": "EP26:E39",
+        "segment_index": 0,
+        "relative_start_ms": 9200,
+        "relative_end_ms": 14200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the Duchess pushing herself up against the headboard, trembling as she stretches out her frail hand."
+      },
+      {
+        "ref": "EP26:E40",
+        "segment_index": 0,
+        "relative_start_ms": 10200,
+        "relative_end_ms": 14000,
+        "type": "dialogue",
+        "speaker": "DOWAGER DUCHESS",
+        "text": "\"Your hand... Let me see your hand.\""
+      },
+      {
+        "ref": "EP26:E41",
+        "segment_index": 0,
+        "relative_start_ms": 14200,
+        "relative_end_ms": 19700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana reacting with confusion and growing concern at the elder woman's sudden frenzy."
+      },
+      {
+        "ref": "EP26:E42",
+        "segment_index": 0,
+        "relative_start_ms": 14700,
+        "relative_end_ms": 19200,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Your Grace? What is wrong? You look as though you've seen a ghost.\""
+      },
+      {
+        "ref": "EP26:E43",
+        "segment_index": 0,
+        "relative_start_ms": 19700,
+        "relative_end_ms": 23200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up shot of the Duchess's withered, shaking hand reaching across the blanket toward Juliana's arm."
+      },
+      {
+        "ref": "EP26:E44",
+        "segment_index": 0,
+        "relative_start_ms": 20200,
+        "relative_end_ms": 23200,
+        "type": "action",
+        "speaker": null,
+        "text": "The Duchess reaches outward with trembling fingers, grasping frantically for Juliana."
+      },
+      {
+        "ref": "EP26:E45",
+        "segment_index": 0,
+        "relative_start_ms": 23000,
+        "relative_end_ms": 23200,
+        "type": "sound",
+        "speaker": null,
+        "text": "A sudden sharp rustle of fabric as her fingers snap tight."
+      }
+    ]
+  }
+]

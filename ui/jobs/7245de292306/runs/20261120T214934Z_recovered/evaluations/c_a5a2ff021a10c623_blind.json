@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_a5a2ff021a10c623",
+  "hook": {
+    "score_0_10": 7.5,
+    "evidence_refs": [
+      "EP26:E39",
+      "EP26:E40",
+      "EP26:E46",
+      "EP26:E49"
+    ],
+    "reason": "The clip opens within 0-3000ms with a frail woman straining upward and demanding \"Let me see your hand,\" which creates immediate tension. The sudden grip and urgent demand reinforce the hook."
+  },
+  "cliffhanger": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP26:E49",
+      "EP26:E50",
+      "EP26:E51"
+    ],
+    "reason": "The clip ends with the unanswered question \"Where did you get this ring?\" and Juliana frozen in shock while the Duchess holds the ring. The final cue is a cut to black on a chord, so the question remains open at the clip's end.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Who the Dowager Duchess is and her relationship to Juliana",
+      "Why the signet ring matters and what it signifies",
+      "Why the Duchess reacts with such fear and urgency",
+      "The circumstances that led Juliana to be in this room"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "The Duchess's trembling, tearful desperation and Juliana's shock convey strong emotional intensity throughout the clip."
+  },
+  "weaknesses": [
+    "The significance of the ring is never explained, so the central question lacks grounding for a first-time viewer.",
+    "The Duchess's motive for her fear is unclear within the clip.",
+    "The ending relies on a music cue and cut to black to signal drama, which adds emphasis beyond the dialogue itself.",
+    "The setting and relationship between the characters are not established."
+  ],
+  "one_line_why_it_works": "A frail woman's sudden, desperate grip and urgent question about a ring leave the viewer wanting to know its meaning and why it terrifies her."
+}

@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_b2303a2e34352c2b DURATION_MS=24500\nSEGMENT 1 (playback order)\nEP43:E45 0-500 CAMERA: Close-up on Rupert clinging to the stone pillar, his breath shallow and terrified.\nEP43:E47 500-3500 CAMERA: Medium shot on Alexander stepping forward, thrusting the secondary dossier forward.\nEP43:E48 2000-3500 ALEXANDER: \"Read the names.\"\nEP43:E49 3500-6500 CAMERA: Medium close-up on the Crown Official reading the concluding section.\nEP43:E50 4100-6000 CROWN OFFICIAL: \"Lord Henry Sterling.\"\nEP43:E51 6500-8000 CAMERA: Quick pan to Lord Sterling stiffening in his pew, then the Crown Official.\nEP43:E52 6600-7700 CROWN OFFICIAL: \"Rupert Ashburn.\"\nEP43:E53 8000-9500 CAMERA: Extreme close-up on Rupert's horrified eyes darting in sheer terror.\nEP43:E54 9500-12300 CAMERA: Close-up on the Dowager Duchess covering her mouth in agonizing disbelief.\nEP43:E55 10000-11500 DOWAGER DUCHESS: \"My God...\"\nEP43:E56 12300-14700 CAMERA: Low-angle shot on Alexander towering over the fallen Rupert.\nEP43:E57 12500-14800 ALEXANDER: \"You sold my men to the enemy.\"\nEP43:E58 14700-16200 CAMERA: Close-up on Rupert waving his hands defensively, hyperventilating.\nEP43:E59 14900-16200 BLOND NOBLEMAN: \"I didn't!\"\nEP43:E60 16200-18300 CAMERA: Low-angle tracking push-in on Alexander raising the red-ribboned war document toward the cathedral arches.\nEP43:E61 16300-18700 ALEXANDER: \"And when you believed I was dead...\"\nEP43:E62 18300-19500 CAMERA: Quick reaction shot on Rupert gasping on the steps.\nEP43:E63 19500-21300 CAMERA: Tight close-up on Alexander's scarred, furious face.\nEP43:E64 19600-21100 ALEXANDER: \"You took my title.\"\nEP43:E65 21300-24500 CAMERA: Extreme close-up on the Crown Official's gloved thumb cracking the red wax seal open.\nEP43:E66 21500-22900 SOUND: Brittle snap of breaking sealing wax.",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

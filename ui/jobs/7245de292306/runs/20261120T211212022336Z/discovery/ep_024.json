@@ -1,0 +1,77 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "ep24_opp1",
+      "episode_id": "ep_024",
+      "concept": "Noblewoman confronts Juliana in the bedchamber and strikes her with the riding crop",
+      "hook_refs": [
+        "EP24:E10"
+      ],
+      "ending_refs": [
+        "EP24:E26",
+        "EP24:E28"
+      ],
+      "context_refs": [
+        "EP24:E11",
+        "EP24:E12",
+        "EP24:E13"
+      ],
+      "why_promising": "Opens on a direct accusation (who gave you permission to enter) that works without prior context, builds through the Duchess's gasping and Juliana hiding the vial, and ends on the crop strike and the cutting 'You are a maid' with the sentence still pending."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep24_opp2",
+      "episode_id": "ep_024",
+      "concept": "Juliana secretly hides the remedy vial while defying the noblewoman",
+      "hook_refs": [
+        "EP24:E12"
+      ],
+      "ending_refs": [
+        "EP24:E36"
+      ],
+      "context_refs": [
+        "EP24:E13",
+        "EP24:E15",
+        "EP24:E17"
+      ],
+      "why_promising": "Opens on a covert act of concealment, then runs through Juliana's defiant reply and the noblewoman's mockery, ending on the cruel line 'Perhaps we can teach you your place' with the punishment still unfolding."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep24_opp3",
+      "episode_id": "ep_024",
+      "concept": "Noblewoman orders Juliana to clean the hearth and Prudence is threatened into silence",
+      "hook_refs": [
+        "EP24:E41"
+      ],
+      "ending_refs": [
+        "EP24:E61"
+      ],
+      "context_refs": [
+        "EP24:E44",
+        "EP24:E46",
+        "EP24:E47"
+      ],
+      "why_promising": "Opens on the blunt order 'Clean it.' and follows Juliana's kneeling and the cruel 'Every stone' demand, ending on the mocking 'clever little servants' line with Juliana's scrubbing still in progress."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep24_opp4",
+      "episode_id": "ep_024",
+      "concept": "Prudence pleads for Juliana and is threatened with the crop",
+      "hook_refs": [
+        "EP24:E51"
+      ],
+      "ending_refs": [
+        "EP24:E69"
+      ],
+      "context_refs": [
+        "EP24:E52",
+        "EP24:E54",
+        "EP24:E56"
+      ],
+      "why_promising": "Opens on Prudence's desperate plea, then shows the crop threat and her submission, ending on Juliana's unresolved vow 'I will return. You cannot stop the healer.' which leaves the Duchess's fate open."
+    }
+  ]
+}

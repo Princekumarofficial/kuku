@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_cba682b15fa60ec5 DURATION_MS=28000\nSEGMENT 1 (playback order)\nEP43:E1 0-3800 CAMERA: Medium close-up on Rupert Ashburn standing before the altar, trembling with mounting panic and rage.\nEP43:E2 600-2400 BLOND NOBLEMAN: \"You're lying!\"\nEP43:E3 2400-3900 ACTION: Rupert lunges forward, his facial features contorting in venomous desperation.\nEP43:E4 3800-8000 CAMERA: Tracking shot swinging around Rupert as he turns toward the royal guards stationed along the aisle, pointing furiously down the center of the hall.\nEP43:E5 3900-7400 BLOND NOBLEMAN: \"This man is an imposter! Arrest him!\"\nEP43:E6 8000-10500 CAMERA: Wide symmetrical shot framing Alexander Ashburn standing immovable in the center of the cathedral, flanking lines of red-coated guards on both sides.\nEP43:E7 8200-10500 ACTION: Alexander stands completely composed in his dark embroidered aristocratic coat, staring Rupert down with unyielding authority.\nEP43:E9 10500-13200 BLOND NOBLEMAN: \"I said arrest him!\"\nEP43:E8 10500-13500 CAMERA: Extreme close-up on Rupert's furious face, veins bulging at his temples.\nEP43:E10 13500-16200 CAMERA: Medium shot on the Royal Guard Captain in ceremonial bearskin uniform standing steadfast.\nEP43:E11 13800-16000 ACTION: The Guard Captain brings his ceremonial sword upright to attention, his expression stern and resolute.\nEP43:E12 14200-15800 ROYAL GUARD: \"We will not.\"\nEP43:E13 16200-17800 CAMERA: Low-angle shot looking down along the polished stone floor as the guard's sword tip grounds firmly between Rupert and the guards.\nEP43:E14 16200-18000 BLOND NOBLEMAN: \"I am Lord Rupert Ashburn!\"\nEP43:E15 17800-19200 CAMERA: Medium close-up on Rupert thumping his chest in indignant disbelief.\nEP43:E16 18100-19000 BLOND NOBLEMAN: \"Your Duke!\"\nEP43:E19 19200-21500 ROYAL GUARD: \"No. He is your Duke.\"\nEP43:E18 19200-21600 ACTION: The Guard Captain snaps a crisp salute toward Alexander.\nEP43:E17 19200-21800 CAMERA: Medium shot framing the Guard Captain and Alexander in profile.\nEP43:E20 21800-24000 CAMERA: Medium shot on Catherine in her bridal gown and Lord Henry Sterling seated in the front pew, both frozen in stunned shock.\nEP43:E21 22000-24000 ACTION: Lord Sterling clutches his gold-headed walking cane tightly, his jaw clenching as tension spreads through the church.\nEP43:E22 24000-26000 CAMERA: Medium shot on Rupert spinning toward the gathered congregation, his hands flailing.\nEP43:E23 24100-25800 BLOND NOBLEMAN: \"You have all been deceived!\"\nEP43:E24 26000-28000 CAMERA: Medium close-up on Alexander, commanding and icy.\nEP43:E25 26100-28000 ALEXANDER: \"Then let the Crown decide.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

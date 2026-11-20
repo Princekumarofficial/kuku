@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c_e7a458039f4f2bd7",
+  "hook": {
+    "score_0_10": 6.0,
+    "evidence_refs": [
+      "EP36:E6",
+      "EP36:E9"
+    ],
+    "reason": "The clip opens within 0-3000ms with a tense close-up of shock and a sharp line naming Sterling and Rupert, which creates immediate tension even though the stakes are unclear."
+  },
+  "cliffhanger": {
+    "score_0_10": 4.0,
+    "evidence_refs": [
+      "EP36:E18",
+      "EP36:E19"
+    ],
+    "reason": "The final 3000ms reveal that someone gave away Alexander's location, and the mother's reaction is never resolved, so the confrontation feels open. The revelation itself is complete, so the ending reads more as an emotional beat than a strong hook into what comes next.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 3.0,
+    "missing_context": [
+      "Who Sterling and Rupert are and why their names shock the mother",
+      "Who 'they' are who gave up Alexander's location",
+      "What Alexander discovered before his position was leaked",
+      "Who the French are in relation to the characters",
+      "The relationship between Alexander and his mother",
+      "What the lantern-lit map represents and why the location matters"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 7.0,
+    "reason": "Visible shock, rage, and agony from both characters convey betrayal clearly, even without knowing the backstory."
+  },
+  "weaknesses": [
+    "Key names and the nature of the betrayal are unexplained, so a first-time viewer cannot tell who is responsible or why it matters",
+    "The mother's shock at 'Rupert' is not grounded in any context",
+    "'They' is ambiguous throughout the clip",
+    "The ending delivers a reveal without a clear forward question beyond the emotional confrontation",
+    "Dialogue is sparse relative to the runtime, leaving long stretches of reaction shots that carry much of the weight"
+  ],
+  "one_line_why_it_works": "Strong facial reactions and a sharp, escalating accusation of betrayal make the emotional stakes readable even when the plot is opaque."
+}

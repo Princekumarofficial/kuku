@@ -1,0 +1,59 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "ep034_opp_1",
+      "episode_id": "ep_034",
+      "concept": "Judge's opening charges against Lady Juliana, then a question about her standing in court",
+      "hook_refs": [
+        "EP34:E2"
+      ],
+      "ending_refs": [
+        "EP34:E23"
+      ],
+      "context_refs": [
+        "EP34:E2",
+        "EP34:E3"
+      ],
+      "why_promising": "The clip opens on the charges of witchcraft, unlawful healing and poisoning within the first 3 seconds, then builds tension as the Judge calls the maid Prudence and asks whether she served beside the accused. The clip ends before her answer."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep034_opp_2",
+      "episode_id": "ep_034",
+      "concept": "Lord's claim that the people call it poisoning, and Juliana's challenge over the witnesses' illnesses",
+      "hook_refs": [
+        "EP34:E69"
+      ],
+      "ending_refs": [
+        "EP34:E83"
+      ],
+      "context_refs": [
+        "EP34:E71",
+        "EP34:E73",
+        "EP34:E75",
+        "EP34:E77",
+        "EP34:E79",
+        "EP34:E81"
+      ],
+      "why_promising": "The hook is a direct accusation that opens the clip within 3 seconds. Juliana then confronts the Lord, insists herbs are medicine, and admits to administering them. The ending is the Judge's unanswered question about approval from a licensed physician, which leaves the matter open before her reply."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep034_opp_3",
+      "episode_id": "ep_034",
+      "concept": "Judge warns that refusal to renounce may be treated as proof of knowing witchcraft, and Juliana's defiant reply",
+      "hook_refs": [
+        "EP34:E100"
+      ],
+      "ending_refs": [
+        "EP34:E111"
+      ],
+      "context_refs": [
+        "EP34:E102",
+        "EP34:E106"
+      ],
+      "why_promising": "The hook is the Judge's stark warning that refusal may count as proof, which opens the clip within 3 seconds. Juliana answers Then let it be, and her defiant plea not to fear healing follows. The clip ends as the Judge silences the court with Enough! and before any verdict is shown."
+    }
+  ]
+}

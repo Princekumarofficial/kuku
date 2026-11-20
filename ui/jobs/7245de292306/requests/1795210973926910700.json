@@ -1,0 +1,202 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_d0bd79a1f00ede17 DURATION_MS=21500\nSEGMENT 1 (playback order)\nEP12:E31 0-2900 CAMERA: Medium two-shot of Clarissa in the foreground, turning slowly to face Juliana.\nEP12:E32 300-2700 CLARISSA: \"I want to see you crawl, sister.\"\nEP12:E33 2900-8700 CAMERA: Medium close-up profile tracking shot of Clarissa pacing slowly as she spins her sadistic tale.\nEP12:E34 3000-8600 CLARISSA: \"My emerald signet ring fell deep into the frozen blackthorn briars at Ashworth Manor. The thorns have grown over it...\"\nEP12:E36 8700-13000 CLARISSA: \"...sharp as steel. The ground is frozen, like pure ice.\"\nEP12:E35 8700-13100 CAMERA: Close-up of Clarissa flexing her gloved fingers theatrically in front of her face.\nEP12:E37 13100-14300 ACTION: Gerald bursts into a loud, mocking laugh beside the stony Constable.\nEP12:E38 13100-17100 CAMERA: Medium two-shot of Clarissa stepping closer to Juliana, peering down into her eyes with a predatory smile.\nEP12:E39 13600-16900 CLARISSA: \"You will retrieve it with your bare hands before the magistrate arrives.\"\nEP12:E41 17100-19400 GERALD: \"A lady's hands will be shredded to ribbons!\"\nEP12:E40 17100-19500 CAMERA: Medium shot of Gerald tapping his whip against his palm and laughing heartily beside the Constable.\nEP12:E42 19500-21500 CAMERA: Medium three-shot of Clarissa stepping behind Juliana, as Alexander watches helplessly with dark fury.\nEP12:E43 19600-21400 CLARISSA: \"Do it, and we withdraw the charges.\"",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "complete",
+  "output": {
+    "candidate_id": "c_d0bd79a1f00ede17",
+    "hook": {
+      "score_0_10": 7.0,
+      "evidence_refs": [
+        "EP12:E32",
+        "EP12:E33"
+      ],
+      "reason": "Opens within 0-3000ms with a cruel, direct line 'I want to see you crawl, sister.' that signals immediate conflict and menace, though the speaker and listener roles are only partly clear to a first-time viewer."
+    },
+    "cliffhanger": {
+      "score_0_10": 6.0,
+      "evidence_refs": [
+        "EP12:E43",
+        "EP12:E42"
+      ],
+      "reason": "The clip ends within the final 3000ms on a conditional demand, 'Do it, and we withdraw the charges,' with Juliana's response not shown and Alexander watching helplessly, so the situation is unresolved at the cut. The stakes are open, though the threat is partly deferred rather than a sharp reveal.",
+      "unresolved_at_end": true
+    },
+    "standalone": {
+      "score_0_10": 4.0,
+      "missing_context": [
+        "Who Juliana is and why she is being charged is not established",
+        "The charges and the magistrate's role are referenced without explanation",
+        "Alexander's relationship to Juliana and the stakes for him are unclear",
+        "Why the emerald signet ring matters and whose it is is not explained",
+        "The Constable's and Gerald's roles in the accusation are unclear"
+      ]
+    },
+    "emotion": {
+      "score_0_10": 7.0,
+      "reason": "Cruel taunting, predatory framing, mocking laughter and a helpless onlooker create strong tension and dread, though the emotional stakes rely on context the viewer lacks."
+    },
+    "weaknesses": [
+      "Clip relies on unstated prior events to explain the accusation and charges",
+      "Speaker of the opening line and the target of the threat are not clearly identified for a new viewer",
+      "Dangerous instruction is delivered as dialogue with little visual anchoring of stakes beyond the gloved-finger gesture",
+      "Gerald's mocking laugh and the Constable's stony presence are noted but their significance is unclear"
+    ],
+    "one_line_why_it_works": "A cruel opening taunt escalates into a conditional, dangerous bargain that leaves Juliana's answer and Alexander's fate hanging at the cut."
+  }
+}

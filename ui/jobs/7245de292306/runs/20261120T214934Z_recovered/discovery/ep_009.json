@@ -1,0 +1,54 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "opp_01",
+      "episode_id": "ep_009",
+      "concept": "Lord's study: the Blond Nobleman dismisses a rumor until the Former Groom describes a scar like the late Duke's, then he is shaken.",
+      "hook_refs": [
+        "EP09:E69"
+      ],
+      "ending_refs": [
+        "EP09:E88"
+      ],
+      "context_refs": [
+        "EP09:E71",
+        "EP09:E75",
+        "EP09:E79"
+      ],
+      "why_promising": "A self-contained study scene with a sharp opening line and a rising rumor that ends on an unresolved, unexplained reaction (Impossible) that invites follow-up."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_02",
+      "episode_id": "ep_009",
+      "concept": "Cottage: a frantic mother arrives with her feverish son and Juliana begins treatment, with the outcome left unresolved.",
+      "hook_refs": [
+        "EP09:E9"
+      ],
+      "ending_refs": [
+        "EP09:E28"
+      ],
+      "context_refs": [
+        "EP09:E8"
+      ],
+      "why_promising": "The opening plea for help is immediately clear, the stakes are visible, and the clip ends on Juliana's resolute 'I have to be' before the boy's recovery is shown."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_03",
+      "episode_id": "ep_009",
+      "concept": "Alexander warns Juliana that gossip could hurt her after the healing, leading into the rumor in the lord's study.",
+      "hook_refs": [
+        "EP09:E59"
+      ],
+      "ending_refs": [
+        "EP09:E88"
+      ],
+      "context_refs": [
+        "EP09:E58"
+      ],
+      "why_promising": "A direct warning line opens the clip, and it sets up the connection between village gossip and the study rumor, which stays unresolved at the end."
+    }
+  ]
+}

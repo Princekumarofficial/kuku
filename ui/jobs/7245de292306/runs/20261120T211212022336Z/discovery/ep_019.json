@@ -1,0 +1,37 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "ep19_opp_01",
+      "episode_id": "ep_019",
+      "concept": "Rupert is the face of Ashburg, and Alexander must keep his survival hidden while planning to reclaim his title",
+      "hook_refs": [
+        "EP19:E33"
+      ],
+      "ending_refs": [
+        "EP19:E47"
+      ],
+      "context_refs": [
+        "EP19:E32",
+        "EP19:E35"
+      ],
+      "why_promising": "Clip runs from the informant's report at 55300ms to Alexander's unresolved vow to let everyone believe he is dead at 83700ms, about 28.4s. The hook names Rupert's rise, and the ending withholds the proof Alexander still needs. The on-screen names of Rupert and Lady Catherine are introduced inside the clip. The episode analysis flags unresolved links between these characters, so the clip makes no claim beyond the on-screen dialogue."
+    },
+    {
+      "scope": "episode",
+      "local_id": "ep19_opp_02",
+      "episode_id": "ep_019",
+      "concept": "Juliana breaks down in the barn loft after losing everything, and Alexander comforts her with a promise of a new beginning",
+      "hook_refs": [
+        "EP19:E55"
+      ],
+      "ending_refs": [
+        "EP19:E63"
+      ],
+      "context_refs": [
+        "EP19:E54"
+      ],
+      "why_promising": "Clip runs from Juliana's line 'We have lost everything' at 97400ms to the closing push-in at 119630ms, about 22.2s. Alexander's entrance at 97200ms supplies context within the clip. The ending leaves his resolve to reclaim what was stolen unfulfilled, and the clip sits within one available coverage interval."
+    }
+  ]
+}

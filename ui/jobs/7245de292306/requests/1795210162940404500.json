@@ -1,0 +1,161 @@
+{
+  "stage": "blind_evaluation",
+  "system": "Act as a first-time viewer who knows only this clip. Rate hook, unresolved cliffhanger, standalone clarity and emotion from 0 to 10. Cite hook evidence starting within playback 0-3000ms and ending evidence within the final 3000ms. Do not assume omitted plot or use external knowledge. Report missing context and weaknesses. An intense but resolved ending is not a cliffhanger.",
+  "user": "CANDIDATE=c_5206c6d06005f9c7 DURATION_MS=28600\nSEGMENT 1 (playback order)\nEP43:E22 0-200 CAMERA: Medium shot on Rupert spinning toward the gathered congregation, his hands flailing.\nEP43:E24 200-2200 CAMERA: Medium close-up on Alexander, commanding and icy.\nEP43:E25 300-2200 ALEXANDER: \"Then let the Crown decide.\"\nEP43:E26 2200-4200 CAMERA: Close-up on Alexander's hands holding an official War Office document bundle sealed with red wax and ribbon.\nEP43:E27 2400-4200 ACTION: Alexander brings forth the dossier stamped \"WAR OFFICE - TOP SECRET\" with the royal crest.\nEP43:E29 4200-7600 ALEXANDER: \"These were delivered to me under the seal of the Crown.\"\nEP43:E28 4200-8000 CAMERA: Medium shot of Alexander holding up the sealed parcel before the room.\nEP43:E30 7700-8700 ALEXANDER: \"Read the first.\"\nEP43:E31 8000-9200 CAMERA: Close-up on Lord Sterling looking sideways, his face pale with rising dread.\nEP43:E32 9200-11200 CAMERA: Two-shot of Alexander handing the dossier to a Crown Military Magistrate wearing white gloves and a high-collared black uniform.\nEP43:E33 9400-11200 ACTION: The Crown Official receives the dossier solemnly with both hands.\nEP43:E34 11200-17000 CAMERA: Medium close-up on the Crown Official opening the binder and reading aloud.\nEP43:E35 11400-12800 SOUND: Crisp sound of parchment turning.\nEP43:E36 12000-16700 CROWN OFFICIAL: \"Military Intelligence Report, Iberian front, three years ago.\"\nEP43:E37 17000-18100 CAMERA: Close-up on Rupert staring wide-eyed, completely petrified.\nEP43:E38 18100-22000 CAMERA: Medium close-up on the Crown Official continuing the official reading.\nEP43:E39 18200-21600 CROWN OFFICIAL: \"Duke Alexander Ashburn's unit was ambushed after his location was compromised.\"\nEP43:E40 22000-25000 CAMERA: Frontal medium shot of the Crown Official turning a page as the congregation listens in breathless silence.\nEP43:E41 22000-25000 CROWN OFFICIAL: \"The report identifies the leak as deliberate.\"\nEP43:E42 25000-28600 CAMERA: Wide shot across the rubble of the cathedral floor showing Rupert crumbling in fear against the choir railing.\nEP43:E43 25200-28600 CROWN OFFICIAL: \"Information regarding the Duke's position was transmitted through British channels.\"\nEP43:E44 26000-28600 ACTION: Rupert staggers backward, his knees buckling as he leans his weight heavily on the stone balustrade.",
+  "schema": {
+    "$defs": {
+      "CliffhangerRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          },
+          "unresolved_at_end": {
+            "title": "Unresolved At End",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason",
+          "unresolved_at_end"
+        ],
+        "title": "CliffhangerRating",
+        "type": "object"
+      },
+      "EmotionRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "reason"
+        ],
+        "title": "EmotionRating",
+        "type": "object"
+      },
+      "EvidenceRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "evidence_refs": {
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "title": "Evidence Refs",
+            "type": "array"
+          },
+          "reason": {
+            "title": "Reason",
+            "type": "string"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "evidence_refs",
+          "reason"
+        ],
+        "title": "EvidenceRating",
+        "type": "object"
+      },
+      "StandaloneRating": {
+        "additionalProperties": false,
+        "properties": {
+          "score_0_10": {
+            "maximum": 10,
+            "minimum": 0,
+            "title": "Score 0 10",
+            "type": "number"
+          },
+          "missing_context": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Missing Context",
+            "type": "array"
+          }
+        },
+        "required": [
+          "score_0_10",
+          "missing_context"
+        ],
+        "title": "StandaloneRating",
+        "type": "object"
+      }
+    },
+    "additionalProperties": false,
+    "properties": {
+      "candidate_id": {
+        "title": "Candidate Id",
+        "type": "string"
+      },
+      "hook": {
+        "$ref": "#/$defs/EvidenceRating"
+      },
+      "cliffhanger": {
+        "$ref": "#/$defs/CliffhangerRating"
+      },
+      "standalone": {
+        "$ref": "#/$defs/StandaloneRating"
+      },
+      "emotion": {
+        "$ref": "#/$defs/EmotionRating"
+      },
+      "weaknesses": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Weaknesses",
+        "type": "array"
+      },
+      "one_line_why_it_works": {
+        "title": "One Line Why It Works",
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate_id",
+      "hook",
+      "cliffhanger",
+      "standalone",
+      "emotion",
+      "weaknesses",
+      "one_line_why_it_works"
+    ],
+    "title": "BlindEvaluation",
+    "type": "object"
+  },
+  "state": "queued_for_batch"
+}

@@ -1,0 +1,42 @@
+{
+  "candidate_id": "c_985efcc8e2bed806",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP42:E5",
+      "EP42:E6",
+      "EP42:E10"
+    ],
+    "reason": "Opens within 0-3000ms on Juliana in manacles with tears welling, then Rupert's 'Arrest this imposter!' by 3000ms creates immediate conflict and a question about who is being accused."
+  },
+  "cliffhanger": {
+    "score_0_10": 7.0,
+    "evidence_refs": [
+      "EP42:E22",
+      "EP42:E23"
+    ],
+    "reason": "In the final 3000ms Alexander advances down the aisle claiming 'here I stand' while Rupert's men are divided and the claim of death is contested, so the identity question is left open at the cut.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 4.0,
+    "missing_context": [
+      "Who Juliana, Alexander, Rupert, and Catherine are to each other",
+      "Why Alexander is presumed dead and what the 'lie' refers to",
+      "Why the guard says 'we know who he is' and what that knowledge is",
+      "Why Juliana is manacled and what her role in the situation is",
+      "Setting and significance of the cathedral wedding ceremony"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Tears, a drooping bouquet, Rupert's wild terror, and the guard's defiance build strong tension and grief that a viewer feels even without backstory."
+  },
+  "weaknesses": [
+    "Relies on unexplained names and relationships, so a first-time viewer cannot place the characters",
+    "The 'Alexander died' versus 'here I stand' premise is asserted without any setup",
+    "Juliana's manacles and tears are shown without cause",
+    "Guard's refusal is stated without a reason beyond the unexplained 'we know who he is'"
+  ],
+  "one_line_why_it_works": "A tense wedding-day confrontation with tearful captivity, a defiant guard, and a dead man apparently walking back in ends on an unresolved identity claim that pulls the viewer forward."
+}

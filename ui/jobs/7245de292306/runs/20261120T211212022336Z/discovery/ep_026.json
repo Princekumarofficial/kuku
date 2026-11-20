@@ -1,0 +1,54 @@
+{
+  "opportunities": [
+    {
+      "scope": "episode",
+      "local_id": "opp_1",
+      "episode_id": "ep_026",
+      "concept": "The Duchess recognizes Juliana as the woman who took Catherine's whip for her, then presses her about why a noble-spirited girl is working as a maid, ending on Juliana's claim that her family cast her out.",
+      "hook_refs": [
+        "EP26:E15"
+      ],
+      "ending_refs": [
+        "EP26:E33"
+      ],
+      "context_refs": [
+        "EP26:E17",
+        "EP26:E31"
+      ],
+      "why_promising": "The hook opens on a direct recognition line within the first 3 seconds, and the clip (30800-85800ms, 55s) ends on an unresolved identity revelation about Juliana's family."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_2",
+      "episode_id": "ep_026",
+      "concept": "The Duchess realizes she is being poisoned by Rupert and Catherine, and the clip builds to her grasping Juliana's hand over the signet ring and demanding to know where it came from.",
+      "hook_refs": [
+        "EP26:E26"
+      ],
+      "ending_refs": [
+        "EP26:E49"
+      ],
+      "context_refs": [
+        "EP26:E28"
+      ],
+      "why_promising": "The hook states a dramatic accusation immediately, and the clip (56000-115500ms, 59.5s) escalates to an unresolved demand about the ring that drives the episode's central question."
+    },
+    {
+      "scope": "episode",
+      "local_id": "opp_3",
+      "episode_id": "ep_026",
+      "concept": "The Duchess demands to see Juliana's hand, then grips her sleeve and demands to know where the ring came from, ending on the ring held between them as the scene cuts to black.",
+      "hook_refs": [
+        "EP26:E40"
+      ],
+      "ending_refs": [
+        "EP26:E51"
+      ],
+      "context_refs": [
+        "EP26:E42",
+        "EP26:E47"
+      ],
+      "why_promising": "The hook opens on an urgent demand within the first 3 seconds, and the clip (96000-120880ms, about 24.9s) ends on a cliffhanger that leaves the ring's origin unresolved."
+    }
+  ]
+}

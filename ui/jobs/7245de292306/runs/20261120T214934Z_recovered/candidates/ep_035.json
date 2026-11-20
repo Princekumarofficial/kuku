@@ -1,0 +1,512 @@
+[
+  {
+    "candidate_id": "c_b7bbfbd889e79c9b",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 19500,
+        "end_ms": 44200,
+        "episode_id": "ep_035"
+      }
+    ],
+    "duration_ms": 24700,
+    "origin": "opp_1",
+    "clip_events": [
+      {
+        "ref": "EP35:E11",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 4500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Alexander's mother arriving beside the frosted wooden door frame under sharp hanging icicles, shivering violently from the freezing cold."
+      },
+      {
+        "ref": "EP35:E12",
+        "segment_index": 0,
+        "relative_start_ms": 1500,
+        "relative_end_ms": 3500,
+        "type": "dialogue",
+        "speaker": "ALEXANDER'S MOTHER",
+        "text": "\"This must be the place.\""
+      },
+      {
+        "ref": "EP35:E13",
+        "segment_index": 0,
+        "relative_start_ms": 4500,
+        "relative_end_ms": 8000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on her wool-gloved hand unlatching the icy wooden door handle and pushing it open."
+      },
+      {
+        "ref": "EP35:E14",
+        "segment_index": 0,
+        "relative_start_ms": 5300,
+        "relative_end_ms": 7500,
+        "type": "sound",
+        "speaker": null,
+        "text": "Creak of cold wooden hinges opening."
+      },
+      {
+        "ref": "EP35:E15",
+        "segment_index": 0,
+        "relative_start_ms": 8000,
+        "relative_end_ms": 11300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Panning shot from the open doorway revealing the warm, dimly lit cabin interior, settling on Alexander standing over a rustic wooden table by lantern light."
+      },
+      {
+        "ref": "EP35:E16",
+        "segment_index": 0,
+        "relative_start_ms": 9000,
+        "relative_end_ms": 11300,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander, wearing a rugged trench coat, his scarred face framed by long dark hair, stands studying an unfolded tactical map before snapping his head up in alarm."
+      },
+      {
+        "ref": "EP35:E17",
+        "segment_index": 0,
+        "relative_start_ms": 11300,
+        "relative_end_ms": 14300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Alexander's mother stepping across the threshold, holding up her burning lantern, her eyes wide with shock."
+      },
+      {
+        "ref": "EP35:E18",
+        "segment_index": 0,
+        "relative_start_ms": 14300,
+        "relative_end_ms": 17000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up on Alexander's scarred left cheek and wide, disbelieving blue eyes."
+      },
+      {
+        "ref": "EP35:E19",
+        "segment_index": 0,
+        "relative_start_ms": 17000,
+        "relative_end_ms": 21000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on his mother's tear-streaked face as her chin trembles and tears spill down her cheeks."
+      },
+      {
+        "ref": "EP35:E20",
+        "segment_index": 0,
+        "relative_start_ms": 17500,
+        "relative_end_ms": 20500,
+        "type": "dialogue",
+        "speaker": "ALEXANDER'S MOTHER",
+        "text": "\"Alexander!\""
+      },
+      {
+        "ref": "EP35:E21",
+        "segment_index": 0,
+        "relative_start_ms": 21000,
+        "relative_end_ms": 24700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Alexander as his hard expression crumbles into utter astonishment."
+      },
+      {
+        "ref": "EP35:E22",
+        "segment_index": 0,
+        "relative_start_ms": 23000,
+        "relative_end_ms": 24700,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Mother?\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_89655934eb3b1512",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 125500,
+        "end_ms": 150000,
+        "episode_id": "ep_035"
+      }
+    ],
+    "duration_ms": 24500,
+    "origin": "opp_2",
+    "clip_events": [
+      {
+        "ref": "EP35:E58",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 4000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Alexander's intense, piercing gaze."
+      },
+      {
+        "ref": "EP35:E59",
+        "segment_index": 0,
+        "relative_start_ms": 500,
+        "relative_end_ms": 4000,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Because someone wanted you to believe I was dead.\""
+      },
+      {
+        "ref": "EP35:E60",
+        "segment_index": 0,
+        "relative_start_ms": 4000,
+        "relative_end_ms": 5000,
+        "type": "dialogue",
+        "speaker": "ALEXANDER'S MOTHER",
+        "text": "\"Who?\""
+      },
+      {
+        "ref": "EP35:E61",
+        "segment_index": 0,
+        "relative_start_ms": 5000,
+        "relative_end_ms": 8500,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander turns away toward the frosted window, staring out into the dark raging blizzard outside."
+      },
+      {
+        "ref": "EP35:E62",
+        "segment_index": 0,
+        "relative_start_ms": 5500,
+        "relative_end_ms": 8500,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"I spent three years trying to find out.\""
+      },
+      {
+        "ref": "EP35:E63",
+        "segment_index": 0,
+        "relative_start_ms": 8500,
+        "relative_end_ms": 11300,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander abruptly pushes away from the window, storming back toward the table with burning rage."
+      },
+      {
+        "ref": "EP35:E64",
+        "segment_index": 0,
+        "relative_start_ms": 8500,
+        "relative_end_ms": 11500,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"The ambush was not an accident.\""
+      },
+      {
+        "ref": "EP35:E66",
+        "segment_index": 0,
+        "relative_start_ms": 11500,
+        "relative_end_ms": 15000,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Someone ordered my men to die.\""
+      },
+      {
+        "ref": "EP35:E65",
+        "segment_index": 0,
+        "relative_start_ms": 11500,
+        "relative_end_ms": 18500,
+        "type": "action",
+        "speaker": null,
+        "text": "He leans heavily over the wooden table, looming close as his fury boils over."
+      },
+      {
+        "ref": "EP35:E67",
+        "segment_index": 0,
+        "relative_start_ms": 15500,
+        "relative_end_ms": 18500,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Someone wanted me erased.\""
+      },
+      {
+        "ref": "EP35:E68",
+        "segment_index": 0,
+        "relative_start_ms": 18500,
+        "relative_end_ms": 19500,
+        "type": "dialogue",
+        "speaker": "ALEXANDER'S MOTHER",
+        "text": "\"Who?\""
+      },
+      {
+        "ref": "EP35:E69",
+        "segment_index": 0,
+        "relative_start_ms": 19500,
+        "relative_end_ms": 24500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up on Alexander's scarred, grim visage, his voice dropping to a deadly chill."
+      },
+      {
+        "ref": "EP35:E70",
+        "segment_index": 0,
+        "relative_start_ms": 20000,
+        "relative_end_ms": 24500,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"The men behind it... are the same men ruling Ashwood now.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_e87593602a9b9b6d",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 125500,
+        "end_ms": 150500,
+        "episode_id": "ep_035"
+      }
+    ],
+    "duration_ms": 25000,
+    "origin": "recovery_b7",
+    "clip_events": [
+      {
+        "ref": "EP35:E58",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 4000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Alexander's intense, piercing gaze."
+      },
+      {
+        "ref": "EP35:E59",
+        "segment_index": 0,
+        "relative_start_ms": 500,
+        "relative_end_ms": 4000,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Because someone wanted you to believe I was dead.\""
+      },
+      {
+        "ref": "EP35:E60",
+        "segment_index": 0,
+        "relative_start_ms": 4000,
+        "relative_end_ms": 5000,
+        "type": "dialogue",
+        "speaker": "ALEXANDER'S MOTHER",
+        "text": "\"Who?\""
+      },
+      {
+        "ref": "EP35:E61",
+        "segment_index": 0,
+        "relative_start_ms": 5000,
+        "relative_end_ms": 8500,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander turns away toward the frosted window, staring out into the dark raging blizzard outside."
+      },
+      {
+        "ref": "EP35:E62",
+        "segment_index": 0,
+        "relative_start_ms": 5500,
+        "relative_end_ms": 8500,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"I spent three years trying to find out.\""
+      },
+      {
+        "ref": "EP35:E63",
+        "segment_index": 0,
+        "relative_start_ms": 8500,
+        "relative_end_ms": 11300,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander abruptly pushes away from the window, storming back toward the table with burning rage."
+      },
+      {
+        "ref": "EP35:E64",
+        "segment_index": 0,
+        "relative_start_ms": 8500,
+        "relative_end_ms": 11500,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"The ambush was not an accident.\""
+      },
+      {
+        "ref": "EP35:E66",
+        "segment_index": 0,
+        "relative_start_ms": 11500,
+        "relative_end_ms": 15000,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Someone ordered my men to die.\""
+      },
+      {
+        "ref": "EP35:E65",
+        "segment_index": 0,
+        "relative_start_ms": 11500,
+        "relative_end_ms": 18500,
+        "type": "action",
+        "speaker": null,
+        "text": "He leans heavily over the wooden table, looming close as his fury boils over."
+      },
+      {
+        "ref": "EP35:E67",
+        "segment_index": 0,
+        "relative_start_ms": 15500,
+        "relative_end_ms": 18500,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Someone wanted me erased.\""
+      },
+      {
+        "ref": "EP35:E68",
+        "segment_index": 0,
+        "relative_start_ms": 18500,
+        "relative_end_ms": 19500,
+        "type": "dialogue",
+        "speaker": "ALEXANDER'S MOTHER",
+        "text": "\"Who?\""
+      },
+      {
+        "ref": "EP35:E69",
+        "segment_index": 0,
+        "relative_start_ms": 19500,
+        "relative_end_ms": 25000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Tight close-up on Alexander's scarred, grim visage, his voice dropping to a deadly chill."
+      },
+      {
+        "ref": "EP35:E70",
+        "segment_index": 0,
+        "relative_start_ms": 20000,
+        "relative_end_ms": 24500,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"The men behind it... are the same men ruling Ashwood now.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_dfd2e2beb703c748",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 24800,
+        "end_ms": 48000,
+        "episode_id": "ep_035"
+      }
+    ],
+    "duration_ms": 23200,
+    "origin": "recovery_b3",
+    "clip_events": [
+      {
+        "ref": "EP35:E13",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on her wool-gloved hand unlatching the icy wooden door handle and pushing it open."
+      },
+      {
+        "ref": "EP35:E14",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2200,
+        "type": "sound",
+        "speaker": null,
+        "text": "Creak of cold wooden hinges opening."
+      },
+      {
+        "ref": "EP35:E15",
+        "segment_index": 0,
+        "relative_start_ms": 2700,
+        "relative_end_ms": 6000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Panning shot from the open doorway revealing the warm, dimly lit cabin interior, settling on Alexander standing over a rustic wooden table by lantern light."
+      },
+      {
+        "ref": "EP35:E16",
+        "segment_index": 0,
+        "relative_start_ms": 3700,
+        "relative_end_ms": 6000,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander, wearing a rugged trench coat, his scarred face framed by long dark hair, stands studying an unfolded tactical map before snapping his head up in alarm."
+      },
+      {
+        "ref": "EP35:E17",
+        "segment_index": 0,
+        "relative_start_ms": 6000,
+        "relative_end_ms": 9000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Alexander's mother stepping across the threshold, holding up her burning lantern, her eyes wide with shock."
+      },
+      {
+        "ref": "EP35:E18",
+        "segment_index": 0,
+        "relative_start_ms": 9000,
+        "relative_end_ms": 11700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up on Alexander's scarred left cheek and wide, disbelieving blue eyes."
+      },
+      {
+        "ref": "EP35:E19",
+        "segment_index": 0,
+        "relative_start_ms": 11700,
+        "relative_end_ms": 15700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on his mother's tear-streaked face as her chin trembles and tears spill down her cheeks."
+      },
+      {
+        "ref": "EP35:E20",
+        "segment_index": 0,
+        "relative_start_ms": 12200,
+        "relative_end_ms": 15200,
+        "type": "dialogue",
+        "speaker": "ALEXANDER'S MOTHER",
+        "text": "\"Alexander!\""
+      },
+      {
+        "ref": "EP35:E21",
+        "segment_index": 0,
+        "relative_start_ms": 15700,
+        "relative_end_ms": 19400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Alexander as his hard expression crumbles into utter astonishment."
+      },
+      {
+        "ref": "EP35:E22",
+        "segment_index": 0,
+        "relative_start_ms": 17700,
+        "relative_end_ms": 19400,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Mother?\""
+      },
+      {
+        "ref": "EP35:E23",
+        "segment_index": 0,
+        "relative_start_ms": 19400,
+        "relative_end_ms": 22700,
+        "type": "action",
+        "speaker": null,
+        "text": "She drops her walking staff and rushes forward, throwing her arms around Alexander's neck. He pulls her tightly into his chest."
+      },
+      {
+        "ref": "EP35:E24",
+        "segment_index": 0,
+        "relative_start_ms": 20700,
+        "relative_end_ms": 23200,
+        "type": "dialogue",
+        "speaker": "ALEXANDER'S MOTHER",
+        "text": "\"You're alive.\""
+      }
+    ]
+  }
+]

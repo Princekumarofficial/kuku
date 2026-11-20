@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c_d1fa85c71174ddcf",
+  "hook": {
+    "score_0_10": 7.5,
+    "evidence_refs": [
+      "EP42:E3",
+      "EP42:E4"
+    ],
+    "reason": "The opening line 'Who are you?' at 700ms within the first 3000ms poses an immediate question, and 'You already know.' sharpens the mystery of an identity being contested at a wedding."
+  },
+  "cliffhanger": {
+    "score_0_10": 8.5,
+    "evidence_refs": [
+      "EP42:E20",
+      "EP42:E21"
+    ],
+    "reason": "The clip ends in the final 3000ms with Rupert terrified and the nobleman declaring 'Alexander died!' while the claim that this man is Alexander remains unconfirmed, so the identity question is left open rather than resolved.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Who Alexander, Juliana, Rupert and Catherine are and how they relate",
+      "What the wedding ceremony and the altar confrontation are about",
+      "Why the royal guard says 'we know who he is' and what he knows",
+      "Why Alexander is presumed dead and what the 'imposter' accusation is based on",
+      "Why Juliana is manacled"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Juliana's tears, Alexander's softened gaze, Catherine's panic and Rupert's wild terror across the clip build strong emotional tension."
+  },
+  "weaknesses": [
+    "Key character identities and prior events are not established, so the stakes are hard to grasp for a first-time viewer",
+    "The guard's defiance and Rupert's accusation lack explained motivation within the clip",
+    "The claim that Alexander died is stated without context, which weakens the reveal's impact",
+    "The rapid sequence of shouted lines and reaction shots makes it hard to track who is speaking and why"
+  ],
+  "one_line_why_it_works": "A wedding is halted by a contested identity, with the clip ending on a shocking claim that Alexander died, leaving the viewer wanting to know who the man is."
+}

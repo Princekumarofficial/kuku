@@ -1,0 +1,1151 @@
+[
+  {
+    "candidate_id": "c_b4968985f372a4b6",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 0,
+        "end_ms": 52200,
+        "episode_id": "ep_016"
+      }
+    ],
+    "duration_ms": 52200,
+    "origin": "ep016_opp01",
+    "clip_events": [
+      {
+        "ref": "EP16:E1",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot from behind Alexander's trench coat looking toward the three thugs standing across the trampled garden under the full moon."
+      },
+      {
+        "ref": "EP16:E2",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2100,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander stands tall and unyielding, blocking the path to Juliana, while the Thug with Cap steps forward clutching an iron pipe."
+      },
+      {
+        "ref": "EP16:E4",
+        "segment_index": 0,
+        "relative_start_ms": 2100,
+        "relative_end_ms": 4200,
+        "type": "dialogue",
+        "speaker": "THUG WITH CAP",
+        "text": "\"Move aside, soldier.\""
+      },
+      {
+        "ref": "EP16:E3",
+        "segment_index": 0,
+        "relative_start_ms": 2100,
+        "relative_end_ms": 4500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of the Thug with Cap, his eyes wide and sneering with false bravado as his bald accomplice watches from behind."
+      },
+      {
+        "ref": "EP16:E5",
+        "segment_index": 0,
+        "relative_start_ms": 4500,
+        "relative_end_ms": 6400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of Alexander's scarred, weathered face, his cold blue-grey eyes fixed intently on his opponent."
+      },
+      {
+        "ref": "EP16:E7",
+        "segment_index": 0,
+        "relative_start_ms": 6400,
+        "relative_end_ms": 8800,
+        "type": "dialogue",
+        "speaker": "THUG WITH CAP",
+        "text": "\"I said, move!\""
+      },
+      {
+        "ref": "EP16:E6",
+        "segment_index": 0,
+        "relative_start_ms": 6400,
+        "relative_end_ms": 9500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle medium shot of the Thug with Cap gripping his weapon with both hands and roaring into the night air."
+      },
+      {
+        "ref": "EP16:E8",
+        "segment_index": 0,
+        "relative_start_ms": 9500,
+        "relative_end_ms": 11200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Alexander remaining completely motionless, his jaw clenched in stoic calm."
+      },
+      {
+        "ref": "EP16:E10",
+        "segment_index": 0,
+        "relative_start_ms": 11200,
+        "relative_end_ms": 12700,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Alexander...\""
+      },
+      {
+        "ref": "EP16:E9",
+        "segment_index": 0,
+        "relative_start_ms": 11200,
+        "relative_end_ms": 13100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana kneeling in the mud against the ruined planter, clutching her bandaged hands to her chest in trembling fear."
+      },
+      {
+        "ref": "EP16:E11",
+        "segment_index": 0,
+        "relative_start_ms": 13100,
+        "relative_end_ms": 14300,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Stay behind me.\""
+      },
+      {
+        "ref": "EP16:E12",
+        "segment_index": 0,
+        "relative_start_ms": 14300,
+        "relative_end_ms": 16000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium action shot as the Thug with Cap lunges forward with his weapon raised high."
+      },
+      {
+        "ref": "EP16:E13",
+        "segment_index": 0,
+        "relative_start_ms": 14400,
+        "relative_end_ms": 15500,
+        "type": "dialogue",
+        "speaker": "THUG WITH CAP",
+        "text": "\"Aaargh!\""
+      },
+      {
+        "ref": "EP16:E14",
+        "segment_index": 0,
+        "relative_start_ms": 14400,
+        "relative_end_ms": 16800,
+        "type": "action",
+        "speaker": null,
+        "text": "The thug swings the club down with full force, but Alexander catches the weapon mid-air in his bare hand with chilling ease."
+      },
+      {
+        "ref": "EP16:E15",
+        "segment_index": 0,
+        "relative_start_ms": 15800,
+        "relative_end_ms": 16500,
+        "type": "sound",
+        "speaker": null,
+        "text": "Heavy blunt impact of a solid hand gripping wood."
+      },
+      {
+        "ref": "EP16:E16",
+        "segment_index": 0,
+        "relative_start_ms": 16800,
+        "relative_end_ms": 19500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Thug with Cap staring in wide-eyed terror as Alexander grips the bar and wrenches it away effortlessly."
+      },
+      {
+        "ref": "EP16:E17",
+        "segment_index": 0,
+        "relative_start_ms": 19200,
+        "relative_end_ms": 21800,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander strikes the thug across the chest and slams him violently into the muddy ground beside the stone wall."
+      },
+      {
+        "ref": "EP16:E18",
+        "segment_index": 0,
+        "relative_start_ms": 19800,
+        "relative_end_ms": 21200,
+        "type": "sound",
+        "speaker": null,
+        "text": "Heavy thud of a body crashing into soil and wood."
+      },
+      {
+        "ref": "EP16:E19",
+        "segment_index": 0,
+        "relative_start_ms": 21800,
+        "relative_end_ms": 23000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana watching in breathless astonishment."
+      },
+      {
+        "ref": "EP16:E21",
+        "segment_index": 0,
+        "relative_start_ms": 23000,
+        "relative_end_ms": 23800,
+        "type": "dialogue",
+        "speaker": "BALD THUG",
+        "text": "\"Aaargh!\""
+      },
+      {
+        "ref": "EP16:E20",
+        "segment_index": 0,
+        "relative_start_ms": 23000,
+        "relative_end_ms": 25800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium tracking shot as the Bald Thug charges in with a shout, only for Alexander to pivot and seize him by the neck, hurling him across the garden path."
+      },
+      {
+        "ref": "EP16:E22",
+        "segment_index": 0,
+        "relative_start_ms": 24200,
+        "relative_end_ms": 25500,
+        "type": "sound",
+        "speaker": null,
+        "text": "Loud wooden scrape and crunch as the Bald Thug slides across the planks into the fence."
+      },
+      {
+        "ref": "EP16:E24",
+        "segment_index": 0,
+        "relative_start_ms": 25800,
+        "relative_end_ms": 27100,
+        "type": "dialogue",
+        "speaker": "THIRD THUG",
+        "text": "\"Stay back!\""
+      },
+      {
+        "ref": "EP16:E23",
+        "segment_index": 0,
+        "relative_start_ms": 25800,
+        "relative_end_ms": 28500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of the Third Thug backing away nervously, raising a blunt rod with trembling arms before lunging."
+      },
+      {
+        "ref": "EP16:E25",
+        "segment_index": 0,
+        "relative_start_ms": 26500,
+        "relative_end_ms": 28500,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander deflects the strike with his forearm, drives a swift counter-blow into the thug's torso, and spins him violently to the ground."
+      },
+      {
+        "ref": "EP16:E26",
+        "segment_index": 0,
+        "relative_start_ms": 27000,
+        "relative_end_ms": 28200,
+        "type": "sound",
+        "speaker": null,
+        "text": "Solid bone-and-fist impact followed by a groaning thud."
+      },
+      {
+        "ref": "EP16:E27",
+        "segment_index": 0,
+        "relative_start_ms": 28500,
+        "relative_end_ms": 31000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide cinematic shot under the full moon. Alexander towers over the three writhing thugs groaning in the mud as Juliana looks up from her knees."
+      },
+      {
+        "ref": "EP16:E28",
+        "segment_index": 0,
+        "relative_start_ms": 31000,
+        "relative_end_ms": 34500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle close-up of Juliana looking up at Alexander, tears glistening on her mud-splattered cheeks in profound relief."
+      },
+      {
+        "ref": "EP16:E29",
+        "segment_index": 0,
+        "relative_start_ms": 32000,
+        "relative_end_ms": 33800,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Alexander...\""
+      },
+      {
+        "ref": "EP16:E30",
+        "segment_index": 0,
+        "relative_start_ms": 34500,
+        "relative_end_ms": 38200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot over Juliana's shoulder as Alexander turns his gaze toward her, his stern demeanor softening with concern."
+      },
+      {
+        "ref": "EP16:E31",
+        "segment_index": 0,
+        "relative_start_ms": 36200,
+        "relative_end_ms": 37800,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Are you hurt?\""
+      },
+      {
+        "ref": "EP16:E33",
+        "segment_index": 0,
+        "relative_start_ms": 38200,
+        "relative_end_ms": 40000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Only my hands.\""
+      },
+      {
+        "ref": "EP16:E32",
+        "segment_index": 0,
+        "relative_start_ms": 38200,
+        "relative_end_ms": 40800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana's trembling, soil-stained hands wrapped in blood-soaked bandages."
+      },
+      {
+        "ref": "EP16:E34",
+        "segment_index": 0,
+        "relative_start_ms": 40800,
+        "relative_end_ms": 44200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as Alexander suddenly wheels around, strides to the groaning Thug with Cap, and yanks him straight off the ground by his coat collar with one arm."
+      },
+      {
+        "ref": "EP16:E35",
+        "segment_index": 0,
+        "relative_start_ms": 41200,
+        "relative_end_ms": 44000,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander lifts the thug onto his tiptoes against the cottage wall, glaring with lethal intensity."
+      },
+      {
+        "ref": "EP16:E36",
+        "segment_index": 0,
+        "relative_start_ms": 42500,
+        "relative_end_ms": 44000,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Who sent you?\""
+      },
+      {
+        "ref": "EP16:E38",
+        "segment_index": 0,
+        "relative_start_ms": 44200,
+        "relative_end_ms": 45300,
+        "type": "dialogue",
+        "speaker": "THUG WITH CAP",
+        "text": "\"No one!\""
+      },
+      {
+        "ref": "EP16:E37",
+        "segment_index": 0,
+        "relative_start_ms": 44200,
+        "relative_end_ms": 46200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Thug with Cap gagging under Alexander's iron fist."
+      },
+      {
+        "ref": "EP16:E39",
+        "segment_index": 0,
+        "relative_start_ms": 46200,
+        "relative_end_ms": 48500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander, his eyes darkening with lethal fury."
+      },
+      {
+        "ref": "EP16:E40",
+        "segment_index": 0,
+        "relative_start_ms": 46300,
+        "relative_end_ms": 47400,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Wrong answer.\""
+      },
+      {
+        "ref": "EP16:E41",
+        "segment_index": 0,
+        "relative_start_ms": 48000,
+        "relative_end_ms": 50000,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander tightens his grip on the thug's throat, lifting him higher against the stone wall."
+      },
+      {
+        "ref": "EP16:E42",
+        "segment_index": 0,
+        "relative_start_ms": 48800,
+        "relative_end_ms": 49600,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Who?!\""
+      },
+      {
+        "ref": "EP16:E44",
+        "segment_index": 0,
+        "relative_start_ms": 49800,
+        "relative_end_ms": 52200,
+        "type": "dialogue",
+        "speaker": "THUG WITH CAP",
+        "text": "\"Harrington! Gerald Harrington paid us!\""
+      },
+      {
+        "ref": "EP16:E43",
+        "segment_index": 0,
+        "relative_start_ms": 49800,
+        "relative_end_ms": 52200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of the terrified thug gasping for air, his eyes bulging."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_af1f5a1fd6ebd224",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 40000,
+        "end_ms": 83190,
+        "episode_id": "ep_016"
+      }
+    ],
+    "duration_ms": 43190,
+    "origin": "ep016_opp02",
+    "clip_events": [
+      {
+        "ref": "EP16:E32",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana's trembling, soil-stained hands wrapped in blood-soaked bandages."
+      },
+      {
+        "ref": "EP16:E34",
+        "segment_index": 0,
+        "relative_start_ms": 800,
+        "relative_end_ms": 4200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as Alexander suddenly wheels around, strides to the groaning Thug with Cap, and yanks him straight off the ground by his coat collar with one arm."
+      },
+      {
+        "ref": "EP16:E35",
+        "segment_index": 0,
+        "relative_start_ms": 1200,
+        "relative_end_ms": 4000,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander lifts the thug onto his tiptoes against the cottage wall, glaring with lethal intensity."
+      },
+      {
+        "ref": "EP16:E36",
+        "segment_index": 0,
+        "relative_start_ms": 2500,
+        "relative_end_ms": 4000,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Who sent you?\""
+      },
+      {
+        "ref": "EP16:E38",
+        "segment_index": 0,
+        "relative_start_ms": 4200,
+        "relative_end_ms": 5300,
+        "type": "dialogue",
+        "speaker": "THUG WITH CAP",
+        "text": "\"No one!\""
+      },
+      {
+        "ref": "EP16:E37",
+        "segment_index": 0,
+        "relative_start_ms": 4200,
+        "relative_end_ms": 6200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of the Thug with Cap gagging under Alexander's iron fist."
+      },
+      {
+        "ref": "EP16:E39",
+        "segment_index": 0,
+        "relative_start_ms": 6200,
+        "relative_end_ms": 8500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander, his eyes darkening with lethal fury."
+      },
+      {
+        "ref": "EP16:E40",
+        "segment_index": 0,
+        "relative_start_ms": 6300,
+        "relative_end_ms": 7400,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Wrong answer.\""
+      },
+      {
+        "ref": "EP16:E41",
+        "segment_index": 0,
+        "relative_start_ms": 8000,
+        "relative_end_ms": 10000,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander tightens his grip on the thug's throat, lifting him higher against the stone wall."
+      },
+      {
+        "ref": "EP16:E42",
+        "segment_index": 0,
+        "relative_start_ms": 8800,
+        "relative_end_ms": 9600,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Who?!\""
+      },
+      {
+        "ref": "EP16:E44",
+        "segment_index": 0,
+        "relative_start_ms": 9800,
+        "relative_end_ms": 12200,
+        "type": "dialogue",
+        "speaker": "THUG WITH CAP",
+        "text": "\"Harrington! Gerald Harrington paid us!\""
+      },
+      {
+        "ref": "EP16:E43",
+        "segment_index": 0,
+        "relative_start_ms": 9800,
+        "relative_end_ms": 12800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of the terrified thug gasping for air, his eyes bulging."
+      },
+      {
+        "ref": "EP16:E45",
+        "segment_index": 0,
+        "relative_start_ms": 12800,
+        "relative_end_ms": 15200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana on the ground, reeling in devastated disbelief as the betrayal hits her."
+      },
+      {
+        "ref": "EP16:E46",
+        "segment_index": 0,
+        "relative_start_ms": 13200,
+        "relative_end_ms": 14400,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Gerald...\""
+      },
+      {
+        "ref": "EP16:E47",
+        "segment_index": 0,
+        "relative_start_ms": 15200,
+        "relative_end_ms": 19000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium wide shot as Alexander releases the thug, sending him tumbling into the ruined flowerbeds."
+      },
+      {
+        "ref": "EP16:E48",
+        "segment_index": 0,
+        "relative_start_ms": 15500,
+        "relative_end_ms": 18500,
+        "type": "action",
+        "speaker": null,
+        "text": "The Thug with Cap scrambles to his feet and sprints into the dark woods alongside his two limping accomplices."
+      },
+      {
+        "ref": "EP16:E49",
+        "segment_index": 0,
+        "relative_start_ms": 16000,
+        "relative_end_ms": 18200,
+        "type": "dialogue",
+        "speaker": "THUG WITH CAP",
+        "text": "\"We were only paid to destroy the garden, that's all!\""
+      },
+      {
+        "ref": "EP16:E50",
+        "segment_index": 0,
+        "relative_start_ms": 19000,
+        "relative_end_ms": 23000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Alexander's hand hanging by his coat. Fresh blood trickles from his split knuckles, and he slowly curls his fingers into a tight fist."
+      },
+      {
+        "ref": "EP16:E51",
+        "segment_index": 0,
+        "relative_start_ms": 20000,
+        "relative_end_ms": 23000,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander flexes his bleeding hand, showing no sign of pain."
+      },
+      {
+        "ref": "EP16:E52",
+        "segment_index": 0,
+        "relative_start_ms": 23000,
+        "relative_end_ms": 26500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as Juliana gingerly rises to her feet, stepping toward Alexander with deep awe and wonder in her eyes."
+      },
+      {
+        "ref": "EP16:E53",
+        "segment_index": 0,
+        "relative_start_ms": 24200,
+        "relative_end_ms": 26200,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You knew exactly what to do.\""
+      },
+      {
+        "ref": "EP16:E54",
+        "segment_index": 0,
+        "relative_start_ms": 26500,
+        "relative_end_ms": 30500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana looking up at him, searching his scarred face."
+      },
+      {
+        "ref": "EP16:E55",
+        "segment_index": 0,
+        "relative_start_ms": 27800,
+        "relative_end_ms": 30200,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You fought like you've done this a hundred times.\""
+      },
+      {
+        "ref": "EP16:E56",
+        "segment_index": 0,
+        "relative_start_ms": 30500,
+        "relative_end_ms": 34200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Alexander turning his profile away, shadowed by haunted memories of his past."
+      },
+      {
+        "ref": "EP16:E57",
+        "segment_index": 0,
+        "relative_start_ms": 31000,
+        "relative_end_ms": 34000,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"A soldier learns things he wishes he could forget.\""
+      },
+      {
+        "ref": "EP16:E58",
+        "segment_index": 0,
+        "relative_start_ms": 34200,
+        "relative_end_ms": 36800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana softening with deep empathy as her eyes drop to his bleeding knuckle."
+      },
+      {
+        "ref": "EP16:E59",
+        "segment_index": 0,
+        "relative_start_ms": 34800,
+        "relative_end_ms": 35800,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Are you hurt?\""
+      },
+      {
+        "ref": "EP16:E60",
+        "segment_index": 0,
+        "relative_start_ms": 36000,
+        "relative_end_ms": 37500,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana reaches out toward his injured hand with delicate concern."
+      },
+      {
+        "ref": "EP16:E61",
+        "segment_index": 0,
+        "relative_start_ms": 36800,
+        "relative_end_ms": 43190,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Alexander and Juliana standing face-to-face in the moonlit garden, framed against the dark night."
+      },
+      {
+        "ref": "EP16:E62",
+        "segment_index": 0,
+        "relative_start_ms": 37800,
+        "relative_end_ms": 38800,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"No.\""
+      },
+      {
+        "ref": "EP16:E63",
+        "segment_index": 0,
+        "relative_start_ms": 38800,
+        "relative_end_ms": 43190,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander and Juliana gaze deeply into each other's eyes, an unspoken bond forming between them as the ruined garden lies silent beneath the moon."
+      },
+      {
+        "ref": "EP16:E64",
+        "segment_index": 0,
+        "relative_start_ms": 40000,
+        "relative_end_ms": 43190,
+        "type": "sound",
+        "speaker": null,
+        "text": "Slow, resonant emotional cello melody swelling to a dramatic cliffhanger hold."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_26918d00e903ac92",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 47400,
+        "end_ms": 83190,
+        "episode_id": "ep_016"
+      }
+    ],
+    "duration_ms": 35790,
+    "origin": "ep016_opp03",
+    "clip_events": [
+      {
+        "ref": "EP16:E39",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Alexander, his eyes darkening with lethal fury."
+      },
+      {
+        "ref": "EP16:E41",
+        "segment_index": 0,
+        "relative_start_ms": 600,
+        "relative_end_ms": 2600,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander tightens his grip on the thug's throat, lifting him higher against the stone wall."
+      },
+      {
+        "ref": "EP16:E42",
+        "segment_index": 0,
+        "relative_start_ms": 1400,
+        "relative_end_ms": 2200,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Who?!\""
+      },
+      {
+        "ref": "EP16:E44",
+        "segment_index": 0,
+        "relative_start_ms": 2400,
+        "relative_end_ms": 4800,
+        "type": "dialogue",
+        "speaker": "THUG WITH CAP",
+        "text": "\"Harrington! Gerald Harrington paid us!\""
+      },
+      {
+        "ref": "EP16:E43",
+        "segment_index": 0,
+        "relative_start_ms": 2400,
+        "relative_end_ms": 5400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Extreme close-up of the terrified thug gasping for air, his eyes bulging."
+      },
+      {
+        "ref": "EP16:E45",
+        "segment_index": 0,
+        "relative_start_ms": 5400,
+        "relative_end_ms": 7800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana on the ground, reeling in devastated disbelief as the betrayal hits her."
+      },
+      {
+        "ref": "EP16:E46",
+        "segment_index": 0,
+        "relative_start_ms": 5800,
+        "relative_end_ms": 7000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Gerald...\""
+      },
+      {
+        "ref": "EP16:E47",
+        "segment_index": 0,
+        "relative_start_ms": 7800,
+        "relative_end_ms": 11600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium wide shot as Alexander releases the thug, sending him tumbling into the ruined flowerbeds."
+      },
+      {
+        "ref": "EP16:E48",
+        "segment_index": 0,
+        "relative_start_ms": 8100,
+        "relative_end_ms": 11100,
+        "type": "action",
+        "speaker": null,
+        "text": "The Thug with Cap scrambles to his feet and sprints into the dark woods alongside his two limping accomplices."
+      },
+      {
+        "ref": "EP16:E49",
+        "segment_index": 0,
+        "relative_start_ms": 8600,
+        "relative_end_ms": 10800,
+        "type": "dialogue",
+        "speaker": "THUG WITH CAP",
+        "text": "\"We were only paid to destroy the garden, that's all!\""
+      },
+      {
+        "ref": "EP16:E50",
+        "segment_index": 0,
+        "relative_start_ms": 11600,
+        "relative_end_ms": 15600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Alexander's hand hanging by his coat. Fresh blood trickles from his split knuckles, and he slowly curls his fingers into a tight fist."
+      },
+      {
+        "ref": "EP16:E51",
+        "segment_index": 0,
+        "relative_start_ms": 12600,
+        "relative_end_ms": 15600,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander flexes his bleeding hand, showing no sign of pain."
+      },
+      {
+        "ref": "EP16:E52",
+        "segment_index": 0,
+        "relative_start_ms": 15600,
+        "relative_end_ms": 19100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as Juliana gingerly rises to her feet, stepping toward Alexander with deep awe and wonder in her eyes."
+      },
+      {
+        "ref": "EP16:E53",
+        "segment_index": 0,
+        "relative_start_ms": 16800,
+        "relative_end_ms": 18800,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You knew exactly what to do.\""
+      },
+      {
+        "ref": "EP16:E54",
+        "segment_index": 0,
+        "relative_start_ms": 19100,
+        "relative_end_ms": 23100,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana looking up at him, searching his scarred face."
+      },
+      {
+        "ref": "EP16:E55",
+        "segment_index": 0,
+        "relative_start_ms": 20400,
+        "relative_end_ms": 22800,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You fought like you've done this a hundred times.\""
+      },
+      {
+        "ref": "EP16:E56",
+        "segment_index": 0,
+        "relative_start_ms": 23100,
+        "relative_end_ms": 26800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Alexander turning his profile away, shadowed by haunted memories of his past."
+      },
+      {
+        "ref": "EP16:E57",
+        "segment_index": 0,
+        "relative_start_ms": 23600,
+        "relative_end_ms": 26600,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"A soldier learns things he wishes he could forget.\""
+      },
+      {
+        "ref": "EP16:E58",
+        "segment_index": 0,
+        "relative_start_ms": 26800,
+        "relative_end_ms": 29400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana softening with deep empathy as her eyes drop to his bleeding knuckle."
+      },
+      {
+        "ref": "EP16:E59",
+        "segment_index": 0,
+        "relative_start_ms": 27400,
+        "relative_end_ms": 28400,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Are you hurt?\""
+      },
+      {
+        "ref": "EP16:E60",
+        "segment_index": 0,
+        "relative_start_ms": 28600,
+        "relative_end_ms": 30100,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana reaches out toward his injured hand with delicate concern."
+      },
+      {
+        "ref": "EP16:E61",
+        "segment_index": 0,
+        "relative_start_ms": 29400,
+        "relative_end_ms": 35790,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Alexander and Juliana standing face-to-face in the moonlit garden, framed against the dark night."
+      },
+      {
+        "ref": "EP16:E62",
+        "segment_index": 0,
+        "relative_start_ms": 30400,
+        "relative_end_ms": 31400,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"No.\""
+      },
+      {
+        "ref": "EP16:E63",
+        "segment_index": 0,
+        "relative_start_ms": 31400,
+        "relative_end_ms": 35790,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander and Juliana gaze deeply into each other's eyes, an unspoken bond forming between them as the ruined garden lies silent beneath the moon."
+      },
+      {
+        "ref": "EP16:E64",
+        "segment_index": 0,
+        "relative_start_ms": 32600,
+        "relative_end_ms": 35790,
+        "type": "sound",
+        "speaker": null,
+        "text": "Slow, resonant emotional cello melody swelling to a dramatic cliffhanger hold."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_94444b1e6d2526d7",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 53200,
+        "end_ms": 83190,
+        "episode_id": "ep_016"
+      }
+    ],
+    "duration_ms": 29990,
+    "origin": "ep016_opp04",
+    "clip_events": [
+      {
+        "ref": "EP16:E45",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 2000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana on the ground, reeling in devastated disbelief as the betrayal hits her."
+      },
+      {
+        "ref": "EP16:E46",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1200,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Gerald...\""
+      },
+      {
+        "ref": "EP16:E47",
+        "segment_index": 0,
+        "relative_start_ms": 2000,
+        "relative_end_ms": 5800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium wide shot as Alexander releases the thug, sending him tumbling into the ruined flowerbeds."
+      },
+      {
+        "ref": "EP16:E48",
+        "segment_index": 0,
+        "relative_start_ms": 2300,
+        "relative_end_ms": 5300,
+        "type": "action",
+        "speaker": null,
+        "text": "The Thug with Cap scrambles to his feet and sprints into the dark woods alongside his two limping accomplices."
+      },
+      {
+        "ref": "EP16:E49",
+        "segment_index": 0,
+        "relative_start_ms": 2800,
+        "relative_end_ms": 5000,
+        "type": "dialogue",
+        "speaker": "THUG WITH CAP",
+        "text": "\"We were only paid to destroy the garden, that's all!\""
+      },
+      {
+        "ref": "EP16:E50",
+        "segment_index": 0,
+        "relative_start_ms": 5800,
+        "relative_end_ms": 9800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Alexander's hand hanging by his coat. Fresh blood trickles from his split knuckles, and he slowly curls his fingers into a tight fist."
+      },
+      {
+        "ref": "EP16:E51",
+        "segment_index": 0,
+        "relative_start_ms": 6800,
+        "relative_end_ms": 9800,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander flexes his bleeding hand, showing no sign of pain."
+      },
+      {
+        "ref": "EP16:E52",
+        "segment_index": 0,
+        "relative_start_ms": 9800,
+        "relative_end_ms": 13300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot as Juliana gingerly rises to her feet, stepping toward Alexander with deep awe and wonder in her eyes."
+      },
+      {
+        "ref": "EP16:E53",
+        "segment_index": 0,
+        "relative_start_ms": 11000,
+        "relative_end_ms": 13000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You knew exactly what to do.\""
+      },
+      {
+        "ref": "EP16:E54",
+        "segment_index": 0,
+        "relative_start_ms": 13300,
+        "relative_end_ms": 17300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana looking up at him, searching his scarred face."
+      },
+      {
+        "ref": "EP16:E55",
+        "segment_index": 0,
+        "relative_start_ms": 14600,
+        "relative_end_ms": 17000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You fought like you've done this a hundred times.\""
+      },
+      {
+        "ref": "EP16:E56",
+        "segment_index": 0,
+        "relative_start_ms": 17300,
+        "relative_end_ms": 21000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Alexander turning his profile away, shadowed by haunted memories of his past."
+      },
+      {
+        "ref": "EP16:E57",
+        "segment_index": 0,
+        "relative_start_ms": 17800,
+        "relative_end_ms": 20800,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"A soldier learns things he wishes he could forget.\""
+      },
+      {
+        "ref": "EP16:E58",
+        "segment_index": 0,
+        "relative_start_ms": 21000,
+        "relative_end_ms": 23600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana softening with deep empathy as her eyes drop to his bleeding knuckle."
+      },
+      {
+        "ref": "EP16:E59",
+        "segment_index": 0,
+        "relative_start_ms": 21600,
+        "relative_end_ms": 22600,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Are you hurt?\""
+      },
+      {
+        "ref": "EP16:E60",
+        "segment_index": 0,
+        "relative_start_ms": 22800,
+        "relative_end_ms": 24300,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana reaches out toward his injured hand with delicate concern."
+      },
+      {
+        "ref": "EP16:E61",
+        "segment_index": 0,
+        "relative_start_ms": 23600,
+        "relative_end_ms": 29990,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Alexander and Juliana standing face-to-face in the moonlit garden, framed against the dark night."
+      },
+      {
+        "ref": "EP16:E62",
+        "segment_index": 0,
+        "relative_start_ms": 24600,
+        "relative_end_ms": 25600,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"No.\""
+      },
+      {
+        "ref": "EP16:E63",
+        "segment_index": 0,
+        "relative_start_ms": 25600,
+        "relative_end_ms": 29990,
+        "type": "action",
+        "speaker": null,
+        "text": "Alexander and Juliana gaze deeply into each other's eyes, an unspoken bond forming between them as the ruined garden lies silent beneath the moon."
+      },
+      {
+        "ref": "EP16:E64",
+        "segment_index": 0,
+        "relative_start_ms": 26800,
+        "relative_end_ms": 29990,
+        "type": "sound",
+        "speaker": null,
+        "text": "Slow, resonant emotional cello melody swelling to a dramatic cliffhanger hold."
+      }
+    ]
+  }
+]

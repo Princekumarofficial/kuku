@@ -1,0 +1,656 @@
+[
+  {
+    "candidate_id": "c_72c50696b7fb496e",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 54800,
+        "end_ms": 83400,
+        "episode_id": "ep_047"
+      }
+    ],
+    "duration_ms": 28600,
+    "origin": "ep047_opp01",
+    "clip_events": [
+      {
+        "ref": "EP47:E25",
+        "segment_index": 0,
+        "relative_start_ms": 700,
+        "relative_end_ms": 2000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide establishing shot of the rain-drenched cobblestone courtyard surrounded by imposing Gothic arches."
+      },
+      {
+        "ref": "EP47:E27",
+        "segment_index": 0,
+        "relative_start_ms": 2000,
+        "relative_end_ms": 5000,
+        "type": "dialogue",
+        "speaker": "LADY ASHBOURNE",
+        "text": "\"You dare show your face in Ashbourne courtyard?\""
+      },
+      {
+        "ref": "EP47:E26",
+        "segment_index": 0,
+        "relative_start_ms": 2000,
+        "relative_end_ms": 5200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Lady Ashbourne leaning heavily on her walking cane, glaring down at Catherine who kneels in the mud."
+      },
+      {
+        "ref": "EP47:E28",
+        "segment_index": 0,
+        "relative_start_ms": 5200,
+        "relative_end_ms": 8700,
+        "type": "camera",
+        "speaker": null,
+        "text": "High-angle shot looking down at Catherine in her disheveled burgundy gown, clutching her skirts and weeping profusely."
+      },
+      {
+        "ref": "EP47:E29",
+        "segment_index": 0,
+        "relative_start_ms": 5700,
+        "relative_end_ms": 8600,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"I have nowhere to go, Your Grace.\""
+      },
+      {
+        "ref": "EP47:E31",
+        "segment_index": 0,
+        "relative_start_ms": 8700,
+        "relative_end_ms": 12000,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"London closed its doors! My family disowned me!\""
+      },
+      {
+        "ref": "EP47:E30",
+        "segment_index": 0,
+        "relative_start_ms": 8700,
+        "relative_end_ms": 12200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle shot tracking Catherine clutching her chest in agony."
+      },
+      {
+        "ref": "EP47:E32",
+        "segment_index": 0,
+        "relative_start_ms": 12200,
+        "relative_end_ms": 16700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Lady Ashbourne, her gloved hand resting on her cane as she delivers her cold judgment."
+      },
+      {
+        "ref": "EP47:E33",
+        "segment_index": 0,
+        "relative_start_ms": 12400,
+        "relative_end_ms": 16400,
+        "type": "dialogue",
+        "speaker": "LADY ASHBOURNE",
+        "text": "\"She aided the poison in my veins. Cast her into the road.\""
+      },
+      {
+        "ref": "EP47:E34",
+        "segment_index": 0,
+        "relative_start_ms": 16700,
+        "relative_end_ms": 20000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Vaughn drawing his baton, ready to seize Catherine from behind."
+      },
+      {
+        "ref": "EP47:E35",
+        "segment_index": 0,
+        "relative_start_ms": 17000,
+        "relative_end_ms": 20000,
+        "type": "dialogue",
+        "speaker": "VAUGHN",
+        "text": "\"One command, Your Grace, and I drag her past the gates.\""
+      },
+      {
+        "ref": "EP47:E36",
+        "segment_index": 0,
+        "relative_start_ms": 20000,
+        "relative_end_ms": 24000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot as Alexander strides purposefully into the courtyard alongside Juliana, his coat billowing behind him."
+      },
+      {
+        "ref": "EP47:E37",
+        "segment_index": 0,
+        "relative_start_ms": 20400,
+        "relative_end_ms": 23700,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Do it, Vaughn! Throw her past the estate perimeter!\""
+      },
+      {
+        "ref": "EP47:E38",
+        "segment_index": 0,
+        "relative_start_ms": 24000,
+        "relative_end_ms": 27000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Catherine collapsed on the wet stones, looking up with tear-streaked panic."
+      },
+      {
+        "ref": "EP47:E39",
+        "segment_index": 0,
+        "relative_start_ms": 24000,
+        "relative_end_ms": 27000,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Please, Alexander! Have mercy!\""
+      },
+      {
+        "ref": "EP47:E40",
+        "segment_index": 0,
+        "relative_start_ms": 27000,
+        "relative_end_ms": 28600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana raising her right hand firmly to halt the guard."
+      },
+      {
+        "ref": "EP47:E41",
+        "segment_index": 0,
+        "relative_start_ms": 27400,
+        "relative_end_ms": 28600,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Stop.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_ba4503fd4f1cb104",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 95000,
+        "end_ms": 127200,
+        "episode_id": "ep_047"
+      }
+    ],
+    "duration_ms": 32200,
+    "origin": "ep047_opp02",
+    "clip_events": [
+      {
+        "ref": "EP47:E50",
+        "segment_index": 0,
+        "relative_start_ms": 500,
+        "relative_end_ms": 3800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Catherine's face turning from despair to offended shock."
+      },
+      {
+        "ref": "EP47:E51",
+        "segment_index": 0,
+        "relative_start_ms": 1000,
+        "relative_end_ms": 3800,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"You want me? As a guest?\""
+      },
+      {
+        "ref": "EP47:E52",
+        "segment_index": 0,
+        "relative_start_ms": 3800,
+        "relative_end_ms": 6200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana staring straight into Catherine's eyes without blinking."
+      },
+      {
+        "ref": "EP47:E53",
+        "segment_index": 0,
+        "relative_start_ms": 4200,
+        "relative_end_ms": 6000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"As a scullery maid.\""
+      },
+      {
+        "ref": "EP47:E54",
+        "segment_index": 0,
+        "relative_start_ms": 6200,
+        "relative_end_ms": 9800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Catherine recoiling in disgust, looking around at the gathered estate retainers."
+      },
+      {
+        "ref": "EP47:E55",
+        "segment_index": 0,
+        "relative_start_ms": 6500,
+        "relative_end_ms": 9500,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"You expect me to scrub floors before these commoners?\""
+      },
+      {
+        "ref": "EP47:E56",
+        "segment_index": 0,
+        "relative_start_ms": 9800,
+        "relative_end_ms": 13500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Dramatic profile two-shot of Juliana standing inches away from Catherine, dominating the confrontation."
+      },
+      {
+        "ref": "EP47:E57",
+        "segment_index": 0,
+        "relative_start_ms": 10200,
+        "relative_end_ms": 13500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You will scrub the floors you walked on as an impostor.\""
+      },
+      {
+        "ref": "EP47:E58",
+        "segment_index": 0,
+        "relative_start_ms": 13500,
+        "relative_end_ms": 16500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Juliana extends the ring of iron keys outward in her fist."
+      },
+      {
+        "ref": "EP47:E59",
+        "segment_index": 0,
+        "relative_start_ms": 13800,
+        "relative_end_ms": 16500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You will scrub the manor hearths at dawn.\""
+      },
+      {
+        "ref": "EP47:E60",
+        "segment_index": 0,
+        "relative_start_ms": 16500,
+        "relative_end_ms": 19500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close profile two-shot of the two women locked in an intense psychological battle."
+      },
+      {
+        "ref": "EP47:E61",
+        "segment_index": 0,
+        "relative_start_ms": 16800,
+        "relative_end_ms": 19500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You will scour the kitchen grease until midnight.\""
+      },
+      {
+        "ref": "EP47:E62",
+        "segment_index": 0,
+        "relative_start_ms": 19500,
+        "relative_end_ms": 23500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Juliana presents the rough hemp apron and heavy keys right to Catherine's face."
+      },
+      {
+        "ref": "EP47:E63",
+        "segment_index": 0,
+        "relative_start_ms": 19800,
+        "relative_end_ms": 23500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"One complaint from the housekeeper, and you are cast out with nothing.\""
+      },
+      {
+        "ref": "EP47:E64",
+        "segment_index": 0,
+        "relative_start_ms": 23500,
+        "relative_end_ms": 26800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Catherine's trembling lips, humiliated tears spilling down her heavily made-up cheeks."
+      },
+      {
+        "ref": "EP47:E65",
+        "segment_index": 0,
+        "relative_start_ms": 24200,
+        "relative_end_ms": 26600,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"You humiliate me.\""
+      },
+      {
+        "ref": "EP47:E66",
+        "segment_index": 0,
+        "relative_start_ms": 26800,
+        "relative_end_ms": 32200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of both women standing beneath the cathedral vaulting of the hall."
+      },
+      {
+        "ref": "EP47:E67",
+        "segment_index": 0,
+        "relative_start_ms": 27200,
+        "relative_end_ms": 32200,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I offer you bread and honest labor. Take the apron, or leave the county.\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_d0ce6f11cf86ed8a",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 0,
+        "end_ms": 30300,
+        "episode_id": "ep_047"
+      }
+    ],
+    "duration_ms": 30300,
+    "origin": "ep047_opp03",
+    "clip_events": [
+      {
+        "ref": "EP47:E1",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle focus on a dripping candle burning on a wooden table beside a dark window looking out into the misty night."
+      },
+      {
+        "ref": "EP47:E3",
+        "segment_index": 0,
+        "relative_start_ms": 1800,
+        "relative_end_ms": 8200,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Rupert is rotting in the undercroft cells. Not me. I intend to stay on this estate.\""
+      },
+      {
+        "ref": "EP47:E2",
+        "segment_index": 0,
+        "relative_start_ms": 1800,
+        "relative_end_ms": 8500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Catherine in a lace nightgown and lilac robe, holding a goblet of red wine with cold determination."
+      },
+      {
+        "ref": "EP47:E4",
+        "segment_index": 0,
+        "relative_start_ms": 8500,
+        "relative_end_ms": 14800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Two-shot framing Catherine in the background with a muscular, bare-chested conspirator standing in shadow beside her."
+      },
+      {
+        "ref": "EP47:E5",
+        "segment_index": 0,
+        "relative_start_ms": 8800,
+        "relative_end_ms": 14500,
+        "type": "dialogue",
+        "speaker": "CONSPIRATOR",
+        "text": "\"Alexander will scour the grounds at first light. The High Council has already blocked the marriage registry.\""
+      },
+      {
+        "ref": "EP47:E6",
+        "segment_index": 0,
+        "relative_start_ms": 14800,
+        "relative_end_ms": 18300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up profile of Catherine leaning close to the man's shoulder, her eyes burning with ambition."
+      },
+      {
+        "ref": "EP47:E7",
+        "segment_index": 0,
+        "relative_start_ms": 15000,
+        "relative_end_ms": 18200,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Then you will make sure I remain inside these walls.\""
+      },
+      {
+        "ref": "EP47:E8",
+        "segment_index": 0,
+        "relative_start_ms": 18300,
+        "relative_end_ms": 21500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Silhouette shot against the tall arched window as Catherine turns her back to him."
+      },
+      {
+        "ref": "EP47:E9",
+        "segment_index": 0,
+        "relative_start_ms": 18500,
+        "relative_end_ms": 21200,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Keep the council paralyzed. I will do the rest.\""
+      },
+      {
+        "ref": "EP47:E10",
+        "segment_index": 0,
+        "relative_start_ms": 21500,
+        "relative_end_ms": 23200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Atmospheric wide pan across the spacious master bedroom, daylight spilling softly through tall Gothic windows onto the hearth fire."
+      },
+      {
+        "ref": "EP47:E11",
+        "segment_index": 0,
+        "relative_start_ms": 23200,
+        "relative_end_ms": 26500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Alexander and Juliana sitting together on the edge of the velvet bed, dressed in morning robes."
+      },
+      {
+        "ref": "EP47:E12",
+        "segment_index": 0,
+        "relative_start_ms": 23400,
+        "relative_end_ms": 26800,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"What if Father Thomas sways the High Council?\""
+      },
+      {
+        "ref": "EP47:E13",
+        "segment_index": 0,
+        "relative_start_ms": 26500,
+        "relative_end_ms": 30300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana's distressed face, tears shimmering in her eyes as she looks up at Alexander."
+      },
+      {
+        "ref": "EP47:E14",
+        "segment_index": 0,
+        "relative_start_ms": 27000,
+        "relative_end_ms": 30300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"What if they strip your title? Because of me?\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_fc7cad487494e7ea",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 71200,
+        "end_ms": 95000,
+        "episode_id": "ep_047"
+      }
+    ],
+    "duration_ms": 23800,
+    "origin": "recovery_b6",
+    "clip_events": [
+      {
+        "ref": "EP47:E32",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Lady Ashbourne, her gloved hand resting on her cane as she delivers her cold judgment."
+      },
+      {
+        "ref": "EP47:E34",
+        "segment_index": 0,
+        "relative_start_ms": 300,
+        "relative_end_ms": 3600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Vaughn drawing his baton, ready to seize Catherine from behind."
+      },
+      {
+        "ref": "EP47:E35",
+        "segment_index": 0,
+        "relative_start_ms": 600,
+        "relative_end_ms": 3600,
+        "type": "dialogue",
+        "speaker": "VAUGHN",
+        "text": "\"One command, Your Grace, and I drag her past the gates.\""
+      },
+      {
+        "ref": "EP47:E36",
+        "segment_index": 0,
+        "relative_start_ms": 3600,
+        "relative_end_ms": 7600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot as Alexander strides purposefully into the courtyard alongside Juliana, his coat billowing behind him."
+      },
+      {
+        "ref": "EP47:E37",
+        "segment_index": 0,
+        "relative_start_ms": 4000,
+        "relative_end_ms": 7300,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Do it, Vaughn! Throw her past the estate perimeter!\""
+      },
+      {
+        "ref": "EP47:E38",
+        "segment_index": 0,
+        "relative_start_ms": 7600,
+        "relative_end_ms": 10600,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Catherine collapsed on the wet stones, looking up with tear-streaked panic."
+      },
+      {
+        "ref": "EP47:E39",
+        "segment_index": 0,
+        "relative_start_ms": 7600,
+        "relative_end_ms": 10600,
+        "type": "dialogue",
+        "speaker": "CATHERINE",
+        "text": "\"Please, Alexander! Have mercy!\""
+      },
+      {
+        "ref": "EP47:E40",
+        "segment_index": 0,
+        "relative_start_ms": 10600,
+        "relative_end_ms": 12300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Juliana raising her right hand firmly to halt the guard."
+      },
+      {
+        "ref": "EP47:E41",
+        "segment_index": 0,
+        "relative_start_ms": 11000,
+        "relative_end_ms": 12200,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"Stop.\""
+      },
+      {
+        "ref": "EP47:E42",
+        "segment_index": 0,
+        "relative_start_ms": 12300,
+        "relative_end_ms": 15300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Alexander turning toward Juliana in sheer disbelief."
+      },
+      {
+        "ref": "EP47:E43",
+        "segment_index": 0,
+        "relative_start_ms": 12800,
+        "relative_end_ms": 15300,
+        "type": "dialogue",
+        "speaker": "ALEXANDER",
+        "text": "\"Juliana, she tried to destroy you!\""
+      },
+      {
+        "ref": "EP47:E44",
+        "segment_index": 0,
+        "relative_start_ms": 15300,
+        "relative_end_ms": 16800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana maintaining serene poise."
+      },
+      {
+        "ref": "EP47:E45",
+        "segment_index": 0,
+        "relative_start_ms": 15500,
+        "relative_end_ms": 16600,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"She did.\""
+      },
+      {
+        "ref": "EP47:E46",
+        "segment_index": 0,
+        "relative_start_ms": 16800,
+        "relative_end_ms": 19800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium tracking shot as Juliana steps gracefully past Alexander toward Catherine."
+      },
+      {
+        "ref": "EP47:E47",
+        "segment_index": 0,
+        "relative_start_ms": 17000,
+        "relative_end_ms": 19800,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"But Ashbourne does not throw beggars into the mud.\""
+      },
+      {
+        "ref": "EP47:E48",
+        "segment_index": 0,
+        "relative_start_ms": 19800,
+        "relative_end_ms": 23800,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana walks to a side bench, picks up a rough servant's apron and a heavy iron ring of keys, and turns back to face Catherine."
+      },
+      {
+        "ref": "EP47:E49",
+        "segment_index": 0,
+        "relative_start_ms": 20300,
+        "relative_end_ms": 23800,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"If you seek shelter in this house, Catherine, you earn it.\""
+      }
+    ]
+  }
+]

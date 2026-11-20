@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c_d0fd4eeddc4f03dc",
+  "hook": {
+    "score_0_10": 8.0,
+    "evidence_refs": [
+      "EP02:E2",
+      "EP02:E1"
+    ],
+    "reason": "The opening line 'I cannot marry you, Juliana.' lands within 0-2500ms over a dismissive low-angle shot of Gerald and a gloating Clarissa, creating an immediate public humiliation stakes question."
+  },
+  "cliffhanger": {
+    "score_0_10": 5.0,
+    "evidence_refs": [
+      "EP02:E16",
+      "EP02:E17"
+    ],
+    "reason": "The final 3000ms show Gerald standing beside Clarissa before the priest and declaring 'Promises change when a better choice appears', so his choice is stated and the clip ends on a wedding with Juliana's plea and the pendant's meaning left unanswered; the emotional outcome for Juliana remains open.",
+    "unresolved_at_end": true
+  },
+  "standalone": {
+    "score_0_10": 5.0,
+    "missing_context": [
+      "Relationship history between Juliana and Gerald and what 'your word before both our families' refers to",
+      "Who Clarissa is and why she is gloating",
+      "Why the heirloom amethyst pendant matters",
+      "Whether the wedding is being halted or proceeding and the outcome for Juliana",
+      "Meaning of 'EP02' and what happened in episode 1"
+    ]
+  },
+  "emotion": {
+    "score_0_10": 8.0,
+    "reason": "Juliana's trembling disbelief, tearful heartbreak and Gerald's cruel insults create strong sympathy and anger within the clip."
+  },
+  "weaknesses": [
+    "Clip depends on unstated backstory for the promise and the pendant, weakening standalone clarity",
+    "Juliana's final reaction is not shown, so the ending may feel abrupt rather than a deliberate hook",
+    "Gerald's insults are repetitive and the characterization of Clarissa is thin",
+    "Lack of visual or dialogue cue indicating what happens next limits curiosity beyond the immediate betrayal"
+  ],
+  "one_line_why_it_works": "A public rejection at the altar delivers an immediate, emotionally charged hook and ends on the groom's cruel decision, leaving Juliana's response and the broader conflict open."
+}

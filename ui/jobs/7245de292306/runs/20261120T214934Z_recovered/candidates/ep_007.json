@@ -1,0 +1,683 @@
+[
+  {
+    "candidate_id": "c_55f2d9316ba29ac6",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 19500,
+        "end_ms": 69500,
+        "episode_id": "ep_007"
+      }
+    ],
+    "duration_ms": 50000,
+    "origin": "opp_1",
+    "clip_events": [
+      {
+        "ref": "EP07:E7",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1500,
+        "type": "action",
+        "speaker": null,
+        "text": "Aristocratic Woman smirks cruelly as she surveys the humble stone cottage."
+      },
+      {
+        "ref": "EP07:E8",
+        "segment_index": 0,
+        "relative_start_ms": 1500,
+        "relative_end_ms": 4500,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana rinses the heavy mud from her hands in a cold rainwater puddle and rises to her feet, holding her head high."
+      },
+      {
+        "ref": "EP07:E9",
+        "segment_index": 0,
+        "relative_start_ms": 2500,
+        "relative_end_ms": 5000,
+        "type": "dialogue",
+        "speaker": "ARISTOCRATIC WOMAN",
+        "text": "\"This is where you live now?\""
+      },
+      {
+        "ref": "EP07:E10",
+        "segment_index": 0,
+        "relative_start_ms": 5000,
+        "relative_end_ms": 10300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Gerald standing beside Aristocratic Woman, sneering disdainfully."
+      },
+      {
+        "ref": "EP07:E11",
+        "segment_index": 0,
+        "relative_start_ms": 5500,
+        "relative_end_ms": 10300,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"A fitting home for a woman who threw away everything for a penniless soldier.\""
+      },
+      {
+        "ref": "EP07:E12",
+        "segment_index": 0,
+        "relative_start_ms": 10300,
+        "relative_end_ms": 13300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana, defiant and unflinching despite her soiled dress and damp hair."
+      },
+      {
+        "ref": "EP07:E13",
+        "segment_index": 0,
+        "relative_start_ms": 10500,
+        "relative_end_ms": 13100,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You came all this way just to insult my home?\""
+      },
+      {
+        "ref": "EP07:E14",
+        "segment_index": 0,
+        "relative_start_ms": 13300,
+        "relative_end_ms": 18000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Aristocratic Woman erupting into high-pitched, malicious laughter beneath her parasol."
+      },
+      {
+        "ref": "EP07:E15",
+        "segment_index": 0,
+        "relative_start_ms": 13700,
+        "relative_end_ms": 18300,
+        "type": "dialogue",
+        "speaker": "ARISTOCRATIC WOMAN",
+        "text": "\"Home? Look at your hands, Juliana.\""
+      },
+      {
+        "ref": "EP07:E16",
+        "segment_index": 0,
+        "relative_start_ms": 18300,
+        "relative_end_ms": 20300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana's mud-stained palms held open against her apron."
+      },
+      {
+        "ref": "EP07:E17",
+        "segment_index": 0,
+        "relative_start_ms": 18700,
+        "relative_end_ms": 20300,
+        "type": "dialogue",
+        "speaker": "ARISTOCRATIC WOMAN",
+        "text": "\"You look like a servant.\""
+      },
+      {
+        "ref": "EP07:E18",
+        "segment_index": 0,
+        "relative_start_ms": 20300,
+        "relative_end_ms": 21500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Gerald's smug expression watching Juliana."
+      },
+      {
+        "ref": "EP07:E19",
+        "segment_index": 0,
+        "relative_start_ms": 21500,
+        "relative_end_ms": 25500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana lifting her chin with unwavering dignity."
+      },
+      {
+        "ref": "EP07:E20",
+        "segment_index": 0,
+        "relative_start_ms": 21700,
+        "relative_end_ms": 25300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I work with my hands. There is no shame in that.\""
+      },
+      {
+        "ref": "EP07:E21",
+        "segment_index": 0,
+        "relative_start_ms": 25500,
+        "relative_end_ms": 27500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Gerald's tightening jaw."
+      },
+      {
+        "ref": "EP07:E22",
+        "segment_index": 0,
+        "relative_start_ms": 25700,
+        "relative_end_ms": 27300,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"You were born a lady.\""
+      },
+      {
+        "ref": "EP07:E23",
+        "segment_index": 0,
+        "relative_start_ms": 27500,
+        "relative_end_ms": 31300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana's clear blue eyes, shining with unbroken pride."
+      },
+      {
+        "ref": "EP07:E24",
+        "segment_index": 0,
+        "relative_start_ms": 29300,
+        "relative_end_ms": 30900,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"And I remain one.\""
+      },
+      {
+        "ref": "EP07:E25",
+        "segment_index": 0,
+        "relative_start_ms": 31300,
+        "relative_end_ms": 35300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot framing Juliana facing off against Gerald and Aristocratic Woman in the bleak courtyard."
+      },
+      {
+        "ref": "EP07:E26",
+        "segment_index": 0,
+        "relative_start_ms": 32000,
+        "relative_end_ms": 35100,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"You chose that scarred beggar over a life of comfort.\""
+      },
+      {
+        "ref": "EP07:E27",
+        "segment_index": 0,
+        "relative_start_ms": 35300,
+        "relative_end_ms": 42000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Two-shot profile of Juliana looking straight into Gerald's eyes without flinching."
+      },
+      {
+        "ref": "EP07:E28",
+        "segment_index": 0,
+        "relative_start_ms": 38300,
+        "relative_end_ms": 41500,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I chose a man who stood beside me when you walked away.\""
+      },
+      {
+        "ref": "EP07:E29",
+        "segment_index": 0,
+        "relative_start_ms": 42000,
+        "relative_end_ms": 45700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Intense close-up of Juliana dismissing him with utter contempt."
+      },
+      {
+        "ref": "EP07:E30",
+        "segment_index": 0,
+        "relative_start_ms": 42300,
+        "relative_end_ms": 45300,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You have no authority here. Leave.\""
+      },
+      {
+        "ref": "EP07:E31",
+        "segment_index": 0,
+        "relative_start_ms": 45700,
+        "relative_end_ms": 50000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Gerald lunging forward, aggressively pointing his finger into Juliana's face."
+      },
+      {
+        "ref": "EP07:E32",
+        "segment_index": 0,
+        "relative_start_ms": 46100,
+        "relative_end_ms": 49000,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"I have enough influence to make a beggar disappear.\""
+      },
+      {
+        "ref": "EP07:E33",
+        "segment_index": 0,
+        "relative_start_ms": 49100,
+        "relative_end_ms": 50000,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"And your husband?\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_046f76ba91ab2b38",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 44800,
+        "end_ms": 69500,
+        "episode_id": "ep_007"
+      }
+    ],
+    "duration_ms": 24700,
+    "origin": "opp_3",
+    "clip_events": [
+      {
+        "ref": "EP07:E19",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana lifting her chin with unwavering dignity."
+      },
+      {
+        "ref": "EP07:E21",
+        "segment_index": 0,
+        "relative_start_ms": 200,
+        "relative_end_ms": 2200,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Gerald's tightening jaw."
+      },
+      {
+        "ref": "EP07:E22",
+        "segment_index": 0,
+        "relative_start_ms": 400,
+        "relative_end_ms": 2000,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"You were born a lady.\""
+      },
+      {
+        "ref": "EP07:E23",
+        "segment_index": 0,
+        "relative_start_ms": 2200,
+        "relative_end_ms": 6000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up on Juliana's clear blue eyes, shining with unbroken pride."
+      },
+      {
+        "ref": "EP07:E24",
+        "segment_index": 0,
+        "relative_start_ms": 4000,
+        "relative_end_ms": 5600,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"And I remain one.\""
+      },
+      {
+        "ref": "EP07:E25",
+        "segment_index": 0,
+        "relative_start_ms": 6000,
+        "relative_end_ms": 10000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot framing Juliana facing off against Gerald and Aristocratic Woman in the bleak courtyard."
+      },
+      {
+        "ref": "EP07:E26",
+        "segment_index": 0,
+        "relative_start_ms": 6700,
+        "relative_end_ms": 9800,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"You chose that scarred beggar over a life of comfort.\""
+      },
+      {
+        "ref": "EP07:E27",
+        "segment_index": 0,
+        "relative_start_ms": 10000,
+        "relative_end_ms": 16700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Two-shot profile of Juliana looking straight into Gerald's eyes without flinching."
+      },
+      {
+        "ref": "EP07:E28",
+        "segment_index": 0,
+        "relative_start_ms": 13000,
+        "relative_end_ms": 16200,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"I chose a man who stood beside me when you walked away.\""
+      },
+      {
+        "ref": "EP07:E29",
+        "segment_index": 0,
+        "relative_start_ms": 16700,
+        "relative_end_ms": 20400,
+        "type": "camera",
+        "speaker": null,
+        "text": "Intense close-up of Juliana dismissing him with utter contempt."
+      },
+      {
+        "ref": "EP07:E30",
+        "segment_index": 0,
+        "relative_start_ms": 17000,
+        "relative_end_ms": 20000,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You have no authority here. Leave.\""
+      },
+      {
+        "ref": "EP07:E31",
+        "segment_index": 0,
+        "relative_start_ms": 20400,
+        "relative_end_ms": 24700,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Gerald lunging forward, aggressively pointing his finger into Juliana's face."
+      },
+      {
+        "ref": "EP07:E32",
+        "segment_index": 0,
+        "relative_start_ms": 20800,
+        "relative_end_ms": 23700,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"I have enough influence to make a beggar disappear.\""
+      },
+      {
+        "ref": "EP07:E33",
+        "segment_index": 0,
+        "relative_start_ms": 23800,
+        "relative_end_ms": 24700,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"And your husband?\""
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_e47e00c2153ba51d",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 74000,
+        "end_ms": 96500,
+        "episode_id": "ep_007"
+      }
+    ],
+    "duration_ms": 22500,
+    "origin": "recovery_B4",
+    "clip_events": [
+      {
+        "ref": "EP07:E36",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1500,
+        "type": "action",
+        "speaker": null,
+        "text": "The Scarred Bearded Man marches purposefully toward the cottage, carrying a heavy bundle of chopped firewood bound tightly with hemp cord."
+      },
+      {
+        "ref": "EP07:E37",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium tracking shot pushing in on the Scarred Bearded Man's stern, rugged face as he approaches the gate."
+      },
+      {
+        "ref": "EP07:E38",
+        "segment_index": 0,
+        "relative_start_ms": 1500,
+        "relative_end_ms": 4500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low shot of the Scarred Bearded Man bending down and dropping the bundle of logs by the stone wall."
+      },
+      {
+        "ref": "EP07:E39",
+        "segment_index": 0,
+        "relative_start_ms": 2200,
+        "relative_end_ms": 3500,
+        "type": "sound",
+        "speaker": null,
+        "text": "A dull, heavy thud of timber striking the mud."
+      },
+      {
+        "ref": "EP07:E40",
+        "segment_index": 0,
+        "relative_start_ms": 4500,
+        "relative_end_ms": 7000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium full shot as the Scarred Bearded Man straightens to his full imposing height and steps directly toward Gerald."
+      },
+      {
+        "ref": "EP07:E41",
+        "segment_index": 0,
+        "relative_start_ms": 7000,
+        "relative_end_ms": 9500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Two-shot framing the Scarred Bearded Man towering menacingly over Gerald, staring down at him with unyielding intensity."
+      },
+      {
+        "ref": "EP07:E42",
+        "segment_index": 0,
+        "relative_start_ms": 7500,
+        "relative_end_ms": 10000,
+        "type": "action",
+        "speaker": null,
+        "text": "Gerald freezes, his arrogant bravado instantly vanishing as cold dread overtakes his face."
+      },
+      {
+        "ref": "EP07:E43",
+        "segment_index": 0,
+        "relative_start_ms": 9500,
+        "relative_end_ms": 14000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Low-angle close-up of Gerald looking up in sheer terror, his adam's apple bobbing nervously."
+      },
+      {
+        "ref": "EP07:E44",
+        "segment_index": 0,
+        "relative_start_ms": 12500,
+        "relative_end_ms": 14500,
+        "type": "dialogue",
+        "speaker": "ARISTOCRATIC WOMAN",
+        "text": "\"Gerald, don't let him frighten you.\""
+      },
+      {
+        "ref": "EP07:E45",
+        "segment_index": 0,
+        "relative_start_ms": 14600,
+        "relative_end_ms": 16000,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"What are you staring at?\""
+      },
+      {
+        "ref": "EP07:E46",
+        "segment_index": 0,
+        "relative_start_ms": 16000,
+        "relative_end_ms": 17500,
+        "type": "action",
+        "speaker": null,
+        "text": "Gerald rapidly turns on his heel toward the carriage, unwilling to face another second of the silent glare."
+      },
+      {
+        "ref": "EP07:E47",
+        "segment_index": 0,
+        "relative_start_ms": 16100,
+        "relative_end_ms": 17400,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"We are leaving.\""
+      },
+      {
+        "ref": "EP07:E48",
+        "segment_index": 0,
+        "relative_start_ms": 17500,
+        "relative_end_ms": 19800,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Aristocratic Woman, shocked and indignant as Gerald flees past her."
+      },
+      {
+        "ref": "EP07:E49",
+        "segment_index": 0,
+        "relative_start_ms": 18000,
+        "relative_end_ms": 19800,
+        "type": "dialogue",
+        "speaker": "ARISTOCRATIC WOMAN",
+        "text": "\"Leaving? Gerald!\""
+      },
+      {
+        "ref": "EP07:E50",
+        "segment_index": 0,
+        "relative_start_ms": 19800,
+        "relative_end_ms": 22500,
+        "type": "action",
+        "speaker": null,
+        "text": "Aristocratic Woman scrambles back into the carriage, hiking up her gown in a fluster before slamming the door shut."
+      },
+      {
+        "ref": "EP07:E51",
+        "segment_index": 0,
+        "relative_start_ms": 21000,
+        "relative_end_ms": 22000,
+        "type": "sound",
+        "speaker": null,
+        "text": "Carriage door slamming shut."
+      },
+      {
+        "ref": "EP07:E52",
+        "segment_index": 0,
+        "relative_start_ms": 22000,
+        "relative_end_ms": 22500,
+        "type": "camera",
+        "speaker": null,
+        "text": "Wide shot of the carriage rapidly jolting forward and disappearing down the misty road away from the cottage."
+      }
+    ]
+  },
+  {
+    "candidate_id": "c_9d2da2a5686ff4b5",
+    "scope": "episode",
+    "segments": [
+      {
+        "start_ms": 19500,
+        "end_ms": 39800,
+        "episode_id": "ep_007"
+      }
+    ],
+    "duration_ms": 20300,
+    "origin": "recovery_B2",
+    "clip_events": [
+      {
+        "ref": "EP07:E7",
+        "segment_index": 0,
+        "relative_start_ms": 0,
+        "relative_end_ms": 1500,
+        "type": "action",
+        "speaker": null,
+        "text": "Aristocratic Woman smirks cruelly as she surveys the humble stone cottage."
+      },
+      {
+        "ref": "EP07:E8",
+        "segment_index": 0,
+        "relative_start_ms": 1500,
+        "relative_end_ms": 4500,
+        "type": "action",
+        "speaker": null,
+        "text": "Juliana rinses the heavy mud from her hands in a cold rainwater puddle and rises to her feet, holding her head high."
+      },
+      {
+        "ref": "EP07:E9",
+        "segment_index": 0,
+        "relative_start_ms": 2500,
+        "relative_end_ms": 5000,
+        "type": "dialogue",
+        "speaker": "ARISTOCRATIC WOMAN",
+        "text": "\"This is where you live now?\""
+      },
+      {
+        "ref": "EP07:E10",
+        "segment_index": 0,
+        "relative_start_ms": 5000,
+        "relative_end_ms": 10300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium shot of Gerald standing beside Aristocratic Woman, sneering disdainfully."
+      },
+      {
+        "ref": "EP07:E11",
+        "segment_index": 0,
+        "relative_start_ms": 5500,
+        "relative_end_ms": 10300,
+        "type": "dialogue",
+        "speaker": "GERALD",
+        "text": "\"A fitting home for a woman who threw away everything for a penniless soldier.\""
+      },
+      {
+        "ref": "EP07:E12",
+        "segment_index": 0,
+        "relative_start_ms": 10300,
+        "relative_end_ms": 13300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Medium close-up of Juliana, defiant and unflinching despite her soiled dress and damp hair."
+      },
+      {
+        "ref": "EP07:E13",
+        "segment_index": 0,
+        "relative_start_ms": 10500,
+        "relative_end_ms": 13100,
+        "type": "dialogue",
+        "speaker": "JULIANA",
+        "text": "\"You came all this way just to insult my home?\""
+      },
+      {
+        "ref": "EP07:E14",
+        "segment_index": 0,
+        "relative_start_ms": 13300,
+        "relative_end_ms": 18000,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Aristocratic Woman erupting into high-pitched, malicious laughter beneath her parasol."
+      },
+      {
+        "ref": "EP07:E15",
+        "segment_index": 0,
+        "relative_start_ms": 13700,
+        "relative_end_ms": 18300,
+        "type": "dialogue",
+        "speaker": "ARISTOCRATIC WOMAN",
+        "text": "\"Home? Look at your hands, Juliana.\""
+      },
+      {
+        "ref": "EP07:E16",
+        "segment_index": 0,
+        "relative_start_ms": 18300,
+        "relative_end_ms": 20300,
+        "type": "camera",
+        "speaker": null,
+        "text": "Close-up of Juliana's mud-stained palms held open against her apron."
+      },
+      {
+        "ref": "EP07:E17",
+        "segment_index": 0,
+        "relative_start_ms": 18700,
+        "relative_end_ms": 20300,
+        "type": "dialogue",
+        "speaker": "ARISTOCRATIC WOMAN",
+        "text": "\"You look like a servant.\""
+      }
+    ]
+  }
+]

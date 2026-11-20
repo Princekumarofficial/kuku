@@ -1,0 +1,1740 @@
+{
+  "schema_version": "1.0",
+  "series_id": "series_001",
+  "scope": {
+    "type": "series"
+  },
+  "partial_series": false,
+  "promos": [
+    {
+      "candidate_id": "c_44b0b42f8a087044",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 55500,
+          "end_ms": 115500,
+          "episode_id": "ep_026"
+        }
+      ],
+      "duration_ms": 60000,
+      "hook": {
+        "description": "Within the opening 3000ms the Duchess is shown processing a warning with dark realization (E23) and trembling with certainty (E25), then states an immediate, high-stakes accusation that Rupert and Catherine want her dead and are poisoning her (E26). This gives an instant question about who is poisoning whom.",
+        "evidence_refs": [
+          "EP26:E23",
+          "EP26:E25",
+          "EP26:E26"
+        ]
+      },
+      "cliffhanger": {
+        "description": "In the final 3000ms the Duchess, with tears in her eyes, demands 'Where did you get this ring? Speak to me!' (E49), and the clip ends on that demand before any answer is given. The question is open and the ring's significance is not resolved within the clip, so this is an unresolved cliffhanger rather than a resolved intense moment.",
+        "evidence_refs": [
+          "EP26:E48",
+          "EP26:E49"
+        ]
+      },
+      "why_it_works": "A tense accusation of poisoning opens the clip, a visible ring triggers a shocking reaction, and the Duchess's urgent demand for an answer ends the clip on an open question.",
+      "scores": {
+        "hook": 8.0,
+        "cliffhanger": 8.5,
+        "standalone": 5.0,
+        "emotion": 8.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 7.4
+      },
+      "warnings": [
+        "Several named characters and objects (Rupert, Catherine, the amber dropper bottle, the signet ring) are introduced without enough context for a first-time viewer to understand their importance.",
+        "The ring's connection to the Duchess's reaction is shown only through reaction, so the viewer cannot tell what it means.",
+        "Juliana's backstory is asserted in dialogue but not explained, which weakens standalone clarity.",
+        "The poisoning premise is stated as belief and not confirmed, so the clip's stakes depend on information outside the clip.",
+        "Spoilers not checked",
+        "Identity and relationship of Rupert and Catherine",
+        "Why the Duchess believes she is being poisoned and whether the charcoal treatment is valid",
+        "Juliana's family history and why she was 'cast out'",
+        "Significance of the engraved signet ring and why it provokes the Duchess",
+        "Role and significance of the small amber dropper bottle on the bedside table",
+        "Meaning of the Duchess's 'seen a ghost' reaction",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 1,
+      "promo_id": "p_001"
+    },
+    {
+      "candidate_id": "c_e9fea6995b28d116",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 76000,
+          "end_ms": 124000,
+          "episode_id": "ep_023"
+        }
+      ],
+      "duration_ms": 48000,
+      "hook": {
+        "description": "The clip opens within 0-3000ms with a quiet bedside scene that quickly turns to a direct accusation, 'Someone is poisoning her,' at 3000ms, and the word 'Arsenic' at 10000ms raises the stakes early.",
+        "evidence_refs": [
+          "EP23:E38",
+          "EP23:E40",
+          "EP23:E45"
+        ]
+      },
+      "cliffhanger": {
+        "description": "The final 3000ms show Prudence's terror and her warning 'someone is coming' as the door handle is shown, and the clip ends before any visible arrival or resolution, so the tension is left open.",
+        "evidence_refs": [
+          "EP23:E63",
+          "EP23:E62",
+          "EP23:E61"
+        ]
+      },
+      "why_it_works": "A first-time viewer is pulled in by an immediate poisoning accusation and a dying Duchess, then left gripped by an unseen intruder and Prudence's terrified warning at the door.",
+      "scores": {
+        "hook": 8.0,
+        "cliffhanger": 8.5,
+        "standalone": 5.0,
+        "emotion": 8.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 7.4
+      },
+      "warnings": [
+        "Poisoner's identity and motive are unknown, so the accusation lacks a target",
+        "Characters are referred to without names or roles established in the clip",
+        "The door sequence ends before the intruder is revealed, which may frustrate a viewer without context",
+        "Remedy dialogue is brief, so the medical stakes are only partly clear",
+        "Spoilers not checked",
+        "Identity and relationship of the Duchess",
+        "Who Lady Juliana is and why she is treating the Duchess",
+        "Who Prudence is and her relationship to the others",
+        "What the leather journal contains and why it matters",
+        "Who is poisoning the Duchess and why",
+        "Who or what is approaching the door",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 2,
+      "promo_id": "p_002"
+    },
+    {
+      "candidate_id": "c_d566d29d2d4dcfb4",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 122800,
+          "end_ms": 154380,
+          "episode_id": "ep_032"
+        }
+      ],
+      "duration_ms": 31580,
+      "hook": {
+        "description": "The clip opens within 0-2200ms on Juliana crying out her defiance, and her line 'Because I am right!' at 200-2400ms grabs attention immediately. The opening lacks any stated stakes, so the hook is strong on emotion but thin on context.",
+        "evidence_refs": [
+          "EP32:E94",
+          "EP32:E95"
+        ]
+      },
+      "cliffhanger": {
+        "description": "In the final 3000ms, the glowing iron stops millimeters from Juliana's right eye (E116, 28400-31580ms), and the extreme close-up holds on her eye as the frame cuts to black (E117, 29200-31580ms). Nothing in the clip shows whether the iron touches her, so the tension is unresolved at the end.",
+        "evidence_refs": [
+          "EP32:E116",
+          "EP32:E117"
+        ]
+      },
+      "why_it_works": "Escalating defiance and rage culminate in a glowing iron stopping millimeters from Juliana's eye, cut to black before any outcome is shown.",
+      "scores": {
+        "hook": 7.5,
+        "cliffhanger": 8.5,
+        "standalone": 5.0,
+        "emotion": 8.5,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 7.325
+      },
+      "warnings": [
+        "A first-time viewer cannot tell who the characters are or why they are in conflict",
+        "Opening line 'Because I am right!' lacks a stated subject, weakening early clarity",
+        "The title and power dispute in the dialogue is not anchored to visible events",
+        "Cliffhanger depends on prior unexplained stakes for full impact",
+        "Several camera descriptions repeat the same tension beat, slowing the escalation in the middle section",
+        "Spoilers not checked",
+        "Identities and relationship of Catherine and Juliana are never established",
+        "The reason for the imprisonment and chains is not explained",
+        "The 'title' Juliana refers to in E107 has no stated referent",
+        "'Because I am right!' in E95 has no stated subject or prior claim",
+        "The significance of the branding iron as a punishment or threat is only implied",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 3,
+      "promo_id": "p_003"
+    },
+    {
+      "candidate_id": "c_27d98af6ac7900fb",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 57300,
+          "end_ms": 86000,
+          "episode_id": "ep_015"
+        }
+      ],
+      "duration_ms": 28700,
+      "hook": {
+        "description": "The opening starts within 0-3000ms with three thugs mocking a kneeling woman, the bald thug's line 'Crying over weeds!' and Juliana's 'Stop!' create immediate tension and an urgent question about what happens next.",
+        "evidence_refs": [
+          "EP15:E40",
+          "EP15:E41",
+          "EP15:E43"
+        ]
+      },
+      "cliffhanger": {
+        "description": "The clip ends in the final 3000ms with the Thug with Cap regrouped and gripping his club, Juliana's breath hitching as violence hangs on a knife's edge, and a cello swell cutting off abruptly. No fight outcome is shown, so the situation is unresolved at the end.",
+        "evidence_refs": [
+          "EP15:E54",
+          "EP15:E55"
+        ]
+      },
+      "why_it_works": "A cruel mockery and a raised club are followed by a dramatic rescue, and the clip ends on a suspended standoff that leaves the outcome open.",
+      "scores": {
+        "hook": 8.0,
+        "cliffhanger": 8.0,
+        "standalone": 5.0,
+        "emotion": 8.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 7.25
+      },
+      "warnings": [
+        "Several characters and motives are introduced without context, so a first-time viewer cannot tell who is who or why the conflict matters",
+        "The rescue and standoff are clear, but the stakes beyond the immediate threat are not established",
+        "The 'veteran' reference implies backstory that is not shown in the clip",
+        "Timing overlaps (for example E42 and E43, E45 and E46) make the exact sequence of beats slightly harder to follow",
+        "Spoilers not checked",
+        "Who Juliana is and why she is kneeling among herbs",
+        "Who Alexander is and his relationship to Juliana",
+        "Why the thugs are attacking her and what the herbs mean",
+        "The meaning of the thug's taunt 'veteran' and any backstory it implies",
+        "Why Juliana's reaction shifts to relief at Alexander's arrival",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 4,
+      "promo_id": "p_004"
+    },
+    {
+      "candidate_id": "c_322e033996b84b69",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 14300,
+          "end_ms": 53600,
+          "episode_id": "ep_011"
+        }
+      ],
+      "duration_ms": 39300,
+      "hook": {
+        "description": "The clip opens mid-confrontation with Juliana's sharp gesture and her shouted order to 'Leave!', which signals immediate conflict within the first 3000ms.](...)",
+        "evidence_refs": [
+          "EP11:E13",
+          "EP11:E14"
+        ]
+      },
+      "cliffhanger": {
+        "description": "The clip ends with Alexander saying 'Let them.' while Juliana looks at him in panicked confusion. The search is not carried out and the theft accusation is not resolved, so the outcome is left open.",
+        "evidence_refs": [
+          "EP11:E46",
+          "EP11:E47"
+        ]
+      },
+      "why_it_works": "Quick escalating accusations and a defiant wife end on Alexander's calm 'Let them.', leaving an open and tense question about the search.",
+      "scores": {
+        "hook": 8.0,
+        "cliffhanger": 8.0,
+        "standalone": 5.0,
+        "emotion": 8.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 7.25
+      },
+      "warnings": [
+        "Viewer cannot tell whether Alexander is guilty or bluffing, which weakens the stakes of the final line",
+        "Several characters' motives are implied rather than stated, so the conflict is hard to follow without prior context",
+        "The dialogue-heavy sequence has many cuts in a short span, which may make the emotional beats feel rushed",
+        "Spoilers not checked",
+        "Relationship and history between Juliana, Alexander and Gerald beyond the spoken lines",
+        "What the cottage and the gold pocket watch mean and whether a theft occurred",
+        "Why Alexander reverses from threatening Gerald to saying 'Search it' and 'Let them'",
+        "Role and authority of the Constable and the legal basis for the search",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 5,
+      "promo_id": "p_005"
+    },
+    {
+      "candidate_id": "c_86f12414ccaac16c",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 20400,
+          "end_ms": 63500,
+          "episode_id": "ep_003"
+        }
+      ],
+      "duration_ms": 43100,
+      "hook": {
+        "description": "Opens within 0-3000ms with a clear confrontation: a triumphant claim followed immediately by a formidable matriarch stepping in, creating immediate tension for a first-time viewer.",
+        "evidence_refs": [
+          "EP03:E17",
+          "EP03:E18"
+        ]
+      },
+      "cliffhanger": {
+        "description": "The clip ends mid-action with Juliana being forcibly removed and still resisting, with no resolution of her fate or the confrontation shown, so the outcome is unresolved at the final frame.",
+        "evidence_refs": [
+          "EP03:E47",
+          "EP03:E53"
+        ]
+      },
+      "why_it_works": "A rapid escalation from triumphant claim to a public, forceful expulsion of a sympathetic heroine creates immediate emotional stakes and an unresolved ending.",
+      "scores": {
+        "hook": 8.0,
+        "cliffhanger": 8.0,
+        "standalone": 5.0,
+        "emotion": 8.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 7.25
+      },
+      "warnings": [
+        "Opening context about the Lady in Gold Gown and the dispute over possession is unexplained for a first-time viewer",
+        "Relationships among characters are inferred only from dialogue and not clearly established",
+        "The clip relies on the viewer caring about Juliana without knowing her history",
+        "Ending is abrupt mid-action, which may feel truncated rather than deliberately suspenseful",
+        "Spoilers not checked",
+        "Who the Lady in Gold Gown is and why she claims something is 'mine'",
+        "What Juliana's relationship to the Noble Matriarch and her father is",
+        "What the family's injustice or 'choice' refers to",
+        "What is being claimed or taken away at the start",
+        "Why the cathedral is significant beyond being Juliana's mother's church",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 6,
+      "promo_id": "p_006"
+    },
+    {
+      "candidate_id": "c_a6ffa92980cce33a",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 0,
+          "end_ms": 41800,
+          "episode_id": "ep_018"
+        }
+      ],
+      "duration_ms": 41800,
+      "hook": {
+        "description": "The clip opens within 0-2100ms on flames crawling under a closed door with smoke pouring through, a strong immediate threat. The final evidence (EP18:E25, 39500-41800ms) carries the tension to the end with a line about being unable to get through.",
+        "evidence_refs": [
+          "EP18:E1",
+          "EP18:E2",
+          "EP18:E25"
+        ]
+      },
+      "cliffhanger": {
+        "description": "The exit is shown as completely sealed by wall-high flames (EP18:E23) and the characters conclude they cannot get through (EP18:E25). No escape or rescue is shown, so the situation is unresolved when the clip ends.",
+        "evidence_refs": [
+          "EP18:E23",
+          "EP18:E25"
+        ]
+      },
+      "why_it_works": "A fast-moving fire rescue escalates to a sealed exit and a fearful line of dialogue, leaving the danger unresolved at the end.",
+      "scores": {
+        "hook": 8.0,
+        "cliffhanger": 8.0,
+        "standalone": 5.0,
+        "emotion": 8.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 7.25
+      },
+      "warnings": [
+        "Characters and relationship are never established, so emotional investment depends on generic peril",
+        "Bandaged hands are shown without explanation",
+        "Juliana calls for Alexander twice and the repeated dialogue slightly slows momentum",
+        "The final line is the only in-clip statement of the blocked exit, so the stakes depend on the visual sealing alone",
+        "Spoilers not checked",
+        "Who Juliana and Alexander are and how they relate",
+        "Cause of the fire and why it spread so quickly",
+        "Why Juliana's hands are bandaged (EP18:E10)",
+        "What happened before the clip started",
+        "Why the room has no other exit or how the door was sealed",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 7,
+      "promo_id": "p_007"
+    },
+    {
+      "candidate_id": "c_c6632a6faca9e921",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 43400,
+          "end_ms": 76800,
+          "episode_id": "ep_003"
+        }
+      ],
+      "duration_ms": 33400,
+      "hook": {
+        "description": "The opening shot of the Noble Matriarch's disdain and her line calling Juliana a discarded daughter establish cruelty and conflict within the first 3000ms.",
+        "evidence_refs": [
+          "EP03:E34",
+          "EP03:E35"
+        ]
+      },
+      "cliffhanger": {
+        "description": "The clip ends with the Bearded Stranger still walking toward the altar while the Matriarch demands who he is, so the confrontation is unresolved at the end.",
+        "evidence_refs": [
+          "EP03:E62",
+          "EP03:E63"
+        ]
+      },
+      "why_it_works": "A cruel public humiliation of a sympathetic heroine is interrupted by a mysterious intruder, ending on an open challenge that demands the next moment.",
+      "scores": {
+        "hook": 8.0,
+        "cliffhanger": 8.0,
+        "standalone": 5.0,
+        "emotion": 8.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 7.25
+      },
+      "warnings": [
+        "Stranger's identity and motive are never established within the clip",
+        "Family conflict and father's decision are referenced without context",
+        "Juliana's backstory and relationship to the congregation are unexplained",
+        "Ending relies on a viewer caring about an unknown confrontation",
+        "Spoilers not checked",
+        "Who Lady Juliana is and why she is treated as a discarded daughter",
+        "The meaning of the father's choice of family and what is at stake",
+        "The identity and relevance of The Bearded Stranger",
+        "Why the cathedral ceremony is significant and why guards are present",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 8,
+      "promo_id": "p_008"
+    },
+    {
+      "candidate_id": "c_d1fa85c71174ddcf",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 10500,
+          "end_ms": 33800,
+          "episode_id": "ep_042"
+        }
+      ],
+      "duration_ms": 23300,
+      "hook": {
+        "description": "The opening line 'Who are you?' at 700ms within the first 3000ms poses an immediate question, and 'You already know.' sharpens the mystery of an identity being contested at a wedding.",
+        "evidence_refs": [
+          "EP42:E3",
+          "EP42:E4"
+        ]
+      },
+      "cliffhanger": {
+        "description": "The clip ends in the final 3000ms with Rupert terrified and the nobleman declaring 'Alexander died!' while the claim that this man is Alexander remains unconfirmed, so the identity question is left open rather than resolved.",
+        "evidence_refs": [
+          "EP42:E20",
+          "EP42:E21"
+        ]
+      },
+      "why_it_works": "A wedding is halted by a contested identity, with the clip ending on a shocking claim that Alexander died, leaving the viewer wanting to know who the man is.",
+      "scores": {
+        "hook": 7.5,
+        "cliffhanger": 8.5,
+        "standalone": 5.0,
+        "emotion": 8.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 7.25
+      },
+      "warnings": [
+        "Key character identities and prior events are not established, so the stakes are hard to grasp for a first-time viewer",
+        "The guard's defiance and Rupert's accusation lack explained motivation within the clip",
+        "The claim that Alexander died is stated without context, which weakens the reveal's impact",
+        "The rapid sequence of shouted lines and reaction shots makes it hard to track who is speaking and why",
+        "Spoilers not checked",
+        "Who Alexander, Juliana, Rupert and Catherine are and how they relate",
+        "What the wedding ceremony and the altar confrontation are about",
+        "Why the royal guard says 'we know who he is' and what he knows",
+        "Why Alexander is presumed dead and what the 'imposter' accusation is based on",
+        "Why Juliana is manacled",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 9,
+      "promo_id": "p_009"
+    },
+    {
+      "candidate_id": "c_190210ee326ae192",
+      "spoiler_check": "not_checked",
+      "scoring_mode": "blind_only",
+      "segments": [
+        {
+          "start_ms": 7400,
+          "end_ms": 63200,
+          "episode_id": "ep_015"
+        }
+      ],
+      "duration_ms": 55800,
+      "hook": {
+        "description": "The clip opens with a thug over the chamomile, then Juliana bursts in with bandaged hands and shouts 'Stop! What are you doing?!', creating immediate conflict within the first seconds.",
+        "evidence_refs": [
+          "EP15:E6",
+          "EP15:E9",
+          "EP15:E10"
+        ]
+      },
+      "cliffhanger": {
+        "description": "The Tall Thug raises his club to crush the remaining herbs, and the clip ends with the Thug with Cap stiffening as footsteps pound in the darkness. The threat is unresolved at the final frame.",
+        "evidence_refs": [
+          "EP15:E42",
+          "EP15:E44"
+        ]
+      },
+      "why_it_works": "A sympathetic heroine's wounded defiance against cruel thugs escalates to a raised club and an unseen threat arriving in the dark, leaving the moment unresolved.",
+      "scores": {
+        "hook": 7.5,
+        "cliffhanger": 8.0,
+        "standalone": 5.0,
+        "emotion": 8.0,
+        "spoiler_significance": null,
+        "spoiler_damage": null,
+        "final": 7.1
+      },
+      "warnings": [
+        "Stakes and backstory rely on unexplained references such as 'my mother's plants' and the bandaged hands",
+        "Thugs are introduced by descriptors without established names or roles, which weakens first-viewer orientation",
+        "The ending's cliffhanger depends on an unseen arrival with no prior setup",
+        "Repeated shoving and pleading beats may feel formulaic without new information",
+        "Spoilers not checked",
+        "Juliana's relationship to the garden and to her mother is not explained beyond 'My mother's plants'",
+        "Why Juliana's hands are bandaged is not shown",
+        "The identities and motives of the thugs are not established",
+        "The significance of the chamomile plants and why they were targeted is unclear",
+        "The source of the footsteps and who is approaching are unknown",
+        "Script timestamps; verify against video before editing."
+      ],
+      "rank": 10,
+      "promo_id": "p_010"
+    }
+  ],
+  "rejected_candidates": [
+    {
+      "candidate_id": "c_418018ae8a78fae5",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_0adc5a864c7df60a",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_2e698fc5fa9da435",
+      "reasons": [
+        "ENDING_RESOLVED",
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_2312f74871c57405",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_79d97ae21e6f3f51",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_86ac2a989212de7c",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_08cefcd5985ef1d5",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_93ec58705d004b19",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_6fef83f5f89d45fe",
+      "reasons": [
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_51ecd2454634c1b8",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_1da504e8a9bd17cb",
+      "reasons": [
+        "ENDING_RESOLVED",
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_123dd766f28ea6d1",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_31f1fdd2691d44e4",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_d1ffb4e15531da8b",
+      "reasons": [
+        "WEAK_HOOK",
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_8adbf143b38993bd",
+      "reasons": [
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_f4537e624f84c3c3",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_5ee9a7d1fb244e8c",
+      "reasons": [
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_55f2d9316ba29ac6",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_046f76ba91ab2b38",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_e47e00c2153ba51d",
+      "reasons": [
+        "ENDING_RESOLVED",
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_9d2da2a5686ff4b5",
+      "reasons": [
+        "ENDING_RESOLVED",
+        "WEAK_CLIFFHANGER"
+      ]
+    },
+    {
+      "candidate_id": "c_da381f17285521c5",
+      "reasons": [
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_7034309997af5a9b",
+      "reasons": [
+        "ENDING_RESOLVED",
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_fdce87bfe0ebafe7",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_fe848e62a5960eef",
+      "reasons": [
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_133cc06b9a7d96a9",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_6fe5af8ce5bea6d0",
+      "reasons": [
+        "WEAK_CLIFFHANGER"
+      ]
+    },
+    {
+      "candidate_id": "c_a4e00454dfae405a",
+      "reasons": [
+        "WEAK_CLIFFHANGER"
+      ]
+    },
+    {
+      "candidate_id": "c_8c64a9d3715abf17",
+      "reasons": [
+        "ENDING_RESOLVED",
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_f7387bd1804568f4",
+      "reasons": [
+        "ENDING_RESOLVED",
+        "WEAK_CLIFFHANGER"
+      ]
+    },
+    {
+      "candidate_id": "c_62a40544c493f242",
+      "reasons": [
+        "ENDING_RESOLVED",
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_30ca259ec7d8b287",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_1623b5859ec212b8",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_d04f318cb3a0f72a",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_a1d935791837c211",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_22982f99753bff7a",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_d0bd79a1f00ede17",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_52a0f8eb39f009fa",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_18223d12776e0588",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_bc6c54d96d0b664c",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_810249b7ab79e38c",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_e877d6e86e6be790",
+      "reasons": [
+        "ENDING_RESOLVED",
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_8482e1a66953db13",
+      "reasons": [
+        "ENDING_RESOLVED",
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_b6643efb629348c2",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_8c45d9322f9cb194",
+      "reasons": [
+        "ENDING_RESOLVED",
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_41f4a37199a36fda",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_6afd9957ed4432f5",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_b4968985f372a4b6",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_26918d00e903ac92",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_94444b1e6d2526d7",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_a6091b1effa13ede",
+      "reasons": [
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_c62897bc3307358a",
+      "reasons": [
+        "ENDING_RESOLVED",
+        "WEAK_HOOK",
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_027e8e52f36304eb",
+      "reasons": [
+        "ENDING_RESOLVED",
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_9f38e707ea25052e",
+      "reasons": [
+        "ENDING_RESOLVED",
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_51983e8a35ddc017",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_711b5e1a0bdc1bf6",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_330056ea086f3b99",
+      "reasons": [
+        "ENDING_RESOLVED",
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_f4a6fdc91e4fad26",
+      "reasons": [
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_7adf4d08652a66c0",
+      "reasons": [
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_39085fc4fef39a0a",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_7f1e6384cab156b0",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_779446e63c3d681f",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_d6acd0dc511f0e96",
+      "reasons": [
+        "WEAK_CLIFFHANGER"
+      ]
+    },
+    {
+      "candidate_id": "c_be3ba494a3f9afb1",
+      "reasons": [
+        "WEAK_CLIFFHANGER"
+      ]
+    },
+    {
+      "candidate_id": "c_b8a32d3bd409c2b3",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_17f1541326629c7b",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_ae76b04035ab88f1",
+      "reasons": [
+        "ENDING_RESOLVED",
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_cd902cd502be4768",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_4088fbf1bf41aec1",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_5264fad1d7633819",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_f08dbd928e265d55",
+      "reasons": [
+        "WEAK_CLIFFHANGER"
+      ]
+    },
+    {
+      "candidate_id": "c_ab1bfa5f9ce0e227",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_749a76a17c48fb25",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_db2ad5d21f45d61b",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_bddd3eadfc41766d",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_7bfd0f70bcec7457",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_40712e74bb5c3fa0",
+      "reasons": [
+        "ENDING_RESOLVED",
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_f2029e49a4d4299a",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_bd71a12680ca240c",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_b9a9d7f4be75d3d9",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_75cfade293d72661",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_2185fde0c7ba67bb",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_6ab2f746a4640b80",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_b78fac295bbbb1a0",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_c7c1ccf7b84bce75",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_71dc3d11ce1bc5cb",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_349a1d22627eadab",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_a23b28622ff8efaf",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_303520ec62e3b718",
+      "reasons": [
+        "ENDING_RESOLVED",
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_24fc050f7ad604da",
+      "reasons": [
+        "ENDING_RESOLVED",
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_c60fba4554a7e90f",
+      "reasons": [
+        "ENDING_RESOLVED",
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_b5af9aaea1a03cc6",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_e81bed24a80a87bc",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_a6cd278531d9e2c9",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_7f471350496dfc7e",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_07c164e116382120",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_9a8b7b8b2963bb09",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_ffee80337a1cebc1",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_db732446cb310f7e",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_458f36d8f36b80bf",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_b7bbfbd889e79c9b",
+      "reasons": [
+        "WEAK_CLIFFHANGER"
+      ]
+    },
+    {
+      "candidate_id": "c_89655934eb3b1512",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_e87593602a9b9b6d",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_dfd2e2beb703c748",
+      "reasons": [
+        "ENDING_RESOLVED",
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_e7a458039f4f2bd7",
+      "reasons": [
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_3b23ee8710d9a1b1",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_2124e53183c80ee0",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_da374667ed694c0d",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_8825b2e3a59164cf",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_1a7dba607b251bd5",
+      "reasons": [
+        "ENDING_RESOLVED",
+        "WEAK_CLIFFHANGER"
+      ]
+    },
+    {
+      "candidate_id": "c_ea6e461239fbd658",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_500bc1dce44a7a53",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_16a3dbecca95d760",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_1fed7e8084655e1b",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_b42698d4fdcab2af",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_6a8c2e2c4719bf06",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_3d4c709012cb38e5",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_e65480595f10cc66",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_d0309feb9df5ccd8",
+      "reasons": [
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_d038d3f2df46b782",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_de7243504249b884",
+      "reasons": [
+        "WEAK_HOOK",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_4a97838d6279a23c",
+      "reasons": [
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_d0a470d84e9dfdd0",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_5ec9503afbc5760d",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_53709a05ce84ad76",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_94781a969ce77577",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_985efcc8e2bed806",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_cba682b15fa60ec5",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_5206c6d06005f9c7",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_dd824cbfee62a14e",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_b2303a2e34352c2b",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_5ecbf87168bee037",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_8e2d1981f8499c28",
+      "reasons": [
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_0078e8c80bc8a0ab",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_76e3b3f814d0421c",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_5df7ee69d82569c8",
+      "reasons": [
+        "ENDING_RESOLVED",
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_73f3fdcbda2d91c7",
+      "reasons": [
+        "ENDING_RESOLVED",
+        "WEAK_CLIFFHANGER",
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_f05bb9c9fcff10a8",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_c229c54873e8c31a",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_7f9ceb1d70f1ca0b",
+      "reasons": [
+        "ENDING_RESOLVED",
+        "WEAK_CLIFFHANGER"
+      ]
+    },
+    {
+      "candidate_id": "c_6303b16c81b3d238",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_72c50696b7fb496e",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_ba4503fd4f1cb104",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_d0ce6f11cf86ed8a",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_fc7cad487494e7ea",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_cda128f4a321cbbe",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_14f0ab5a715e28e0",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_98ea1855b9d10c87",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_377be08c2c58ecbd",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_d8e479da24c0779f",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_90b3b51146cfbaab",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_e9039e35434520f3",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_586d5fa3582519cd",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_e2439e4ad9fdcd68",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_43e985d45b573b5b",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_80b86072e41514e4",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_740c5118e1126b6d",
+      "reasons": [
+        "LOW_STANDALONE_CLARITY"
+      ]
+    },
+    {
+      "candidate_id": "c_357065232913879f",
+      "reasons": [
+        "HEAVY_TIME_OVERLAP"
+      ]
+    },
+    {
+      "candidate_id": "c_a57055fd5e4e3b5e",
+      "reasons": [
+        "OUTSIDE_TOP_K"
+      ]
+    },
+    {
+      "candidate_id": "c_a5a2ff021a10c623",
+      "reasons": [
+        "OUTSIDE_TOP_K"
+      ]
+    },
+    {
+      "candidate_id": "c_54e059df263968b6",
+      "reasons": [
+        "OUTSIDE_TOP_K"
+      ]
+    },
+    {
+      "candidate_id": "c_1585fd4ff1dea994",
+      "reasons": [
+        "OUTSIDE_TOP_K"
+      ]
+    },
+    {
+      "candidate_id": "c_319530fe97c3c62b",
+      "reasons": [
+        "OUTSIDE_TOP_K"
+      ]
+    },
+    {
+      "candidate_id": "c_cdf45fecd94732df",
+      "reasons": [
+        "OUTSIDE_TOP_K"
+      ]
+    },
+    {
+      "candidate_id": "c_e94fa21d512bae86",
+      "reasons": [
+        "OUTSIDE_TOP_K"
+      ]
+    },
+    {
+      "candidate_id": "c_ea3b8ec685ae45e3",
+      "reasons": [
+        "OUTSIDE_TOP_K"
+      ]
+    },
+    {
+      "candidate_id": "c_57e44812930bf2a2",
+      "reasons": [
+        "OUTSIDE_TOP_K"
+      ]
+    },
+    {
+      "candidate_id": "c_5fd693cb18637eea",
+      "reasons": [
+        "OUTSIDE_TOP_K"
+      ]
+    },
+    {
+      "candidate_id": "c_d3038e669a203350",
+      "reasons": [
+        "OUTSIDE_TOP_K"
+      ]
+    },
+    {
+      "candidate_id": "c_205050aba48891c3",
+      "reasons": [
+        "OUTSIDE_TOP_K"
+      ]
+    },
+    {
+      "candidate_id": "c_2ba8faaeeb22c3b7",
+      "reasons": [
+        "OUTSIDE_TOP_K"
+      ]
+    },
+    {
+      "candidate_id": "c_bc3a2314b0788f51",
+      "reasons": [
+        "OUTSIDE_TOP_K"
+      ]
+    },
+    {
+      "candidate_id": "c_bc6a93c98939499f",
+      "reasons": [
+        "OUTSIDE_TOP_K"
+      ]
+    },
+    {
+      "candidate_id": "c_10693ed7c7cf2c82",
+      "reasons": [
+        "OUTSIDE_TOP_K"
+      ]
+    },
+    {
+      "candidate_id": "c_2008e1edd290c0e6",
+      "reasons": [
+        "OUTSIDE_TOP_K"
+      ]
+    },
+    {
+      "candidate_id": "c_30ae3b98455426af",
+      "reasons": [
+        "OUTSIDE_TOP_K"
+      ]
+    },
+    {
+      "candidate_id": "c_5b5362525e113931",
+      "reasons": [
+        "OUTSIDE_TOP_K"
+      ]
+    },
+    {
+      "candidate_id": "c_6a30a81da166616f",
+      "reasons": [
+        "OUTSIDE_TOP_K"
+      ]
+    },
+    {
+      "candidate_id": "c_8b32c33ce42683cd",
+      "reasons": [
+        "OUTSIDE_TOP_K"
+      ]
+    },
+    {
+      "candidate_id": "c_be31937cde63952a",
+      "reasons": [
+        "OUTSIDE_TOP_K"
+      ]
+    },
+    {
+      "candidate_id": "c_c6c77a33627ff6ec",
+      "reasons": [
+        "OUTSIDE_TOP_K"
+      ]
+    },
+    {
+      "candidate_id": "c_d0fd4eeddc4f03dc",
+      "reasons": [
+        "OUTSIDE_TOP_K"
+      ]
+    },
+    {
+      "candidate_id": "c_ec6117177e5de0eb",
+      "reasons": [
+        "OUTSIDE_TOP_K"
+      ]
+    },
+    {
+      "candidate_id": "c_ee76ac2c46d18ae1",
+      "reasons": [
+        "OUTSIDE_TOP_K"
+      ]
+    },
+    {
+      "candidate_id": "c_f632d2f70718a188",
+      "reasons": [
+        "OUTSIDE_TOP_K"
+      ]
+    },
+    {
+      "candidate_id": "c_af1f5a1fd6ebd224",
+      "reasons": [
+        "OUTSIDE_TOP_K"
+      ]
+    },
+    {
+      "candidate_id": "c_f8189f8c8e9d945e",
+      "reasons": [
+        "OUTSIDE_TOP_K"
+      ]
+    },
+    {
+      "candidate_id": "c_4c69dfa6d67a0ecd",
+      "reasons": [
+        "OUTSIDE_TOP_K"
+      ]
+    },
+    {
+      "candidate_id": "c_fd28d4156f907332",
+      "reasons": [
+        "OUTSIDE_TOP_K"
+      ]
+    },
+    {
+      "candidate_id": "c_db715e4c90fc52bc",
+      "reasons": [
+        "OUTSIDE_TOP_K"
+      ]
+    }
+  ]
+}
