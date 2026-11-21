@@ -1,46 +1,67 @@
-# PromoFinder — Screenplay-to-Promo Discovery
+# PromoFinder — source-backed promo discovery
 
-**Applicant:** [Your name] · **Roll no.:** [Your roll number] · **Branch:** [Your branch]  
-**Chosen problem:** Problem 1 — discover and rank promotional clips from episode scripts.
+**PRINCE KUMAR · Roll no. 230051013 · Engineering Physics**  
+**Problem 1:** Discover and rank promotional clips from episode scripts.  
+**Prototype:** https://diningfee.iiti.ac.in/kuku/  
+**Walkthrough:** https://canva.link/znz61mwqzt93y03  
+**Raw outputs:** [Add the publicly accessible folder URL before submission.]
 
-**Prototype:** [Add a public GitHub repository or deployed-app URL]  
-**Raw outputs:** `ui/jobs/7245de292306/runs/20261120T214934Z_recovered/`  
-**Human-readable ad scripts:** `ui/jobs/7245de292306/runs/20261120T214934Z_recovered/outputs/human_readable_ads.md`  
-**Walkthrough:** [Optional: add a public video URL]
+## Problem choice and scope
 
-## Why this problem
+I chose promo discovery because it combines creative judgment with constraints that can be checked independently: a compelling story moment still needs usable boundaries and traceable source dialogue. The supplied scripts let me test the entire workflow on real inputs. My prototype recommends cuts and exports full scripts with timestamps; it does not generate dialogue or edit video.
 
-I chose this problem because it interested me: I was curious whether AI could find compelling promo moments in a story, and the episode-script data was already available to experiment with. I scoped the prototype to recommendations and an editor-ready, source-backed cut list—not video editing. It targets 20–60 second promos with an early hook, an unresolved ending and enough context to work for a first-time viewer.
+The target is a 20–60-second promo with a hook in the first three seconds, an unresolved ending, and enough immediate context for a new viewer. These are editorial design choices, not proven predictors of conversion. Script timestamps are assumed usable but require verification against footage. The full run used all 50 episodes, four candidates per episode, Haiku 5.5, batch processing, and no cross-episode generation or spoiler checks. Series-wide ranking still compares candidates from every episode.
 
-I assume scripts contain usable scene/event timestamps. These are screenplay times, not frame-accurate video timecodes. The recorded run used all 50 supplied episodes; cross-episode discovery and spoiler review were disabled.
+## Pipeline: inputs, decisions, and outputs
 
-## How it works
-
-1. **Parse (Python):** Read each script, validate scenes and timed events, preserve overlapping dialogue/action/camera cues, and assign stable IDs and source hashes. The parsed timeline is the source of truth.
-2. **Understand and discover (LLM):** Analyze episodes for story beats, then synthesize a series view. Use that context and the source timeline to suggest promo hooks and unresolved endings. Outputs use structured schemas and must cite known event IDs.
-3. **Build candidates (Python):** Expand suggested anchors into source windows. Enforce supported boundaries, duration, dialogue integrity and source references; reject invalid windows rather than inventing footage.
-4. **Evaluate and rank:** A blind LLM reviewer sees only the candidate and its events—not series notes or the discovery rationale—and rates hook, cliffhanger, standalone clarity and emotion. A separate story-aware spoiler review is available. Python then applies hard gates, calculates the weighted score, suppresses clips with at least 80% time overlap, and exports episode/series selections plus reports and cut lists.
-
-The split is deliberate: models judge narrative and creative quality; code owns provenance, timing, validation and ranking. At production volume, per-episode work can be bounded and cached, with asynchronous provider batches where available; series synthesis remains a shared step. Cost and latency depend on model, candidate cap and provider limits, so they should be measured per run. Editors still verify footage, context, tone and final cuts.
-
-## Evaluation, evidence and limits
-
-The saved run processed **50 episodes** and **200 candidates**. All 200 received blind-review outputs, with **0 recorded evaluation failures**; the series export selected **10 promos**. Recovery reused cached results and made **0 new API requests**. The resulting scripts include source timecodes, dialogue and visual/sound cues.
-
-These are model evaluations, **not** human ratings or a labeled quality benchmark. Deterministic checks independently enforce source/evidence matching, a hook in the opening 3 seconds, ending evidence in the final 3 seconds, an unresolved ending, minimum ratings and overlap suppression. On this run, invalid proposed windows—including partial dialogue and out-of-range durations—were rejected. The repository also has offline parser, construction, provider, ranking and pipeline tests; these check software behavior, not creative quality. No human review or audience-performance test has been completed.
-
-The saved run was blind-only: spoiler checks were off. Rankings can be subjective, clips can lack character context, source timecodes can drift from video, and hard gates may reject usable moments. Camera/action text can describe more than the clipped portion; verify against footage. Full spoiler assessment requires enabling it with the relevant story context.
-
-## AI tools
-
-I used **ChatGPT to help build the app**. The recorded run used **Anthropic Claude Haiku 5.5** for structured story analysis, opportunity discovery and blind evaluations. One observed model error was proposing clip windows that cut through dialogue or fell outside the target duration; Python rejected those windows before evaluation.
-
-## Run and inspect
-
-From the repository root on Windows, run `.\ui\start.ps1` to launch the dashboard. Select episodes and configure a provider in the app; parse-only mode runs without API calls. To regenerate the readable ads for the saved run:
-
-```powershell
-.\.venv\Scripts\python.exe scripts\render_ads.py ui\jobs\7245de292306\runs\20261120T214934Z_recovered
+```text
+Selected episode scripts
+  → 1. Parse → 2. Episode analysis → 3. Series analysis
+  → 4. Opportunity discovery → 5. Clip construction
+  → 6. Blind quality review → 7. Optional spoiler review
+  → 8. Rank and export → Editor verifies cuts against video
 ```
 
-See [README.md](README.md), [PLAN.md](PLAN.md) and [ui/README.md](ui/README.md) for implementation and operating details.
+| Step / owner | What enters, what happens, what comes out |
+|---|---|
+| **1. Parse · Python** | Timestamped scripts → parse scenes and overlapping dialogue/action/camera events → source-backed events with IDs, millisecond timestamps, hashes, and parsing warnings. |
+| **2. Episode analysis · LLM** | Each parsed timeline → identify characters, beats, revelations, and unresolved questions → one structured analysis per episode. Independent requests use a batch. |
+| **3. Series analysis · LLM** | All selected episode analyses → connect arcs and important revelations → shared series context. Runs once after episode analysis, using the standard API. |
+| **4. Opportunity discovery · LLM** | Episode timeline + episode analysis + series context → propose hooks, endings, and required context by event ID → opportunities, not finished clips. Batched across episodes; optional cross-episode discovery is off in this run. |
+| **5. Clip construction · Python** | Opportunities + high-intensity fallback beats → enumerate source windows; check duration, boundaries, whole dialogue events, and context inclusion → up to four candidates per episode plus construction-rejection records. No model call. |
+| **6. Blind review · LLM** | Each candidate's full extracted clip, without story summaries or discovery rationale → judge hook, cliffhanger, clarity, and emotion → scores, cited evidence, and weaknesses. Batched across all episodes. |
+| **7. Spoiler review · LLM, optional** | Candidate + series context + episode revelations → assess revealed resolutions and spoiler damage → separate spoiler assessment. Supports batching; disabled in the measured run and labeled not checked. |
+| **8. Rank/export · Python** | Validated evaluations → apply quality gates, weighted scoring, and overlap suppression → episode shortlists, top 10 series promos, full cut scripts, and rejection reasons. No model call. |
+
+The blind-only score weights hook/cliffhanger/clarity/emotion at **30/30/25/15%**. Hook, cliffhanger, and clarity must each reach 5; the ending must be unresolved, with evidence in the final three seconds. Candidates overlapping at least 80% of the shorter clip are deduplicated. Series ranking uses all accepted candidates, not only episode winners. These thresholds and weights are editorial heuristics.
+
+The dashboard exposes episode selection, interchangeable agent models, session-only API keys, batch options, stage inputs/outputs, and full candidate scripts. An editor verifies context, tone, visual continuity, and actual footage before using a recommendation.
+
+## Evidence: full-input run and honest failures
+
+| Measured outcome | Result |
+|---|---:|
+| Episodes processed / candidates evaluated | 50 / 200 |
+| Evaluation failures after offline recovery | 0 |
+| Candidates rejected by quality gates | 157 |
+| Additional overlap exclusions | 3 |
+| Episode-level selections / series shortlist | 40 / 10 |
+| Episodes with no selected promo | 22 |
+
+Successful validation is not proof of creative quality. There is no labeled human benchmark or audience-performance experiment. The principal measured weakness is **standalone clarity**: 147 candidates failed its threshold, and 112 failed only that rule. One Episode 13 candidate scored 7 for hook, 8 for cliffhanger, 9 for emotion, but 4 for clarity; it was rejected. The judge sometimes demands relationship history that could instead be useful curiosity. Next evaluation should distinguish inability to understand the immediate conflict from intentionally unanswered questions, using editor-rated examples.
+
+Four candidates limit search recall. Cliffhanger gates exclude some romantic or resolved-payoff promos. Whole dialogue events do not guarantee complete conversations; clipped camera/action events can yield awkward shot fragments. Spoiler safety was not evaluated. A parser assumption equating timestamp gaps with missing source proved too restrictive for complete scripts: its construction rejection was disabled, but parser warnings and discovery-prompt coverage restrictions still need reconciliation. The arbitrary preference for clips near 35 seconds was also removed; the recovered run preserves its original candidates rather than claiming a fresh run under every later change.
+
+## Scale, cost, and repeatability
+
+Independent requests are batched by agent; successful validated responses are cached by request content and settings. Model/provider settings are interchangeable through the dashboard. Series analysis remains a shared dependency. Approximately **$0.33** is attributable to recorded completed requests in this run, including recorded repairs, using published Haiku rates; this is a token-based estimate, not a billing receipt, and excludes an outstanding repair batch. The series prompt exceeded 100K tokens and incurred higher input pricing.
+
+Across a catalogue, isolate jobs by show, retain immutable source versions, queue bounded batches, and move results/cache to durable shared storage. Long shows need hierarchical series summaries and targeted context retrieval; sending every episode summary in one request will not scale indefinitely. Add spend limits, reliable job recovery, authentication, and human quality calibration before production. These are extensions, not capabilities claimed by this local prototype.
+
+## AI assistance and reproducibility
+
+I used ChatGPT/Codex to help design, implement, debug, and review the system; Haiku 5.5 performed the recorded narrative tasks. AI got evidence formatting wrong: 40 of 200 blind responses appended timestamps or descriptions to event IDs. Strict validation caused slow individual repair batches. I added narrow normalization that accepts only IDs present in that candidate, retained rejection of unknown references, and recovered all 200 saved reviews without new API requests. Six episode analyses also needed ID-format repairs. Later batch handling groups repairs instead of waiting on each separately.
+
+The offline suite passed **51 tests**, with **3 coverage-dependent tests explicitly skipped**. It checks software contracts, not audience appeal. Run instructions are in `README.md` and `ui/README.md`; the dashboard can process new scripts and swap models for an interview demonstration.
+
+**Raw evidence to share:** `ui/jobs/7245de292306/batches/` contains original provider responses; preserve these unedited. Include the original run `runs/20261120T211212022336Z/` and the separately labeled recovered run `runs/20261120T214934Z_recovered/` under that job. The latter contains normalized evaluations, rankings, and `recovery.json`; it must not be presented as untouched model output.
